@@ -3,806 +3,569 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>QazAkx.olymp - Олимпиадная платформа по химии</title>
+    <title>Онлайн-уроки по химии для подготовки к олимпиадам</title>
     <style>
-        /* Базовые стили */
-        :root {
-            --primary: #6C63FF;
-            --primary-dark: #4A42D5;
-            --accent: #FF6584;
-            --success: #4CAF50;
-            --background: #F8FAFF;
-            --text: #333333;
-            --card: #FFFFFF;
-            --border: #E5E7EB;
-        }
-        
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
-            font-family: 'Segoe UI', 'Inter', sans-serif;
         }
-        
+
         body {
-            background-color: var(--background);
-            color: var(--text);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             line-height: 1.6;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             min-height: 100vh;
+            padding: 20px;
         }
-        
-        /* Контейнеры */
+
         .container {
             max-width: 1200px;
             margin: 0 auto;
-            padding: 0 20px;
-        }
-        
-        /* Страница 1: Главная */
-        .page {
-            display: none;
-            min-height: 100vh;
-            padding-top: 80px;
-        }
-        
-        .page.active {
-            display: block;
-        }
-        
-        /* Навигация */
-        .navbar {
             background: white;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-            position: fixed;
-            width: 100%;
-            top: 0;
-            z-index: 1000;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
         }
-        
-        .nav-content {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 20px 0;
-        }
-        
-        .logo {
-            font-size: 24px;
-            font-weight: 800;
-            color: var(--primary);
-            text-decoration: none;
-        }
-        
-        .logo span {
-            color: var(--accent);
-        }
-        
-        /* Кнопки */
-        .btn {
-            background: var(--primary);
+
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
-            border: none;
-            padding: 12px 28px;
-            border-radius: 10px;
-            font-weight: 600;
-            cursor: pointer;
-            transition: all 0.3s;
-            text-decoration: none;
-            display: inline-block;
-            font-size: 16px;
-        }
-        
-        .btn:hover {
-            background: var(--primary-dark);
-            transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(108, 99, 255, 0.3);
-        }
-        
-        .btn-secondary {
-            background: transparent;
-            border: 2px solid var(--primary);
-            color: var(--primary);
-        }
-        
-        .btn-secondary:hover {
-            background: var(--primary);
-            color: white;
-        }
-        
-        .btn-large {
-            padding: 16px 40px;
-            font-size: 18px;
-            border-radius: 12px;
-        }
-        
-        /* Главный баннер */
-        .hero {
+            padding: 40px 30px;
             text-align: center;
-            padding: 80px 0;
         }
-        
-        .hero h1 {
-            font-size: 3rem;
-            margin-bottom: 20px;
-            color: var(--primary);
+
+        .header-content h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
         }
-        
-        .hero p {
+
+        .header-content p {
             font-size: 1.2rem;
-            max-width: 600px;
-            margin: 0 auto 40px;
-            color: #666;
-        }
-        
-        /* Карточки */
-        .card {
-            background: var(--card);
-            border-radius: 16px;
-            padding: 30px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.08);
-            transition: all 0.3s;
-            border: 1px solid var(--border);
-        }
-        
-        .card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 15px 40px rgba(0,0,0,0.12);
-        }
-        
-        .card-icon {
-            font-size: 48px;
+            opacity: 0.9;
             margin-bottom: 20px;
         }
-        
-        .card h3 {
-            font-size: 1.5rem;
-            margin-bottom: 15px;
-            color: var(--primary);
-        }
-        
-        /* Сетки */
-        .grid {
-            display: grid;
-            gap: 30px;
-        }
-        
-        .grid-2 {
-            grid-template-columns: repeat(2, 1fr);
-        }
-        
-        .grid-3 {
-            grid-template-columns: repeat(3, 1fr);
-        }
-        
-        .grid-4 {
-            grid-template-columns: repeat(4, 1fr);
-        }
-        
-        .grid-5 {
-            grid-template-columns: repeat(5, 1fr);
-        }
-        
-        /* Бейджи */
-        .badge {
+
+        .teacher-card {
             display: inline-block;
-            padding: 6px 12px;
-            background: #F0F2FF;
-            color: var(--primary);
-            border-radius: 20px;
-            font-size: 0.9rem;
-            font-weight: 600;
+            background: rgba(255, 255, 255, 0.2);
+            padding: 15px 25px;
+            border-radius: 50px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+        }
+
+        .main-content {
+            padding: 40px 30px;
+        }
+
+        .filters {
+            background: #f8f9fa;
+            padding: 25px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+        }
+
+        .filters h2 {
+            color: #333;
+            margin-bottom: 20px;
+            font-size: 1.5rem;
+        }
+
+        .filter-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
             margin-bottom: 15px;
         }
-        
-        /* Классы */
-        .grade-btn {
-            width: 140px;
-            height: 140px;
-            background: white;
-            border: 2px solid var(--border);
-            border-radius: 20px;
+
+        .filter-group {
             display: flex;
             flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            cursor: pointer;
-            transition: all 0.3s;
         }
-        
-        .grade-btn:hover {
-            border-color: var(--primary);
-            transform: scale(1.05);
+
+        .filter-group label {
+            font-weight: 600;
+            margin-bottom: 8px;
+            color: #555;
         }
-        
-        .grade-btn.active {
-            background: var(--primary);
-            color: white;
-            border-color: var(--primary);
-        }
-        
-        .grade-number {
-            font-size: 40px;
-            font-weight: 700;
-            margin-bottom: 10px;
-        }
-        
-        /* Задачи */
-        .task-card {
+
+        select {
+            padding: 12px 15px;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            font-size: 1rem;
             background: white;
-            border-radius: 12px;
-            padding: 25px;
-            border-left: 4px solid var(--primary);
-            margin-bottom: 20px;
-            border: 1px solid var(--border);
+            cursor: pointer;
+            transition: all 0.3s ease;
         }
-        
-        .task-header {
-            display: flex;
-            justify-content: space-between;
+
+        select:hover {
+            border-color: #667eea;
+        }
+
+        .reset-btn {
+            background: #e74c3c;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            border-radius: 10px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: inline-flex;
             align-items: center;
-            margin-bottom: 15px;
+            gap: 8px;
         }
-        
-        .task-title {
-            font-size: 1.2rem;
+
+        .reset-btn:hover {
+            background: #c0392b;
+            transform: translateY(-2px);
+        }
+
+        .stats {
+            background: #e8f4fd;
+            padding: 15px;
+            border-radius: 10px;
+            text-align: center;
+            margin-bottom: 20px;
+            font-weight: 600;
+            color: #2980b9;
+            border-left: 4px solid #2980b9;
+        }
+
+        .lessons-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+        }
+
+        .lessons-table thead {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+
+        .lessons-table th {
+            padding: 20px 15px;
+            text-align: left;
+            font-weight: 600;
+            font-size: 1.1rem;
+        }
+
+        .lessons-table tbody tr {
+            border-bottom: 1px solid #f0f0f0;
+            transition: all 0.3s ease;
+        }
+
+        .lessons-table tbody tr:hover {
+            background: #f8f9fa;
+            transform: translateX(5px);
+        }
+
+        .lessons-table td {
+            padding: 18px 15px;
+            color: #333;
+        }
+
+        .lesson-number {
+            font-weight: 700;
+            color: #667eea;
+            text-align: center;
+            min-width: 50px;
+        }
+
+        .lesson-date {
+            font-weight: 600;
+            color: #555;
+            min-width: 100px;
+        }
+
+        .lesson-topic {
+            font-weight: 600;
+            color: #222;
+        }
+
+        .lesson-grade {
+            display: inline-block;
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 700;
+            margin-left: 10px;
+            background: #3498db;
+            color: white;
+        }
+
+        .grade-7 {
+            background: #3498db;
+        }
+
+        .grade-8-9 {
+            background: #9b59b6;
+        }
+
+        .lesson-section {
+            display: inline-block;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 0.85rem;
             font-weight: 600;
         }
-        
-        .task-meta {
-            display: flex;
-            gap: 15px;
-            color: #666;
-            font-size: 0.9rem;
+
+        .section-inorganic {
+            background: #e8f4fd;
+            color: #2980b9;
         }
-        
-        .stars {
-            color: #FFD700;
+
+        .section-physical {
+            background: #e9f7ef;
+            color: #27ae60;
         }
-        
-        /* Видео */
-        .video-card {
-            background: white;
-            border-radius: 12px;
-            overflow: hidden;
-            border: 1px solid var(--border);
+
+        .section-analytical {
+            background: #f5e9fd;
+            color: #8e44ad;
         }
-        
-        .video-thumbnail {
-            width: 100%;
-            height: 180px;
-            background: linear-gradient(135deg, var(--primary), var(--primary-dark));
-            display: flex;
+
+        .lesson-language {
+            display: inline-block;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 600;
+        }
+
+        .language-ru {
+            background: #fef4e6;
+            color: #e67e22;
+        }
+
+        .language-kz {
+            background: #e6f7f7;
+            color: #16a085;
+        }
+
+        .youtube-link {
+            display: inline-flex;
             align-items: center;
-            justify-content: center;
+            gap: 8px;
+            background: #ff4757;
             color: white;
-            font-size: 48px;
-        }
-        
-        .video-content {
-            padding: 20px;
-        }
-        
-        /* Хлебные крошки */
-        .breadcrumbs {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            margin-bottom: 30px;
-            color: #666;
-        }
-        
-        .breadcrumbs a {
-            color: var(--primary);
             text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 8px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            white-space: nowrap;
         }
-        
-        .breadcrumbs span {
-            color: #999;
+
+        .youtube-link:hover {
+            background: #ff3742;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(255, 71, 87, 0.3);
         }
-        
-        /* Адаптивность */
+
+        .youtube-icon {
+            font-size: 1.2rem;
+        }
+
+        footer {
+            text-align: center;
+            padding: 30px;
+            background: #f8f9fa;
+            color: #666;
+            border-top: 1px solid #eaeaea;
+        }
+
+        .footer-content p {
+            margin-bottom: 10px;
+        }
+
+        .copyright {
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+
         @media (max-width: 768px) {
-            .grid-2, .grid-3, .grid-4, .grid-5 {
-                grid-template-columns: 1fr;
+            .container {
+                padding: 10px;
             }
-            
-            .hero h1 {
+
+            header {
+                padding: 30px 20px;
+            }
+
+            .header-content h1 {
                 font-size: 2rem;
             }
-            
-            .grade-btn {
-                width: 120px;
-                height: 120px;
+
+            .main-content {
+                padding: 20px;
             }
-        }
-        
-        /* Анимации */
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(20px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-        
-        .fade-in {
-            animation: fadeIn 0.5s ease-out;
+
+            .filter-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .lessons-table {
+                display: block;
+                overflow-x: auto;
+            }
+
+            .lessons-table th,
+            .lessons-table td {
+                padding: 12px 8px;
+            }
         }
     </style>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
-    <!-- Навигация -->
-    <nav class="navbar">
-        <div class="container nav-content">
-            <a href="#" class="logo" onclick="goToPage('home')">QazAkx<span>.olymp</span></a>
-            <div class="nav-links">
-                <button class="btn btn-secondary" onclick="goToPage('home')">
-                    <i class="fas fa-home"></i> Главная
+    <div class="container">
+        <header>
+            <div class="header-content">
+                <h1>Онлайн-уроки по химии для олимпиадной подготовки</h1>
+                <p>Полный курс подготовки к олимпиадам различного уровня</p>
+                <div class="teacher-card">
+                    <strong>Преподаватель:</strong> Аманжолов Азим Жетесович
+                </div>
+            </div>
+        </header>
+
+        <div class="main-content">
+            <div class="filters">
+                <h2>Фильтры уроков</h2>
+                <div class="filter-grid">
+                    <div class="filter-group">
+                        <label for="gradeFilter">Класс:</label>
+                        <select id="gradeFilter">
+                            <option value="all">Все классы</option>
+                            <option value="7">7 класс</option>
+                            <option value="8-9">8-9 классы</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="languageFilter">Язык:</label>
+                        <select id="languageFilter">
+                            <option value="all">Все языки</option>
+                            <option value="рус">Русский</option>
+                            <option value="қаз">Казахский</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="sectionFilter">Раздел:</label>
+                        <select id="sectionFilter">
+                            <option value="all">Все разделы</option>
+                            <option value="Неорганическая">Неорганическая</option>
+                            <option value="Физическая">Физическая</option>
+                            <option value="Аналитическая">Аналитическая</option>
+                        </select>
+                    </div>
+                </div>
+                <button id="resetFilters" class="reset-btn">
+                    <span>↺</span> Сбросить фильтры
                 </button>
+            </div>
+
+            <div class="stats" id="stats">
+                Показано: <span id="shownCount">54</span> из 54 уроков
+            </div>
+
+            <div class="table-container">
+                <table class="lessons-table" id="lessonsTable">
+                    <thead>
+                        <tr>
+                            <th>№</th>
+                            <th>Дата</th>
+                            <th>Тема урока</th>
+                            <th>Раздел</th>
+                            <th>Язык</th>
+                            <th>Ссылка на урок</th>
+                        </tr>
+                    </thead>
+                    <tbody id="lessonsBody">
+                        <!-- Уроки будут загружены через JavaScript -->
+                    </tbody>
+                </table>
             </div>
         </div>
-    </nav>
 
-    <!-- Страница 1: Главная -->
-    <div id="home" class="page active">
-        <section class="hero">
-            <div class="container">
-                <h1>Добро пожаловать в QazAkx.olymp</h1>
-                <p>Платформа для подготовки к олимпиадам по химии для школьников Казахстана. Начни свой путь к победам!</p>
-                <button class="btn btn-large" onclick="goToPage('subject')">
-                    Начать подготовку <i class="fas fa-arrow-right"></i>
-                </button>
+        <footer>
+            <div class="footer-content">
+                <p>Обновленный график занятий по химии для подготовки к олимпиадам "Дарын"</p>
+                <p class="copyright">© 2024 Все права защищены</p>
             </div>
-        </section>
-        
-        <section class="container" style="padding: 60px 0;">
-            <div class="grid grid-3">
-                <div class="card fade-in">
-                    <div class="card-icon">🧪</div>
-                    <h3>Олимпиадные задачи</h3>
-                    <p>Более 500 задач разных уровней сложности с пошаговой проверкой</p>
-                </div>
-                <div class="card fade-in">
-                    <div class="card-icon">🎥</div>
-                    <h3>Видеоуроки</h3>
-                    <p>Короткие объяснения каждой темы от лучших преподавателей</p>
-                </div>
-                <div class="card fade-in">
-                    <div class="card-icon">📊</div>
-                    <h3>Личный прогресс</h3>
-                    <p>Отслеживай свой рост и получай персональные рекомендации</p>
-                </div>
-            </div>
-        </section>
+        </footer>
     </div>
 
-    <!-- Страница 2: Выбор предмета -->
-    <div id="subject" class="page">
-        <div class="container" style="padding-top: 60px;">
-            <div class="breadcrumbs">
-                <a href="#" onclick="goToPage('home')">Главная</a>
-                <span>→</span>
-                <span>Выбор предмета</span>
-            </div>
-            
-            <h1 style="margin-bottom: 40px; color: var(--primary);">Выберите предмет для подготовки</h1>
-            <p style="margin-bottom: 40px; color: #666;">Пока доступна только химия, другие предметы скоро появятся</p>
-            
-            <div class="grid grid-3" style="max-width: 900px; margin: 0 auto;">
-                <!-- Химия - активна -->
-                <div class="card" onclick="goToPage('grade')" style="cursor: pointer; border: 2px solid var(--primary);">
-                    <div class="card-icon" style="color: var(--primary);">🧪</div>
-                    <h3>Химия</h3>
-                    <p style="color: #666; margin-bottom: 20px;">Олимпиадная химия для 7-11 классов</p>
-                    <ul style="text-align: left; padding-left: 20px; margin-bottom: 20px;">
-                        <li style="margin-bottom: 8px;">Олимпиадные задачи</li>
-                        <li style="margin-bottom: 8px;">Видеоуроки</li>
-                        <li>Теория и практика</li>
-                    </ul>
-                    <div class="btn">Выбрать →</div>
-                </div>
-                
-                <!-- Остальные предметы - неактивны -->
-                <div class="card" style="opacity: 0.5;">
-                    <div class="card-icon">📐</div>
-                    <h3>Математика</h3>
-                    <p style="margin-bottom: 20px;">Скоро</p>
-                    <div class="badge">Скоро</div>
-                </div>
-                
-                <div class="card" style="opacity: 0.5;">
-                    <div class="card-icon">⚛️</div>
-                    <h3>Физика</h3>
-                    <p style="margin-bottom: 20px;">Скоро</p>
-                    <div class="badge">Скоро</div>
-                </div>
-            </div>
-            
-            <div style="text-align: center; margin-top: 40px;">
-                <button class="btn btn-secondary" onclick="goToPage('home')">
-                    <i class="fas fa-arrow-left"></i> Назад
-                </button>
-            </div>
-        </div>
-    </div>
-
-    <!-- Страница 3: Выбор класса -->
-    <div id="grade" class="page">
-        <div class="container" style="padding-top: 60px;">
-            <div class="breadcrumbs">
-                <a href="#" onclick="goToPage('home')">Главная</a>
-                <span>→</span>
-                <a href="#" onclick="goToPage('subject')">Предметы</a>
-                <span>→</span>
-                <span>Выбор класса</span>
-            </div>
-            
-            <h1 style="margin-bottom: 20px; color: var(--primary);">Выберите ваш класс</h1>
-            <p style="margin-bottom: 40px; color: #666;">🧪 Химия</p>
-            
-            <div class="grid grid-5" style="max-width: 800px; margin: 0 auto 50px;">
-                <div class="grade-btn" onclick="selectGrade(7)">
-                    <div class="grade-number">7</div>
-                    <div>класс</div>
-                </div>
-                <div class="grade-btn" onclick="selectGrade(8)">
-                    <div class="grade-number">8</div>
-                    <div>класс</div>
-                </div>
-                <div class="grade-btn" onclick="selectGrade(9)">
-                    <div class="grade-number">9</div>
-                    <div>класс</div>
-                </div>
-                <div class="grade-btn" onclick="selectGrade(10)">
-                    <div class="grade-number">10</div>
-                    <div>класс</div>
-                </div>
-                <div class="grade-btn" onclick="selectGrade(11)">
-                    <div class="grade-number">11</div>
-                    <div>класс</div>
-                </div>
-            </div>
-            
-            <div class="card" style="max-width: 600px; margin: 0 auto 40px;">
-                <h3 style="color: var(--primary); margin-bottom: 15px;">Рекомендация:</h3>
-                <ul style="padding-left: 20px;">
-                    <li style="margin-bottom: 10px;"><strong>7-8 класс:</strong> Базовая химия, простые задачи</li>
-                    <li style="margin-bottom: 10px;"><strong>9 класс:</strong> Неорганическая химия</li>
-                    <li style="margin-bottom: 10px;"><strong>10 класс:</strong> Органическая химия</li>
-                    <li><strong>11 класс:</strong> Подготовка к республиканской олимпиаде</li>
-                </ul>
-            </div>
-            
-            <div style="text-align: center;">
-                <button class="btn btn-secondary" onclick="goToPage('subject')" style="margin-right: 20px;">
-                    <i class="fas fa-arrow-left"></i> Назад
-                </button>
-                <button class="btn" onclick="goToPage('chemistry')" id="continue-btn" disabled>
-                    Продолжить <i class="fas fa-arrow-right"></i>
-                </button>
-            </div>
-        </div>
-    </div>
-
-    <!-- Страница 4: Главная химии -->
-    <div id="chemistry" class="page">
-        <div class="container" style="padding-top: 60px;">
-            <div class="breadcrumbs">
-                <a href="#" onclick="goToPage('home')">Главная</a>
-                <span>→</span>
-                <a href="#" onclick="goToPage('subject')">Предметы</a>
-                <span>→</span>
-                <a href="#" onclick="goToPage('grade')">Класс</a>
-                <span>→</span>
-                <span>Химия</span>
-            </div>
-            
-            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 40px;">
-                <h1 style="color: var(--primary);">
-                    🧪 Химия • <span id="current-grade">10</span> класс
-                </h1>
-                <button class="btn btn-secondary" onclick="goToPage('grade')">
-                    <i class="fas fa-exchange-alt"></i> Сменить класс
-                </button>
-            </div>
-            
-            <div class="grid grid-2" style="max-width: 900px; margin: 0 auto 40px;">
-                <!-- Карточка 1: Олимпиадные задания -->
-                <div class="card" onclick="goToPage('tasks')" style="cursor: pointer;">
-                    <div class="card-icon" style="color: var(--primary);">📝</div>
-                    <h3>Олимпиадные задания</h3>
-                    <p style="margin-bottom: 20px;">Более 500 задач разных уровней сложности</p>
-                    <ul style="text-align: left; padding-left: 20px; margin-bottom: 25px;">
-                        <li style="margin-bottom: 8px;">По темам</li>
-                        <li style="margin-bottom: 8px;">Республиканские олимпиады</li>
-                        <li>Международные олимпиады</li>
-                    </ul>
-                    <div class="btn">Перейти →</div>
-                </div>
-                
-                <!-- Карточка 2: Видеоуроки -->
-                <div class="card" onclick="goToPage('videos')" style="cursor: pointer;">
-                    <div class="card-icon" style="color: var(--accent);">🎥</div>
-                    <h3>Видеоуроки</h3>
-                    <p style="margin-bottom: 20px;">Короткие видео по каждой олимпиадной теме</p>
-                    <ul style="text-align: left; padding-left: 20px; margin-bottom: 25px;">
-                        <li style="margin-bottom: 8px;">Объяснения теорий</li>
-                        <li style="margin-bottom: 8px;">Разбор сложных задач</li>
-                        <li>Советы от экспертов</li>
-                    </ul>
-                    <div class="btn">Смотреть →</div>
-                </div>
-            </div>
-            
-            <!-- Прогресс бар -->
-            <div class="card" style="max-width: 600px; margin: 0 auto 40px;">
-                <h4 style="margin-bottom: 15px;">Ваш прогресс</h4>
-                <div style="background: #F0F2FF; height: 10px; border-radius: 5px; margin-bottom: 10px;">
-                    <div style="width: 15%; height: 100%; background: var(--success); border-radius: 5px;"></div>
-                </div>
-                <div style="display: flex; justify-content: space-between;">
-                    <span>15% тем пройдено</span>
-                    <span>3/20 тем</span>
-                </div>
-            </div>
-            
-            <div style="text-align: center;">
-                <button class="btn btn-secondary" onclick="goToPage('grade')">
-                    <i class="fas fa-arrow-left"></i> Назад
-                </button>
-            </div>
-        </div>
-    </div>
-
-    <!-- Страница 5: Олимпиадные задания -->
-    <div id="tasks" class="page">
-        <div class="container" style="padding-top: 60px;">
-            <div class="breadcrumbs">
-                <a href="#" onclick="goToPage('home')">Главная</a>
-                <span>→</span>
-                <a href="#" onclick="goToPage('subject')">Предметы</a>
-                <span>→</span>
-                <a href="#" onclick="goToPage('grade')">Класс</a>
-                <span>→</span>
-                <a href="#" onclick="goToPage('chemistry')">Химия</a>
-                <span>→</span>
-                <span>Задания</span>
-            </div>
-            
-            <h1 style="margin-bottom: 30px; color: var(--primary);">
-                🧪 Олимпиадные задания • <span id="tasks-grade">10</span> класс
-            </h1>
-            
-            <!-- Фильтры -->
-            <div style="display: flex; gap: 10px; margin-bottom: 30px; flex-wrap: wrap;">
-                <button class="btn btn-secondary" style="padding: 8px 16px;">Все</button>
-                <button class="btn btn-secondary" style="padding: 8px 16px;">По темам</button>
-                <button class="btn btn-secondary" style="padding: 8px 16px;">По сложности</button>
-                <button class="btn btn-secondary" style="padding: 8px 16px;">Избранное</button>
-            </div>
-            
-            <!-- Список заданий -->
-            <div id="tasks-list">
-                <!-- Задача 1 -->
-                <div class="task-card fade-in">
-                    <div class="task-header">
-                        <div class="task-title">Тема: ОВР в неорганике</div>
-                        <div class="stars">★★★☆☆</div>
-                    </div>
-                    <div class="task-meta">
-                        <span><i class="far fa-star"></i> 25 баллов</span>
-                        <span><i class="far fa-clock"></i> 45 мин</span>
-                        <span><i class="fas fa-check-circle" style="color: var(--success);"></i> Решено</span>
-                    </div>
-                    <p style="margin: 15px 0;">Задача №1: Окислительно-восстановительные реакции в неорганической химии. Составьте уравнения и расставьте коэффициенты.</p>
-                    <button class="btn" style="padding: 10px 20px;">
-                        <i class="fas fa-play"></i> Начать решение
-                    </button>
-                </div>
-                
-                <!-- Задача 2 -->
-                <div class="task-card fade-in">
-                    <div class="task-header">
-                        <div class="task-title">Тема: Органический синтез</div>
-                        <div class="stars">★★★★★</div>
-                    </div>
-                    <div class="task-meta">
-                        <span><i class="far fa-star"></i> 40 баллов</span>
-                        <span><i class="far fa-clock"></i> 60 мин</span>
-                        <span><i class="fas fa-circle" style="color: #FF6584;"></i> Новая</span>
-                    </div>
-                    <p style="margin: 15px 0;">Задача №2: Синтез органического соединения из предложенных реагентов. Определите структуры промежуточных веществ.</p>
-                    <button class="btn" style="padding: 10px 20px;">
-                        <i class="fas fa-play"></i> Начать решение
-                    </button>
-                </div>
-            </div>
-            
-            <!-- Пагинация -->
-            <div style="display: flex; justify-content: center; gap: 10px; margin: 40px 0;">
-                <button class="btn btn-secondary" style="padding: 8px 16px;">1</button>
-                <button class="btn btn-secondary" style="padding: 8px 16px;">2</button>
-                <button class="btn btn-secondary" style="padding: 8px 16px;">3</button>
-                <span style="padding: 8px 16px;">...</span>
-                <button class="btn btn-secondary" style="padding: 8px 16px;">10</button>
-            </div>
-            
-            <div style="text-align: center;">
-                <button class="btn btn-secondary" onclick="goToPage('chemistry')">
-                    <i class="fas fa-arrow-left"></i> Назад к химии
-                </button>
-            </div>
-        </div>
-    </div>
-
-    <!-- Страница 6: Видеоуроки -->
-    <div id="videos" class="page">
-        <div class="container" style="padding-top: 60px;">
-            <div class="breadcrumbs">
-                <a href="#" onclick="goToPage('home')">Главная</a>
-                <span>→</span>
-                <a href="#" onclick="goToPage('subject')">Предметы</a>
-                <span>→</span>
-                <a href="#" onclick="goToPage('grade')">Класс</a>
-                <span>→</span>
-                <a href="#" onclick="goToPage('chemistry')">Химия</a>
-                <span>→</span>
-                <span>Видеоуроки</span>
-            </div>
-            
-            <h1 style="margin-bottom: 30px; color: var(--primary);">
-                🎥 Видеоуроки по химии • <span id="videos-grade">10</span> класс
-            </h1>
-            
-            <!-- Фильтры -->
-            <div style="display: flex; gap: 10px; margin-bottom: 30px; flex-wrap: wrap;">
-                <button class="btn btn-secondary" style="padding: 8px 16px;">Все</button>
-                <button class="btn btn-secondary" style="padding: 8px 16px;">Неорганическая</button>
-                <button class="btn btn-secondary" style="padding: 8px 16px;">Органическая</button>
-                <button class="btn btn-secondary" style="padding: 8px 16px;">Физическая</button>
-            </div>
-            
-            <!-- Сетка видео -->
-            <div class="grid grid-3" id="videos-grid">
-                <!-- Видео 1 -->
-                <div class="video-card fade-in">
-                    <div class="video-thumbnail">
-                        <i class="fas fa-play-circle"></i>
-                    </div>
-                    <div class="video-content">
-                        <h4 style="margin-bottom: 10px;">ОВР за 15 минут</h4>
-                        <p style="color: #666; margin-bottom: 15px;">Краткий разбор окислительно-восстановительных реакций</p>
-                        <div style="display: flex; justify-content: space-between; color: #666;">
-                            <span><i class="far fa-clock"></i> 14:28</span>
-                            <span style="color: var(--success);"><i class="fas fa-check-circle"></i> Просмотрено</span>
-                        </div>
-                    </div>
-                </div>
-                
-                <!-- Видео 2 -->
-                <div class="video-card fade-in">
-                    <div class="video-thumbnail">
-                        <i class="fas fa-play-circle"></i>
-                    </div>
-                    <div class="video-content">
-                        <h4 style="margin-bottom: 10px;">Органический синтез</h4>
-                        <p style="color: #666; margin-bottom: 15px;">Методы синтеза органических соединений</p>
-                        <div style="display: flex; justify-content: space-between; color: #666;">
-                            <span><i class="far fa-clock"></i> 22:15</span>
-                            <span style="color: var(--accent);"><i class="fas fa-star"></i> Новое</span>
-                        </div>
-                    </div>
-                </div>
-                
-                <!-- Видео 3 -->
-                <div class="video-card fade-in">
-                    <div class="video-thumbnail">
-                        <i class="fas fa-play-circle"></i>
-                    </div>
-                    <div class="video-content">
-                        <h4 style="margin-bottom: 10px;">Химическая кинетика</h4>
-                        <p style="color: #666; margin-bottom: 15px;">Скорость химических реакций</p>
-                        <div style="display: flex; justify-content: space-between; color: #666;">
-                            <span><i class="far fa-clock"></i> 18:42</span>
-                            <span style="color: #666;"><i class="far fa-circle"></i> Не просмотрено</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-            <!-- Прогресс -->
-            <div class="card" style="max-width: 400px; margin: 40px auto;">
-                <h4 style="margin-bottom: 15px;">Прогресс обучения</h4>
-                <div style="text-align: center; margin-bottom: 15px;">
-                    <div style="font-size: 36px; font-weight: 700; color: var(--primary);">8/45</div>
-                    <div style="color: #666;">уроков пройдено</div>
-                </div>
-                <div style="background: #F0F2FF; height: 8px; border-radius: 4px;">
-                    <div style="width: 18%; height: 100%; background: var(--primary); border-radius: 4px;"></div>
-                </div>
-            </div>
-            
-            <div style="text-align: center;">
-                <button class="btn btn-secondary" onclick="goToPage('chemistry')">
-                    <i class="fas fa-arrow-left"></i> Назад к химии
-                </button>
-            </div>
-        </div>
-    </div>
-
-    <!-- JavaScript -->
     <script>
-        // Переменная для хранения выбранного класса
-        let selectedGrade = 10;
-        
-        // Функция перехода между страницами
-        function goToPage(pageId) {
-            // Скрыть все страницы
-            document.querySelectorAll('.page').forEach(page => {
-                page.classList.remove('active');
+        // Данные всех уроков
+        const lessons = [
+            // 7 класс (уроки 1-24)
+            { number: 1, date: "30 января", topic: "Строение атома 1", section: "Неорганическая", language: "рус", link: "https://youtu.be/g_CWmzJq3qQ", grade: "7" },
+            { number: 2, date: "31 қантар", topic: "Атом құрылысы 1", section: "Неорганическая", language: "қаз", link: "https://youtu.be/HpaeIYe0i4s", grade: "7" },
+            { number: 3, date: "11 февраля", topic: "Строение атома 2", section: "Неорганическая", language: "рус", link: "https://youtu.be/1NsZALUMwuA", grade: "7" },
+            { number: 4, date: "11 ақпан", topic: "Атом құрылысы 2", section: "Неорганическая", language: "қаз", link: "https://youtu.be/L16ZwGtAVD4", grade: "7" },
+            { number: 5, date: "27 февраля", topic: "Смеси двух веществ", section: "Неорганическая", language: "рус", link: "https://youtu.be/shTdQU6SqI8", grade: "7" },
+            { number: 6, date: "28 ақпан", topic: "Екі затты қоспалар", section: "Неорганическая", language: "қаз", link: "https://youtu.be/CLkADuFPaLM", grade: "7" },
+            { number: 7, date: "4 наурыз", topic: "Көп затты қоспалар", section: "Неорганическая", language: "қаз", link: "https://youtu.be/f6qjGyAr7e4", grade: "7" },
+            { number: 8, date: "5 марта", topic: "Смеси несольких веществ", section: "Неорганическая", language: "рус", link: "https://youtu.be/xgfXNxkQd2k", grade: "7" },
+            { number: 9, date: "12 марта", topic: "Смеси/Олеум", section: "Неорганическая", language: "рус", link: "https://youtu.be/-KEvu13w_Os", grade: "7" },
+            { number: 10, date: "13 наурыз", topic: "Қоспалар/Олеум", section: "Неорганическая", language: "қаз", link: "https://youtu.be/B51jJb8Vn6E", grade: "7" },
+            { number: 11, date: "24 марта", topic: "Растворы", section: "Неорганическая", language: "рус", link: "https://youtu.be/Eel6cOha1tI", grade: "7" },
+            { number: 12, date: "25 наурыз", topic: "Ерітінділер", section: "Неорганическая", language: "қаз", link: "https://youtu.be/uWDghQqbOXw", grade: "7" },
+            { number: 13, date: "1 сәуір", topic: "Кристаллогидраттар", section: "Неорганическая", language: "қаз", link: "https://youtu.be/qxYYQW4GHh4", grade: "7" },
+            { number: 14, date: "2 апреля", topic: "Кристаллогидраты", section: "Неорганическая", language: "рус", link: "https://youtu.be/Xt6lpW4ukiU", grade: "7" },
+            { number: 15, date: "8 сәуір", topic: "Тотығу-тотықсыздану реакциялары", section: "Неорганическая", language: "қаз", link: "https://youtu.be/HCRjU9JhngQ", grade: "7" },
+            { number: 16, date: "9 апреля", topic: "Окислительно-восстановительные реакции", section: "Неорганическая", language: "рус", link: "https://youtu.be/XWtTM2-U4ck", grade: "7" },
+            { number: 17, date: "14 апреля", topic: "Пластинка", section: "Неорганическая", language: "рус", link: "https://youtu.be/-GjcOnyKLbk", grade: "7" },
+            { number: 18, date: "15 сәуір", topic: "Пластинка", section: "Неорганическая", language: "қаз", link: "https://youtu.be/EjIq7DvgU_U", grade: "7" },
+            { number: 19, date: "21 апреля", topic: "Электролиз 1", section: "Неорганическая", language: "рус", link: "https://youtu.be/X_g5MJQANeo", grade: "7" },
+            { number: 20, date: "22 сәуір", topic: "Электролиз 1", section: "Неорганическая", language: "қаз", link: "https://youtu.be/aWNFbgXXpDI", grade: "7" },
+            { number: 21, date: "28 апреля", topic: "Электролиз 2", section: "Неорганическая", language: "рус", link: "https://youtu.be/1KAKV3HSTJM", grade: "7" },
+            { number: 22, date: "30 сәуір", topic: "Электролиз 2", section: "Неорганическая", language: "қаз", link: "https://youtu.be/O-KOumgn5I8", grade: "7" },
+            { number: 23, date: "12 мая", topic: "Электролиз/Закон Фарадея", section: "Физическая", language: "рус", link: "https://youtu.be/_G9Cbq7g05k", grade: "7" },
+            { number: 24, date: "13 мамыр", topic: "Электролиз/Фарадей заңы", section: "Физическая", language: "қаз", link: "https://youtu.be/yu2Lw4ER-ts", grade: "7" },
+
+            // 8-9 классы (уроки 25-54)
+            { number: 25, date: "19 мая", topic: "Кинетика, уравнение Вант-Гоффа", section: "Физическая", language: "рус", link: "https://youtu.be/jdxkxHyTHeY", grade: "8-9" },
+            { number: 26, date: "21 мамыр", topic: "Кинетика, Вант-Гофф теңдеуі", section: "Физическая", language: "қаз", link: "https://youtu.be/RalpIgLheMo", grade: "8-9" },
+            { number: 27, date: "27 мая", topic: "Кинетика, уравнение Аррениуса 1", section: "Физическая", language: "рус", link: "https://youtu.be/ImahCQOqE9E", grade: "8-9" },
+            { number: 28, date: "28 мамыр", topic: "Кинетика, Аррениус теңдеуі 1", section: "Физическая", language: "қаз", link: "https://youtu.be/9Tww6btOmbg", grade: "8-9" },
+            { number: 29, date: "3 июня", topic: "Кинетика, уравнение Аррениуса 2", section: "Физическая", language: "рус", link: "https://youtu.be/rMXpnDI3gPQ", grade: "8-9" },
+            { number: 30, date: "4 маусым", topic: "Кинетика, Аррениус теңдеуі 2", section: "Физическая", language: "қаз", link: "https://youtu.be/fTh1U8NTQTI", grade: "8-9" },
+            { number: 31, date: "10 июня", topic: "Кинетика, комбинированные задачи", section: "Физическая", language: "рус", link: "https://youtu.be/c5EKjlwI_YM", grade: "8-9" },
+            { number: 32, date: "11 маусым", topic: "Кинетика, аралас есептер", section: "Физическая", language: "қаз", link: "https://youtu.be/NIcA7QACrg0", grade: "8-9" },
+            { number: 33, date: "22 июня", topic: "Термохимия", section: "Физическая", language: "рус", link: "https://youtu.be/Dak94Om1goM", grade: "8-9" },
+            { number: 34, date: "23 маусым", topic: "Термохимия", section: "Физическая", language: "қаз", link: "https://youtu.be/b3stdyVfQ6k", grade: "8-9" },
+            { number: 35, date: "8 июля", topic: "Энтальпия", section: "Физическая", language: "рус", link: "https://youtu.be/DTNf6HcTV1s", grade: "8-9" },
+            { number: 36, date: "9 шілде", topic: "Энтальпия", section: "Физическая", language: "қаз", link: "https://youtu.be/-L4a-b3jxjQ", grade: "8-9" },
+            { number: 37, date: "16 июля", topic: "Закон Гесса", section: "Физическая", language: "рус", link: "https://youtu.be/7tuB5cKKzA0", grade: "8-9" },
+            { number: 38, date: "16 шілде", topic: "Гесс заңы", section: "Физическая", language: "қаз", link: "https://youtu.be/xcYh1GHFQG4", grade: "8-9" },
+            { number: 39, date: "22 июля", topic: "Газовые законы", section: "Физическая", language: "рус", link: "https://youtu.be/1laX3CtpOAk", grade: "8-9" },
+            { number: 40, date: "22 шілде", topic: "Газ заңдары", section: "Физическая", language: "қаз", link: "https://youtu.be/YQQ5XjRmTDg", grade: "8-9" },
+            { number: 41, date: "7 августа", topic: "Равновесие", section: "Физическая", language: "рус", link: "https://youtu.be/MxkFgQaGDkk", grade: "8-9" },
+            { number: 42, date: "8 тамыз", topic: "Тепе-теңдік", section: "Физическая", language: "қаз", link: "https://youtu.be/fbjGB78akY0", grade: "8-9" },
+            { number: 43, date: "16 августа", topic: "Равновесие 2", section: "Физическая", language: "рус", link: "https://youtu.be/j6h9n_74zG0", grade: "8-9" },
+            { number: 44, date: "16 тамыз", topic: "Тепе-теңдік 2", section: "Физическая", language: "қаз", link: "https://youtu.be/bu1-SSYMSCY", grade: "8-9" },
+            { number: 45, date: "23 августа", topic: "Равновесие 3", section: "Физическая", language: "рус", link: "https://youtu.be/VI7iknQq2Go", grade: "8-9" },
+            { number: 46, date: "23 тамыз", topic: "Тепе-теңдік 3", section: "Физическая", language: "қаз", link: "https://youtu.be/pZLfj7qrVsc", grade: "8-9" },
+            { number: 47, date: "6 сентября", topic: "Кислоты и основания", section: "Аналитическая", language: "рус", link: "https://youtu.be/JrK8Me1Egsk", grade: "8-9" },
+            { number: 48, date: "6 қыркүйек", topic: "Қышқылдар мен негіздер", section: "Аналитическая", language: "қаз", link: "https://youtu.be/E60e-5GC5qc", grade: "8-9" },
+            { number: 49, date: "13 сентября", topic: "Кислоты и основания 2", section: "Аналитическая", language: "рус", link: "https://youtu.be/L81T0pMwOtA", grade: "8-9" },
+            { number: 50, date: "13 қыркүйек", topic: "Қышқылдар мен негіздер 2", section: "Аналитическая", language: "қаз", link: "https://youtu.be/t07AlJwcZTE", grade: "8-9" },
+            { number: 51, date: "20 сентября", topic: "Слабые одноосновные кислоты и основания", section: "Аналитическая", language: "рус", link: "https://youtu.be/5TZn9n-TTE8", grade: "8-9" },
+            { number: 52, date: "20 қыркүйек", topic: "Әлсіз бір негіздік қышқылдар мен негіздер", section: "Аналитическая", language: "қаз", link: "https://youtu.be/9RnGLGnyLes", grade: "8-9" },
+            { number: 53, date: "27 сентября", topic: "Слабые одноосновные кислоты и основания 2", section: "Аналитическая", language: "рус", link: "https://youtu.be/S9zwCsm4Rnw", grade: "8-9" },
+            { number: 54, date: "27 қыркүйек", topic: "Әлсіз бір негіздік қышқылдар мен негіздер 2", section: "Аналитическая", language: "қаз", link: "https://youtu.be/_tqU-8HMCyc", grade: "8-9" }
+        ];
+
+        // Функция для получения класса раздела
+        function getSectionClass(section) {
+            if (section.includes("Неорганическая")) return "section-inorganic";
+            if (section.includes("Физическая")) return "section-physical";
+            if (section.includes("Аналитическая")) return "section-analytical";
+            return "section-inorganic";
+        }
+
+        // Функция для получения класса языка
+        function getLanguageClass(lang) {
+            return lang === "рус" ? "language-ru" : "language-kz";
+        }
+
+        // Функция для отображения уроков
+        function renderLessons(lessonsToRender) {
+            const tbody = document.getElementById('lessonsBody');
+            tbody.innerHTML = '';
+            
+            lessonsToRender.forEach(lesson => {
+                const row = document.createElement('tr');
+                row.setAttribute('data-grade', lesson.grade);
+                row.setAttribute('data-language', lesson.language);
+                row.setAttribute('data-section', lesson.section);
+                
+                const gradeText = lesson.grade === "7" ? "7 класс" : "8-9 классы";
+                const gradeClass = lesson.grade === "7" ? "grade-7" : "grade-8-9";
+                const languageText = lesson.language === "рус" ? "Русский" : "Казахский";
+                
+                row.innerHTML = `
+                    <td class="lesson-number">${lesson.number}</td>
+                    <td class="lesson-date">${lesson.date}</td>
+                    <td class="lesson-topic">
+                        ${lesson.topic}
+                        <span class="lesson-grade ${gradeClass}">${gradeText}</span>
+                    </td>
+                    <td>
+                        <span class="lesson-section ${getSectionClass(lesson.section)}">
+                            ${lesson.section}
+                        </span>
+                    </td>
+                    <td>
+                        <span class="lesson-language ${getLanguageClass(lesson.language)}">
+                            ${languageText}
+                        </span>
+                    </td>
+                    <td>
+                        <a href="${lesson.link}" target="_blank" class="youtube-link">
+                            <span class="youtube-icon">▶</span> Смотреть
+                        </a>
+                    </td>
+                `;
+                
+                tbody.appendChild(row);
             });
             
-            // Показать выбранную страницу
-            document.getElementById(pageId).classList.add('active');
-            
-            // Обновить класс на страницах
-            if (pageId === 'chemistry' || pageId === 'tasks' || pageId === 'videos') {
-                document.getElementById('current-grade').textContent = selectedGrade;
-                document.getElementById('tasks-grade').textContent = selectedGrade;
-                document.getElementById('videos-grade').textContent = selectedGrade;
-            }
-            
-            // Прокрутить наверх
-            window.scrollTo(0, 0);
+            // Обновляем статистику
+            document.getElementById('shownCount').textContent = lessonsToRender.length;
         }
-        
-        // Функция выбора класса
-        function selectGrade(grade) {
-            selectedGrade = grade;
+
+        // Функция для фильтрации уроков
+        function filterLessons() {
+            const gradeFilter = document.getElementById('gradeFilter').value;
+            const languageFilter = document.getElementById('languageFilter').value;
+            const sectionFilter = document.getElementById('sectionFilter').value;
             
-            // Снять активный класс со всех кнопок
-            document.querySelectorAll('.grade-btn').forEach(btn => {
-                btn.classList.remove('active');
+            const filtered = lessons.filter(lesson => {
+                // Фильтр по классу
+                if (gradeFilter !== 'all' && lesson.grade !== gradeFilter) return false;
+                
+                // Фильтр по языку
+                if (languageFilter !== 'all' && lesson.language !== languageFilter) return false;
+                
+                // Фильтр по разделу
+                if (sectionFilter !== 'all' && !lesson.section.includes(sectionFilter)) return false;
+                
+                return true;
             });
             
-            // Добавить активный класс к выбранной кнопке
-            event.target.closest('.grade-btn').classList.add('active');
-            
-            // Активировать кнопку "Продолжить"
-            document.getElementById('continue-btn').disabled = false;
-            
-            // Показать анимацию
-            event.target.closest('.grade-btn').style.animation = 'fadeIn 0.3s';
+            renderLessons(filtered);
         }
-        
-        // Инициализация при загрузке
-        document.addEventListener('DOMContentLoaded', function() {
-            // По умолчанию показываем главную страницу
-            goToPage('home');
+
+        // Функция сброса фильтров
+        function resetFilters() {
+            document.getElementById('gradeFilter').value = 'all';
+            document.getElementById('languageFilter').value = 'all';
+            document.getElementById('sectionFilter').value = 'all';
+            filterLessons();
+        }
+
+        // Инициализация при загрузке страницы
+        document.addEventListener('DOMContentLoaded', () => {
+            // Первоначальная отрисовка
+            renderLessons(lessons);
             
-            // Добавляем анимации к карточкам при загрузке
-            setTimeout(() => {
-                document.querySelectorAll('.fade-in').forEach((el, index) => {
-                    setTimeout(() => {
-                        el.style.opacity = 1;
-                        el.style.transform = 'translateY(0)';
-                    }, index * 100);
-                });
-            }, 300);
+            // Назначение обработчиков событий
+            document.getElementById('gradeFilter').addEventListener('change', filterLessons);
+            document.getElementById('languageFilter').addEventListener('change', filterLessons);
+            document.getElementById('sectionFilter').addEventListener('change', filterLessons);
+            document.getElementById('resetFilters').addEventListener('click', resetFilters);
         });
-        
-        // Функция для поиска заданий (заглушка)
-        function searchTasks() {
-            alert('Функция поиска будет доступна в полной версии');
-        }
-        
-        // Функция для начала решения задачи
-        function startTask(taskId) {
-            alert(`Начинаем решение задачи ${taskId}. В полной версии здесь будет открытие задачи.`);
-        }
-        
-        // Функция для просмотра видео
-        function watchVideo(videoId) {
-            alert(`Запускаем видео ${videoId}. В полной версии здесь будет видеоплеер.`);
-        }
     </script>
 </body>
 </html>
