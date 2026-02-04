@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -688,7 +688,7 @@
                         <span><i class="fas fa-check-circle" style="color: var(--success);"></i> Решено</span>
                     </div>
                     <p style="margin: 15px 0;">Задача №1: Окислительно-восстановительные реакции в неорганической химии. Составьте уравнения и расставьте коэффициенты.</p>
-                    <button class="btn" style="padding: 10px 20px;">
+                    <button class="btn" onclick="startTask(1)" style="padding: 10px 20px;">
                         <i class="fas fa-play"></i> Начать решение
                     </button>
                 </div>
@@ -705,7 +705,7 @@
                         <span><i class="fas fa-circle" style="color: #FF6584;"></i> Новая</span>
                     </div>
                     <p style="margin: 15px 0;">Задача №2: Синтез органического соединения из предложенных реагентов. Определите структуры промежуточных веществ.</p>
-                    <button class="btn" style="padding: 10px 20px;">
+                    <button class="btn" onclick="startTask(2)" style="padding: 10px 20px;">
                         <i class="fas fa-play"></i> Начать решение
                     </button>
                 </div>
@@ -896,6 +896,16 @@
             
             // Показать анимацию
             event.target.closest('.grade-btn').style.animation = 'fadeIn 0.3s';
+        }
+        
+        // Функция для поиска заданий (из первой версии)
+        function searchTasks() {
+            alert('Функция поиска будет доступна в полной версии');
+        }
+        
+        // Функция для начала решения задачи (из первой версии)
+        function startTask(taskId) {
+            alert(`Начинаем решение задачи ${taskId}. В полной версии здесь будет открытие задачи.`);
         }
         
         // Функция получения ID YouTube видео
