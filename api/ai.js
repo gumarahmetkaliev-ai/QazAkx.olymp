@@ -3,26 +3,31 @@ export default async function handler(request, response) {
     return response.status(405).json({ error: "Method not allowed" });
   }
 
-  const apiKey = process.env.GEMINI_API_KEY;
+  const apiKey = process.env.OMNIROUTE_API_KEY;
+  const endpoint = process.env.OMNIROUTE_ENDPOINT;
   if (!apiKey) {
-    return response.status(503).json({ error: "GEMINI_API_KEY is not configured" });
+    return response.status(503).json({ error: "OMNIROUTE_API_KEY is not configured" });
+  }
+  if (!endpoint) {
+    return response.status(503).json({ error: "OMNIROUTE_ENDPOINT is not configured" });
   }
 
   try {
-    const upstream = await fetch(
-      `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent?key=${apiKey}`,
-      {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          contents: [{ parts: [{ text: String(request.body?.prompt || "") }] }],
-        }),
+    const upstream = await fetch(endpoint, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Authorization: `Bearer ${apiKey}`,
       },
-    );
+      body: JSON.stringify({
+        model: process.env.OMNIROUTE_MODEL || "auto",
+        messages: [{ role: "user", content: String(request.body?.prompt || "") }],
+      }),
+    });
     const data = await upstream.json();
     if (!upstream.ok) return response.status(upstream.status).json(data);
     return response.status(200).json({
-      text: data.candidates?.[0]?.content?.parts?.[0]?.text || "ИИ не дал ответ.",
+      text: data.choices?.[0]?.message?.content || data.output_text || "ИИ не дал ответ.",
     });
   } catch (error) {
     return response.status(500).json({ error: "AI request failed" });
