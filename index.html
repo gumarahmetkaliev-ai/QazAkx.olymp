@@ -1100,6 +1100,24 @@
             <option value="physics">Физика</option>
             <option value="chemistry">Химия</option>
           </select>
+          <label for="task-grade-filter">Класс:</label>
+          <select id="task-grade-filter" onchange="renderTaskCatalog()">
+            <option value="all">Все классы</option>
+            <option value="7">7 класс</option>
+            <option value="8">8 класс</option>
+            <option value="9">9 класс</option>
+            <option value="10">10 класс</option>
+            <option value="11">11 класс</option>
+            <option value="12">12 класс</option>
+          </select>
+          <label for="task-level-filter">Уровень:</label>
+          <select id="task-level-filter" onchange="renderTaskCatalog()">
+            <option value="all">Все уровни</option>
+            <option value="international">Международная</option>
+            <option value="national">Республиканская</option>
+            <option value="regional">Региональная</option>
+            <option value="other">Другие олимпиады</option>
+          </select>
         </div>
 
         <div
@@ -1128,6 +1146,29 @@
             <i class="fas fa-arrow-left"></i> Назад к химии
           </button>
         </div>
+      </div>
+    </div>
+
+    <div id="solver" class="page">
+      <div class="container" style="padding-top: 60px">
+        <div class="breadcrumbs"><a href="#" onclick="goToPage('home')">Главная</a><span>→</span><span>Решение задачи</span></div>
+        <h1 style="margin-bottom: 12px; color: var(--primary)" id="solver-title">Решение задачи</h1>
+        <p id="solver-meta" style="margin-bottom: 24px; color: #666"></p>
+        <div class="task-card">
+          <div class="task-header"><strong>Условие</strong><a class="btn" id="solver-pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Открыть PDF</a></div>
+          <p style="margin-top: 12px">Открой условие в PDF и запиши решение ниже. Ответ сохраняется на этом устройстве.</p>
+        </div>
+        <div class="task-card">
+          <label for="solution-answer"><strong>Твоё решение</strong></label>
+          <textarea id="solution-answer" rows="12" style="width: 100%; margin-top: 12px; padding: 14px; border: 1px solid var(--border); border-radius: 8px; resize: vertical" placeholder="Напиши ход решения и ответ..."></textarea>
+          <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 14px">
+            <button class="btn" onclick="checkCurrentSolution()"><i class="fas fa-robot"></i> Проверить ИИ</button>
+            <button class="btn btn-secondary" onclick="saveCurrentSolution()"><i class="fas fa-save"></i> Сохранить</button>
+          </div>
+          <div id="solution-feedback" style="margin-top: 16px"></div>
+        </div>
+        <div class="card"><strong>Прогресс</strong><p id="solver-progress" style="margin-top: 8px"></p></div>
+        <div style="text-align: center; margin-top: 24px"><button class="btn btn-secondary" onclick="goToPage('tasks')"><i class="fas fa-arrow-left"></i> К каталогу</button></div>
       </div>
     </div>
 
@@ -1655,6 +1696,17 @@
         chemistry: "Химия",
       };
 
+      const officialOlympiadNames = {
+        iao: "International Astronomy Olympiad",
+        ioaa: "International Olympiad on Astronomy and Astrophysics",
+        apmo: "Asian Pacific Mathematics Olympiad",
+        imo: "International Mathematical Olympiad",
+        apho: "Asian Physics Olympiad",
+        icho: "International Chemistry Olympiad",
+        ibo: "International Biology Olympiad",
+        beyondolymp: "Beyond Olympiad",
+      };
+
       function taskMediaUrl(file) {
         return `https://media.githubusercontent.com/media/gumarahmetkaliev-ai/QazAkx.olymp/main/public/${file}`;
       }
@@ -1664,18 +1716,38 @@
         const sourceIndex = parts.indexOf("s");
         const olympiad = sourceIndex >= 0 ? parts[sourceIndex + 1] : "other";
         const year = sourceIndex >= 0 ? parts[sourceIndex + 2] : "без года";
-        const classMatches = material.title.match(/(?:^|[-_])(7|8|9|10|11|12)(?:[-_]|\.)/g) || [];
+        const classMatches = material.title.match(/(?:^|[^0-9])(7|8|9|10|11|12)(?=[^0-9]|$)/g) || [];
         const classes = [...new Set(classMatches.map((value) => value.replace(/[^0-9]/g, "")))];
-        return { olympiad, year, classes: classes.length ? classes.join(", ") : "Все классы" };
+        const level = /ioaa|iao|apmo|imo|apho|icho|ibo/i.test(olympiad)
+          ? "international"
+          : /national|republic|respubl/i.test(material.sourcePage)
+            ? "national"
+            : /regional|oblast|region|okrug/i.test(material.sourcePage)
+              ? "regional"
+              : "other";
+        return {
+          olympiad,
+          officialName: officialOlympiadNames[olympiad.toLowerCase()] || olympiad,
+          year,
+          level,
+          classes: classes.length ? classes.join(", ") : "Все классы",
+          classValues: classes,
+        };
       }
 
       function renderTaskCatalog() {
         const list = document.getElementById("tasks-list");
         if (!list) return;
         const selectedSubject = document.getElementById("task-subject-filter")?.value || "all";
+        const selectedGrade = document.getElementById("task-grade-filter")?.value || "all";
+        const selectedLevel = document.getElementById("task-level-filter")?.value || "all";
         const materials = (window.localOlympiads || []).filter((material) =>
           selectedSubject === "all" || material.subject === selectedSubject,
-        );
+        ).filter((material) => {
+          const info = taskPathInfo(material);
+          return (selectedGrade === "all" || info.classValues.includes(selectedGrade)) &&
+            (selectedLevel === "all" || info.level === selectedLevel);
+        });
         const groups = new Map();
         materials.forEach((material) => {
           const info = taskPathInfo(material);
@@ -1687,15 +1759,80 @@
           list.innerHTML = "<p>Каталог загружается. Обновите страницу через несколько секунд.</p>";
           return;
         }
-        list.innerHTML = [...groups.values()].sort((a, b) => `${a.subject}${a.olympiad}${a.year}`.localeCompare(`${b.subject}${b.olympiad}${b.year}`)).map((group) => `
+        list.innerHTML = [...groups.values()].sort((a, b) => `${a.subject}${a.officialName}${a.year}`.localeCompare(`${b.subject}${b.officialName}${b.year}`)).map((group) => `
           <details class="task-card fade-in" open>
-            <summary class="task-header"><span class="task-title">${taskSubjectNames[group.subject]} · ${group.olympiad} · ${group.year}</span><span>${group.classes}</span></summary>
-            <div class="task-meta"><span>${group.files.length} материалов</span><span>Классы: ${group.classes}</span></div>
+            <summary class="task-header"><span class="task-title">${taskSubjectNames[group.subject]} · ${group.officialName} · ${group.year}</span><span>${group.classes}</span></summary>
+            <div class="task-meta"><span>${group.files.length} материалов</span><span>Уровень: ${group.level}</span><span>Классы: ${group.classes}</span></div>
             <div class="local-materials-list">${group.files.map((file) => `
-              <div class="local-material"><div><strong>${file.title}</strong><small>${file.sourcePage}</small></div><a class="btn" href="${taskMediaUrl(file.file)}" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Открыть</a></div>
+              <div class="local-material"><div><strong>${file.title}</strong><small>${file.sourcePage}</small></div><div style="display:flex;gap:8px;flex-wrap:wrap"><a class="btn btn-secondary" href="${taskMediaUrl(file.file)}" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Условие</a><button class="btn" onclick='openSolver(${JSON.stringify(file)})'><i class="fas fa-pen"></i> Решать</button></div></div>
             `).join("")}</div>
           </details>
         `).join("");
+      }
+
+      let currentSolverMaterial = null;
+
+      function solutionKey(material) {
+        return `qazakx-solution-${material.file}`;
+      }
+
+      function openSolver(material) {
+        currentSolverMaterial = material;
+        const info = taskPathInfo(material);
+        document.getElementById("solver-title").textContent = `${taskSubjectNames[material.subject]} · ${info.officialName} · ${info.year}`;
+        document.getElementById("solver-meta").textContent = `${material.title} · ${info.classes} · ${info.level}`;
+        document.getElementById("solver-pdf").href = taskMediaUrl(material.file);
+        const saved = JSON.parse(localStorage.getItem(solutionKey(material)) || "{}");
+        document.getElementById("solution-answer").value = saved.answer || "";
+        document.getElementById("solution-feedback").textContent = saved.feedback || "";
+        updateSolverProgress();
+        goToPage("solver");
+      }
+
+      function saveCurrentSolution(feedback = "") {
+        if (!currentSolverMaterial) return;
+        const answer = document.getElementById("solution-answer").value.trim();
+        const old = JSON.parse(localStorage.getItem(solutionKey(currentSolverMaterial)) || "{}");
+        localStorage.setItem(solutionKey(currentSolverMaterial), JSON.stringify({ ...old, answer, feedback, savedAt: new Date().toISOString() }));
+        document.getElementById("solution-feedback").textContent = feedback || "Решение сохранено на этом устройстве.";
+        updateSolverProgress();
+      }
+
+      function updateSolverProgress() {
+        const materials = window.localOlympiads || [];
+        const solved = materials.filter((material) => JSON.parse(localStorage.getItem(solutionKey(material)) || "{}").score !== undefined).length;
+        const score = materials.reduce((sum, material) => sum + Number(JSON.parse(localStorage.getItem(solutionKey(material)) || "{}").score || 0), 0);
+        const target = document.getElementById("solver-progress");
+        if (target) target.textContent = `${solved} проверено из ${materials.length}. Баллы: ${score}`;
+      }
+
+      async function checkCurrentSolution() {
+        if (!currentSolverMaterial) return;
+        const answer = document.getElementById("solution-answer").value.trim();
+        if (!answer) {
+          document.getElementById("solution-feedback").textContent = "Сначала напиши решение.";
+          return;
+        }
+        const feedback = document.getElementById("solution-feedback");
+        feedback.textContent = "ИИ проверяет решение...";
+        try {
+          const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${API_KEY}`, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ contents: [{ parts: [{ text: `Проверь решение олимпиадной задачи. Файл условия: ${currentSolverMaterial.title}. Решение ученика:\n${answer}\nОтветь: правильно ли, ошибки, краткое объяснение и оценка от 0 до 10.` }] }] }),
+          });
+          if (!response.ok) throw new Error("AI unavailable");
+          const data = await response.json();
+          const text = data.candidates?.[0]?.content?.parts?.[0]?.text || "ИИ не дал ответ.";
+          const scoreMatch = text.match(/(?:оценка|балл|score)[^0-9]*(10|[0-9])/i);
+          const score = scoreMatch ? Number(scoreMatch[1]) : 0;
+          const old = JSON.parse(localStorage.getItem(solutionKey(currentSolverMaterial)) || "{}");
+          localStorage.setItem(solutionKey(currentSolverMaterial), JSON.stringify({ ...old, answer, feedback: text, score, checkedAt: new Date().toISOString() }));
+          feedback.textContent = text;
+          updateSolverProgress();
+        } catch (error) {
+          feedback.textContent = "ИИ временно недоступен. Решение можно сохранить вручную.";
+        }
       }
 
       // Функция для начала решения задачи (из первой версии)
