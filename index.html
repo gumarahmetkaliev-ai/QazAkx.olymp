@@ -1671,12 +1671,13 @@
       function renderLocalOlympiads(materials) {
         const list = document.getElementById("local-materials-list");
         const count = document.getElementById("local-materials-count");
+        const mediaBase = "https://media.githubusercontent.com/media/gumarahmetkaliev-ai/QazAkx.olymp/main/";
         if (!list || !count) return;
         count.textContent = `${materials.length} материалов сохранено локально`;
         list.innerHTML = materials.map((material) => `
             <article class="local-material">
               <div><strong>${material.title}</strong><small>${material.subject} · ${material.sourcePage}</small></div>
-              <a class="btn" href="${material.file}" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Открыть</a>
+              <a class="btn" href="${mediaBase}${material.file}" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Открыть</a>
             </article>
           `).join("");
       }
