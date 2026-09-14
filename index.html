@@ -860,13 +860,13 @@
         <div class="library-cycle">
           <h2>Естественно-математический цикл</h2>
           <div class="grid grid-4 olympiad-links">
-            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('astronomy'); return false;"><span>🔭</span><strong>Астрономия</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
-            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('biology'); return false;"><span>🧬</span><strong>Биология</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
-            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('geography'); return false;"><span>🌍</span><strong>География</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
-            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('informatics'); return false;"><span>💻</span><strong>Информатика</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
-            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('math'); return false;"><span>∑</span><strong>Математика</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
-            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('physics'); return false;"><span>⚛</span><strong>Физика</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
-            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('chemistry'); return false;"><span>🧪</span><strong>Химия</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
+            <a class="card olympiad-link" href="#tasks" onclick="goToPage('tasks', 'astronomy'); return false;"><span>🔭</span><strong>Астрономия</strong><small>Олимпиадные задания <i class="fas fa-arrow-down"></i></small></a>
+            <a class="card olympiad-link" href="#tasks" onclick="goToPage('tasks', 'biology'); return false;"><span>🧬</span><strong>Биология</strong><small>Олимпиадные задания <i class="fas fa-arrow-down"></i></small></a>
+            <a class="card olympiad-link" href="#tasks" onclick="goToPage('tasks', 'geography'); return false;"><span>🌍</span><strong>География</strong><small>Олимпиадные задания <i class="fas fa-arrow-down"></i></small></a>
+            <a class="card olympiad-link" href="#tasks" onclick="goToPage('tasks', 'informatics'); return false;"><span>💻</span><strong>Информатика</strong><small>Олимпиадные задания <i class="fas fa-arrow-down"></i></small></a>
+            <a class="card olympiad-link" href="#tasks" onclick="goToPage('tasks', 'math'); return false;"><span>∑</span><strong>Математика</strong><small>Олимпиадные задания <i class="fas fa-arrow-down"></i></small></a>
+            <a class="card olympiad-link" href="#tasks" onclick="goToPage('tasks', 'physics'); return false;"><span>⚛</span><strong>Физика</strong><small>Олимпиадные задания <i class="fas fa-arrow-down"></i></small></a>
+            <a class="card olympiad-link" href="#tasks" onclick="goToPage('tasks', 'chemistry'); return false;"><span>🧪</span><strong>Химия</strong><small>Олимпиадные задания <i class="fas fa-arrow-down"></i></small></a>
           </div>
         </div>
 
@@ -1002,7 +1002,7 @@
         </div>
 
         <div class="grid grid-2" style="max-width: 900px; margin: 0 auto 40px">
-          <div class="card" onclick="goToPage('tasks')" style="cursor: pointer">
+          <div class="card" onclick="goToPage('tasks', 'chemistry')" style="cursor: pointer">
             <div class="card-icon" style="color: var(--primary)">📝</div>
             <h3>Олимпиадные задания</h3>
             <p style="margin-bottom: 20px">
@@ -1079,7 +1079,7 @@
           <span>→</span>
           <a href="#" onclick="goToPage('grade')">Класс</a>
           <span>→</span>
-          <a href="#" onclick="goToPage('chemistry')">Химия</a>
+          <a href="#" onclick="goToPage('chemistry')" id="tasks-subject-link">Химия</a>
           <span>→</span>
           <span>Задания</span>
         </div>
@@ -1543,7 +1543,9 @@
       const videosPerPage = 9;
 
       // Функция перехода между страницами
-      function goToPage(pageId) {
+      let selectedTaskSubject = "chemistry";
+
+      function goToPage(pageId, subject = selectedTaskSubject) {
         // Скрыть все страницы
         document.querySelectorAll(".page").forEach((page) => {
           page.classList.remove("active");
@@ -1569,6 +1571,11 @@
         }
 
         if (pageId === "tasks") {
+          selectedTaskSubject = subject;
+          const subjectFilter = document.getElementById("task-subject-filter");
+          if (subjectFilter) subjectFilter.value = subject;
+          const subjectLink = document.getElementById("tasks-subject-link");
+          if (subjectLink) subjectLink.textContent = taskSubjectNames[subject] || "Предметы";
           renderTaskCatalog();
         }
 
