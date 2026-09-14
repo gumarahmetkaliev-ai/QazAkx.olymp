@@ -1118,6 +1118,14 @@
             <option value="regional">Региональная</option>
             <option value="other">Другие олимпиады</option>
           </select>
+          <label for="task-language-filter">Язык:</label>
+          <select id="task-language-filter" onchange="renderTaskCatalog()">
+            <option value="all">Все языки</option>
+            <option value="kaz">Қазақша</option>
+            <option value="rus">Русский</option>
+            <option value="eng">English</option>
+            <option value="other">Без пометки</option>
+          </select>
         </div>
 
         <div
@@ -1707,6 +1715,36 @@
         beyondolymp: "Beyond Olympiad",
       };
 
+      function materialLanguage(material) {
+        const title = material.title.toLowerCase();
+        if (/(^|[-_])(kaz|kz|qaz)([-_.]|$)/.test(title)) return "kaz";
+        if (/(^|[-_])(rus|ru)([-_.]|$)/.test(title)) return "rus";
+        if (/(^|[-_])(eng|en)([-_.]|$)/.test(title)) return "eng";
+        return "other";
+      }
+
+      function officialCompetitionName(material, olympiad, year) {
+        const source = material.sourcePage.toLowerCase();
+        if (source.includes("/national/")) {
+          const subject = {
+            physics: "ФИЗИКАДАН",
+            chemistry: "ХИМИЯДАН",
+            biology: "БИОЛОГИЯДАН",
+            geography: "ГЕОГРАФИЯДАН",
+            math: "МАТЕМАТИКАДАН",
+            informatics: "ИНФОРМАТИКА БОЙЫНША",
+            astronomy: "АСТРОНОМИЯДАН",
+          }[material.subject] || taskSubjectNames[material.subject].toUpperCase();
+          const stage = source.includes("district") || source.includes("rayon") || source.includes("audan")
+            ? "АУДАНДЫҚ ОЛИМПИАДА"
+            : source.includes("oblast") || source.includes("regional")
+              ? "ОБЛЫСТЫҚ ОЛИМПИАДА"
+              : "ОЛИМПИАДА";
+          return `РЕСПУБЛИКАЛЫҚ «ДАРЫН» ҒЫЛЫМИ-ТӘЖІРИБЕЛІК ОРТАЛЫҒЫ · ${subject} ${stage} ${year}`;
+        }
+        return officialOlympiadNames[olympiad.toLowerCase()] || olympiad.toUpperCase();
+      }
+
       function taskMediaUrl(file) {
         return `https://media.githubusercontent.com/media/gumarahmetkaliev-ai/QazAkx.olymp/main/public/${file}`;
       }
@@ -1727,8 +1765,9 @@
               : "other";
         return {
           olympiad,
-          officialName: officialOlympiadNames[olympiad.toLowerCase()] || olympiad,
+          officialName: officialCompetitionName(material, olympiad, year),
           year,
+          yearValue: Number(year) || 0,
           level,
           classes: classes.length ? classes.join(", ") : "Все классы",
           classValues: classes,
@@ -1741,12 +1780,14 @@
         const selectedSubject = document.getElementById("task-subject-filter")?.value || "all";
         const selectedGrade = document.getElementById("task-grade-filter")?.value || "all";
         const selectedLevel = document.getElementById("task-level-filter")?.value || "all";
+        const selectedLanguage = document.getElementById("task-language-filter")?.value || "all";
         const materials = (window.localOlympiads || []).filter((material) =>
           selectedSubject === "all" || material.subject === selectedSubject,
         ).filter((material) => {
           const info = taskPathInfo(material);
           return (selectedGrade === "all" || info.classValues.includes(selectedGrade)) &&
-            (selectedLevel === "all" || info.level === selectedLevel);
+            (selectedLevel === "all" || info.level === selectedLevel) &&
+            (selectedLanguage === "all" || materialLanguage(material) === selectedLanguage);
         });
         const groups = new Map();
         materials.forEach((material) => {
@@ -1759,10 +1800,10 @@
           list.innerHTML = "<p>Каталог загружается. Обновите страницу через несколько секунд.</p>";
           return;
         }
-        list.innerHTML = [...groups.values()].sort((a, b) => `${a.subject}${a.officialName}${a.year}`.localeCompare(`${b.subject}${b.officialName}${b.year}`)).map((group) => `
+        list.innerHTML = [...groups.values()].sort((a, b) => b.yearValue - a.yearValue || a.officialName.localeCompare(b.officialName)).map((group) => `
           <details class="task-card fade-in" open>
             <summary class="task-header"><span class="task-title">${taskSubjectNames[group.subject]} · ${group.officialName} · ${group.year}</span><span>${group.classes}</span></summary>
-            <div class="task-meta"><span>${group.files.length} материалов</span><span>Уровень: ${group.level}</span><span>Классы: ${group.classes}</span></div>
+            <div class="task-meta"><span>${group.files.length} материалов</span><span>Уровень: ${group.level}</span><span>Классы: ${group.classes}</span><span>Языки: ${[...new Set(group.files.map(materialLanguage))].join(", ")}</span></div>
             <div class="local-materials-list">${group.files.map((file) => `
               <div class="local-material"><div><strong>${file.title}</strong><small>${file.sourcePage}</small></div><div style="display:flex;gap:8px;flex-wrap:wrap"><a class="btn btn-secondary" href="${taskMediaUrl(file.file)}" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Условие</a><button class="btn" onclick='openSolver(${JSON.stringify(file)})'><i class="fas fa-pen"></i> Решать</button></div></div>
             `).join("")}</div>
@@ -1816,14 +1857,7 @@
         const feedback = document.getElementById("solution-feedback");
         feedback.textContent = "ИИ проверяет решение...";
         try {
-          const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${API_KEY}`, {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ contents: [{ parts: [{ text: `Проверь решение олимпиадной задачи. Файл условия: ${currentSolverMaterial.title}. Решение ученика:\n${answer}\nОтветь: правильно ли, ошибки, краткое объяснение и оценка от 0 до 10.` }] }] }),
-          });
-          if (!response.ok) throw new Error("AI unavailable");
-          const data = await response.json();
-          const text = data.candidates?.[0]?.content?.parts?.[0]?.text || "ИИ не дал ответ.";
+          const text = await requestAi(`Проверь решение олимпиадной задачи. Файл условия: ${currentSolverMaterial.title}. Решение ученика:\n${answer}\nОтветь: правильно ли, ошибки, краткое объяснение и оценка от 0 до 10.`);
           const scoreMatch = text.match(/(?:оценка|балл|score)[^0-9]*(10|[0-9])/i);
           const score = scoreMatch ? Number(scoreMatch[1]) : 0;
           const old = JSON.parse(localStorage.getItem(solutionKey(currentSolverMaterial)) || "{}");
@@ -2019,8 +2053,16 @@
 
       // --- Логика Чат-бота ---
 
-      // ВНИМАНИЕ: ЗАМЕНИ СТРОКУ НИЖЕ НА СВОЙ КЛЮЧ
-      const API_KEY = "AIzaSyAYkXlkZixzOU24c_reHtZeDzLzDShuF2w";
+      async function requestAi(prompt) {
+        const response = await fetch("/api/ai", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ prompt }),
+        });
+        const data = await response.json();
+        if (!response.ok) throw new Error(data.error?.message || "AI unavailable");
+        return data.text || "ИИ не дал ответ.";
+      }
 
       function toggleChat() {
         const chatWindow = document.getElementById("chat-window");
@@ -2049,31 +2091,7 @@
 
         try {
           // 3. Отправляем запрос к Gemini API
-          const response = await fetch(
-            `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${API_KEY}`,
-            {
-              method: "POST",
-              headers: {
-                "Content-Type": "application/json",
-              },
-              body: JSON.stringify({
-                contents: [
-                  {
-                    parts: [
-                      {
-                        text: `Ты помощник на сайте олимпиадной химии QazAkx. Отвечай кратко и по делу. Вопрос: ${userText}`,
-                      },
-                    ],
-                  },
-                ],
-              }),
-            },
-          );
-
-          const data = await response.json();
-
-          // 4. Получаем ответ
-          const botText = data.candidates[0].content.parts[0].text;
+          const botText = await requestAi(`Ты помощник на сайте олимпиад QazAkx. Отвечай кратко и по делу. Вопрос: ${userText}`);
 
           // Удаляем "Думаю..." и пишем ответ
           const loadingElement = document.querySelector(
@@ -2093,7 +2111,7 @@
             `[data-id="${loadingId}"]`,
           );
           if (loadingElement)
-            loadingElement.innerText = "Ошибка соединения. Проверь API ключ.";
+            loadingElement.innerText = "ИИ временно недоступен. Проверь интернет или API-ключ.";
         }
       }
 
