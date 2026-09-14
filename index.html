@@ -1085,8 +1085,22 @@
         </div>
 
         <h1 style="margin-bottom: 30px; color: var(--primary)">
-          🧪 Олимпиадные задания • <span id="tasks-grade">10</span> класс
+          🏆 Олимпиадные задания
         </h1>
+
+        <div class="filters" style="margin-bottom: 30px">
+          <label for="task-subject-filter">Предмет:</label>
+          <select id="task-subject-filter" onchange="renderTaskCatalog()">
+            <option value="all">Все технические предметы</option>
+            <option value="astronomy">Астрономия</option>
+            <option value="biology">Биология</option>
+            <option value="geography">География</option>
+            <option value="informatics">Информатика</option>
+            <option value="math">Математика</option>
+            <option value="physics">Физика</option>
+            <option value="chemistry">Химия</option>
+          </select>
+        </div>
 
         <div
           style="display: flex; gap: 10px; margin-bottom: 30px; flex-wrap: wrap"
@@ -1105,79 +1119,9 @@
           </button>
         </div>
 
-        <div id="tasks-list">
-          <div class="task-card fade-in">
-            <div class="task-header">
-              <div class="task-title">Тема: ОВР в неорганике</div>
-              <div class="stars">★★★☆☆</div>
-            </div>
-            <div class="task-meta">
-              <span><i class="far fa-star"></i> 25 баллов</span>
-              <span><i class="far fa-clock"></i> 45 мин</span>
-              <span
-                ><i
-                  class="fas fa-check-circle"
-                  style="color: var(--success)"
-                ></i>
-                Решено</span
-              >
-            </div>
-            <p style="margin: 15px 0">
-              Задача №1: Окислительно-восстановительные реакции в неорганической
-              химии. Составьте уравнения и расставьте коэффициенты.
-            </p>
-            <button
-              class="btn"
-              onclick="startTask(1)"
-              style="padding: 10px 20px"
-            >
-              <i class="fas fa-play"></i> Начать решение
-            </button>
-          </div>
+        <div id="tasks-list"></div>
 
-          <div class="task-card fade-in">
-            <div class="task-header">
-              <div class="task-title">Тема: Органический синтез</div>
-              <div class="stars">★★★★★</div>
-            </div>
-            <div class="task-meta">
-              <span><i class="far fa-star"></i> 40 баллов</span>
-              <span><i class="far fa-clock"></i> 60 мин</span>
-              <span
-                ><i class="fas fa-circle" style="color: #ff6584"></i>
-                Новая</span
-              >
-            </div>
-            <p style="margin: 15px 0">
-              Задача №2: Синтез органического соединения из предложенных
-              реагентов. Определите структуры промежуточных веществ.
-            </p>
-            <button
-              class="btn"
-              onclick="startTask(2)"
-              style="padding: 10px 20px"
-            >
-              <i class="fas fa-play"></i> Начать решение
-            </button>
-          </div>
-        </div>
-
-        <div
-          style="
-            display: flex;
-            justify-content: center;
-            gap: 10px;
-            margin: 40px 0;
-          "
-        >
-          <button class="btn btn-secondary" style="padding: 8px 16px">1</button>
-          <button class="btn btn-secondary" style="padding: 8px 16px">2</button>
-          <button class="btn btn-secondary" style="padding: 8px 16px">3</button>
-          <span style="padding: 8px 16px">...</span>
-          <button class="btn btn-secondary" style="padding: 8px 16px">
-            10
-          </button>
-        </div>
+        <div id="tasks-pagination" style="margin: 40px 0"></div>
 
         <div style="text-align: center">
           <button class="btn btn-secondary" onclick="goToPage('chemistry')">
@@ -1624,6 +1568,10 @@
           initVideoPage();
         }
 
+        if (pageId === "tasks") {
+          renderTaskCatalog();
+        }
+
         // Прокрутить наверх
         window.scrollTo(0, 0);
       }
@@ -1662,6 +1610,7 @@
           const materials = await response.json();
           window.localOlympiads = materials;
           renderLocalOlympiads(materials);
+          renderTaskCatalog();
         } catch (error) {
           count.textContent = "Материалы ещё загружаются";
           list.innerHTML = "<p>Локальная библиотека появится после завершения импорта.</p>";
@@ -1687,6 +1636,59 @@
         renderLocalOlympiads(materials);
         const section = document.querySelector(".local-materials");
         if (section) section.scrollIntoView({ behavior: "smooth", block: "start" });
+      }
+
+      const taskSubjectNames = {
+        astronomy: "Астрономия",
+        biology: "Биология",
+        geography: "География",
+        informatics: "Информатика",
+        math: "Математика",
+        physics: "Физика",
+        chemistry: "Химия",
+      };
+
+      function taskMediaUrl(file) {
+        return `https://media.githubusercontent.com/media/gumarahmetkaliev-ai/QazAkx.olymp/main/public/${file}`;
+      }
+
+      function taskPathInfo(material) {
+        const parts = new URL(material.sourcePage).pathname.split("/").filter(Boolean);
+        const sourceIndex = parts.indexOf("s");
+        const olympiad = sourceIndex >= 0 ? parts[sourceIndex + 1] : "other";
+        const year = sourceIndex >= 0 ? parts[sourceIndex + 2] : "без года";
+        const classMatches = material.title.match(/(?:^|[-_])(7|8|9|10|11|12)(?:[-_]|\.)/g) || [];
+        const classes = [...new Set(classMatches.map((value) => value.replace(/[^0-9]/g, "")))];
+        return { olympiad, year, classes: classes.length ? classes.join(", ") : "Все классы" };
+      }
+
+      function renderTaskCatalog() {
+        const list = document.getElementById("tasks-list");
+        if (!list) return;
+        const selectedSubject = document.getElementById("task-subject-filter")?.value || "all";
+        const materials = (window.localOlympiads || []).filter((material) =>
+          selectedSubject === "all" || material.subject === selectedSubject,
+        );
+        const groups = new Map();
+        materials.forEach((material) => {
+          const info = taskPathInfo(material);
+          const key = `${material.subject}|${info.olympiad}|${info.year}`;
+          if (!groups.has(key)) groups.set(key, { ...info, subject: material.subject, files: [] });
+          groups.get(key).files.push(material);
+        });
+        if (!materials.length) {
+          list.innerHTML = "<p>Каталог загружается. Обновите страницу через несколько секунд.</p>";
+          return;
+        }
+        list.innerHTML = [...groups.values()].sort((a, b) => `${a.subject}${a.olympiad}${a.year}`.localeCompare(`${b.subject}${b.olympiad}${b.year}`)).map((group) => `
+          <details class="task-card fade-in" open>
+            <summary class="task-header"><span class="task-title">${taskSubjectNames[group.subject]} · ${group.olympiad} · ${group.year}</span><span>${group.classes}</span></summary>
+            <div class="task-meta"><span>${group.files.length} материалов</span><span>Классы: ${group.classes}</span></div>
+            <div class="local-materials-list">${group.files.map((file) => `
+              <div class="local-material"><div><strong>${file.title}</strong><small>${file.sourcePage}</small></div><a class="btn" href="${taskMediaUrl(file.file)}" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Открыть</a></div>
+            `).join("")}</div>
+          </details>
+        `).join("");
       }
 
       // Функция для начала решения задачи (из первой версии)
