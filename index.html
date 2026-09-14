@@ -1677,7 +1677,7 @@
         list.innerHTML = materials.map((material) => `
             <article class="local-material">
               <div><strong>${material.title}</strong><small>${material.subject} · ${material.sourcePage}</small></div>
-              <a class="btn" href="${mediaBase}${material.file}" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Открыть</a>
+              <a class="btn" href="${mediaBase}public/${material.file}" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Открыть</a>
             </article>
           `).join("");
       }
