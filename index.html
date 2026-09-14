@@ -737,6 +737,12 @@
           <button class="btn btn-secondary" onclick="goToPage('olympiads')">
             <i class="fas fa-book-open"></i> Все олимпиады
           </button>
+          <button class="btn btn-secondary" id="account-button" onclick="goToPage('auth')">
+            <i class="fas fa-user"></i> Войти
+          </button>
+          <button class="btn btn-secondary" id="account-button" onclick="goToPage('auth')">
+            <i class="fas fa-user"></i> Войти
+          </button>
         </div>
       </div>
     </nav>
@@ -776,6 +782,26 @@
           </div>
         </div>
       </section>
+    </div>
+
+    <div id="auth" class="page">
+      <div class="container" style="padding-top: 60px; max-width: 560px">
+        <div class="breadcrumbs"><a href="#" onclick="goToPage('home')">Главная</a><span>→</span><span>Аккаунт</span></div>
+        <div class="card">
+          <h1 style="color: var(--primary); margin-bottom: 10px">Аккаунт ученика</h1>
+          <p style="color: #666; margin-bottom: 24px">Регистрация сохраняет твой прогресс на этом устройстве.</p>
+          <div style="display: grid; gap: 12px">
+            <input id="auth-name" type="text" placeholder="Имя" style="padding: 12px; border: 1px solid var(--border); border-radius: 8px">
+            <input id="auth-email" type="email" placeholder="Email" style="padding: 12px; border: 1px solid var(--border); border-radius: 8px">
+            <input id="auth-password" type="password" placeholder="Пароль" style="padding: 12px; border: 1px solid var(--border); border-radius: 8px">
+          </div>
+          <div style="display:flex; gap:10px; flex-wrap:wrap; margin-top:16px">
+            <button class="btn" onclick="registerAccount()">Зарегистрироваться</button>
+            <button class="btn btn-secondary" onclick="loginAccount()">Войти</button>
+          </div>
+          <p id="auth-feedback" style="margin-top: 16px"></p>
+        </div>
+      </div>
     </div>
 
     <div id="subject" class="page">
@@ -1167,16 +1193,36 @@
           <p style="margin-top: 12px">Открой условие в PDF и запиши решение ниже. Ответ сохраняется на этом устройстве.</p>
         </div>
         <div class="task-card">
-          <label for="solution-answer"><strong>Твоё решение</strong></label>
-          <textarea id="solution-answer" rows="12" style="width: 100%; margin-top: 12px; padding: 14px; border: 1px solid var(--border); border-radius: 8px; resize: vertical" placeholder="Напиши ход решения и ответ..."></textarea>
+          <div style="display:flex; justify-content:space-between; align-items:center; gap:12px; flex-wrap:wrap"><strong>Ответы по вопросам</strong><button class="btn btn-secondary" onclick="addQuestion()"><i class="fas fa-plus"></i> Добавить вопрос</button></div>
+          <div id="question-answers" style="display:grid; gap:16px; margin-top:16px"></div>
           <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 14px">
             <button class="btn" onclick="checkCurrentSolution()"><i class="fas fa-robot"></i> Проверить ИИ</button>
-            <button class="btn btn-secondary" onclick="saveCurrentSolution()"><i class="fas fa-save"></i> Сохранить</button>
+            <button class="btn btn-secondary" onclick="saveCurrentSolution()"><i class="fas fa-save"></i> Сохранить всё</button>
           </div>
           <div id="solution-feedback" style="margin-top: 16px"></div>
         </div>
-        <div class="card"><strong>Прогресс</strong><p id="solver-progress" style="margin-top: 8px"></p></div>
+        <div class="card"><strong>Прогресс аккаунта</strong><p id="solver-progress" style="margin-top: 8px"></p><div id="olympiad-progress" style="margin-top:12px"></div></div>
         <div style="text-align: center; margin-top: 24px"><button class="btn btn-secondary" onclick="goToPage('tasks')"><i class="fas fa-arrow-left"></i> К каталогу</button></div>
+      </div>
+    </div>
+
+    <div id="auth" class="page">
+      <div class="container" style="padding-top: 60px; max-width: 560px">
+        <div class="breadcrumbs"><a href="#" onclick="goToPage('home')">Главная</a><span>→</span><span>Аккаунт</span></div>
+        <div class="card">
+          <h1 style="color: var(--primary); margin-bottom: 10px">Аккаунт ученика</h1>
+          <p style="color: #666; margin-bottom: 24px">Регистрация сохраняет твой прогресс на этом устройстве.</p>
+          <div style="display: grid; gap: 12px">
+            <input id="auth-name" type="text" placeholder="Имя" style="padding: 12px; border: 1px solid var(--border); border-radius: 8px">
+            <input id="auth-email" type="email" placeholder="Email" style="padding: 12px; border: 1px solid var(--border); border-radius: 8px">
+            <input id="auth-password" type="password" placeholder="Пароль" style="padding: 12px; border: 1px solid var(--border); border-radius: 8px">
+          </div>
+          <div style="display:flex; gap:10px; flex-wrap:wrap; margin-top:16px">
+            <button class="btn" onclick="registerAccount()">Зарегистрироваться</button>
+            <button class="btn btn-secondary" onclick="loginAccount()">Войти</button>
+          </div>
+          <p id="auth-feedback" style="margin-top: 16px"></p>
+        </div>
       </div>
     </div>
 
@@ -1812,19 +1858,81 @@
       }
 
       let currentSolverMaterial = null;
+      let currentQuestions = [];
+      let pendingSolverMaterial = null;
+      let currentUser = JSON.parse(localStorage.getItem("qazakx-current-user") || "null");
+
+      async function hashPassword(password) {
+        const hash = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(password));
+        return [...new Uint8Array(hash)].map((byte) => byte.toString(16).padStart(2, "0")).join("");
+      }
+
+      function accountKey(email) {
+        return `qazakx-user-${email.toLowerCase().trim()}`;
+      }
+
+      function updateAccountButton() {
+        const button = document.getElementById("account-button");
+        if (!button) return;
+        button.innerHTML = currentUser ? `<i class="fas fa-user"></i> ${currentUser.name} · Выйти` : '<i class="fas fa-user"></i> Войти';
+        button.onclick = currentUser ? logoutAccount : () => goToPage("auth");
+      }
+
+      async function registerAccount() {
+        const name = document.getElementById("auth-name").value.trim();
+        const email = document.getElementById("auth-email").value.trim().toLowerCase();
+        const password = document.getElementById("auth-password").value;
+        const feedback = document.getElementById("auth-feedback");
+        if (!name || !email || password.length < 6) return (feedback.textContent = "Укажи имя, email и пароль минимум из 6 символов.");
+        if (localStorage.getItem(accountKey(email))) return (feedback.textContent = "Такой аккаунт уже есть. Войди в него.");
+        const user = { name, email, passwordHash: await hashPassword(password) };
+        localStorage.setItem(accountKey(email), JSON.stringify(user));
+        currentUser = { name, email };
+        localStorage.setItem("qazakx-current-user", JSON.stringify(currentUser));
+        updateAccountButton();
+        feedback.textContent = "Аккаунт создан. Прогресс будет сохраняться за ним.";
+        if (pendingSolverMaterial) openSolver(pendingSolverMaterial);
+      }
+
+      async function loginAccount() {
+        const email = document.getElementById("auth-email").value.trim().toLowerCase();
+        const saved = JSON.parse(localStorage.getItem(accountKey(email)) || "null");
+        const feedback = document.getElementById("auth-feedback");
+        if (!saved || saved.passwordHash !== await hashPassword(document.getElementById("auth-password").value)) return (feedback.textContent = "Неверный email или пароль.");
+        currentUser = { name: saved.name, email: saved.email };
+        localStorage.setItem("qazakx-current-user", JSON.stringify(currentUser));
+        updateAccountButton();
+        feedback.textContent = `С возвращением, ${saved.name}!`;
+        if (pendingSolverMaterial) openSolver(pendingSolverMaterial);
+      }
+
+      function logoutAccount() {
+        currentUser = null;
+        localStorage.removeItem("qazakx-current-user");
+        updateAccountButton();
+        goToPage("home");
+      }
 
       function solutionKey(material) {
-        return `qazakx-solution-${material.file}`;
+        return `qazakx-solution-${currentUser?.email || "guest"}-${material.file}`;
       }
 
       function openSolver(material) {
+        if (!currentUser) {
+          pendingSolverMaterial = material;
+          goToPage("auth");
+          document.getElementById("auth-feedback").textContent = "Сначала войди или зарегистрируйся, чтобы сохранять ответы.";
+          return;
+        }
         currentSolverMaterial = material;
+        pendingSolverMaterial = null;
         const info = taskPathInfo(material);
         document.getElementById("solver-title").textContent = `${taskSubjectNames[material.subject]} · ${info.officialName} · ${info.year}`;
         document.getElementById("solver-meta").textContent = `${material.title} · ${info.classes} · ${info.level}`;
         document.getElementById("solver-pdf").href = taskMediaUrl(material.file);
         const saved = JSON.parse(localStorage.getItem(solutionKey(material)) || "{}");
-        document.getElementById("solution-answer").value = saved.answer || "";
+        currentQuestions = saved.questions || [{ number: 1, answer: "", feedback: "", score: null }];
+        renderQuestionAnswers();
         document.getElementById("solution-feedback").textContent = saved.feedback || "";
         updateSolverProgress();
         goToPage("solver");
@@ -1832,38 +1940,57 @@
 
       function saveCurrentSolution(feedback = "") {
         if (!currentSolverMaterial) return;
-        const answer = document.getElementById("solution-answer").value.trim();
+        currentQuestions.forEach((question) => { question.answer = document.getElementById(`answer-${question.number}`)?.value.trim() || ""; });
         const old = JSON.parse(localStorage.getItem(solutionKey(currentSolverMaterial)) || "{}");
-        localStorage.setItem(solutionKey(currentSolverMaterial), JSON.stringify({ ...old, answer, feedback, savedAt: new Date().toISOString() }));
+        localStorage.setItem(solutionKey(currentSolverMaterial), JSON.stringify({ ...old, questions: currentQuestions, feedback, savedAt: new Date().toISOString() }));
         document.getElementById("solution-feedback").textContent = feedback || "Решение сохранено на этом устройстве.";
         updateSolverProgress();
       }
 
+      function renderQuestionAnswers() {
+        const container = document.getElementById("question-answers");
+        if (!container) return;
+        container.innerHTML = currentQuestions.map((question) => `<div style="border:1px solid var(--border); border-radius:8px; padding:14px"><label for="answer-${question.number}"><strong>Вопрос ${question.number}</strong></label><textarea id="answer-${question.number}" rows="7" style="width:100%; margin-top:10px; padding:12px; border:1px solid var(--border); border-radius:8px; resize:vertical" placeholder="Запиши решение вопроса ${question.number}..."></textarea><p id="feedback-${question.number}" style="margin-top:10px">${question.feedback || ""}</p></div>`).join("");
+        currentQuestions.forEach((question) => { const input = document.getElementById(`answer-${question.number}`); if (input) input.value = question.answer || ""; });
+      }
+
+      function addQuestion() {
+        currentQuestions.push({ number: currentQuestions.length + 1, answer: "", feedback: "", score: null });
+        renderQuestionAnswers();
+      }
+
       function updateSolverProgress() {
         const materials = window.localOlympiads || [];
-        const solved = materials.filter((material) => JSON.parse(localStorage.getItem(solutionKey(material)) || "{}").score !== undefined).length;
-        const score = materials.reduce((sum, material) => sum + Number(JSON.parse(localStorage.getItem(solutionKey(material)) || "{}").score || 0), 0);
+        const states = materials.map((material) => ({ material, state: JSON.parse(localStorage.getItem(solutionKey(material)) || "{}") }));
+        const solved = states.filter(({ state }) => state.questions?.some((question) => question.score !== null && question.score !== undefined)).length;
+        const score = states.reduce((sum, { state }) => sum + (state.questions || []).reduce((total, question) => total + Number(question.score || 0), 0), 0);
         const target = document.getElementById("solver-progress");
-        if (target) target.textContent = `${solved} проверено из ${materials.length}. Баллы: ${score}`;
+        if (target) target.textContent = `${currentUser ? currentUser.name : "Гость"}: ${solved} олимпиад проверено из ${materials.length}. Баллы: ${score}`;
+        const byOlympiad = {};
+        states.forEach(({ material, state }) => { const info = taskPathInfo(material); const key = `${info.officialName} · ${info.year}`; byOlympiad[key] ||= { checked: 0, score: 0 }; if ((state.questions || []).some((question) => question.score !== null && question.score !== undefined)) byOlympiad[key].checked++; byOlympiad[key].score += (state.questions || []).reduce((total, question) => total + Number(question.score || 0), 0); });
+        const olympiadProgress = document.getElementById("olympiad-progress");
+        if (olympiadProgress) olympiadProgress.innerHTML = Object.entries(byOlympiad).filter(([, value]) => value.checked).map(([name, value]) => `<div>${name}: ${value.checked} проверено · ${value.score} баллов</div>`).join("") || "Пока нет проверенных вопросов.";
       }
 
       async function checkCurrentSolution() {
         if (!currentSolverMaterial) return;
-        const answer = document.getElementById("solution-answer").value.trim();
-        if (!answer) {
-          document.getElementById("solution-feedback").textContent = "Сначала напиши решение.";
+        currentQuestions.forEach((question) => { question.answer = document.getElementById(`answer-${question.number}`)?.value.trim() || ""; });
+        if (!currentQuestions.some((question) => question.answer)) {
+          document.getElementById("solution-feedback").textContent = "Сначала напиши хотя бы один ответ.";
           return;
         }
         const feedback = document.getElementById("solution-feedback");
-        feedback.textContent = "ИИ проверяет решение...";
+        feedback.textContent = "ИИ проверяет ответы по вопросам...";
         try {
-          const text = await requestAi(`Проверь решение олимпиадной задачи. Файл условия: ${currentSolverMaterial.title}. Решение ученика:\n${answer}\nОтветь: правильно ли, ошибки, краткое объяснение и оценка от 0 до 10.`);
-          const scoreMatch = text.match(/(?:оценка|балл|score)[^0-9]*(10|[0-9])/i);
-          const score = scoreMatch ? Number(scoreMatch[1]) : 0;
-          const old = JSON.parse(localStorage.getItem(solutionKey(currentSolverMaterial)) || "{}");
-          localStorage.setItem(solutionKey(currentSolverMaterial), JSON.stringify({ ...old, answer, feedback: text, score, checkedAt: new Date().toISOString() }));
-          feedback.textContent = text;
-          updateSolverProgress();
+          for (const question of currentQuestions.filter((item) => item.answer)) {
+            const text = await requestAi(`Проверь вопрос ${question.number} олимпиады ${currentSolverMaterial.title}. Ответ ученика:\n${question.answer}\nДай краткую проверку и оценку от 0 до 10.`);
+            const scoreMatch = text.match(/(?:оценка|балл|score)[^0-9]*(10|[0-9])/i);
+            question.score = scoreMatch ? Number(scoreMatch[1]) : 0;
+            question.feedback = text;
+            const result = document.getElementById(`feedback-${question.number}`);
+            if (result) result.textContent = `${question.score}/10 · ${text}`;
+          }
+          saveCurrentSolution("Проверка завершена. Ответы и баллы сохранены.");
         } catch (error) {
           feedback.textContent = "ИИ временно недоступен. Решение можно сохранить вручную.";
         }
@@ -2036,6 +2163,7 @@
 
       // Инициализация при загрузке
       document.addEventListener("DOMContentLoaded", function () {
+        updateAccountButton();
         // По умолчанию показываем главную страницу
         goToPage("home");
 
