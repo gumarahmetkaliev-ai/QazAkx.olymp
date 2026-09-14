@@ -61,8 +61,8 @@ async function main() {
     const parsed = new URL(remoteUrl);
     const subject = parsed.pathname.split("/")[1] || "other";
     const safeName = `${String(index++).padStart(5, "0")}-${path.basename(parsed.pathname).replace(/[^a-zA-Z0-9._-]/g, "-")}`;
-    const relativeFile = path.join("public", "olympiads", subject, safeName);
-    const localFile = path.join(__dirname, "..", relativeFile);
+    const relativeFile = path.join("olympiads", subject, safeName);
+    const localFile = path.join(__dirname, "..", "public", relativeFile);
     fs.mkdirSync(path.dirname(localFile), { recursive: true });
     if (!fs.existsSync(localFile)) {
       console.log(`Downloading ${index}/${pdfs.size}: ${remoteUrl}`);
