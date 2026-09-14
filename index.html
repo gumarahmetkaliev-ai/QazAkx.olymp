@@ -860,13 +860,13 @@
         <div class="library-cycle">
           <h2>Естественно-математический цикл</h2>
           <div class="grid grid-4 olympiad-links">
-            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('astronomy')"><span>🔭</span><strong>Астрономия</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
-            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('biology')"><span>🧬</span><strong>Биология</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
-            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('geography')"><span>🌍</span><strong>География</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
-            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('informatics')"><span>💻</span><strong>Информатика</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
-            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('math')"><span>∑</span><strong>Математика</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
-            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('physics')"><span>⚛</span><strong>Физика</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
-            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('chemistry')"><span>🧪</span><strong>Химия</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
+            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('astronomy'); return false;"><span>🔭</span><strong>Астрономия</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
+            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('biology'); return false;"><span>🧬</span><strong>Биология</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
+            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('geography'); return false;"><span>🌍</span><strong>География</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
+            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('informatics'); return false;"><span>💻</span><strong>Информатика</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
+            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('math'); return false;"><span>∑</span><strong>Математика</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
+            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('physics'); return false;"><span>⚛</span><strong>Физика</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
+            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('chemistry'); return false;"><span>🧪</span><strong>Химия</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
           </div>
         </div>
 
@@ -1684,7 +1684,8 @@
       function showLocalOlympiads(subject) {
         const materials = (window.localOlympiads || []).filter((material) => material.subject === subject);
         renderLocalOlympiads(materials);
-        document.getElementById("local-materials")?.scrollIntoView({ behavior: "smooth" });
+        const section = document.querySelector(".local-materials");
+        if (section) section.scrollIntoView({ behavior: "smooth", block: "start" });
       }
 
       // Функция для начала решения задачи (из первой версии)
