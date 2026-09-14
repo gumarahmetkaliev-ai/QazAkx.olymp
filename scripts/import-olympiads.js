@@ -3,9 +3,8 @@ const path = require("path");
 
 const origin = "https://olympiads.bc-pf.org";
 const subjects = [
-  "astronomy", "biology", "geography", "informatics", "linguistics",
-  "math", "physics", "chemistry", "english", "history", "krsh", "kll",
-  "deutsch", "law", "rksh", "rll",
+  "astronomy", "biology", "geography", "informatics", "math", "physics",
+  "chemistry",
 ];
 const outputRoot = path.join(__dirname, "..", "public", "olympiads");
 const manifestPath = path.join(__dirname, "..", "olympiads.json");
@@ -22,6 +21,11 @@ function linksFromHtml(html) {
 
 function absoluteUrl(value) {
   try { return new URL(value, origin).toString(); } catch { return null; }
+}
+
+function subjectFromUrl(url) {
+  const parts = new URL(url).pathname.split("/").filter(Boolean);
+  return parts[0] === "olympiads" ? parts[1] || "other" : parts[0] || "other";
 }
 
 async function main() {
@@ -59,17 +63,25 @@ async function main() {
   let index = 0;
   for (const [remoteUrl, sourcePage] of pdfs) {
     const parsed = new URL(remoteUrl);
-    const subject = parsed.pathname.split("/")[1] || "other";
+    const subject = subjectFromUrl(remoteUrl);
     const safeName = `${String(index++).padStart(5, "0")}-${path.basename(parsed.pathname).replace(/[^a-zA-Z0-9._-]/g, "-")}`;
     const relativeFile = path.join("olympiads", subject, safeName);
     const localFile = path.join(__dirname, "..", "public", relativeFile);
+    const legacyFile = path.join(__dirname, "..", "public", "olympiads", "olympiads", safeName);
     fs.mkdirSync(path.dirname(localFile), { recursive: true });
-    if (!fs.existsSync(localFile)) {
-      console.log(`Downloading ${index}/${pdfs.size}: ${remoteUrl}`);
-      const buffer = Buffer.from(await (await get(remoteUrl)).arrayBuffer());
-      fs.writeFileSync(localFile, buffer);
+    try {
+      if (!fs.existsSync(localFile) && fs.existsSync(legacyFile)) {
+        fs.renameSync(legacyFile, localFile);
+      }
+      if (!fs.existsSync(localFile)) {
+        console.log(`Downloading ${index}/${pdfs.size}: ${remoteUrl}`);
+        const buffer = Buffer.from(await (await get(remoteUrl)).arrayBuffer());
+        fs.writeFileSync(localFile, buffer);
+      }
+      manifest.push({ subject, title: path.basename(parsed.pathname), sourcePage, file: relativeFile });
+    } catch (error) {
+      console.warn(`Skipped PDF ${remoteUrl}: ${error.message}`);
     }
-    manifest.push({ subject, title: path.basename(parsed.pathname), sourcePage, file: relativeFile });
   }
   fs.writeFileSync(manifestPath, `${JSON.stringify(manifest, null, 2)}\n`);
   console.log(`Imported ${manifest.length} PDF files from ${visited.size} pages.`);
