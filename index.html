@@ -852,7 +852,7 @@
           <div>
             <span class="badge">BeyondOlympiads</span>
             <h1>Задания олимпиад<br /><span>прошлых лет</span></h1>
-            <p>Открывай задачи и решения по предметам на сайте-источнике. Каталог обновляется там же, поэтому ссылки всегда ведут к актуальным материалам.</p>
+            <p>Открывай скачанные задания и решения прямо внутри сайта. Материалы доступны локально по техническим предметам.</p>
           </div>
           <a class="btn btn-large" href="https://olympiads.bc-pf.org/" target="_blank" rel="noopener">Открыть сайт <i class="fas fa-external-link-alt"></i></a>
         </div>
@@ -860,14 +860,13 @@
         <div class="library-cycle">
           <h2>Естественно-математический цикл</h2>
           <div class="grid grid-4 olympiad-links">
-            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/astronomy" target="_blank" rel="noopener"><span>🔭</span><strong>Астрономия</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
-            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/biology" target="_blank" rel="noopener"><span>🧬</span><strong>Биология</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
-            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/geography" target="_blank" rel="noopener"><span>🌍</span><strong>География</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
-            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/informatics" target="_blank" rel="noopener"><span>💻</span><strong>Информатика</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
-            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/linguistics" target="_blank" rel="noopener"><span>🔤</span><strong>Лингвистика</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
-            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/math" target="_blank" rel="noopener"><span>∑</span><strong>Математика</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
-            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/physics" target="_blank" rel="noopener"><span>⚛</span><strong>Физика</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
-            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/chemistry" target="_blank" rel="noopener"><span>🧪</span><strong>Химия</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
+            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('astronomy')"><span>🔭</span><strong>Астрономия</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
+            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('biology')"><span>🧬</span><strong>Биология</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
+            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('geography')"><span>🌍</span><strong>География</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
+            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('informatics')"><span>💻</span><strong>Информатика</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
+            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('math')"><span>∑</span><strong>Математика</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
+            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('physics')"><span>⚛</span><strong>Физика</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
+            <a class="card olympiad-link" href="#local-materials" onclick="showLocalOlympiads('chemistry')"><span>🧪</span><strong>Химия</strong><small>Локальные задания <i class="fas fa-arrow-down"></i></small></a>
           </div>
         </div>
 
@@ -1661,17 +1660,31 @@
           const response = await fetch("olympiads.json");
           if (!response.ok) throw new Error("Manifest unavailable");
           const materials = await response.json();
-          count.textContent = `${materials.length} материалов сохранено локально`;
-          list.innerHTML = materials.map((material) => `
+          window.localOlympiads = materials;
+          renderLocalOlympiads(materials);
+        } catch (error) {
+          count.textContent = "Материалы ещё загружаются";
+          list.innerHTML = "<p>Локальная библиотека появится после завершения импорта.</p>";
+        }
+      }
+
+      function renderLocalOlympiads(materials) {
+        const list = document.getElementById("local-materials-list");
+        const count = document.getElementById("local-materials-count");
+        if (!list || !count) return;
+        count.textContent = `${materials.length} материалов сохранено локально`;
+        list.innerHTML = materials.map((material) => `
             <article class="local-material">
               <div><strong>${material.title}</strong><small>${material.subject} · ${material.sourcePage}</small></div>
               <a class="btn" href="${material.file}" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Открыть</a>
             </article>
           `).join("");
-        } catch (error) {
-          count.textContent = "Материалы ещё загружаются";
-          list.innerHTML = "<p>Локальная библиотека появится после завершения импорта.</p>";
-        }
+      }
+
+      function showLocalOlympiads(subject) {
+        const materials = (window.localOlympiads || []).filter((material) => material.subject === subject);
+        renderLocalOlympiads(materials);
+        document.getElementById("local-materials")?.scrollIntoView({ behavior: "smooth" });
       }
 
       // Функция для начала решения задачи (из первой версии)
