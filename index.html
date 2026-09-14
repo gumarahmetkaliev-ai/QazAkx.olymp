@@ -463,6 +463,116 @@
         background: var(--primary-dark);
       }
 
+      .library-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: end;
+        gap: 30px;
+        margin-bottom: 55px;
+      }
+
+      .library-header h1 {
+        color: var(--primary);
+        margin: 12px 0;
+      }
+
+      .library-header h1 span {
+        color: var(--accent);
+      }
+
+      .library-header p {
+        max-width: 620px;
+        color: #666;
+      }
+
+      .library-cycle {
+        margin-bottom: 55px;
+      }
+
+      .library-cycle h2 {
+        color: var(--primary);
+        margin-bottom: 25px;
+      }
+
+      .olympiad-link {
+        color: var(--text);
+        text-decoration: none;
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+      }
+
+      .olympiad-link > span {
+        font-size: 34px;
+      }
+
+      .olympiad-link strong {
+        font-size: 1rem;
+      }
+
+      .olympiad-link small {
+        color: #777;
+      }
+
+      .olympiad-link small i {
+        color: var(--primary);
+        margin-left: 4px;
+      }
+
+      .prep-card {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 30px;
+        background: linear-gradient(135deg, #f0f2ff, #fff1f4);
+        border: 1px solid var(--border);
+        border-radius: 16px;
+        padding: 30px;
+        margin-bottom: 20px;
+      }
+
+      .prep-card h2 {
+        color: var(--primary);
+        margin: 10px 0 4px;
+      }
+
+      .prep-card p {
+        color: #666;
+      }
+
+      .prep-list {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(120px, 1fr));
+        gap: 10px;
+        min-width: 270px;
+      }
+
+      .prep-list a {
+        background: white;
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        color: var(--primary);
+        padding: 9px 12px;
+        text-align: center;
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 0.9rem;
+      }
+
+      .prep-list a:hover {
+        border-color: var(--primary);
+      }
+
+      .source-note {
+        color: #888;
+        font-size: 0.85rem;
+        text-align: right;
+      }
+
+      .source-note a {
+        color: var(--primary);
+      }
+
       .chat-window {
         width: 350px;
         height: 500px;
@@ -571,6 +681,9 @@
           <button class="btn btn-secondary" onclick="goToPage('home')">
             <i class="fas fa-home"></i> Главная
           </button>
+          <button class="btn btn-secondary" onclick="goToPage('olympiads')">
+            <i class="fas fa-book-open"></i> Все олимпиады
+          </button>
         </div>
       </div>
     </nav>
@@ -624,7 +737,7 @@
           Выберите предмет для подготовки
         </h1>
         <p style="margin-bottom: 40px; color: #666">
-          Пока доступна только химия, другие предметы скоро появятся
+          Химия внутри платформы, а задания по другим предметам доступны в каталоге олимпиад
         </p>
 
         <div class="grid grid-3" style="max-width: 900px; margin: 0 auto">
@@ -664,10 +777,67 @@
         </div>
 
         <div style="text-align: center; margin-top: 40px">
+          <button class="btn" onclick="goToPage('olympiads')" style="margin-right: 10px">
+            <i class="fas fa-book-open"></i> Каталог олимпиад
+          </button>
           <button class="btn btn-secondary" onclick="goToPage('home')">
             <i class="fas fa-arrow-left"></i> Назад
           </button>
         </div>
+      </div>
+    </div>
+
+    <div id="olympiads" class="page">
+      <div class="container olympiad-library" style="padding-top: 60px">
+        <div class="breadcrumbs">
+          <a href="#" onclick="goToPage('home')">Главная</a>
+          <span>→</span>
+          <span>Каталог олимпиад</span>
+        </div>
+
+        <div class="library-header">
+          <div>
+            <span class="badge">BeyondOlympiads</span>
+            <h1>Задания олимпиад<br /><span>прошлых лет</span></h1>
+            <p>Открывай задачи и решения по предметам на сайте-источнике. Каталог обновляется там же, поэтому ссылки всегда ведут к актуальным материалам.</p>
+          </div>
+          <a class="btn btn-large" href="https://olympiads.bc-pf.org/" target="_blank" rel="noopener">Открыть сайт <i class="fas fa-external-link-alt"></i></a>
+        </div>
+
+        <div class="library-cycle">
+          <h2>Естественно-математический цикл</h2>
+          <div class="grid grid-4 olympiad-links">
+            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/astronomy" target="_blank" rel="noopener"><span>🔭</span><strong>Астрономия</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
+            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/biology" target="_blank" rel="noopener"><span>🧬</span><strong>Биология</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
+            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/geography" target="_blank" rel="noopener"><span>🌍</span><strong>География</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
+            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/informatics" target="_blank" rel="noopener"><span>💻</span><strong>Информатика</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
+            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/linguistics" target="_blank" rel="noopener"><span>🔤</span><strong>Лингвистика</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
+            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/math" target="_blank" rel="noopener"><span>∑</span><strong>Математика</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
+            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/physics" target="_blank" rel="noopener"><span>⚛</span><strong>Физика</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
+            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/chemistry" target="_blank" rel="noopener"><span>🧪</span><strong>Химия</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
+          </div>
+        </div>
+
+        <div class="library-cycle">
+          <h2>Общественно-гуманитарный цикл</h2>
+          <div class="grid grid-4 olympiad-links">
+            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/english" target="_blank" rel="noopener"><span>🇬🇧</span><strong>Английский язык</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
+            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/history" target="_blank" rel="noopener"><span>🏛</span><strong>История</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
+            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/krsh" target="_blank" rel="noopener"><span>Қ</span><strong>Казахский язык (Я2)</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
+            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/kll" target="_blank" rel="noopener"><span>📖</span><strong>Казахский язык и литература</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
+            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/deutsch" target="_blank" rel="noopener"><span>🇩🇪</span><strong>Немецкий язык</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
+            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/law" target="_blank" rel="noopener"><span>⚖</span><strong>Основы права</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
+            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/rksh" target="_blank" rel="noopener"><span>Р</span><strong>Русский язык (Я2)</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
+            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/rll" target="_blank" rel="noopener"><span>✒</span><strong>Русский язык и литература</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
+          </div>
+        </div>
+
+        <section class="prep-card">
+          <div><span class="badge">Планы подготовки</span><h2>Готовься системно</h2><p>Подборки книг, тем и рекомендаций по шести предметам.</p></div>
+          <div class="prep-list"><a href="https://olympiads.bc-pf.org/plans/biology" target="_blank" rel="noopener">Биология</a><a href="https://olympiads.bc-pf.org/plans/geography" target="_blank" rel="noopener">География</a><a href="https://olympiads.bc-pf.org/plans/informatics" target="_blank" rel="noopener">Информатика</a><a href="https://olympiads.bc-pf.org/plans/math" target="_blank" rel="noopener">Математика</a><a href="https://olympiads.bc-pf.org/plans/physics" target="_blank" rel="noopener">Физика</a><a href="https://olympiads.bc-pf.org/plans/chemistry" target="_blank" rel="noopener">Химия</a></div>
+        </section>
+
+        <p class="source-note">Материалы предоставлены сайтом <a href="https://olympiads.bc-pf.org/" target="_blank" rel="noopener">BeyondOlympiads</a>.</p>
       </div>
     </div>
 
