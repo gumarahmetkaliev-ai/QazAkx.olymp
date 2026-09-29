@@ -1,1959 +1,1776 @@
 <!doctype html>
 <html lang="ru">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>QazAkx.olymp - Олимпиадная платформа по химии</title>
-    <style>
-      /* Базовые стили */
-      :root {
-        --primary: #6c63ff;
-        --primary-dark: #4a42d5;
-        --accent: #ff6584;
-        --success: #4caf50;
-        --background: #f8faff;
-        --text: #333333;
-        --card: #ffffff;
-        --border: #e5e7eb;
-      }
-
-      * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-        font-family: "Segoe UI", "Inter", sans-serif;
-      }
-
-      body {
-        background-color: var(--background);
-        color: var(--text);
-        line-height: 1.6;
-        min-height: 100vh;
-      }
-
-      /* Контейнеры */
-      .container {
-        max-width: 1200px;
-        margin: 0 auto;
-        padding: 0 20px;
-      }
-
-      /* Страница 1: Главная */
-      .page {
-        display: none;
-        min-height: 100vh;
-        padding-top: 80px;
-      }
-
-      .page.active {
-        display: block;
-      }
-
-      /* Навигация */
-      .navbar {
-        background: white;
-        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-        position: fixed;
-        width: 100%;
-        top: 0;
-        z-index: 1000;
-      }
-
-      .nav-content {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        padding: 20px 0;
-      }
-
-      .logo {
-        font-size: 24px;
-        font-weight: 800;
-        color: var(--primary);
-        text-decoration: none;
-      }
-
-      .logo span {
-        color: var(--accent);
-      }
-
-      /* Кнопки */
-      .btn {
-        background: var(--primary);
-        color: white;
-        border: none;
-        padding: 12px 28px;
-        border-radius: 10px;
-        font-weight: 600;
-        cursor: pointer;
-        transition: all 0.3s;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 16px;
-      }
-
-      .btn:hover {
-        background: var(--primary-dark);
-        transform: translateY(-2px);
-        box-shadow: 0 5px 15px rgba(108, 99, 255, 0.3);
-      }
-
-      .btn-secondary {
-        background: transparent;
-        border: 2px solid var(--primary);
-        color: var(--primary);
-      }
-
-      .btn-secondary:hover {
-        background: var(--primary);
-        color: white;
-      }
-
-      .btn-large {
-        padding: 16px 40px;
-        font-size: 18px;
-        border-radius: 12px;
-      }
-
-      /* Главный баннер */
-      .hero {
-        text-align: center;
-        padding: 80px 0;
-      }
-
-      .hero h1 {
-        font-size: 3rem;
-        margin-bottom: 20px;
-        color: var(--primary);
-      }
-
-      .hero p {
-        font-size: 1.2rem;
-        max-width: 600px;
-        margin: 0 auto 40px;
-        color: #666;
-      }
-
-      /* Карточки */
-      .card {
-        background: var(--card);
-        border-radius: 16px;
-        padding: 30px;
-        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
-        transition: all 0.3s;
-        border: 1px solid var(--border);
-      }
-
-      .card:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 15px 40px rgba(0, 0, 0, 0.12);
-      }
-
-      .card-icon {
-        font-size: 48px;
-        margin-bottom: 20px;
-      }
-
-      .card h3 {
-        font-size: 1.5rem;
-        margin-bottom: 15px;
-        color: var(--primary);
-      }
-
-      /* Сетки */
-      .grid {
-        display: grid;
-        gap: 30px;
-      }
-
-      .grid-2 {
-        grid-template-columns: repeat(2, 1fr);
-      }
-
-      .grid-3 {
-        grid-template-columns: repeat(3, 1fr);
-      }
-
-      .grid-4 {
-        grid-template-columns: repeat(4, 1fr);
-      }
-
-      .grid-5 {
-        grid-template-columns: repeat(5, 1fr);
-      }
-
-      /* Бейджи */
-      .badge {
-        display: inline-block;
-        padding: 6px 12px;
-        background: #f0f2ff;
-        color: var(--primary);
-        border-radius: 20px;
-        font-size: 0.9rem;
-        font-weight: 600;
-        margin-bottom: 15px;
-      }
-
-      /* Классы */
-      .grade-btn {
-        width: 140px;
-        height: 140px;
-        background: white;
-        border: 2px solid var(--border);
-        border-radius: 20px;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        cursor: pointer;
-        transition: all 0.3s;
-      }
-
-      .grade-btn:hover {
-        border-color: var(--primary);
-        transform: scale(1.05);
-      }
-
-      .grade-btn.active {
-        background: var(--primary);
-        color: white;
-        border-color: var(--primary);
-      }
-
-      .grade-number {
-        font-size: 40px;
-        font-weight: 700;
-        margin-bottom: 10px;
-      }
-
-      /* Задачи */
-      .task-card {
-        background: white;
-        border-radius: 12px;
-        padding: 25px;
-        border-left: 4px solid var(--primary);
-        margin-bottom: 20px;
-        border: 1px solid var(--border);
-      }
-
-      .task-header {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        margin-bottom: 15px;
-      }
-
-      .task-title {
-        font-size: 1.2rem;
-        font-weight: 600;
-      }
-
-      .task-meta {
-        display: flex;
-        gap: 15px;
-        color: #666;
-        font-size: 0.9rem;
-      }
-
-      .stars {
-        color: #ffd700;
-      }
-
-      /* Видео */
-      .video-card {
-        background: white;
-        border-radius: 12px;
-        overflow: hidden;
-        border: 1px solid var(--border);
-      }
-
-      .video-thumbnail {
-        width: 100%;
-        height: 180px;
-        position: relative;
-        overflow: hidden;
-      }
-
-      .video-thumbnail img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-        transition: transform 0.3s;
-      }
-
-      .video-thumbnail:hover img {
-        transform: scale(1.05);
-      }
-
-      .video-content {
-        padding: 20px;
-      }
-
-      .video-tags {
-        display: flex;
-        gap: 8px;
-        margin-bottom: 10px;
-        flex-wrap: wrap;
-      }
-
-      .tag {
-        padding: 4px 10px;
-        border-radius: 12px;
-        font-size: 12px;
-        font-weight: 600;
-      }
-
-      .tag-grade {
-        background: #3498db;
-        color: white;
-      }
-
-      .tag-grade-8-9 {
-        background: #9b59b6;
-        color: white;
-      }
-
-      .tag-language {
-        background: #fef4e6;
-        color: #e67e22;
-      }
-
-      .tag-language-kz {
-        background: #e6f7f7;
-        color: #16a085;
-      }
-
-      .tag-section {
-        background: #e8f4fd;
-        color: #2980b9;
-      }
-
-      /* Хлебные крошки */
-      .breadcrumbs {
-        display: flex;
-        align-items: center;
-        gap: 10px;
-        margin-bottom: 30px;
-        color: #666;
-      }
-
-      .breadcrumbs a {
-        color: var(--primary);
-        text-decoration: none;
-      }
-
-      .breadcrumbs span {
-        color: #999;
-      }
-
-      /* Фильтры для видео */
-      .filters {
-        background: #f8f9fa;
-        padding: 25px;
-        border-radius: 15px;
-        margin-bottom: 30px;
-        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
-      }
-
-      .filters h3 {
-        color: var(--primary);
-        margin-bottom: 20px;
-      }
-
-      .filter-grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-        gap: 20px;
-        margin-bottom: 15px;
-      }
-
-      .filter-group {
-        display: flex;
-        flex-direction: column;
-      }
-
-      .filter-group label {
-        font-weight: 600;
-        margin-bottom: 8px;
-        color: #555;
-      }
-
-      select {
-        padding: 12px 15px;
-        border: 2px solid #e0e0e0;
-        border-radius: 10px;
-        font-size: 1rem;
-        background: white;
-        cursor: pointer;
-        transition: all 0.3s ease;
-      }
-
-      select:hover {
-        border-color: var(--primary);
-      }
-
-      /* Адаптивность */
-      @media (max-width: 768px) {
-        .grid-2,
-        .grid-3,
-        .grid-4,
-        .grid-5 {
-          grid-template-columns: 1fr;
-        }
-
-        .hero h1 {
-          font-size: 2rem;
-        }
-
-        .grade-btn {
-          width: 120px;
-          height: 120px;
-        }
-
-        .filter-grid {
-          grid-template-columns: 1fr;
-        }
-      }
-
-      /* Анимации */
-      @keyframes fadeIn {
-        from {
-          opacity: 0;
-          transform: translateY(20px);
-        }
-        to {
-          opacity: 1;
-          transform: translateY(0);
-        }
-      }
-
-      .fade-in {
-        animation: fadeIn 0.5s ease-out;
-      }
-
-      /* --- СТИЛИ ЧАТ-БОТА --- */
-      .chat-widget {
-        position: fixed;
-        bottom: 20px;
-        right: 20px;
-        z-index: 2000;
-        display: flex;
-        flex-direction: column;
-        align-items: flex-end;
-      }
-
-      .chat-btn {
-        width: 60px;
-        height: 60px;
-        border-radius: 50%;
-        background: var(--primary);
-        color: white;
-        border: none;
-        box-shadow: 0 5px 15px rgba(108, 99, 255, 0.4);
-        cursor: pointer;
-        font-size: 24px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        transition: all 0.3s;
-      }
-
-      .chat-btn:hover {
-        transform: scale(1.1);
-        background: var(--primary-dark);
-      }
-
-      .library-header {
-        display: flex;
-        justify-content: space-between;
-        align-items: end;
-        gap: 30px;
-        margin-bottom: 55px;
-      }
-
-      .library-header h1 {
-        color: var(--primary);
-        margin: 12px 0;
-      }
-
-      .library-header h1 span {
-        color: var(--accent);
-      }
-
-      .library-header p {
-        max-width: 620px;
-        color: #666;
-      }
-
-      .library-cycle {
-        margin-bottom: 55px;
-      }
-
-      .library-cycle h2 {
-        color: var(--primary);
-        margin-bottom: 25px;
-      }
-
-      .olympiad-link {
-        color: var(--text);
-        text-decoration: none;
-        display: flex;
-        flex-direction: column;
-        gap: 8px;
-      }
-
-      .olympiad-link > span {
-        font-size: 34px;
-      }
-
-      .olympiad-link strong {
-        font-size: 1rem;
-      }
-
-      .olympiad-link small {
-        color: #777;
-      }
-
-      .olympiad-link small i {
-        color: var(--primary);
-        margin-left: 4px;
-      }
-
-      .prep-card {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        gap: 30px;
-        background: linear-gradient(135deg, #f0f2ff, #fff1f4);
-        border: 1px solid var(--border);
-        border-radius: 16px;
-        padding: 30px;
-        margin-bottom: 20px;
-      }
-
-      .prep-card h2 {
-        color: var(--primary);
-        margin: 10px 0 4px;
-      }
-
-      .prep-card p {
-        color: #666;
-      }
-
-      .prep-list {
-        display: grid;
-        grid-template-columns: repeat(2, minmax(120px, 1fr));
-        gap: 10px;
-        min-width: 270px;
-      }
-
-      .prep-list a {
-        background: white;
-        border: 1px solid var(--border);
-        border-radius: 8px;
-        color: var(--primary);
-        padding: 9px 12px;
-        text-align: center;
-        text-decoration: none;
-        font-weight: 600;
-        font-size: 0.9rem;
-      }
-
-      .prep-list a:hover {
-        border-color: var(--primary);
-      }
-
-      .source-note {
-        color: #888;
-        font-size: 0.85rem;
-        text-align: right;
-      }
-
-      .source-note a {
-        color: var(--primary);
-      }
-
-      .local-materials {
-        border-top: 1px solid var(--border);
-        margin-top: 50px;
-        padding-top: 30px;
-      }
-
-      .local-materials-header {
-        display: flex;
-        justify-content: space-between;
-        align-items: end;
-        gap: 20px;
-        margin-bottom: 20px;
-      }
-
-      .local-materials-header h2 {
-        color: var(--primary);
-        margin-top: 10px;
-      }
-
-      .local-materials-header > span {
-        color: #777;
-        font-size: 0.9rem;
-      }
-
-      .local-materials-list {
-        display: grid;
-        gap: 12px;
-      }
-
-      .local-material {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        gap: 16px;
-        background: white;
-        border: 1px solid var(--border);
-        border-radius: 10px;
-        padding: 15px 18px;
-      }
-
-      .local-material strong {
-        display: block;
-        margin-bottom: 4px;
-      }
-
-      .local-material small {
-        color: #777;
-      }
-
-      .local-material a {
-        white-space: nowrap;
-      }
-
-      .chat-window {
-        width: 350px;
-        height: 500px;
-        background: white;
-        border-radius: 20px;
-        box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
-        display: none; /* Скрыто по умолчанию */
-        flex-direction: column;
-        margin-bottom: 20px;
-        border: 1px solid var(--border);
-        overflow: hidden;
-      }
-
-      .chat-window.active {
-        display: flex;
-      }
-
-      .chat-header {
-        background: var(--primary);
-        color: white;
-        padding: 15px 20px;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        font-weight: bold;
-      }
-
-      .chat-messages {
-        flex: 1;
-        padding: 20px;
-        overflow-y: auto;
-        background: #f8faff;
-        display: flex;
-        flex-direction: column;
-        gap: 15px;
-      }
-
-      .message {
-        max-width: 80%;
-        padding: 10px 15px;
-        border-radius: 15px;
-        font-size: 0.9rem;
-        line-height: 1.4;
-      }
-
-      .message.user {
-        align-self: flex-end;
-        background: var(--primary);
-        color: white;
-        border-bottom-right-radius: 2px;
-      }
-
-      .message.bot {
-        align-self: flex-start;
-        background: white;
-        border: 1px solid #e5e7eb;
-        color: var(--text);
-        border-bottom-left-radius: 2px;
-      }
-
-      .chat-input-area {
-        padding: 15px;
-        border-top: 1px solid var(--border);
-        background: white;
-        display: flex;
-        gap: 10px;
-      }
-
-      .chat-input {
-        flex: 1;
-        padding: 10px;
-        border: 1px solid #e5e7eb;
-        border-radius: 20px;
-        outline: none;
-      }
-
-      .chat-input:focus {
-        border-color: var(--primary);
-      }
-
-      .send-btn {
-        background: var(--primary);
-        color: white;
-        border: none;
-        width: 40px;
-        height: 40px;
-        border-radius: 50%;
-        cursor: pointer;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-      }
-    </style>
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
-    />
-  </head>
-  <body>
-    <nav class="navbar">
-      <div class="container nav-content">
-        <a href="#" class="logo" onclick="goToPage('home')"
-          >QazAkx<span>.olymp</span></a
-        >
-        <div class="nav-links">
-          <button class="btn btn-secondary" onclick="goToPage('home')">
-            <i class="fas fa-home"></i> Главная
-          </button>
-          <button class="btn btn-secondary" onclick="goToPage('olympiads')">
-            <i class="fas fa-book-open"></i> Все олимпиады
-          </button>
-        </div>
-      </div>
-    </nav>
-
-    <div id="home" class="page active">
-      <section class="hero">
-        <div class="container">
-          <h1>Добро пожаловать в QazAkx.olymp</h1>
-          <p>
-            Платформа для подготовки к олимпиадам по химии для школьников
-            Казахстана. Начни свой путь к победам!
-          </p>
-          <button class="btn btn-large" onclick="goToPage('subject')">
-            Начать подготовку <i class="fas fa-arrow-right"></i>
-          </button>
-        </div>
-      </section>
-
-      <section class="container" style="padding: 60px 0">
-        <div class="grid grid-3">
-          <div class="card fade-in">
-            <div class="card-icon">🧪</div>
-            <h3>Олимпиадные задачи</h3>
-            <p>
-              Более 500 задач разных уровней сложности с пошаговой проверкой
-            </p>
-          </div>
-          <div class="card fade-in">
-            <div class="card-icon">🎥</div>
-            <h3>Видеоуроки</h3>
-            <p>54 реальных видеоурока по химии на русском и казахском языках</p>
-          </div>
-          <div class="card fade-in">
-            <div class="card-icon">📊</div>
-            <h3>Личный прогресс</h3>
-            <p>Отслеживай свой рост и получай персональные рекомендации</p>
-          </div>
-        </div>
-      </section>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="QazAkx.olymp — платформа для подготовки к олимпиадам по химии с AI-проверкой." />
+  <title>QazAkx.olymp | Олимпиадная платформа</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <style>
+    :root {
+      --primary: #6366f1;
+      --primary-dark: #4338ca;
+      --primary-soft: #eef2ff;
+      --accent: #f472b6;
+      --success: #16a34a;
+      --success-soft: #dcfce7;
+      --warning: #d97706;
+      --warning-soft: #fef3c7;
+      --danger: #dc2626;
+      --danger-soft: #fee2e2;
+      --ink: #172033;
+      --muted: #64748b;
+      --line: #e2e8f0;
+      --surface: #ffffff;
+      --canvas: #f6f7fb;
+      --shadow: 0 18px 50px rgba(31, 41, 55, .08);
+      --shadow-soft: 0 10px 30px rgba(31, 41, 55, .06);
+      --radius: 20px;
+      --radius-sm: 12px;
+      --max: 1200px;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      background:
+        radial-gradient(circle at 8% 4%, rgba(99, 102, 241, .08), transparent 28rem),
+        radial-gradient(circle at 92% 12%, rgba(244, 114, 182, .07), transparent 25rem),
+        var(--canvas);
+      color: var(--ink);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.55;
+      min-height: 100vh;
+    }
+    button, input, textarea, select { font: inherit; }
+    button, a { -webkit-tap-highlight-color: transparent; }
+    a { color: inherit; }
+    .container { width: min(var(--max), calc(100% - 36px)); margin: 0 auto; }
+    .page { display: none; min-height: calc(100vh - 76px); padding: 74px 0 80px; }
+    .page.active { display: block; }
+    :focus-visible { outline: 3px solid rgba(99, 102, 241, .45); outline-offset: 2px; }
+    
+    .navbar {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: rgba(255, 255, 255, .92);
+      border-bottom: 1px solid rgba(226, 232, 240, .9);
+      backdrop-filter: blur(16px);
+    }
+    .nav-content { display: flex; align-items: center; justify-content: space-between; gap: 16px; min-height: 72px; }
+    .logo { font-size: 1.22rem; font-weight: 850; letter-spacing: -.03em; text-decoration: none; }
+    .nav-links { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; }
+    .muted { color: var(--muted); }
+    .small { font-size: .84rem; }
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      color: var(--primary-dark);
+      font-size: .78rem;
+      font-weight: 800;
+      letter-spacing: .09em;
+      text-transform: uppercase;
+    }
+    .eyebrow::before { content: ""; width: 22px; height: 2px; border-radius: 10px; background: var(--accent); }
+    
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 5px 11px;
+      border-radius: 999px;
+      background: var(--primary-soft);
+      color: var(--primary-dark);
+      font-size: .78rem;
+      font-weight: 800;
+      white-space: nowrap;
+    }
+    .badge.success { background: var(--success-soft); color: #166534; }
+    .badge.warning { background: var(--warning-soft); color: #9a3412; }
+    .badge.danger { background: var(--danger-soft); color: #991b1b; }
+    .badge.muted { background: #f1f5f9; color: #475569; }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      min-height: 42px;
+      padding: 10px 17px;
+      border: 1px solid transparent;
+      border-radius: 11px;
+      background: var(--primary);
+      color: white;
+      font-weight: 750;
+      text-decoration: none;
+      cursor: pointer;
+      transition: transform .2s ease, box-shadow .2s ease, background .2s ease, border-color .2s ease;
+    }
+    .btn:hover { transform: translateY(-2px); box-shadow: 0 10px 22px rgba(67, 56, 202, .22); }
+    .btn:disabled { opacity: .55; cursor: not-allowed; transform: none; box-shadow: none; }
+    .btn-secondary { background: white; border-color: var(--line); color: var(--ink); }
+    .btn-secondary:hover { border-color: var(--primary); color: var(--primary-dark); box-shadow: var(--shadow-soft); }
+    .btn-ghost { background: transparent; color: var(--primary-dark); }
+    .btn-ghost:hover { background: var(--primary-soft); box-shadow: none; }
+    .btn-success { background: #16a34a; color: white; }
+    .btn-success:hover { background: #15803d; box-shadow: 0 8px 18px rgba(22, 163, 74, .25); }
+    .btn-danger { background: #fee2e2; color: #991b1b; }
+    .btn-danger:hover { background: #fecaca; box-shadow: none; }
+    .btn-large { min-height: 50px; padding: 13px 24px; font-size: 1rem; }
+    .btn-small { min-height: 36px; padding: 7px 12px; font-size: .84rem; }
+    .btn-block { width: 100%; }
+    
+    .icon-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 40px;
+      height: 40px;
+      border: 1px solid var(--line);
+      border-radius: 11px;
+      background: white;
+      color: var(--primary-dark);
+      cursor: pointer;
+      transition: .2s ease;
+    }
+    .icon-btn:hover { color: var(--primary); border-color: var(--primary); transform: translateY(-1px); }
+
+    .card {
+      background: rgba(255, 255, 255, .95);
+      border: 1px solid rgba(226, 232, 240, .9);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow-soft);
+    }
+    .card-hover { transition: transform .22s ease, box-shadow .22s ease, border-color .22s ease; }
+    .card-hover:hover { transform: translateY(-4px); border-color: rgba(99, 102, 241, .42); box-shadow: var(--shadow); }
+    
+    .grid { display: grid; gap: 18px; }
+    .grid-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .grid-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .grid-4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+    .stack { display: grid; gap: 16px; }
+    
+    .breadcrumbs { display: flex; flex-wrap: wrap; align-items: center; gap: 9px; margin-bottom: 22px; color: var(--muted); font-size: .88rem; }
+    .breadcrumbs a { color: var(--primary-dark); font-weight: 750; text-decoration: none; }
+    .breadcrumbs a:hover { text-decoration: underline; }
+    .breadcrumbs span { color: #b6c0cf; }
+    
+    .hero {
+      position: relative;
+      overflow: hidden;
+      padding: 52px 54px 48px;
+      border: 1px solid rgba(99, 102, 241, .16);
+      border-radius: 30px;
+      background:
+        radial-gradient(circle at 84% 18%, rgba(244, 114, 182, .24), transparent 17rem),
+        radial-gradient(circle at 14% 84%, rgba(99, 102, 241, .2), transparent 21rem),
+        linear-gradient(135deg, #ffffff, #f6f6ff 62%, #fff7fb);
+      box-shadow: var(--shadow);
+    }
+    .hero-content { position: relative; z-index: 1; max-width: 720px; }
+    .hero h1 { margin: 14px 0 17px; font-size: clamp(2.2rem, 5vw, 4.4rem); line-height: 1.05; letter-spacing: -.055em; }
+    .hero h1 span { color: var(--primary); }
+    .hero p { max-width: 650px; color: #526079; font-size: clamp(1rem, 2vw, 1.15rem); }
+    .hero-actions { display: flex; flex-wrap: wrap; gap: 11px; margin-top: 29px; }
+    .hero-metrics { display: flex; flex-wrap: wrap; gap: 18px 30px; margin-top: 34px; color: #526079; font-size: .9rem; }
+    .hero-metrics strong { display: block; color: var(--ink); font-size: 1.25rem; }
+
+    .feature-card { padding: 24px; cursor: pointer; }
+    .feature-card .feature-icon { display: grid; place-items: center; width: 48px; height: 48px; margin-bottom: 17px; border-radius: 15px; background: var(--primary-soft); color: var(--primary-dark); font-size: 1.25rem; }
+    .feature-card h3 { margin-bottom: 8px; font-size: 1.08rem; }
+    .feature-card p { color: var(--muted); font-size: .9rem; }
+    
+    .section-title { margin-bottom: 9px; font-size: clamp(1.65rem, 3vw, 2.25rem); letter-spacing: -.035em; }
+    .section-copy { max-width: 670px; color: var(--muted); }
+    
+    .local-strip { display: flex; align-items: center; justify-content: space-between; gap: 18px; padding: 22px 24px; margin-top: 20px; }
+    .local-strip-left { display: flex; align-items: center; gap: 15px; }
+    .local-strip-icon { display: grid; place-items: center; width: 46px; height: 46px; border-radius: 14px; background: #ecfdf5; color: var(--success); font-size: 1.2rem; }
+    
+    .catalog-toolbar { display: grid; grid-template-columns: minmax(240px, 1fr) repeat(5, minmax(120px, .2fr)); gap: 11px; padding: 17px; margin-bottom: 21px; }
+    .field { display: grid; gap: 7px; }
+    .field label { color: #475569; font-size: .76rem; font-weight: 800; letter-spacing: .03em; text-transform: uppercase; }
+    .field input, .field select, .field textarea {
+      width: 100%;
+      min-height: 43px;
+      padding: 10px 12px;
+      border: 1px solid var(--line);
+      border-radius: 11px;
+      outline: none;
+      background: white;
+      color: var(--ink);
+      transition: border-color .2s, box-shadow .2s;
+    }
+    .field textarea { min-height: 110px; resize: vertical; line-height: 1.45; }
+    .field input:focus, .field select:focus, .field textarea:focus { border-color: var(--primary); box-shadow: 0 0 0 3px rgba(99, 102, 241, .12); }
+
+    .catalog-summary { display: flex; align-items: center; justify-content: space-between; gap: 15px; margin: 10px 2px 17px; color: var(--muted); font-size: .9rem; }
+    .catalog-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }
+    .olympiad-card { display: flex; flex-direction: column; min-height: 230px; padding: 22px; cursor: pointer; }
+    .olympiad-card-header { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; }
+    .olympiad-card h3 { margin: 12px 0 8px; font-size: 1.25rem; line-height: 1.25; }
+    .olympiad-card p { color: var(--muted); font-size: .88rem; }
+    .olympiad-card-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-top: auto; padding-top: 16px; }
+
+    /* Task Workspace & Solver Layout */
+    .solver-layout {
+      display: grid;
+      grid-template-columns: 280px minmax(0, 1fr);
+      gap: 22px;
+      align-items: start;
+    }
+    .task-nav-sidebar {
+      position: sticky;
+      top: 92px;
+      max-height: calc(100vh - 110px);
+      overflow-y: auto;
+      padding: 18px;
+    }
+    .task-nav-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      margin-bottom: 14px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--line);
+    }
+    .task-nav-title { font-weight: 800; font-size: .95rem; color: var(--primary-dark); }
+    .task-nav-list { display: grid; gap: 8px; }
+    .task-nav-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      padding: 10px 12px;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: white;
+      text-align: left;
+      cursor: pointer;
+      font-size: .86rem;
+      transition: .18s;
+    }
+    .task-nav-item:hover { border-color: var(--primary); background: var(--primary-soft); }
+    .task-nav-item.active { border-color: var(--primary); background: var(--primary); color: white; font-weight: 750; }
+    .task-nav-item.active .badge { background: rgba(255, 255, 255, .25); color: white; }
+
+    .solver-main { display: grid; gap: 18px; }
+    .task-statement-box {
+      padding: 24px;
+      border-left: 4px solid var(--primary);
+      background: white;
+    }
+    .task-statement-text {
+      white-space: pre-wrap;
+      font-size: .96rem;
+      line-height: 1.6;
+      color: #1e293b;
+      margin-top: 12px;
+    }
+    .subparts-container { display: grid; gap: 14px; margin-top: 14px; }
+    .subpart-card {
+      padding: 16px;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: #fafbff;
+    }
+    .subpart-header {
+      display: flex;
+      align-items: baseline;
+      gap: 8px;
+      margin-bottom: 8px;
+      font-weight: 750;
+      font-size: .9rem;
+      color: var(--primary-dark);
+    }
+
+    .solver-actions {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 16px 20px;
+      background: white;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+    }
+    .save-status-indicator { color: var(--muted); font-size: .84rem; display: flex; align-items: center; gap: 6px; }
+
+    /* AI Result Section */
+    .ai-result-panel {
+      display: none;
+      padding: 24px;
+      border-radius: var(--radius);
+      background: white;
+      border: 1px solid var(--line);
+    }
+    .ai-result-header {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 18px;
+      padding-bottom: 14px;
+      border-bottom: 1px solid var(--line);
+    }
+    .ai-score-pill {
+      font-size: 1.15rem;
+      font-weight: 850;
+      padding: 6px 14px;
+      border-radius: 999px;
+    }
+    .ai-score-pill.correct { background: var(--success-soft); color: #166534; }
+    .ai-score-pill.partial { background: var(--warning-soft); color: #9a3412; }
+    .ai-score-pill.incorrect { background: var(--danger-soft); color: #991b1b; }
+
+    .ai-markdown { color: #334155; font-size: .94rem; line-height: 1.62; }
+    .ai-markdown h3 { margin: 20px 0 8px; color: var(--primary-dark); font-size: 1.1rem; }
+    .ai-markdown h3:first-child { margin-top: 0; }
+    .ai-markdown p, .ai-markdown li { margin-bottom: 8px; }
+    .ai-markdown ul, .ai-markdown ol { padding-left: 20px; margin-bottom: 12px; }
+    .ai-markdown pre { overflow-x: auto; padding: 14px; margin: 12px 0; border-radius: 10px; background: #172033; color: #e2e8f0; }
+    .ai-markdown code { padding: 2px 5px; border-radius: 5px; background: #f1f5f9; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .86em; }
+    .ai-markdown pre code { padding: 0; background: transparent; }
+    .ai-markdown blockquote { padding: 11px 16px; margin: 12px 0; border-left: 3px solid var(--primary); border-radius: 0 8px 8px 0; background: var(--primary-soft); }
+    .ai-markdown hr { margin: 18px 0; border: 0; border-top: 1px solid var(--line); }
+
+    .tag-correct { display: inline-block; padding: 2px 7px; border-radius: 6px; background: #dcfce7; color: #166534; font-weight: 800; }
+    .tag-wrong { display: inline-block; padding: 2px 7px; border-radius: 6px; background: #fee2e2; color: #991b1b; font-weight: 800; }
+    .tag-partial { display: inline-block; padding: 2px 7px; border-radius: 6px; background: #fff7ed; color: #9a3412; font-weight: 800; }
+
+    .progress-bar-wrap {
+      width: 100%;
+      height: 9px;
+      background: #e2e8f0;
+      border-radius: 999px;
+      overflow: hidden;
+      margin: 10px 0 6px;
+    }
+    .progress-bar-fill {
+      height: 100%;
+      background: linear-gradient(90deg, var(--primary), var(--accent));
+      border-radius: 999px;
+      transition: width .4s ease;
+    }
+
+    .pdf-frame { display: block; width: 100%; min-height: 480px; border: 1px solid var(--line); border-radius: 15px; background: #e2e8f0; }
+    .pdf-toolbar { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-bottom: 14px; }
+    .viewer-frame { min-height: min(80vh, 940px); }
+
+    .empty-state { padding: 50px 24px; text-align: center; color: var(--muted); }
+    .empty-state-icon { display: grid; place-items: center; width: 58px; height: 58px; margin: 0 auto 15px; border-radius: 18px; background: var(--primary-soft); color: var(--primary-dark); font-size: 1.5rem; }
+    .empty-state h3 { margin-bottom: 6px; color: var(--ink); }
+
+    .task-row { display: flex; align-items: center; justify-content: space-between; gap: 15px; padding: 18px; }
+    .task-row-main { min-width: 0; }
+    .task-row h3 { margin-bottom: 4px; font-size: 1rem; }
+    .task-row p { color: var(--muted); font-size: .86rem; }
+
+    .stat-card { padding: 20px; }
+    .stat-card .stat-icon { display: grid; place-items: center; width: 42px; height: 42px; margin-bottom: 14px; border-radius: 13px; background: var(--primary-soft); color: var(--primary-dark); }
+    .stat-card .stat-value { font-size: 1.85rem; font-weight: 850; letter-spacing: -.04em; }
+    .stat-card .stat-label { color: var(--muted); font-size: .84rem; }
+
+    .chat-widget { position: fixed; right: 22px; bottom: 20px; z-index: 1000; display: flex; flex-direction: column; align-items: flex-end; gap: 10px; }
+    .chat-window { display: none; width: min(390px, calc(100vw - 32px)); height: min(560px, calc(100vh - 110px)); overflow: hidden; border: 1px solid var(--line); border-radius: 21px; background: white; box-shadow: 0 24px 70px rgba(15, 23, 42, .2); }
+    .chat-window.active { display: flex; flex-direction: column; }
+    .chat-header { display: flex; align-items: center; justify-content: space-between; gap: 10px; padding: 14px 16px; background: linear-gradient(135deg, var(--primary-dark), var(--primary)); color: white; }
+    .chat-header-title { display: flex; align-items: center; gap: 8px; font-weight: 800; font-size: .95rem; }
+    .chat-header-actions { display: flex; align-items: center; gap: 8px; }
+    .chat-header select { padding: 5px 8px; border: 1px solid rgba(255, 255, 255, .35); border-radius: 8px; outline: none; background: rgba(255, 255, 255, .16); color: white; font-size: .75rem; }
+    .chat-header select option { color: var(--ink); }
+    .chat-header .icon-btn { width: 31px; height: 31px; border: 0; background: rgba(255, 255, 255, .14); color: white; }
+    .chat-messages { display: flex; flex-direction: column; flex: 1; overflow-y: auto; padding: 16px; background: #f8faff; }
+    .message { max-width: 86%; margin-bottom: 10px; padding: 11px 13px; border-radius: 14px; font-size: .88rem; overflow-wrap: anywhere; }
+    .message.user { align-self: flex-end; border-bottom-right-radius: 4px; background: var(--primary); color: white; }
+    .message.bot { align-self: flex-start; border: 1px solid var(--line); border-bottom-left-radius: 4px; background: white; }
+    .message.bot p { margin-bottom: 5px; }
+    .message.bot p:last-child { margin-bottom: 0; }
+    .chat-quick-chips { display: flex; gap: 7px; overflow-x: auto; padding: 9px 11px; border-top: 1px solid var(--line); background: white; scrollbar-width: thin; }
+    .chat-chip { flex: none; padding: 6px 10px; border: 1px solid var(--line); border-radius: 999px; background: white; color: #475569; font-size: .74rem; cursor: pointer; }
+    .chat-chip:hover { border-color: var(--primary); color: var(--primary-dark); }
+    .chat-input-area { display: flex; gap: 8px; padding: 11px; border-top: 1px solid var(--line); background: white; }
+    .chat-input { flex: 1; min-width: 0; padding: 10px 12px; border: 1px solid var(--line); border-radius: 16px; outline: none; resize: none; min-height: 38px; max-height: 96px; }
+    .chat-input:focus { border-color: var(--primary); }
+    .send-btn { width: 38px; height: 38px; flex: none; border: 0; border-radius: 50%; background: var(--primary); color: white; cursor: pointer; }
+
+    .ai-loading { display: none; padding: 40px 15px; text-align: center; }
+    .spinner { width: 44px; height: 44px; margin: 0 auto 15px; border: 4px solid var(--primary-soft); border-top-color: var(--primary); border-radius: 50%; animation: spin .8s linear infinite; }
+    
+    .mobile-menu-toggle { display: none; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes fadeUp { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+    .fade-in { animation: fadeUp .4s ease-out both; }
+
+    @media (max-width: 960px) {
+      .solver-layout { grid-template-columns: 1fr; }
+      .task-nav-sidebar { position: static; max-height: none; }
+      .catalog-toolbar { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .catalog-toolbar .field:first-child { grid-column: 1 / -1; }
+      .grid-3, .grid-4 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    }
+    @media (max-width: 650px) {
+      .container { width: min(100% - 24px, var(--max)); }
+      .page { padding-top: 66px; }
+      .mobile-menu-toggle { display: inline-flex; }
+      .nav-links { display: none; position: absolute; top: 67px; left: 12px; right: 12px; flex-direction: column; align-items: stretch; gap: 7px; padding: 12px; border: 1px solid var(--line); border-radius: 15px; background: white; box-shadow: var(--shadow); }
+      .nav-links.open { display: flex; }
+      .nav-links .btn { width: 100%; }
+      .hero { padding: 32px 20px; border-radius: 20px; }
+      .hero-actions .btn, .local-strip .btn { width: 100%; }
+      .grid-2, .grid-3, .grid-4, .catalog-grid { grid-template-columns: 1fr; }
+      .catalog-toolbar { grid-template-columns: 1fr; }
+      .task-row { flex-direction: column; align-items: flex-start; }
+      .chat-widget { right: 12px; bottom: 12px; }
+      .chat-window { width: calc(100vw - 24px); }
+    }
+  </style>
+</head>
+<body>
+  <header class="navbar">
+    <div class="container nav-content">
+      <a href="#" class="logo" onclick="goToPage('home'); return false;">QazAkx<span style="color: var(--accent)">.olymp</span></a>
+      <button class="icon-btn mobile-menu-toggle" id="mobile-menu-toggle" aria-label="Открыть меню" onclick="toggleMobileMenu()"><i class="fas fa-bars"></i></button>
+      <nav class="nav-links" id="primary-nav">
+        <button class="btn btn-secondary" onclick="goToPage('home')"><i class="fas fa-house"></i> Главная</button>
+        <button class="btn btn-secondary" onclick="goToPage('olympiads')"><i class="fas fa-book-open"></i> Все олимпиады</button>
+        <button class="btn btn-secondary" onclick="goToPage('subjects')"><i class="fas fa-flask"></i> Предметы</button>
+        <button class="btn btn-secondary" onclick="goToPage('checker')"><i class="fas fa-robot"></i> AI</button>
+        <button class="btn btn-secondary" onclick="goToPage('progress')"><i class="fas fa-chart-line"></i> Прогресс</button>
+        <button class="btn" id="account-nav-button" onclick="goToPage('account')"><i class="fas fa-user-circle"></i> <span id="account-label">Войти</span></button>
+      </nav>
     </div>
+  </header>
 
-    <div id="subject" class="page">
-      <div class="container" style="padding-top: 60px">
-        <div class="breadcrumbs">
-          <a href="#" onclick="goToPage('home')">Главная</a>
-          <span>→</span>
-          <span>Выбор предмета</span>
-        </div>
-
-        <h1 style="margin-bottom: 40px; color: var(--primary)">
-          Выберите предмет для подготовки
-        </h1>
-        <p style="margin-bottom: 40px; color: #666">
-          Химия внутри платформы, а задания по другим предметам доступны в каталоге олимпиад
-        </p>
-
-        <div class="grid grid-3" style="max-width: 900px; margin: 0 auto">
-          <div
-            class="card"
-            onclick="goToPage('grade')"
-            style="cursor: pointer; border: 2px solid var(--primary)"
-          >
-            <div class="card-icon" style="color: var(--primary)">🧪</div>
-            <h3>Химия</h3>
-            <p style="color: #666; margin-bottom: 20px">
-              Олимпиадная химия для 7-11 классов
-            </p>
-            <ul
-              style="text-align: left; padding-left: 20px; margin-bottom: 20px"
-            >
-              <li style="margin-bottom: 8px">Олимпиадные задачи</li>
-              <li style="margin-bottom: 8px">54 видеоурока</li>
-              <li>Теория и практика</li>
-            </ul>
-            <div class="btn">Выбрать →</div>
-          </div>
-
-          <div class="card" style="opacity: 0.5">
-            <div class="card-icon">📐</div>
-            <h3>Математика</h3>
-            <p style="margin-bottom: 20px">Скоро</p>
-            <div class="badge">Скоро</div>
-          </div>
-
-          <div class="card" style="opacity: 0.5">
-            <div class="card-icon">⚛️</div>
-            <h3>Физика</h3>
-            <p style="margin-bottom: 20px">Скоро</p>
-            <div class="badge">Скоро</div>
+  <main>
+    <!-- 1. HOME -->
+    <section id="home" class="page active">
+      <div class="container">
+        <div class="hero fade-in">
+          <div class="hero-content">
+            <span class="eyebrow">Локальная олимпиадная библиотека</span>
+            <h1>Готовься к олимпиадам <span>системно.</span></h1>
+            <p>QazAkx.olymp — платформа с реальными олимпиадными материалами, автоматическим разбиением задач, AI-проверкой решений и сохранением прогресса прямо в браузере.</p>
+            <div class="hero-actions">
+              <button class="btn btn-large" onclick="goToPage('olympiads')">Начать решать <i class="fas fa-arrow-right"></i></button>
+              <button class="btn btn-large btn-secondary" onclick="goToPage('olympiads')">Все олимпиады</button>
+              <button class="btn btn-large btn-secondary" onclick="goToPage('checker')"><i class="fas fa-sparkles"></i> AI Проверка</button>
+            </div>
+            <div class="hero-metrics">
+              <div><strong id="home-olympiad-count">—</strong>олимпиад в каталоге</div>
+              <div><strong id="home-pdf-count">—</strong>локальных PDF</div>
+              <div><strong id="home-subject-count">—</strong>предмета</div>
+            </div>
           </div>
         </div>
 
-        <div style="text-align: center; margin-top: 40px">
-          <button class="btn" onclick="goToPage('olympiads')" style="margin-right: 10px">
-            <i class="fas fa-book-open"></i> Каталог олимпиад
-          </button>
-          <button class="btn btn-secondary" onclick="goToPage('home')">
-            <i class="fas fa-arrow-left"></i> Назад
-          </button>
-        </div>
-      </div>
-    </div>
-
-    <div id="olympiads" class="page">
-      <div class="container olympiad-library" style="padding-top: 60px">
-        <div class="breadcrumbs">
-          <a href="#" onclick="goToPage('home')">Главная</a>
-          <span>→</span>
-          <span>Каталог олимпиад</span>
+        <div class="stack" style="margin-top: 28px">
+          <div class="section-title">Всё для результативной подготовки</div>
+          <p class="section-copy">Решайте задачи по пунктам, мгновенно проверяйте ответы через AI с олимпиадными критериями и отслеживайте свой прогресс.</p>
         </div>
 
-        <div class="library-header">
-          <div>
-            <span class="badge">BeyondOlympiads</span>
-            <h1>Задания олимпиад<br /><span>прошлых лет</span></h1>
-            <p>Открывай задачи и решения по предметам на сайте-источнике. Каталог обновляется там же, поэтому ссылки всегда ведут к актуальным материалам.</p>
+        <div class="grid grid-3" style="margin-top: 18px">
+          <article class="card card-hover feature-card" onclick="goToPage('checker')">
+            <div class="feature-icon"><i class="fas fa-robot"></i></div>
+            <h3>AI Проверка решений</h3>
+            <p>Разбор уравнений, расчётов, единиц измерения и подсказки на RU, KZ, EN языках.</p>
+          </article>
+          <article class="card card-hover feature-card" onclick="goToPage('olympiads')">
+            <div class="feature-icon"><i class="fas fa-book-open"></i></div>
+            <h3>Позадачное решение</h3>
+            <p>Автоматическое извлечение задач из PDF, структурированный ввод ответов по пунктам.</p>
+          </article>
+          <article class="card card-hover feature-card" onclick="goToPage('progress')">
+            <div class="feature-icon"><i class="fas fa-chart-line"></i></div>
+            <h3>Сохранение прогресса</h3>
+            <p>Ваши ответы и оценки сохраняются в браузере без обязательной регистрации.</p>
+          </article>
+        </div>
+
+        <section class="card local-strip fade-in">
+          <div class="local-strip-left">
+            <div class="local-strip-icon"><i class="fas fa-file-pdf"></i></div>
+            <div>
+              <h3>Эталонный комплект: Химия 2024 · 9 класс</h3>
+              <p>Локальный комплект заданий и официальных решений готов к позадачному решению.</p>
+            </div>
           </div>
-          <a class="btn btn-large" href="https://olympiads.bc-pf.org/" target="_blank" rel="noopener">Открыть сайт <i class="fas fa-external-link-alt"></i></a>
-        </div>
-
-        <div class="library-cycle">
-          <h2>Естественно-математический цикл</h2>
-          <div class="grid grid-4 olympiad-links">
-            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/astronomy" target="_blank" rel="noopener"><span>🔭</span><strong>Астрономия</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
-            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/biology" target="_blank" rel="noopener"><span>🧬</span><strong>Биология</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
-            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/geography" target="_blank" rel="noopener"><span>🌍</span><strong>География</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
-            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/informatics" target="_blank" rel="noopener"><span>💻</span><strong>Информатика</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
-            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/linguistics" target="_blank" rel="noopener"><span>🔤</span><strong>Лингвистика</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
-            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/math" target="_blank" rel="noopener"><span>∑</span><strong>Математика</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
-            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/physics" target="_blank" rel="noopener"><span>⚛</span><strong>Физика</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
-            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/chemistry" target="_blank" rel="noopener"><span>🧪</span><strong>Химия</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
-          </div>
-        </div>
-
-        <div class="library-cycle">
-          <h2>Общественно-гуманитарный цикл</h2>
-          <div class="grid grid-4 olympiad-links">
-            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/english" target="_blank" rel="noopener"><span>🇬🇧</span><strong>Английский язык</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
-            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/history" target="_blank" rel="noopener"><span>🏛</span><strong>История</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
-            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/krsh" target="_blank" rel="noopener"><span>Қ</span><strong>Казахский язык (Я2)</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
-            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/kll" target="_blank" rel="noopener"><span>📖</span><strong>Казахский язык и литература</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
-            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/deutsch" target="_blank" rel="noopener"><span>🇩🇪</span><strong>Немецкий язык</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
-            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/law" target="_blank" rel="noopener"><span>⚖</span><strong>Основы права</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
-            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/rksh" target="_blank" rel="noopener"><span>Р</span><strong>Русский язык (Я2)</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
-            <a class="card olympiad-link" href="https://olympiads.bc-pf.org/rll" target="_blank" rel="noopener"><span>✒</span><strong>Русский язык и литература</strong><small>Задания и решения <i class="fas fa-arrow-up-right-from-square"></i></small></a>
-          </div>
-        </div>
-
-        <section class="prep-card">
-          <div><span class="badge">Планы подготовки</span><h2>Готовься системно</h2><p>Подборки книг, тем и рекомендаций по шести предметам.</p></div>
-          <div class="prep-list"><a href="https://olympiads.bc-pf.org/plans/biology" target="_blank" rel="noopener">Биология</a><a href="https://olympiads.bc-pf.org/plans/geography" target="_blank" rel="noopener">География</a><a href="https://olympiads.bc-pf.org/plans/informatics" target="_blank" rel="noopener">Информатика</a><a href="https://olympiads.bc-pf.org/plans/math" target="_blank" rel="noopener">Математика</a><a href="https://olympiads.bc-pf.org/plans/physics" target="_blank" rel="noopener">Физика</a><a href="https://olympiads.bc-pf.org/plans/chemistry" target="_blank" rel="noopener">Химия</a></div>
-        </section>
-
-        <p class="source-note">Материалы предоставлены сайтом <a href="https://olympiads.bc-pf.org/" target="_blank" rel="noopener">BeyondOlympiads</a>.</p>
-        <section class="local-materials" aria-labelledby="local-materials-title">
-          <div class="local-materials-header"><div><span class="badge">Локальная библиотека</span><h2 id="local-materials-title">Задания внутри сайта</h2></div><span id="local-materials-count">Загрузка...</span></div>
-          <div id="local-materials-list" class="local-materials-list"><p>Подготавливаем сохранённые материалы...</p></div>
+          <button class="btn" onclick="startSolvingOlympiad('olympiads/chemistry/chem9-2024-round1-tasks-rus.pdf', 'chemistry-2024-local')">Решать комплект <i class="fas fa-arrow-right"></i></button>
         </section>
       </div>
-    </div>
+    </section>
 
-    <div id="grade" class="page">
-      <div class="container" style="padding-top: 60px">
-        <div class="breadcrumbs">
-          <a href="#" onclick="goToPage('home')">Главная</a>
-          <span>→</span>
-          <a href="#" onclick="goToPage('subject')">Предметы</a>
-          <span>→</span>
-          <span>Выбор класса</span>
+    <!-- 2. SUBJECTS -->
+    <section id="subjects" class="page">
+      <div class="container">
+        <div class="breadcrumbs"><a href="#" onclick="goToPage('home'); return false;">Главная</a><span>→</span><span>Предметы</span></div>
+        <div class="stack" style="margin-bottom: 18px">
+          <h1 class="section-title">Предметы</h1>
+          <p class="section-copy">Выберите дисциплину для подготовки по олимпиадным архивам.</p>
+        </div>
+        <div id="subjects-grid" class="grid grid-3"></div>
+      </div>
+    </section>
+
+    <!-- 3. ALL OLYMPIADS CATALOG -->
+    <section id="olympiads" class="page">
+      <div class="container">
+        <div class="breadcrumbs"><a href="#" onclick="goToPage('home'); return false;">Главная</a><span>→</span><span>Все олимпиады</span></div>
+        <div class="catalog-toolbar card">
+          <div class="field"><label for="catalog-search">Поиск</label><input id="catalog-search" type="search" placeholder="Название, предмет, год, класс, раунд..." /></div>
+          <div class="field"><label for="catalog-subject">Предмет</label><select id="catalog-subject"><option value="all">Все предметы</option></select></div>
+          <div class="field"><label for="catalog-year">Год</label><select id="catalog-year"><option value="all">Все годы</option></select></div>
+          <div class="field"><label for="catalog-grade">Класс</label><select id="catalog-grade"><option value="all">Все классы</option></select></div>
+          <div class="field"><label for="catalog-round">Раунд</label><select id="catalog-round"><option value="all">Все раунды</option></select></div>
+          <div class="field"><label for="catalog-language">Язык</label><select id="catalog-language"><option value="all">Все языки</option></select></div>
+          <div class="field"><label for="catalog-local">Локальный PDF</label><select id="catalog-local"><option value="all">Все материалы</option><option value="yes">Только локальные</option><option value="no">Без локального файла</option></select></div>
+          <div class="field"><label for="catalog-sort">Сортировка</label><select id="catalog-sort"><option value="newest">Новые</option><option value="oldest">Старые</option><option value="grade">Класс</option><option value="subject">Предмет</option></select></div>
+        </div>
+        <div class="catalog-summary"><span id="catalog-summary-text">Загрузка локального каталога...</span><button class="btn btn-secondary btn-small" onclick="resetCatalogFilters()"><i class="fas fa-rotate-left"></i> Сбросить</button></div>
+        <div id="catalog-grid" class="catalog-grid"></div>
+        <div id="catalog-empty" class="card empty-state" style="display:none; margin-top:18px"><div class="empty-state-icon"><i class="fas fa-search"></i></div><h3>Ничего не найдено</h3><p>Попробуйте изменить запрос или сбросить фильтры.</p></div>
+      </div>
+    </section>
+
+    <!-- 4. OLYMPIAD DETAIL -->
+    <section id="olympiad-detail" class="page">
+      <div class="container">
+        <div class="breadcrumbs" id="olympiad-breadcrumbs"></div>
+        <div id="olympiad-detail-content"></div>
+      </div>
+    </section>
+
+    <!-- 5. TASK SOLVING WORKSPACE -->
+    <section id="task-detail" class="page">
+      <div class="container">
+        <div class="breadcrumbs" id="solver-breadcrumbs"></div>
+
+        <!-- Progress bar above workspace -->
+        <div class="card" style="padding: 16px 20px; margin-bottom: 18px">
+          <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px">
+            <div>
+              <strong id="solver-olympiad-title" style="font-size:1.05rem">Олимпиада</strong>
+              <div class="small muted" id="solver-progress-stats">0 из 0 задач проверено</div>
+            </div>
+            <div style="display:flex; gap:8px; align-items:center">
+              <span class="badge" id="solver-progress-badge">0%</span>
+              <button class="btn btn-secondary btn-small" onclick="goToPage('olympiad-detail')"><i class="fas fa-list"></i> Все материалы</button>
+            </div>
+          </div>
+          <div class="progress-bar-wrap"><div class="progress-bar-fill" id="solver-progress-bar" style="width: 0%"></div></div>
         </div>
 
-        <h1 style="margin-bottom: 20px; color: var(--primary)">
-          Выберите ваш класс
-        </h1>
-        <p style="margin-bottom: 40px; color: #666">🧪 Химия</p>
+        <div class="solver-layout">
+          <!-- Sidebar: Task Navigator -->
+          <aside class="card task-nav-sidebar">
+            <div class="task-nav-header">
+              <span class="task-nav-title"><i class="fas fa-tasks"></i> Задачи олимпиады</span>
+              <button class="icon-btn" style="width:28px;height:28px;font-size:.78rem" title="Ручное редактирование задач" onclick="openManualTaskModal()"><i class="fas fa-sliders"></i></button>
+            </div>
+            <div class="task-nav-list" id="solver-task-nav-list"></div>
+          </aside>
 
-        <div class="grid grid-5" style="max-width: 800px; margin: 0 auto 50px">
-          <div class="grade-btn" onclick="selectGrade(7)">
-            <div class="grade-number">7</div>
-            <div>класс</div>
-          </div>
-          <div class="grade-btn" onclick="selectGrade(8)">
-            <div class="grade-number">8</div>
-            <div>класс</div>
-          </div>
-          <div class="grade-btn" onclick="selectGrade(9)">
-            <div class="grade-number">9</div>
-            <div>класс</div>
-          </div>
-          <div class="grade-btn" onclick="selectGrade(10)">
-            <div class="grade-number">10</div>
-            <div>класс</div>
-          </div>
-          <div class="grade-btn" onclick="selectGrade(11)">
-            <div class="grade-number">11</div>
-            <div>класс</div>
-          </div>
-        </div>
+          <!-- Main Workspace -->
+          <div class="solver-main">
+            <!-- Condition Card -->
+            <div class="card task-statement-box">
+              <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:12px">
+                <div>
+                  <span class="badge" id="workspace-task-badge">Задача 1</span>
+                  <h2 id="workspace-task-title" style="margin: 8px 0 4px; font-size: 1.35rem">Условие задачи</h2>
+                </div>
+                <div style="display:flex; gap:6px">
+                  <button class="btn btn-secondary btn-small" id="btn-view-task-pdf" onclick="openCurrentTaskPdf()"><i class="fas fa-file-pdf"></i> PDF</button>
+                </div>
+              </div>
+              <div class="task-statement-text" id="workspace-statement-text">Загрузка условия...</div>
+            </div>
 
-        <div class="card" style="max-width: 600px; margin: 0 auto 40px">
-          <h3 style="color: var(--primary); margin-bottom: 15px">
-            Рекомендация:
-          </h3>
-          <ul style="padding-left: 20px">
-            <li style="margin-bottom: 10px">
-              <strong>7 класс:</strong> 24 видеоурока по основам химии
-            </li>
-            <li style="margin-bottom: 10px">
-              <strong>8-9 классы:</strong> 30 видеоуроков по физической химии
-            </li>
-            <li style="margin-bottom: 10px">
-              <strong>10-11 классы:</strong> Подготовка к республиканской
-              олимпиаде
-            </li>
-          </ul>
-        </div>
+            <!-- Answers Card -->
+            <div class="card" style="padding: 22px">
+              <h3 style="font-size: 1.08rem; margin-bottom: 12px; color: var(--primary-dark)"><i class="fas fa-pen-to-square"></i> Ваш ответ и решение</h3>
+              
+              <!-- Subparts Inputs (a, b, c or 1, 2, 3) -->
+              <div id="workspace-subparts-container" class="subparts-container" style="display:none"></div>
 
-        <div style="text-align: center">
-          <button
-            class="btn btn-secondary"
-            onclick="goToPage('subject')"
-            style="margin-right: 20px"
-          >
-            <i class="fas fa-arrow-left"></i> Назад
-          </button>
-          <button
-            class="btn"
-            onclick="goToPage('chemistry')"
-            id="continue-btn"
-            disabled
-          >
-            Продолжить <i class="fas fa-arrow-right"></i>
-          </button>
+              <!-- General Work / Calculations -->
+              <div class="field" style="margin-top: 14px">
+                <label for="workspace-general-answer" id="workspace-general-label">Общее решение, уравнения реакций и расчёты</label>
+                <textarea id="workspace-general-answer" rows="7" placeholder="Запишите ход решения, уравнения, молярные массы, промежуточные и итоговые ответы..."></textarea>
+              </div>
+
+              <!-- Action Bar -->
+              <div class="solver-actions" style="margin-top: 18px">
+                <div style="display:flex; gap:8px; flex-wrap:wrap">
+                  <button class="btn btn-secondary" onclick="switchTask(state.currentTaskIndex - 1)" id="btn-prev-task"><i class="fas fa-arrow-left"></i> Предыдущая</button>
+                  <button class="btn btn-secondary" onclick="switchTask(state.currentTaskIndex + 1)" id="btn-next-task">Следующая <i class="fas fa-arrow-right"></i></button>
+                </div>
+                
+                <div style="display:flex; gap:8px; align-items:center; flex-wrap:wrap">
+                  <span class="save-status-indicator" id="save-status-text"><i class="fas fa-cloud-check"></i> Готово</span>
+                  <button class="btn btn-secondary" onclick="saveCurrentTask(true)"><i class="fas fa-floppy-disk"></i> Сохранить</button>
+                  <button class="btn" id="btn-check-task-ai" onclick="runAiTaskCheck()"><i class="fas fa-sparkles"></i> Проверить AI</button>
+                </div>
+              </div>
+            </div>
+
+            <!-- AI Feedback Panel -->
+            <div class="card ai-result-panel" id="workspace-ai-panel">
+              <div class="ai-result-header">
+                <div style="display:flex; align-items:center; gap:10px">
+                  <span class="ai-score-pill" id="ai-verdict-pill">✅ Решено полностью верно</span>
+                  <span class="badge muted" id="ai-provider-badge">AI Jury</span>
+                </div>
+                <div style="display:flex; gap:8px">
+                  <button class="btn btn-secondary btn-small" onclick="copyAiReview()"><i class="fas fa-copy"></i> Скопировать</button>
+                  <button class="btn btn-secondary btn-small" onclick="discussCurrentTaskInChat()"><i class="fas fa-comments"></i> В чат</button>
+                  <button class="btn btn-secondary btn-small" onclick="runAiTaskCheck()"><i class="fas fa-rotate-right"></i> Повторить</button>
+                </div>
+              </div>
+
+              <!-- Official Solution disclaimer banner if needed -->
+              <div id="ai-solution-mapping-banner" style="margin-bottom:14px"></div>
+
+              <div class="ai-markdown" id="workspace-ai-text"></div>
+            </div>
+
+            <!-- Loading indicator -->
+            <div class="card ai-loading" id="workspace-ai-loading">
+              <div class="spinner"></div>
+              <strong style="color:var(--primary-dark); font-size:1.05rem" id="solver-loading-step">AI анализирует задачу...</strong>
+              <p class="muted small" style="margin-top:6px">Проверяются химические формулы, коэффициенты, молярные массы и логика решения.</p>
+            </div>
+          </div>
         </div>
       </div>
-    </div>
+    </section>
 
-    <div id="chemistry" class="page">
-      <div class="container" style="padding-top: 60px">
-        <div class="breadcrumbs">
-          <a href="#" onclick="goToPage('home')">Главная</a>
-          <span>→</span>
-          <a href="#" onclick="goToPage('subject')">Предметы</a>
-          <span>→</span>
-          <a href="#" onclick="goToPage('grade')">Класс</a>
-          <span>→</span>
-          <span>Химия</span>
-        </div>
-
-        <div
-          style="
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 40px;
-          "
-        >
-          <h1 style="color: var(--primary)">
-            🧪 Химия • <span id="current-grade">10</span> класс
-          </h1>
-          <button class="btn btn-secondary" onclick="goToPage('grade')">
-            <i class="fas fa-exchange-alt"></i> Сменить класс
-          </button>
-        </div>
-
-        <div class="grid grid-2" style="max-width: 900px; margin: 0 auto 40px">
-          <div class="card" onclick="goToPage('tasks')" style="cursor: pointer">
-            <div class="card-icon" style="color: var(--primary)">📝</div>
-            <h3>Олимпиадные задания</h3>
-            <p style="margin-bottom: 20px">
-              Более 500 задач разных уровней сложности
-            </p>
-            <ul
-              style="text-align: left; padding-left: 20px; margin-bottom: 25px"
-            >
-              <li style="margin-bottom: 8px">По темам</li>
-              <li style="margin-bottom: 8px">Республиканские олимпиады</li>
-              <li>Международные олимпиады</li>
-            </ul>
-            <div class="btn">Перейти →</div>
+    <!-- 6. PDF VIEWER -->
+    <section id="viewer" class="page">
+      <div class="container">
+        <div class="breadcrumbs" id="viewer-breadcrumbs"></div>
+        <div class="card" style="padding: 22px">
+          <div class="pdf-toolbar">
+            <button class="btn btn-secondary" onclick="closeViewer()"><i class="fas fa-arrow-left"></i> Назад</button>
+            <h1 id="viewer-title" style="margin:0;font-size:1.15rem;flex:1">Просмотр PDF</h1>
+            <a class="btn btn-secondary" id="viewer-open" href="#" target="_blank" rel="noopener"><i class="fas fa-external-link-alt"></i> Новая вкладка</a>
+            <a class="btn btn-secondary" id="viewer-download" href="#" download><i class="fas fa-download"></i> Скачать</a>
           </div>
-
-          <div
-            class="card"
-            onclick="goToPage('videos')"
-            style="cursor: pointer"
-          >
-            <div class="card-icon" style="color: var(--accent)">🎥</div>
-            <h3>Видеоуроки</h3>
-            <p style="margin-bottom: 20px">54 реальных видеоурока по химии</p>
-            <ul
-              style="text-align: left; padding-left: 20px; margin-bottom: 25px"
-            >
-              <li style="margin-bottom: 8px">24 урока для 7 класса</li>
-              <li style="margin-bottom: 8px">30 уроков для 8-9 классов</li>
-              <li>Русский и казахский языки</li>
-            </ul>
-            <div class="btn">Смотреть →</div>
-          </div>
-        </div>
-
-        <div class="card" style="max-width: 600px; margin: 0 auto 40px">
-          <h4 style="margin-bottom: 15px">Ваш прогресс</h4>
-          <div
-            style="
-              background: #f0f2ff;
-              height: 10px;
-              border-radius: 5px;
-              margin-bottom: 10px;
-            "
-          >
-            <div
-              style="
-                width: 15%;
-                height: 100%;
-                background: var(--success);
-                border-radius: 5px;
-              "
-            ></div>
-          </div>
-          <div style="display: flex; justify-content: space-between">
-            <span>15% тем пройдено</span>
-            <span>3/20 тем</span>
-          </div>
-        </div>
-
-        <div style="text-align: center">
-          <button class="btn btn-secondary" onclick="goToPage('grade')">
-            <i class="fas fa-arrow-left"></i> Назад
-          </button>
+          <iframe class="pdf-frame viewer-frame" id="viewer-frame" title="Просмотр локального PDF"></iframe>
         </div>
       </div>
-    </div>
+    </section>
 
-    <div id="tasks" class="page">
-      <div class="container" style="padding-top: 60px">
-        <div class="breadcrumbs">
-          <a href="#" onclick="goToPage('home')">Главная</a>
-          <span>→</span>
-          <a href="#" onclick="goToPage('subject')">Предметы</a>
-          <span>→</span>
-          <a href="#" onclick="goToPage('grade')">Класс</a>
-          <span>→</span>
-          <a href="#" onclick="goToPage('chemistry')">Химия</a>
-          <span>→</span>
-          <span>Задания</span>
-        </div>
-
-        <h1 style="margin-bottom: 30px; color: var(--primary)">
-          🧪 Олимпиадные задания • <span id="tasks-grade">10</span> класс
-        </h1>
-
-        <div
-          style="display: flex; gap: 10px; margin-bottom: 30px; flex-wrap: wrap"
-        >
-          <button class="btn btn-secondary" style="padding: 8px 16px">
-            Все
-          </button>
-          <button class="btn btn-secondary" style="padding: 8px 16px">
-            По темам
-          </button>
-          <button class="btn btn-secondary" style="padding: 8px 16px">
-            По сложности
-          </button>
-          <button class="btn btn-secondary" style="padding: 8px 16px">
-            Избранное
-          </button>
-        </div>
-
-        <div id="tasks-list">
-          <div class="task-card fade-in">
-            <div class="task-header">
-              <div class="task-title">Тема: ОВР в неорганике</div>
-              <div class="stars">★★★☆☆</div>
+    <!-- 7. GENERAL AI SOLUTION CHECKER -->
+    <section id="checker" class="page">
+      <div class="container">
+        <div class="breadcrumbs"><a href="#" onclick="goToPage('home'); return false;">Главная</a><span>→</span><span>AI Проверка решений</span></div>
+        <div class="card" style="padding:28px 30px; margin-bottom:22px; background:linear-gradient(135deg, var(--primary-dark), var(--primary)); color:white">
+          <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:20px; flex-wrap:wrap">
+            <div>
+              <span class="badge" style="background:rgba(255,255,255,.2);color:white">AI Olympiad Jury & Tutor</span>
+              <h1 style="margin:10px 0 8px; font-size:clamp(1.7rem, 4vw, 2.45rem)">Проверь решение как жюри</h1>
+              <p style="max-width:680px; color:rgba(255,255,255,.85)">Найди ошибки, получи объяснение, подсказку или пошаговый разбор на любом языке.</p>
             </div>
-            <div class="task-meta">
-              <span><i class="far fa-star"></i> 25 баллов</span>
-              <span><i class="far fa-clock"></i> 45 мин</span>
-              <span
-                ><i
-                  class="fas fa-check-circle"
-                  style="color: var(--success)"
-                ></i>
-                Решено</span
-              >
-            </div>
-            <p style="margin: 15px 0">
-              Задача №1: Окислительно-восстановительные реакции в неорганической
-              химии. Составьте уравнения и расставьте коэффициенты.
-            </p>
-            <button
-              class="btn"
-              onclick="startTask(1)"
-              style="padding: 10px 20px"
-            >
-              <i class="fas fa-play"></i> Начать решение
-            </button>
-          </div>
-
-          <div class="task-card fade-in">
-            <div class="task-header">
-              <div class="task-title">Тема: Органический синтез</div>
-              <div class="stars">★★★★★</div>
-            </div>
-            <div class="task-meta">
-              <span><i class="far fa-star"></i> 40 баллов</span>
-              <span><i class="far fa-clock"></i> 60 мин</span>
-              <span
-                ><i class="fas fa-circle" style="color: #ff6584"></i>
-                Новая</span
-              >
-            </div>
-            <p style="margin: 15px 0">
-              Задача №2: Синтез органического соединения из предложенных
-              реагентов. Определите структуры промежуточных веществ.
-            </p>
-            <button
-              class="btn"
-              onclick="startTask(2)"
-              style="padding: 10px 20px"
-            >
-              <i class="fas fa-play"></i> Начать решение
-            </button>
+            <span class="badge" id="ai-server-badge" style="background:rgba(255,255,255,.2);color:white"><i class="fas fa-circle"></i> Проверка статуса</span>
           </div>
         </div>
 
-        <div
-          style="
-            display: flex;
-            justify-content: center;
-            gap: 10px;
-            margin: 40px 0;
-          "
-        >
-          <button class="btn btn-secondary" style="padding: 8px 16px">1</button>
-          <button class="btn btn-secondary" style="padding: 8px 16px">2</button>
-          <button class="btn btn-secondary" style="padding: 8px 16px">3</button>
-          <span style="padding: 8px 16px">...</span>
-          <button class="btn btn-secondary" style="padding: 8px 16px">
-            10
-          </button>
-        </div>
+        <div style="display:grid; grid-template-columns: minmax(0, 1.1fr) minmax(320px, .9fr); gap: 20px;" class="grid-2">
+          <div class="card" style="padding: 22px">
+            <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:18px; padding-bottom:14px; border-bottom:1px solid var(--line)">
+              <strong style="color:var(--primary-dark)"><i class="fas fa-edit"></i> Ввод задачи и решения</strong>
+              <button class="btn btn-secondary btn-small" onclick="clearCheckerInputs()"><i class="fas fa-trash"></i> Очистить</button>
+            </div>
+            <div class="grid grid-2">
+              <div class="field"><label for="checker-grade">Класс</label><select id="checker-grade"><option value="7">7 класс</option><option value="8">8 класс</option><option value="9">9 класс</option><option value="10" selected>10 класс</option><option value="11">11 класс</option></select></div>
+              <div class="field"><label for="checker-lang">Язык ответа</label><select id="checker-lang"><option value="ru" selected>Русский</option><option value="kz">Қазақша</option><option value="en">English</option></select></div>
+              <div class="field" style="grid-column:1/-1"><label for="checker-problem">Условие задачи *</label><textarea id="checker-problem" rows="5" placeholder="Вставьте условие олимпиадной задачи..."></textarea></div>
+              <div class="field" style="grid-column:1/-1"><label for="checker-solution">Ваше решение *</label><textarea id="checker-solution" rows="7" placeholder="1) Составим уравнение...&#10;2) Выполним расчёты...&#10;3) Сделаем вывод..."></textarea></div>
+            </div>
+            <div style="display:flex; gap:10px; margin-top:18px">
+              <button class="btn" id="btn-submit-check" onclick="runGeneralAiCheck()"><i class="fas fa-sparkles"></i> Запустить проверку AI</button>
+            </div>
+            <div class="alert error" id="checker-error-alert" style="display:none; margin-top:14px"></div>
+          </div>
 
-        <div style="text-align: center">
-          <button class="btn btn-secondary" onclick="goToPage('chemistry')">
-            <i class="fas fa-arrow-left"></i> Назад к химии
-          </button>
+          <div class="card" style="padding: 22px">
+            <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:18px; padding-bottom:14px; border-bottom:1px solid var(--line)">
+              <strong style="color:var(--primary-dark)"><i class="fas fa-clipboard-check"></i> Рецензия и разбор</strong>
+              <span id="result-status-pill" class="badge muted">Ожидание</span>
+            </div>
+            <div class="empty-state" id="result-empty-state"><div class="empty-state-icon"><i class="fas fa-flask"></i></div><h3>Готов к анализу</h3><p>Введите условие и решение, затем запустите проверку.</p></div>
+            <div class="ai-loading" id="ai-loading-container"><div class="spinner"></div><strong id="ai-loading-step">Изучаем условие...</strong><p class="muted small">AI проверяет химические уравнения, расчёты и логику решения.</p></div>
+            <div class="analysis-content" id="analysis-result-content" style="display:none">
+              <div class="ai-markdown" id="ai-analysis-text"></div>
+              <div style="display:flex; gap:10px; margin-top:18px">
+                <button class="btn btn-secondary btn-small" onclick="copyCheckerResult()"><i class="fas fa-copy"></i> Скопировать</button>
+                <button class="btn btn-secondary btn-small" onclick="openChatWithContext()"><i class="fas fa-comments"></i> В чат</button>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
-    </div>
+    </section>
 
-    <div id="videos" class="page">
-      <div class="container" style="padding-top: 60px">
-        <div class="breadcrumbs">
-          <a href="#" onclick="goToPage('home')">Главная</a>
-          <span>→</span>
-          <a href="#" onclick="goToPage('subject')">Предметы</a>
-          <span>→</span>
-          <a href="#" onclick="goToPage('grade')">Класс</a>
-          <span>→</span>
-          <a href="#" onclick="goToPage('chemistry')">Химия</a>
-          <span>→</span>
-          <span>Видеоуроки</span>
+    <!-- 8. PROGRESS PAGE -->
+    <section id="progress" class="page">
+      <div class="container">
+        <div style="display:flex; justify-content:space-between; align-items:flex-end; gap:20px; margin-bottom:22px; flex-wrap:wrap">
+          <div><span class="eyebrow">Мой результат</span><h1 class="section-title">Прогресс подготовки</h1><p class="section-copy">Здесь собраны все решённые задачи и оценки AI-проверок в этом браузере.</p></div>
         </div>
-
-        <h1 style="margin-bottom: 30px; color: var(--primary)">
-          🎥 Видеоуроки по химии • <span id="videos-grade">10</span> класс
-        </h1>
-
-        <div class="filters">
-          <h3>Фильтры уроков</h3>
-          <div class="filter-grid">
-            <div class="filter-group">
-              <label for="video-grade-filter">Класс:</label>
-              <select id="video-grade-filter">
-                <option value="all">Все классы</option>
-                <option value="7">7 класс</option>
-                <option value="8-9">8-9 классы</option>
-              </select>
-            </div>
-            <div class="filter-group">
-              <label for="video-language-filter">Язык:</label>
-              <select id="video-language-filter">
-                <option value="all">Все языки</option>
-                <option value="рус">Русский</option>
-                <option value="қаз">Казахский</option>
-              </select>
-            </div>
-            <div class="filter-group">
-              <label for="video-section-filter">Раздел:</label>
-              <select id="video-section-filter">
-                <option value="all">Все разделы</option>
-                <option value="Неорганическая">Неорганическая химия</option>
-                <option value="Физическая">Физическая химия</option>
-                <option value="Аналитическая">Аналитическая химия</option>
-              </select>
-            </div>
+        <div class="grid grid-4" id="progress-stats"></div>
+        <div class="card" style="margin-top:20px; padding: 22px">
+          <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom:15px">
+            <h2 style="font-size:1.15rem">Активность и решения</h2>
+            <span class="badge muted" id="activity-count">0 записей</span>
           </div>
-          <button onclick="resetVideoFilters()" class="btn btn-secondary">
-            <i class="fas fa-redo"></i> Сбросить фильтры
-          </button>
-        </div>
-
-        <div
-          style="
-            background: #e8f4fd;
-            padding: 15px;
-            border-radius: 10px;
-            text-align: center;
-            margin-bottom: 20px;
-          "
-        >
-          <strong>Показано:</strong> <span id="shown-count">54</span> из
-          <span id="total-count">54</span> уроков
-        </div>
-
-        <div class="grid grid-3" id="videos-grid"></div>
-
-        <div style="text-align: center; margin: 40px 0">
-          <button
-            class="btn btn-secondary"
-            onclick="prevVideoPage()"
-            style="margin-right: 10px"
-          >
-            <i class="fas fa-chevron-left"></i> Назад
-          </button>
-          <span style="margin: 0 15px"
-            >Страница <span id="current-page">1</span> из
-            <span id="total-pages">3</span></span
-          >
-          <button
-            class="btn btn-secondary"
-            onclick="nextVideoPage()"
-            style="margin-left: 10px"
-          >
-            Вперед <i class="fas fa-chevron-right"></i>
-          </button>
-        </div>
-
-        <div style="text-align: center; margin-top: 20px">
-          <button class="btn btn-secondary" onclick="goToPage('chemistry')">
-            <i class="fas fa-arrow-left"></i> Назад к химии
-          </button>
+          <div class="task-list" id="progress-list"></div>
         </div>
       </div>
-    </div>
+    </section>
 
-    <div class="chat-widget">
-      <div class="chat-window" id="chat-window">
-        <div class="chat-header">
-          <span>🤖 AI Помощник</span>
-          <i
-            class="fas fa-times"
-            onclick="toggleChat()"
-            style="cursor: pointer"
-          ></i>
-        </div>
-        <div class="chat-messages" id="chat-messages">
-          <div class="message bot">
-            Привет! Я твой AI-помощник по химии. Спроси меня о формулах, задачах
-            или реакциях!
-          </div>
-        </div>
-        <div class="chat-input-area">
-          <input
-            type="text"
-            class="chat-input"
-            id="chat-input"
-            placeholder="Задай вопрос..."
-            onkeypress="handleEnter(event)"
-          />
-          <button class="send-btn" onclick="sendMessage()">
-            <i class="fas fa-paper-plane"></i>
-          </button>
+    <!-- 9. ACCOUNT PAGE (Optional) -->
+    <section id="account" class="page">
+      <div class="container"><div class="card" style="max-width:700px; margin:0 auto; padding:28px"><span class="eyebrow">Профиль</span><h1 id="account-title" style="margin:9px 0 7px">Личный профиль</h1><p id="account-description" class="muted">Профиль для синхронизации прогресса.</p><div id="account-content"></div></div></div>
+    </section>
+  </main>
+
+  <!-- FLOATING AI CHAT -->
+  <div class="chat-widget">
+    <div class="chat-window" id="chat-window">
+      <div class="chat-header">
+        <div class="chat-header-title"><i class="fas fa-robot"></i> QazAkx AI Mentor</div>
+        <div class="chat-header-actions">
+          <select id="chat-lang-select" aria-label="Язык чата" onchange="onChatLangChange(this.value)">
+            <option value="ru">RU</option>
+            <option value="kz">KZ</option>
+            <option value="en">EN</option>
+          </select>
+          <button class="icon-btn" aria-label="Очистить чат" onclick="clearChat()"><i class="fas fa-trash"></i></button>
+          <button class="icon-btn" aria-label="Закрыть чат" onclick="toggleChat(false)"><i class="fas fa-times"></i></button>
         </div>
       </div>
-      <button class="chat-btn" onclick="toggleChat()">
-        <i class="fas fa-robot"></i>
-      </button>
+      <div class="chat-messages" id="chat-messages">
+        <div class="message bot"><p><strong>Привет!</strong></p><p>Я AI-наставник по олимпиадной химии. Задай любой вопрос по теории, реакциям или расчётам.</p></div>
+      </div>
+      <div class="chat-quick-chips">
+        <button class="chat-chip" onclick="sendQuickPrompt('Объясни закон Гесса и энтальпию')">Закон Гесса</button>
+        <button class="chat-chip" onclick="sendQuickPrompt('Как рассчитать pH буфера?')">pH буфера</button>
+        <button class="chat-chip" onclick="sendQuickPrompt('Объясни уравнение Нернста')">Уравнение Нернста</button>
+      </div>
+      <div class="chat-input-area">
+        <textarea class="chat-input" id="chat-input" rows="1" placeholder="Задай вопрос по химии..."></textarea>
+        <button class="send-btn" aria-label="Отправить сообщение" onclick="sendMessage()"><i class="fas fa-paper-plane"></i></button>
+      </div>
     </div>
+    <button class="btn" aria-label="Открыть QazAkx AI" style="width:58px;height:58px;border-radius:50%;box-shadow:0 12px 28px rgba(67,56,202,.3)" onclick="toggleChat()"><i class="fas fa-robot"></i></button>
+  </div>
 
-    <script>
-      // Переменная для хранения выбранного класса
-      let selectedGrade = 10;
+  <script>
+    const $ = (selector, root = document) => root.querySelector(selector);
+    const $$ = (selector, root = document) => [...root.querySelectorAll(selector)];
+    const escapeHtml = (value = "") => String(value).replace(/[&<>"']/g, (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[char]));
+    const formatDate = (value) => new Date(value).toLocaleString("ru-RU", { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" });
 
-      // Все видеоуроки (54 видео)
-      const allVideoLessons = [
-        // 7 класс (уроки 1-24)
-        {
-          id: 1,
-          date: "30 января",
-          topic: "Строение атома 1",
-          section: "Неорганическая",
-          language: "рус",
-          link: "https://youtu.be/g_CWmzJq3qQ",
-          grade: "7",
-          duration: "1:01:23",
-          watched: false,
-        },
-        {
-          id: 2,
-          date: "31 қантар",
-          topic: "Атом құрылысы 1",
-          section: "Неорганическая",
-          language: "қаз",
-          link: "https://youtu.be/HpaeIYe0i4s",
-          grade: "7",
-          duration: "1:00:15",
-          watched: false,
-        },
-        {
-          id: 3,
-          date: "11 февраля",
-          topic: "Строение атома 2",
-          section: "Неорганическая",
-          language: "рус",
-          link: "https://youtu.be/1NsZALUMwuA",
-          grade: "7",
-          duration: "55:42",
-          watched: true,
-        },
-        {
-          id: 4,
-          date: "11 ақпан",
-          topic: "Атом құрылысы 2",
-          section: "Неорганическая",
-          language: "қаз",
-          link: "https://youtu.be/L16ZwGtAVD4",
-          grade: "7",
-          duration: "58:30",
-          watched: false,
-        },
-        {
-          id: 5,
-          date: "27 февраля",
-          topic: "Смеси двух веществ",
-          section: "Неорганическая",
-          language: "рус",
-          link: "https://youtu.be/shTdQU6SqI8",
-          grade: "7",
-          duration: "45:20",
-          watched: false,
-        },
-        {
-          id: 6,
-          date: "28 ақпан",
-          topic: "Екі затты қоспалар",
-          section: "Неорганическая",
-          language: "қаз",
-          link: "https://youtu.be/CLkADuFPaLM",
-          grade: "7",
-          duration: "46:10",
-          watched: false,
-        },
-        {
-          id: 7,
-          date: "4 наурыз",
-          topic: "Көп затты қоспалар",
-          section: "Неорганическая",
-          language: "қаз",
-          link: "https://youtu.be/f6qjGyAr7e4",
-          grade: "7",
-          duration: "52:15",
-          watched: true,
-        },
-        {
-          id: 8,
-          date: "5 марта",
-          topic: "Смеси несольких веществ",
-          section: "Неорганическая",
-          language: "рус",
-          link: "https://youtu.be/xgfXNxkQd2k",
-          grade: "7",
-          duration: "48:30",
-          watched: false,
-        },
-        {
-          id: 9,
-          date: "12 марта",
-          topic: "Смеси/Олеум",
-          section: "Неорганическая",
-          language: "рус",
-          link: "https://youtu.be/-KEvu13w_Os",
-          grade: "7",
-          duration: "50:45",
-          watched: false,
-        },
-        {
-          id: 10,
-          date: "13 наурыз",
-          topic: "Қоспалар/Олеум",
-          section: "Неорганическая",
-          language: "қаз",
-          link: "https://youtu.be/B51jJb8Vn6E",
-          grade: "7",
-          duration: "49:20",
-          watched: false,
-        },
-        {
-          id: 11,
-          date: "24 марта",
-          topic: "Растворы",
-          section: "Неорганическая",
-          language: "рус",
-          link: "https://youtu.be/Eel6cOha1tI",
-          grade: "7",
-          duration: "55:10",
-          watched: true,
-        },
-        {
-          id: 12,
-          date: "25 наурыз",
-          topic: "Ерітінділер",
-          section: "Неорганическая",
-          language: "қаз",
-          link: "https://youtu.be/uWDghQqbOXw",
-          grade: "7",
-          duration: "56:30",
-          watched: false,
-        },
+    const safeLocalPath = (value) => {
+      let path = String(value || "").replace(/\\/g, "/").trim();
+      if (!path || path.includes("..") || /^(https?:)?\/\//i.test(path) || path.startsWith("data:")) return "";
+      path = path.replace(/^\/+/, "");
+      if (path.startsWith("public/")) path = path.slice("public/".length);
+      if (!path.startsWith("olympiads/") || !/\.pdf$/i.test(path)) return "";
+      return "/" + path.split("/").map(encodeURIComponent).join("/");
+    };
 
-        // 8-9 классы (уроки 25-54)
-        {
-          id: 25,
-          date: "19 мая",
-          topic: "Кинетика, уравнение Вант-Гоффа",
-          section: "Физическая",
-          language: "рус",
-          link: "https://youtu.be/jdxkxHyTHeY",
-          grade: "8-9",
-          duration: "45:20",
-          watched: false,
-        },
-        {
-          id: 26,
-          date: "21 мамыр",
-          topic: "Кинетика, Вант-Гофф теңдеуі",
-          section: "Физическая",
-          language: "қаз",
-          link: "https://youtu.be/RalpIgLheMo",
-          grade: "8-9",
-          duration: "47:15",
-          watched: false,
-        },
-        {
-          id: 27,
-          date: "27 мая",
-          topic: "Кинетика, уравнение Аррениуса 1",
-          section: "Физическая",
-          language: "рус",
-          link: "https://youtu.be/ImahCQOqE9E",
-          grade: "8-9",
-          duration: "50:10",
-          watched: false,
-        },
-        {
-          id: 28,
-          date: "28 мамыр",
-          topic: "Кинетика, Аррениус теңдеуі 1",
-          section: "Физическая",
-          language: "қаз",
-          link: "https://youtu.be/9Tww6btOmbg",
-          grade: "8-9",
-          duration: "51:30",
-          watched: false,
-        },
-        {
-          id: 29,
-          date: "3 июня",
-          topic: "Кинетика, уравнение Аррениуса 2",
-          section: "Физическая",
-          language: "рус",
-          link: "https://youtu.be/rMXpnDI3gPQ",
-          grade: "8-9",
-          duration: "48:45",
-          watched: true,
-        },
-        {
-          id: 30,
-          date: "4 маусым",
-          topic: "Кинетика, Аррениус теңдеуі 2",
-          section: "Физическая",
-          language: "қаз",
-          link: "https://youtu.be/fTh1U8NTQTI",
-          grade: "8-9",
-          duration: "49:20",
-          watched: false,
-        },
-        {
-          id: 31,
-          date: "10 июня",
-          topic: "Кинетика, комбинированные задачи",
-          section: "Физическая",
-          language: "рус",
-          link: "https://youtu.be/c5EKjlwI_YM",
-          grade: "8-9",
-          duration: "52:15",
-          watched: false,
-        },
-        {
-          id: 32,
-          date: "11 маусым",
-          topic: "Кинетика, аралас есептер",
-          section: "Физическая",
-          language: "қаз",
-          link: "https://youtu.be/NIcA7QACrg0",
-          grade: "8-9",
-          duration: "53:40",
-          watched: false,
-        },
+    const olympiadId = (item) => item.id || `${item.subject}-${item.year}-${item.round}-${item.language}`;
 
-        // Добавлены еще 4 популярных видео для демонстрации
-        {
-          id: 47,
-          date: "6 сентября",
-          topic: "Кислоты и основания",
-          section: "Аналитическая",
-          language: "рус",
-          link: "https://youtu.be/JrK8Me1Egsk",
-          grade: "8-9",
-          duration: "50:10",
-          watched: true,
-        },
-        {
-          id: 48,
-          date: "6 қыркүйек",
-          topic: "Қышқылдар мен негіздер",
-          section: "Аналитическая",
-          language: "қаз",
-          link: "https://youtu.be/E60e-5GC5qc",
-          grade: "8-9",
-          duration: "52:45",
-          watched: false,
-        },
-        {
-          id: 49,
-          date: "13 сентября",
-          topic: "Кислоты и основания 2",
-          section: "Аналитическая",
-          language: "рус",
-          link: "https://youtu.be/L81T0pMwOtA",
-          grade: "8-9",
-          duration: "48:30",
-          watched: false,
-        },
-        {
-          id: 50,
-          date: "13 қыркүйек",
-          topic: "Қышқылдар мен негіздер 2",
-          section: "Аналитическая",
-          language: "қаз",
-          link: "https://youtu.be/t07AlJwcZTE",
-          grade: "8-9",
-          duration: "49:15",
-          watched: true,
-        },
-      ];
+    // App Global State
+    const state = {
+      olympiads: [],
+      currentOlympiad: null,
+      currentOlympiadTasks: [],
+      currentTaskIndex: 0,
+      currentPdfFile: null,
+      selectedLanguage: "ru",
+      chatHistory: [],
+      isAiGenerating: false,
+      lastPage: "home",
+      viewerReturnPage: "olympiads"
+    };
 
-      // Переменные для пагинации видео
-      let currentVideoPage = 1;
-      const videosPerPage = 9;
+    // LOCALSTORAGE PERSISTENCE (Anonymous & Public by default)
+    const STORAGE_KEY = "qazakx_olympiad_store_v2";
 
-      // Функция перехода между страницами
-      function goToPage(pageId) {
-        // Скрыть все страницы
-        document.querySelectorAll(".page").forEach((page) => {
-          page.classList.remove("active");
+    function loadStore() {
+      try {
+        return JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}");
+      } catch {
+        return {};
+      }
+    }
+
+    function saveStore(store) {
+      try {
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(store));
+      } catch (e) {
+        console.error("Storage error:", e);
+      }
+    }
+
+    function getOlympiadStore(olympId) {
+      const store = loadStore();
+      if (!store[olympId]) {
+        store[olympId] = { olympiadId: olympId, tasks: {}, lastSaved: Date.now() };
+      }
+      return store[olympId];
+    }
+
+    function saveTaskState(olympId, taskNumber, taskData) {
+      const store = loadStore();
+      if (!store[olympId]) {
+        store[olympId] = { olympiadId: olympId, tasks: {}, lastSaved: Date.now() };
+      }
+      const existing = store[olympId].tasks[taskNumber] || {};
+      store[olympId].tasks[taskNumber] = {
+        ...existing,
+        ...taskData,
+        lastSaved: Date.now()
+      };
+      store[olympId].lastSaved = Date.now();
+      saveStore(store);
+      updateOverallProgressUI();
+    }
+
+    function getTaskSavedState(olympId, taskNumber) {
+      const olympStore = getOlympiadStore(olympId);
+      return olympStore.tasks?.[taskNumber] || null;
+    }
+
+    function toggleMobileMenu() { $("#primary-nav").classList.toggle("open"); }
+
+    function goToPage(pageId, options = {}) {
+      if (pageId && pageId !== "viewer") state.lastPage = pageId;
+      $$(".page").forEach((page) => page.classList.remove("active"));
+      const page = document.getElementById(pageId);
+      if (page) page.classList.add("active");
+      $("#primary-nav").classList.remove("open");
+      window.scrollTo({ top: 0, behavior: "smooth" });
+
+      if (pageId === "olympiads") {
+        if (!options.preserveFilters) resetCatalogFilters();
+        else renderCatalog();
+      }
+      if (pageId === "subjects") renderSubjects();
+      if (pageId === "account") renderAccount();
+      if (pageId === "progress") renderProgress();
+    }
+
+    function languageLabel(value) {
+      const raw = String(value || "").toLowerCase();
+      if (raw === "ru" || raw === "rus" || raw.includes("рус")) return "Русский";
+      if (raw === "kz" || raw === "kaz" || raw.includes("каз")) return "Қазақша";
+      if (raw === "en" || raw.includes("eng") || raw.includes("англ")) return "English";
+      return value || "не указан";
+    }
+
+    function normalizeMaterial(material = {}) {
+      const file = material.file || material.pdf || "";
+      const isSolution = /sol|solution|res/i.test(`${material.type || ""} ${material.title || ""} ${file}`);
+      const path = material.local === true ? safeLocalPath(file) : "";
+      const source = material.sourcePage || material.url || "";
+      return {
+        type: material.type || (isSolution ? "solutions" : "tasks"),
+        label: isSolution ? "Решения" : "Задачи",
+        title: material.title || file || "Материал",
+        file,
+        path,
+        local: material.local === true && Boolean(path),
+        sourcePage: source,
+      };
+    }
+
+    async function loadLocalOlympiads() {
+      try {
+        const response = await fetch("/olympiads.json", { cache: "no-store" });
+        if (!response.ok) throw new Error("Не удалось загрузить каталог");
+        const entries = await response.json();
+        const usedIds = new Set();
+        state.olympiads = (Array.isArray(entries) ? entries : []).map((entry, index) => {
+          const materials = Array.isArray(entry.materials)
+            ? entry.materials.map(normalizeMaterial)
+            : [normalizeMaterial(entry)];
+          let id = String(entry.id || `${entry.subject || "item"}-${entry.year || "x"}-${index}`);
+          if (usedIds.has(id)) id = `${id}-${index}`;
+          usedIds.add(id);
+          const norm = (val) => (val === null || val === undefined || val === "" ? "all" : String(val));
+          return {
+            id,
+            subject: entry.subject || "Другой предмет",
+            year: norm(entry.year),
+            grade: norm(entry.grade),
+            round: norm(entry.round),
+            language: languageLabel(entry.language),
+            title: entry.sourcePage || `${entry.subject || "Олимпиада"} · ${entry.year || ""}`.trim(),
+            sourcePage: entry.sourcePage || "",
+            materials,
+          };
+        }).sort((a, b) => Number(b.year) - Number(a.year) || a.subject.localeCompare(b.subject, "ru"));
+
+        $("#home-olympiad-count").textContent = state.olympiads.length;
+        $("#home-pdf-count").textContent = state.olympiads.reduce((sum, item) => sum + item.materials.filter((m) => m.local).length, 0);
+        $("#home-subject-count").textContent = [...new Set(state.olympiads.map((item) => item.subject))].length;
+        populateCatalogFilters();
+        resetCatalogFilters();
+        renderSubjects();
+      } catch (error) {
+        $("#catalog-summary-text").textContent = "Каталог недоступен";
+        $("#catalog-empty").style.display = "block";
+      }
+    }
+
+    function populateCatalogFilters() {
+      const fill = (id, values) => {
+        const select = $(id);
+        if (!select) return;
+        const current = select.value || "all";
+        select.innerHTML = "";
+        const all = document.createElement("option");
+        all.value = "all";
+        all.textContent = select.id === "catalog-subject" ? "Все предметы" : select.id === "catalog-year" ? "Все годы" : select.id === "catalog-grade" ? "Все классы" : select.id === "catalog-round" ? "Все раунды" : "Все языки";
+        select.appendChild(all);
+        values.forEach((value) => {
+          const option = document.createElement("option");
+          option.value = String(value);
+          option.textContent = value;
+          select.appendChild(option);
         });
+        select.value = [...select.options].some((option) => option.value === current) ? current : "all";
+      };
+      fill("#catalog-subject", [...new Set(state.olympiads.map((item) => item.subject))].sort((a, b) => a.localeCompare(b, "ru")));
+      fill("#catalog-year", [...new Set(state.olympiads.map((item) => item.year))].sort((a, b) => String(b).localeCompare(String(a), undefined, { numeric: true })));
+      fill("#catalog-grade", [...new Set(state.olympiads.map((item) => item.grade))].sort((a, b) => String(a).localeCompare(String(b), undefined, { numeric: true })));
+      fill("#catalog-round", [...new Set(state.olympiads.map((item) => item.round))].sort());
+      fill("#catalog-language", [...new Set(state.olympiads.map((item) => item.language))].sort());
+    }
 
-        // Показать выбранную страницу
-        document.getElementById(pageId).classList.add("active");
+    function getFilteredOlympiads() {
+      const query = $("#catalog-search")?.value.trim().toLowerCase() || "";
+      const subject = $("#catalog-subject")?.value || "all";
+      const year = $("#catalog-year")?.value || "all";
+      const grade = $("#catalog-grade")?.value || "all";
+      const round = $("#catalog-round")?.value || "all";
+      const language = $("#catalog-language")?.value || "all";
+      const local = $("#catalog-local")?.value || "all";
+      const sort = $("#catalog-sort")?.value || "newest";
+      let items = state.olympiads.filter((item) => {
+        const haystack = [item.title, item.subject, item.year, item.grade, item.round, item.language, item.sourcePage, ...item.materials.map((m) => m.title)].join(" ").toLowerCase();
+        const hasLocal = item.materials.some((m) => m.local);
+        const matches = (filterValue, itemValue) => filterValue === "all" || filterValue === null || filterValue === undefined || String(itemValue) === String(filterValue);
+        return (!query || haystack.includes(query))
+          && matches(subject, item.subject)
+          && matches(year, item.year)
+          && matches(grade, item.grade)
+          && matches(round, item.round)
+          && matches(language, item.language)
+          && (local === "all" || (local === "yes" ? hasLocal : !hasLocal));
+      });
+      if (sort === "oldest") items.sort((a, b) => String(a.year).localeCompare(String(b.year), undefined, { numeric: true }) || a.subject.localeCompare(b.subject, "ru"));
+      else if (sort === "grade") items.sort((a, b) => String(a.grade).localeCompare(String(b.grade), undefined, { numeric: true }));
+      else if (sort === "subject") items.sort((a, b) => a.subject.localeCompare(b.subject, "ru"));
+      else items.sort((a, b) => String(b.year).localeCompare(String(a.year), undefined, { numeric: true }) || a.subject.localeCompare(b.subject, "ru"));
+      return items;
+    }
 
-        // Обновить класс на страницах
-        if (
-          pageId === "chemistry" ||
-          pageId === "tasks" ||
-          pageId === "videos"
-        ) {
-          document.getElementById("current-grade").textContent = selectedGrade;
-          document.getElementById("tasks-grade").textContent = selectedGrade;
-          document.getElementById("videos-grade").textContent = selectedGrade;
-        }
+    function renderCatalog() {
+      const items = getFilteredOlympiads();
+      $("#catalog-summary-text").textContent = `Найдено олимпиад: ${items.length} из ${state.olympiads.length}`;
+      $("#catalog-empty").style.display = items.length ? "none" : "block";
+      $("#catalog-grid").innerHTML = items.map((item) => {
+        const localCount = item.materials.filter((m) => m.local).length;
+        const hasLocal = localCount > 0;
+        return `<article class="card card-hover olympiad-card fade-in" onclick="openOlympiad('${escapeHtml(olympiadId(item))}')"><div class="olympiad-card-header"><span class="badge">${escapeHtml(item.subject)}</span><span class="badge ${hasLocal ? "success" : "muted"}">${localCount} локальных PDF</span></div><h3>${escapeHtml(item.title)}</h3><p>Класс ${escapeHtml(item.grade)} · Раунд ${escapeHtml(item.round)} · Язык: ${escapeHtml(item.language)}</p><div class="olympiad-card-footer"><span class="badge muted">${escapeHtml(item.year)}</span><button class="btn btn-secondary btn-small" type="button" onclick="event.stopPropagation(); openOlympiad('${escapeHtml(olympiadId(item))}')">Открыть олимпиаду <i class="fas fa-arrow-right"></i></button></div></article>`;
+      }).join("");
+    }
 
-        // Если открыли страницу видео, инициализируем
-        if (pageId === "videos") {
-          initVideoPage();
-        }
+    function resetCatalogFilters() {
+      const search = $("#catalog-search");
+      if (search) search.value = "";
+      ["#catalog-subject", "#catalog-year", "#catalog-grade", "#catalog-round", "#catalog-language", "#catalog-local"].forEach((id) => { const el = $(id); if (el) el.value = "all"; });
+      const sort = $("#catalog-sort");
+      if (sort) sort.value = "newest";
+      renderCatalog();
+    }
 
-        // Прокрутить наверх
-        window.scrollTo(0, 0);
-      }
+    function renderSubjects() {
+      const grid = $("#subjects-grid");
+      if (!grid) return;
+      const subjects = [...new Map(state.olympiads.map((item) => [item.subject, state.olympiads.filter((entry) => entry.subject === item.subject)])).entries()];
+      grid.innerHTML = subjects.length ? subjects.map(([subject, items]) => `<article class="card card-hover feature-card" onclick="filterBySubject('${escapeHtml(subject)}')"><div class="feature-icon"><i class="fas fa-flask"></i></div><h3>${escapeHtml(subject)}</h3><p>${items.length} олимпиад · ${items.reduce((sum, item) => sum + item.materials.length, 0)} PDF</p></article>`).join("") : `<div class="card empty-state" style="grid-column:1/-1"><div class="empty-state-icon"><i class="fas fa-inbox"></i></div><h3>Пока нет предметов</h3><p>Локальный архив пуст.</p></div>`;
+    }
 
-      // Функция выбора класса
-      function selectGrade(grade) {
-        selectedGrade = grade;
+    function filterBySubject(subject) {
+      resetCatalogFilters();
+      const select = $("#catalog-subject");
+      if (select) select.value = subject;
+      goToPage("olympiads", { preserveFilters: true });
+    }
 
-        // Снять активный класс со всех кнопок
-        document.querySelectorAll(".grade-btn").forEach((btn) => {
-          btn.classList.remove("active");
-        });
+    function openPdfViewer(file, title = "Локальный PDF", returnPage = state.lastPage) {
+      const path = safeLocalPath(file);
+      if (!path) return alert("Локальный PDF недоступен.");
+      state.viewerReturnPage = returnPage || "olympiads";
+      $("#viewer-title").textContent = title;
+      $("#viewer-breadcrumbs").innerHTML = `<a href="#" onclick="closeViewer(); return false;">Назад</a><span>→</span><span>${escapeHtml(title)}</span>`;
+      $("#viewer-frame").src = path;
+      $("#viewer-open").href = path;
+      $("#viewer-download").href = path;
+      goToPage("viewer");
+    }
 
-        // Добавить активный класс к выбранной кнопке
-        event.target.closest(".grade-btn").classList.add("active");
+    function closeViewer() { goToPage(state.viewerReturnPage || "olympiads"); }
 
-        // Активировать кнопку "Продолжить"
-        document.getElementById("continue-btn").disabled = false;
-
-        // Показать анимацию
-        event.target.closest(".grade-btn").style.animation = "fadeIn 0.3s";
-      }
-
-      // Функция для поиска заданий (из первой версии)
-      function searchTasks() {
-        alert("Функция поиска будет доступна в полной версии");
-      }
-
-      async function loadLocalOlympiads() {
-        const list = document.getElementById("local-materials-list");
-        const count = document.getElementById("local-materials-count");
-        if (!list || !count) return;
-        try {
-          const response = await fetch("olympiads.json");
-          if (!response.ok) throw new Error("Manifest unavailable");
-          const materials = await response.json();
-          count.textContent = `${materials.length} материалов сохранено локально`;
-          list.innerHTML = materials.map((material) => `
-            <article class="local-material">
-              <div><strong>${material.title}</strong><small>${material.subject} · ${material.sourcePage}</small></div>
-              <a class="btn" href="${material.file}" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i> Открыть</a>
-            </article>
-          `).join("");
-        } catch (error) {
-          count.textContent = "Материалы ещё загружаются";
-          list.innerHTML = "<p>Локальная библиотека появится после завершения импорта.</p>";
-        }
-      }
-
-      // Функция для начала решения задачи (из первой версии)
-      function startTask(taskId) {
-        alert(
-          `Начинаем решение задачи ${taskId}. В полной версии здесь будет открытие задачи.`,
-        );
-      }
-
-      // Функция получения ID YouTube видео
-      function getYouTubeId(url) {
-        const match = url.match(
-          /(?:youtu\.be\/|youtube\.com\/(?:embed\/|v\/|watch\?v=|watch\?.+&v=))([^?&]+)/,
-        );
-        return match ? match[1] : url;
-      }
-
-      // Функция отображения видео
-      function renderVideoLessons(videos = allVideoLessons, page = 1) {
-        const container = document.getElementById("videos-grid");
-        if (!container) return;
-
-        container.innerHTML = "";
-
-        // Фильтрация
-        const gradeFilter =
-          document.getElementById("video-grade-filter")?.value || "all";
-        const languageFilter =
-          document.getElementById("video-language-filter")?.value || "all";
-        const sectionFilter =
-          document.getElementById("video-section-filter")?.value || "all";
-
-        let filteredVideos = videos.filter((video) => {
-          if (gradeFilter !== "all" && video.grade !== gradeFilter)
-            return false;
-          if (languageFilter !== "all" && video.language !== languageFilter)
-            return false;
-          if (sectionFilter !== "all" && !video.section.includes(sectionFilter))
-            return false;
-          return true;
-        });
-
-        // Пагинация
-        const totalPages = Math.ceil(filteredVideos.length / videosPerPage);
-        const startIndex = (page - 1) * videosPerPage;
-        const endIndex = startIndex + videosPerPage;
-        const videosToShow = filteredVideos.slice(startIndex, endIndex);
-
-        // Отображение
-        videosToShow.forEach((video) => {
-          const videoId = getYouTubeId(video.link);
-          const videoCard = document.createElement("div");
-          videoCard.className = "video-card fade-in";
-
-          const gradeText = video.grade === "7" ? "7 класс" : "8-9 классы";
-          const gradeClass =
-            video.grade === "7" ? "tag-grade" : "tag-grade-8-9";
-          const languageText =
-            video.language === "рус" ? "Русский" : "Казахский";
-          const languageClass =
-            video.language === "рус" ? "tag-language" : "tag-language-kz";
-
-          videoCard.innerHTML = `
-                    <div class="video-thumbnail">
-                        <img src="https://img.youtube.com/vi/${videoId}/hqdefault.jpg" 
-                             alt="${video.topic}" 
-                             style="width: 100%; height: 100%; object-fit: cover;">
-                        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 48px; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
-                            <i class="fas fa-play-circle"></i>
-                        </div>
-                        ${
-                          video.watched
-                            ? `<div style="position: absolute; top: 10px; right: 10px; background: #4CAF50; color: white; padding: 5px 10px; border-radius: 12px; font-size: 12px; font-weight: bold;">
-                                <i class="fas fa-check"></i> Просмотрено
-                            </div>`
-                            : ""
-                        }
+    function openOlympiad(id) {
+      const item = state.olympiads.find((entry) => olympiadId(entry) === id);
+      if (!item) return;
+      state.currentOlympiad = item;
+      const hasLocal = item.materials.some((m) => m.local);
+      const sourceLink = item.sourcePage && /^https?:\/\//i.test(item.sourcePage) ? `<a class="btn btn-secondary" href="${escapeHtml(item.sourcePage)}" target="_blank" rel="noopener"><i class="fas fa-external-link-alt"></i> Открыть источник</a>` : "";
+      
+      $("#olympiad-breadcrumbs").innerHTML = `<a href="#" onclick="goToPage('olympiads', { preserveFilters: true }); return false;">Все олимпиады</a><span>→</span><span>${escapeHtml(item.subject)}</span><span>→</span><span>${escapeHtml(item.title)}</span>`;
+      
+      $("#olympiad-detail-content").innerHTML = `
+        <div class="card detail-hero fade-in">
+          <span class="badge">${escapeHtml(item.subject)}</span>
+          <h1 style="margin:10px 0">${escapeHtml(item.title)}</h1>
+          <p class="muted">Класс: ${escapeHtml(item.grade)} · Раунд: ${escapeHtml(item.round)} · Язык: ${escapeHtml(item.language)} · ${item.materials.length} материалов</p>
+          <div style="margin-top:14px; display:flex; gap:8px">
+            <span class="badge ${hasLocal ? "success" : "muted"}">${hasLocal ? "Локальный PDF доступен" : "PDF пока не загружен"}</span>
+          </div>
+        </div>
+        <div style="display:grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 22px; margin-top:20px" class="grid-2">
+          <div class="stack">
+            <div class="card" style="padding:20px">
+              <h2 style="font-size:1.15rem;margin-bottom:12px">Материалы олимпиады</h2>
+              <div class="task-list">
+                ${item.materials.map((m) => `
+                  <div class="card task-row" style="border:1px solid var(--line)">
+                    <div class="task-row-main">
+                      <h3><i class="fas fa-file-pdf" style="color:var(--primary)"></i> ${escapeHtml(m.label)}</h3>
+                      <p>${escapeHtml(m.title)}</p>
                     </div>
-                    <div class="video-content">
-                        <h4 style="margin-bottom: 10px;">${video.topic}</h4>
-                        <div class="video-tags">
-                            <span class="tag ${gradeClass}">${gradeText}</span>
-                            <span class="tag ${languageClass}">${languageText}</span>
-                            <span class="tag tag-section">${video.section}</span>
-                        </div>
-                        <div style="margin-bottom: 15px; color: #666; font-size: 14px;">
-                            <i class="far fa-calendar"></i> ${video.date} &nbsp;|&nbsp;
-                            <i class="far fa-clock"></i> ${video.duration}
-                        </div>
-                        <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 15px;">
-                            <span style="color: #666; font-size: 14px;">Урок ${video.id}</span>
-                            <button class="btn" onclick="watchVideo('${videoId}', '${video.topic}')" style="padding: 8px 16px;">
-                                <i class="fas fa-play"></i> Смотреть
-                            </button>
-                        </div>
+                    <div style="display:flex; gap:8px; flex-wrap:wrap">
+                      ${m.local && m.path ? `
+                        <button class="btn btn-small" type="button" onclick="startSolvingOlympiad('${escapeHtml(m.file)}', '${escapeHtml(id)}')"><i class="fas fa-edit"></i> Решать задачи</button>
+                        <button class="btn btn-secondary btn-small" type="button" onclick="openPdfViewer('${escapeHtml(m.path)}', '${escapeHtml(m.title)}', 'olympiad-detail')"><i class="fas fa-eye"></i> Читать PDF</button>
+                        <a class="btn btn-secondary btn-small" href="${escapeHtml(m.path)}" download><i class="fas fa-download"></i> Скачать</a>
+                      ` : m.sourcePage ? `
+                        <a class="btn btn-secondary btn-small" href="${escapeHtml(m.sourcePage)}" target="_blank" rel="noopener"><i class="fas fa-external-link-alt"></i> Источник</a>
+                      ` : `<span class="badge muted">Недоступен</span>`}
                     </div>
-                `;
-          container.appendChild(videoCard);
+                  </div>
+                `).join("")}
+              </div>
+            </div>
+          </div>
+          <aside class="stack">
+            <div class="card" style="padding:19px">
+              <h3 style="margin-bottom:10px"><i class="fas fa-circle-info"></i> О комплекте</h3>
+              <p class="muted small">${item.sourcePage ? escapeHtml(item.sourcePage) : "Локальный архив заданий."}</p>
+              ${sourceLink ? `<div style="margin-top:14px">${sourceLink}</div>` : ""}
+            </div>
+          </aside>
+        </div>
+      `;
+      goToPage("olympiad-detail", { preserveFilters: true });
+    }
+
+    // ==========================================
+    // SOLVER WORKSPACE & TASK FLOW
+    // ==========================================
+
+    async function startSolvingOlympiad(file, olympId = null) {
+      if (!file) return;
+      
+      const olymp = state.olympiads.find(o => olympiadId(o) === olympId) || state.currentOlympiad || {
+        id: "custom-olympiad",
+        title: "Олимпиада по химии",
+        subject: "Химия",
+        year: 2024,
+        grade: 9
+      };
+      state.currentOlympiad = olymp;
+      state.currentPdfFile = file;
+
+      try {
+        const res = await fetch('/api/detect-tasks', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ file })
         });
+        const data = await res.json();
+        if (!data.success || !data.tasks?.length) {
+          alert("Не удалось автоматически разделить задачи. Открываем PDF.");
+          return openPdfViewer(file);
+        }
 
-        // Обновляем счетчики
-        document.getElementById("shown-count").textContent =
-          filteredVideos.length;
-        document.getElementById("total-count").textContent =
-          allVideoLessons.length;
-        document.getElementById("current-page").textContent = page;
-        document.getElementById("total-pages").textContent = totalPages;
+        state.currentOlympiadTasks = data.tasks;
+        state.solutionsMapped = data.solutionsMapped;
+        state.currentTaskIndex = 0;
 
-        // Сохраняем текущую страницу
-        currentVideoPage = page;
+        renderTaskWorkspace();
+        goToPage('task-detail');
+      } catch (err) {
+        console.error(err);
+        alert("Ошибка при анализе олимпиады.");
+      }
+    }
+
+    function renderTaskWorkspace() {
+      const tasks = state.currentOlympiadTasks || [];
+      const index = state.currentTaskIndex || 0;
+      const task = tasks[index];
+      const olymp = state.currentOlympiad || {};
+      const olympIdStr = olympiadId(olymp);
+
+      if (!task) return;
+
+      // 1. Breadcrumbs
+      $("#solver-breadcrumbs").innerHTML = `
+        <a href="#" onclick="goToPage('olympiads'); return false;">Олимпиады</a>
+        <span>→</span>
+        <a href="#" onclick="goToPage('olympiad-detail'); return false;">${escapeHtml(olymp.title || "Олимпиада")}</a>
+        <span>→</span>
+        <span>Задача №${task.number || index + 1}</span>
+      `;
+
+      $("#solver-olympiad-title").textContent = `${olymp.title || "Олимпиада"} · Задача ${index + 1} из ${tasks.length}`;
+
+      // 2. Sidebar Task Nav List
+      const navList = $("#solver-task-nav-list");
+      if (navList) {
+        const olympStore = getOlympiadStore(olympIdStr);
+        navList.innerHTML = tasks.map((t, idx) => {
+          const saved = olympStore.tasks?.[t.number] || {};
+          let statusBadge = `<span class="badge muted" style="font-size:.72rem">Не начата</span>`;
+          if (saved.status === "CHECKED_CORRECT") {
+            statusBadge = `<span class="badge success" style="font-size:.72rem">✓ ${saved.score || 10}/10</span>`;
+          } else if (saved.status === "CHECKED_PARTIAL") {
+            statusBadge = `<span class="badge warning" style="font-size:.72rem">⚠ ${saved.score || 5}/10</span>`;
+          } else if (saved.status === "CHECKED_INCORRECT") {
+            statusBadge = `<span class="badge danger" style="font-size:.72rem">✗ ${saved.score || 0}/10</span>`;
+          } else if (saved.status === "IN_PROGRESS" || saved.answer || (saved.answers && Object.keys(saved.answers).length > 0)) {
+            statusBadge = `<span class="badge warning" style="font-size:.72rem">В процессе</span>`;
+          }
+
+          return `
+            <button class="task-nav-item ${idx === index ? "active" : ""}" onclick="switchTask(${idx})">
+              <span><strong>№${t.number || idx + 1}</strong> ${escapeHtml((t.title || "").replace(/^(?:Задача|Problem)\s*(?:№\s*)?\d+[.:]?/i, "").slice(0, 16) || "Задача")}</span>
+              ${statusBadge}
+            </button>
+          `;
+        }).join("");
       }
 
-      // Функция просмотра видео
-      function watchVideo(videoId, title) {
-        window.open(`https://www.youtube.com/watch?v=${videoId}`, "_blank");
-      }
+      // 3. Task Header & Statement
+      $("#workspace-task-badge").textContent = `Задача ${task.number || index + 1} из ${tasks.length}`;
+      $("#workspace-task-title").textContent = task.title || `Задача №${task.number || index + 1}`;
+      $("#workspace-statement-text").textContent = task.statement || task.text || "Условие задачи";
 
-      // Функция сброса фильтров
-      function resetVideoFilters() {
-        document.getElementById("video-grade-filter").value = "all";
-        document.getElementById("video-language-filter").value = "all";
-        document.getElementById("video-section-filter").value = "all";
-        renderVideoLessons(allVideoLessons, 1);
-      }
+      // 4. Load Saved State for this Task
+      const savedTask = getTaskSavedState(olympIdStr, task.number);
 
-      // Функция для предыдущей страницы видео
-      function prevVideoPage() {
-        if (currentVideoPage > 1) {
-          renderVideoLessons(allVideoLessons, currentVideoPage - 1);
+      // 5. Render Subparts
+      const subpartsContainer = $("#workspace-subparts-container");
+      if (subpartsContainer) {
+        if (task.parts && task.parts.length > 0) {
+          subpartsContainer.innerHTML = task.parts.map((p) => {
+            const val = (savedTask?.answers && savedTask.answers[p.label]) || "";
+            return `
+              <div class="subpart-card">
+                <div class="subpart-header">
+                  <span class="badge">${escapeHtml(p.label)}</span>
+                  <span>${escapeHtml(p.title || p.text)}</span>
+                </div>
+                <textarea class="task-part-answer" data-part="${escapeHtml(p.label)}" rows="3" placeholder="Ответ на пункт ${escapeHtml(p.label)}..." oninput="onInputChanged()">${escapeHtml(val)}</textarea>
+              </div>
+            `;
+          }).join("");
+          subpartsContainer.style.display = "grid";
+          $("#workspace-general-label").textContent = "Общие расчеты, уравнения и выводы (опционально)";
+        } else {
+          subpartsContainer.innerHTML = "";
+          subpartsContainer.style.display = "none";
+          $("#workspace-general-label").textContent = "Ваше решение, уравнения и расчёты";
         }
       }
 
-      // Функция для следующей страницы видео
-      function nextVideoPage() {
-        const totalPages = Math.ceil(allVideoLessons.length / videosPerPage);
-        if (currentVideoPage < totalPages) {
-          renderVideoLessons(allVideoLessons, currentVideoPage + 1);
+      // 6. General Answer Field
+      const generalField = $("#workspace-general-answer");
+      if (generalField) {
+        generalField.value = savedTask?.answer || "";
+        generalField.oninput = onInputChanged;
+      }
+
+      // 7. Last Saved Time
+      const saveStatus = $("#save-status-text");
+      if (saveStatus) {
+        if (savedTask?.lastSaved) {
+          saveStatus.innerHTML = `<i class="fas fa-check-circle" style="color:var(--success)"></i> Сохранено (${formatDate(savedTask.lastSaved)})`;
+        } else {
+          saveStatus.innerHTML = `<i class="fas fa-circle-info"></i> Не сохранено`;
         }
       }
 
-      // Инициализация страницы видео
-      function initVideoPage() {
-        // Добавляем обработчики фильтров
-        const gradeFilter = document.getElementById("video-grade-filter");
-        const languageFilter = document.getElementById("video-language-filter");
-        const sectionFilter = document.getElementById("video-section-filter");
+      // 8. Navigation Buttons state
+      $("#btn-prev-task").disabled = index === 0;
+      $("#btn-next-task").disabled = index === tasks.length - 1;
 
-        if (gradeFilter) {
-          gradeFilter.addEventListener("change", () =>
-            renderVideoLessons(allVideoLessons, 1),
-          );
-        }
-        if (languageFilter) {
-          languageFilter.addEventListener("change", () =>
-            renderVideoLessons(allVideoLessons, 1),
-          );
-        }
-        if (sectionFilter) {
-          sectionFilter.addEventListener("change", () =>
-            renderVideoLessons(allVideoLessons, 1),
-          );
-        }
+      // 9. AI Feedback Panel restoration
+      const aiPanel = $("#workspace-ai-panel");
+      const loadingEl = $("#workspace-ai-loading");
+      loadingEl.style.display = "none";
 
-        // Первоначальная отрисовка
-        renderVideoLessons(allVideoLessons, 1);
+      if (savedTask?.aiResult?.text) {
+        renderAiResultCard(savedTask.aiResult, Boolean(task.officialSolution));
+        aiPanel.style.display = "block";
+      } else {
+        aiPanel.style.display = "none";
       }
 
-      // Инициализация при загрузке
-      document.addEventListener("DOMContentLoaded", function () {
-        // По умолчанию показываем главную страницу
-        goToPage("home");
+      updateOverallProgressUI();
+    }
 
-        // Добавляем анимации к карточкам при загрузке
-        setTimeout(() => {
-          document.querySelectorAll(".fade-in").forEach((el, index) => {
-            setTimeout(() => {
-              el.style.opacity = 1;
-              el.style.transform = "translateY(0)";
-            }, index * 100);
-          });
-        }, 300);
-        loadLocalOlympiads();
+    function switchTask(newIndex) {
+      if (newIndex >= 0 && newIndex < (state.currentOlympiadTasks?.length || 0)) {
+        saveCurrentTask(false);
+        state.currentTaskIndex = newIndex;
+        renderTaskWorkspace();
+        window.scrollTo({ top: 120, behavior: "smooth" });
+      }
+    }
+
+    function onInputChanged() {
+      const saveStatus = $("#save-status-text");
+      if (saveStatus) {
+        saveStatus.innerHTML = `<i class="fas fa-pen" style="color:var(--warning)"></i> Есть несохранённые изменения`;
+      }
+    }
+
+    function collectCurrentTaskAnswers() {
+      const partInputs = $$(".task-part-answer");
+      const answers = {};
+      partInputs.forEach((inp) => {
+        const label = inp.dataset.part;
+        if (label && inp.value.trim()) {
+          answers[label] = inp.value.trim();
+        }
+      });
+      const answer = $("#workspace-general-answer")?.value.trim() || "";
+      return { answers, answer };
+    }
+
+    function saveCurrentTask(showNotification = true) {
+      const olymp = state.currentOlympiad;
+      if (!olymp) return;
+      const olympIdStr = olympiadId(olymp);
+      const tasks = state.currentOlympiadTasks || [];
+      const task = tasks[state.currentTaskIndex];
+      if (!task) return;
+
+      const { answers, answer } = collectCurrentTaskAnswers();
+      const existing = getTaskSavedState(olympIdStr, task.number);
+
+      let status = existing?.status || "IN_PROGRESS";
+      if (!answer && Object.keys(answers).length === 0) {
+        status = "NOT_STARTED";
+      }
+
+      saveTaskState(olympIdStr, task.number, {
+        taskId: task.id || `task-${task.number}`,
+        number: task.number,
+        answers,
+        answer,
+        status: status.startsWith("CHECKED_") ? status : (status === "NOT_STARTED" ? "NOT_STARTED" : "IN_PROGRESS"),
       });
 
-      // --- Логика Чат-бота ---
-
-      // ВНИМАНИЕ: ЗАМЕНИ СТРОКУ НИЖЕ НА СВОЙ КЛЮЧ
-      const API_KEY = "AIzaSyAYkXlkZixzOU24c_reHtZeDzLzDShuF2w";
-
-      function toggleChat() {
-        const chatWindow = document.getElementById("chat-window");
-        chatWindow.classList.toggle("active");
+      const saveStatus = $("#save-status-text");
+      if (saveStatus) {
+        saveStatus.innerHTML = `<i class="fas fa-check-circle" style="color:var(--success)"></i> Сохранено (${formatDate(Date.now())})`;
       }
 
-      function handleEnter(event) {
-        if (event.key === "Enter") {
+      if (showNotification) {
+        alert("Ответ сохранён в локальном хранилище браузера.");
+      }
+    }
+
+    async function runAiTaskCheck() {
+      const olymp = state.currentOlympiad;
+      const tasks = state.currentOlympiadTasks || [];
+      const task = tasks[state.currentTaskIndex];
+      if (!task) return;
+
+      const { answers, answer } = collectCurrentTaskAnswers();
+      if (!answer && Object.keys(answers).length === 0) {
+        alert("Пожалуйста, введите ответ хотя бы на один пункт перед проверкой.");
+        return;
+      }
+
+      const aiPanel = $("#workspace-ai-panel");
+      const loadingEl = $("#workspace-ai-loading");
+      const checkBtn = $("#btn-check-task-ai");
+
+      aiPanel.style.display = "none";
+      loadingEl.style.display = "block";
+      checkBtn.disabled = true;
+
+      const steps = ["Изучаю условие и стехиометрию...", "Анализирую расчёты и молярные массы...", "Формирую оценку и подробный разбор..."];
+      let stepIdx = 0;
+      $("#solver-loading-step").textContent = steps[0];
+      const interval = setInterval(() => {
+        stepIdx = (stepIdx + 1) % steps.length;
+        $("#solver-loading-step").textContent = steps[stepIdx];
+      }, 1200);
+
+      try {
+        const response = await fetch("/api/check-task", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            olympiad: {
+              id: olympiadId(olymp),
+              title: olymp.title,
+              subject: olymp.subject,
+              year: olymp.year,
+              grade: olymp.grade
+            },
+            task: {
+              id: task.id,
+              number: task.number,
+              title: task.title,
+              statement: task.statement || task.text,
+              parts: task.parts,
+              officialSolution: task.officialSolution
+            },
+            answers,
+            answer,
+            language: state.selectedLanguage || "ru"
+          })
+        });
+
+        const data = await response.json();
+        clearInterval(interval);
+        loadingEl.style.display = "none";
+        checkBtn.disabled = false;
+
+        if (!response.ok || !data.success) {
+          alert(data.message || data.error || "AI временно недоступен. Попробуйте еще раз.");
+          return;
+        }
+
+        const aiData = data.data || {};
+        let status = "CHECKED_PARTIAL";
+        if (aiData.verdict === "correct") status = "CHECKED_CORRECT";
+        else if (aiData.verdict === "incorrect") status = "CHECKED_INCORRECT";
+
+        saveTaskState(olympiadId(olymp), task.number, {
+          taskId: task.id || `task-${task.number}`,
+          number: task.number,
+          answers,
+          answer,
+          status,
+          score: aiData.score || 0,
+          maxScore: aiData.maxScore || 10,
+          aiResult: aiData,
+        });
+
+        renderAiResultCard(aiData, Boolean(task.officialSolution));
+        aiPanel.style.display = "block";
+
+        // Refresh task sidebar
+        renderTaskWorkspace();
+      } catch (err) {
+        clearInterval(interval);
+        loadingEl.style.display = "none";
+        checkBtn.disabled = false;
+        console.error(err);
+        alert("Ошибка сети при обращении к AI. Проверьте соединение.");
+      }
+    }
+
+    function renderAiResultCard(aiData, hasOfficialSolution) {
+      const verdictPill = $("#ai-verdict-pill");
+      const score = aiData.score || 0;
+      const maxScore = aiData.maxScore || 10;
+      
+      if (aiData.verdict === "correct") {
+        verdictPill.className = "ai-score-pill correct";
+        verdictPill.innerHTML = `✅ Решено верно · ${score}/${maxScore} баллов`;
+      } else if (aiData.verdict === "incorrect") {
+        verdictPill.className = "ai-score-pill incorrect";
+        verdictPill.innerHTML = `❌ Неверно · ${score}/${maxScore} баллов`;
+      } else {
+        verdictPill.className = "ai-score-pill partial";
+        verdictPill.innerHTML = `⚠️ Решено частично · ${score}/${maxScore} баллов`;
+      }
+
+      const banner = $("#ai-solution-mapping-banner");
+      if (hasOfficialSolution) {
+        banner.innerHTML = `<span class="badge success"><i class="fas fa-check-double"></i> Сверено с официальным эталонным решением олимпиады</span>`;
+      } else {
+        banner.innerHTML = `<span class="badge muted"><i class="fas fa-info-circle"></i> Официальное решение не найдено. Проверка выполнена по условию задачи и логике решения.</span>`;
+      }
+
+      $("#workspace-ai-text").innerHTML = formatAiResponse(aiData.text || "");
+    }
+
+    function updateOverallProgressUI() {
+      const olymp = state.currentOlympiad;
+      if (!olymp) return;
+      const olympIdStr = olympiadId(olymp);
+      const olympStore = getOlympiadStore(olympIdStr);
+      const tasks = state.currentOlympiadTasks || [];
+      const total = tasks.length || 7;
+
+      const taskEntries = Object.values(olympStore.tasks || {});
+      const checkedTasks = taskEntries.filter(t => t.status && t.status.startsWith("CHECKED_"));
+      const correctTasks = taskEntries.filter(t => t.status === "CHECKED_CORRECT");
+      const partialTasks = taskEntries.filter(t => t.status === "CHECKED_PARTIAL");
+      const incorrectTasks = taskEntries.filter(t => t.status === "CHECKED_INCORRECT");
+
+      const percent = total > 0 ? Math.round((checkedTasks.length / total) * 100) : 0;
+
+      const bar = $("#solver-progress-bar");
+      if (bar) bar.style.width = `${percent}%`;
+
+      const statsEl = $("#solver-progress-stats");
+      if (statsEl) {
+        statsEl.textContent = `${checkedTasks.length} из ${total} задач проверено (✓ ${correctTasks.length} · ⚠ ${partialTasks.length} · ✗ ${incorrectTasks.length})`;
+      }
+
+      const badgeEl = $("#solver-progress-badge");
+      if (badgeEl) {
+        badgeEl.textContent = `${percent}%`;
+        badgeEl.className = percent >= 80 ? "badge success" : (percent > 0 ? "badge warning" : "badge muted");
+      }
+    }
+
+    function openCurrentTaskPdf() {
+      if (state.currentPdfFile) {
+        openPdfViewer(state.currentPdfFile, "PDF олимпиады", "task-detail");
+      }
+    }
+
+    function copyAiReview() {
+      const text = $("#workspace-ai-text")?.innerText || "";
+      navigator.clipboard?.writeText(text).then(() => alert("Разбор скопирован.")).catch(() => alert("Не удалось скопировать."));
+    }
+
+    function discussCurrentTaskInChat() {
+      const tasks = state.currentOlympiadTasks || [];
+      const task = tasks[state.currentTaskIndex];
+      toggleChat(true);
+      const input = $("#chat-input");
+      if (input && task) {
+        input.value = `Помоги с задачей №${task.number || 1} (${task.title}): `;
+        input.focus();
+      }
+    }
+
+    // Manual Task Editing Fallback
+    function openManualTaskModal() {
+      const tasks = state.currentOlympiadTasks || [];
+      const current = tasks[state.currentTaskIndex];
+      const newTitle = prompt("Редактировать название задачи:", current?.title || "");
+      if (newTitle !== null && newTitle.trim()) {
+        current.title = newTitle.trim();
+        renderTaskWorkspace();
+      }
+    }
+
+    // ==========================================
+    // STANDALONE CHECKER & AI CHAT
+    // ==========================================
+
+    async function checkServerHealth() {
+      const badge = $("#ai-server-badge");
+      try {
+        const response = await fetch("/api/health");
+        const data = await response.json();
+        if (badge) badge.innerHTML = `<i class="fas fa-circle" style="color:${data.configured ? "#86efac" : "#fbbf24"}"></i> ${data.configured ? "AI активен" : "AI ключ не задан"}`;
+      } catch (error) {
+        if (badge) badge.innerHTML = `<i class="fas fa-circle" style="color:#94a3b8"></i> Сервер недоступен`;
+      }
+    }
+
+    function clearCheckerInputs() {
+      $("#checker-problem").value = "";
+      $("#checker-solution").value = "";
+      $("#result-empty-state").style.display = "block";
+      $("#analysis-result-content").style.display = "none";
+      $("#ai-loading-container").style.display = "none";
+      $("#checker-error-alert").style.display = "none";
+      $("#result-status-pill").textContent = "Ожидание";
+    }
+
+    async function runGeneralAiCheck() {
+      const problem = $("#checker-problem").value.trim();
+      const solution = $("#checker-solution").value.trim();
+      const errorAlert = $("#checker-error-alert");
+      const emptyState = $("#result-empty-state");
+      const loading = $("#ai-loading-container");
+      const result = $("#analysis-result-content");
+      const button = $("#btn-submit-check");
+
+      errorAlert.style.display = "none";
+      if (!problem) {
+        alert("Пожалуйста, введите условие задачи.");
+        $("#checker-problem").focus();
+        return;
+      }
+      if (!solution) {
+        alert("Пожалуйста, введите ваше решение для проверки.");
+        $("#checker-solution").focus();
+        return;
+      }
+
+      emptyState.style.display = "none";
+      result.style.display = "none";
+      loading.style.display = "block";
+      button.disabled = true;
+
+      try {
+        const response = await fetch("/api/check-solution", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            problem,
+            solution,
+            mode: "analyze",
+            language: $("#checker-lang").value,
+            grade: Number($("#checker-grade").value)
+          })
+        });
+        const data = await response.json();
+        loading.style.display = "none";
+        button.disabled = false;
+
+        if (!response.ok || !data.success) {
+          errorAlert.className = "alert error";
+          errorAlert.innerHTML = `<i class="fas fa-exclamation-circle"></i><span>${escapeHtml(data.message || data.error || "AI временно недоступен")}</span>`;
+          errorAlert.style.display = "flex";
+          emptyState.style.display = "block";
+          return;
+        }
+
+        const analysisText = data.data?.text || "";
+        $("#ai-analysis-text").innerHTML = formatAiResponse(analysisText);
+        result.style.display = "block";
+        $("#result-status-pill").textContent = "Анализ выполнен";
+      } catch (error) {
+        loading.style.display = "none";
+        button.disabled = false;
+        errorAlert.className = "alert error";
+        errorAlert.innerHTML = `<i class="fas fa-exclamation-circle"></i><span>AI временно недоступен. Проверьте соединение.</span>`;
+        errorAlert.style.display = "flex";
+        emptyState.style.display = "block";
+      }
+    }
+
+    function copyCheckerResult() {
+      const text = $("#ai-analysis-text").innerText;
+      navigator.clipboard?.writeText(text).then(() => alert("Разбор скопирован.")).catch(() => alert("Не удалось скопировать."));
+    }
+
+    function formatAiResponse(raw) {
+      let s = String(raw || "");
+      s = s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+      s = s.replace(/```([\s\S]*?)```/g, "<pre><code>$1</code></pre>").replace(/`([^`]+)`/g, "<code>$1</code>");
+      s = s.replace(/^### (.*$)/gim, "<h3>$1</h3>").replace(/^## (.*$)/gim, "<h3>$1</h3>").replace(/^# (.*$)/gim, "<h3>$1</h3>");
+      s = s.replace(/^\s*&gt;\s+(.*$)/gim, "<blockquote>$1</blockquote>").replace(/^\s*---\s*$/gim, "<hr>");
+      s = s.replace(/\[✓\s*(?:ВЕРНО|ДҰРЫС|CORRECT)\]/gi, '<span class="tag-correct">✓ ВЕРНО</span>');
+      s = s.replace(/\[✓\]/g, '<span class="tag-correct">✓</span>');
+      s = s.replace(/\[✗\s*(?:ОШИБКА|ҚАТЕ|INCORRECT|MISTAKE)\]/gi, '<span class="tag-wrong">✗ ОШИБКА</span>');
+      s = s.replace(/\[✗\]/g, '<span class="tag-wrong">✗</span>');
+      s = s.replace(/\[\?\s*(?:НЕПОЛНО|ТОЛЫҚ ЕМЕС|INCOMPLETE)\]/gi, '<span class="tag-partial">? НЕПОЛНО</span>');
+      s = s.replace(/\[\?\]/g, '<span class="tag-partial">?</span>');
+      s = s.replace(/\\text\{([^}]+)\}/g, "$1").replace(/\\mathrm\{([^}]+)\}/g, "$1").replace(/\\mathbf\{([^}]+)\}/g, "<strong>$1</strong>");
+      s = s.replace(/\\frac\{([^}]+)\}\{([^}]+)\}/g, "($1 / $2)").replace(/\\cdot/g, "·").replace(/\\times/g, "×").replace(/\\approx/g, "≈");
+      s = s.replace(/\\Delta/g, "Δ").replace(/\\alpha/g, "α").replace(/\\beta/g, "β").replace(/\\gamma/g, "γ").replace(/\\circ/g, "°").replace(/\\pm/g, "±");
+      s = s.replace(/_\{([0-9a-zA-Z+-]+)\}/g, "<sub>$1</sub>").replace(/_([0-9]+)/g, "<sub>$1</sub>").replace(/\^\{([0-9a-zA-Z+-]+)\}/g, "<sup>$1</sup>").replace(/\^([0-9+-]+)/g, "<sup>$1</sup>");
+      s = s.replace(/\$\$/g, "").replace(/\$/g, "");
+      s = s.replace(/&lt;=&gt;/g, "⇌").replace(/-&gt;/g, "→");
+      s = s.replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>").replace(/\*(.*?)\*/g, "<em>$1</em>");
+      s = s.replace(/^\s*-\s+(.*$)/gim, "<li>$1</li>").replace(/^\s*\*\s+(.*$)/gim, "<li>$1</li>").replace(/^\s*(\d+)\.\s+(.*$)/gim, "<li><strong>$1.</strong> $2</li>");
+      s = s.replace(/(<li>[\s\S]*?<\/li>)/g, "<ul>$1</ul>").replace(/<\/ul>\s*<ul>/g, "");
+      return s;
+    }
+
+    function toggleChat(force) {
+      const windowEl = $("#chat-window");
+      if (force === true || force === false) windowEl.classList.toggle("active", force);
+      else windowEl.classList.toggle("active");
+      if (windowEl.classList.contains("active")) $("#chat-input")?.focus();
+    }
+
+    function clearChat() {
+      state.chatHistory = [];
+      $("#chat-messages").innerHTML = `<div class="message bot"><p><strong>Привет!</strong></p><p>Я AI-наставник QazAkx.olymp. Спроси по химии или открой проверку решения.</p></div>`;
+    }
+
+    function onChatLangChange(lang) {
+      state.selectedLanguage = lang;
+      addChatMessage(lang === "kz" ? "Тіл қазақшаға ауыстырылды. Сұрағыңызды қойыңыз!" : lang === "en" ? "Language switched to English. Ask your chemistry question!" : "Язык переключен на русский. Чем помочь по химии?", "bot");
+    }
+
+    function sendQuickPrompt(promptText) {
+      $("#chat-input").value = promptText;
+      sendMessage();
+    }
+
+    async function sendMessage() {
+      if (state.isAiGenerating) return;
+      const input = $("#chat-input");
+      const userText = input.value.trim();
+      if (!userText) return;
+      addChatMessage(userText, "user");
+      input.value = "";
+      state.isAiGenerating = true;
+      addChatMessage("AI думает...", "bot", true);
+
+      try {
+        const response = await fetch("/api/chat", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            message: userText,
+            history: state.chatHistory.slice(-8),
+            language: $("#chat-lang-select").value,
+            grade: state.currentOlympiad?.grade || 9
+          })
+        });
+        const data = await response.json();
+        removeTyping();
+
+        if (!response.ok || !data.success) {
+          addChatMessage(`${data.message || "AI временно недоступен."}`, "bot");
+          return;
+        }
+
+        const botText = data.data?.text || "Ответ получен.";
+        state.chatHistory.push({ role: "user", text: userText });
+        state.chatHistory.push({ role: "assistant", text: botText });
+        addChatMessage(botText, "bot");
+      } catch (error) {
+        removeTyping();
+        addChatMessage("AI временно недоступен. Попробуйте еще раз.", "bot");
+      } finally {
+        state.isAiGenerating = false;
+      }
+    }
+
+    function removeTyping() { $$("#chat-messages .message.typing").forEach((node) => node.remove()); }
+    function addChatMessage(text, sender, typing = false) {
+      const messages = $("#chat-messages");
+      const div = document.createElement("div");
+      div.className = `message ${sender}${typing ? " typing" : ""}`;
+      div.innerHTML = typing ? `<p>${escapeHtml(text)}</p>` : formatAiResponse(text);
+      messages.appendChild(div);
+      messages.scrollTop = messages.scrollHeight;
+    }
+
+    function renderProgress() {
+      const store = loadStore();
+      const allOlympiads = Object.values(store);
+
+      let totalSolved = 0;
+      let totalChecked = 0;
+      let totalCorrect = 0;
+      let totalPartial = 0;
+      let totalIncorrect = 0;
+      const activityRecords = [];
+
+      allOlympiads.forEach((olymp) => {
+        const tasks = Object.values(olymp.tasks || {});
+        tasks.forEach((t) => {
+          if (t.status && t.status !== "NOT_STARTED") totalSolved++;
+          if (t.status === "CHECKED_CORRECT") { totalChecked++; totalCorrect++; }
+          else if (t.status === "CHECKED_PARTIAL") { totalChecked++; totalPartial++; }
+          else if (t.status === "CHECKED_INCORRECT") { totalChecked++; totalIncorrect++; }
+
+          activityRecords.push({
+            olympiadId: olymp.olympiadId,
+            number: t.number,
+            status: t.status,
+            score: t.score,
+            lastSaved: t.lastSaved || Date.now(),
+            aiSnippet: t.aiResult?.text?.slice(0, 140)
+          });
+        });
+      });
+
+      activityRecords.sort((a, b) => b.lastSaved - a.lastSaved);
+
+      $("#progress-stats").innerHTML = [
+        ["fa-check-circle", totalCorrect, "Верно решено"],
+        ["fa-triangle-exclamation", totalPartial, "Частично решено"],
+        ["fa-robot", totalChecked, "Проверено AI"],
+        ["fa-chart-pie", totalSolved, "Всего в работе"]
+      ].map(([icon, value, label]) => `
+        <div class="card stat-card">
+          <div class="stat-icon"><i class="fas ${icon}"></i></div>
+          <div class="stat-value">${value}</div>
+          <div class="stat-label">${label}</div>
+        </div>
+      `).join("");
+
+      $("#activity-count").textContent = `${activityRecords.length} записей`;
+      $("#progress-list").innerHTML = activityRecords.length ? activityRecords.map((rec) => `
+        <div class="card task-row" style="border:1px solid var(--line)">
+          <div class="task-row-main">
+            <h3><i class="fas fa-file-lines" style="color:var(--primary)"></i> Олимпиада: ${escapeHtml(rec.olympiadId)} · Задача №${rec.number}</h3>
+            <p>${rec.aiSnippet ? escapeHtml(rec.aiSnippet) + "..." : "Ответ сохранён в профиле."}</p>
+          </div>
+          <div style="text-align:right">
+            <span class="badge ${rec.status === "CHECKED_CORRECT" ? "success" : (rec.status === "CHECKED_PARTIAL" ? "warning" : "muted")}">${rec.status || "В процессе"}</span>
+            <div class="small muted" style="margin-top:4px">${formatDate(rec.lastSaved)}</div>
+          </div>
+        </div>
+      `).join("") : `<div class="empty-state"><div class="empty-state-icon"><i class="fas fa-inbox"></i></div><h3>Начните решать задачи</h3><p>Все ваши решения и оценки AI появятся здесь.</p></div>`;
+    }
+
+    // Optional Account handlers
+    function renderAccount() {
+      $("#account-content").innerHTML = `
+        <div class="card" style="padding:20px; margin-top:16px; background:#f8fafc">
+          <p>Локальный профиль активен. Все ваши данные и результаты AI хранятся в этом браузере без необходимости логина.</p>
+          <div style="margin-top:14px; display:flex; gap:10px">
+            <button class="btn btn-secondary btn-small" onclick="goToPage('progress')"><i class="fas fa-chart-line"></i> Открыть прогресс</button>
+            <button class="btn btn-secondary btn-small" onclick="goToPage('olympiads')"><i class="fas fa-book-open"></i> К задачам</button>
+          </div>
+        </div>
+      `;
+    }
+
+    ["#catalog-search", "#catalog-subject", "#catalog-year", "#catalog-grade", "#catalog-round", "#catalog-language", "#catalog-local", "#catalog-sort"].forEach((selector) => {
+      $(selector)?.addEventListener("input", renderCatalog);
+      $(selector)?.addEventListener("change", renderCatalog);
+    });
+
+    document.addEventListener("DOMContentLoaded", () => {
+      loadLocalOlympiads();
+      checkServerHealth();
+      $("#chat-input")?.addEventListener("keydown", (e) => {
+        if (e.key === "Enter" && !e.shiftKey) {
+          e.preventDefault();
           sendMessage();
         }
-      }
-
-      async function sendMessage() {
-        const input = document.getElementById("chat-input");
-        const messagesContainer = document.getElementById("chat-messages");
-        const userText = input.value.trim();
-
-        if (!userText) return;
-
-        // 1. Добавляем сообщение пользователя
-        addMessage(userText, "user");
-        input.value = "";
-
-        // 2. Показываем индикатор загрузки
-        const loadingId = addMessage("Думаю...", "bot");
-
-        try {
-          // 3. Отправляем запрос к Gemini API
-          const response = await fetch(
-            `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${API_KEY}`,
-            {
-              method: "POST",
-              headers: {
-                "Content-Type": "application/json",
-              },
-              body: JSON.stringify({
-                contents: [
-                  {
-                    parts: [
-                      {
-                        text: `Ты помощник на сайте олимпиадной химии QazAkx. Отвечай кратко и по делу. Вопрос: ${userText}`,
-                      },
-                    ],
-                  },
-                ],
-              }),
-            },
-          );
-
-          const data = await response.json();
-
-          // 4. Получаем ответ
-          const botText = data.candidates[0].content.parts[0].text;
-
-          // Удаляем "Думаю..." и пишем ответ
-          const loadingElement = document.querySelector(
-            `[data-id="${loadingId}"]`,
-          );
-          if (loadingElement) loadingElement.remove();
-
-          // Форматируем текст (превращаем **text** в жирный, * в списки и т.д.)
-          const formattedText = botText
-            .replace(/\*\*(.*?)\*\*/g, "<b>$1</b>")
-            .replace(/\n/g, "<br>");
-
-          addMessage(formattedText, "bot", true);
-        } catch (error) {
-          console.error(error);
-          const loadingElement = document.querySelector(
-            `[data-id="${loadingId}"]`,
-          );
-          if (loadingElement)
-            loadingElement.innerText = "Ошибка соединения. Проверь API ключ.";
-        }
-      }
-
-      function addMessage(text, sender, isHTML = false) {
-        const messagesContainer = document.getElementById("chat-messages");
-        const msgDiv = document.createElement("div");
-        msgDiv.className = `message ${sender}`;
-
-        if (isHTML) {
-          msgDiv.innerHTML = text;
-        } else {
-          msgDiv.textContent = text;
-        }
-
-        const id = Date.now();
-        msgDiv.setAttribute("data-id", id);
-
-        messagesContainer.appendChild(msgDiv);
-        messagesContainer.scrollTop = messagesContainer.scrollHeight;
-        return id;
-      }
-    </script>
-  </body>
+      });
+    });
+  </script>
+</body>
 </html>

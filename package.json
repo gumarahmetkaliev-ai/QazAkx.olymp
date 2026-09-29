@@ -1,0 +1,28 @@
+{
+  "name": "qazakx-olymp",
+  "version": "1.0.0",
+  "description": "Олимпиадная платформа по химии для школьников Казахстана с AI-проверкой решений",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node test-suite.js",
+    "test:ai": "node test-ai.js",
+    "test:extract": "node test-extract.js",
+    "test:tasks": "node test-tasks.js",
+    "build": "node -c server.js && node -c api/extract-tasks.js && node -c api/task-detector.js && echo 'Build OK'",
+    "scan-olympiads": "node scripts/scan-olympiads.js"
+  },
+  "keywords": [
+    "chemistry",
+    "olympiad",
+    "kazakhstan",
+    "ai-tutor",
+    "gemini"
+  ],
+  "author": "QazAkx",
+  "license": "MIT",
+  "dependencies": {
+    "pdf-parse": "^2.4.5"
+  }
+}
