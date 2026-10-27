@@ -358,6 +358,54 @@
       transition: width .4s ease;
     }
 
+    .activity-heatmap {
+      display: grid;
+      grid-template-columns: repeat(53, 12px);
+      gap: 3px;
+      padding: 8px 0;
+    }
+    .activity-cell {
+      width: 12px;
+      height: 12px;
+      border-radius: 2px;
+      background: #ebedf0;
+      cursor: pointer;
+      transition: transform .15s;
+    }
+    .activity-cell:hover { transform: scale(1.2); }
+    .activity-cell.l1 { background: #9be9a8; }
+    .activity-cell.l2 { background: #40c463; }
+    .activity-cell.l3 { background: #30a14e; }
+    .activity-cell.l4 { background: #216e39; }
+    .activity-cell.l5 { background: #0e4429; }
+    .activity-tooltip {
+      position: absolute;
+      z-index: 20;
+      background: #1e293b;
+      color: white;
+      padding: 8px 12px;
+      border-radius: 8px;
+      font-size: .78rem;
+      pointer-events: none;
+      white-space: pre-line;
+      box-shadow: 0 4px 12px rgba(0,0,0,.2);
+    }
+    .day-drawer {
+      position: fixed;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      width: min(380px, 100vw);
+      background: white;
+      box-shadow: -8px 0 24px rgba(0,0,0,.12);
+      z-index: 100;
+      padding: 24px;
+      overflow-y: auto;
+      transform: translateX(100%);
+      transition: transform .3s ease;
+    }
+    .day-drawer.open { transform: translateX(0); }
+
     .pdf-frame { display: block; width: 100%; min-height: 480px; border: 1px solid var(--line); border-radius: 15px; background: #e2e8f0; }
     .pdf-toolbar { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-bottom: 14px; }
     .viewer-frame { min-height: min(80vh, 940px); }
@@ -724,6 +772,20 @@
         <div style="display:flex; justify-content:space-between; align-items:flex-end; gap:20px; margin-bottom:22px; flex-wrap:wrap">
           <div><span class="eyebrow">Мой результат</span><h1 class="section-title">Прогресс подготовки</h1><p class="section-copy">Здесь собраны все решённые задачи и оценки AI-проверок в этом браузере.</p></div>
         </div>
+        <div style="display:flex; flex-wrap:wrap; align-items:center; justify-content:space-between; gap:14px; margin-bottom:20px">
+          <div>
+            <h2 style="font-size:1.15rem">QazAKx Activity</h2>
+            <p class="muted small">Qualified tasks (AI checked · score ≥ 75%) · Daily goal: 5 / day</p>
+          </div>
+          <div style="display:flex; gap:8px; align-items:center">
+            <span id="grid-daily-goal-label" class="badge">Daily Goal 0 / 5</span>
+            <button class="btn btn-secondary btn-small" onclick="renderProgress()"><i class="fas fa-rotate"></i> Обновить</button>
+          </div>
+        </div>
+
+        <!-- Activity Heatmap -->
+        <div id="activity-grid-container" style="margin-bottom:22px; overflow-x:auto; padding-bottom:6px"></div>
+
         <div class="grid grid-4" id="progress-stats"></div>
         <div class="card" style="margin-top:20px; padding: 22px">
           <div style="display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom:15px">
@@ -786,6 +848,18 @@
       if (!path.startsWith("olympiads/") || !/\.pdf$/i.test(path)) return "";
       return "/" + path.split("/").map(encodeURIComponent).join("/");
     };
+
+    function formatOlympiadTitle(item = {}) {
+      const subject = item.subject || "Олимпиада";
+      const year = item.year ? String(item.year) : "";
+      const grade = item.grade ? (String(item.grade).match(/\d+/) ? String(item.grade) + " класс" : String(item.grade)) : "";
+      const round = item.round ? (String(item.round).match(/\d+/) ? String(item.round) + " тур" : String(item.round)) : "";
+      const lang = item.language ? (String(item.language).length > 2 ? String(item.language) : String(item.language).toUpperCase()) : "";
+      const parts = [subject, year, grade, round].filter(Boolean);
+      let title = parts.join(" — ") || (subject + (year ? " " + year : ""));
+      if (lang && lang !== "RU" && lang !== "KZ") title += " · " + lang;
+      return title || (subject + " · " + year);
+    }
 
     const olympiadId = (item) => item.id || `${item.subject}-${item.year}-${item.round}-${item.language}`;
 
@@ -881,19 +955,28 @@
     function normalizeMaterial(material = {}) {
       const file = material.file || material.pdf || "";
       const isSolution = /sol|solution|res/i.test(`${material.type || ""} ${material.title || ""} ${file}`);
-      const path = material.local === true ? safeLocalPath(file) : "";
+      const localPath = material.local === true ? safeLocalPath(file) : "";
       const source = material.sourcePage || material.url || "";
+      const filename = material.title || (file ? file.split("/").pop() : "") || "document.pdf";
+      const proxyUrl = (!localPath && source && filename) ? `/api/pdf-proxy?page=${encodeURIComponent(source)}&title=${encodeURIComponent(filename)}` : "";
+      const viewPath = localPath || proxyUrl;
+      const downloadPath = localPath || (proxyUrl ? `${proxyUrl}&download=1` : "");
+
       return {
         type: material.type || (isSolution ? "solutions" : "tasks"),
         label: isSolution ? "Решения" : "Задачи",
-        title: material.title || file || "Материал",
+        title: filename,
         file,
-        path,
-        local: material.local === true && Boolean(path),
+        path: viewPath,
+        downloadPath,
+        local: material.local === true && Boolean(localPath),
+        available: Boolean(viewPath),
         sourcePage: source,
       };
     }
 
+    let TITLE_MAP = {};
+    try { const resp = await fetch("/titles_mapping.json"); if (resp.ok) TITLE_MAP = await resp.json(); } catch(e){}
     async function loadLocalOlympiads() {
       try {
         const response = await fetch("/olympiads.json", { cache: "no-store" });
@@ -915,7 +998,7 @@
             grade: norm(entry.grade),
             round: norm(entry.round),
             language: languageLabel(entry.language),
-            title: entry.sourcePage || `${entry.subject || "Олимпиада"} · ${entry.year || ""}`.trim(),
+            title: (entry.id && TITLE_MAP[entry.id]) ? TITLE_MAP[entry.id] : formatOlympiadTitle(entry),
             sourcePage: entry.sourcePage || "",
             materials,
           };
@@ -927,6 +1010,8 @@
         populateCatalogFilters();
         resetCatalogFilters();
         renderSubjects();
+        const direct = location.pathname.match(/\/olympiads\/([^/]+)/);
+        if (direct) { const d = decodeURIComponent(direct[1]); openOlympiad(d, false); }
       } catch (error) {
         $("#catalog-summary-text").textContent = "Каталог недоступен";
         $("#catalog-empty").style.display = "block";
@@ -1020,25 +1105,25 @@
       goToPage("olympiads", { preserveFilters: true });
     }
 
-    function openPdfViewer(file, title = "Локальный PDF", returnPage = state.lastPage) {
-      const path = safeLocalPath(file);
-      if (!path) return alert("Локальный PDF недоступен.");
+    function openPdfViewer(pdfUrl, title = "Документ", returnPage = state.lastPage, downloadUrl = "") {
+      if (!pdfUrl) return alert("PDF недоступен.");
       state.viewerReturnPage = returnPage || "olympiads";
       $("#viewer-title").textContent = title;
       $("#viewer-breadcrumbs").innerHTML = `<a href="#" onclick="closeViewer(); return false;">Назад</a><span>→</span><span>${escapeHtml(title)}</span>`;
-      $("#viewer-frame").src = path;
-      $("#viewer-open").href = path;
-      $("#viewer-download").href = path;
+      $("#viewer-frame").src = pdfUrl;
+      $("#viewer-open").href = pdfUrl;
+      $("#viewer-download").href = downloadUrl || pdfUrl;
       goToPage("viewer");
     }
 
     function closeViewer() { goToPage(state.viewerReturnPage || "olympiads"); }
 
-    function openOlympiad(id) {
+    function openOlympiad(id, pushHistory = true) {
       const item = state.olympiads.find((entry) => olympiadId(entry) === id);
-      if (!item) return;
+      if (!item) { if (pushHistory) history.replaceState(null, "", "/"); document.getElementById("olympiad-detail").innerHTML = `<div class="card" style="padding:30px"><h2>Олимпиада не найдена</h2><p>Запись с ID <code>${escapeHtml(id||"")}</code> отсутствует в каталоге.</p><button class="btn" onclick="goToPage('olympiads')">← Вернуться в каталог</button></div>`; goToPage("olympiad-detail"); return; }
       state.currentOlympiad = item;
-      const hasLocal = item.materials.some((m) => m.local);
+      if (pushHistory) history.pushState({olympiadId: id}, "", "/olympiads/" + encodeURIComponent(id));
+      const hasAvailable = item.materials.some((m) => m.available);
       const sourceLink = item.sourcePage && /^https?:\/\//i.test(item.sourcePage) ? `<a class="btn btn-secondary" href="${escapeHtml(item.sourcePage)}" target="_blank" rel="noopener"><i class="fas fa-external-link-alt"></i> Открыть источник</a>` : "";
       
       $("#olympiad-breadcrumbs").innerHTML = `<a href="#" onclick="goToPage('olympiads', { preserveFilters: true }); return false;">Все олимпиады</a><span>→</span><span>${escapeHtml(item.subject)}</span><span>→</span><span>${escapeHtml(item.title)}</span>`;
@@ -1049,7 +1134,7 @@
           <h1 style="margin:10px 0">${escapeHtml(item.title)}</h1>
           <p class="muted">Класс: ${escapeHtml(item.grade)} · Раунд: ${escapeHtml(item.round)} · Язык: ${escapeHtml(item.language)} · ${item.materials.length} материалов</p>
           <div style="margin-top:14px; display:flex; gap:8px">
-            <span class="badge ${hasLocal ? "success" : "muted"}">${hasLocal ? "Локальный PDF доступен" : "PDF пока не загружен"}</span>
+            <span class="badge ${hasAvailable ? "success" : "muted"}">${hasAvailable ? "PDF материалы доступны" : "PDF пока не загружен"}</span>
           </div>
         </div>
         <div style="display:grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 22px; margin-top:20px" class="grid-2">
@@ -1064,10 +1149,12 @@
                       <p>${escapeHtml(m.title)}</p>
                     </div>
                     <div style="display:flex; gap:8px; flex-wrap:wrap">
-                      ${m.local && m.path ? `
+                      ${m.local && m.file ? `
                         <button class="btn btn-small" type="button" onclick="startSolvingOlympiad('${escapeHtml(m.file)}', '${escapeHtml(id)}')"><i class="fas fa-edit"></i> Решать задачи</button>
-                        <button class="btn btn-secondary btn-small" type="button" onclick="openPdfViewer('${escapeHtml(m.path)}', '${escapeHtml(m.title)}', 'olympiad-detail')"><i class="fas fa-eye"></i> Читать PDF</button>
-                        <a class="btn btn-secondary btn-small" href="${escapeHtml(m.path)}" download><i class="fas fa-download"></i> Скачать</a>
+                      ` : ""}
+                      ${m.available ? `
+                        <button class="btn btn-secondary btn-small" type="button" onclick="openPdfViewer('${escapeHtml(m.path)}', '${escapeHtml(m.title)}', 'olympiad-detail', '${escapeHtml(m.downloadPath)}')"><i class="fas fa-eye"></i> Читать PDF</button>
+                        <a class="btn btn-secondary btn-small" href="${escapeHtml(m.downloadPath)}" download="${escapeHtml(m.title)}"><i class="fas fa-download"></i> Скачать PDF</a>
                       ` : m.sourcePage ? `
                         <a class="btn btn-secondary btn-small" href="${escapeHtml(m.sourcePage)}" target="_blank" rel="noopener"><i class="fas fa-external-link-alt"></i> Источник</a>
                       ` : `<span class="badge muted">Недоступен</span>`}
@@ -1683,7 +1770,155 @@
       messages.scrollTop = messages.scrollHeight;
     }
 
+    function renderGridUI() {
+      // Load merged store (local + cloud if available)
+      const rawStore = loadStore();
+      const local = rawStore || {};
+
+      // Try to load cloud if auth available
+      let cloud = {};
+      if (typeof QazAkxAuth !== "undefined" && QazAkxAuth.getUser && QazAkxAuth.getUser()) {
+        // realtime merge handled separately; for display use local + cloud fetched by auth layer
+        // Here we rely on the auth module to update localStore after merge.
+        // If merge hasn't run yet, grid reads from current localStore which should include merged data.
+      }
+
+      // Aggregate activity
+      const core = (typeof window !== "undefined" && window.QazAkxActivityCore) ? window.QazAkxActivityCore : null;
+      let stats = null;
+      if (core && core.computeStatistics) {
+        try {
+          stats = core.computeStatistics(local);
+        } catch (e) {
+          stats = null;
+        }
+      }
+      if (!stats) {
+        // Manual fallback using local progress for demo / no-core
+        const tasks = [];
+        Object.values(local).forEach(o => tasks.push(...Object.values(o.tasks || {})));
+        const checked = tasks.filter(t => t.status && t.status.startsWith("CHECKED_"));
+        const qualified = checked.filter(t => {
+          const pct = (t.score || 0) >= 75 ? (t.maxScore > 0 && t.maxScore !== 10 ? Math.round((t.score / t.maxScore) * 100) : Math.round(t.score)) : 0;
+          return pct >= 75;
+        });
+        const uniqueDays = new Set();
+        qualified.forEach(t => {
+          const k = (t.olympiadId || "") + "::" + (t.taskId || t.number || "") + "::" + new Date(t.lastSaved || Date.now()).toISOString().slice(0,10);
+          uniqueDays.add(k);
+        });
+        stats = {
+          tasksChecked: checked.length,
+          qualifiedTasks: qualified.length,
+          averageScore: qualified.length ? Math.round(qualified.reduce((a,b)=>a+(Number(b.score)||0),0)/qualified.length) : 0,
+          currentStreak: 0,
+          longestStreak: 0,
+          today: 0,
+          thisWeek: 0,
+          thisMonth: 0,
+          dailyGoal: 5,
+          todayProgress: { count: 0, remaining: 5, completed: false, averageScore: 0, tasks: [] },
+          dayMap: {},
+        };
+      }
+
+      const dayMap = stats.dayMap || {};
+      const range = core && core.buildHeatmapRange ? core.buildHeatmapRange(new Date()) : { days: [] };
+      const gridContainer = $("#activity-grid-container");
+      if (!gridContainer) return;
+
+      // Build calendar grid (12 months, ~53 weeks)
+      const days = range.days && range.days.length ? range.days : Object.keys(dayMap).sort();
+      const cellSize = 12;
+      const gap = 3;
+      const cols = 53;
+      let html = '<div class="activity-heatmap" style="grid-template-columns: repeat(' + cols + ', ' + cellSize + 'px); gap: ' + gap + 'px;">';
+      for (let i = 0; i < days.length; i++) {
+        const d = days[i];
+        const day = dayMap[d] || { intensity: 0, count: 0, completed: false };
+        const levelClass = "l" + day.intensity;
+        html += '<div class="activity-cell ' + levelClass + '" data-date="' + d + '" title="' + (core && core.formatDayTooltip ? core.formatDayTooltip(day) : (d + ": " + day.count)) + '"></div>';
+      }
+      html += '</div>';
+      gridContainer.innerHTML = html;
+
+      // Add tooltip behavior via mouseover
+      gridContainer.querySelectorAll(".activity-cell").forEach((cell) => {
+        cell.addEventListener("mouseover", (e) => {
+          const d = cell.dataset.date;
+          if (!d) return;
+          const day = dayMap[d] || { count: 0, completed: false, averageScore: 0, tasks: [] };
+          const tooltip = document.createElement("div");
+          tooltip.className = "activity-tooltip";
+          tooltip.style.position = "absolute";
+          tooltip.style.left = (e.pageX + 10) + "px";
+          tooltip.style.top = (e.pageY + 10) + "px";
+          tooltip.innerHTML = (core && core.formatDayTooltip ? core.formatDayTooltip(day, "ru-RU") : d + "\n" + day.count + " tasks") + (day.completed ? "\nDaily goal completed" : "\n" + Math.max(0, 5 - day.count) + " remaining");
+          document.body.appendChild(tooltip);
+          cell._tt = tooltip;
+        });
+        cell.addEventListener("mouseout", () => {
+          if (cell._tt) { cell._tt.remove(); cell._tt = null; }
+        });
+        cell.addEventListener("click", () => {
+          const d = cell.dataset.date;
+          if (!d) return;
+          openDayDrawer(d, dayMap[d] || { tasks: [] });
+        });
+      });
+
+      // Daily goal label
+      const todayDay = stats.todayProgress || { count: 0, remaining: 5, completed: false, averageScore: 0 };
+      $("#grid-daily-goal-label").textContent = todayDay.completed
+        ? "Daily Goal completed (" + todayDay.count + "/5)"
+        : "Daily Goal " + todayDay.count + "/5";
+
+      // Streak stats
+      const streak = stats.currentStreak ?? 0;
+      const longest = stats.longestStreak ?? 0;
+      $("#progress-stats").innerHTML = [
+        ["fa-check-circle", stats.qualifiedTasks || 0, "Qualified tasks (≥75%)"],
+        ["fa-chart-line", stats.averageScore || 0 + "%", "Average score"],
+        ["fa-fire", streak, "Current streak (≥5/day)"],
+        ["fa-trophy", longest, "Longest streak"],
+      ].map(([icon, value, label]) => `
+        <div class="card stat-card">
+          <div class="stat-icon"><i class="fas ${icon}"></i></div>
+          <div class="stat-value">${value}</div>
+          <div class="stat-label">${label}</div>
+        </div>
+      `).join("");
+    }
+
+    function openDayDrawer(dateKey, dayData) {
+      let drawer = $("#day-drawer");
+      if (!drawer) {
+        drawer = document.createElement("div");
+        drawer.id = "day-drawer";
+        drawer.className = "day-drawer";
+        drawer.innerHTML = `<button class="btn btn-ghost" onclick="closeDayDrawer()" style="margin-bottom:16px"><i class="fas fa-times"></i> Закрыть</button><h3 style="font-size:1.2rem;margin-bottom:12px" id="drawer-date"></h3><div id="drawer-tasks"></div>`;
+        document.body.appendChild(drawer);
+      }
+      $("#drawer-date").textContent = new Date(dateKey + "T00:00:00").toLocaleDateString("ru-RU", { year: "numeric", month: "long", day: "numeric" });
+      const tasks = (dayData && dayData.tasks) ? dayData.tasks : [];
+      $("#drawer-tasks").innerHTML = tasks.length ? tasks.map((t) => `
+        <div class="card" style="padding:12px;margin-bottom:10px; border-left:3px solid var(--primary)">
+          <strong>Task ${t.number || t.taskId}</strong> · ${t.olympiadId || "Olympiad"}<br>
+          <span style="font-weight:700; color:${t.score >= 75 ? "#166534" : "#991b1b"}">${t.score || 0}%</span>
+        </div>
+      `).join("") : `<p class="muted small">No qualified tasks this day.</p>`;
+      drawer.classList.add("open");
+    }
+
+    function closeDayDrawer() {
+      const drawer = $("#day-drawer");
+      if (drawer) drawer.classList.remove("open");
+    }
+
     function renderProgress() {
+      if (typeof renderGridUI === "function") {
+        try { renderGridUI(); } catch (e) { console.warn("Grid UI error:", e); }
+      }
       const store = loadStore();
       const allOlympiads = Object.values(store);
 
@@ -1763,6 +1998,12 @@
 
     document.addEventListener("DOMContentLoaded", () => {
       loadLocalOlympiads();
+      window.addEventListener("popstate", () => {
+        const m = location.pathname.match(/\/olympiads\/([^/]+)/);
+        const id = m ? decodeURIComponent(m[1]) : null;
+        if (id && state.olympiads?.length) { openOlympiad(id, false); }
+        else { goToPage("olympiads"); }
+      });
       checkServerHealth();
       $("#chat-input")?.addEventListener("keydown", (e) => {
         if (e.key === "Enter" && !e.shiftKey) {

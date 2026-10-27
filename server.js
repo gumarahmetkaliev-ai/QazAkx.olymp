@@ -14,6 +14,7 @@ const checkSolutionHandler = require("./api/check-solution");
 const extractTasksHandler = require("./api/extract-tasks");
 const detectTasksHandler = require("./api/detect-tasks");
 const checkTaskHandler = require("./api/check-task");
+const pdfProxyHandler = require("./api/pdf-proxy");
 const { loadEnv, getAIHealth } = require("./api/lib/ai-service");
 
 loadEnv();
@@ -86,6 +87,10 @@ const server = http.createServer(async (req, res) => {
     return checkTaskHandler(req, res);
   }
 
+  if (pathname === "/api/pdf-proxy") {
+    return pdfProxyHandler(req, res);
+  }
+
   // 2. Static File Serving
   if (pathname === "/" || pathname === "") {
     pathname = "/index.html";
@@ -101,13 +106,19 @@ const server = http.createServer(async (req, res) => {
       res.end("Forbidden");
       return;
     }
-    filePath = path.join(PUBLIC_DIR, relative);
+    // If it's not an actual file in public/olympiads/ (e.g. /olympiads/geo-2024-id), serve SPA
+    const fileCandidate = path.join(PUBLIC_DIR, relative);
+    if (fs.existsSync(fileCandidate) && fs.statSync(fileCandidate).isFile()) {
+      filePath = fileCandidate;
+    } else {
+      filePath = path.join(ROOT_DIR, "index.html");
+    }
   } else {
     filePath = path.join(ROOT_DIR, pathname);
   }
 
   const resolvedPath = path.resolve(filePath);
-  const allowedRoot = pathname.startsWith("/olympiads/") ? PUBLIC_DIR : ROOT_DIR;
+  const allowedRoot = pathname.startsWith("/olympiads/") && filePath === path.join(ROOT_DIR, "index.html") ? ROOT_DIR : (pathname.startsWith("/olympiads/") ? PUBLIC_DIR : ROOT_DIR);
   if (resolvedPath !== allowedRoot && !resolvedPath.startsWith(allowedRoot + path.sep)) {
     res.statusCode = 403;
     res.end("Forbidden");
