@@ -2,8 +2,12 @@
   "cleanUrls": true,
   "rewrites": [
     {
+      "source": "/olympiads/:path*.pdf",
+      "destination": "/public/olympiads/:path*.pdf"
+    },
+    {
       "source": "/olympiads/:path*",
-      "destination": "/public/olympiads/:path*"
+      "destination": "/index.html"
     }
   ],
   "headers": [
