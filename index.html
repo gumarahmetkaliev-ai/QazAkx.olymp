@@ -991,9 +991,14 @@
     }
 
     let TITLE_MAP = {};
-    try { const resp = await fetch("/titles_mapping.json"); if (resp.ok) TITLE_MAP = await resp.json(); } catch(e){}
     async function loadLocalOlympiads() {
       try {
+        try {
+          const titleResponse = await fetch("/titles_mapping.json", { cache: "no-store" });
+          if (titleResponse.ok) TITLE_MAP = await titleResponse.json();
+        } catch (error) {
+          console.warn("Не удалось загрузить дополнительные названия олимпиад", error);
+        }
         const response = await fetch("/olympiads.json", { cache: "no-store" });
         if (!response.ok) throw new Error("Не удалось загрузить каталог");
         const entries = await response.json();
