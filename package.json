@@ -23,6 +23,8 @@
   "author": "QazAkx",
   "license": "MIT",
   "dependencies": {
+    "@supabase/supabase-js": "^2.5.0",
+    "better-sqlite3": "^13.0.3",
     "pdf-parse": "^2.4.5"
   }
 }

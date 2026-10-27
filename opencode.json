@@ -1,0 +1,28 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "provider": {
+    "omniroute": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "OmniRoute",
+      "options": {
+        "baseURL": "http://localhost:20128/v1",
+        "apiKey": "{env:OMNIROUTE_API_KEY}"
+      },
+      "models": {
+        "auto": {
+          "name": "Auto"
+        },
+        "auto/coding": {
+          "name": "Auto Coding"
+        },
+        "auto/fast": {
+          "name": "Auto Fast"
+        },
+        "auto/smart": {
+          "name": "Auto Smart"
+        }
+      }
+    }
+  },
+  "model": "omniroute/auto/coding"
+}
