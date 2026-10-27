@@ -6,7 +6,7 @@
   ],
   "headers": [
     {
-      "source": "/olympiads/.*\\.pdf",
+      "source": "/olympiads/:path.pdf",
       "headers": [
         { "key": "Content-Type", "value": "application/pdf" },
         { "key": "Content-Disposition", "value": "inline" },
@@ -14,7 +14,7 @@
       ]
     },
     {
-      "source": "/public/olympiads/.*\\.pdf",
+      "source": "/public/olympiads/:path.pdf",
       "headers": [
         { "key": "Content-Type", "value": "application/pdf" },
         { "key": "Content-Disposition", "value": "inline" },
