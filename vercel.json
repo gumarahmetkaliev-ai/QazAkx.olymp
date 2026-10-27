@@ -1,18 +1,12 @@
 {
   "cleanUrls": false,
-  "rewrites": [
-    {
-      "source": "/olympiads/:path*.pdf",
-      "destination": "/public/olympiads/:path*.pdf"
-    },
-    {
-      "source": "/olympiads/:path*",
-      "destination": "/index.html"
-    }
+  "routes": [
+    { "src": "/olympiads/(.+)\\.pdf", "dest": "/public/olympiads/$1.pdf" },
+    { "src": "/olympiads/.*", "dest": "/index.html" }
   ],
   "headers": [
     {
-      "source": "/olympiads/:path*.pdf",
+      "source": "/olympiads/.*\\.pdf",
       "headers": [
         { "key": "Content-Type", "value": "application/pdf" },
         { "key": "Content-Disposition", "value": "inline" },
@@ -20,7 +14,7 @@
       ]
     },
     {
-      "source": "/public/olympiads/:path*.pdf",
+      "source": "/public/olympiads/.*\\.pdf",
       "headers": [
         { "key": "Content-Type", "value": "application/pdf" },
         { "key": "Content-Disposition", "value": "inline" },
