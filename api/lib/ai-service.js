@@ -52,6 +52,19 @@ function loadEnv() {
 
 loadEnv();
 
+async function fetchWithTimeout(url, options = {}, timeoutMs = 30000) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), timeoutMs);
+  try {
+    return await fetch(url, { ...options, signal: controller.signal });
+  } catch (error) {
+    if (error?.name === "AbortError") throw new Error("AI provider request timed out");
+    throw error;
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
 function isTemporaryOmniRouteEndpoint(endpoint = "") {
   try {
     return new URL(endpoint).hostname.endsWith(".trycloudflare.com");
@@ -295,7 +308,7 @@ async function callAnthropic(apiKey, systemPrompt, userPrompt, options = {}) {
     messages: [{ role: "user", content: userPrompt }],
   };
 
-  const response = await fetch(url, {
+  const response = await fetchWithTimeout(url, {
     method: "POST",
     headers: {
       "x-api-key": apiKey,
@@ -347,7 +360,7 @@ async function callOmniRoute(apiKey, systemPrompt, userPrompt, model = null) {
     max_tokens: 3000,
   };
 
-  const response = await fetch(url, {
+  const response = await fetchWithTimeout(url, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
@@ -409,7 +422,7 @@ async function callGemini(apiKey, systemPrompt, userPrompt, model = null) {
         },
       };
 
-      const response = await fetch(url, {
+      const response = await fetchWithTimeout(url, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -478,7 +491,7 @@ async function callGroq(apiKey, systemPrompt, userPrompt, model = null) {
     max_tokens: 3000,
   };
 
-  const response = await fetch(url, {
+  const response = await fetchWithTimeout(url, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
@@ -520,7 +533,7 @@ async function callOpenRouter(apiKey, systemPrompt, userPrompt, model = null) {
     max_tokens: 3000,
   };
 
-  const response = await fetch(url, {
+  const response = await fetchWithTimeout(url, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
@@ -565,7 +578,7 @@ async function callOpenAI(apiKey, systemPrompt, userPrompt, model = null) {
     max_tokens: 3000,
   };
 
-  const response = await fetch(url, {
+  const response = await fetchWithTimeout(url, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
