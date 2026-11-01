@@ -15,6 +15,7 @@ const extractTasksHandler = require("./api/extract-tasks");
 const detectTasksHandler = require("./api/detect-tasks");
 const checkTaskHandler = require("./api/check-task");
 const pdfProxyHandler = require("./api/pdf-proxy");
+const publicConfigHandler = require("./api/public-config");
 const { loadEnv, getAIHealth } = require("./api/lib/ai-service");
 
 loadEnv();
@@ -91,6 +92,10 @@ const server = http.createServer(async (req, res) => {
     return pdfProxyHandler(req, res);
   }
 
+  if (pathname === "/api/public-config") {
+    return publicConfigHandler(req, res);
+  }
+
   // 2. Static File Serving
   if (pathname === "/" || pathname === "") {
     pathname = "/index.html";
@@ -113,6 +118,8 @@ const server = http.createServer(async (req, res) => {
     } else {
       filePath = path.join(ROOT_DIR, "index.html");
     }
+  } else if (pathname.startsWith("/auth/")) {
+    filePath = path.join(ROOT_DIR, "index.html");
   } else {
     filePath = path.join(ROOT_DIR, pathname);
   }

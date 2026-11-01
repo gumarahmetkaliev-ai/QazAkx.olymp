@@ -52,13 +52,24 @@ function loadEnv() {
 
 loadEnv();
 
+function isTemporaryOmniRouteEndpoint(endpoint = "") {
+  try {
+    return new URL(endpoint).hostname.endsWith(".trycloudflare.com");
+  } catch {
+    return true;
+  }
+}
+
 function getApiKeys() {
   loadEnv();
-  const anthropicKey = process.env.ANTHROPIC_API_KEY || process.env.OMNIROUTE_API_KEY;
+  const anthropicKey = process.env.ANTHROPIC_API_KEY || null;
   const geminiKey = process.env.GEMINI_API_KEY || process.env.GOOGLE_API_KEY || process.env.AI_API_KEY || process.env.GOOGLE_GENAI_API_KEY;
   const groqKey = process.env.GROQ_API_KEY;
   const openRouterKey = process.env.OPENROUTER_API_KEY;
   const openAIKey = process.env.OPENAI_API_KEY;
+  const omniRouteKey = process.env.OMNIROUTE_API_KEY || null;
+  const omniRouteEndpoint = process.env.OMNIROUTE_ENDPOINT || null;
+  const omniRouteModel = process.env.OMNIROUTE_MODEL || null;
 
   return {
     anthropicKey: anthropicKey && anthropicKey.trim() !== "" ? anthropicKey.trim() : null,
@@ -66,6 +77,9 @@ function getApiKeys() {
     groqKey: groqKey && groqKey.trim() !== "" ? groqKey.trim() : null,
     openRouterKey: openRouterKey && openRouterKey.trim() !== "" ? openRouterKey.trim() : null,
     openAIKey: openAIKey && openAIKey.trim() !== "" ? openAIKey.trim() : null,
+    omniRouteKey: omniRouteKey && omniRouteKey.trim() !== "" ? omniRouteKey.trim() : null,
+    omniRouteEndpoint: omniRouteEndpoint && omniRouteEndpoint.trim() !== "" ? omniRouteEndpoint.trim() : null,
+    omniRouteModel: omniRouteModel && omniRouteModel.trim() !== "" ? omniRouteModel.trim() : null,
   };
 }
 
@@ -265,7 +279,8 @@ RESPONSE STRUCTURE:
 }
 
 /**
- * Call Anthropic / OmniRoute API
+/**
+ * Call Anthropic API
  */
 async function callAnthropic(apiKey, systemPrompt, userPrompt, options = {}) {
   const baseUrl = (process.env.ANTHROPIC_BASE_URL || "https://api.anthropic.com").replace(/\/+$/, "");
@@ -309,16 +324,66 @@ async function callAnthropic(apiKey, systemPrompt, userPrompt, options = {}) {
 }
 
 /**
+ * Call OmniRoute API (OpenAI-compatible endpoint).
+ * Uses OMNIROUTE_API_KEY, OMNIROUTE_ENDPOINT, OMNIROUTE_MODEL separately from Anthropic.
+ * Sends Bearer Authorization and OpenAI-compatible messages format.
+ */
+async function callOmniRoute(apiKey, systemPrompt, userPrompt, model = null) {
+  const endpoint = (process.env.OMNIROUTE_ENDPOINT || "").trim().replace(/\/+$/, "");
+  if (!endpoint) throw new Error("OMNIROUTE_ENDPOINT is not configured");
+
+  const chosenModel = model || process.env.OMNIROUTE_MODEL || "auto";
+  let url = endpoint;
+  if (!/\/chat\/completions$/i.test(url)) {
+    url += /\/v1$/i.test(url) ? "/chat/completions" : "/v1/chat/completions";
+  }
+  const payload = {
+    model: chosenModel,
+    messages: [
+      { role: "system", content: systemPrompt },
+      { role: "user", content: userPrompt },
+    ],
+    temperature: 0.2,
+    max_tokens: 3000,
+  };
+
+  const response = await fetch(url, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+        Authorization: `Bearer ${apiKey}`,
+    },
+    body: JSON.stringify(payload),
+  });
+
+  const data = await response.json();
+  if (!response.ok || data.error) {
+    const errorMsg = data.error?.message || `HTTP ${response.status}: ${response.statusText}`;
+    throw new Error(`OmniRoute API Error: ${errorMsg}`);
+  }
+
+  const text = data.choices?.[0]?.message?.content;
+  if (!text) throw new Error("Пустой ответ от OmniRoute API.");
+
+  return {
+    text,
+    model: data.model || chosenModel,
+    provider: "omniroute",
+  };
+}
+
+/**
  * Call Google Gemini API
  */
 async function callGemini(apiKey, systemPrompt, userPrompt, model = null) {
   const configuredModel = process.env.GEMINI_MODEL || model || "gemini-2.5-flash";
+  // Only include models that are actually supported by the current Gemini API.
+  // gemini-1.5-pro and gemini-1.5-flash are deprecated and return 404.
   const candidateModels = [
     configuredModel,
     "gemini-2.5-flash",
     "gemini-1.5-flash",
     "gemini-2.5-pro",
-    "gemini-1.5-pro",
   ];
 
   const modelsToTry = [...new Set(candidateModels)];
@@ -530,9 +595,21 @@ async function callOpenAI(apiKey, systemPrompt, userPrompt, model = null) {
  * Main AI execution handler with multi-provider waterfall
  */
 async function processAIRequest({ prompt, systemPrompt, mode = "analyze", language = "ru", options = {} }) {
-  const { anthropicKey, geminiKey, groqKey, openRouterKey, openAIKey } = getApiKeys();
+  const {
+    anthropicKey,
+    geminiKey,
+    groqKey,
+    openRouterKey,
+    openAIKey,
+    omniRouteKey,
+    omniRouteEndpoint,
+    omniRouteModel,
+  } = getApiKeys();
 
-  if (!anthropicKey && !geminiKey && !groqKey && !openRouterKey && !openAIKey) {
+  const hasAnyProvider =
+    anthropicKey || geminiKey || groqKey || openRouterKey || openAIKey || omniRouteKey;
+
+  if (!hasAnyProvider) {
     return {
       success: false,
       error: "AI_UNAVAILABLE",
@@ -543,7 +620,18 @@ async function processAIRequest({ prompt, systemPrompt, mode = "analyze", langua
   const finalSystemPrompt = systemPrompt || buildSystemPrompt(mode, language, options);
   const errors = [];
 
-  // Provider 1: Anthropic / OmniRoute (if configured)
+  // Provider 1: OmniRoute (OpenAI-compatible) — uses OMNIROUTE_API_KEY/ENDPOINT/MODEL
+  if (omniRouteKey && omniRouteEndpoint && !isTemporaryOmniRouteEndpoint(omniRouteEndpoint)) {
+    try {
+      const result = await callOmniRoute(omniRouteKey, finalSystemPrompt, prompt, omniRouteModel || options.model);
+      return { success: true, data: result };
+    } catch (err) {
+      console.warn("OmniRoute provider attempt failed:", err.message);
+      errors.push(`OmniRoute: ${err.message}`);
+    }
+  }
+
+  // Provider 2: Anthropic (only if ANTHROPIC_API_KEY is set, not the OmniRoute key)
   if (anthropicKey) {
     try {
       const result = await callAnthropic(anthropicKey, finalSystemPrompt, prompt, options);
@@ -554,7 +642,7 @@ async function processAIRequest({ prompt, systemPrompt, mode = "analyze", langua
     }
   }
 
-  // Provider 2: Google Gemini (if configured)
+  // Provider 3: Google Gemini (if configured)
   if (geminiKey) {
     try {
       const result = await callGemini(geminiKey, finalSystemPrompt, prompt, options.model);
@@ -562,17 +650,6 @@ async function processAIRequest({ prompt, systemPrompt, mode = "analyze", langua
     } catch (err) {
       console.warn("Gemini provider attempt failed:", err.message);
       errors.push(`Gemini: ${err.message}`);
-    }
-  }
-
-  // Provider 3: Groq (if configured)
-  if (groqKey) {
-    try {
-      const result = await callGroq(groqKey, finalSystemPrompt, prompt, options.model);
-      return { success: true, data: result };
-    } catch (err) {
-      console.warn("Groq provider attempt failed:", err.message);
-      errors.push(`Groq: ${err.message}`);
     }
   }
 
@@ -595,6 +672,17 @@ async function processAIRequest({ prompt, systemPrompt, mode = "analyze", langua
     } catch (err) {
       console.warn("OpenAI provider attempt failed:", err.message);
       errors.push(`OpenAI: ${err.message}`);
+    }
+  }
+
+  // Provider 6: Groq (if configured)
+  if (groqKey) {
+    try {
+      const result = await callGroq(groqKey, finalSystemPrompt, prompt, options.model);
+      return { success: true, data: result };
+    } catch (err) {
+      console.warn("Groq provider attempt failed:", err.message);
+      errors.push(`Groq: ${err.message}`);
     }
   }
 
@@ -881,11 +969,13 @@ async function handleChat({ message, history = [], language = "ru", grade = null
  * Health check & configuration status
  */
 function getAIHealth() {
-  const { anthropicKey, geminiKey, groqKey, openRouterKey, openAIKey } = getApiKeys();
-  const configured = Boolean(anthropicKey || geminiKey || groqKey || openRouterKey || openAIKey);
+  const { anthropicKey, geminiKey, groqKey, openRouterKey, openAIKey, omniRouteKey, omniRouteEndpoint } = getApiKeys();
+  const configured = Boolean(anthropicKey || geminiKey || groqKey || openRouterKey || openAIKey || omniRouteKey);
 
   let defaultModel = null;
-  if (anthropicKey) {
+  if (omniRouteKey && omniRouteEndpoint && !isTemporaryOmniRouteEndpoint(omniRouteEndpoint)) {
+    defaultModel = process.env.OMNIROUTE_MODEL || "auto";
+  } else if (anthropicKey) {
     defaultModel = process.env.ANTHROPIC_MODEL || "claude-3-5-sonnet-20241022";
   } else if (geminiKey) {
     defaultModel = process.env.GEMINI_MODEL || "gemini-2.5-flash";
@@ -906,6 +996,7 @@ function getAIHealth() {
       groq: Boolean(groqKey),
       openrouter: Boolean(openRouterKey),
       openai: Boolean(openAIKey),
+      omniroute: Boolean(omniRouteKey && omniRouteEndpoint && !isTemporaryOmniRouteEndpoint(omniRouteEndpoint)),
     },
     defaultModel,
     supportedLanguages: ["ru", "kz", "en"],

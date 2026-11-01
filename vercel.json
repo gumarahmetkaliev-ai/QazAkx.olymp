@@ -2,7 +2,8 @@
   "cleanUrls": false,
   "routes": [
     { "src": "/olympiads/(.+)\\.pdf", "dest": "/public/olympiads/$1.pdf" },
-    { "src": "/olympiads/.*", "dest": "/index.html" }
+    { "src": "/olympiads/.*", "dest": "/index.html" },
+    { "src": "/auth/.*", "dest": "/index.html" }
   ],
   "headers": [
     {

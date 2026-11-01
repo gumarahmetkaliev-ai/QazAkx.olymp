@@ -849,6 +849,9 @@
     <button class="btn" aria-label="Открыть QazAkx AI" style="width:58px;height:58px;border-radius:50%;box-shadow:0 12px 28px rgba(67,56,202,.3)" onclick="toggleChat()"><i class="fas fa-robot"></i></button>
   </div>
 
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="/public/js/activity.js"></script>
+  <script src="/public/js/auth-client.js"></script>
   <script>
     const $ = (selector, root = document) => root.querySelector(selector);
     const $$ = (selector, root = document) => [...root.querySelectorAll(selector)];
@@ -1998,17 +2001,69 @@
       `).join("") : `<div class="empty-state"><div class="empty-state-icon"><i class="fas fa-inbox"></i></div><h3>Начните решать задачи</h3><p>Все ваши решения и оценки AI появятся здесь.</p></div>`;
     }
 
-    // Optional Account handlers
+    // Account handlers. Local progress remains available when Supabase is not configured.
     function renderAccount() {
-      $("#account-content").innerHTML = `
-        <div class="card" style="padding:20px; margin-top:16px; background:#f8fafc">
-          <p>Локальный профиль активен. Все ваши данные и результаты AI хранятся в этом браузере без необходимости логина.</p>
-          <div style="margin-top:14px; display:flex; gap:10px">
-            <button class="btn btn-secondary btn-small" onclick="goToPage('progress')"><i class="fas fa-chart-line"></i> Открыть прогресс</button>
-            <button class="btn btn-secondary btn-small" onclick="goToPage('olympiads')"><i class="fas fa-book-open"></i> К задачам</button>
+      const auth = window.QazAkxAuth;
+      const user = auth?.getUser?.();
+      if (!auth || !auth.isConfigured()) {
+        $("#account-content").innerHTML = `
+          <div class="card" style="padding:20px; margin-top:16px; background:#f8fafc">
+            <p>Локальный профиль активен. Для регистрации и синхронизации прогресса настройте Supabase.</p>
+            <div style="margin-top:14px; display:flex; gap:10px">
+              <button class="btn btn-secondary btn-small" onclick="goToPage('progress')"><i class="fas fa-chart-line"></i> Открыть прогресс</button>
+              <button class="btn btn-secondary btn-small" onclick="goToPage('olympiads')"><i class="fas fa-book-open"></i> К задачам</button>
+            </div>
           </div>
-        </div>
+        `;
+        return;
+      }
+
+      if (user) {
+        $("#account-content").innerHTML = `
+          <p>Вы вошли как <strong>${escapeHtml(user.email || user.user_metadata?.full_name || "пользователь")}</strong>.</p>
+          <div style="margin-top:14px;display:flex;gap:10px;flex-wrap:wrap">
+            <button class="btn btn-secondary btn-small" onclick="window.QazAkxAuth.signOut().then(renderAccount)">Выйти</button>
+            <button class="btn btn-secondary btn-small" onclick="goToPage('progress')"><i class="fas fa-chart-line"></i> Открыть прогресс</button>
+          </div>
+        `;
+        return;
+      }
+
+      $("#account-content").innerHTML = `
+        <form id="auth-form" class="stack" style="margin-top:16px">
+          <label>Email<input id="auth-email" type="email" autocomplete="email" required></label>
+          <label>Пароль<input id="auth-password" type="password" autocomplete="current-password" minlength="6" required></label>
+          <div style="display:flex;gap:10px;flex-wrap:wrap">
+            <button class="btn" type="submit">Войти</button>
+            <button class="btn btn-secondary" id="auth-signup" type="button">Регистрация</button>
+            <button class="btn btn-secondary" id="auth-reset" type="button">Сбросить пароль</button>
+          </div>
+          <p id="auth-status" class="muted small" role="status"></p>
+        </form>
       `;
+      $("#auth-form").addEventListener("submit", async (event) => {
+        event.preventDefault();
+        const status = $("#auth-status");
+        status.textContent = "Выполняется вход…";
+        try {
+          await auth.signInWithPassword($("#auth-email").value.trim(), $("#auth-password").value);
+          renderAccount();
+        } catch (error) { status.textContent = error.message || "Не удалось войти."; }
+      });
+      $("#auth-signup").addEventListener("click", async () => {
+        const status = $("#auth-status");
+        try {
+          await auth.signUpWithPassword($("#auth-email").value.trim(), $("#auth-password").value);
+          status.textContent = "Проверьте email для подтверждения регистрации.";
+        } catch (error) { status.textContent = error.message || "Не удалось зарегистрироваться."; }
+      });
+      $("#auth-reset").addEventListener("click", async () => {
+        const status = $("#auth-status");
+        try {
+          await auth.sendPasswordReset($("#auth-email").value.trim());
+          status.textContent = "Если email существует, письмо для восстановления отправлено.";
+        } catch (error) { status.textContent = error.message || "Не удалось отправить письмо."; }
+      });
     }
 
     ["#catalog-search", "#catalog-subject", "#catalog-year", "#catalog-grade", "#catalog-round", "#catalog-language", "#catalog-local", "#catalog-sort"].forEach((selector) => {
@@ -2016,8 +2071,20 @@
       $(selector)?.addEventListener("change", renderCatalog);
     });
 
-    document.addEventListener("DOMContentLoaded", () => {
+    document.addEventListener("DOMContentLoaded", async () => {
       loadLocalOlympiads();
+      try {
+        const authState = await window.QazAkxAuth?.initSupabase?.();
+        if (authState?.configured) {
+          window.onQazAkxAuthChange = () => {
+            $("#account-label").textContent = window.QazAkxAuth.getUser()?.email || "Аккаунт";
+            if (state.lastPage === "account") renderAccount();
+          };
+          $("#account-label").textContent = window.QazAkxAuth.getUser()?.email || "Аккаунт";
+        }
+      } catch (error) {
+        console.warn("Auth initialization skipped:", error?.message || error);
+      }
       window.addEventListener("popstate", () => {
         const m = location.pathname.match(/\/olympiads\/([^/]+)/);
         const id = m ? decodeURIComponent(m[1]) : null;
