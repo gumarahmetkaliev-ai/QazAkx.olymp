@@ -1,0 +1,536 @@
+{
+ "setId": "chem-icho-2001--prep-task-eng",
+ "olympiadId": "chem-icho-2001",
+ "title": "Химия → IChO (международная) → 2001",
+ "materialLabel": "Подготовительные (Задачи на английском)",
+ "lang": "en",
+ "tasksFile": "olympiads/chemistry/s/icho/2001/prep_task_eng.pdf",
+ "solutionFile": "olympiads/chemistry/s/icho/2001/prep_sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-08T17:00:23.645Z",
+ "quality": {
+  "tasks": 30,
+  "parts": 35,
+  "withPoints": 35,
+  "withReference": 0,
+  "withQuestion": 35,
+  "estimatedPoints": 35
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Water",
+   "weight": null,
+   "total": 10,
+   "statement": "Water, the commonest substance around us, is an excellent system to understand\nmany concepts of thermodynamics. It exists in three different phases: solid (ice),\nliquid and vapour. [At high pressures, different solid phases of ice exist, but we do\nnot consider them here.] The phase diagram for water, which gives the pressure\nversus temperature curves for its different phases in equilibrium, is shown below :\n\nA.    Phase diagram\n\n                                      223\n              Pressure / bar\n\n                                                 Solid          Liquid\n\n                                     1.01\n\n                               6.11 x 10−\n                                            3\n                                                                         Vapour\n\n                                            0            0.01     100             374\n                                                           Temperature / °C\n                                                Phase diagram of water (not to scale)\n\na.    At what temperature and pressure do all the three phases of water coexist in\n      equilibrium?\n\nb.    What is the effect of decrease of pressure on boiling point of water and\n      melting point of ice, as seen from the phase diagram?\n\nc.    The liquid-vapour coexistence curve ends at the point Pc = 223 bar and Tc =\n      374oC. What is the significance of this point?\n\nd.    What is the phase of water at T = 300 K, P = 12.0 bar; T = 270 K, P = 1.00\n      bar?\n\n                                                                                                     11\n\ne.        Below what value of pressure will ice, when heated isobarically, sublimate to\n          vapour?\n\nf.        At a certain temperature and pressure on the liquid-vapour co-existence line,\n          the molar volumes of water in the two phases are\n\n               V\"     =   3.15 x 10 −5 m3             V v = 15.8 × 10 −5 m3\n\n          For 1.00 mole of water in a 0.100 litre vessel at this temperature and\n          pressure, determine the volume fractions in liquid and vapour phases.\n\nB.        Clausius – Clapeyron equation\n\na.        Explain your answer to part A. b above on the basis of the Clapeyron\n          equation.\n\nb.        Autoclaves used for medical sterilisation need to have a temperature of 120°C\n          of boiling water to kill most bacteria. Estimate the pressure required for the\n          purpose. The molar enthalpy change of vaporisation of water is 40.66 kJ mol −1\n          at the normal boiling point. Indicate the assumptions made in your estimate.\n\nc.        The molar enthalpy change of fusion at normal freezing point (273.15 K) is\n          6008 J mol−1. Estimate the pressure at which water and ice are in equilibrium\n          at – 0.200°C. Density of ice = 917 kg m−3 and density of water = 1000 kg m−3.\n          Indicate the assumptions made in your estimate.\n\nC.        Irreversible condensation\n\na.        Consider 28.5 g of supercooled (liquid) water at −12.0°C and 1.00 bar. Does\n          this state lie on the P - T plane of the phase diagram?\n\nb.        This metastable state suddenly freezes to ice at the same temperature and\n          pressure. Treat the metastable state as an equilibrium state and calculate the\n          heat released in the process. Molar heat capacities, assumed constant, are :\n\n            C p(ice) = 76.1 JK −1mol −1\n            C p (liquid water) = 37.15 JK −1mol −1\n            ûH(fusion) = −333.5 J g −1\n     2                                                              Mumbai, India, July 2001\n2\n\nc.     Determine the total entropy change of the universe in the process and assure\n       yourself     that   the   answer   is   consistent   with   the   Second    Law   of\n       Thermodynamics. Take the surroundings to be at −12.0°C.",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "van der Waals gases",
+   "weight": null,
+   "total": 10,
+   "statement": "The ideal gas equation PV = nRT implies that the compressibility factor\n      PV\nZ =       = 1\n      nRT\n\nHowever, the compressibility factor is known to deviate from 1 for real gases. In\norder to account for the behavior of real gases, van der Waals proposed the\nfollowing equation of state :\n     n2 a \n P + 2     (V − nb )   =   nRT\n      V \n\nwhere a and b are constants, characteristic of the gas. The constant a is a measure\nof the intermolecular force and b that of the size of the molecules.\n\na.     Show on the basis of van der Waals equation that\n\n       i.      at sufficiently high temperatures, Z is greater than unity for all\n               pressures. At high temperatures and low pressures, Z approaches the\n               value for an ideal gas.\n\n       ii.     at lower temperatures, Z can be less than unity.\n\n       iii.    for a = 0, Z increases linearly with pressure.\n\nb.     At a certain temperature, the variation of Z with P for He and N2 is shown\n       schematically in the following figure.\n\n       For He,         a = 3.46 x 10−2 bar L2 mol−2 and b = 2.38 x 10−2 Lmol−1\n\n       For N2,         a = 1.37 bar L2 mol−2         and b = 3.87 x 10−2 Lmol−1\n\n                                                                                           33\n\n                                                              1\n                                                              2\n\n                       Z=1\n\n                                          P   →\n\n          Identify the graph corresponding to He and N2.\n\nc.        Two P-V isotherms of a van der Waals gas are shown below schematically.\n          Identify the one that corresponds to a temperature lower than the critical\n          temperature (Tc ) of the gas.\n\n                                                   T1\n                        P →\n\n                                                          1\n\n                                              T2\n\n                                                                  2\n\n                                              V→\n\nd.       For a given P, the three roots of van der Waals equation in V coincide at a\n         certain temperature T = Tc. Determine Tc in terms of a and b, and use the\n         result to show that N2 is liquefied more readily than He.\n\ne.        Determine the work done by 1 mol of N2 gas when it expands reversibly and\n          isothermally at 300 K from 1.00 L to 10.0 L, treating it as a van der Waals gas.",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Rates and reaction mechanisms",
+   "weight": null,
+   "total": 10,
+   "statement": "The observed rate law for a chemical reaction can arise from several different\nmechanisms. For the reaction\n    H2   + I2 → 2 HI\n\n    4                                                                 Mumbai, India, July 2001\n4\n\nthe observed rate law is\n     d [H2 ]\n−                 = k [H2 ] [I2 ]\n       dt\nFor a long time it was believed that the above reaction took place as it was written\ndown; that is, it was a bimolecular elementary reaction. It is now considered that\nseveral mechanisms compete. Below a certain temperature, two alternative\nmechanisms have been proposed :\n\n     (1)         I2          =       2I               K : equilibrium constant\n                 I + I + H2          →\n                                      k1\n                                                   2HI\n     (2)         I2          =       (I2)d            K' : equilibrium constant\n                 (I2)d + H2          →\n                                      k1\n                                         2HI\n\nwhere (I2)d represents a dissociative state of I2. The first step in each mechanism is\nfast and the second slow.\n\na.         Show that both mechanisms are consistent with the observed rate law.\n\nb.         The values of the rate constant k for the reaction at two different temperatures\n           are given in the table :\n\n                                              T(K)            k (L mol−1 s−1)\n                                             373.15            8.74 × 10−15\n                                             473.15            9.53 × 10−10\n\n           i.         Determine the activation energy Ea.\n           ii.        The bond dissociation energy of I2 is 151 kJ mol−1. Justify why the\n                      second step in each mechanism is rate determining.\n\nc.         The change in internal energy (∆U) for the reaction is − 8.2 kJ mol-1.\n           Determine the activation energy for the reverse reaction.\n\nd.         The activation energy for a reaction can even be negative. An example is the\n           gas phase recombination of iodine atoms in the presence of argon:\n\n                I + I + Ar       →     I2 + Ar ,\n\n                                                                                                      55\n\n         whose activation energy is about – 6 kJ mol−1.\n\n         One of the proposed mechanisms of this reaction is :\n\n         I + Ar + Ar = IAr + Ar              K\" : equilibrium constant\n\n         IAr + I       →\n                        k3\n                                I2 + Ar\n\n         where IAr is a very loosely bound species.\n\n         i.     Assume that the second step is rate determining and obtain the rate\n                law for the reaction.\n\n         ii.    Give a possible explanation of why the activation energy for the iodine\n                recombination is negative.",
+   "parts": [
+    {
+     "id": "3.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Enzyme catalysis",
+   "weight": null,
+   "total": 10,
+   "statement": "Enzymes play a key role in many chemical reactions in living systems. Some\nenzyme-catalysed reactions are described in a simple way by the Michaelis-Menten\nmechanism, as given below.\n                                  k2\n                k1\nE + S                    ES             E + P\n                k1'\nwhere E stands for the enzyme, S stands for the substrate on which it acts and P,\nthe end product of the reaction. k1 and k1' are the forward and backward rate\nconstants for the first step and k2 the forward rate constant for the second step.\n\nIgnore the backward rate for the second step. Also assume that the enzyme\nequilibrates with its substrate very quickly.\n\na.      In an experiment, the initial rate (of formation of P) is determined for different\n        concentrations of the substrate, keeping the total concentration of enzyme fixed\n        at 1.5 x 10−9 M. The following graph is obtained.\n\n    6                                                               Mumbai, India, July 2001\n6\n\n                                     3.0 x 10-6 M s−1\n\n                  Initial rate →\n                                                                    T = 285 K\n\n                                          1.5 x 10−6 M s−1\n\n                                             5.0 x 10−5 M\n\n                                      Substrate concentration [S] →\n\n      i.     The graph is linear for small [S] and it approaches a constant value for\n             large [S]. Show that these features are consistent with the Michaelis-\n             Menten                mechanism.   (Use    steady   state   approximation    for   the\n             intermediate step.)\n\n      ii.    Determine the rate constant k 2 for the second step.\n\n      iii.   Predict the initial rate on the basis of the Michaelis-Menten mechanism\n             for the substrate concentration [S] = 1.0 x 10−4 M.\n\n      iv.    Determine the equilibrium constant for the formation of the enzyme -\n             substrate complex ES.\n\nb.   The experiment above studied at 285 K is repeated for the same total enzyme\n     concentration at a different temperature (310 K), and a similar graph is\n     obtained, as shown below.\n\n      Determine the activation energy for the conversion of ES to E and P.\n\n                                                                                                  77\n\n                                6.0 x 10−6 M s−1\n\n               Initial rate →\n                                                          T = 310 K\n\n                                     3.0 x 10−6 M s-1\n\n                                     8.0 x 10−5 M\n\n                                 Substrate concentration [S] →\n\nc.       One interesting application of the ideas above is the way enzyme catalysed\n         reactions inactivate antibiotics. The antibiotic penicillin is, for example,\n         inactivated by the enzyme penicillinase secreted by certain bacteria. This\n         enzyme has a single active site. Suppose, for simplicity, that the rate\n         constants obtained in a above apply to this reaction. Suppose further that a\n         dose of 3.0 µmol of the antibiotic triggers the release of 2.0 x 10−6 µmol of the\n         enzyme in a 1.00 mL bacterial suspension.\n\n         i.          Determine the fraction of the enzyme that binds with the substrate\n                     (penicillin) in the early stage of the reaction.\n\n         ii.         Determine the time required to inactivate 50% of the antibiotic dose.\n\nd.       To control the inactivation of penicillin, suppose a substance is introduced\n         which has a similar structure to penicillin and is able to occupy the enzyme\n         site, but is otherwise completely unreactive. This naturally inhibits the\n         enzyme-catalysed reaction. The degree of inhibition i is defined by\n                        r\n          i = 1−\n                       r0\n\n         where r and r0 are the initial rates of reaction with and without the inhibitor\n         respectively.\n\n    8                                                                   Mumbai, India, July 2001\n8\n\n      Consider again the Michaelis-Menten type of mechanism to describe the\n      situation :\n                            k1\n       E + S                         ES\n                            k1'\n\n                       k3\n       E + I                         EI\n                       k3'\n\n                  k2\n           ES                     E + P\n\n      i.        Show that the degree of inhibition decreases with increase in\n                concentration of the substrate (for constant concentration of the\n                inhibitor), and the inhibitor ceases to be effective for large substrate\n                concentrations. (This is known as competitive inhibition.)\n\n      ii.       For    low         substrate   concentration      of   penicillin,   determine   the\n                concentration of the inhibitor that reduces the rate of the inactivation of\n                penicillin by a factor of 4. The dissociation constant of enzyme-inhibitor\n                complex is given to be 5.0 x 10−5.",
+   "parts": [
+    {
+     "id": "4.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Schrödinger equation",
+   "weight": null,
+   "total": 10,
+   "statement": "The simplest Schrödinger equation, describing a free particle confined to move in a\none-dimensional ‘rigid box’ brings out a most basic fact: quantization arises due to\nboundary conditions on the wave function.\n\na.   An electron of mass m is confined to move in a line along the x-axis from x = 0\n      to x = L. Between the two ends it experiences no force.\n\n      i.        Write down the (time-independent) Schrödinger equation for the wave\n                function ψ of an electron.\n      ii.       Which of the following are possible wave functions of an electron in\n                one-dimensional rigid box :\n                                                      e− kx\n                                                           n[\n                                                      cos\n                                                            L\n                                                      sin kx\n                                                            n[\n                                                      sin\n                                                             L\n                                                                                                   99\n\n       where k is any real number and n is a positive integer ?\n\n       iii.   For the acceptable wave functions of the electron in (ii) above, show\n              that the energies are given by\n\n                      h2 n2\n               En =\n                      8 m L2\n\n       iv.    Plot schematically the wave function of the electron in the ground and\n              the first two excited states. What is the number of nodes (in the region\n              between x = 0 to L) of the wave function with energy E n?\n       v.     Normalize the ground state wave function of the electron.\n              (The integral of the square of the modulus of a normalized wave\n              function over all space is unity.)\n\nb.     An interesting example of this one-dimensional model in chemistry is the\n       motion of an electron in a conjugated system of single and double bonds. The\n       molecule 1,3-butadiene has four π electrons assumed to move freely in a line\n       consisting of three carbon-carbon bonds, each of approximately the same\n       length (1.4 × 10−10 m), with an additional length of 1.4 × 10-10 m at each end.\n       Using the aufbau principle, determine a scheme to fill the electrons in the\n       available energy levels. Calculate the lowest excitation energy of the system.\n\nc.     ‘Boundary conditions’ on wave functions result in quantization of not only\n       energy but also other physical quantities, such as angular momentum.\n       The wave function corresponding to the value hλ/2π for the z-component of\n       angular momentum (Lz) is:\n                iλφ\n       ψ(φ) = e ,\n       where φ is the (azimuthal) angle in the x-y plane measured relative to the x-\n       axis. Use the condition that this function is single valued at every point in\n       space and show that this implies that λ is quantized. Give the quantized\n       values of angular momentum projection along the z-axis.\n\n  10                                                              Mumbai, India, July 2001\n10",
+   "parts": [
+    {
+     "id": "5.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Atomic and molecular orbitals",
+   "weight": null,
+   "total": 10,
+   "statement": "Orbitals are one-electron wave functions, whether they refer to electronic motion in\nan atom (atomic orbitals) or in a molecule (molecular orbitals) or a solid. Each orbital\ncorresponds to a certain probability distribution of finding an electron in different\nregions of space.\n\nA.     Atomic orbitals\n\na.     The 1s orbital of hydrogen atom is given by\n\n       %1s = e − r/a$ ,\n\n       where ao        is the Bohr radius (ao = 5.3 × 10−11 m) and r is the radial co-\n       ordinate (distance of a point in space from the centre).\n\n       i.      Normalize the given wave function.\n\n       ii.     At what distance from the nucleus is the electron most likely to be\n               found?\n\nb.     The wave functions for 2s, 2pz and 3dz2 states are given below :\n\n                            r\n                    −\n                 r\n      %2s = (2 − ) e 2a $\n                a$\n                                 r\n               r          −\n      %2p z =     cos \u0019 e\n                              2a $\n\n              a \n               $\n                                           r\n                                      −\n              r2                        3a $\n      %3d =  2  (3 cos2\u0019 − 1) e\n         z2   a$ \n       What are the nodal surfaces of these orbitals?\n\nc.     It turns out that the solution of Schrödinger equation for a one-electron atom\n       yields exactly the ‘good old’ formula of Bohr for quantized energies:\n\n                 (13.6 eV)Z 2\n       En = −\n                      n2\n       where, for convenience, the numerical value of the combination of constants\n       appearing in the formula has been put in units of eV .\n\n Mumbai, India, July                                                                     11\n                                                                                        11\n\n       It is fun using this formula for a neutral helium atom, but we must exercise\n       some care. In a helium atom, each electron ‘sees’ the nucleus screened by\n       the other electron. That is, the effective charge of the nucleus ‘seen’ by each\n       electron decreases from its bare value Z=2 to some other value, say, Zeff . The\n       ionization energy for a helium atom in its ground state is known\n       experimentally to be 24.46 eV. Estimate Zeff .\n\nB.     Molecular orbitals\n\nMolecular orbitals of a hydrogen molecule ion (H2+) can be approximately written as\nlinear combinations of atomic orbitals centered around the two nuclei of the\nmolecule. Consider the (unnormalized) molecular orbitals constructed in this manner\nfrom the 1s and 2s orbitals of two hydrogen atoms, say, A and B:\n\n %1 = %1sA + %1sB\n\n ~ = % A − %B\n %1     1s      1s\n\n % 2 = % 2s + % 2s\n         A     B\n\n ~ = % A − %B\n % 2     2s    2s\n\nTaking the z-axis along the line joining the two nuclei, the orbital contours of %1 and\n~ are shown schematically below :\n%1\n\n               Z\n\n                                                                          +\n                     Y\n\n                                                                          −\n\nSimilar orbital contours (curves on which the value of ψ is constant) can be drawn for\n% and %~ .\n 2         2\n\nThe energies of these wave functions as a function of internuclear distance are\nshown below schematically:\n\n  12                                                             Mumbai, India, July 2001\n12\n\n                                                                        ~\n                                                                            2\n                                                             2\n             −3.4\n            E/eV\n\n                                                     ~\n                                                         1\n                         1\n\n            −13.6\n\n            −15.6\n                                        1.32\n                                               R/10−10\n\na.    Identify the bonding and antibonding orbitals. State qualitatively what\n      makes one orbital bonding and another antibonding.\n\nb.    Determine the values of the equilibrium internuclear distance Re and the\n      dissociation energy D of the ground state of H2+.\n\nc.    If the molecular ion H2+ is excited to the state ψ2, to what atomic states will it\n      dissociate?\n\nIn the following questions, assume that the energy versus internuclear distance\ngraphs for the orbitals of H2 and He2 are similar to the one shown for H2+.\n\nd.    Explain why the ground state total electron spin of the neutral H2 molecule is\n      zero.\n\ne.    Write down the electronic configuration of the first excited state of H 2\n      molecule. Predict if it will stay bound or dissociate.\n\nf.    It is difficult to obtain He2 in its ground state, but it has been observed in its\n      excited states. Explain how this is possible.",
+   "parts": [
+    {
+     "id": "6.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Fission",
+   "weight": null,
+   "total": 10,
+   "statement": "a.    Consider the following fission reactions of 235U by thermal neutrons :\n       92 U + n  → 94          + 140        + (.....)\n      235\n                        38 Sr      (...) Xe\n\n      235\n       92   U      + n       →   141\n                                  56   Ba     +   (....)         + 3n\n Mumbai, India, July                                                                                 13\n                                                                                                    13\n\n           Identify the missing species and numbers.\n\nb.         Consider the first of the reactions above. The unstable fission fragments\n           undergo successive β-decays giving          Zr and   Ce. Write down the net nuclear\n           reaction and calculate the total energy released in MeV. You are given the\n           following data on atomic masses :\n\n           m ( 235 U) = 235.0493 u\n           m (94 Zr) = 93.9063 u\n           m (140 Ce) = 139.9054 u\n           mn    =    1.00866 u\n           1u    =    931.5 MeV/c 2\n\nc.         1 kg of natural uranium metal was put in a nuclear research reactor. When the\n           total energy released reached 1 Mega Watt Day (MWd), it was removed from\n           the reactor. What would be the percentage abundance of 235U in the uranium\n           metal at that time, if it is 0.72% in natural uranium. Your result in b. above may\n           be taken to be the average energy released per fission. Assume that all the\n           energy is due to fission of 235U only.",
+   "parts": [
+    {
+     "id": "7.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Radioactive decay",
+   "weight": null,
+   "total": 10,
+   "statement": "The radioactive isotope 210Bi is the daughter product of 210Pb and decays by β -\nemission to 210Po, which is also radioactive. 210Po decays by α-emission to the stable\n206\n     Pb.\n\n210                β          210             β          210           α         206\n     Pb                           Bi                       Po                       Pb\n            T1/2 = 22.3 y              T1/2 = 5.01 d             T1/2= 138.4 d\n\nA sample of radiochemically pure 210Bi was freshly isolated from 210Pb and was\nallowed to stand for the growth of 210Po. The radioactivity of the freshly purified 210Bi\nsample was 100 µCi. (1 Ci = 3.7 x 1010 disintegration per second)\n\na.         What is the initial mass of the sample (210Bi)?\n\nb.         Calculate the time it takes for the amount of 210Po in the sample to grow to its\n           maximum value. How much is the maximum amount of 210Po?\n\n  14                                                                      Mumbai, India, July 2001\n14\n\nc.    Determine the α-disintegration rate of 210Po and β-disintegration rate of 210Bi\n      at that time.",
+   "parts": [
+    {
+     "id": "8.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Redox reactions",
+   "weight": null,
+   "total": 10,
+   "statement": "a.    A solution containing Sn2+ ions is titrated potentiometrically with Fe3+. The\n      standard reduction potentials for Sn4+/2+ and Fe 3+/2+ are given below.\n\n      Sn4+   +         2e-   =       Sn2+                 E° = 0.154 V\n\n      Fe3+   +         e-    =       Fe2+                 E° = 0.771 V\n\n      i.      Write down the overall reaction and calculate the standard free energy\n              change of the overall reaction.\n\n      ii.    Determine the equilibrium constant of the reaction.\n\nb.    If 20 mL of 0.10 M Sn2+ is titrated with 0.20 M Fe3+ solution, calculate the\n      voltage of the cell\n\n      i.     when 5 mL of Fe3+ solution is added.\n\n      ii.    at the equivalence point.\n\n      iii.   when 30 mL Fe3+ of the solution is added.\n\n      The saturated calomel electrode (E° S.C.E = 0.242 V) is used as the reference\n      electrode in the titration.\n\nc.    One of the important analytical methods for estimation of Cu2+ is iodometric\n      titration. In this reaction Cu2+ is reduced to Cu+ by I− and the liberated I2 is\n      then titrated with standard Na2S2O3 solution. The redox reaction is as follows:\n\n      2Cu2+ + 4I− →          2CuI(s) + I2 (aq)\n\n      Electrode potentials of the relevant half-cells are:\n\n      Cu2+ + e-        =     Cu+                                         E° = 0.153 V\n\n      I2 + 2e-         =     2I−                                         E° = 0.535 V\n\n Mumbai, India, July                                                                      15\n                                                                                         15\n\nA consideration of the electrode potentials would indicate that reduction of Cu2+ by I−\nis not a spontaneous reaction. However, in the iodometric titration this reaction does\ntake place. Let us try to understand the anomaly:\n\n       i.     CuI has low solubility in water with Ksp ≈ 1.1× 10−12. Calculate the\n              effective E° value for the equilibrium CuI(s) = Cu+ + I−.\n\n       ii.    Using the result in i., calculate the effective E° value for the reduction\n              of Cu2+ by I−. What does this value suggest about the spontaneity of\n              the reaction?\n\n       iii.   Calculate the equilibrium constant of the reduction reaction in ii.",
+   "parts": [
+    {
+     "id": "9.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Solubility of sparingly soluble salts",
+   "weight": null,
+   "total": 10,
+   "statement": "Two important factors that affect the solubility of a sparingly soluble salt are pH and\nthe presence of a complexing agent. Silver oxalate is one such salt, which has low\nsolubility in water (2.06 x 10−4 at pH = 7.0). Its solubility is affected by pH as the\nanion oxalate reacts with hydronium ions, and also by a complexing agent such as\nammonia as the cation silver forms complexes with ammonia.\n\na.     Calculate the solubility of silver oxalate in acidified water with pH = 5.0. The\n       first and second dissociation constants for oxalic acid are 5.6 x 10−2 and 6.2 x\n       10−5 respectively.\nb.     In the presence of ammonia in aqueous solution, silver ion forms two\n       complexes Ag(NH3)+ and Ag(NH3)2+. The values of the stepwise stability\n       constants for the formation of these complexes are 1.59 x 103 and 6.76 x 103.\n       What is the solubility of silver oxalate in an aqueous solution that contains\n       0.02 M NH3 and has pH = 10.8?",
+   "parts": [
+    {
+     "id": "10.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Spectrophotometry",
+   "weight": null,
+   "total": 10,
+   "statement": "a.     Manganese and chromium in steel can be determined simultaneously by\n       absorption spectral method. Dichromate and permanganate ions in 1M H2SO4\n       (Cr2O72− and MnO4−) absorb at 440nm and 545nm. At these wavelengths,\n       molar absorptivity of MnO4− is 95 Lmol−1cm−1 and 2350 Lmol−1cm−1\n       respectively and that of Cr2O72− is 370 Lmol−1cm−1 and 11 Lmol−1cm−1\n       respectively.\n  16                                                                Mumbai, India, July 2001\n16\n\n       A steel sample, weighing 1.374g was dissolved and Mn and Cr in the resulting\n       solution oxidised to MnO4− and Cr2O72−. The solution was diluted with 1M\n       H2SO4 to 100.0mL in a volumetric flask. The transmittances of this solution\n       were measured with a cell of 1.0cm path length and with 1.0M H2SO4 as\n       blank. The observed transmittances at 440nm and 545nm respectively were\n       35.5% and 16.6%.\n\n       Calculate from these data the percentage of Mn and Cr in the steel sample.\n       Assume that Beer’s law is valid for each ion and that the absorption due to\n       one ion is unaffected by the presence of the other ion .\n\nb.     Cobalt (II) forms a single complex CoL32+ with an organic ligand L and the\n       complex absorbs strongly at 560nm. Neither Co(II) nor ligand L absorbs at\n       this wavelength. Two solutions with the following compositions were prepared:\n\n       Solution 1      [Co(II)] = 8 x 10−5    and [L] = 2 x 10 −5 .\n\n       Solution 2      [Co(II)] = 3 x 10 −5   and [L] = 7 x 10 −5 .\n\n       The absorbances of solution 1 and solution 2 at 560nm, measured with a cell\n       of 1.0cm path length, were 0.203 and 0.680 respectively. It may be assumed\n       that in solution 1, all the ligand is consumed in the formation of the complex.\n       From these data calculate the\n\n       i.     molar absorptivity of the complex CoL32+\n\n       ii.    stability constant for the formation of the complex CoL 32+.",
+   "parts": [
+    {
+     "id": "11.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Reactions in buffer medium",
+   "weight": null,
+   "total": 10,
+   "statement": "An organic nitro-compound (RNO2) is electrolytically reduced in an aqueous acetate\nbuffer solution having total acetate concentration (HOAc + OAc−) 0.500 and pH = 5.0.\n300 mL of the buffered solution containing 0.01M RNO2 was reduced completely. The\ndissociation constant for acetic acid is 1.75 x 10−5 at 25 °C. The reduction reaction is\n\n RNO2 +      4H+ +       4e-                    RNHOH + H2O\n\nCalculate the pH of the solution on completion of the reduction of RNO2.\n\n Mumbai, India, July                                                                        17\n                                                                                           17",
+   "parts": [
+    {
+     "id": "12.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Identification of an inorganic compound",
+   "weight": null,
+   "total": 10,
+   "statement": "Some observations related to an unknown inorganic substance A are presented\nbelow.\n\n♦ A is a yellowish – white deliquescent solid and it sublimes on heating. It has a\n     molecular weight of 266.\n\n♦ A reacts violently with water, forming solution B.\n\n♦ When a solution of NH4Cl and NH4OH is added to solution B, a white gelatinous\n     precipitate is obtained.\n\n♦ A sample of B also gives a curdy white precipitate C on addition of dilute nitric\n     acid and silver nitrate solution. This white precipitate C readily dissolves when\n     dilute NH4OH is added, though a gelatinous white precipitate D is formed in its\n     place with excess NH4OH.\n\n♦ Precipitate D is filtered off and is dissolved in excess NaOH to give a clear\n     solution E.\n\n♦ When CO2 is passed through solution E, compound D is reprecipitated.\n\n♦ Substance A dissolves unchanged in dry ether. When this solution is reacted with\n     LiH, a product F is formed. If LiH is used in excess, F transforms to G.\n\na.     Identify the unknown compound A.\n\nb.     Write down the appropriate chemical equations for the given reactions and\n       identify the different products from B to G.",
+   "parts": [
+    {
+     "id": "13.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Ionic and metallic structures",
+   "weight": null,
+   "total": 10,
+   "statement": "Modern methods of structural analysis using X-rays provide valuable information\nabout the three dimensional arrangement of atoms, molecules or ions in a given\ncrystal structure.\n\n  18                                                               Mumbai, India, July 2001\n18\n\na.    Crystal structure of rock salt (NaCl) is given below.\n\n      i.     What is the type of crystal lattice presented in the diagram?\n\n      ii.    What is the coordination number of a sodium ion in this structure?\n\n      iii.   What is the number of formula units of NaCl per unit cell?\n\n      iv.    Calculate the rNa+ / rCl− limiting radius ratio for this structure.\n\n      v.     Why is the array of chloride ions slightly expanded, with the nearest\n             Cl-Cl distance being 400pm, compared to the close packed value of\n             362 pm?\n\n      vi.    What happens when the cation radius in the structure shown above is\n             progressively increased till the cation/anion radius ratio reaches a\n             value of 0.732?\n\n      vii.   What is the range of cation/anion radius ratio for which the structure\n             like that of NaCl is stable?\n\nb.    The Cu - Kα X-ray(λ = 154pm) reflection from (200) planes of sodium chloride\n      crystal is observed at 15.8°. Given that the radius of the chloride ion is 181\n      pm, calculate\n\n      i.     the separation between adjacent 200 planes of NaCl.\n\n      ii.    the length of the unit cell edge (lattice constant) of NaCl.\n\n      iii.   the radius of the sodium ion.\n\n Mumbai, India, July                                                                    19\n                                                                                       19\n\nc.     The diagram of a cubic close packing (ccp) and a hexagonal close packing\n       (hcp) lattice arrangement (assuming rigid sphere model) is given below.\n\n       i.     Describe the difference between the ccp and hcp lattice arrangements.\n\n       ii.    Calculate the packing fraction for a ccp arrangement.\n\n       iii.   Will the coordination number, and the packing fraction in a hcp\n              arrangement be the same as that in a ccp arrangement?\n\nd.     Nickel (at.wt. 58.69) crystallizes in the ccp structure. X-ray diffraction studies\n       indicate that its unit cell edge length is 352.4 pm. Given that the density of\n       Nickel is 8.902 g cm-3, calculate\n\n       i.     the radius of the nickel atom.\n\n       ii.    the volume of the unit cell.\n\n       iii.   the Avogadro number.",
+   "parts": [
+    {
+     "id": "14.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Compounds of nitrogen",
+   "weight": null,
+   "total": 10,
+   "statement": "a.     Nitrogen forms a number of oxides. One of the important oxides of nitrogen is\n       NO2, a red-brown colored reactive gas.\n\n  20                                                              Mumbai, India, July 2001\n20\n\n      i.     Draw the Lewis structure of NO 2 and predict its shape using valence\n             shell electron pair repulsion theory.\n      ii.    Using VSEPR, predict the shapes of the NO2− and NO2+ ions. Compare\n             the shapes of these two ions with that of NO2 .\n\nb.    Consider two other compounds of nitrogen, trimethylamine (Me3N) and\n      trisilylamine (H3Si)3N. The observed bond angles at nitrogen in these\n      compounds are 108° and 120° respectively. Explain the difference in the bond\n      angles.\n\nc.    Both nitrogen and boron form trifluorides. The bond energy in BF3 is 646\n      kJ/mole and that in NF3 is only 280 kJ/mole. Account for the difference in\n      bond energies.\n\nd.    The boiling point of NF3 is –129°C while that of NH3 is –33°C. Ammonia acts\n      as a Lewis base whereas NF3 does not. The observed dipole moment of NF3\n      (0.24 D) is much less than that of NH3 (1.46 D), even though fluorine is much\n      more electronegative than hydrogen.\n\n      i.     Explain the differences between boiling points and basicities of NF 3\n             and NH3.\n\n      ii.    Account for the low dipole moment of NF 3.\n\ne.    The reaction of aqueous sodium nitrate with sodium amalgam as well as that\n      of ethyl nitrite with hydroxylamine in presence of sodium ethoxide give the\n      same product. This product is the salt of a weak unstable acid of nitrogen.\n      Identify the acid and write down its structure. This acid isomerises into a\n      product, which finds use in propellant formulations. Write the structure of the\n      isomer.\n\n Mumbai, India, July                                                                   21\n                                                                                      21",
+   "parts": [
+    {
+     "id": "15.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 16,
+   "title": "Structure elucidation with stereochemistry",
+   "weight": null,
+   "total": 10,
+   "statement": "Citric acid (2-hydroxy-1,2,3-propanetricarboxylic acid) is the primary acid of citrus\nfruits, which contributes to their sour taste. Commercial manufacturing of citric acid\ninvolves fermentation of molasses or starch using the fungus Aspergillus niger at pH\n3.5. It is widely used in food, soft drinks and as a mordant in dyeing. It is also an\nimportant biochemical intermediate.\n\na.       What transformation will citric acid undergo when warmed with concentrated\n         sulfuric acid at 45-50°C? Give the structure and IUPAC name of the product\n         obtained. Which type of organic acids would undergo a similar reaction?\n\nAfter warming citric acid with sulfuric acid, anisole (methoxybenzene) is added to the\nreaction mixture and product A (C12H12O5) is obtained.\n\n     On heating with acetic anhydride, A forms an anhydride.\n\n     118 mg of A requires 20 mL of 0.05 N KOH for neutralisation.\n\n     Reaction with bromine indicates that the same amount of compound A requires\n      80 mg of bromine, to give an addition product.\n\nb.       Deduce the structure of A.\n\nc.       Identify the possible isomers of A in this reaction and give their structures,\n         absolute configurations and the IUPAC names.\n\nd.       In the bromination reaction, how many stereoisomers of A will be obtained?\n         Draw their Fischer projections.\n\ne.       Assign absolute configurations to the stereocentres in all the stereoisomers\n         formed in d.\n\nInstead of anisole, if phenol and resorcinol are separately added to the reaction\nmixture, compounds B and C are obtained, respectively. B does not give any\ncoloration with neutral FeCl3, but C does. Under identical reaction conditions, the\nyield of compound C is much higher than that of B.\n\n  22                                                               Mumbai, India, July 2001\n22\n\nf.     Give appropriate structures for B and C.\n\ng.     What is the difference between the reactions leading to the formation of A and\n       B?\n\nh.     Why is the yield of C higher than that of B?",
+   "parts": [
+    {
+     "id": "16.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 17,
+   "title": "Organic spectroscopy and structure determination",
+   "weight": null,
+   "total": 10,
+   "statement": "The following observations were recorded for identifying two compounds A and B.\n\nBoth have the molecular formula C3H6O. Schematic 1H-NMR spectra of these\ncompounds at 400 MHz are presented in the following figure. The peak positions and\nthe relative intensities of the different lines in the 1H-NMR spectrum of B are given in\nthe accompanying Table           (Note: the values have been altered slightly from the\nexperimental values to facilitate analysis.)\n\nOne of these compounds reacts with malonic acid to form a compound known as\nMeldrum's acid, with the molecular formula C6H8O4 , which gives peaks between 0 and\n7.0 δ in its 1H-NMR spectrum. The IR spectrum shows a peak in the region 1700 - 1800\ncm-1. It condenses with an aromatic aldehyde in the presence of a base.\n\n                A\n\n                   B\n\n                       7     6      5    4     3     2    1     0\n                                    chemical shift (δ)\n\n               1\n                H-NMR schematic spectra of A and B at 400 MHz\n\n Mumbai, India, July                                                                       23\n                                                                                          23\n\nPeak positions and relative intensities of individual lines in the 1H NMR\nspectrum (400 MHz) of B\n\n     Line      (ppm)      Relative     Line      (ppm)     Relative\n                          intensity                        intensity\n\n     1         6.535      1            8         3.870     1\n\n     2         6.505      1            9         3.525     1\n\n     3         6.495      1            10        3.505     1\n\n     4         6.465      1            11        3.495     1\n\n     5         3.930      1            12        3.475     1\n\n     6         3.910      1            13        3.000     12\n\n     7         3.890      1\n\na.          Label the unknown compounds in the bottles with IUPAC names, using the\n            NMR spectra given in the figure.\n\nb.          In the 1H-NMR spectrum of B, assign the peak positions to specific protons.\n\nc.          Calculate the spin-spin coupling constants for protons of compound B.\n\nd.          Convert the peak positions of the first four lines into Hz (refer to theTable).\n            What will be the peak positions of these lines in Hz, if the spectrum is\n            recorded on a 600 MHz instrument?\n\ne.          Draw the possible structure of Meldrum's acid.\n\nf.          Meldrum's acid has pKa = 4.83. Explain the acidity of Meldrum’s acid.\n\ng.          Give the structure of the condensation product of Meldrum's acid with an\n            aromatic aldehyde.\n\n  24                                                                   Mumbai, India, July 2001\n24",
+   "parts": [
+    {
+     "id": "17.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 18,
+   "title": "Polymer synthesis",
+   "weight": null,
+   "total": 10,
+   "statement": "Ethylene finds extensive application in the manufacture of polymers and bulk\nchemicals. It is produced on a large scale by thermal and catalytic cracking of\nalkanes obtained from natural gas and petroleum.\n\nIn the presence of silver catalyst, ethylene reacts with oxygen to give P. Compound\nP on heating with acidified water forms Q. 1H-NMR spectrum of P has only one\nsignal while that of Q contains two signals.\n\na.          Identify and draw the structures for compounds P and Q.\n\nCompound R is obtained when P and Q react with each other. R reacts with SOCl2\nto give S. On heating with alcoholic KOH, S gives T, an anaesthetic under the name\n\"vinethene\".\n                                            SOCl2          alc.KOH\nP          +       Q                R                  S                    T\n\nb.         Identify compounds R, S and T.\n\nAnother compound dimethyl benzene-1,4-bis(acetate) can be synthesised from\np-xylene. Such a synthesis requires use of proper reagents so that desired\nintermediate compounds and the final product are obtained. Various intermediate\ncompounds obtained in the synthesis of dimethyl benzene-1,4-bis(acetate) along\nwith their structures are shown below.\n                                                                     COOH                 COOCH3\n\n     CH3                                      CH2CN                  CH2                   CH2\n                            CH2Br\n\n               ?                    ?                  ?                        ?\n               ?                    ?                  ?                        ?\n\n     CH3                    CH2Br             CH2CN                  CH2                   CH2\n\np-xylene                                                             COOH                  COOCH3\n                                                                                    Dimethyl benzene -1,4 -\n                                                                                    bisacetate\n\nc.          Identify the reagents used in this synthesis of dimethyl benzene –1,4-\n            bis(acetate).\n\n Mumbai, India, July                                                                                     25\n                                                                                                        25\n\nd.        How many peaks would you expect in the 1H-NMR spectrum of dimethyl\n          benzene –1,4-bis(acetate)?\n\nWhen dimethyl benzene-1,4-bis(acetate) (synthesised from p-xylene) and compound\nR (obtained from ethylene) are heated together a polymer is formed.\n\ne.        Draw the structure of the polymer.\n\nf.        What happens when this polymer is treated with\n\n             aq KOH (heat), then H+ / H2O?\n\n             LiAlH4?\n\ng.        Inadvertently, an excess of dimethyl benzene-1,4-bis(acetate) was heated\n          with glycerol and a different polymer was obtained. What is the likely structure\n          of this polymer? Will it be suitable for drawing fibres?",
+   "parts": [
+    {
+     "id": "18.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 19,
+   "title": "Organic synthesis involving regioselection",
+   "weight": null,
+   "total": 10,
+   "statement": "One crucial problems in organic synthesis concerns the synthesis of a specific\ndisubstituted benzene             through   an   electrophilic   substitution   reaction   on   a\nmonosubstituted benzene. This problem is elegantly tackled in a synthesis of\nTramadol, an analgesic drug (C16H25NO2), described below. The first step in this\nsynthesis invovles :\n\n                        HSbF6\n          Phenol                       A\n                        halogen\n\nA gives two equal intensity peaks at 172 and 174 in the highest m/z region of its\nmass spectrum. It gives a mixture of three isomeric mononitro derivatives on nitration\nunder mild conditions.\n\na.        Draw the structure for compound A. What is the regioselection observed in\n          the reaction of phenol to form A? State the significance of this reaction.\n\n  26                                                                      Mumbai, India, July 2001\n26\n\nConsider the following reaction\n\n              ( CH3 )2SO4 / NaOH                Mg / THF / toluene\n          A                            B                                   C\n\nMass spectrum of B shows equal intensity peaks at 186 and 188 in the highest m/z\nregion.\n\nb.    Give structures of compounds B and C. How does the reactivity of B change\n      on its conversion to C?\n\nAnother intermediate compound D required for the synthesis of Tramadol is obtained\nas follows\n\n                             paraformaldehyde\n          Cyclohexanone       dimethylamine\n                                                    D ( C9H17NO )\n                                                    ( Dissolves in HCl )\n\n                                                                    hydrolysis\n          C    +       D                               [E]                       Tramadol\n\nc.    Show the structures of compound D and the final product Tramadol.\n\nd.    Give the structures of the possible stereoisomers of Tramadol.",
+   "parts": [
+    {
+     "id": "19.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 20,
+   "title": "Carbon acids",
+   "weight": null,
+   "total": 10,
+   "statement": "Keto esters are bifunctional reactive molecules and are important synthons for the\nsynthesis of aliphatic and heterocyclic compounds.\n\na.    Two isomeric keto esters X and Y have the same molecular formula C5H8O3.\n      Deduce their possible structures\n\nEach ester is first reacted with benzyl bromide in the presence of CH3ONa, and the\nresulting products are treated with 1 or 2 equivalent of a strong base (such as lithium\ndiisopropyl amide, LDA) followed by 1 equivalent of CH3I.\n\nThe products at the end of the second step are then hydrolysed by aq.HCl.\n\nb.    Write down the reaction sequences involved.\n\n Mumbai, India, July                                                                         27\n                                                                                            27\n\nc.     At the end of the reaction, the final product of keto ester X is a neutral\n       compound (molecular formula C11H14O) whereas keto ester Y, gives a keto\n       acid (molecular formula C12H14O3). Explain.\n\nd.     Keto ester X gives different products depending upon the amount of LDA\n       used. Explain what happens when\n\n       i.         1 equivalent of LDA is used.\n\n       ii.        2 equivalents of LDA are used.",
+   "parts": [
+    {
+     "id": "20.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 21,
+   "title": "Amino acids and enzymes",
+   "weight": null,
+   "total": 10,
+   "statement": "Amino acids are the building blocks of proteins. The presence of –NH2 and -COOH\ngroups makes amino acids amphoteric in nature. Certain amino acid side chains in\nproteins are critically important for their reactivity and catalytic role. Glutamic acid is\none such amino acid, whose structure is shown below.\n\n                                      -\n                                   COO    ( pKa = 2.2 )\n                               +\n            ( pKa = 9.7 )   H3N    CH\n\n                                   CH2\n\n                                   CH2\n                                      -\n                                   COO    ( pKa = 4.3 )\n\na.     Why is the pKa of the α-COOH group lower than that of the γ-COOH ?\n\nb.     Calculate the percent of γ-COOH group that remains unionized at pH 6.3.\n\nc.     Glutamic acid is subjected to paper electrophoresis at pH = 3.25. Will it move\n       towards the anode (+) or cathode (-) ? Why ?\n\nHydrolysis of polysaccharides like chitin, cellulose and peptidoglycan is a common\nbiochemical process. This involves the hydrolysis of a glycosidic bond like the β-1, 4\nlinkage shown below.\n\n  28                                                                Mumbai, India, July 2001\n28\n\n                          O\n                                                B                 O\n           A                           O\n                              C1           C4           O\n\n                                   β-1, 4 linkage\n\nOne such hydrolysis reaction is catalysed by lysozyme.\n\nd.    Suppose the lysozyme catalyzed reaction is performed in 18O enriched water,\n      do you expect the 18O to be incorporated into the product? If yes, where?\n\nThe pH-activity profile of lysozyme is shown in the figure\n\n      Relative Activity\n\n               (%)\n\n                                   3       5        7\n\n                                           pH\n\ne.   Explain this pH behavior in terms of two carboxylates (Asp-52 and Glu-35)\n     present at the lysozyme active site (note : ionizable groups on the substrate are\n     not involved). Write the ideal state of ionization at the lysozyme active site at\n     pH 5.0.\n\nf.   The pKa of Glu-35 in lysozyme active site is 6.0 and not 4.3 as found in the free\n     amino acid. Which of the following local effects is likely to be involved?\n\n      1. Enhanced negative charge\n\n Mumbai, India, July                                                                            29\n                                                                                               29\n\n        2. Enhanced positive charge\n\n        3. Enhanced polarity\n\n        4. Diminished polarity\n\nOrganic model reactions have helped to understand many features of enzyme\ncatalytic mechanisms. When a reaction is made intramolecular (like the enzyme\ncatalysts do!), rate acceleration takes place as if the apparent reactant concentration\nfelt at the site is enormously raised. The carboxylate group assisted hydrolysis of\nthree phenylacetates and their rate constants (k) are shown below.\n\n                    O\n(1)                                                        -1\n           H3C      C     O                 k1 = 0.002 s\n                                                            -\n                                              (when [ CH3COO ] =1 M )\n                    +\n                                  -\n             H3 C       COO                  (pseudo first order)\n\n(2)                 O\n                                               k2 = 0.4 s -1\n                    C         O\n\n                              -\n                    COO                       (first order)\n\n                    O\n(3)\n                    C     O                        -1\n                                          k3 = 20 s\n\n                          -                (first order)\n                    COO\n\ng.     Calculate the effective local concentration of the COO- group felt in (2) and (3)\n       above.\n\nh.     Why do you see a higher rate in (3) than in (2) ?\n\n  30                                                                Mumbai, India, July 2001\n30",
+   "parts": [
+    {
+     "id": "21.1",
+     "points": 2.5,
+     "question": "Enhanced negative charge",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "21.2",
+     "points": 2.5,
+     "question": "Enhanced positive charge",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "21.3",
+     "points": 2.5,
+     "question": "Enhanced polarity",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "21.4",
+     "points": 2.5,
+     "question": "Diminished polarity",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 22,
+   "title": "Coenzyme chemistry",
+   "weight": null,
+   "total": 10,
+   "statement": "The protective outer cell wall in bacteria has D-alanine as one of the building blocks.\nHowever, metabolically only L-amino acids are available. Bacteria make D-alanine by\ninverting the L-alanine. The structure of L-alanine is given below :\n\n      H\n Me         COOH\n\n          NH2\n\n L-alanine\n\nThe abstraction of α-proton from L-alanine and reprotonation of the resultant\ncarbanion from the opposite side appears to be a simple process. However, it is not\neasy to deprotonate alanine unless its NH2 group is masked and Cα-H is activated as\nan acid.\n\nBoth these steps are brought about by the coenzyme pyridoxal phosphate (PLP) in\nthe presence of the enzyme alanine racemase. The following observations made in\ncertain model reactions will help you appreciate the role of PLP as the coenzyme.\n\nUnder favorable experimental conditions, benzaldehyde can be used as a reagent to\nracemize alanine. In other words, it can mask the amine group and activate the Cα-\nH of alanine making it more acidic.\n\n                       CHO\n\n L-alanine                       D / L-alanine\n                      Base\n\na.         Propose a stepwise mechanism for this base catalyzed racemisation of L-\n           alanine involving benzaldehyde as the reagent.\n\nCompared to benzaldehyde, PLP is a somewhat complex molecule. With the help of\na few carefully designed aromatic aldehydes, good insight about the role of PLP as a\ncoenzyme can be obtained.\n\n Mumbai, India, July                                                                      31\n                                                                                         31\n\nA few relevant structures are presented below. Underneath each, there is an\nindication about its activity.\n\n                             CHO                                 CHO\n             O\n       -                            OH\n           O P O                                      HO                OH\n             OH            +N       Me\n                               H                                +N      Me\n                                                                 H\n                 PLP (1)\n                 Active                                     Pyridoxal (2)\n                                                             Active\n\n                       CHO                                        CHO\n            H3C                OH                                          OCH3\n                                                        O\n\n                      +N       Me                               +N         Me\n                       H                                         H\n\n                       (3)                                        (4)\n                      Active                                    Inactive\n\n                             CHO                                       CHO\n                                    OH\n                 HO                                                             OH\n                                                           HO\n\n                                                            O2N                 NO2\n                             NO2\n\n                                                                       (6)\n                            (5)\n                                                                     Inactive\n                           Active\n\nb.     Based on this information, what inferences can you draw about the structural\n       requirements for PLP to act as a coenzyme?\n\nc.     A trivalent metal ion is actually critically needed for any of the above shown\n       compounds to display PLP-like activity without the involvement of the enzyme.\n       Suggest a plausible explanation for the role of the metal ion.\n\nd.     PLP is quite a versatile coenzyme. It participates in a variety of biologically\n       important reactions. The activity of PLP is due to its functioning as an electron\n       sink that stabilizes carbanions.\n\nAn important illustration of catalytic versatility of PLP is in the biosynthesis of the\nneurotransmitter gamma amino butyric acid (GABA). As shown below, GABA is\n\n  32                                                                        Mumbai, India, July 2001\n32\n\nmade in a single step from L-glutamic acid. Suggest a mechanism explaining the role\nof PLP as the coenzyme in this particular reaction.\n\n     -                                               -\n         OOC              COO -                          OOC\n                                         PLP                                   +     CO2\n                    + NH                                            + NH\n                           3                                               3\n\n         Glutamic Acid                                             GABA\n\ne.        In yet another PLP mediated reaction, L-serine serves as a one-carbon donor\n          in a complex process of nucleotide biosynthesis. The enzyme serine\n          hydroxymethyltransferase degrades L-serine with the help of PLP into the\n          simpler amino acid glycine.                     An important metabolic intermediate (X) is\n          obtained as the side product in this reaction. Identify the one carbon metabolic\n          intermediate formed by analyzing its PLP based mechanism.\n\n                                     -                               -\n                               COO                             COO\n               HO                          PLP\n                      +                                                    +   (X)\n                          NH3                            +NH\n                                                               3\n\n                          L-Serine                       Glycine",
+   "parts": [
+    {
+     "id": "22.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 23,
+   "title": "Protein folding",
+   "weight": null,
+   "total": 10.5,
+   "statement": "The link between amino acid sequence of a protein (the primary structure) and its\nprecise three-dimensional fold (the tertiary structure) remains one of the most\nimportant unsolved mysteries of modern science.\n\nAll protein backbones are identical: planar amide units are linked via tetrahedral\nmethylene bridges, the so called α-carbons. Each α-carbon carries an R group of a\nspecific α-amino acid (see the following diagram).\n\nA unique sequence of amino acids characterizes a particular protein, determining\nhow it folds and functions.\n\n Mumbai, India, July                                                                                    33\n                                                                                                       33\n\na.     Every amide group in the polypeptide backbone, including its flanking α-\n       carbons, is a planar unit. Explain.\n\nb.     The α-carbons across each amide unit occur in a trans geometrical\n       arrangement. However, in case of the amino acid proline, both cis and trans\n       amide arrangements are almost equally favored. Why?\n\nc.     The conformational choices of amino acid residues in a polypeptide chain are\n       stereochemically controlled. For nineteen of the genetically coded amino\n       acids, the conformational choice is largely restricted to the α (folded) and β\n       (extended) regions of the Ramachandran diagram. For the amino acid\n       glycine, however, the conformational choices are much wider. Explain.\n\nd.     When a linear polypeptide folds forming a globular protein, an amino acid\n       residue may assume α or β conformation.            However it is observed that\n       consecutive residues generally assume α or β conformation, rather than a\n       random combination of α and β. Explain.\n\ne.     In an aqueous environment polypeptides generally fold into compact globular\n       protein structures. The reason is (select one)\n\n       1. The R groups in polypeptides are largely polar.\n       2. The R groups in polypeptides are largely nonpolar.\n       3. Both polar and nonpolar R groups occur in comparable proportion.\n\n       Justify your answer.\n\nf.     The pattern of R group polarities has an important role in determining whether\n       α-helix or β-sheet will form when a polypeptide folds in water at an apolar\n       surface. Explain the role of R group polarities.",
+   "parts": [
+    {
+     "id": "23.1",
+     "points": 3.5,
+     "question": "The R groups in polypeptides are largely polar.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "23.2",
+     "points": 3.5,
+     "question": "The R groups in polypeptides are largely nonpolar.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "23.3",
+     "points": 3.5,
+     "question": "Both polar and nonpolar R groups occur in comparable proportion.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 24,
+   "title": "Protein sequencing",
+   "weight": null,
+   "total": 10,
+   "statement": "Sequencing of a protein (polypeptide) involves the following steps: a) purification, (b)\ndetermination of N-terminal amino acid, (c) cleavage of the polypeptide chain by\nchemical or enzymatic methods, (d) isolation of the peptide fragments and (e)\ndetermination of their sequence by an automated sequencing machine (sequenator).\nIt is also possible to sequence the mixture of peptide fragments without resolving it.\n\n  34                                                             Mumbai, India, July 2001\n34\n\nThe final sequence could be determined by constructing overlapping sequences\nafter analyzing the information on the positional data on amino acids in different\nfragments.\n\nA small protein, made up of 40 amino acid residues was sequenced as follows :\n\n•     Edman degradation involves treatment with phenyl isothiocyanate, subsequent\n      hydrolysis and spectrophotometric identification of the modified amino acid. This\n      procedure identified aspartic acid (Asp) as the N-terminal residue.\n\n•     The protein was cleaved with CNBr (cyanogen bromide) which cleaves the\n      peptide bond between methionine and any other amino acid on its C-terminal\n      side. The resulting peptide fragments were not separated. This mixture of\n      peptides was analyzed on the protein sequenator. Therefore, the sequenator\n      would detect as many amino acids in the given position as the number of\n      fragments. The results are shown in Table 1(a).\n\n•     The protein was digested with a proteolytic enzyme trypsin. This enzyme cleaves\n      the peptide bond between a basic amino acid (Arg or Lys) and the next C-\n      terminal residue. The resulting mixture of peptides was also analyzed as above.\n      The results are shown in Table 1(b).\n\nGiven this information:\n\na.      Deduce the amino acid sequence common to the first fragment (N-terminal)\n        obtained by CNBr and trypsin treatments.\n\nb.      Deduce the sequence of the first fragment generated by CNBr treatment.\n\nc.      Deduce the entire sequence in the original polypeptide. Indicate the CNBr-\n        labile and trypsin-labile sites in this sequence.\n\nd.      What percentage of the total residues are basic amino acids?\n\ne.      If the polypeptide were to exist as an α helix, what will be the length of this α\n        helical structure?\n\n    Mumbai, India, July                                                                    35\n                                                                                          35\n\nTable 1. Data from protein sequenator .\n\n                          Position number\nTreatment                 1       2       3         4       5       6          7       8\na) CNBr:                  Arg     Gln     Asn       Arg     Asn     Arg        Ala     Ala\n                          Asp     Pro     Pro       His     Ilu     His        Gly     Lys\n        (Met)             Glu     Thr     Ser       Ilu     Leu     Trp        Phe     Met\n                          Gly     Tyr     Tyr       Val     Phe     Val        Thr     Tyr\n\nb) Trypsin:               Asp     Cys     His       Ala     Ilu     Arg        Cys     Glu\n                          Gly     His     Met       Asn     Leu     Phe        Lys     Leu\n (Arg or Lys)             Gly     Pro     Thr       Glu     Thr     Ser        Ilu\n                          Phe     Pro     Tyr       Val     Trp     Ser\n                          Tyr     Tyr\n\nf.       What will be the size of the DNA segment (exon) coding for this polypeptide of\n         40 amino acids? Give the size in base pairs as well as in daltons. (consider\n         average molecular weight of a nucleotide in DNA = 330).\n\ng.       Assuming that the DNA corresponding to the exon contains equal numbers of\n         Adenine and Cytosine, calculate the number of H-bonds which will hold this\n         double helix.\n\n  36                                                                    Mumbai, India, July 2001\n36\n\nPractical Problems\n\nSafety Regulations\n\nThe following regulations apply to all laboratories used for the Olympiad. Participating\nstudents must be well acquainted with these regulations and should study them\nseriously. These rules will be strictly followed in the 33rd IChO practical examination.\nStudents who break any of these rules will be given only one warning before they are\ndisqualified from the practical examination.\n\nIf any questions arise concerning safety procedures during the practical examination,\nstudents should not hesitate to ask the nearest instructor for directions.\n\nAll students are required to sign a statement agreeing that they have read and\nunderstood the rules prior to the examination.\n\nRules for personal safety\n\na.   For eye protection, safety goggles must be worn in the laboratories at all times. If\n     the student wears contact lenses, full protection goggles, which provide total seal\n     around eyes, must be worn. All students are requested to bring their safety\n     goggles, but we shall have some in reserve.\n\nb.   A long sleeved, knee length laboratory coat is recommended. Long pants and\n     closed-toed shoes must be worn for individual safety. Loose clothing, open style\n     shoes and sandals are prohibited. Long hair must be contained. Each student\n     will have to get her/his own necessary items for herself/himself.\n\nc.   Prior to the examination, the demonstrator-in-charge will check all protective\n     equipments to ensure that they are in order.\n\nd.   Pipetting by mouth is strictly forbidden.\n\ne.   Eating, drinking or smoking in the laboratory is strictly prohibited.\n\n Mumbai, India, July                                                                    37\n                                                                                       37\n\nAccidents and first aid\n\nIn any chemistry laboratory, accidents can take place due to spillage of chemicals,\nbroken glasswares and fire. Any injury, illness, or incident, however minor, must be\nreported to the instructor immediately so that proper corrective action can be taken up.\n\na.     Chemicals: Every chemical in the laboratory must be handled with utmost care.\n       Chemicals can be corrosive, flammable or poisonous. Each student should\n       read the safety notes related to the chemicals given in the task before handling\n       them. The following general precautions must be always followed in the\n       laboratory :\n\n       ♦ Chemicals should never be tasted. Use pipette bulbs or pipette fillers all the\n          time.\n\n       ♦ Spillage on the skin: For any spillage of chemicals, the first step is to flush\n          the skin under cold tap water for 10 to 15 minutes and then seek first aid/or\n          medical help as appropriate. Organic materials tend to get absorbed on the\n          skin, so wash the skin with warm water and soap, after cleaning it with cold\n          water. Contaminated clothing should be removed at the earliest.\n\n       ♦ Chemicals in the eye: The proper use of safety goggles will reduce the risk of\n          any eye injury. Even so, if there is any splash of chemicals into the eyes,\n          wash your eyes with cold water for 15 minutes and then look for appropriate\n          medical attention.\n\nb.     Fire: Many chemicals are flammable, and hence no open flames are permitted\n       when such chemicals are in use. You should get familiar with the location of the\n       nearest fire extinguisher and fire blanket.\n\nc.     Glassware: Glass is a very hard but brittle material, and can break under\n       stress or strain. Please handle the glasswares very carefully. If breakage\n       occurs it is essential that any particles or splinters, specially from the wounds,\n       are removed at the earliest. The injuries must be inspected by the\n       demonstrator-in-charge.\n\n  38                                                              Mumbai, India, July 2001\n38\n\n      Please report and clean up any breakage of the glassware. Necessary\n      replacements can be obtained from the instructor.\n\nd.    Waste Materials: Do not dispose of chemicals in the sink. Please follow all\n      disposal rules provided in the task notes. Waste collection containers will be\n      provided wherever necessary.\n\ne.    Care of Benches and Apparatus: Each student is responsible for her/his section\n      of the bench. Any spillage of chemicals or water must be wiped immediately.\n      Concentrated acid spills must be first neutralized with sodium bicarbonate and\n      then washed with plenty of water. Your working area must be kept clean at all\n      times. Chemicals spilled on the ground must be washed and broken glassware\n      must be swept off immediately. Mops, brooms, dust-pans etc will be available\n      from the preparation room.\n\n                       Some important information regarding\n                        the 33rd IChO practical examination\n               ¾ Time duration for the practical examination would be four\n                   and a half hours instead of five hours.\n\n               ¾ The examination may consist of three independent\n                   experimental tasks. The time duration for each task may\n                   vary from one to one and a half hour.\n\n               ¾ The examination will be conducted in two batches.\n                   Students No.1 and 2 from each team will be part of the\n                   first batch; students No.3 and 4 will be part of the second\n                   batch.\n\n               ¾ Students of both batches will get a new set of apparatus\n                   for the examination.\n\n               ¾ The apparatus for the examination will include both\n                   plasticware and glassware.\n\n               ¾ The examination will not involve use of microscale\n                   apparatus.\n\n Mumbai, India, July                                                                     39\n                                                                                        39",
+   "parts": [
+    {
+     "id": "24.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 25,
+   "title": "Determination of aspirin in the given sample",
+   "weight": null,
+   "total": 10,
+   "statement": "Acetyl salicylic acid (CH3COO.C6H4.COOH) undergoes hydrolysis when boiled gently\nwith aqueous NaOH, which forms a basis for its estimation.\n\n•     Plain aspirin tablets\n\n•     0.1 M Hydrochloric acid         R : 34, 37    S : 26, 45\n\n•     1 M Sodium hydroxide            R : 35        S : 2, 26, 37, 39\n\n•     Borax(AR Grade)                               S : 22, 24, 25\n\n•     Phenol red indicator                          S : 22, 24, 25\n\nPreparation of 0.1 M HCl solution\n\n9 mL of concentrated HCl is diluted to 1000 mL using freshly prepared distilled water in\na standard volumetric flask.\n\nPreparation of 1 M NaOH solution.\n\nWeigh rapidly approximately 10.5 g of NaOH in a small beaker. Dissolve it in minimum\namount of distilled water. Transfer the solution in a 250 mL flask and dilute the solution\nusing boiled out distilled water.\n\nStandardisation of HCl\n\nWeigh 0.15 g of Borax accurately and transfer it quantitatively in a clean 250 mL\nconical flask ; add 50 mL of distilled water to the flask. Titrate the resulting solution with\nHCl, using methyl red indicator until the colour changes from yellow to red.\n\n     ¾ Calculate the concentration of the HCl solution.\n\n  40                                                                    Mumbai, India, July 2001\n40\n\nBlank titration\n\nDilute the 25 mL of 1 M NaOH solution in a 250 mL standard flask using freshly boiled\ndistilled water. Pipette out 25 mL of the diluted NaOH solution and titrate it against the\nHCl solution using phenol red as indicator until the colour changes from red to yellow.\n\nTitration of sample aliquot\n\nWeigh accurately about 1.5 g of the crushed tablet sample and transfer it\nquantitatively in a 250 mL beaker. Add 25 mL of 1 M NaOH solution with the help of\npipette and swirl the content. Boil the mixture gently on a water bath for 15 min and\nthen cool the solution. Transfer the solution to a 250 mL standard flask. Dilute the\nsolution up to the mark with distilled water and mix well. Titrate 25 mL of the diluted\nsolution against the standardised HCl solution using phenol red indicator until the\ncolour changes from red to yellow.\n\n ¾ Write down the appropriate chemical reaction for hydrolysis of acetyl\n     salicylic acid.\n\n ¾ Calculate the percentage of aspirin in the sample.",
+   "parts": [
+    {
+     "id": "25.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 26,
+   "title": "Synthesis of 1-phenyl-azo-2-naphthol (C16H12ON2)",
+   "weight": null,
+   "total": 10,
+   "statement": "Reactions\n\n                                    +     -                          +           -\n                                    NH3Cl                            N     NCl\n      NH2\n                         HCl                     Diazotization\n\n                                                 (NaNO2 + HCl)\n\n     Aniline                       Salt                           Benzene Diazonium\n                                                                  Chloride Salt\n\n       +             -\n       N       NCl                                                       N N\n                                            OH                                 OH\n                          +                         NaOH\n                                                    Coupling\n Benzene Diazonium                                                  Sudan - 1\n Chloride Salt                 lB-napthol\n                                                                 (1-phenyl-azo-2-napthol)\n\n Mumbai, India, July                                                                                 41\n                                                                                                    41\n\n•     Aniline                                R : 23, 24, 25, 33    S : 28, 36, 37, 45\n\n•     Concentrated HCl                       R : 34, 37            S : 26, 45\n\n•     Solid Sodium Nitrite                   R : 8, 25             S : 44\n\n•     β - naphthol                           R : 20, 22            S : 24, 25\n\n•     Ethyl Alcohol\n\n•     Urea                                                         S : 22, 24, 25\n\n•     Sodium Hydroxide                       R : 35                S : 2, 26, 37, 39\n\nPreparation of diazonium salt\n\nTake 1 mL of aniline in a clean 50 mL beaker. Add approximately 5 mL of distilled\nwater to aniline. Place the beaker in an ice-bath. Slowly add 2.5 mL of conc. HCl.\nStir the solution with a glass rod to obtain a clear solution. Cool this solution in the\nice-bath.\n\nWeigh accurately 0.5 g of sodium nitrite (NaNO2) and transfer it quantitatively in a 15\n(or 25) mL test tube. Add 5mL of distilled water (to the test tube) to dissolve NaNO2.\nCool the resulting NaNO2 solution in an ice-bath.\n\nAllow both the solutions to attain 0°C temperature. Add sodium nitrite solution in a\ndropwise manner to the aniline solution with continuous stirring. (During addition, the\ntemperature of the reaction mixture should not rise above 10°C.)\n\nThe presence of excess nitrous acid in the reaction mixture is checked using starch\niodide paper.\n\nTo decompose the excess nitrous acid formed, add a small portion of solid urea. The\nsolution is then filtered. The filtrate contains the diazonium salt.\n\n  42                                                                   Mumbai, India, July 2001\n42\n\nCoupling reaction\n\nWeigh 0.75 g of powdered β-naphthol in a 50 mL beaker. Add 5 mL of 10% NaOH\nsolution and 5 mL of distilled water to the beaker. Stir well with glass rod to obtain a\nclear solution. This solution is also cooled in an ice-bath to 0°C.\n\nThe ice cooled filtrate containing diazotised salt is added dropwise to the ice cooled\nsolution of β-naphthol with constant stirring. At this stage, an orange-red dye will\nstart precipitating. After the addition of the solution is complete, filter the dye using\nbuchner funnel. Cold water is used for washing the precipitate. Dry the product and\nrecord the yield.\n\nDetermination of melting point\n\nRecrystallise a small portion of the organic dye prepared using ethyl alcohol. Gently\nheat the solution in a water bath (careful!) to dissolve the dye. Filter the hot solution.\nCool the filtrate and filter the recrystallised product using Buchner funnel and suction.\n\n¾ Record the weight of the crude product\n¾ Record the melting point of the recrystallised product.",
+   "parts": [
+    {
+     "id": "26.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 27,
+   "title": "Determination of calcium in a sample solution",
+   "weight": null,
+   "total": 10,
+   "statement": "Reaction\n\n      2+           2-                         2-            +\nCa         + H2Y                        CaY        +   2H\n\nChemical and solutions\n\n•     Sample solution containing calcium R : 36             S : 22, 24\n     (prepared from A.R. grade CaCl2)\n\n•     Patton and Reeders indicator\n\n    Mumbai, India, July                                                                  43\n                                                                                        43\n\n•     KOH solution.                            R : 35           S : 26, 37, 39, 45\n\n•     EDTA disodium salt                       R : 36, 37, 38 S : 26, 36\n\nPreparation of 0.01 M EDTA:\n\nWeigh 1.861 g of AR grade Na2EDTA and quantitatively transfer the same to 500\nmL volumetric flask. Add distilled water to the flask to dissolve Na2EDTA and make\nup the solution to 500 mL mark with distilled water.\n\nDilute the given sample solution to 100 mL in a 100 mL volumetric flask using\ndistilled water. Pipette out 25 mL of the diluted sample solution in a clean conical\nflask. Add 25 mL of distilled water and adjust the pH using freshly prepared KOH\nsolution to 12. Check the pH with pH paper. Add a pinch of solid indicator and titrate\nwith Na2EDTA solution till the colour changes from wine red to blue.\n\n¾ Calculate the amount of calcium in mmoles in 100 mL of the diluted\n       sample solution",
+   "parts": [
+    {
+     "id": "27.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 28,
+   "title": "Estimation of methyl ketone by back titration",
+   "weight": null,
+   "total": 10,
+   "statement": "Methyl ketones like acetone can be estimated by iodinating with excess of standard\niodine in an alkaline medium. The unreacted iodine is then back titrated with\nstandard sodium thiosulphate solution.\n\n•     0.1N Iodine solution            R : 20, 21        S : 23, 25\n\n•     0.1N NaOH                       R : 35            S : 2, 26, 37, 39\n\n•     Concentrated HCl                R : 34, 37        S : 26, 45\n\n•     1 N H2SO4.                      R : 35            S : 2, 26, 30\n\n•     0.1 M Na2S2O3                                     S : 22, 24, 25\n\n  44                                                                        Mumbai, India, July 2001\n44\n\nPreparation of 0.1 M Na2S2O3:\n\nWeigh 25 g of AR grade Na2S2O3 and quantitatively transfer it to a 1 L volumetric\nflask. Prepare the solution using freshly boiled distilled water. Add 3 drops of\nchloroform while preparing the solution. Avoid exposure to light.\n\nPreparation of 0.1 N I2 solution\n\nDissolve 20 g of iodate-free potassium iodide in 30 - 40 mL of distilled water in a 1 L\nvolumetric flask. Weigh 12.7 g iodine and quantitatively transfer to the concentrated\npotassium iodide solution. Shake the flask well until all the iodine dissolves and then\ndilute up to the mark with distilled water.\n\nStandardisation of Na2S2O3\n\nWeigh out accurately 0.14 to 0.15 g of dry potassium iodate. Dissolve it in 25 mL of\ndistilled and freshly boiled water and add 2 g of iodate free potassium iodide. Add 5\nmL of 1N sulphuric acid. Titrate the liberated iodine with thiosulphate solution with\nconstant shaking. When the colour of the solution is pale yellow add 200 mL of\ndistilled water and 2 mL of starch indicator. Continue the titration until the colour\nchanges from blue to colourless.\n\nDetermination of ketone\n\nWeigh accurately 0.2 g of the given acetone sample in a clean 50 mL beaker and\nadd minimum amount of distilled water. Transfer the acetone solution to a 250 mL\nstandard volumetric flask. Add distilled water to the flask to prepare acetone solution\nin water and make up the solution to 250 mL mark with distilled water. Pipette out 10\nmL of the acetone solution in a clean conical flask. Add 10 mL of 10% aqueous\nsodium hydroxide, and stopper the flask. Shake the flask for 10 min. At the end of 10\nminutes, add 35 mL of 0.1 N Iodine solution from the burette. Swirl the content,\npreferably using magnetic stirrer for 5 minutes, and keep it standing for 15 minutes.\n\nYellow crystals of iodoform will appear. Acidify the solution with H2SO4 (check the pH\nwith pH paper).\n\n Mumbai, India, July                                                                     45\n                                                                                        45\n\nTitrate the solution against the standardised sodium thiosulphate using starch\nindicator.\n\n    ¾ Write down the appropriate chemical reactions for iodination of\n       acetone.\n\n    ¾ Calculate the amount of acetone in the given sample solution.",
+   "parts": [
+    {
+     "id": "28.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 29,
+   "title": "Determination of phenol in the given sample",
+   "weight": null,
+   "total": 10,
+   "statement": "Reactions\n\nKBrO3 + 5KBr + 6HCl → 6KCl + 3H2O + 3Br2 ↑\n\nC6H5OH + 3Br2 → C6H2OHBr3 + 3HBr\n\n3Br2 + 6KI → 6KBr + 3I2 ↑\n\n6Na2S2O3 + 3I2 → 3Na2S2O3 + 6NaI\n\n•     0.3g phenol                     R : 24, 25, 34       S : 2, 28, 44\n\n•     0.02M KBrO3                     R:9                  S : 24, 25, 27\n\n•     3M H2SO4                        R : 35               S : 2, 26, 30\n\n•     KBr\n\n•     KI                                                   S : 22, 24, 25\n\n•     1 M Na2S2O3                                          S : 24, 25, 28\n\n•     Starch indicator.\n\n  46                                                                 Mumbai, India, July 2001\n46\n\nPreparation of 0.1 M Na2S2O3\n\nWeigh 25 g of AR grade Na2S2O3 in a small beaker. Quantitatively transfer it to a 1 L\nvolumetric flask. Prepare the solution using freshly boiled distilled water. Add 3 drops\nof chloroform while preparing the solution. Avoid exposure to light.\n\nStandardisation of Na2S2O3\n\nWeigh out accurately 0.14 to 0.15 g of dry potassium iodate. Dissolve it in 25 mL of\nfresh, boiled distilled water and add 2 g of iodate free potassium iodide. Add 5 mL of\n1N sulphuric acid. Titrate the liberated iodine with thiosulphate solution with constant\nshaking. When the colour of the solution is pale yellow add 200 mL of distilled water\nand 2 mL of starch indicator. Continue the titration until the colour changes from blue\nto colourless.\n\nDissolve the given sample of phenol to 250 mL with distilled water. Take 25 mL of\nthe phenol solution into 250 mL stoppered conical flask. Add 25 mL of standard\npotassium bromate solution and 0.5 g of potassium bromide. Add 5 mL of 3M\nsulphuric acid. Stopper the flask immediately. Mix the reagents and let them stand\nfor 15 min (avoid exposure to light). Then, add 2.5 g of potassium iodide rapidly. Re-\nstopper the flask immediately and swirl the contents of the flask to dissolve the solid.\n\nTitrate the liberated iodine with standard 0.1M Na2S2O3 from the burette using starch\nindicator.\n\n   ¾ Calculate the amount of phenol per 250 mL of the solution.",
+   "parts": [
+    {
+     "id": "29.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 30,
+   "title": "Determination of amount of Fe (III) present in the given",
+   "weight": null,
+   "total": 10,
+   "statement": "sample\n\nFe (III) in the sample solution is first reduced to Fe (II) in HCl medium using stannous\nchloride. Excess of stannous chloride is oxidized by addition of mercury (II) chloride.\nThe Fe(II) is then titrated with standard potassium dichromate solution.\n\n Mumbai, India, July                                                                    47\n                                                                                       47\n\n•     Sample solution                 R : 36, 38              S : 26, 36\n\n•     0.1N K2Cr2O7 solution           R : 45, 36, 37, 38, 43 S : 53, 22, 28\n\n•     Equimolar H2SO4 &               R : 35                  S : 2, 26, 30\n\n       H3PO4 acid mixture             R : 34                  S : 26, 45\n\n•     Conc. HCl                       R : 34, 37              S : 26, 45\n\n•     5% HgCl2                        R : 26, 27, 28          S : 13, 28, 45\n\n•     3% SnCl2 solutions              R: 22, 36, 37, 38       S : 26, 36,\n\n•     Diphenylamine indicator.        R : 23, 24, 25, 33      S : 28, 36, 37, 45\n\nNote : NH4Fe(SO4)2.12H2O is used to prepare the sample solution\n\nPreparation of 0.1N K2Cr2O7 solution\n\nWeigh accurately 1.225 g of pure K2Cr2O7 and transfer it to a 250 mL volumetric\nflask. Prepare the solution using distilled water.\n\nProcedure:\n\nDilute the given Fe(III) sample solution to 100 mL using the standard volumetric\nflask. Take 10 mL of the diluted sample solution in a clean conical flask. Add 2 mL of\nconcentrated HCl and boil the solution. To the hot solution, add SnCl2 solution\ndropwise till the reaction mixture becomes colourless. Add 2 - 3 drops of SnCl2 in\nexcess.\n\nCool the solution under tap water. Add 2 to 3 mL of HgCl2 solution at once. A white\nprecipitate is obtained at this stage. (If grey precipitate is obtained, reject the sample\nand start again.)\n\nAdd 2 to 3 mL of the acid mixture and 1 drop of the diphenylamine indicator and\ntitrate it against K2Cr2O7 solution. Continue the titration until a colour change from\ncolourless to permanent blue or violet is observed.\n  48                                                                Mumbai, India, July 2001\n48\n\n ¾ Write down the appropriate chemical reactions .\n ¾ Calculate the amounts of Fe (III) and NH4Fe (SO4) 2 12H2O per 100 mL\n     of the sample solution.\n\nMumbai, India, July                                                                 49\n                                                                                   49\n\n  50                                                            Mumbai, India, July 2001\n50",
+   "parts": [
+    {
+     "id": "30.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,647 @@
+{
+ "setId": "chem-icho-2017--prep-task-rus",
+ "olympiadId": "chem-icho-2017",
+ "title": "Химия → IChO (международная) → 2017",
+ "materialLabel": "Подготовительные (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/chemistry/s/icho/2017/prep_task_rus.pdf",
+ "solutionFile": "olympiads/chemistry/s/icho/2017/prep_sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-08T16:59:28.067Z",
+ "quality": {
+  "tasks": 33,
+  "parts": 45,
+  "withPoints": 45,
+  "withReference": 45,
+  "withQuestion": 45,
+  "estimatedPoints": 45
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Димеризация уксусной кислоты",
+   "weight": null,
+   "total": 10,
+   "statement": "Этановая или уксусная кислота (CH3COOH) в газовой фазе частично димеризована.\nПри общем давлении 0.200 атм и температуре 298 К степень димеризации составляет 92.0\n%. При увеличении температуры до 318 K степень димеризации понижается, а константа\nсоответствующего равновесия при этой температуре равна Kp = 37.3.\n      1.1) Рассчитайте изменение энтальпии и изменение энтропии для процесса\nдимеризации, приняв, что величины ΔHo и ΔSo не зависят от температуры.\n      1.2) В соответствии с принципом Ле Шателье увеличение давления должно\nприводить к (укажите один верный ответ):\n\n      ⃝ увеличению степени димеризации;\n\n      ⃝ уменьшению степени димеризации.\n\n      1.3) Продолжение вопроса 1.2. Увеличение степени димеризации (выберите один\nверный ответ):\n\n      ⃝ уменьшается с увеличением температуры;\n\n      ⃝ увеличивается с увеличением температуры.",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "1.1) The reaction can be represented as 2CH3COOH ⇌ (CH3COOH)2.\nIf we begin with, say, 100.0 mol CH3COOH and 92.0% dimerizes, then 8.0 mol will be present\nat equilibrium. The 92.0 mol that react give rise to 46.0 mol dimers. The total number of moles\npresent is therefore 54.0. Hence using the data at 298 K, the equilibrium constant, Kp, is given by\n        P(CH COOH )           X (CH COOH ) Ptot\n              3         2            3          2         ( 46 .0 / 54 .0)(0.200 )\nKp                                                                               194\n                         2                          2                           2\n        ( PCH COOH )          ( X CH COOH Ptot )         [(8.0 / 54 .0)(0.200 ]\n              3                      3\nFrom equation G = -RT ln Kp,\n                  o\n\nAt 298 K,      Go = -RT ln Kp\n                    = -(8.314 J K-1mol-1)(298 K) ln (194)\n                    = -13.0 kJ mol-1\nAt 318 K,      Go = -RT ln Kp\n                    = -(8.314 J K-1mol-1)(318 K) ln (37.3)\n                    = -9.57 kJ mol-1\nApplying the equation Go = Ho-TSo:\nThe method for the calculation is to write the two equations\n               Go(298 K)= -13.0 kJ mol-1 = Ho- (298) So\n               Go(318 K)= -9.57 kJ mol-1 = Ho- (318) So\nand solve the equations simultaneously.\nThen Ho = -64.1 kJ mol-1 and So = -170 J K-1 mol-1.\n\n1.2) Applying the Le Chatelier’s principle, an increase of pressure should\n        favor the dimerization.\n       ⃝ not favor the dimerization.\n\n1.3) The extent of dimerization\n        decreases with increasing the temperature.\n       ⃝ increases with increasing the temperature.\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                   4",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Растворимость кальцита",
+   "weight": null,
+   "total": 10,
+   "statement": "Кальцит представляет собой устойчивую форму карбоната кальция (CaCO3).\nВеличина его произведения растворимости (Ksp) уменьшается с ростом температуры: при\nтемпературах 0 оС и 50 оС эта величина соответственно равна 9.50 × 10–9 и 2.30 × 10–9.\nОцените изменение энтальпии для процесса растворения кальцита.",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "According to Gosol = -RT ln Ksp = Hosol -TSosol,\nwe have ln Ksp = -Hosol/(RT) + Sosol/R.\nAssuming that Hosol and Sosol are temperature-independent,\nln (Ksp1/Ksp2) = -Hosol/R (1/T1-1/T2)\nln (9.50/2.30) = -Hosol/R (1/273 – 1/323)\nSolving this equation to get Hosol = -21 kJ mol-1.",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Расширение идеального газа и термодинамика смешивания жидкостей",
+   "weight": null,
+   "total": 10,
+   "statement": "3.1) При температуре 22,2 оС 0.10 моль идеального газа A расширяется от 0.200 дм3\nдо 2.42 дм3. Для этого процесса рассчитайте величины: работы (w), теплоты (q), изменения\nвнутренней энергии (U), изменение энтропии системы (Ssys), изменение энтропии среды\n(Ssurr) и изменение энтропии вселенной (Suniv), с учетом того, что этот процесс\nпроводится обратимо и изотермически против внешнего давления 1.00 атм.\n\n       3.2) Взяли 3.00 моль газа A и сконденсировали в жидкость. Эту жидкость смешали\nс 5.00 моль жидкости B при 25.0 C. Рассчитайте изменение энтропии и свободной\nэнергии Гиббса процесса смешения. Считайте, что смесь является идеальной.",
+   "parts": [
+    {
+     "id": "3.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "3.1) U = 0, q = -w\nw = -(1.00 atm)(2.42-0.200 dm3)(101.325 J dm-3 atm-1)\n  = -225 J\nq = 225 J\nSsurr = -225 J/295.4 K = -0.762 J K-1\nSsys =[(0.100 mol)(8.3145 J mol-1 K-1) (295.4 K) ln(2.42 dm3/0.200 dm3)]/(295.4 K) = 2.07 J K-1\nSuniv = 2.07 + (-0.762) = 1.31 J K-1\n\n3.2) Hmix = Vmix = 0\nThe other functions are given by these equations:\n     mix                             mix\nG          RT  xi ln xi and S            R  xi ln xi .\n                i                                i\nThe mole fraction of A is 3.00/(3.00+5.00) = 0.375.\nThe mole fraction of B is 1.000-0.375 = 0.625.\n                        -1\nG mix = (8.314 J mol        K-1)(298.0 K){0.375ln(0.375)+0.625ln(0.625)} = -1639 J mol-1\n                         -1\nS mix = -(8.314 J mol        K-1){0.375ln(0.375)+0.625ln(0.625)} = 5.50 J K-1 mol-1\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                5",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Частота колебания двухатомной молекулы",
+   "weight": null,
+   "total": 10,
+   "statement": "Подготовительные задания: 49 МХО, Таиланд, 2017                                       13\n\n      Модель гармонического осциллятора для колебания в двухатомной молекуле\nпредсказывает, что разрешенные уровни энергии описываются выражением:\n\n                            1\n                      E    h      ;   0, 1, 2, ...\n                            2\nгде υ – колебательное квантовое число, а ν – частота колебания. В свою очередь частота\nколебания гармонического осциллятора находится как\n\n                 1     k\n                         , где k – силовая постоянная, μ – приведенная масса.\n                 2    \n\n      Для молекулы CX, где X – некоторый атом, переход из основного в первое\nвозбужденное колебательное состояние происходит при поглощении излучения с\nволновым числом 2170,0 см–1 (силовая постоянная равна 1,903 × 103 кг с–2).\n      4.1) Рассчитайте приведенную массу CX в а.е.м.\n      4.2) Атомом какого элемента является X?",
+   "parts": [
+    {
+     "id": "4.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "4.1) To find the reduced mass of CX, μCX:\n          1\nE 0   0  h  1 h\n          2      2\n       1\nE1  1  h  3 h\n       2         2\n                3 1\nE  E1  E 2    h  h\n                2 2\n       1      1          k           1    k\nE  hc   h                 ; \n            2                    2    \n\n 1 1           k\nc  \n    2        \n                      2\n              1\nk  4 c   \n         2   2\n\n              \n           k\n                2\n             1\n    4 2 c 2  \n              \n                      1.903  10 3\n\n    4(3.14) 2 (2.9979  1010 cm  s 1 ) 2 2170.0 cm-1 \n                                                         2\n\nμ  1.140  10 -26 kg  6.866 amu\n  6.866 amu\n\n4.2) To find mass of the atom X, mx:\n\n       mC mX\nCX \n      mC  mX\n CX (mC  m X )  mC m X\n CX mC   CX m X  mC m X\nmC m X   CX m X   CX mC\n         CX mC\nmX \n        mC  CX\n       6.866  12.011 82.47 =16.03\nmX                  \n       12.011  6.866 5.145\nThus, atom X should be oxygen.\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017   6",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Реакция конверсии водяного газа",
+   "weight": null,
+   "total": 2,
+   "statement": "В стремлении к более экологичному производству энергии большие перспективы\nимеют топливные элементы из-за способности генерировать электричество\nнепосредственно в химических реакциях, производя экологически безопасные побочные\nпродукты. В частности, для водородного топливного элемента единственным \"отходом\"\nявляется вода.\n\n       Чтобы использовать топливный элемент в промышленных масштабах, требуется\nнепрерывное производство водорода, подаваемого в блок топливных элементов. Одним из\nвариантов массового производства водорода для этой цели является конверсия\nуглеводородного топлива водяным паром. Однако такой процесс часто приводит к смеси\nпродуктов из H2, CO2 и CO. При этом CO не только токсичен для человека, но еще и\n\"отравляет\" электроды топливного элемента. Обратимая реакция конверсии водяного газа\n(WGS), CO + H2O  CO2 + H2, является одним из методов превращения нежелательного\nCO в CO2 и полезный H2. Эффективность этой реакции сильно зависит от используемого\nтвердого катализатора.\n\n      5.1) В одной из схем в реактор WGS с катализатором непрерывно поступает\nэквимолярная смесь CO и водяного пара при 0 °C и атмосферном давлении. Принимая,\nчто эффективность превращения реагентов в продукты на данном катализаторе равна\n95,0% и что в нем практически достигается равновесие, рассчитайте изменение свободной\nэнергии в данной реакции.\n       5.2) Предположим, что в опыте поверхность катализатора доступна молекулам\nреагентов и скорость измерялась в начальный момент времени. В таблице приведены\nПодготовительные задания: 49 МХО, Таиланд, 2017                                    14\n\nзначения начальных скоростей, полученные при различных начальных давлениях CO и\nH2O.\n\n                                                          dPH 2\n                Опыт       PCO , атм       PH 2O , атм\n                                                                  dt , атм с\n                                                                             -1\n\n                  1          0,10            0,90            4,0 × 10-4\n\n                  2          0,15            0,85            5,6 × 10-4\n\n                  3          0,25            0,75            8,2 × 10-4\n\n                  4          0,28            0,72                  X\n\n      Заполните пропуск X в таблице.\n\n                                                                    dPH 2          –7\n      5.3) В других условиях при давлении водорода 0,50 атм,           dt = 3,0 × 10 атм\nс–1. Пользуясь данными, приведенными в 5.1, 5.2 и настоящем вопросе, оцените скорость\nпроизводства водорода, когда давления CO, H2O, CO2 и H2 в реакторе соответственно\nравны 0,14, 0,14, 0,36 и 0,36 атм. (Дайте ответ с тремя значащими цифрами.)\n      5.4) Рассчитайте изменение энергии Гиббса реакции в условиях, описанных в 5.3.\n\n        5.5) Для реакций на поверхности степень ее заполнения, θ, является важным\nкинетическим параметром. Эта величина определяется как отношение числа занятых\nмолекулами центров адсорбции к их общему числу. Для реакции WGS после адсорбции\nCO и H2O на поверхности катализатора образуется карбонильный интермедиат, который\nзатем диссоциирует, давая связанный CO2 и атом H. Если СО2 образуется со скоростью\n1,0 × 1011 молекул с–1 cм–2 при величине константы 2,0 × 1012 молекул с–1 cм-2, чему равно\nзначение θ для данного интермедиата?",
+   "parts": [
+    {
+     "id": "5.1",
+     "points": 2,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "nH 2                   0.475\n5.1) The mole fraction of H2 in the reactor, X H 2 =                                              = 0.475.\n                                                           n H 2  nCO2  n H 2O  nCO        1 .0\nThus, PH 2  X H 2 Ptotal = (0.475)(1.00 atm) = 0.475 atm.\nAnd likewise, PCO2 = 0.475 atm and PH 2O = PCO = 0.025 atm\n      PH 2 PCO2       (0.475 )(0.475 )\nK                                    = 3.6 × 102\n      PH 2O PCO       (0.025 )(0.025 )\nTherefore, Go = -RT ln K = -(8.314 J K-1 mol-1)(273 K) ln(3.6 × 102) = -13.4 kJ mol-1.\n\n5.2) The kinetics data given reflects the forward rate of the WGS reaction. The only rate law that\nis consistent with the given data is r f  k f PCO PH 2O , and kf = 4.4 × 10-3 atm-1 s-1.\n\nThus, X = (4.4 × 10-3 atm-1 s-1)(0.28 atm)(0.72 atm) = 8.9 × 10-4 atm s-1.\n\n5.3) kb = kf /K = (4.4 × 10-3 atm-1 s-1)/(3.6 × 102) = 1.2 × 10-5 atm-1 s-1.\nSo during the normal course of the reaction,\nr  r f  rb  k f PCO PH 2O  k b PCO2 PH 2 = (4.4 × 10-3 atm-1 s-1)(0.14 atm)(0.14 atm)–(1.2 × 10-5 atm-1 s-1)\n(0.36 atm)(0.36 atm) = 8.44 × 10-5 atm s-1.\n\n                                                                            (0.36 )(0.36 ) \n5.4) G = Go + RT ln Q = (-13.4 kJ mol-1) + (8.314 J mol-1 K-1)(273 K) ln                  = -9.1\n                                                                             (0.14 )(0.14 ) \nkJ mol-1\n\n5.5) The reaction CO2H(ads) → CO2(ads) + H(ads) is first-order, whose rate can be expressed as\nrate = k[CO2H] = k  S0 = k′  , where S0 denotes the maximum number of adsorbed intermediates\nfor this surface.\nThus, θ= rate/k′ = (1.0 × 1011 molecules s-1 cm-2)/(2.0 × 1012 molecules s-1 cm-2) = 0.050.\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                               7",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Раствор камфоры в бензоле",
+   "weight": null,
+   "total": 10,
+   "statement": "Давление паров бензола (C6H6) равно 100 торр при 26.1 oC. Рассчитайте давление\nпаров и температуру замерзания раствора, содержащего 24.6 г камфоры (C10H16O) в 100\nсм3 бензола. Плотность бензола равна 0.877 г см–3. Температура замерзания и\nкриоскопическая константа (Kf) чистого бензола соответственно равны 5.50 oC и 5.12 oC кг\nмоль–1.",
+   "parts": [
+    {
+     "id": "6.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "Xben = nben/(nben + ncam)\nnben = (100 cm3)(0.877 g cm-3)(1 mol/78.1 g) = 1.12 mol\nncam = (24.6 g)(1 mol/152.2 g) = 0.162 mol\nXben = (1.12 mol)/(1.12 mol + 0.162 mol) = 0.874\nPben = (Xben)(Poben ) = (0.874)(100 torr) = 87.4 torr\n\nmassben = (100 cm3)(0.877 g cm-3)(1 kg/1000 g) = 0.0877 kg\n\nmolality of camphor in solution = 0.162 mol camphor/0.0877 kg benzene = 1.85 mol kg-1\nΔT = Kf m = (5.12 oC kg mol-1)(1.85 mol kg-1) = 9.46 oC\nSince pure benzene freezes at 5.50 oC, the solution will freeze at -3.96 oC.",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Газ и жидкость",
+   "weight": null,
+   "total": 10,
+   "statement": "7.1) При температуре выше точки кипения A ведет себя как идеальный газ. В\nнекоторой гипотетической ситуации Жак Шарль провел эксперимент по изучению\nзависимости объема от температуры и получил следующий результат (масштаб может\nбыть не соблюден):\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                        15\n\n      Чему равен объем A при 100 oC?\n\n       7.2) В состоянии равновесия давление паров над чистыми жидкостями B и C равно\n100.1 кПа и 60.4 кПа соответственно. Жидкости B и C были тщательно смешаны при 298\nK. Чему равно давление паров над смесью, содержащей 3 моль B и 4 моль C?\n      7.3) Чему равна мольная доля B и C над смесью из пункта 7.2?",
+   "parts": [
+    {
+     "id": "7.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "7.1) According to the graph, the volume becomes zero at T = -100 oC. This means that the absolute\ntemperature should be calculated as T (K) = oC + 100 (not T (K) = oC + 273.15).\n\nIf V1 = 15 cm3, T1 = -50 oC + 100 = 50 K, and T2 = 100 oC + 100 = 200 K, then we have\n(15 cm3/50 K) = (V2/200 K).\nTherefore, V2 = (15 cm3)(200 K)/(50 K) = 60 cm3.\n7.2) From Dalton’s law, the total vapor pressure is the sum of the individual vapor pressures:\n                Ptotal = PB + PC                                           (1)\n\nUsing the Raoult’s law, the total pressure may be obtained by substituting each P term with\nPi  Xi, where Pi is vapor pressure above pure liquid i and Xi is mole fraction of liquid i:\n                            o            o\n                Ptotal = ( PB  XB) + ( PC  XC)                           (2)\n\nWe know from the question that there are 7 mol of liquid. We obtain the respective mole fractions\nX: the mole fraction of B is 3/7 and the mole fraction of C is 4/7.\nSubstituting values of Xi and Pi into equation (2) yields the total pressure Ptotal as follows\n\n                Ptotal    = (100.1 kPa  3/7) + (60.4 kPa  4/7)\n                          = (42.9 kPa) + (34.5 kPa)\n                So Ptotal = 77.4 kPa\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                  8\n\n7.3) From the definition of mole fraction X, we say\n\n                                        moles of B in the vapor\n                 X vapor B \n                               total number of moles in the vapor phase\n\nThe number of moles ni are directly proportional to the partial pressure Pi if we assume that each\nvapor behaves as an ideal gas (we assume here that T and V are constant). Accordingly, we say\n                           pressure of B\n               X vapor B \n                           total pressure\nSubstituting numbers from question 7.2:\n                               42.9 kPa\n                 X vapor B              0.554\n                               77.4 kPa\nThe mole fraction of B in the vapor is 0.554, so it contains 55.4% B. The remainder of the vapor\nmust be C, so the vapor also contains (100-55.4)% = 44.6% of C.\nNote that the liquid phase comprises 43% B and 57% C, but the vapor contains proportionately\nmore of the volatile B. We should expect the vapor to be richer in the more volatile component.",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Разложение оксида азота(I)",
+   "weight": null,
+   "total": 10,
+   "statement": "Оксид азота(I) разлагается экзотермически на азот и кислород при температуре\nпримерно 565 °C.\n       2N2O  2N2(г) + O2(г)\nЭта реакция имеет кинетику второго порядка, если протекает полностью в газовой фазе.\n       8.1) Если начальная концентрация [N2O] равна 0.108 моль дм–3, то какой она будет\nпри 565 оС через 1250 с? Константа скорости для процесса второго порядка разложения\nN2O равна 1.10 × 10–3 дм3 моль–1 c–1 при этой температуре.\n       8.2) Энергия активации для реакции разложения второго порядка при 565 °C равна\n234 кДж моль–1. Чему равна константа скорости этой реакции при 600 oC?",
+   "parts": [
+    {
+     "id": "8.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "8.1) Because the reaction is second order, therefore\n                   1              1\n                         -                  = (1.10 × 10-3 dm3 mol-1 s-1) (1250 s)\n               [ N 2 O] t 0.108 mol dm   -3\n\n               [N2O]t = 0.0940 mol dm-3\n8.2) Using Arrhenius equation,\n                                   k2                     234  10 3 J mol -1    1     1 \n                ln                                   =-                             -      \n                     1.10  10 -3 dm 3 mol -1 s -1        8.314 J K -1 mol -1  873 K 838 K \n\n                               k2 = 4.23 × 10-3 dm3 mol-1 s-1\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                  9",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Число Авогадро",
+   "weight": null,
+   "total": 10,
+   "statement": "Общепринятая процедура определения числа Авогадро сводится к следующему.\n      Исходим из того, что у нас имеется \"идеальная\" сфера, состоящая из чистого\nизотопа 28Si. Масса этой сферы равна W г. Объем сферы V рассчитывается из величины\nточно измеренного диаметра сферы. Кристаллический кремний имеет алмазоподобную\nструктуру. Его элементарная ячейка представляет собой гранецентрированную структуру,\nвключающую дополнительно четыре атома кремния внутри куба. Длина ребра ячейки\nможет быть очень точно определена из рентгенографических данных для монокристалла,\nсостоящего из изотопа 28Si.\n      Имеются следующие экспериментальные данные:\n      Масса сферы, W, 1000.064543(15) г;\n      Объем сферы: V, 431.049110(10) см3;\nПодготовительные задания: 49 МХО, Таиланд, 2017                                     16\n\n      Длина ребра элементарной ячейки, α, 543.099619(20) пм;\n      Молярная масса 28Si, A, 27.976970029(23) г моль–1;\n      Число атомов Si на 1 элементарную ячейку, n.\n\n      9.1) Запишите выражение для расчета числа Авогадро NA с помощью\nперечисленных выше величин.\n      9.2) Какое число атомов кремния приходится на одну элементарную ячейку?\n\n       9.3) Рассчитайте число Авогадро, используя приведенные выше данные. Ответ\nдайте с 7 значащими цифрами.",
+   "parts": [
+    {
+     "id": "9.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "9.1)    Let v = α3, the volume of the unit cell\n        The number of unit cell in volume V of the silicon sphere = (V/v)\n        If n is the number of silicon atoms in the unit cell, the number of silicon atoms in silicon\n        sphere = n(V/v)\n        The number of moles of Si in the sphere = (W/A)\n        The number of silicon atoms in sphere = moles x NA.\n        i.e.             (W/A).NA = n(V/v)\n                         NA = n(V/v).(A/W)\n\n9.2) For a face-centered unit cell, the number of atoms at the 8 corners of cell = 8; the number\nat the 6 faces = 6. Each corner has (1/8) of atom in unit cell and each face has (1/2) of atom. Thus\ntotal number of Si atoms in unit cell = 8x(1/8) + 6x(1/2) + 4 = 1 + 3 + 4 = 8.\n        n = 8\n\n9.3)    The volume v of the unit cell must be in unit of cm3.\n        1 pm = 10-12 m = 10-10 cm\n        NA = 6.022 141 x 1023",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Буферные растворы с биологической кислотой: лизин",
+   "weight": null,
+   "total": 10,
+   "statement": "В таблице приведены константы кислотной диссоциации.\n      10.1)\n\n                         Карбоксильная\n       Название                              Аминогруппа pKa    Заместитель pKa\n                           группа pKa\n         Лизин                2.16                   9.06            10.54\n\n       Одна из незаменимых аминокислот, лизин, обычно изображается с помощью\nмолекулярной структурной формулы, приведенной ниже. Отметим, что аминогруппа\nслева, является частью группы-заместителя. Насколько вероятно, что лизин существует в\nтакой форме в нейтральном водном растворе? Если нет, то приведите его корректную\nформу.\n\n      10.2) Изобразите молекулярные структурные формулы для доминантных форм\nлизина, которые присутствуют в водном растворе и расположите их в порядке от наиболее\nкислотной формы к наиболее основной. Используйте Na+ или Cl– для уравнивания заряда.\nПриведите название каждой структуры.\n\n       10.3) Для приготовления буферного раствора у вас имеется 100 см3 раствора\nнаиболее кислотной формы лизина с концентрацией 0.100 моль дм–3. Какой объем (в см3)\n0.500 М раствора KOH следует добавить, для получения раствора с pH = 9.5?\n\n      10.4) Растворили 5.00 г нейтральной цвиттерионной формы лизина в 100.0 см3\nчистой воды. Рассчитайте рН раствора после достижения состояния равновесия.\n       10.5) Рассчитайте равновесную концентрацию всех форм лизина, присутствующих\nв растворе из вопроса 10.4.\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                   17",
+   "parts": [
+    {
+     "id": "10.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "Acid Dissociation Constants\n10.1)\n\n        No, the correct form is shown:\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                    10\n\n10.2)\n\n10.3) Given that         H3L2+ : the most acidic form\n                         H2L+ : the first intermediate form\n                         HL : the second intermediate form\n                         L-: the most basic form\n        CH3 L2+ = [H3L2+] + [H2L+] + [HL] + [L-] = 0.1 mol dm-3\n\n        total mol of H3L2+ = (0.100 mol dm-3)(0.1 dm3) = 0.01 mol\n\n        total mol of H3L2+ = (mol H3L2+) + (mol H2L+) + (mol HL) + (mol L-) = 0.01 mol\n\n        At pH = 9.5, [H+] = 10-9.5 mol dm-3\n\n        At pH = 9.5, the equilibrium moles of all forms can be calculated as follow;\n                                                      [𝐻 + ]3\n        mol H3L2+ = total molH3 L2+ ([𝐻+]3 +𝐾 [𝐻+ ]2 +𝐾 𝐾 [𝐻 +]+𝐾 𝐾 𝐾 ) = 1.14 × 10−8 mol (negligible)\n                                               1          1 2        1 2 3\n\n                                                   𝐾 [𝐻 + ]2\n        mol H2L+ = total molH3 L2+ ([𝐻+]3 +𝐾 [𝐻+]21+𝐾 𝐾 [𝐻 +]+𝐾 𝐾 𝐾 ) = 2.497 x 10-3 mol\n                                              1          1 2        1 2 3\n\n                                                   𝐾1 𝐾2 [𝐻 + ]\n        mol HL = total molH3 L2+ (                                            ) = 6.88 x 10-3 mol\n                                   [𝐻 + ]3 +𝐾1 [𝐻 + ]2 +𝐾1 𝐾2 [𝐻 + ]+𝐾1 𝐾2 𝐾3\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                          11\n\n                                                         𝐾 𝐾 𝐾\n        mol L- = total molH3 L2+ ([𝐻+]3 +𝐾 [𝐻+ ]2 1+𝐾2 𝐾3 [𝐻 +]+𝐾 𝐾 𝐾 ) = 6.27 x 10-4 mol\n                                                   1         1 2         1 2 3\n\nTitration reaction to convert H3L2+ to the desired forms;\n\n        H3L2+ + OH-  H2O + H2L+\n\n        H2L+ + OH-  H2O + HL\n\n        HL + OH-  H2O + L-\n\n        mol of KOH required = (2.497 x 10-3) + 2(6.88 x 10-3) + 3(6.27 x 10-4)\n\n                                           = 1.814 x 10-2 mol\n                                              1000 cm3\n        cm3 of KOH required = = ( 0.5 𝑚𝑜𝑙 )(1.813 x 10−2 𝑚𝑜𝑙) = 36.28 cm3\n\n10.4) In this case, Ka1 is carboxylic acid Ka, Ka2 is ammonium Ka, and Ka3 is substituent Ka.\n        HL is the second intermediate form\n                   𝐾 𝐾 [𝐻𝐿]+𝐾𝑎2 𝐾𝑤\n        [H+] = √ 𝑎2 𝑎3\n                      𝐾𝑎2 +[𝐻𝐿]\n\n        Since Ka2 and Ka3 are small;\n                              1 𝑚𝑜𝑙\n                 (5.00 𝑔)(            )\n                             146.19 𝑔\n        [HL] =        0.100 dm3\n                                          = 0.342 mol dm-3\n\n                  [10−9.06 10−10.54 (0.342)]+[10−9.06 10−14 )\n        [H+] = √               10−9.06 +0.342\n                                                              = 1.59𝑥10−10 mol dm-3\n\n        pH = 9.80\n\n        The alternative calculation is pH = (pKa2 + pKa3)/ 2 = (9.06 + 10.54)/2 = 9.80.\n\n10.5) 𝐻𝐿         𝐿− + 𝐻 +                                    Ka3 = 10-10.54\n                                                                   𝐾       10−14\n        𝐻𝐿 + 𝐻2 𝑂              𝐻2 𝐿+ + 𝑂𝐻 −                  Kb2 = 𝐾𝑊 = 10−9.06 = 1.15 × 10−5\n                                                                    𝑎2\n\n        From question 10.4; [H+] = 1.59𝑥10−10 mol dm-3\n                  𝐾             10−14\n        [OH-] = [𝐻𝑊+ ] = 1.59𝑥10−10 = 6.29 × 10−5 mol dm-3\n\n        At equilibrium;\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                 12\n\n                                                           𝐾 𝐾 [𝐻 + ]\n        [HL]                        = 𝐶𝐻𝐿 ([𝐻+]3 +𝐾 [𝐻+]21+𝐾\n                                                           2\n                                                             𝐾 [𝐻 + ]+𝐾 𝐾 𝐾\n                                                                            )\n                                                       1         1 2     1 2 3\n\n                                    Where; CHL=0.342 M\n        [HL] = 0.250 M\n                             [𝐿− ][𝐻 + ]\n        Ka3 =                  [𝐻𝐿]\n\n                                        𝐾𝑎3 [𝐻𝐿]   10−10.54 (0.250)\n         [L-] =                         [𝐻 ]+   =   1.59𝑥10−10\n                                                                    = 0.0453 mol dm-3\n\n                             [𝐻2 𝐿+ ][𝑂𝐻 − ]\n        Kb2 =                     [𝐻𝐿]\n\n                                            𝐾   [𝐻𝐿]   1.15×10−5 (0.25)\n         [H2L+] = [𝑂𝐻\n                    𝑏2\n                       −] =                               6.29𝑥10−5\n                                                                        = 0.0457 mol dm-3\n\n                                                                                 𝐾𝑊    10−14\n        𝐻2 𝐿+ + 𝐻2 𝑂                               𝐻3 𝐿2+ + 𝑂𝐻 −         Kb3 =       = −2.16 = 1.45 × 10−12\n                                                                                 𝐾𝑎1  10\n\n                             [𝐻3 𝐿2+ ][𝑂𝐻 − ]\n        Kb3 =\n                                 [𝐻2 𝐿 + ]\n\n                                            𝐾𝑏3 [𝐻2 𝐿+ ]   1.45×10−12 (0.0457)\n         [H3L2+] =                               −      =                     = 1.05 × 10−9 mol dm-3\n                                              [𝑂𝐻 ]            6.29𝑥10−5",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Амперометрическое титрование: титрование Pb2+ с помощью Cr2O72–",
+   "weight": null,
+   "total": 10,
+   "statement": "Амперометрия представляет собой один из чувствительных электрохимических\nметодов анализа, используемый для количественного определения электрохимически\nактивных частиц. Рабочий электрод поддерживается при некотором постоянном\nпотенциале (по отношению с электроду сравнения), который необходим для окисления\nили восстановления анализируемого вещества (аналита). На поверхности рабочего\nэлектрода происходит окисление или восстановление аналита и при этом измеряется ток,\nпротекающий через этот электрод. Величина этого тока прямо пропорциональна\nконцентрации аналита, позволяет проводить количественное определение и может быть\nиспользована для определения конечной точки титрования. В данной задаче\nамперометрия использована для наблюдения за ходом титрования образца раствора\nобъемом 20 см3, содержащего ионы свинца(II), раствором дихромат калия с\nконцентрацией 0.0020 моль дм–3. Ртутный капающий электрод (DME) был использован в\nкачестве рабочего электрода и его потенциал поддерживался на уровне –0.8 В (по\nотношению к насыщенному каломельному электроду, SCE) для обеспечения\nвосстановления ионов свинца(II), а в качестве фонового электролита использовался нитрат\nкалия. Зависимость тока от величины добавленного объема титранта представлена в\nтаблице 1.\nЛитература:\nVogel’s Textbook of Quantitative Chemical Analysis, 5th edition, John Wiley & Sons,\nNew York, pp630.\nТаблица 1. Результаты титрования\n\n                    Объем добавленного\n                     0.0020 М раствора          Ток (микроампер)\n                      дихромата (см3)\n                            0.00                       9.8\n                            2.00                       8.0\n                            4.00                       6.0\n                            6.00                       4.0\n                            8.00                       2.2\n                           10.00                       3.5\n                           12.00                       5.5\n                           14.00                       7.6\n                           16.00                       9.5\n\n       11.1) Постройте кривую титрования и определите конечную точку титрования (это\nточка, в которой происходит изменение наклона кривой титрования).\n      11.2) Запишите уравнение реакции, протекающей при титровании.\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                     18\n\n        11.3) Рассчитайте концентрацию ионов свинца(II).",
+   "parts": [
+    {
+     "id": "11.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "11.1) By extrapolating the two straight lines, the titration end-point is located.\n\n                                   12\n            Current, microampere\n\n                                   10\n\n                                    8\n\n                                    6\n\n                                    4\n\n                                    2\n\n                                    0\n                                        0        5       10         15   20\n                                                  Volume titrant, mL\n\n11.2) Pb2+(aq) + Cr2O72-(aq)                                    PbCr2O7(s)\n\n11.3) mol Pb = mol dichromate\n        0.0020 mol dm-3 x 8.0 cm3 = 20.0 cm3 x Clead\n        Therefore, [lead] = 0.0020 x 8.0 / 20.0 = 8.0x10-4 mol dm-3\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                               13",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Кондуктометрическое титрование",
+   "weight": null,
+   "total": 10,
+   "statement": "Измерение электропроводности является электрохимическим методом, в рамках\nкоторого переменный ток подается к двум идентичным электродам. Приложенный\nпеременный ток заставляет ионы двигаться в растворе, а изменение полярности\nнапряжения позволяет избежать электролитических реакций на электродах. В результате\nподвижность ионов в растворе оказывается связанной с электрической проводимостью.\nУдельная электропроводность измерялась при кислотно-основном титровании 25,00 см3\nHCl с помощью 0,100 моль дм-3 NaOH по мере добавления титранта. Установка для\nкондуктометрического титрования показана на рис. 1. Стандартный раствор NaOH\nподавался в сосуд для титрования со скоростью 3 капли в секунду, а значение\nэлектропроводности регистрировалось кондуктометром. Полученные результаты\nзависимости электропроводности раствора от времени титрования показаны на рис. 2.\n\n                                                                                       HCl vs NaOH\n                                                                 4000\n\n    NaOH\n                                                                 3000\n                                           Conductivity, uS/cm\n\n                      Conductometer\n\n                                                                 2000\n\n                         Recorder                                1000\n\n  HCl                 Conductivity probe                            0\n                                                                        0   50   100   150       200       250   300   350   400\n           Magnetic                                                                     Titration time, second\n            stirrer\n\nРис 1. Установка для кондуктометрии.                               Рис 2. Зависимость удельной\n                                                                   электропроводности раствора (изначально\n                                                                   25,00 см3 HCl) от времени опыта.\n\n      12.1) Поясните, почему наклон ветвей кривой титрования до и после излома на\nграфике различен.\n\n       12.2) Рассчитайте концентрацию HCl в растворе, если объем капли раствора NaOH\nравен 0,029 см3, а точка излома достигнута через 108 с.",
+   "parts": [
+    {
+     "id": "12.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "12.1) The conductivity value before turning point comes from the mobility of H + and Cl- from\nHCl. After NaOH was added to the titration vessel, the H+ reacted with OH- and the solution\nconductivity due to H+ decreases. After the turning point, NaOH becomes excess in solution. The\nconductivity value increases with amount of added NaOH. The ion mobility of H+ is higher than\nthat of OH-, hence the slope of titration curve before and after turning point is different.\n12.2) From titration curve, the turning point is the end point, and is at 108 seconds.\n        Flow rate of NaOH = 3 drops / sec.\n        Therefore, the volume of NaOH is 108 x 3 = 324 drops =          324 x 0.029 cm3 = 9.39 cm3\n        The concentration of HCl = 9.39 x 0.100/ 25 = 0.037 mol dm-3.",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Титрование меди и цинка, входящих в состав сплавов",
+   "weight": null,
+   "total": 10,
+   "statement": "Сплав, в состав которого входят преимущественно Cu и Zn, был проанализирован\nдля количественного определения этих металлов в нем. Навеску сплава массой 2.300 г\nпоместили в 250 см3 колбу Эрленмейера. В эту колбу добавили 5.00 см3 смеси кислот\n(концентрированных азотной и соляной) для растворения сплава. Полученный раствор\nбыл количественно перенесен в мерную колбу на 250 см3 и разбавлен деионизированной\nводой до метки.\nПодготовительные задания: 49 МХО, Таиланд, 2017                                                                              19\n\n      Аликвота объемов 25.00 см3 анализируемого раствора была доведена до pH 5.5 и\nоттитрована 0.100 моль дм–3 раствором ЭДТА с использованием 1-(2-пиридилазо)-2-\nнафтол (или PAN) в качестве индикатора. Индикатор изменил окраску после того, как\nбыло добавлено 33.40 см3 0.100 М раствора ЭДТА к анализируемому раствору.\n\n      Другая аликвота объемом 25.00 см3 анализируемого раствора была доведена до\nнейтрального pH и к ней добавили избыток KI. Полученная смесь была профильтрована и\nполученный фильтрат был оттитрован 0.100 М раствором тиосульфата натрия с\nиспользованием крахмала в качестве индикатора. Для достижения конечной точки\nтитрования потребовалось 29.35 см3 раствора тиосульфата натрия. Величина ПР(CuI) = 1.1 x\n10–12\n\n      13.1) Запишите уравнение реакции(ий) растворения сплава в смеси азотной и\nсоляной кислот.\n      13.2) Рассчитайте массовую долю (в %) Cu и Zn в сплаве.",
+   "parts": [
+    {
+     "id": "13.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "13.1) Cu(s) + 4HNO3(aq)          Cu2+ + 2NO3-(aq) + 2NO2(g) + 2H2O(l)\n        Zn + 2HCl         Zn2+ + H2(g) + 2Cl-\n\n13.2) Total metal by EDTA titration = mol EDTA used = 33.4 x 0.1/1000 = 3.34x10-3 mol\n        Mol Cu by redox titration\n        2Cu2+ + 4I-       CuI(s) + I2\n        I2 + 2S2O32-       2I- + S4O62-\n        mol Cu = mol thiosulfate used = 29.35x0.1/1000 = 2.935x10-3 mol\n        grams Cu = 2.935x10-3 mol x 63.5 = 0.1864 grams in 25.00 mL aliquot\n        Therefore, a 250 cm3 sample solution will contain = 0.1864 x250/25 = 1.864 gram\n        Thus %w/w Cu = 1.864/2.300 x 100 = 81.0 %\n        mol Zn = total metal – Cu = 3.34x10-3 – 2.935x10-3 = 4.05x10-4 mol\n        grams Zn = 4.05x10-4 mol x 65.4 = 2.649x10-2 grams in 25.00 aliquot\n        Therefore, 250 cm3 sample solution will contain = 2.649x10-2 x250/25 = 0.2649 gram\n        Thus %w/w Zn = 0.2649/2.300 x 100 = 11.5 %\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                  14",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Спектрофотометрическое определение железа",
+   "weight": null,
+   "total": 10,
+   "statement": "Для изучения in vitro процесса растворения железа из препаратов в желудке можно\nиспользовать следующую методику. Сухую и гомогенизированную навеску препарата\nмассой 0.4215 г смешивают с 10 см3 воды, pH которой доведен до 2.0 с помощью 6 М HCl,\n0.375 см3 раствора пепсина (массовая доля 16 %) и доводят объем смеси до 12.50 см3 с\nпомощью 0.01 М раствора HCl. Эту смесь количественно переносят в диализный мешок\nфиксированного объема, который на 2 часа погружают в 0,01 М раствор HCl объемом\n20.00 см3. Диализ проводят до тех пор, пока концентрация железа не станет равной внутри\nи вне диализного мешка.\n\n                                                                     0.01 mol dm-3 HCl of 20.00 cm3\n\n                                                      Magnetic stirrer\n\n                         Dialysis bag\n\n                         Dried sample of 0.4215 g, mixed with 10 cm3 of water, adjusted\n                         to pH 2.0 with 6 mol dm-3 HCl, added with 0.375 cm3 of pepsin\n                         solution, and adjusted to 12.50 cm3 using with 0.01 mol dm-3 HCl\n\n      Для количественного определения высвободившегося из препарата железа\nпроводят его колориметрическое определение после образования комплекса между\nионами железа (M) и лигандами (L) в среде с pH 5.0. Образующийся ML3 комплекс имеет\nсильное поглощение при 520 нм, тогда как M и L свет с этой длиной волны не поглощают.\nПодготовительные задания: 49 МХО, Таиланд, 2017                                                       20\n\nВ видимой области ионы железа (M) свет не поглощают, комплекс состава ML поглощает\nпри X нм (при этом молярный коэффициент экстинкции равен 50 л моль–1 см–1), комплекс\nсостава ML2 поглощает при Y нм (при этом молярный коэффициент экстинкции равен 200\nл моль–1 см–1).\n\n       14.1) Константы образования комплексов на каждой стадии равны соответственно\nK1, K2 и K3.\n\n             (i) Равновесное поглощение раствора (в 1.0 см кювете) при X нм равно\n0.400. Этот раствор также содержит 1 x 10–5 моль дм3 M и 2 x 10–6 моль дм–3 L.\nРассчитайте первую константу образования комплекса ML (K1).\n\n             (ii) Затем к раствору добавили дополнительное количество L. Равновесное\nпоглощение полученного раствора (в 1.0 см кювете) при Y нм составило 0.400. Этот\nраствор также содержит 2 x 10–6 моль дм–3 ML и 2 x 10–4 моль дм–3 L. Рассчитайте вторую\nконстанту образования комплекса ML2 (K2).\n             (iii) При избытке L все железо присутствует в виде ML3.\n      Рассмотрим следующую таблицу:\n\n                                                 Поглощение при 520 нм\n         [M], моль дм–3   [L], моль дм–3\n                                                оптический путь (b) = 1 см\n           6.25 x 10–5      2.20 x 10–2                    0.750\n           3.25 x 10–5      9.25 x 10–5                    0.360\n\n             a) Рассчитайте молярный коэффициент экстинкции (Ɛ) для комплекса ML3.\n\n             b) Рассчитайте общую константу образования (Kf) комплекса ML3.\n             c) Рассчитайте третью константу образования (K3) комплекса.\n\n      14.2) Элементарный анализ показал, что комплексообразующий агент (L) содержит\n80 % C, 4.44 % H и 15.56 % N. Молярная масса этого соединения равна 180 г/моль.\nОпределите молярную формулу L.\n\n      14.3) Комплексы Fe2+ состава ML, ML2 и ML3 имеют октаэдрическую структуру\n(будем предполагать идеальный октаэдр для каждого изомера этих трех комплексов).\nИзобразите диаграмму расщепление d-орбиталей для комплекса ML3. Изобразите все\nвозможные изомеры комплексов Fe2+. Оцените порядок величины o (параметра\nрасщепления) этих трех комплексов и поясните свой ответ.\n\n      (Спектрохимический ряд лигандов: I-< Br-<Cl-≈ SCN-< F- ≈ мочевина < ONO-≈ OH-<\nH2O < NCS-< пиридин ≈ NH3< этилендиамин < бипиридин <o-phen < NO2-< CN-≈ CO)\n      14.4) Для определения концентрации высвободившегося железа (железо вне\nдиализного мешка), аликвоту 5.00 см3 раствора вне диализного мешка смешали с\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                     21\n\nвосстановителем для полного восстановления всего железа в растворе до ионов железа(II).\nЗатем раствор довели до требуемого рН, добавили избыток комплексообразователя (L) и\nдовели объем деионизированной водой до 50.00 см3 в мерной колбе. Поглощение при 520\nнм составило 0.550. Рассчитайте концентрацию высвободившегося железа (в мг дм–3).\n\n      14.5) Предположив, что полученное количество соответствует всему железу,\nизвлекаемому из препарата, рассчитайте массу железа (в мг) в препарате массой 1.0000 г.",
+   "parts": [
+    {
+     "id": "14.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "14.1)\n         a)      At CL = 2.20 x 10-2 mol dm-3, [ML3] = 6.25 x 10-5\n                 A = ƐbC, therefore Ɛ = A/bC = 0.750/6.25 x 10-5 = 12,000 L mol-1 cm-1\n         b)      M + 3L         ML3\n                 Kf      = [ML3] / [M] [L]3                              (1)\n                 at CL = 9.25 x 10-5 M, [ML3] = 0.360 / 12000\n                 [ML3] = 3.0x 10-5 mol dm-3               (2)\n        therefore,       [M]     = (3.25 x 10-5) – (3.0x 10-5)\n                         [M]     = 0.25 x 10-5 mol dm-3                  (3)\n                         [L]     = (9.25 x 10-5) – 3 x (3.0x 10-5)\n                         [L]     = 0.25 x 10-5 mol dm-3                  (4)\n        Hence            Kf      = (3.0x 10-5) / (0.25 x 10-5) (0.25 x 10-5)3\n                         Kf      = 7.68 x 1017 dm3 mol-3\n\n14.2) mole of C : mole of H : mole of N           =       80/12 : 4.44/1 : 15.56/14\n                                                  =       6.67 : 4.44 : 1.11\n                                                  =       6:4:1\n        therefore, the empirical formula of L is C6H4N\n        The empirical molar mass = (6 x 12) + (4 x 1) + (1 x 14) = 90\n        molar mass/ empirical molar mass = 180 / 2\n        Therefore, the molecular formula of L is C12H8N2.\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                          15\n\n14.3) d-orbital splitting diagram for ML3\n\n    Possible isomers of Fe2+ complexes\n    ML :\n\n    ML2 :\n\n    ML3 :\n\n    o of ML < ML2 < ML3 H2O is a weaker field ligand as compared with bipyridine.\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                       16\n\n14.4)\n        A = ƐbC, therefore C = A/Ɛb = 0.550/12000 = 4.58 x 10-5 mol dm-3\n        The concentration of dialyzable iron is\n        4.58 x 10-5 mol dm-3 x 50.00/5.00          = 4.58 x 10-4 mol dm-3\n        4.58 x 10-4 mol dm-3 x 55.845 g mol-1 x 1000 mg g-1 = 25.58 mg dm-3\n\n14.5)\n\n        From 14.4), the concentration of dialyzable iron is 25.58 mg dm-3 which is also equal to the\n        concentration of iron inside the dialysis bag.\n        The total volume is 12.50 cm3 (inside the dialysis bag) + 20.00 cm3 (outside the bag)\n        = 32.50 cm3.\n\n        Therefore, the total amount of digestible iron is\n        (25.58 mg dm-3 x 32.50 cm3) / (1000 cm3 dm-3) = 0.8314 mg\n        For the supplement of 0.4215 g, the iron content is 0.8314 mg\n        For the supplement of 1.0000 g, the iron content is 0.8314 mg x 1.0000 g / 0.4215 g\n                                                            = 1.972 mg",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Основы электрохимии",
+   "weight": null,
+   "total": 10,
+   "statement": "Рассмотрим следующую электрохимическую ячейку:\n      Pt(тв)MnO4–(0.001 М),Mn2+(0.002 М), pH=3 || Ce4+(0.01 М), Ce3+(0.01 М)Pt(тв)\n      Полуреакции восстановления:\n      Ce4+ + e–  Ce3+                         Eo = 1.70 В\n      MnO4– + 8H+ + 5e–  Mn2+ + 4H2O          Eo = 1.507 В\n      15.1) Запишите суммарное уравнение реакции, протекающей в ячейке и\nрассчитайте величины Eocell и K для суммарной реакции.\n      15.2) Сколько Кулонов отрицательного заряда переносится в цепи, если в реакции\nиз пункта 15.1 расходуется 5.0 мг Ce4+?\n      15.3) Рассчитайте разность потенциалов для электрохимической ячейки, схема\nкоторой приведена выше.",
+   "parts": [
+    {
+     "id": "15.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "15.1)\nAnode: Mn2+ + 4H2O                 MnO4- + 8H+ + 5e-\nCathode: : 5Ce4+ + 5e-                5Ce3+\nNet : Mn2+ + 4H2O + 5Ce4+                 MnO4- + 8H+ + 5Ce3+\n         Eocell = Eocathode- Eoanode\n         Eocell = 1.70-1.507 = 0.193V\n                    0.05916\n         Eocell =          log K\n                      𝑛\n                    0.05916\n         0.193=               log K\n                       5\n\n         K = 2.051016\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                  17\n\n15.2)\n               1𝑔           1 𝑚𝑜𝑙 𝐶𝑒 4+            5 𝑚𝑜𝑙 𝑒 −       96,485 𝐶\n5 mg Ce4+(1000 𝑚𝑔) (140.12 𝑔 𝐶𝑒 4+) (5 𝑚𝑜𝑙 𝐶𝑒 4+) (1 𝑚𝑜𝑙 𝑒 −) = 3.44 C\n\n15.3)\n                           0.05916\n        Ecell = Eocell –             logQ\n                             𝑛\n\n        Where Q is a reaction quotient.\n                           0.05916          [𝑀𝑛𝑂4− ][𝐻 + ]8 [𝐶𝑒 3+ ]5\n        Ecell = Eocell –             log[      [𝑀𝑛2+ ][𝐶𝑒 4+ ]5\n                                                                        ]\n                             𝑛\n\n                           0.05916           [0.001][.001]8 [0.01]5\n        Ecell = 0.193 –              log[        [0.002][0.01]5\n                                                                        ]\n                              5\n\n        Ecell = 0.481V",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 16,
+   "title": "Расчет концентрации",
+   "weight": null,
+   "total": 10,
+   "statement": "16.1) Чему равна концентрация Cu (в моль дм–3) в растворе, полученном\nсмешением 1,345 г CuCl2 с 50,00 cм3 раствора CuSO4 (31,9 г дм-3) и последующим\nдоведением объема до 500 см3 с помощью 0,01 моль дм–3 HCl?\n      16.2) Установите расчетом, образуется ли осадок, если к 25,00 см3 раствора из\nпункта 16.1 добавить NaOH так, чтобы pH составил 8,0, а конечный объем стал\nравным100,0 cм3. ПР(Cu(OH)2) = 4,8 x 10–20",
+   "parts": [
+    {
+     "id": "16.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "16.1) mol Cu in CuCl2 1.345 g = 1.345 g/ (63.55 + 2(35.45) g mol-1) = 0.0100 mol Cu\nmol Cu in 50.00 cm3 of CuSO4 31.9 g dm-3\n        = (50 cm3 /1000 cm3 dm-3) x (31.9 g dm-3 /159.62 g mol-1) = 0.00999 mol Cu\nTherefore, the total mol Cu is 0.0100 + 0.00999 = 0.01999 = 0.02 mol\n500 cm3 contains 0.02 mol Cu, therefore the concentration is 0.04 mol dm-3.\n\n16.2) The concentration of Cu in 100.0 cm3\n        = (25.00 cm3 / 100.0 cm3) x 0.04 mol dm-3 = 0.01 mol dm-3 or 10-2 mol dm-3\npH = 8.0, implying that [OH-] = 10-6 mol dm-3\n[Cu2+][OH-]2 = (10-2) (10-6)2 = 10-14 which is greater than the KSP(Cu(OH)2), i.e., 4.8 x 10-20\n\nTherefore, the precipitate of Cu(OH)2 is formed.\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                   18",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 17,
+   "title": "Активация малых молекул с помощью структур, состоящих из кислоты",
+   "weight": null,
+   "total": 10,
+   "statement": "Льюиса и основания Льюиса (Frustrated Lewis Pairs)\nАкцепторы и доноры электронных пар в химии принято называть кислотами и\nоснованиями Льюиса, соответственно.\n\n      17.1) Триспентафторфенилборан – известная кислота Льюиса и катализатор\nполимеризации алкенов. Предложите способ получения триспентафторфенилборана из\nтрихлорида бора и бромпентафторбензола.\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                        22\n\n       17.2) Стерические препятствия могут блокировать образование классической связи\nмежду кислотой и основанием Льюиса, приводя к FLP. Предложите структуру\nнесостоявшейся пары Льюиса для реакции между B(C6F5)3 и PH(t-Bu)2, если продукт\nявляется цвиттер-ионом. (Литература: Welch, G. C.; Juan, R. R. S.; Masuda, J. D.; Stephan,\nD. W. Science 2006, 314, 1124-1126.)\n      17.3) Запишите реакцию между цвиттер-ионом из 17.2 и Me2SiHCl.\n      17.4) Приведите структуру продукта, получаемого из B(C6F5)3 и P(t-Bu)3 в\nприсутствии газообразного водорода.\n\n       17.5) Запишите формулы всех возможных продуктов, если использовать водород в\nвиде изотопомера HD.\n      17.6) В реакции B(C6F5)3 и P(t-Bu)3 в атмосфере этилена образуется единственный\nпродукт. Изобразите его структуру.\n\n      17.7) Приведите структуру вещества получаемого при обработке продукта 17.6\nмонооксидом азота.\n\n      17.8) В реакции B(C6F5)3 и P(t-Bu)3 в атмосфере углекислого газа образуется\nединственный продукт. Изобразите его структуру.",
+   "parts": [
+    {
+     "id": "17.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "17.1)\n\n17.2)\n\n17.3)\n\n17.4)\n\n17.5)\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017   19\n\n17.6)\n\n17.7)\n\n17.8)",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 18,
+   "title": "Иодид серебра",
+   "weight": null,
+   "total": 10,
+   "statement": "Кристаллический -AgI имеет такую же структуру, как лед, что позволяет ему\nинициировать процесс образования льда, известный под названием гетерогенная\nнуклеация. (осаждение льда из облаков). -AgI представляет собой слегка желтые\nкристаллы, имеющие структуру вюрцита.\n      18.1) На солнечном свету твердый иодид серебра быстро темнеет. В каком\nсостоянии (степень окисления) находится серебро в потемневшем твердом веществе?\n      18.2) Как изменяется растворимость в ряду AgF, AgCl, AgBr, AgI?\n      18.3) Справочные данные:\n             (a) Ag+ (р-р) + e–  Ag (тв)                  Eo = +0.80 В\n             (b) AgI (тв)  Ag+ (р-р) + I– (р-р)              Ksp = 8.51 x 10–17\n             (c) Ag+ (р-р) + 3 I– (р-р)  [AgI3]2– (р-р)      K = 1014\n       Рассчитайте стандартный электродный потенциал процесса восстановления\n[AgI3]2– до металла.\n      18.4) Соль [PPh3Me]2[AgI3] содержит трииодоаргентат(I) ион [AgI3]2–, имеющий\nпримерно тригональную плоскую структуру. (См: Bowmaker, G. A.; Camus, A.; Skelton, B.\nW.; White, A. H. J. Chem. Soc., Dalton Trans., 1990, 727-731.) Структура [AgI3]2– приведена\nниже. Изобразите диаграмму расщепления d орбиталей серебра в этом комплексе и\nзаполните ее электронами.\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                         23\n\n                                                           .",
+   "parts": [
+    {
+     "id": "18.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "18.1) 0\n      The reduction of Ag+ to Ag0 causes the change of color.\n\n18.2) AgF > AgCl > AgBr > AgI\n      The stronger interaction between Ag+ and I– as well as the low hydration energy of I–\n      result in the poor solubility of AgI. The smaller size of other halide ions led to poorer\n      interaction with Ag+; hence, higher solubility.\n\n18.3) – 0.028 V\n                       Go = – nFEo\n        For (a),       Goa = – (– 1)(96,500)(0.80) = – 77,200 J (mol Ag)–1\n                       Go = – RT lnK\n        For (c),       Goc = – (8.314)(298)(ln1014) = – 79,867 J mol–1\n        The reduction half reaction of [AgI3]2– :\n        (d) [AgI3]2– (aq) + e–          Ag (s) + 3 I– (aq)\n        Eqn (d) = (a) – (c)\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                   20\n\n        Therefore,       God = Goa − Goc = – 77,200 – (– 79,867) = 2,667 J mol–1\n                         Eo   = −God/(nF) = – (2,667)/(96,500) = – 0.028 V\n\n18.4) For trigonal planar,\n\n        The ligands lie in the xy plane, then the 𝑑x2 -y2 and 𝑑xy orbitals that have their electron\ndensity concentrated in this plane will have the highest energy. The 𝑑xz and 𝑑yz orbitals have their\nelectron density out of this xy plane, so their energies are the lowest. The 𝑑z2 orbital has its electron\ndensity mostly out of the xy plane, but there is a ring of electron density in the xy plane, so the 𝑑z2\norbital will have energy higher than the 𝑑xz and 𝑑yz orbitals but still lower than the 𝑑x2-y2 and 𝑑xy\norbitals. In addition, the number of d-electrons for silver in [AgI3] 2– is 10. Therefore, all d-orbitals\nshould be filled.",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 19,
+   "title": "Структура перовскита",
+   "weight": null,
+   "total": 10,
+   "statement": "Минерал перовскит имеет кубическую элементарную ячейку, в которой ионы Ca2+\nи O2– совместно образуют плотнейшую кубическую упаковку, а ион Ti4+ занимает одну из\nпустот.\n                                                               Ca2+\n\n                                               Ti4+            O2-\n\n     19.1) На основании вышеприведенной структуры установите эмпирическую\nформулу перовскита.\n\n      19.2) Назовите типы пустот, которые имеются в кубической плотнейшей упаковке.\nКакое число пустот каждого типа имеется в элементарной ячейке?\n         19.3) В пустоте какого типа располагаются ионы Ti4+?",
+   "parts": [
+    {
+     "id": "19.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "19.1) Number of Ca2+ ions: 8 corners x 1/8 ion Ca2+/corner = 1\n        Number of O2- ions: 6 cube faces x 1/2 O2- ion/cube face = 3\n        Number of Ti4+ ions: one Ti4+ ion in the cube center = 1\n        Therefore, the empirical formula is CaTiO3.\n\n19.2) (1) octahedral hole (4 per unit cell), (2) tetrahedral hole (8 per unit cell)\n\n19.3) Octahedral hole\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                       21",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 20,
+   "title": "Квантовые числа и атомные орбитали",
+   "weight": null,
+   "total": 10,
+   "statement": "20.1) Каждый из приведенных в таблице наборов квантовых чисел запрещен для\nорбитали. Поясните, почему\n\n                                    n      l          ml              ms\n                            (i)     1     1           0              +1/2\n                           (ii)     3     1           -2             -1/2\n                           (iii)    2     -1          0              +1/2\n\n         20.2) Приведите обозначение подуровней для следующих наборов квантовых\nчисел.\n               (i) n = 6, l = 2\n               (ii) n = 4, l = 3\n               (iii) n = 6, l = 1\n\n      20.3) Чему равно число различных орбиталей для каждого из следующих\nподуровней:\n               (i) 3d;\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                  24\n\n             (ii) n = 5, l = 3;\n             (iii) n = 3, l = 0 ?",
+   "parts": [
+    {
+     "id": "20.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "20.1) (i) l = n is not allowed. For a certain value of n, l can be any value from 0 to n-1 (i.e., less\nthan n).\n\n         (ii) ml = -2 is not possible for l =1, because the magnitude of the ml must not be greater\nthan l. (For a certain value of l, ml = l, l-1,…, - l.)\n        (iii) l = -1 is not possible. l cannot have a negative value.\n\n20.2) (i) 6d\n        (ii) 4f\n        (iii) 6p\n\n20.3) (i) five\n        (ii) seven\n        (iii) one",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 21,
+   "title": "Радиоактивность иода и уравнения ядерных реакций",
+   "weight": null,
+   "total": 10,
+   "statement": "21.1) Период полураспада изотопа I-131 равен 8 дням. Для свежеприготовленного\nраствора I-131 с концентрацией 0.1 моль дм-3,\n\n            (i) рассчитайте концентрацию I-131 после истечения двух периодов\n      полураспада.\n             (ii) рассчитайте концентрацию I-131 через 40 дней.\n      21.2) Установите X в каждой из следующих ядерных реакций:\n\n             (i) X           + -\n\n             (ii)            + X\n\n             (iii)        +            X\n\n             (iv) X              +\n\n             (v)      + X            +\n\n             (vi)  X + \n\n             (vii)            +          + X + 4\n\n             (viii)           +            X +",
+   "parts": [
+    {
+     "id": "21.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "21.1)\n        (i) After 2 half-lives, the remaining concentration of I-131 will be as follows:\n\n    [I-131]\n\n       (ii) After 40 days which is equal to 5 half-lives, the remaining concentration of I-131 will\n    be as follows:\n   [I-131]\n\n21.2) (i) 146C           (ii) +10𝑒 or +          (iii) 55\n                                                        25Mn            (iv) 238\n                                                                              92U\n\n        (v) 10n          (vi) 110\n                               47Ag               (vii) 96\n                                                        39Y             (viii) 42He or \n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                    22",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 22,
+   "title": "Структура и химия хлорида натрия",
+   "weight": null,
+   "total": 10,
+   "statement": "22.1) Ниже изображена элементарная ячейка NaCl:\n\n             (i) Чему равно координационное число Na+ и Cl–?\n             (ii) Какое число формульных единиц приходится на элементарную ячейку?\n             (iii) Рассчитайте плотность NaCl, если длина грани равна 560 пм, а молярная\nмасса NaCl равна 58.5 г моль–1.\nПодготовительные задания: 49 МХО, Таиланд, 2017                                      25\n\n      22.2) NaCl может быть получен при взаимодействии Na(тв) и Cl2(г):\n\n            Na(s) + 1/2Cl2(g)  NaCl                 Образования = –411 кДж\n\n            (i) Чему равны квантовые числа n и l для валентных электронов атома Na?\n\n            (ii) Качественно сравните размер атомов Na и Cl, ионов Na+ и Cl–.\n\n            (iii) Изобразите Льюисовскую формулу молекулы Cl2.\n\n            (iv) Рассчитайте энергию кристаллической решетки NaCl.\n\n            если Сублимации для Na равна 107 кДж моль–1, первая энергия ионизации\n            атома Na равна 496 кДж моль–1, энергия диссоциации связи ClCl равна 244\n            кДж моль–1, сродство к электрону атома Cl равно –349 кДж моль–1\n\n      22.3) Химия NaCl:\n\n            (i) Запишите реакцию между NaCl(раствор) и Br2(ж).\n\n            (ii) Запишите ионно-молекулярное уравнение между NaCl(раствор) и\n            AgNO3(раствор).\n\n            (iii) В какой цвет окрасится пламя, если в него внести NaCl?",
+   "parts": [
+    {
+     "id": "22.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "22.1) (i) 6 and 6\n\n        (ii) 4\n\n        (iii) 2.21 g cm-3\n\n        Density = m/V\n\n        V = a3 = (560 pm)3 = 1.76 x 10-22 cm3\n\n        mass = (4 x 58.5 g)/(6.022 x 1023) = 3.89 x 10-22 g\n\n        Density = 3.89 x 10-22 g / 1.76 x 10-22 cm3 = 2.21 g cm-3\n\n22.2) (i) n = 3, l = 0\n\n        (ii) Na is larger than Cl, but Cl- is larger than Na+.\n\n        (iii)\n\n        (iv) -787 kJ mol-1\n\n        Hoverall = -411 kJ mol-1 = Hsublimation for Na + IE1 for Na + ½(Cl-Cl dissociation) +\n\n                                         Electron affinity of Cl + lattice energy\n\n        -411 kJ mol-1 = 107 kJ mol-1 + ½ (224) kJ mol-1 + 496 kJ mol-1 – 349 kJ mol-1 + lattice\n        energy\n\n        lattice energy = -787 kJ mol-1\n\n22.3) (i) Br2(l) + Cl-(aq)  no reaction\n\n        (ii) Cl-(aq) + Ag+(aq)  AgCl(s)\n\n        (iii) Yellow\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                   23",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 23,
+   "title": "Природный комплексообразователь из панциря креветки",
+   "weight": null,
+   "total": 10,
+   "statement": "Хитозан представляет собой линейный полисахарид, состоящий из связанных по в\nположении β-(1-4) остатков D-глюкозамина (деацилированный фрагмент) и N-ацетил-D-\nглюкозамина (ацилированный фрагмент). Он образуется при обработке щелочью\n(например, гидроксидом натрия) хитинового панциря креветок или других ракообразных.\nДеацилирование хитина щелочью приводит к частично ацилированному хитозану, как\nпоказано ниже:\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                      26\n\n       Хитозан можно использовать для самых разных целей, например, для помощи\nрастениям в борьбе с грибковой инфекцией, для предотвращение порчи вина, для\nдоставки лекарств через кожу, для уменьшение кровотечения, а также в качестве\nантибактериального средства. В экологическом плане хитозан может быть использован\nкак эффективный адсорбент ионов тяжелых металлов. Адсорбционная емкость хитозана\nпо отношению к ионам Cu(II), Hg(II), Pb(II) и Zn(II) соответственно равна 79.94, 109.55,\n37.2, 47.15 мг (г хитозана)–1.\n      23.1) Укажите наиболее вероятные места связывания ионов металлов в полностью\nдеацилированном хитозане.\n\n     Селективность хитозана по отношению к Pb2+ может быть увеличена за счет\nмодификации с помощью CS2, что приводит к частично модифицированному хитозану\n(PMCS), имеющему следующую структуру:\n\n       Адсорбционная способность по отношению к Pb2+ увеличивается с 37.2 до 156.0 мг\nг–1 хитозана (Wang, N.; Zheng, P.; Ma, X. Powder Technol. 2016, 301, 1-9.)\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                      27\n\n      23.2) Предложите наиболее вероятное(ные) место(а) связывания ионов Pb2+ в\nмолекуле хитозана и изобразите связь(зи) между этим(и) центром(ами) и ионами Pb2+.\nОбъясните увеличение адсорбционной емкости PMCS по отношению к Pb2+.\n      Для увеличения чувствительности хитозана по отношению к ионам металлов к\nхитозановой матрице химически привязывают красители, например, мезо-тетра(p-\nкарбоксифенил)порфирин. После удаления двух кислых протонов оставшиеся четыре\nатома азота готовы образовывать связи с ионом металла. Два аксиальных центра\nсвязывания ионов металлов обычно связываются с молекулами воды, давая в итоге\nоктаэдрический комплекс. Разные ионы металлов имеют различающиеся характерные\nмаксимумы поглощения в видимой области.\n\n      23.3) Предложите связи между мезо-тетра(p-карбоксифенил)порфирином и\nхитозаном, если в качестве катализатора используется слабая протонированная кислота.\n\n      23.4) Изобразите структуру комплекса и предложите примерное расщепление d-\nорбиталей в нем для случая, когда ионы Fe2+ адсорбированы хитозан-порфириновым\nадсорбентом.",
+   "parts": [
+    {
+     "id": "23.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "23.1) The preferred binding sites are indicated in the circles as follows:\n\n23.2)\n\n          Pb2+ is a soft metal ion so it prefers to form bond with sulfur. This helps PMCS adsorb Pb2+\nbetter.\n\n23.3) meso-tetra(p-carboxyphenyl)porphyrin can form ester bond with chitosan as shown in the\nproposed structure below:\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                    24\n\n        Or amide bonds are formed as below:\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017   25\n\n23.4) One of the structures in question 23.3 was chosen to bond with Fe2+ as the proposed\nstructure below.\n\n        The two vacant axial sites are bonding with water molecules.\n\n       Assuming that the crystal fields are equivalent along the x, y, and z axes, the splitting\ndiagram of Fe2+ d orbitals is shown below:\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                              26",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 24,
+   "title": "Идентификация соединений и их химия",
+   "weight": null,
+   "total": 10,
+   "statement": "Реакция между M и Cl2 дает единственный продукт MxCly. Приведенные в таблице\nрезультаты получены при различных условиях:\n                   M (моль)         Cl2 (моль)       Продукт (г)\n                     0.20              0.80              26.7\n                     0.30              0.70              40.0\n                     0.40              0.60              53.3\n                     0.50              0.50              44.4\n                     0.60              0.40              35.6\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                  28\n\n                     0.70                 0.30           26.7\n                     0.80                 0.20           17.8\n\n      24.1) Установите химическую формулу MxCly и определите M.\n      24.2) Запишите уравнение:\n            (i) полного гидролиза MxCly\n            (ii) MxCly + H2SO4\n      24.3) При некоторой температуре MxCly существует в равновесием со своим\nдимером:\n\n     Изобразите структуру димера.",
+   "parts": [
+    {
+     "id": "24.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "24.1) MCl3 and M = Al\n         Theoretically, the maximum amount of the product is obtained when the mole fraction of\nM and Cl2 are in the correct stoichiometric ratio. Based on the experiments, M:Cl2 = 0.4:0.6 or 2/3\nis the stoichiometric ratio needed to form MxCly. Thus, the equation is as follows:\n                                        2 M + 3 Cl2  2 MCl3.\n         the chemical formula of MxCly = MCl3\nSince 0.4 mole of M generates 0.4 mole of MCl3, the molar mass of MCl3 and atomic mass of M\ncan be derived:\nMolar mass of MCl3 = 53.3 g/0.40 mol = 133 g mol-1\nAtomic mass of M = 133 – (3  atomic mass Cl) = 133.3 – (3  35.45) = 26.9 g mol-1\n         M = Al\n\n24.2) (i) AlCl3 + 3 H2O  Al(OH)3 + 3 HCl\n        (ii) 2 AlCl3 + 3 H2SO4  Al2(SO4)3 + 6 HCl\n\n24.3)   Cl    Cl    Cl\n           Al    Al Cl\n        Cl    Cl\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                 27",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 25,
+   "title": "Изомерия октаэдрических комплексов железа",
+   "weight": null,
+   "total": 10,
+   "statement": "Fe(N,N')2Cl2 имеет октаэдрическую структуру с двумя бидентантными лигандами\n(нейтральные молекулы -иминопиридина, обозначение N,N'), строение которых\nприведено ниже.\n\n      25.1) Изобразите возможные изомеры Fe(N,N')2Cl2.\n      25.2) Какие из изомеров Fe(N,N')2Cl2 являются оптически активными?",
+   "parts": [
+    {
+     "id": "25.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "25.1)\n\n25.2)   isomers A, A*, B, B*, E, and E*\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017   28",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 26,
+   "title": "Стехиометрия и установление структуры",
+   "weight": null,
+   "total": 10,
+   "statement": "Соединение А состоит только из трёх элементов: С, Н и О. При стандартных\nусловиях А представляет собой твёрдое вещество жёлтого цвета с молярной массой 166,2\nг·моль-1. Также А содержит 28,9 % кислорода и 65,0 % углерода по массе.\n26.1) Установите химическую формулу соединения A.\n\n26.2) A содержит фенольную группу с внутримолекулярным водородным связыванием. 1H\nи 13C{1H} ЯМР-спектры А в CDCl3 представлены ниже. Основываясь на вашем ответе на\nпункте 26.1, приведите структурную формулу А и покажите внутримолекулярную связь\n(связи).\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                  29\n\n                                             *Данные ЯМР получены с Sigma-Aldrich.com.\n\n26.3) В приведённой ниже схеме укажите структурные формулы X, Y и Z.\n                                                     Cu(OOCCH3) 2\n             2   A +                           X                       Z\n                       H 2N   NH 2   -2Y             - 2 CH3COOH",
+   "parts": [
+    {
+     "id": "26.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "26.1)           C9H10O3\nSolution:       % by weight C : H : O = 65.0 : 6.10 : 28.9\n                                            65.0   6.10   28.9\n                % by mol C : H : O       = 12.0 : 1.01 : 16.0\n\n                                         = 5.42 : 6.04 : 1.81\n\n                 empirical formula C : H : O = 9 : 10 : 3\n\n26.2)\n\n26.3)\n                                                                 Y=\n         X=\n\n         Z=\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017       29",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 27,
+   "title": "Атропин",
+   "weight": null,
+   "total": 10,
+   "statement": "Атропин – это органическое соединение, которое используется для терапии\nотравлений некоторыми нервнопаралитическими ядами и пестицидами. Это соединение\nможно синтезировать из атропина и троповой кислоты в одну стадию.\n\n       27.1) Тропин можно получить по методу, приведённому на схеме ниже. Первая\nстадия этого синтеза представляет собой «двойную реакцию Манниха» (Робинсон, 1917).\n      Запишите структурные формулы соединений А и В.\n\n27.2) Троповую кислоту можно получить по реакции ацетофенона с HCN с последующим\nгидролизом, после которого идут реакции отщепления, присоединения и нуклеофильного\nзамещения (Маккензи и Уорд, 1919). В этом синтезе обратите внимание, что\nэлектрофильное присоединение HCl идёт не по правилу Марковникова и образуется анти-\nмарковниковский продукт (Е).\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                    30\n\n      Троповую кислоту (F) также можно синтезировать всего в три стадии из этил-2-\nбром-2-фенилацетата и параформальдегида (Перно, 1950). Спектры ЯМР для троповой\nкислоты (F) приведены ниже.\n      1\n        H ЯМР (400 МГц, CDCl3) δ 3,76-3,83 (2H, м), 4,80 (1H, дд, J = 8,1 Гц), 7,21-7,30\n(5H, м) и 2 широких пика при ~5 м. д. и ~12 м. д.\n      13\n          C ЯМР (100 МГц, CD3OD) δ 55,9, 65,1, 128,5, 129,2, 129,7, 137,9, 176,1.\n      Запишите структурные формулы соединений C-G на приведённой ниже схеме.\n\n      27.3) При реакции тропина с троповой кислотой в кислой среде, получается\nатропин. Приведите структурную формулу атропина.\n\n      27.4) Предскажите основные продукты приведённых ниже реакций. 13C ЯМР-\nспектр соединения I содержит девять сигналов в области 0-80 м. д., четыре сигнала в\nобласти 120-140 м. д. и один сигнал при 155 м. д. 13C ЯМР-спектр соединения J содержит\nвосемь сигналов в области 0-80 м. д. и один сигнал при 155 м. д. 13C ЯМР-спектр\nсоединения K содержит семь сигналов в области 0-80 м. д. и четыре сигнала в области\n120-140 м. д.\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                      31",
+   "parts": [
+    {
+     "id": "27.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "27.1)\n\n27.2)\n\n27.3)\n\n27.4)\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017   30",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 28,
+   "title": "Синтез «строительных блоков» для флуоресцентных меток",
+   "weight": null,
+   "total": 10,
+   "statement": "Карбоксильные производные флуоресцентных красителей, которые нашли\nприменение в качестве важных флуоресцентных меток для биологически активных\nсоединений, можно синтезировать при помощи улучшенной синтетической схемы,\nразработанной Литтлом и коллегами (Lyttle, M. H.; Carter, T. G.; and Cook, R. M. Org. Proc.\nRes. Dev. 2001, 5, 45–49). Для таких синтетических последовательностей необходимы два\nразличных предшественника (С и I); получить их можно следующим способом.\n\n      Приведите структурные формулы соединений A-I.",
+   "parts": [
+    {
+     "id": "28.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "Compounds A-I are shown below:\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017   31",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 29,
+   "title": "Синтез анатоксина-a",
+   "weight": null,
+   "total": 10,
+   "statement": "Анатоксин-a (I) представляет собой алкалоид, содержащий вторичный амин и\nобладающий острой нейротоксичностью, которая может вызывать смерть от\nдыхательного паралича. Это соединение вырабатывают разные роды цианобактерий по\nвсему миру. В 2004 году Бреннеман и Мартин сообщили об кратком синтезе анатоксина-а\nиз коммерчески доступного D-метилпироглутамата, который для данного синтеза\nпредварительно превращали в соединение А. Запишите структурные формулы соединений\nB, C, F, H и I в полях для ответов.\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                         32",
+   "parts": [
+    {
+     "id": "29.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "Solutions to the Preparatory problems: 49th IChO, Thailand 2017   32",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 30,
+   "title": "Полный синтез иллюдина C",
+   "weight": null,
+   "total": 10,
+   "statement": "Для синтеза сесквитерпена ()-иллюдина С Фанку понадобилось исходное\nсоединение С, которое можно получить по краткой схеме, приведённой ниже (Aungst, Jr.,\nR. A.; Chan, C.; Funk, R. L. Org. Lett. 2001, 3, 2611–2613). Соединение С затем вводили в\nсинтез, как показано ниже. Приведите структурные формулы A, B, C и D.\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                       33",
+   "parts": [
+    {
+     "id": "30.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "The structures of A, B, C and D:",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 31,
+   "title": "Полный синтез антагонистов -опиоидных рецепторов",
+   "weight": null,
+   "total": 10,
+   "statement": "В исследованиях, посвящённых контролю болевых ощущений, -опиоидные\nрецепторы рассматриваются как важная белковая мишень в центральной нервной системе,\nкоторая взаимодействует со специфичным набором небольших молекул и, как следствие,\nоблегчает боль у пациентов. Для изучения этой мишени необходимо иметь доступ к таким\nсоединениям. Основным источником этих веществ является природа, однако, наряду с\nродоначальными болеутоляющими соединениями, которые находятся в растениях,\nважную роль в исследовании играют и синтетические производные.\n\n        В недавнем фармакологическом исследовании синтетического митрагинина и его\nпроизводных – основных алкалоидов, обнаруженных в азиатском растении Mitragyna\nspeciosa (Kruegel, A. C.; Gassaway, M. M.; Kapoor, A.; Váradi, A.; Majumdar, S. Filizola, M.;\nJavitch, J. A.; and Sames, D. J. Am. Chem. Soc. 2016, 138, 6754–6764), – соединения для\nиспытаний получали путём полного синтеза. Ниже приведена краткая схема синтеза.\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                           34\n\n      31.1) Приведите структурную формулу соединения A.\n      31.2) Установите   структурные   формулы   соединений   B-D,   указав   верную\nстереохимию.",
+   "parts": [
+    {
+     "id": "31.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "Solutions to the Preparatory problems: 49th IChO, Thailand 2017   33",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 32,
+   "title": "Перициклическая реакция",
+   "weight": null,
+   "total": 10,
+   "statement": "32.1) Для создания сложных органических структур с одновременным управлением\nстереоселективностью можно использовать ряд перициклических реакций. Например,\nМур и сотрудники (J. Org. Chem. 1998, 63, 6905) описали синтез производных трихинана\nиз соответствующего циклобутенона по приведённой ниже схеме.\n\n      Предложите структуры промежуточных соединений A и B.\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                  35\n\n       32.2) В синтезе простагландина Кори и сотрудники (J. Am. Chem. Soc. 1969, 91,\n5675) использовали реакции циклоприсоединения, а также ряд простых превращений для\nсоздания стереохимии на периферии циклопентановой структуры, как показано ниже.\n\n            (i) Установите структуры соединений C-G и укажите их верную\n      относительную конфигурацию.\n\n             (ii) В соединении 3 один из атомов углерода отмечен звездочкой. Укажите\nположение отмеченного атома углерода в соединении 1 либо 2, нарисовав звездочку\nрядом с соответствующим атомом углерода на одной из этих структур.\n\n            (iii) Если синтез соединения 3 проводить исходя из соединений 1 и 2 по\nприведённой выше схеме, сколько стереоизомеров соединения 3 может образоваться?\n\n      32.3) 1,3-Диполярное циклоприсоединение является мощным инструментов для\nсоздания гетероциклических структур. Например, при нагревании соединение Н\nподвергается внутримолекулярному [4+2]-циклоприсоединению с образованием\nсоединения І. Восстановление слабой связи N-O в соединении I путём каталитического\nгидрирования даёт продукт J.\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                  36\n\n           (i) Приведите структурные формулы соединений I и J.\n\n           (ii) Предположив, что соединение Н используется в реакции в виде\nрацемической смеси, приведите все возможные стереоизомеры продукта J.",
+   "parts": [
+    {
+     "id": "32.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "32.1)\n\n32.2)\n        (i) Structures of compounds C-G\n\n        C                                D                        E\n\n        F                                G\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017       34\n\n        (ii)\n\n                Either position on compound 1 is correct.\n\n        (iii) Two.\n\n               Reaction between 1 and 2 will give a pair of enantiomers which are inseparable.\n               (Note: the two enantiomers can be resolved but this process is not mentioned in the\ncontext.) The subsequent processes, although generated a few new chiral centers, employed achiral\nreagent and the newly formed stereocenters were controlled by the existing stereochemistry.\nTherefore, stereochemical information was carried over from compound C to compound 3.\n\n32.3)\n        (i)\n\n       (ii) Racemic mixture of H will give product I which has a plane of symmetry. Therefore,\nreduction of I (only a stereoisomer) will give only 1 possible product J.\n\n        Note: Compound I has a plane of symmetry, thus its mirror image (compound I’) is\nidentical (meso-compound).\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                35",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 33,
+   "title": "Стереоизомеры без стереоцентра",
+   "weight": null,
+   "total": 13,
+   "statement": "Аксиальная (осевая) хиральность относится к особому типу хиральности, когда\nмолекула не содержит стереоцентров, но имеет ось хиральности. Ось хиральности – это\nось, вокруг которой набор заместителей находится в таком пространственном\nрасположении, что они не совмещаются сами с собой при зеркальном отражении.\n      Для аксиальной хиральности существует два необходимых условия:\n\n            i. Невращающаяся ось\n            ii. Наличие разных заместителей по обе стороны оси\n\n      Наиболее часто аксиальная хиральность наблюдается у атропоизомерных\nбиарилов, где вращение вокруг связи арил-арил затруднено, например, у бифенилов и\nбинафтилов. Некоторые алленовые структуры также обладают аксиальной хиральностью.\n\n       33.1) Приведите для данных структур 3-D-изображение и соответствующее\nзеркальное отражение. При помощи плоскости симметрии определите, являются ли они\nхиральными или ахиральными.\n             (i)\n\n            (ii)\n\n            (iii)\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                 37\n\n            (iv)\n\n      33.2) У транс-циклоалкенов со средним размером цикла существуют энантиомеры.\nНапример, транс-циклооктен можно разделить на энантиомеры, причём последние\nявляются устойчивыми при комнатной температуре. С другой стороны, транс-\nциклононен также разделяли на энантиомеры, но он рацемизовался при 0 oC со временем\nполураспада, равным 4 мин.\n             (i) Изобразите зеркальные отражения для приведённых структур транс-\n     циклооктена и транс-циклононена.\n\n            (ii) Почему   транс-циклононен    рацемизуется   быстрее,   чем   транс-\n      циклооктен?\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                  38\n\n                   Часть 2. Экспериментальные задачи\nЗадача P1. Количественное определение аскорбиновой и лимонной кислот в напитках.\n      Погода в Таиланде преимущественно очень жаркая и влажная, что вызывает\nдискомфорт и усталость. Следовательно, употребление воды или напитков представляет\nсобой дополнительную возможность для освежения и уменьшения аппетита. Имеется\nмного различных брэндов напитков на рынке. Основными компонентами напитка\nявляются подсластители, органические кислоты, неорганические соли, красители и\nароматизаторы. Эти компоненты улучшают вкус и текстуру напитков.\n\n     В этой задаче вам предлагается определить количество аскорбиновой кислоты\n(C6H8O6) и лимонной кислоты (C3H5O(COOH)3) присутствующих в напитке с помощью\nдвух титрований.\n     A) Определение        аскорбиновой     кислоты     окислительно-восстановительным\nтитрованием.\n     B) Определение общего содержания кислот с помощью кислотно-основного\nтитрования.\nИсточник: S. B. Sigmann and D. E. Wheeler, J. Chem. Educ., 2004, 81, 1479.\nРеактивы\n      0.001 М KIO3\n      1 М HCl\n      0.5 % раствор крахмала\n      0.1 М NaOH*\n      0.5% раствор фенолфталеина\n      KI\n\n      Образец (содержащий 1.28 x 10–3 М аскорбиновой кислоты и 6.76 x 10–2 М\nлимонной кислоты)\n      2 бюретки\n      50 см3 мерная пипетка\n      10 см3 мерная пипетка\n      груша для заполнения пипеток\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                    39\n\n      6 колб Эрленмейера\n\n*Этот раствор должен быть стандартизирован. Используйте гидрофталат калия (KHP) для\nстандартизации.\nA) Определение аскорбиновой кислоты с помощью окислительно-восстановитель-\nного титрования\n  1. Заполните бюретку 0.001 М раствором KIO3\n\n  2. Аликвоту 50.00 см3 анализируемого раствора количественно перенесите в колбу\n     Эрленмейера для титрования. Добавьте в эту колбу 1 г твердого KI, 5 см3 1 M\n     раствора HCl и 3 см3 0.5 % раствора крахмала.\n  3. Немедленно оттитруйте смесь 0.001 М раствором KIO3.\n\n  4. Конечную точку титрования определите по появлению голубой окраски комплекса\n     I3− с крахмалом.\n  5. Повторите титрование еще два раза.\n\nКоличество аскорбиновой кислоты определяется по результатам титрования с KIO3. При\nтитровании протекают реакции (1) – (4).\n\n             IO3– + 5I– + 6H+ 3I2 + 3H2O                          (1)\n\n             C6H8O6 + I2  C6H6O6 + 2H+ + 2I-                      (2)\n\n             I2 + I–  I3–                                         (3)\n\n             I3- + крахмал  крахмал - I3– комплекс                (4)\n\n                                 (голубой)\n(i) Заполните таблицу полученными результатами.\n\n   Номер титрования                               1            2             3\n   Начальное показание бюретки, см3\n   Конечное показание бюретки, см3\n   Израсходованный на титрование объем\n   раствора KIO3, см3\n\n(ii) Рассчитайте массу аскорбиновой кислоты в мг на 100 см3 анализируемого образца.\n\nB) Определение общего содержания кислот с помощью кислотно-основного\nтитрования\n  1. Аликвоту 10.00 см3 анализируемого раствора количественно перенесите в колбу\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                       40\n\n     Эрленмейера для титрования.\n  2. Добавьте 2-3 капли раствора фенолфталеина.\n  3. Медленно добавляйте раствор NaOH из бюретки.\n\n  4. В конечной точке титрования окраска индикатора изменится с бесцветной на\n     малиновую.\n  5. Повторите титрование еще два раза.\n\nТитрование с раствором NaOH позволяет определить суммарное содержание кислот в\nобразце. При титровании протекают реакции (5) – (6).\n\n              C6H8O6 + NaOH  C6H7O6Na + H2O                            (5)\n\n       C3H5O(COOH)3 + 3NaOH  C3H5O(COO)3Na3 + 3H2O                     (6)\n(i) Заполните таблицу полученными результатами\n\n    Номер титрования                                 1              2             3\n    Начальное показание бюретки, см3\n    Конечное показание бюретки, см3\n    Израсходованный на титрование объем\n    щелочи, см3\n\n(ii) Рассчитайте количество моль прореагировавшего основания\nКоличество лимонной кислоты определяется как разность количества щелочи,\nизрасходованной на титрование двух кислот и количества щелочи, которая требуется на\nтитрование аскорбиновой кислоты.\n(iii) Рассчитайте массу лимонной кислоты в 100 см3 анализируемого раствора.\n\nЗадача P2. Спектрофотометрическое определение хрома и марганца\n      Согласно закону Бэра, поглощение раствора невзаимодействующих компонентов\nскладывается аддитивно из поглощений каждого из них.\n               λ1\n              Atotal  A λX1  AYλ1\n                λ2\n              A total  A λX2  AYλ2\n        где Atotalλ1 и Atotal λ2 – поглощения раствора при длине волны λ1 и λ2 соответственно,\nа A X и A Y - поглощения каждого из двух растворенных веществ.\nРеактивы\nПодготовительные задания: 49 МХО, Таиланд, 2017                                           41\n\n      0,5 М H2SO4\n      0,01 М KMnO4\n      0,01 М K2Cr2O7\n      Спектрофотометр\n      пипетка мерная 2,00 cм3 (2)\n      пипетка мерная 10,00 cм3 (2)\n      колба мерная 50,00 cм3 (13)\n      пипетконабиратель\n\nA) Определение молярных коэффициентов поглощения KMnO4 и K2Cr2O7\n  1. Приготовьте растворы KMnO4 с концентрацией 0,5 x 10–4, 1,0 x 10–4, 2,0 x 10-4, 5,0 x\n  10–4 моль дм-3 путем разбавления стандартного 0,01 М KMnO4 с помощью 0,5 М H2SO4\n  до конечного объема 50,00 см3 в мерных колбах.\n\n  2. Приготовьте растворы K2Cr2O7 с концентрацией 2,0 x 10–4, 3,0 x 10–4, 4,0 x 10–4, 6,0 x\n  10–4 моль дм-3 путем разбавления стандартного 0,01 М K2Cr2O7 с помощью 0,5 М\n  H2SO4 до конечного объема 50,00 см3 в мерных колбах.\n  3. Измерьте поглощения всех приготовленных растворов при длинах волн 440 и 545 нм\n\n                                                        Молярный            Молярный\n                  Поглощение         Поглощение\n   KMnO4                                              коэффициент         коэффициент\n                      (A)                (A)\n (моль дм-3)                                           поглощения          поглощения\n                   (440 нм)           (545 нм)\n                                                         (440 нм)            (545 нм)\n  0,5 x 10-4\n  1,0 x 10-4\n  2,0 x 10-4\n  5,0 x 10-4\nСреднее значение коэффициента\n\n                                                       Молярный            Молярный\n                     Поглощение      Поглощение\n     K2Cr2O7                                         коэффициент         коэффициент\n                         (A)             (A)\n    (моль дм-3)                                       поглощения          поглощения\n                      (440 нм)        (545 нм)\n                                                        (440 нм)            (545 нм)\n    2,0 x 10-4\n    3,0 x 10-4\n    4,0 x 10-4\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                         42\n\n    6,0 x 10-4\n  Среднее значение коэффициента\n\nB) Определение концентраций KMnO4 и K2Cr2O7 в растворе\n    1. Приготовьте раствор смешением 5,0 cм3 0,5 x 10-4 М KMnO4 и 5,0 cм3 6,0 x 10-4 М\n       K2Cr2O7 (Раствор A)\n    2. Приготовьте раствор смешением 5,0 cм3 2,5 x 10-4 М KMnO4 и 5,0 cм3 4,0 x 10-4 М\n       K2Cr2O7 (Раствор B)\n\n    3. Приготовьте раствор смешением 5,0 cм3 5,0 x 10-4 М KMnO4 и 5,0 cм3 2,0 x 10-4 М\n       K2Cr2O7 (Раствор C)\n\n    4. Измерьте поглощения всех приготовленных растворов при длинах волн 440 и 545\n       нм\n\n                                Поглощение (A)           Поглощение (A)\n                 Раствор\n                                   (440 нм)                 (545 нм)\n                     A\n                     B\n                     C\n\nРассчитайте концентрации KMnO4 и K2Cr2O7 в каждом растворе (исходя из\nэкспериментальных значений поглощения)\n\n                             KMnO4                      K2Cr2O7\n              Раствор                    ошибка, %                   ошибка, %\n                           (моль дм-3)                 (моль дм-3)\n                 A\n                 B\n                 C\n\nЗадача P3. Синтез \"ферроценированных\" наночастиц оксида железа и их\nактивность по отношению к обесцвечиванию метиленового голубого\n       Ферроценированные соединения представляют собой смесь, содержащую\nферроцен, оксид железа и циклопентадиенильные радикалы. Приготовление\nферроцианизированных соединений может быть проведено путем разложения ферроцена\nв щелочной среде. Циклопентадиенильный радикал в ферроценированных соединениях\nявляется именно той активной частицей, которая генерирует активные частицы на основе\nкислорода, обесцвечивающие метиленовый голубой.\nIn this task, you will:\n\n    •   Получите ферроценированные наночастицы оксида железа методом соосаждения.\n\n    •   Изучите процесс обесцвечивания метиленового голубого ферроценированными\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                    43\n\n     частицами и проследите за протеканием реакции с помощью фотометрического\n     анализа.\nРеактивы\n     Хлорид железа(III) гексагидрат (FeCl3∙6H2O)           деионизованная вода\n     Хлорид железа(II) тетрагидрат (FeCl2∙4H2O)            гидроксид натрия\n     Ферроцен                                              хлорид бария\n     Концентрированная серная кислота                      метиленовый голубой\n\nПосуда\n     Круглодонная колба, 250 см3                    стакан, 25 см3\n     Стакан, 100 см3                                стакан, 250 cm3\n     Колба Эрленмейера, 250 см3                     мерная колба, 250 см3\n     Мерный цилиндр, 10 см3                         мерный цилиндр, 100 см3\n     Пробирки                                       Пастеровская пипетка с грушей\n     Магнитная мешалка                              палочки для перемешивания\n     Чашка для выпаривания                          пробирки для центрифуги\n     Алюминиевая фольга\n\n     Мешалка                                  электронные весы (4 знака)\n     pH метр                                  центрифуга\n     Сушильный шкаф                           спектрофотометр (видимая область)\n\nСинтез ферроценированных наночастиц оксида железа\n           1. Добавьте 0.5 см3 концентрированной серной кислоты к 6.84 г ферроцена\n              (образуется раствор ферроцена). Проводите эту операцию под тягой.\n           2. Добавьте полученный раствор ферроцена к 5 см3 воды и перемешайте в\n              течение 30 минут.\n           3. Приготовьте раствор, содержащий 1.55 г тетрагидрата хлорида железа(II),\n              4.15 г гексагидрата хлорида железа(III) и 80 см3 воды.\n           4. Добавьте приготовленный раствор в голубой раствор ферроцена и\n              перемешивайте в течение 1 часа.\n           5. Добавьте к смеси насыщенный раствор NaOH до тех пор, пока pH смеси не\n              станет равной 12.\n           6. Отделите оранжевый осадок центрифугированием при 4500 об/мин в\n              течение 20 минут.\n           7. Промойте осадок деионизованной водой. Удостоверьтесь в полном\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                     44\n\n              удалении сульфат ионов с помощью раствора BaCl2.\n           8. Высушите оранжевый твердый остаток при 100 °C в течение 1 часа.\n              Запишите массу полученного продукта и рассчитайте выход полученного\n              ферроценированного оксида железа.\n\nОбесцвечивание метиленового голубого\n\n           1. Приготовьте раствор метиленового голубого (9.97  10–6 М).\n           2. Перенесите 100 см3 приготовленного раствора метиленового голубого в\n              колбу Эрленмейера на 250 см3.и накройте ее алюминиевой фольгой.\n              Храните эту колбу в темноте при постоянном перемешивании.\n           3. Добавьте полученный оранжевый твердый продукт (0.100 г) в раствор\n              метиленового голубого.\n           4. Отбирайте порции по 3 см3 смеси каждые 5 минут.\n           5. Отцентрифугируйте смесь при 4500 об/мин в течение 3 мин.\n           6. Используйте прозрачную жидкость над осадком для фотометрического\n              анализа.\n           7. Постройте график зависимости оптической плотности от времени реакции\n              на определенной длине волны.\n\n         Вы можете повторить описанный эксперимент, но без использования\nферроцена, и сравнить скорость обесцвечивания метиленового голубого с\nферроценированным оксидом.\n\nЗадача P4. Синтез аспирина\n     Аспирин, или ацетилсалициловая кислота, это широко известное лекарство,\nиспользуемое при возникновении боли, жара или воспалений. Оно относится к\nнестероидным противовоспалительным препаратам. Аспирин необратимо ингибирует\nфермент циклооксигеназу (СОХ), вследствие чего снижается выработка простагландинов\nи тромбоксанов – ключевых молекул, которые вызывают различные физиологические\nотклики, включая передачу болевых ощущений, регулирование воспалений и жара, а\nтакже агрегацию тромбоцитов.\nВ данной задаче вам необходимо:\n\n     Провести синтез ацетилсалициловой кислоты методом этерификации салициловой\nкислоты уксусным ангидридом.\n     Рассчитать выход очищенного продукта.\n     Провести анализ методом тонкослойной хроматографии.\nРеактивы\n      Уксусный ангидрид                            Этилацетат\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                45\n\n      Концентрированная H2SO4 (18 моль·дм-3)        Гексан\n      Дистиллированная вода                         Лёд (для охлаждающей бани)\n      Этанол                                        Салициловая кислота\nПосуда\n      Химический стакан, 100 см3\n      Воронка Бюхнера\n      Кристаллизатор (для водяной бани и охлаждающей бани)\n      Колбы Эрленмейера, 125 см3 и 250 см3\n      Фильтровальная бумага\n      Мерный цилиндр, 25 см3\n      Пипетка Пастера с резиновой грушей\n      Стеклянная палочка\n      Шпатель\n      Колба для фильтрования\n      Капилляры для ТСХ\n      Пластинки для ТСХ на алюминиевой или стеклянной подложке\n      Камера для хроматографии\n\n      Аналитические весы ( 0,0001 г)\n      Нагревательная плитка\n      Водоструйный или мембранный насос\n      Штатив и лапки\nМетодика:\n      1. Взвесьте 5,00 г салициловой кислоты. Перенесите её в колбу Эрленмейера на 125\nсм3. Массу запишите.\n      2. Под тягой добавьте в колбу с салициловой кислотой 7,0 см3 уксусного\n     ангидрида.\n      3. Осторожно добавьте к реакционной смеси 8 капель концентрированной серной\n     кислоты (18 моль·дм-3).\n      4. Установите на плитку водяную баню (химический стакан).\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                    46\n\n      5. Поместите колбу на водяную баню и начните нагревание. После того, как вода\nзакипит, продолжайте нагревание ещё 15 минут.\n      6. Дайте реакционной смеси остыть в течение нескольких минут.\n      7. Осторожно добавьте в колбу 15,0 см3 воды комнатной температуры.\nПеремешайте содержимое колбы.\n       8. Поместите колбу с реакционной смесью на ледяную баню. Охлаждайте её до тех\nпор, пока продукт не выпадет целиком (около 15 минут). Если кристаллы не появляются,\nпотрите стенки колбы стеклянной колбы, чтобы вызвать кристаллизацию.\n      9. Отделите твёрдый продукт вакуумным фильтрованием на воронке Бюхнера.\n       10. Перенесите твёрдый продукт из воронки Бюхнера в колбу Эрленмейера на 250\nсм . Перекристаллизуйте сырой продукт из этанола и воды.\n  3\n\nМетодика перекристаллизации: Добавляйте нагретый этанол, пока продукт не\nрастворится. Нагревая полученный раствор, по каплям добавляйте воду и перемешивайте.\nПродолжайте добавлять воду до тех пор, пока раствор не станет мутноватым. К\nмутноватому раствору добавляйте по каплям горячий этанол, пока раствор снова не станет\nпрозрачным. Прекратите нагревание и дайте раствору медленно остыть до комнатной\nтемпературы. Должны образоваться кристаллы. Охладите колбу с кристаллами на ледяной\nбане для завершения кристаллизации.\n      11. Соберите кристаллический продукт путём вакуумного фильтрования на\nворонке Бюхнера.\n      12. Высушите продукт. Запишите его массу и рассчитайте выход.\n      13. Проведите тонкослойную хроматографию (ТСХ) и определите чистоту\nконечного продукта.\n\nЗадача P5. Синтез бензпинаколина\n       Пинакон-пинаколиновая перегруппировка иногда используется для превращения\n1,2-диолов в карбонильные соединения. Эта реакция протекает в кислых условиях. В\nданной работе вам предстоит превратить бензпинакон в бензпинаколин методом\nкатионной перегруппировки, катализируемой кислотой.\n\nВ данной работе вам необходимо:\n      Провести пинакон-пинаколиновую перегруппировку.\n      Рассчитать выход очищенного продукта.\nРеактивы\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                    47\n\n      Бензпинакон\n      Этилацетат\n      Ледяная уксусная кислота\n      Гексан\n      Иод\n      Лёд (для охлаждающей бани)\n      Силиконовое масло для масляной бани\nПосуда\n      Химический стакан, 600 см3                     Круглодонная колба, 100 см3\n      Воронка Бюхнера                                Обратный холодильник\n      Колба Эрленмейера, 125 см3                     Стеклянная палочка\n      Фильтровальная бумага                          Колба для фильтрования\n      Охлаждающая баня                               Масляная баня\n      Мерный цилиндр, 25 см3                         Шпатель\n      Магнитный якорь или кипелки                    Пипетка Пастера с грушей\nПриборы\n\n      Аналитические весы ( 0,0001 г)\n      Мешалка с нагревом\n      Водоструйный или мембранный насос\n      Штатив и лапки\nМетодика:\n       1. Помесите 25 см3 ледяной уксусной кислоты и 0,1 г иода в 100 см3 круглодонную\nколбу, снабжённую обратным холодильником.\n      2. Добавьте 0,015 моль бензпинакона.          (Бензпинакон       можно   получить\nфотохимической реакцией, см. приложение C.)\n      3. Кипятите раствор в течение 10 мин на горячей масляной бане.\n      4. Охладите реакционную смесь до комнатной температуры.\n       5. Отделите осадок вакуумным фильтрованием на воронке Бюхнера. Запишите\nмассу сырого продукта.\n      6. Перекристаллизуйте сырой продукт из смеси этилацетата и гексана (см.\nметодику перекристаллизации в задаче Р4.)\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                     48\n\n       7. Отделите кристаллы вакуумным фильтрованием на воронке Бюхнера. Запишите\nмассу перекристаллизованного продукта.\n      8. Рассчитайте выход продукта.\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                               49\n\nПриложение C\nСинтез бензпинакона\nOrg. Synth. 1934, 14, 8.\nDOI: 10.15227/orgsyn.014.0008\n\nМетодика\nСмесь 150 г (0,82 моль) бензофенона, 1 капли ледяной уксусной кислоты и 665 г (850 мл,\n11 моль) изопропилового спирта в 1 л круглодонной колбе нагревают до 45 °C. Колбу\nплотно закрывают пробкой, надёжно привязывают, закрепляют в перевёрнутом\nположении на треноге и выставляют на прямой солнечный свет. Через 3-5 ч должны\nпоявиться кристаллы бензпинакона; через 8-10 дней облучения светом (см. примечание)\nкристаллы бензпинакона должны окончательно сформироваться. Реакционную смесь с\nкристаллами охлаждают на ледяной бане для более полной кристаллизации.\nКристаллический продукт собирают вакуумным фильтрованием на воронке Бюхнера.\nКристаллический продукт промывают небольшим количеством изопропилового спирта и\nсушат на воздухе. Полученный продукт является достаточно чистым для большинства\nцелей. Его можно перекристаллизовать путём растворения в горячем бензоле с\nпоследующим фильтрованием и добавлением 400 мл горячего лигроина (т. кип. 90–100\n°C) к горячему фильтрату. После охлаждения на льду и фильтрования получается 129-130\nг очищенного продукта.\n\nПримечание:\nОколо 5 дней облучения ярким солнечным светом достаточно для полного\nвосстановления. Реакцию можно прервать в любое время, кристаллы отфильтровать и\nпродолжить облучать фильтрат дальше.\n\nПодготовительные задания: 49 МХО, Таиланд, 2017                                    50",
+   "parts": [
+    {
+     "id": "33.1",
+     "points": 1,
+     "question": "Заполните бюретку 0.001 М раствором KIO3",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "33.2",
+     "points": 1,
+     "question": "Аликвоту 50.00 см3 анализируемого раствора количественно перенесите в колбу Эрленмейера для титрования. Добавьте в эту колбу 1 г твердого KI, 5 см3 1 M раствора HCl и 3 см3 0.5 % раствора крахмала.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "33.3",
+     "points": 1,
+     "question": "Немедленно оттитруйте смесь 0.001 М раствором KIO3.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "33.4",
+     "points": 1,
+     "question": "Конечную точку титрования определите по появлению голубой окраски комплекса I3− с крахмалом.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "33.5",
+     "points": 1,
+     "question": "Повторите титрование еще два раза.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "33.6",
+     "points": 1,
+     "question": "Дайте реакционной смеси остыть в течение нескольких минут.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "33.7",
+     "points": 1,
+     "question": "Осторожно добавьте в колбу 15,0 см3 воды комнатной температуры.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "33.8",
+     "points": 1,
+     "question": "Поместите колбу с реакционной смесью на ледяную баню. Охлаждайте её до тех",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "33.9",
+     "points": 1,
+     "question": "Отделите твёрдый продукт вакуумным фильтрованием на воронке Бюхнера.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "33.10",
+     "points": 1,
+     "question": "Перенесите твёрдый продукт из воронки Бюхнера в колбу Эрленмейера на 250",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "33.11",
+     "points": 1,
+     "question": "Соберите кристаллический продукт путём вакуумного фильтрования на",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "33.12",
+     "points": 1,
+     "question": "Высушите продукт. Запишите его массу и рассчитайте выход.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "33.13",
+     "points": 1,
+     "question": "Проведите тонкослойную хроматографию (ТСХ) и определите чистоту",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    }
+   ],
+   "solution": "Hint: Student is encouraged to use chemistry model to figure out the plane of symmetry and the\nC2–symmetry in each molecule.\n33.1)   (i) From the possible enantiomeric pair,\n\n        The molecule has a plane of symmetry, therefore, the structure is achiral.\n\n        (ii) From the possible enantiomeric pair,\n\n        There is no plane of symmetry in these two molecules. Therefore, these two mirror image\nstructures are non-superimposable. The structure is chiral.\n        (iii) From the structure of cumulene,\n\n      This molecule is flat. As a result, there is a plane of symmetry in this molecule.\nConsequently, its mirror image is achiral.\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                             36\n\n        (iv) From the possible enantiomeric pair,\n\n        There is no plane of symmetry in these two molecules. Therefore, these two mirror image\nstructures are non-superimposable. The structure is chiral.\n\n33.2    (i)\n\n        Enantiomers of trans-cyclooctene and trans-cyclononene are shown above. The two\ndifferent structures are mirror images of each other and they are non-superimposable.\n\n        (ii) The enantiomers of both cycloalkanes are configurational isomers. The enantiomers\ncan be interconverted via the ring flipping, similar to that of the chair cyclohexane. The trans\ndouble bond adds a considerable degree of rigidity to the ring. Since the trans-cyclononene has\nmore carbon atoms so it is more flexible and can undergo the configuration inter-conversion more\nreadily.\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                              37"
+  }
+ ]
+}

@@ -362,7 +362,7 @@
         const r = result && result.parts.find((x) => x.id === p.id);
         return `<div class="part" data-part="${esc(p.id)}">
           <div class="part-head"><span class="part-id">${esc(p.id)}</span>
-            ${r ? `<span class="pill ${r.verdict === "correct" ? "good" : r.verdict === "partial" ? "warn" : "bad"}">${fmt(r.score)} / ${fmt(r.max)} б.</span>` : `<span class="pill">${p.points != null ? fmt(p.points) + " б." : ""}</span>`}
+            ${r ? `<span class="pill ${r.verdict === "correct" ? "good" : r.verdict === "partial" ? "warn" : "bad"}">${fmt(r.score)} / ${fmt(r.max)} б.</span>` : `<span class="pill" ${p.pointsEstimated ? 'title="Оценочно: в официальной схеме нет баллов за этот пункт"' : ""}>${p.points != null ? (p.pointsEstimated ? "≈ " : "") + fmt(p.points) + " б." : ""}</span>`}
           </div>
           ${p.question ? `<p class="part-q">${esc(p.question)}</p>` : ""}
           <textarea data-answer="${esc(p.id)}" placeholder="Ход решения, расчёты и ответ. Без расчётов жюри ставит 0.">${esc(answers[p.id] || "")}</textarea>

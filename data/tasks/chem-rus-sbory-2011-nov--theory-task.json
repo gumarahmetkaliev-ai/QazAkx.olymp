@@ -1,0 +1,37 @@
+{
+ "setId": "chem-rus-sbory-2011-nov--theory-task",
+ "olympiadId": "chem-rus-sbory-2011-nov",
+ "title": "Химия → Сборы сборной РФ → 2011-Nov",
+ "materialLabel": "Теория (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/chemistry/s/rus_sbory/2011-Nov/theory_task.pdf",
+ "solutionFile": "olympiads/chemistry/s/rus_sbory/2011-Nov/theory_sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-08T17:00:05.385Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 1,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Экспериментально измеренная зависимость электродного потенциала полуреакции",
+   "weight": null,
+   "total": 8,
+   "statement": "СuHL + e– → CuHL–\nот pH приведена на рисунке\n\nРассчитайте константу кислотности комплекса CuHL.",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 8,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "1. Приведите структуры A и B. (по 0.5 балла за правильную структуру, всего – 1\nбалл).\n\n                                O        O\n\n                                                           OH\n                                                            O\n                                                      HO\n\n                                    A                 B",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

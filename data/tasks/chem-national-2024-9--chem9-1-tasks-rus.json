@@ -7,13 +7,14 @@
  "tasksFile": "olympiads/chemistry/national/2024/9/chem9-1-tasks-rus.pdf",
  "solutionFile": "olympiads/chemistry/national/2024/9/chem9-1-sol-rus.pdf",
  "generatedBy": "parser",
- "generatedAt": "2026-11-08T16:01:40.358Z",
+ "generatedAt": "2026-11-08T16:58:50.479Z",
  "quality": {
   "tasks": 7,
   "parts": 20,
   "withPoints": 20,
   "withReference": 20,
-  "withQuestion": 20
+  "withQuestion": 20,
+  "estimatedPoints": 0
  },
  "tasks": [
   {

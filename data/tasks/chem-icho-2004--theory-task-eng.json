@@ -1,0 +1,345 @@
+{
+ "setId": "chem-icho-2004--theory-task-eng",
+ "olympiadId": "chem-icho-2004",
+ "title": "Химия → IChO (международная) → 2004",
+ "materialLabel": "Теория (Задачи на английском)",
+ "lang": "en",
+ "tasksFile": "olympiads/chemistry/s/icho/2004/theory_task_eng.pdf",
+ "solutionFile": "olympiads/chemistry/s/icho/2004/theory_sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-08T17:00:20.007Z",
+ "quality": {
+  "tasks": 8,
+  "parts": 36,
+  "withPoints": 36,
+  "withReference": 0,
+  "withQuestion": 36,
+  "estimatedPoints": 36
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Thermodynamics",
+   "weight": null,
+   "total": 24,
+   "statement": "For his 18th birthday party in February Peter plans to turn a hut in the garden of his parents\ninto a swimming pool with an artificial beach. In order to estimate the costs for heating the\nwater and the house, Peter obtains the data for the natural gas composition and its price.\n1.1     Write down the chemical equations for the complete combustion of the main\n        components of natural gas, methane and ethane, given in Table 1. Assume that\n        nitrogen is inert under the chosen conditions.\n        Calculate the reaction enthalpy, the reaction entropy, and the Gibbs energy\n        under standard conditions (1.013·105 Pa, 25.0°C) for the combustion of methane\n        and ethane according to the equations above assuming that all products are\n        gaseous.\n        The thermodynamic properties and the composition of natural gas can be found in\n        Table 1.\n\n1.2     The density of natural gas is 0.740 g L-1 (1.013·105 Pa, 25.0°C) specified by PUC,\n        the public utility company.\n        a)      Calculate the amount of methane and ethane (in moles) in 1.00 m3 of\n                natural gas (natural gas, methane, and ethane are not ideal gases!).\n        b)      Calculate the combustion energy which is released as thermal energy\n                during the burning of 1.00 m3 of natural gas under standard conditions\n                assuming that all products are gaseous. (If you do not have the amount\n                from 1.2a) assume that 1.00 m3 natural gas corresponds to 40.00 mol\n                natural gas.)\n        According to the PUC the combustion energy will be 9.981 kWh per m3 of natural\n        gas if all products are gaseous. How large is the deviation (in percent) from the\n        value you obtained in b)?\n\nThe swimming pool inside the house is 3.00 m wide, 5.00 m long and 1.50 m deep (below\nthe floor). The tap water temperature is 8.00°C and the air temperature in the house\n(dimensions given in the figure below) is 10.0°C. Assume a water density of ρ = 1.00 kg L-1\nand air behaving like an ideal gas.\n\nFinal                                                                                         4\n\n1.3   Calculate the energy (in MJ) which is required to heat the water in the pool to\n      22.0°C and the energy which is required to heat the initial amount of air (21.0% of\n      O2, 79.0% of N2) to 30.0°C at a pressure of 1.013·105 Pa.\nIn February, the outside temperature is about 5°C in Northern Germany. Since the concrete\nwalls and the roof of the house are relatively thin (20.0 cm) there will be a loss of energy.\nThis energy is released to the surroundings (heat loss released to water and/or ground\nshould be neglected). The heat conductivity of the wall and roof is 1.00 W K-1 m-1.\n1.4     Calculate the energy (in MJ) which is needed to maintain the temperature inside\n        the house at 30.0°C during the party (12 hours).\n\n1.00 m3 of natural gas as delivered by PUC costs 0.40 € and 1.00 kWh of electricity costs\n0.137 €. The rent for the equipment for gas heating will cost him about 150.00 € while the\ncorresponding electrical heaters will only cost 100.00 €.\n1.5     What is the total energy (in MJ) needed for Peter’s “winter swimming pool”\n        calculated in 1.3 and 1.4? How much natural gas will he need, if the gas heater\n        has an efficiency of 90.0%?\n        What are the different costs for the use of either natural gas or electricity? Use\n        the values given by PUC for your calculations and assume 100% efficiency for\n        the electric heater.\n\nTable 1: Composition of natural gas\n\n  Chemical\n                   mol fraction x   ∆fH0·( kJ mol-1)-1   S0·(J mol-1 K-1)-1   Cp0·(J mol-1 K-1)-1\n  Substance\n\n      CO2 (g)         0.0024              -393.5             213.8                  37.1\n\n       N2 (g)         0.0134                  0.0            191.6                  29.1\n\n      CH4 (g)         0.9732                -74.6            186.3                  35.7\n\n      C2H6 (g)        0.0110                -84.0            229.2                  52.5\n\n      H2O (l)            -                -285.8               70.0                 75.3\n\n      H2O (g)            -                -241.8             188.8                  33.6\n\n       O2 (g)            -                    0.0            205.2                  29.4\n\nEquation:\nJ = E · (A · ∆t)-1 = λwall · ∆T · d -1\nJ       energy flow E along a temperature gradient (wall direction z) per area A and time ∆t\nd       wall thickness\nλwall   heat conductivity\n∆T      difference in temperature between the inside and the outside of the house\n\nFinal                                                                                               5",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 5,
+     "question": "Write down the chemical equations for the complete combustion of the main components of natural gas, methane and ethane, given in Table 1. Assume that nitrogen is inert under the chosen conditions. Calculate the reaction enthalpy, the reaction entropy, and the Gibbs energy under standard conditions (1.013·105 Pa, 25.0°C) for the combustion of methane and ethane according to the equations above assuming that all products are gaseous. The thermodynamic properties and the composition of natural gas can be found in Table 1.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.2",
+     "points": 5,
+     "question": "The density of natural gas is 0.740 g L-1 (1.013·105 Pa, 25.0°C) specified by PUC, the public utility company. a) Calculate the amount of methane and ethane (in moles) in 1.00 m3 of natural gas (natural gas, methane, and ethane are not ideal gases!). b) Calculate the combustion energy which is released as thermal energy during the burning of 1.00 m3 of natural gas under standard conditions assuming that all products are gaseous. (If you do not have the amount from 1.2a) assume that 1.00 m3 natural gas corresponds to 40.00 mol natural gas.) According to the PUC the combustion energy will be 9.981 kWh per m3 of natural gas if all products are gaseous. How large is the deviation (in percent) from the value you obtained in b)?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.3",
+     "points": 5,
+     "question": "Calculate the energy (in MJ) which is required to heat the water in the pool to 22.0°C and the energy which is required to heat the initial amount of air (21.0% of O2, 79.0% of N2) to 30.0°C at a pressure of 1.013·105 Pa.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.4",
+     "points": 5,
+     "question": "Calculate the energy (in MJ) which is needed to maintain the temperature inside the house at 30.0°C during the party (12 hours).",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.5",
+     "points": 4,
+     "question": "What is the total energy (in MJ) needed for Peter’s “winter swimming pool” calculated in 1.3 and 1.4? How much natural gas will he need, if the gas heater has an efficiency of 90.0%? What are the different costs for the use of either natural gas or electricity? Use the values given by PUC for your calculations and assume 100% efficiency for the electric heater.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Kinetics at catalyst surfaces",
+   "weight": null,
+   "total": 23,
+   "statement": "Apart from other compounds the exhaust gases of an Otto engine are the main pollutants\ncarbon monoxide, nitrogen monoxide and uncombusted hydrocarbons, as, for example,\noctane. To minimize them they are converted to carbon dioxide, nitrogen and water in a\nregulated three-way catalytic converter.\n2.1     Complete the chemical reaction equations for the reactions of the main\n        pollutants in the catalyst.\n\nTo remove the main pollutants from the exhaust gas of an Otto engine optimally, the λ-value\nis determined by an electro-chemical element, the so called lambda probe. It is located in the\nexhaust gas stream between engine and the three-way catalytic converter.\n                                                amount of air at the inlet\nThe lambda value is defined as λ =                                                   .\n                                     amount of air necessary for complete combustion\n\n                                                      w: λ-window\n                                                      y: conversion efficiency (%)\n                                                      z: Hydrocarbons\n\n2.2     Decide the questions on the answer sheet concerning the λ probe.\n\nThe adsorption of gas molecules on a solid surface can be described in a simple model by\nusing the Langmuir isotherm:\n                                                K⋅p\n                                          θ=\n                                               1+ K ⋅ p\nwhere θ is the fraction of surface sites that are occupied by the gas molecules, p is the gas\npressure and K is a constant.\nThe adsorption of a gas at 25 °C may be described by using the Langmuir isotherm with\nK = 0.85 kPa-1.\n2.3 a) Determine the surface coverage θ at a pressure of 0.65 kPa.\n2.3 b) Determine the pressure p at which 15 % of the surface is covered.\n\nFinal                                                                                              6\n\n2.3 c) The rate r of the decomposition of gas molecules at a solid surface depends on the\n       surface coverage θ (reverse reaction neglected): r = k·θ\n          Give the order of the decomposition reaction at low and at high gas pressures\n          assuming the validity of the Langmuir isotherm given above (products to be\n          neglected).\n\n2.3 d) Data for the adsorption of another gas on a metal surface (at 25°C)\n\n        3000\n\n        2500\n\n        2000                                                           x axis: p · (Pa)-1\n                                                                       y axis: p·Va-1 · (Pa cm-3)-1\n     1500\n  y axis                                                               Va is the gas volume that has\n     1000                                                              been adsorbed.\n\n        500\n\n          0\n               0        200        400   600 800 1000 1200\n                                          x axis\n          If the Langmuir isotherm can be applied, determine the gas volume Va,max\n          needed for a complete coverage of the metal surface and the product K·Va,max.\n          Hint: Set θ = Va / Va,max .\n\nAssume that the catalytic oxidation of CO on a Pd surface with equal surface sites proceeds\nin the following way:\nIn a first step adsorbed CO and adsorbed O2 form adsorbed CO2 in a fast equilibrium,\n                                                                k1\n                                    CO (ads.) + 0.5 O2 (ads.)            CO2 (ads.)\n                                                                k -1\n\nIn a slow second step, CO2 is then desorbed from the surface:\n\n                                             CO2 (ads.) →\n                                                         k2\n                                                            CO2 (g)\n\n2.4     Derive the formula for the reaction rate of the CO2(g) - formation as a function of\n        the partial pressures of the reaction components.\n        Hint: Use the Langmuir isotherm with the proper number of gas components\n                        K i ⋅ pi\n        θ(i) =                                  j: relevant gas components\n                   1+   ∑j\n                             K j ⋅ pj\n\nFinal                                                                                                  7",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 6,
+     "question": "Complete the chemical reaction equations for the reactions of the main pollutants in the catalyst.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.2",
+     "points": 6,
+     "question": "Decide the questions on the answer sheet concerning the λ probe.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.3",
+     "points": 6,
+     "question": "a) Determine the surface coverage θ at a pressure of 0.65 kPa.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.4",
+     "points": 5,
+     "question": "Derive the formula for the reaction rate of the CO2(g) - formation as a function of the partial pressures of the reaction components. Hint: Use the Langmuir isotherm with the proper number of gas components K i ⋅ pi θ(i) = j: relevant gas components 1+ ∑j K j ⋅ pj",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Monovalent alkaline earth compounds?",
+   "weight": null,
+   "total": 21,
+   "statement": "In the past there have been several reports on compounds of monovalent calcium. Until\nrecently the nature of these “compounds” was not known but they are still of great interest to\nsolid state chemists.\n\nAttempts to reduce CaCl2 to CaCl have been made with\n(a) Calcium                        (b) Hydrogen                              (c) Carbon\n3.1     Give the corresponding reaction equations that could potentially lead to the\n        formation of CaCl.\n\nAfter an attempt to reduce CaCl2 with the stoichiometric 1:1 molar amount of Ca one obtains\nan inhomogeneous grey substance. A closer look under the microscope reveals silvery\nmetallic particles and colorless crystals.\n3.2     What substance are the metallic particles and the colorless crystals?\n\nWhen CaCl2 is attempted to be reduced with elemental hydrogen a white product forms.\nElemental analysis shows that the sample contains 52.36 m/m% of calcium and 46.32 m/m%\nof chlorine.\n3.3     Determine the empirical formula of the compound formed!\n\nWhen CaCl2 is attempted to be reduced with elemental carbon a red crystalline product\nforms. The molar ratio of Ca and Cl determined by elemental analysis is n(Ca):n(Cl) = 1.5 : 1.\nDuring the hydrolysis of the red crystalline substance the same gas is evolved as during the\nhydrolysis of Mg2C3.\n3.4 a) Show the two acyclic constitutional isomers of the gas that is formed by\n       hydrolysis.\n      b) What compound is formed by the reaction of CaCl2 with carbon?\n         (Provided that monovalent calcium does not exist.)\n\nAs none of these attempts lead to the formation of CaCl more consideration has to be given\nas to the hypothetical structure of CaCl. One can assume that CaCl is likely to crystallize in a\nsimple crystal structure.\nIt is the radius ratio of cation r(Mm+) and anion r(Xx-) of salts that often determines the crystal\nstructure of a particular compound as shown for MX compounds in the table below.\n\nFinal                                                                                              8\n\n  Coordination         Surrounding of     Radius ratio     Structure type        estimated\n  number of M                X               rM//rX                             ∆LH0 for CaCl\n         3              Triangular        0.155-0.225              BN          - 663.8 kJ mol-1\n         4              Tetrahedral       0.225-0.414             ZnS          - 704.8 kJ mol-1\n         6              Octahedral        0.414-0.732             NaCl         - 751.9 kJ mol-1\n         8                Cubic           0.732-1.000             CsCl         - 758.4 kJ mol-1\n∆LH0(CaCl) is defined for the reaction Ca+(g) + Cl-(g) → CaCl(s)\n\n3.5a) What type of structure is CaCl likely to have?\n      [r(Ca+) ≈ 120 pm (estimated), r(Cl-) ≈167 pm)]\n\nNot only the lattice energy ∆LH0 for CaCl is important for the decision whether CaCl is\nthermodynamically stable or not. In order to decide whether it is stable to decompositon into\nits elements, the standard enthalpy of formation ∆fH0 of CaCl has to be known.\n3.5b) Calculate the value of ∆fH0 (CaCl) with the aid of a Born-Haber-cycle.\n\nheat of fusion            ∆fusionH0(Ca)                                         9.3 kJ mol-1\nionization enthalpy       ∆1. IEH(Ca)            Ca → Ca+                   589.7 kJ mol-1\nionization enthalpy       ∆2. IE H(Ca)           Ca+ → Ca2+                1145.0 kJ mol-1\nheat of vaporization      ∆ vap H0(Ca)                                       150.0 kJ mol-1\ndissociation energy       ∆dissH(Cl2)            Cl2 → 2 Cl                 240.0 kJ mol-1\nenthalpy of formation     ∆fH0(CaCl2)                                       -796.0 kJ mol-1\nelectron affinity         ∆EAH(Cl)               Cl + e- → Cl-             - 349.0 kJ mol-1\n\nTo decide whether CaCl is thermodynamically stable to disproportionation into Ca and CaCl2\nthe standard enthalpy of this process has to be calculated. (The change of the entropy ∆S is\nvery small in this case, so its influence is negligible.)\n3.6     Does the disproportionation of CaCl take place from a thermodynamic point of\n        view? Base your decision on a calculation!\n\nFinal                                                                                             9",
+   "parts": [
+    {
+     "id": "3.1",
+     "points": 5.5,
+     "question": "Give the corresponding reaction equations that could potentially lead to the formation of CaCl.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.2",
+     "points": 5.5,
+     "question": "What substance are the metallic particles and the colorless crystals?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.3",
+     "points": 5.5,
+     "question": "Determine the empirical formula of the compound formed!",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.4",
+     "points": 4.5,
+     "question": "a) Show the two acyclic constitutional isomers of the gas that is formed by hydrolysis. b) What compound is formed by the reaction of CaCl2 with carbon? (Provided that monovalent calcium does not exist.)",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Determining atomic masses",
+   "weight": null,
+   "total": 20,
+   "statement": "The reaction of the element X with hydrogen leads to a class of compounds that is analogous\nto hydrocarbons. 5.000 g of X form 5.628 g of a molar 2:1 mixture of the stoichiometric X-\nanalogues of methane and ethane, respectively.\n4.1     Determine the molar mass of X from this information. Give the chemical symbol\n        of X, and the 3D-structure of the two products.\n\nThe following more complex case is of great historical interest.\nThe mineral Argyrodite is a stoichiometric compound that contains silver (oxidation state +1),\nsulphur (oxidation state -2) and an unknown element Y (oxidation state +4). The ratio\nbetween the masses of silver and Y in Argyrodite is m(Ag) : m(Y) = 11.88 : 1. Y forms a\nreddish brown lower sulfide (oxidation state of Y is +2) and a higher white sulfide (oxidation\nstate of Y is +4). The coloured lower sulfide is the sublimate obtained by heating Argyrodite\nin a flow of hydrogen. The residues are Ag2S and H2S. To convert 10.0 g of Argyrodite\ncompletely, 0.295 L of hydrogen are needed at 400 K and 100 kPa.\n4.2     Determine the molar mass of Y from this information. Give the chemical symbol\n        of Y, and the empirical formula of Argyrodite.\n\nThe atomic masses are correlated with spectroscopic properties.\nTo determine the vibrational frequency ν~ expressed in wave numbers of chemical bonds in\nIR spectra chemists use Hooke's law which focuses on the frequency of the vibration\n(attention to units!):\n                                                 1     k\n                                         ν~ =        ⋅\n                                                2π c   µ\nν~             vibrational frequency of the bond, in wavenumbers (cm-1)\nc              speed of light\nk              force constant, indicating the strength of the bond (N m-1= kg s-2)\n                                                                3m( A)m(B)\nµ              reduced mass in AB4, which is given by µ =\n                                                               3m( A) + 4m(B)\nm(A), m(B)     the masses of the two bond atoms\n\nThe vibrational frequency of the C-H bond of methane is known to be 3030.00 cm-1. The\nvibrational frequency of the Z-analogue of methane is known to be 2938.45 cm-1. The bond\nenthalpy of a C-H bond in methane is 438.4 kJ mol-1. The bond enthalpy of a Z-H bond in the\nZ-analogue of methane is known to be 450.2 kJ mol-1.\n4.3     Determine the force constant k of a C-H bond using Hooke's law.\n        Estimate the force constant k of a Z-H bond, assuming that there is a linear\n        proportionality between force constant and bond enthalpy.\n        Determine the atomic mass of Z from this information.\n        Give the chemical symbol of Z\n\nFinal                                                                                          10",
+   "parts": [
+    {
+     "id": "4.1",
+     "points": 6.5,
+     "question": "Determine the molar mass of X from this information. Give the chemical symbol of X, and the 3D-structure of the two products.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.2",
+     "points": 6.5,
+     "question": "Determine the molar mass of Y from this information. Give the chemical symbol of Y, and the empirical formula of Argyrodite.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.3",
+     "points": 7,
+     "question": "Determine the force constant k of a C-H bond using Hooke's law. Estimate the force constant k of a Z-H bond, assuming that there is a linear proportionality between force constant and bond enthalpy. Determine the atomic mass of Z from this information. Give the chemical symbol of Z",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Biochemistry with Thermodynamics",
+   "weight": null,
+   "total": 18,
+   "statement": "Structure of ATP4 –\n\n                                                                                 NH2\n\n                                                                           N\n                                                                                       N\n\n                                                                           N\n                     O           O           O                                   N\n\n               -\n                O    P       O   P       O   P       O\n                                                                  O\n\n                     O   -\n                                 O   -\n                                             O   -           H        H\n\n                                                         H                 H\n                                                             OH       OH\n\nShifting chemical equilibria with ATP:\n\nAnimals use free energy from the oxidation of their food to maintain concentrations of ATP,\nADP, and phosphate far from equilibrium. In red blood cells the following concentrations\nhave been measured:\n                              c(ATP4-) = 2.25 mmol L-1\n                              c(ADP3-) = 0.25 mmol L-1\n                              c(HPO42-) = 1.65 mmol L-1\n\nFree energy stored in ATP can be released according to the following reaction:\n\n               →\nATP4- + H2O ← ADP3- + HPO42- + H+                                 ∆G°’= -30.5 kJ mol-1           (1)\n\nAs the pH is close to 7 in most living cells, biochemists use ∆G°’ instead of ∆G°. The\nstandard state of ∆G°’ is defined as having a constant pH of 7. In equations with ∆G°’ and K’\nfor reactions at pH=7 the concentration of H+ is therefore omitted. Standard concentration is\n1 mol L-1.\n\n5.1     Calculate the actual ∆G’ of reaction (1) in the red blood cell at 25°C and pH = 7.\n\nIn living cells many so-called “anabolic” reactions take place, which are at first sight\nthermodynamically unfavourable because of a positive ∆G. The phosphorylation of glucose is\nan example:\n\n                    →\nglucose + HPO42- ← glucose 6-phosphate2- + H2O                   ∆G°’= +13.8 kJ mol-1            (2)\n\nfinal                                                                                                   11\n\n5.2        Calculate first the equilibrium constant K' of reaction (2) and then the ratio\n           c(glucose 6-phosphate) / c(glucose) in the red blood cell in chemical equilibrium\n           at 25°C and pH = 7.\n\nTo shift the equilibrium to a higher concentration of glucose 6-phosphate, reaction (2) is\ncoupled with hydrolysis of ATP:\n                        hexokinase\n                   4-      →\nglucose + ATP              ←        glucose 6-phosphate2- + ADP3- + H+                (3)\n\n5.3        Calculate ∆G°’ and K’ of reaction (3). What is now the ratio\n           c(glucose 6-phosphate) / c(glucose) in the red blood cell in chemical equilibrium\n           at 25°C and pH = 7?\n\nATP synthesis:\n\nAn adult person ingests about 8000 kJ of energy (∆G’) per day with the food.\n5.4 a) What will be the mass of ATP that is produced per day if half of this energy is\n       used for ATP synthesis? Assume a ∆G’ of -52 kJ mol -1 for reaction (1), and a\n       molecular weight of 503 g mol-1 for ATP.\n      b)     What mass of ATP does the human body contain on average if the mean\n            lifetime of an ATP molecule until its hydrolysis is 1 min?\n      c) What happens to the rest of the free energy, which is not used for ATP\n         synthesis? Mark on the answer sheet.\n\nIn animals the energy obtained by the oxidation of food is used to pump protons out of\nspecialized membrane vesicles, the mitochondria. ATP-synthase, an enzyme, will allow\nprotons to re-enter the mitochondria if ATP is simultaneously synthesized from ADP and\nphosphate.\n5.5 a) How many protons (H+) are in a spherical mitochondrium with a diameter of 1\n       µm at pH = 7?\n      b) How many protons have to enter into each of the 1000 mitochondria of a liver\n         cell via the ATP-synthase to allow the production of a mass of 0.2 fg of ATP per\n         cell? Assume that 3 protons have to enter for the synthesis of 1 molecule of\n         ATP.\n\nfinal                                                                                        12",
+   "parts": [
+    {
+     "id": "5.1",
+     "points": 3.5,
+     "question": "Calculate the actual ∆G’ of reaction (1) in the red blood cell at 25°C and pH = 7.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.2",
+     "points": 3.5,
+     "question": "Calculate first the equilibrium constant K' of reaction (2) and then the ratio c(glucose 6-phosphate) / c(glucose) in the red blood cell in chemical equilibrium at 25°C and pH = 7.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.3",
+     "points": 3.5,
+     "question": "Calculate ∆G°’ and K’ of reaction (3). What is now the ratio c(glucose 6-phosphate) / c(glucose) in the red blood cell in chemical equilibrium at 25°C and pH = 7?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.4",
+     "points": 3.5,
+     "question": "a) What will be the mass of ATP that is produced per day if half of this energy is used for ATP synthesis? Assume a ∆G’ of -52 kJ mol -1 for reaction (1), and a molecular weight of 503 g mol-1 for ATP. b) What mass of ATP does the human body contain on average if the mean lifetime of an ATP molecule until its hydrolysis is 1 min? c) What happens to the rest of the free energy, which is not used for ATP synthesis? Mark on the answer sheet.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.5",
+     "points": 4,
+     "question": "a) How many protons (H+) are in a spherical mitochondrium with a diameter of 1 µm at pH = 7? b) How many protons have to enter into each of the 1000 mitochondria of a liver cell via the ATP-synthase to allow the production of a mass of 0.2 fg of ATP per cell? Assume that 3 protons have to enter for the synthesis of 1 molecule of ATP.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Diels-Alder Reactions",
+   "weight": null,
+   "total": 20,
+   "statement": "The Diels-Alder reaction, a concerted [4+2]-cycloaddition between a diene and an olefin to\nyield a cyclohexene, was discovered in 1928 here in Kiel. Prof. Otto Diels and his coworker\nKurt Alder mixed p-benzoquinone with an excess of cyclopentadiene and obtained the\nfollowing result:\n          O                                                                O\n\n                                 20 °C\n                                 20°C\n                 +                           [A]\n\n                                           C11H10O2\n          O                                                                O\n                                                                                B\n6.1     Draw the structure of A (without stereochemical information).\n\nThe Diels-Alder reaction is a concerted, one-step reaction that proceeds with high\nstereospecificity. For example, only a single stereoisomer C is formed in the following\nreaction\n\n                                                           H                        CN\n                  CN                                            CN                    H\n           +                                      =\n                                           CN                   CN                    H\n                  CN\n                                          CN                H                        CN\n                                     C\n                                                                           Not formed\n\nIf you use the E-isomer of the alkene instead, you will obtain two other stereoisomers D1 and\nD2.\n6.2     Give the structures of D1 and D2.\n\nAccordingly, in the original reaction (formation of B from cyclopentadiene and benzoquinone)\nDiels and Alder found only one of the following six conceivable stereoisomers of B (see next\npage).\n\n        Hints:\n        - keep the stereospecific formation of C in mind\n        and                                                                CN\n        - the sterically less hindered isomer forms.                      CN\n                                                                     C\n\nfinal                                                                                     13\n\n                  H     O                               O                                      O\n                                H                 H             H                          H           H\n\n                  H             H                 H                 H                      H           H\n                        O                               O                                      O\n                            1                               2                                      3\n\n                  H     O                               O                                      O\n                                H                 H                 H                      H           H\n\n                  H             H                 H                 H                      H           H\n                        O                               O                                      O\n                            4                                   5                                  6\n\n6.3     Which single isomer of the six stereoisomers 1-6 of B shown above did they\n        isolate?\n\nAfter prolonged heating (15h, 120°C) of the originally isolated stereoisomer B (melting point\nmp: 157°C), Diels and Alder obtained two new stereoisomers E (mp: 153°C) and F (mp:\n163°C). Equilibration of B with a catalytic amount of a strong base at 25°C gave a further\nstereoisomer G (mp: 184°C).\n\n                                    B                                   E     +        F\n                                    10%                                 20%       70%\n\n                                    B                                   G\n                                    60%                                 40%\n\n6.4     Decide the questions on the answer sheet concerning the Diels-Alder reaction.\n        Hint: You do not need to know, which of the six stereoisomers 1 - 6 (shown above)\n        corresponds to either E, F or G in order to anwer this question.\n\nThe Diels-Alder reaction plays also an important role in the following reaction sequence.\n\n                                                                                                           OMe\n\n          O                     CO2Me   strong base\n                                        strong base                      strong\n                                                                         strongbase\n                                                                                base                       OMe\n              +                                             I                              K                     L\n                  MeO           CO2Me                                                                      ∆\n                                                      C12H16O5                         C11H12O4\n\n          ∆                             OMe\n\n        - CO2                           CO2Me\n        - MeOH\n\n6.5     Draw the structures for I, K and L.\n        Hints: - K has only one methyl group.\n               - L is the Diels-Alder adduct of K and the alkene shown.\n\nfinal                                                                                                            14",
+   "parts": [
+    {
+     "id": "6.1",
+     "points": 4,
+     "question": "Draw the structure of A (without stereochemical information).",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.2",
+     "points": 4,
+     "question": "Give the structures of D1 and D2.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.3",
+     "points": 4,
+     "question": "Which single isomer of the six stereoisomers 1-6 of B shown above did they isolate?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.4",
+     "points": 4,
+     "question": "Decide the questions on the answer sheet concerning the Diels-Alder reaction. Hint: You do not need to know, which of the six stereoisomers 1 - 6 (shown above) corresponds to either E, F or G in order to anwer this question.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.5",
+     "points": 4,
+     "question": "Draw the structures for I, K and L. Hints: - K has only one methyl group. - L is the Diels-Alder adduct of K and the alkene shown.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Stereochemistry in Drugs",
+   "weight": null,
+   "total": 21,
+   "statement": "The Cahn-Ingold-Prelog rules are used to specify the stereochemistry of molecules.\n\n7.1     Order the groups on the answer sheet according to their priority in the Cahn-\n        Ingold-Prelog (CIP)-system.\n\nPseudoephedrine 1 is a constituent in many common drugs against colds, e.g. in nasal\nsprays.\n\n7.2     Mark the stereocenters in 1 with an * on the answer sheet.\n        Order the substituents on each stereocenter in 1 according to their priority and\n        determine their absolute configuration (R or S).\n\n7.3     Draw a Newman or a sawhorse representation of 1.\n        Draw a Fischer representation of 1.\n\nTreatment of 1 with acidic permanganate solutions under mild conditions yields the stimulant\nMethcathinone 2:\n\n7.4     Draw the stereochemically correct structure of 2 and a balanced redox equation\n        of the reaction. Indicate in your equation the particular oxidation number on all\n        atoms which undergo a change in their formal oxidation numbers.\n\nThe treatment of 2 with LiAlH4 results exclusively in compound 3, which differs from 1 in its\nmelting point.\n\n7.5 a) Draw the stereochemically correct structure of 3.\n\n7.5 b) Decide the statements on the answer sheet concerning isomers.\n\n7.5 c) Draw a structural model to rationalize the exclusive formation of 3 from 2.\n\nfinal                                                                                     15",
+   "parts": [
+    {
+     "id": "7.1",
+     "points": 4,
+     "question": "Order the groups on the answer sheet according to their priority in the CahnIngold-Prelog (CIP)-system.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.2",
+     "points": 4,
+     "question": "Mark the stereocenters in 1 with an * on the answer sheet. Order the substituents on each stereocenter in 1 according to their priority and determine their absolute configuration (R or S).",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.3",
+     "points": 4,
+     "question": "Draw a Newman or a sawhorse representation of 1. Draw a Fischer representation of 1.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.4",
+     "points": 4,
+     "question": "Draw the stereochemically correct structure of 2 and a balanced redox equation of the reaction. Indicate in your equation the particular oxidation number on all atoms which undergo a change in their formal oxidation numbers.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.5",
+     "points": 5,
+     "question": "a) Draw the stereochemically correct structure of 3.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Colloids",
+   "weight": null,
+   "total": 22,
+   "statement": "The combination of an inorganic and an organic component on a nanometer scale yields\nmaterials with excellent properties. Thus the synthesis of hybrid nanoparticles is of interest.\n\n(T = 298.15 K throughout whole problem)\n\nSolution A is an aqueous solution of CaCl2 with a concentration of 1.780 g L-1.\nSolution B is an aqueous solution of Na2CO3 with a concentration of 1.700 g L-1.\npKa1(H2CO3) = 6.37                              pKa2(HCO3-) = 10.33\n\n8.1     Calculate the pH of solution B using reasonable assumptions.\n\n100 mL of solution A and 100 mL of solution B are mixed to form solution C. Solution C is\nadjusted to pH 10. A precipitate forms.\nKsp(Ca(OH)2) = 6.46·10-6 mol3 L-3               Ksp(CaCO3) = 3.31·10-9 mol2 L-2\n\n8.2     Show by calculation for each of the compounds Ca(OH)2 and CaCO3 whether it\n        can be found in the precipitate or not.\n\nIn a similar experiment 100 mL of solution A additionally contain 2 g of a copolymer\nconsisting of two water soluble blocks: a poly(ethylene oxide) block and a poly(acrylic acid)\nblock:\n\n                        H\n                             H\n                                                                   COOH\n                         C                  O\n                                                                   C\n                  H                 C\n                             H                  68         C       H\n                                        H                                 8 H\n                                                       H       H\n\nThe polymer does not undergo any chemical reaction (except protolysis of the acid) and yet\nhas a strong effect: after mixing of the two solutions (A+B) no precipitate can be observed.\nSmall calcium carbonate particles with the polymer chains attached to their surface form. The\nattached polymers prevent further crystal growth and the hybrid particles remain in solution.\n\n8.3. Circle the block of the polymer (on the answer sheet) that attaches to the surface\n     of the growing calcium carbonate crystal.\n\nfinal                                                                                        16\n\nTo characterize the hybrid particles they are separated from the preparation solution and\ntransferred into 50 mL of an aqueous NaOH solution (c(NaOH) = 0.19 mol L-1). The solution\nis diluted by the addition of 200 mL of water. Assume that the new solution contains only the\nhybrid particles and no additional calcium or carbonate ions. All acidic groups participate in\nthe acid-base equilibrium.\n\n•       For the new solution, a pH of 12.30 is measured.\n•       In electron microscopy you only can see the inorganic particles (not the polymer):\n        Spherical particles of 100 nm diameter are observed.\n•       The molar mass of the hybrid particles (inorganic and organic part together) is\n        determined to be M = 8.01.108 g moL-1\n•       The charge of the particles is found to be Z = - 800 (number of unit charges).\n                (pKa(COOH, copolymer) = 4.88)\n\n8.4     How much of the initial amount of polymer (2 g) can still be found in the hybrid\n        particles?\n\n8.5. Calculate which modification of                            Modification       density\n     calcium carbonate has been formed.                           Calcite        2.71 g cm-3\n                                                                  Vaterite       2.54 g cm-3\n                                                                 Aragonite       2.95 g cm-3\n\nfinal                                                                                      17",
+   "parts": [
+    {
+     "id": "8.1",
+     "points": 4.5,
+     "question": "Calculate the pH of solution B using reasonable assumptions.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "8.2",
+     "points": 4.5,
+     "question": "Show by calculation for each of the compounds Ca(OH)2 and CaCO3 whether it can be found in the precipitate or not.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "8.3",
+     "points": 4.5,
+     "question": "Circle the block of the polymer (on the answer sheet) that attaches to the surface of the growing calcium carbonate crystal.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "8.4",
+     "points": 4.5,
+     "question": "How much of the initial amount of polymer (2 g) can still be found in the hybrid particles?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "8.5",
+     "points": 4,
+     "question": "Calculate which modification of Modification density calcium carbonate has been formed. Calcite 2.71 g cm-3 Vaterite 2.54 g cm-3 Aragonite 2.95 g cm-3",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

@@ -66,6 +66,8 @@ async function fetchWithTimeout(url, options = {}, timeoutMs = 30000) {
 }
 
 function isTemporaryOmniRouteEndpoint(endpoint = "") {
+  // Локальная проверка через cloudflared quick tunnel: OMNIROUTE_ALLOW_TEMPORARY=1
+  if (process.env.OMNIROUTE_ALLOW_TEMPORARY === "1") return false;
   try {
     return new URL(endpoint).hostname.endsWith(".trycloudflare.com");
   } catch {
