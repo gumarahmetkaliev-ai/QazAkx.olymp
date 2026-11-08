@@ -25,3 +25,6 @@ data/*.sqlite
 data/*.sqlite-wal
 data/*.sqlite-shm
 data/**/*.db
+
+# Скачанные PDF (npm run sync-chemistry -- --download). Закоммитьте нужные вручную: git add -f
+public/olympiads/

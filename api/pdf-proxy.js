@@ -6,7 +6,24 @@
  * Memory-caches page->CDN URL mappings.
  */
 
+const fs = require("fs");
+const path = require("path");
+
 const pageCache = new Map();
+let knownUrls = null;
+
+/** Direct CDN links collected by scripts/sync-chemistry.js (skips scraping the page) */
+function getKnownUrl(pageUrl, title) {
+  if (knownUrls === null) {
+    knownUrls = {};
+    try {
+      const file = path.join(__dirname, "..", "data", "chemistry-sources.json");
+      if (fs.existsSync(file)) knownUrls = JSON.parse(fs.readFileSync(file, "utf8")).urls || {};
+    } catch {}
+  }
+  const url = knownUrls[pageUrl] && knownUrls[pageUrl][title];
+  return url && isSafeCdnUrl(url) ? url : null;
+}
 const CDN_ORIGIN = "https://cdn.bc-pf.org";
 const PAGE_ORIGIN = "https://olympiads.bc-pf.org";
 const CACHE_TTL_MS = 30 * 60 * 1000;
@@ -109,8 +126,20 @@ module.exports = async function handler(req, res) {
     return;
   }
 
-  let cdnUrl;
+  // Downloaded copy (npm run sync-chemistry -- --download) → serve it, works offline
   try {
+    const pagePath = new URL(pageUrl).pathname.replace(/^\/+|\/+$/g, "");
+    const localFile = path.join(__dirname, "..", "public", "olympiads", ...pagePath.split("/"), path.basename(title));
+    if (!pagePath.includes("..") && /\.pdf$/i.test(localFile) && fs.existsSync(localFile)) {
+      res.statusCode = 200;
+      res.setHeader("Content-Type", "application/pdf");
+      res.setHeader("Content-Disposition", `${wantDownload ? "attachment" : "inline"}; filename="${safeTitle}"`);
+      return fs.createReadStream(localFile).pipe(res);
+    }
+  } catch {}
+
+  let cdnUrl = getKnownUrl(pageUrl, title);
+  if (!cdnUrl) try {
     const links = await fetchPagePdfLinks(pageUrl);
     cdnUrl = links.get(title.toLowerCase());
     if (!cdnUrl) {
@@ -146,6 +175,7 @@ module.exports = async function handler(req, res) {
     res.statusCode = cdnRes.status || 200;
     res.setHeader("Content-Type", "application/pdf");
     res.setHeader("X-Content-Type-Options", "nosniff");
+    res.setHeader("Cache-Control", "public, max-age=86400, s-maxage=604800");
 
     const disposition = wantDownload
       ? `attachment; filename="${safeTitle}"`

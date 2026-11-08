@@ -1,0 +1,205 @@
+#!/usr/bin/env node
+/**
+ * Разбирает PDF заданий + PDF решений в JSON с задачами, пунктами, баллами и эталоном жюри.
+ * Именно эти JSON включают поля ответа и ИИ-проверку на сайте.
+ *
+ *   npm run build-tasks                     – все комплекты, у которых PDF уже скачаны
+ *   npm run build-tasks -- --stage=oblast   – только областные
+ *   npm run build-tasks -- --ai             – если парсер не справился, структурировать через OpenRouter
+ *   npm run build-tasks -- --force          – пересобрать уже готовые
+ *
+ * Текст из PDF берётся через `pdftotext -layout` (poppler, лучше всего) или pdf-parse.
+ */
+
+const fs = require("fs");
+const path = require("path");
+const { execFileSync } = require("child_process");
+const { parseOlympiad, qualityReport } = require("../lib/task-parser");
+
+const ROOT = path.join(__dirname, "..");
+const PUBLIC_DIR = path.join(ROOT, "public");
+const CATALOG_PATH = path.join(ROOT, "data", "catalog", "chemistry.json");
+const TASKS_DIR = path.join(ROOT, "data", "tasks");
+
+const args = Object.fromEntries(
+  process.argv.slice(2).map((a) => {
+    const [k, v] = a.replace(/^--/, "").split("=");
+    return [k, v === undefined ? true : v];
+  })
+);
+
+function loadEnv() {
+  for (const file of [".env.local", ".env"]) {
+    const p = path.join(ROOT, file);
+    if (!fs.existsSync(p)) continue;
+    for (const line of fs.readFileSync(p, "utf8").split(/\r?\n/)) {
+      const m = line.match(/^\s*(?:export\s+)?([A-Z0-9_]+)\s*=\s*(.*)\s*$/);
+      if (m && !process.env[m[1]]) process.env[m[1]] = m[2].replace(/^["']|["']$/g, "");
+    }
+  }
+}
+
+let hasPdftotext = null;
+async function pdfText(file) {
+  if (hasPdftotext === null) {
+    try {
+      execFileSync("pdftotext", ["-v"], { stdio: "ignore" });
+      hasPdftotext = true;
+    } catch {
+      hasPdftotext = false;
+      console.log("ℹ pdftotext не найден — использую pdf-parse (для лучшего качества установите poppler).");
+    }
+  }
+  if (hasPdftotext) {
+    return execFileSync("pdftotext", ["-layout", "-enc", "UTF-8", file, "-"], { maxBuffer: 64 * 1024 * 1024, stdio: ["ignore", "pipe", "ignore"] }).toString("utf8");
+  }
+  const { PDFParse } = require("pdf-parse");
+  const parser = new PDFParse({ data: fs.readFileSync(file) });
+  const result = await parser.getText();
+  await parser.destroy();
+  return result.text || "";
+}
+
+const AI_SCHEMA_HINT = `{
+  "tasks": [
+    {
+      "number": 1,
+      "title": "Название задачи",
+      "weight": 10,
+      "total": 20,
+      "statement": "полное условие задачи",
+      "parts": [
+        { "id": "1.1", "points": 8, "question": "что требуется в пункте", "reference": "эталонное решение жюри для пункта + критерии баллов дословно из решений" }
+      ]
+    }
+  ]
+}`;
+
+async function structureWithAI(tasksText, solText) {
+  // OmniRoute (OpenAI-совместимый) или OpenRouter
+  const omniKey = process.env.OMNIROUTE_API_KEY;
+  const omniEndpoint = (process.env.OMNIROUTE_ENDPOINT || "").trim().replace(/\/+$/, "");
+  const useOmni = Boolean(omniKey && omniEndpoint);
+  const key = useOmni ? omniKey : process.env.OPENROUTER_API_KEY;
+  if (!key) throw new Error("нет OMNIROUTE_API_KEY/OMNIROUTE_ENDPOINT или OPENROUTER_API_KEY");
+  const model = useOmni
+    ? process.env.OMNIROUTE_PARSE_MODEL || process.env.OMNIROUTE_MODEL || "auto"
+    : process.env.OPENROUTER_PARSE_MODEL || process.env.OPENROUTER_MODEL || "google/gemini-2.5-flash";
+  let url = "https://openrouter.ai/api/v1/chat/completions";
+  if (useOmni) {
+    url = omniEndpoint;
+    if (!/\/chat\/completions$/i.test(url)) url += /\/v1$/i.test(url) ? "/chat/completions" : "/v1/chat/completions";
+  }
+  const prompt = `Ниже текст PDF с заданиями олимпиады по химии и текст PDF с официальными решениями жюри.
+Разбей комплект на задачи и пункты. Для каждого пункта укажи баллы (из таблиц баллов / решений), формулировку вопроса и эталонное решение с критериями оценивания (максимально близко к тексту решений).
+Если в задаче нет явных пунктов — сделай один пункт "N.1" с полными баллами за задачу.
+Ответь ТОЛЬКО JSON по схеме:
+${AI_SCHEMA_HINT}
+
+=== ЗАДАНИЯ ===
+${tasksText.slice(0, 60000)}
+
+=== РЕШЕНИЯ ===
+${solText.slice(0, 90000)}`;
+
+  const res = await fetch(url, {
+    method: "POST",
+    headers: { "Content-Type": "application/json", Authorization: `Bearer ${key}`, "X-Title": "QazAkx.olymp" },
+    body: JSON.stringify({
+      model,
+      messages: [{ role: "user", content: prompt }],
+      temperature: 0,
+      max_tokens: 32000,
+      response_format: { type: "json_object" },
+    }),
+    signal: AbortSignal.timeout(300000),
+  });
+  const data = await res.json();
+  if (!res.ok || data.error) throw new Error(data.error?.message || `HTTP ${res.status}`);
+  const text = data.choices?.[0]?.message?.content || "";
+  const json = JSON.parse(text.slice(text.indexOf("{"), text.lastIndexOf("}") + 1));
+  return { tasks: json.tasks || [], model };
+}
+
+function isGood(q) {
+  return q.tasks > 0 && q.withPoints === q.parts && q.withReference >= Math.ceil(q.parts * 0.6);
+}
+
+async function main() {
+  loadEnv();
+  if (!fs.existsSync(CATALOG_PATH)) execFileSync(process.execPath, [path.join(__dirname, "build-catalog.js")], { stdio: "inherit" });
+  const catalog = JSON.parse(fs.readFileSync(CATALOG_PATH, "utf8"));
+  fs.mkdirSync(TASKS_DIR, { recursive: true });
+
+  let built = 0;
+  let skipped = 0;
+  let weak = 0;
+  for (const olymp of catalog.olympiads) {
+    if (args.stage && olymp.stage !== args.stage) continue;
+    if (args.year && String(olymp.year) !== String(args.year)) continue;
+    for (const mat of olymp.materials) {
+      if (mat.kind !== "tasks" || !mat.solutionId) continue;
+      const sol = olymp.materials.find((m) => m.id === mat.solutionId);
+      const exists = (m) => m && fs.existsSync(path.join(PUBLIC_DIR, m.localPath));
+      if (!exists(mat) || !exists(sol)) continue;
+      const outPath = path.join(TASKS_DIR, `${mat.setId}.json`);
+      if (fs.existsSync(outPath) && !args.force) {
+        skipped++;
+        continue;
+      }
+
+      const tasksText = await pdfText(path.join(PUBLIC_DIR, mat.localPath));
+      const solText = await pdfText(path.join(PUBLIC_DIR, sol.localPath));
+      let tasks = parseOlympiad(tasksText, solText);
+      let q = qualityReport(tasks);
+      let generatedBy = "parser";
+
+      if (!isGood(q) && args.ai) {
+        try {
+          const ai = await structureWithAI(tasksText, solText);
+          const aq = qualityReport(ai.tasks);
+          if (aq.withReference >= q.withReference) {
+            tasks = ai.tasks;
+            q = aq;
+            generatedBy = `ai:${ai.model}`;
+          }
+        } catch (err) {
+          console.warn(`  ⚠ ИИ-разбор ${mat.setId}: ${err.message}`);
+        }
+      }
+
+      const label = `${olymp.title} · ${mat.label}`;
+      if (!q.tasks) {
+        console.log(`✗ ${label}: задачи не найдены`);
+        weak++;
+        continue;
+      }
+      if (!isGood(q)) weak++;
+
+      const out = {
+        setId: mat.setId,
+        olympiadId: olymp.id,
+        title: olymp.title,
+        materialLabel: mat.label,
+        lang: mat.lang,
+        tasksFile: mat.localPath,
+        solutionFile: sol.localPath,
+        generatedBy,
+        generatedAt: new Date().toISOString(),
+        quality: q,
+        tasks,
+      };
+      fs.writeFileSync(outPath, JSON.stringify(out, null, 1) + "\n");
+      built++;
+      console.log(`${isGood(q) ? "✓" : "~"} ${label}: ${q.tasks} задач, ${q.parts} пунктов, эталон у ${q.withReference}`);
+    }
+  }
+  console.log(`\nГотово: собрано ${built}, пропущено (уже есть) ${skipped}, требуют проверки ${weak}.`);
+  if (weak && !args.ai) console.log("Подсказка: запустите с --ai, чтобы слабые комплекты структурировал ИИ (нужен ключ OmniRoute или OpenRouter).");
+  execFileSync(process.execPath, [path.join(__dirname, "build-catalog.js")], { stdio: "inherit" });
+}
+
+main().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});

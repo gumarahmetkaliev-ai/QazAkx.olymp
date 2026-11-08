@@ -7,15 +7,18 @@ const http = require("http");
 const fs = require("fs");
 const path = require("path");
 
-// Load AI service & handlers
-const aiHandler = require("./api/ai");
-const chatHandler = require("./api/chat");
-const checkSolutionHandler = require("./api/check-solution");
-const extractTasksHandler = require("./api/extract-tasks");
-const detectTasksHandler = require("./api/detect-tasks");
-const checkTaskHandler = require("./api/check-task");
-const pdfProxyHandler = require("./api/pdf-proxy");
-const publicConfigHandler = require("./api/public-config");
+// Load AI service & handlers (lazy: a broken optional dependency must not take the whole site down)
+const lazy = (file) => (req, res) => require(file)(req, res);
+const aiHandler = lazy("./api/ai");
+const chatHandler = lazy("./api/chat");
+const checkSolutionHandler = lazy("./api/check-solution");
+const extractTasksHandler = lazy("./api/extract-tasks");
+const detectTasksHandler = lazy("./api/detect-tasks");
+const checkTaskHandler = lazy("./api/check-task");
+const pdfProxyHandler = lazy("./api/pdf-proxy");
+const publicConfigHandler = lazy("./api/public-config");
+const gradeHandler = lazy("./api/grade");
+const taskSetHandler = lazy("./api/task-set");
 const { loadEnv, getAIHealth } = require("./api/lib/ai-service");
 
 loadEnv();
@@ -92,9 +95,25 @@ const server = http.createServer(async (req, res) => {
     return pdfProxyHandler(req, res);
   }
 
+  if (pathname === "/api/grade") {
+    return gradeHandler(req, res);
+  }
+
+  if (pathname === "/api/task-set") {
+    return taskSetHandler(req, res);
+  }
+
   if (pathname === "/api/public-config") {
     return publicConfigHandler(req, res);
   }
+
+  // Never serve secrets, server data with jury references, or dependencies
+  if (/^\/(\.env|\.git|node_modules|data\/tasks|lib\/|api\/|scripts\/|supabase\/)/.test(pathname)) {
+    res.statusCode = 404;
+    res.end("Not found");
+    return;
+  }
+
 
   // 2. Static File Serving
   if (pathname === "/" || pathname === "") {
@@ -118,7 +137,7 @@ const server = http.createServer(async (req, res) => {
     } else {
       filePath = path.join(ROOT_DIR, "index.html");
     }
-  } else if (pathname.startsWith("/auth/")) {
+  } else if (pathname.startsWith("/auth/") || pathname === "/progress" || pathname === "/account") {
     filePath = path.join(ROOT_DIR, "index.html");
   } else {
     filePath = path.join(ROOT_DIR, pathname);

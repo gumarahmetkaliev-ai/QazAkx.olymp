@@ -341,7 +341,7 @@ async function callAnthropic(apiKey, systemPrompt, userPrompt, options = {}) {
  * Uses OMNIROUTE_API_KEY, OMNIROUTE_ENDPOINT, OMNIROUTE_MODEL separately from Anthropic.
  * Sends Bearer Authorization and OpenAI-compatible messages format.
  */
-async function callOmniRoute(apiKey, systemPrompt, userPrompt, model = null) {
+async function callOmniRoute(apiKey, systemPrompt, userPrompt, model = null, maxTokens = 3000) {
   const endpoint = (process.env.OMNIROUTE_ENDPOINT || "").trim().replace(/\/+$/, "");
   if (!endpoint) throw new Error("OMNIROUTE_ENDPOINT is not configured");
 
@@ -357,7 +357,7 @@ async function callOmniRoute(apiKey, systemPrompt, userPrompt, model = null) {
       { role: "user", content: userPrompt },
     ],
     temperature: 0.2,
-    max_tokens: 3000,
+    max_tokens: maxTokens,
   };
 
   const response = await fetchWithTimeout(url, {
@@ -367,7 +367,7 @@ async function callOmniRoute(apiKey, systemPrompt, userPrompt, model = null) {
         Authorization: `Bearer ${apiKey}`,
     },
     body: JSON.stringify(payload),
-  });
+  }, 60000);
 
   const data = await response.json();
   if (!response.ok || data.error) {
@@ -519,7 +519,7 @@ async function callGroq(apiKey, systemPrompt, userPrompt, model = null) {
 /**
  * Call OpenRouter API
  */
-async function callOpenRouter(apiKey, systemPrompt, userPrompt, model = null) {
+async function callOpenRouter(apiKey, systemPrompt, userPrompt, model = null, maxTokens = 3000) {
   const chosenModel = process.env.OPENROUTER_MODEL || model || "google/gemini-2.5-flash";
   const url = "https://openrouter.ai/api/v1/chat/completions";
 
@@ -530,7 +530,7 @@ async function callOpenRouter(apiKey, systemPrompt, userPrompt, model = null) {
       { role: "user", content: userPrompt },
     ],
     temperature: 0.2,
-    max_tokens: 3000,
+    max_tokens: maxTokens,
   };
 
   const response = await fetchWithTimeout(url, {
@@ -542,7 +542,7 @@ async function callOpenRouter(apiKey, systemPrompt, userPrompt, model = null) {
       "X-Title": "QazAkx.olymp",
     },
     body: JSON.stringify(payload),
-  });
+  }, 60000);
 
   const data = await response.json();
   if (!response.ok || data.error) {
@@ -636,7 +636,7 @@ async function processAIRequest({ prompt, systemPrompt, mode = "analyze", langua
   // Provider 1: OmniRoute (OpenAI-compatible) — uses OMNIROUTE_API_KEY/ENDPOINT/MODEL
   if (omniRouteKey && omniRouteEndpoint && !isTemporaryOmniRouteEndpoint(omniRouteEndpoint)) {
     try {
-      const result = await callOmniRoute(omniRouteKey, finalSystemPrompt, prompt, omniRouteModel || options.model);
+      const result = await callOmniRoute(omniRouteKey, finalSystemPrompt, prompt, omniRouteModel || options.model, options.maxTokens || 3000);
       return { success: true, data: result };
     } catch (err) {
       console.warn("OmniRoute provider attempt failed:", err.message);
@@ -669,7 +669,7 @@ async function processAIRequest({ prompt, systemPrompt, mode = "analyze", langua
   // Provider 4: OpenRouter (if configured)
   if (openRouterKey) {
     try {
-      const result = await callOpenRouter(openRouterKey, finalSystemPrompt, prompt, options.model);
+      const result = await callOpenRouter(openRouterKey, finalSystemPrompt, prompt, options.model, options.maxTokens || 3000);
       return { success: true, data: result };
     } catch (err) {
       console.warn("OpenRouter provider attempt failed:", err.message);

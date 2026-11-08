@@ -1,17 +1,22 @@
 {
   "name": "qazakx-olymp",
   "version": "1.0.0",
-  "description": "Олимпиадная платформа по химии для школьников Казахстана с AI-проверкой решений",
+  "description": "Олимпиады по химии Казахстана: задания, решения и ИИ-жюри, которое проверяет ответы по пунктам",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "dev": "node server.js",
-    "test": "node test-suite.js",
+    "test": "node tests/parser.test.js",
+    "test:legacy": "node test-suite.js",
     "test:ai": "node test-ai.js",
     "test:extract": "node test-extract.js",
     "test:tasks": "node test-tasks.js",
-    "build": "node -c server.js && node -c api/extract-tasks.js && node -c api/task-detector.js && echo 'Build OK'",
-    "scan-olympiads": "node scripts/scan-olympiads.js"
+    "build": "node -c server.js && node -c api/grade.js && node -c api/task-set.js && node scripts/build-catalog.js",
+    "scan-olympiads": "node scripts/scan-olympiads.js",
+    "dev:fake-ai": "node -e \"process.env.QAZAKX_FAKE_AI='1';const p=process.env.PORT||3000;require('./server.js').listen(p,()=>console.log('http://localhost:'+p+' (фейковое ИИ-жюри)'))\"",
+    "sync-chemistry": "node scripts/sync-chemistry.js",
+    "build-catalog": "node scripts/build-catalog.js",
+    "build-tasks": "node scripts/build-tasks.js"
   },
   "keywords": [
     "chemistry",
@@ -26,5 +31,8 @@
     "@supabase/supabase-js": "^2.5.0",
     "better-sqlite3": "^13.0.3",
     "pdf-parse": "^2.4.5"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
