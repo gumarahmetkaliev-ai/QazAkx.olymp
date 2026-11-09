@@ -105,6 +105,20 @@ ${tasksText.slice(0, 60000)}
 === РЕШЕНИЯ ===
 ${solText.slice(0, 90000)}`;
 
+  // Квоты/«cooldown» у провайдеров OmniRoute: ждём и повторяем до 4 раз
+  for (let attempt = 1; ; attempt++) {
+    try {
+      return await requestStructure(url, key, model, prompt);
+    } catch (err) {
+      const retriable = /quota|cooldown|cooling|rate.?limit|429|timed? ?out|tunnel|502|503|530/i.test(err.message);
+      if (!retriable || attempt >= 4) throw err;
+      console.warn(`  … ${err.message.slice(0, 120)} — повтор через ${attempt * 90} с`);
+      await new Promise((r) => setTimeout(r, attempt * 90000));
+    }
+  }
+}
+
+async function requestStructure(url, key, model, prompt) {
   const res = await fetch(url, {
     method: "POST",
     headers: { "Content-Type": "application/json", Authorization: `Bearer ${key}`, "X-Title": "QazAkx.olymp" },
@@ -117,7 +131,13 @@ ${solText.slice(0, 90000)}`;
     }),
     signal: AbortSignal.timeout(300000),
   });
-  const data = await res.json();
+  const raw = await res.text();
+  let data;
+  try {
+    data = JSON.parse(raw);
+  } catch {
+    throw new Error(`HTTP ${res.status}: ответ не JSON (${raw.slice(0, 80).replace(/\s+/g, " ")})`);
+  }
   if (!res.ok || data.error) throw new Error(data.error?.message || `HTTP ${res.status}`);
   const text = data.choices?.[0]?.message?.content || "";
   const json = JSON.parse(text.slice(text.indexOf("{"), text.lastIndexOf("}") + 1));

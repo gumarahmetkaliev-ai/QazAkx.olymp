@@ -369,7 +369,7 @@ async function callOmniRoute(apiKey, systemPrompt, userPrompt, model = null, max
         Authorization: `Bearer ${apiKey}`,
     },
     body: JSON.stringify(payload),
-  }, 60000);
+  }, Number(process.env.OMNIROUTE_TIMEOUT_MS) || 60000);
 
   const data = await response.json();
   if (!response.ok || data.error) {
