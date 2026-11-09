@@ -1,0 +1,376 @@
+{
+ "setId": "bio-junior-2022-7--bio7-junior-oblast-tasks-rus",
+ "olympiadId": "bio-junior-2022-7",
+ "title": "Биология → Junior → 2022 → 7 класс",
+ "materialLabel": "Junior (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/junior/2022/7/bio7-junior-oblast-tasks-rus.pdf",
+ "solutionFile": "olympiads/biology/junior/2022/7/bio7-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T18:33:24.630Z",
+ "quality": {
+  "tasks": 6,
+  "parts": 43,
+  "withPoints": 43,
+  "withReference": 0,
+  "withQuestion": 43,
+  "estimatedPoints": 43
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "(по 0.5 баллов, по принципу “все или ничего”)",
+   "weight": null,
+   "total": 10.5,
+   "statement": "Определите структуры листа.\n\nrj                              rj                               rj\n   o1                                  o1                          o1\n             31                               31                      31\n                    4                                4                  4\n\n     1.   _____устьице\n     2.   _____флоэма\n     3.   _____клетки обкладки\n     4.   _____ксилема\n     5.   _____эпидермис\n     6.   _____губчатый мезофилл\n     7.   _____столбчатый мезофилл\nrj                              rj                               rj\n   o1                                  o1                          o1\n             31                               31                      31\n                    4                                4                  4\n\nrj",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 1.5,
+     "question": "_____устьице",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.2",
+     "points": 1.5,
+     "question": "_____флоэма",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.3",
+     "points": 1.5,
+     "question": "_____клетки обкладки",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.4",
+     "points": 1.5,
+     "question": "_____ксилема",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.5",
+     "points": 1.5,
+     "question": "_____эпидермис",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.6",
+     "points": 1.5,
+     "question": "_____губчатый мезофилл",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.7",
+     "points": 1.5,
+     "question": "_____столбчатый мезофилл",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "(по 0.5 баллов)",
+   "weight": null,
+   "total": 10,
+   "statement": "rj                        rj\n   o1                              o1\n Определите структуры цикла развития папоротника         o1\n            31                            31                31\n\nrj                           rj                        rj\n   o1                              o1                    o1\n            31                            31                31\n     A. Архегоний\n     B. Спорофит\n     C. Спорангий\n     D. Антеридий\n     E. Молодой спорофит\n     F. Зигота\n     G. Заросток\n     H. Проростание споры\n     I. Сорусы\n     J. Споры\n\n     1. _____\n     2. _____\n     3. _____\n     4. _____\n     5. _____\nrj   6. _____\n     7. _____\n                             rj                        rj\n   o18. _____\n     9. _____\n                                   o1                    o1\n            31\n     10. _____                            31                31\n\nrj",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 2,
+     "question": "_____",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.2",
+     "points": 2,
+     "question": "_____",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.3",
+     "points": 2,
+     "question": "_____",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.4",
+     "points": 2,
+     "question": "_____",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.5",
+     "points": 2,
+     "question": "_____",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача №3",
+   "weight": null,
+   "total": 12,
+   "statement": "rj                            rj\n а) Определите структуры данного организма. (по 0.5 баллов)     o1\n                   4                                4                4\n\nrj                              rj                            rj\n   o1                                 o1                        o1\n                   4\n     A. Большое ядро\n                                                    4                4\n     B. Клеточное ротовое отверстие\n     C. Пищеварительная вакуоль\n     D. Порошица\n     E. Малое ядро\n     F. Цитоплазма\n     G. Ресничка\n     H. Сократительная вакуоль\n\n     1.   _____\n     2.   _____\n     3.   _____\n     4.   _____\n     5.   _____\n     6.   _____\n     7.   _____\n     8.   _____\n\n б) Определите название данного организма. (0.5 баллов)\n     A. амеба\n\nrj   B. эвглена\n     C. инфузория               rj                            rj\n   o1D. плазмодий\n     E. хлорелла                      o1                        o1\n                   4                                4                4\n\nrj                               rj",
+   "parts": [
+    {
+     "id": "3.1",
+     "points": 1.5,
+     "question": "_____",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.2",
+     "points": 1.5,
+     "question": "_____",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.3",
+     "points": 1.5,
+     "question": "_____",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.4",
+     "points": 1.5,
+     "question": "_____",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.5",
+     "points": 1.5,
+     "question": "_____",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.6",
+     "points": 1.5,
+     "question": "_____",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.7",
+     "points": 1.5,
+     "question": "_____",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.8",
+     "points": 1.5,
+     "question": "_____",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "(по 0.5 баллов за верную линию)",
+   "weight": null,
+   "total": 10,
+   "statement": "rj\n   o1                                    o1\n Определите знаком «+» признаки подклассов млекопитающих.                 o1\n Признак\n           31\n 1. Обитают в Австралии                         31\n                                    A. Первозвери B. Сумчатые      C. Плацентарные\n                                                                                    31\n                  4\n 2. Обитают в Южной Америке\n 3. Могут обитать в воде\n 4. Наличие матки\n                                                      4                                   4\n 5. Наличие молочных желез\n 6. Наличие полноценной клоаки\n 7. Детеныш вылупляется из яйца\n 8. Развитие детеныша может\n     проходить в сумке\n 9. Ехидна\n 10. Тасманский дъявол",
+   "parts": [
+    {
+     "id": "4.1",
+     "points": 1,
+     "question": "Обитают в Австралии 31 A. Первозвери B. Сумчатые C. Плацентарные 31 4",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.2",
+     "points": 1,
+     "question": "Обитают в Южной Америке",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.3",
+     "points": 1,
+     "question": "Могут обитать в воде",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.4",
+     "points": 1,
+     "question": "Наличие матки 4 4",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.5",
+     "points": 1,
+     "question": "Наличие молочных желез",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.6",
+     "points": 1,
+     "question": "Наличие полноценной клоаки",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.7",
+     "points": 1,
+     "question": "Детеныш вылупляется из яйца",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.8",
+     "points": 1,
+     "question": "Развитие детеныша может проходить в сумке",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.9",
+     "points": 1,
+     "question": "Ехидна",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.10",
+     "points": 1,
+     "question": "Тасманский дъявол",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "(по 0.5 баллов)",
+   "weight": null,
+   "total": 10,
+   "statement": "Сопоставьте гормоны с их характеристиками\n  Гормоны                 Характеристики\n  1. Эстроген             А. Выделение кальция в кровь\n                          В. Стимулирует секрецию ионов калия и реабсорбцию ионов\n  2. Соматостатин         натрия\n  3. Паратгормон          С. Облегчает перенесение стрессовых ситуаций\n  4. Инсулин              D. Женские вторичные половые признаки\n  5. Глюкокортикоиды      Е. Ответ на стресс\n\nrj6. Мелатонин\n  7. Глюкагон\n                                 rj                                rj\n                          F. Поведение в ночное и дневное время суток\n                          G. Поглощение и метаболизм глюкозы\n   o1                                    o1\n  8. Минералокортикоиды Н. Расщепление гликогена                          o1\n           31\n  9. Тимозин                                    31\n                          I. Пептидные гормоны, активирующие определенные\n                          иммунные ответы                                           31\n  10. Эпинефрин\n                  4                                   4\n                          К. Ингибирует выделение инсулина и глюкагона\n                                                                                          4\n    Гормоны          1       2       3      4     5       6    7      8      9       10\n Характеристики",
+   "parts": [
+    {
+     "id": "5.1",
+     "points": 2,
+     "question": "Эстроген А. Выделение кальция в кровь В. Стимулирует секрецию ионов калия и реабсорбцию ионов",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.2",
+     "points": 2,
+     "question": "Соматостатин натрия",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.3",
+     "points": 2,
+     "question": "Паратгормон С. Облегчает перенесение стрессовых ситуаций",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.4",
+     "points": 2,
+     "question": "Инсулин D. Женские вторичные половые признаки",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.5",
+     "points": 2,
+     "question": "Глюкокортикоиды Е. Ответ на стресс",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "(по 0.5 баллов за верную линию)",
+   "weight": null,
+   "total": 12,
+   "statement": "Определите характеристики быстрых и медленных мышц.\n                                               A. Медленные          B. Быстрые\n  Характеристика                                  мышцы                 мышцы\n  1. Относительно малое содержание миоглобина\n  2. Действуют длительное время\n  3. Богаты ферментами, необходимыми для\n     анаэробного дыхания\n  4. АТФ от креатин фосфата\n  5. Развивают небольшую силу\n  6. Большая плотность митохондрий\n  7. Их больше у физически сильных спортсменов\n  8. Их больше у физически выносливых\n     спортсменов\n\nrj                               rj                                rj\n   o1                                    o1                               o1\n           31                                   31                                  31\n                  4                                   4                                   4",
+   "parts": [
+    {
+     "id": "6.1",
+     "points": 1.5,
+     "question": "Относительно малое содержание миоглобина",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.2",
+     "points": 1.5,
+     "question": "Действуют длительное время",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.3",
+     "points": 1.5,
+     "question": "Богаты ферментами, необходимыми для анаэробного дыхания",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.4",
+     "points": 1.5,
+     "question": "АТФ от креатин фосфата",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.5",
+     "points": 1.5,
+     "question": "Развивают небольшую силу",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.6",
+     "points": 1.5,
+     "question": "Большая плотность митохондрий",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.7",
+     "points": 1.5,
+     "question": "Их больше у физически сильных спортсменов",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.8",
+     "points": 1.5,
+     "question": "Их больше у физически выносливых спортсменов",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

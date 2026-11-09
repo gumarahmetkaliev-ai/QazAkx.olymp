@@ -1,0 +1,37 @@
+{
+ "setId": "astro-iao-1999--astro-3-tasks",
+ "olympiadId": "astro-iao-1999",
+ "title": "Астрономия → IAO (международная) → 1999",
+ "materialLabel": "3 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/iao/1999/astro-3-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T18:25:31.058Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "IV International Astronomy Olympiad, Problems to solve\n\nPractical round\n7. Write the observational program for this night on a 40-cm telescope.\nWhat stars would you observe this nigth? Write sequence of the observations.\nStars to observe:\n\n                                  V (mag)                            a                     d (1950)\n\n 1      h Aql                        3m.5                    19h 49m.9                      0 53\n\n 2      b Per                         2.1                       3 04.9                      40 46\n\n 3      c Cyg                        14.2                      19 48.6                      32 47\n\n 4      R Aqr                        12.4                      23 41.2                      -15 34\n\n 5      a Ori                         1.3                       5 52.4                       7 24\n\n 6      RW Vir                        6.7                      12 04.7                      -6 29\n\nMoon rise: 21:17:26, phase 0.77\nSideral time for 0h s0 = 0:31:04\nYou may use all observational time (since 20h till 5h 30 min).\nLocal time LT=UT+3\nCoordinates of observatory  = 2h16m  = 4443\nPut your result into the table:\n\n              Star                                   Interval of observation\n\nStars that could not be included in the program:\nExplanations and notes:\n\n8. A ligth curve of eclipsing binary is shown in the figure. Estimate the ratio of R/r in assuming that the\neclipse is central and the small component is fainter.\n\n http://www.issp.ac.ru/iao/1999/problems/vi99us_e.html    (3 of 4) [04.05.2009 07:01:44]\n\nIV International Astronomy Olympiad, Problems to solve\n\nhttp://www.issp.ac.ru/iao/1999/problems/vi99us_e.html    (4 of 4) [04.05.2009 07:01:44]",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

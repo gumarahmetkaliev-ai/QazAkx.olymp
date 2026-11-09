@@ -1,0 +1,63 @@
+{
+ "setId": "math-egmo-2015--math-2-tasks",
+ "olympiadId": "math-egmo-2015",
+ "title": "Математика → EGMO → 2015",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/egmo/2015/math-2-tasks.pdf",
+ "solutionFile": "olympiads/math/s/egmo/2015/math-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:32.790Z",
+ "quality": {
+  "tasks": 3,
+  "parts": 3,
+  "withPoints": 3,
+  "withReference": 3,
+  "withQuestion": 3,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "Определите, существует ли бесконечная последовательность a1 , a2 , a3 , . . . натураль-\nных чисел, удовлетворяющая равенству\n                                                   √\n                                   an+2 = an+1 +       an+1 + an\n\nдля любого натурального значения n.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "Determine whether there exists an inﬁnite sequence a1 , a2 , a3 , . . . of positive integers\nwhich satisﬁes the equality\n                                              √\n                               an+2 = an+1 + an+1 + an\nfor every positive integer n."
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "Пусть m и n являются натуральными числами, причём m > 1. Анастасия разбивает\nнатуральные числа 1, 2, . . . , 2m на m пар. Затем Борис выбирает по одному числу из каждой пары\nи находит сумму этих выбранных чисел. Докажите, что Анастасия может выбрать разбиение на\nпары так, что Борис не сможет сделать свою сумму равной n.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "Let m, n be positive integers with m > 1. Anastasia partitions the integers 1, 2, . . . , 2m\ninto m pairs. Boris then chooses one integer from each pair and ﬁnds the sum of these chosen integers.\nProve that Anastasia can select the pairs so that Boris cannot make his sum equal to n."
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "Пусть H — ортоцентр, а G — центр тяжести остроугольного треугольника 4ABC,\nпричём AB 6= AC. Прямая AG пересекает описанную окружность 4ABC в точках A и P . Пусть\nP 0 — отражение точки P относительно прямой BC. Докажите, что угол ∠CAB = 60◦ тогда и\nтолько тогда, когда HG = GP 0 .\n\nLanguage: Russian                                                       Время: 4 часа и 30 минут\n                                                            Каждая задача оценивается в 7 баллов",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "Let H be the orthocentre and G be the centroid of acute-angled triangle \u0002ABC with\nAB \u0004= AC. The line AG intersects the circumcircle of \u0002ABC at A and P. Let P \u0003 be the reﬂection of\nP in the line BC. Prove that ∠CAB = 60◦ if and only if HG = GP \u0003 .\n\n                                                          4"
+    }
+   ]
+  }
+ ]
+}

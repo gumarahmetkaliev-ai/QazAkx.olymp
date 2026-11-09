@@ -1,0 +1,37 @@
+{
+ "setId": "geo-national-2023-9--geo-1-tasks-ms",
+ "olympiadId": "geo-national-2023-9",
+ "title": "География → Республиканская → 2023 → 9 класс",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/national/2023/9/geo_1_tasks_ms.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T18:09:59.678Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "1—D      33 — D\n2—A      34 — D\n3—A      35 — A\n4—A      36 — E\n5—E      37 — C\n6—E      38 — C\n7—C      39 — C\n8—D      40 — A\n9—E\n10 — B\n11 — C\n12 — B\n13 — B\n14 — A\n15 — C\n16 — C\n17 — D\n18 — B\n19 — A\n20 — D\n21 — D\n22 — A\n23 — B\n24 — C\n25 — E\n26 — A\n27 — D\n28 — A\n29 — A\n30 — B\n31 — D\n32 — E",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

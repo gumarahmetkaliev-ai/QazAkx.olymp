@@ -1,0 +1,37 @@
+{
+ "setId": "phys-eupho-2018--phys-2-tasks",
+ "olympiadId": "phys-eupho-2018",
+ "title": "Физика → EuPhO (Европейская) → 2018",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/physics/s/EuPhO/2018/phys-2-tasks.pdf",
+ "solutionFile": "olympiads/physics/s/EuPhO/2018/phys-2-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T18:37:15.085Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 1,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Task Determine the thickness h of the membrane. Assume",
+   "weight": null,
+   "total": 10,
+   "statement": "the refractive index of the membrane to be no = 1.50. To avoid\n                                                                  birefringence described in part C incident light should have\n                                                                  polarization perpendicular to the plane of incidence (plane of\n                                                                  the figure). If the contrast of interference is too weak, try the\n                                                                  other surface of the membrane.\n\n                                                                  C    Birefringence, 7 pts\n                                                                  Equipment      the same as in part B.\nA    Diffusion, 5 pts\nEquipment         Airproof vessel with a membrane window\nand 2 connecting tubes with clamps (window diameter is\ndw = 13 mm), equipped with carbon dioxide (CO2 , molar mass\n44 g/mol) concentration sensor with upper working limit of\n0.5 %; powerbank; 2 fans with battery block (insert the last bat-\ntery to operate); glue pads. Do not disassemble electrical\nconnections of the setup.\n   If c denotes the concentration (number of molecules per\nvolume) of CO2 at one end of a channel and c0 at the other\nend, the density of CO2 flux in the channel is given by j =\nD(c − c0 )/h; D is the diffusion coefficient. Since channels\nare narrower than mean free path length, the diffusion rate          The refractive index of the membrane depends on polariz-\nis determined by the diameter of channels: D ≈ vd/3; v is         ation  and propagation direction of light. The membrane\nthe root-mean-square speed of CO2 molecules. The room             can   be   described with two refractive indices: no and ne ;\ntemperature T = (295 ± 5) K.                                      |n e − n o | \u001c no . When laser beam enters membrane, it splits\n                                                                  into two beams with different polarizations and velocities.\nTask Suggest a functional dependence of how c − c0 changes Beam 1 is polarized normally to the plane of incidence; its\nin time, study it experimentally, determine the parameters of refractive index n1 = no and doesn’t depend on β1 . Beam 2\nthe dependence and estimate the errors.                           is polarized parallel to the plane of incidence; its refractive\n                                                                  index n2 depends on β2 :\nInstruction to the CO2 sensor The sensor effectively\nmeasures the ratio of the number of CO2 molecules to the total                         1     cos2 β2   sin2 β2\nnumber of air molecules. Turn the sensor on by connecting it                               =         +         .\n                                                                                       n22     n2o       n2e\nto the powerbank with a USB. Starting up takes a few minutes.\nIf you turn the sensor off, all data will be lost.                One can show that the optical path difference between the\n   Pressing button select for a second switches the sensor beams δ = h(n1 cos β1 − n2 cos β2 ).\nbetween recording (r) and record-browsing (d) modes. In\n                                                                  Task Determine the difference ∆n = |ne − no | of the mem-\nrecording mode, a record is added every 20 s. Memory holds\n                                                                  brane. Find the porosity p using the given plot of ∆n(p).\nonly the last 200 records. Switching to record-browsing mode\nstops adding new records but timer keeps going. In this mode,\nbuttons up and down navigate through records. Switching D Coda, 2 pts\nback to recording mode resumes recording of new data.             Task Using results from previous parts and making addi-\n   Reset button rst deletes all the records and resets the tional measurements if necessary, estimate the diameter d.\ntimer. Buttons left and right are not used.\n\n0.10\n\n0.09\n\n0.08\n\n0.07\n\n0.06\n\n0.05\n\n0.04\n\n0.03\n\n0.02\n\n0.01\n\n 0\n       0   0.05   0.10   0.15   0.20   0.25   0.30   0.35   0.40   0.45   0.50",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "1. The CO2 concentration in the exhaled air is 4% and the sensor's working limit is 0.5%.\nTherefore, if you blow into the installation strongly, the sensor is off scale. Participants can wait\nuntil the CO2 concentration in the vessel drops below 0.5% and then start the measurements.\nThere are also two other ways to reduce the CO2 concentration in the vessel. You can unscrew\nthe cover of the installation (with tubes, not with the sample!) and utilizing the fan blow the\ninstallation with atmospheric air. Another way is to open both tubes and suck the air out\nthrough one of them. The atmospheric air comes inside the vessel through the second tube.\nThis method is the fastest and easiest.",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "setId": "math-imo-1993--math-tasks",
+ "olympiadId": "math-imo-1993",
+ "title": "Математика → IMO (международная) → 1993",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1993/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:41.895Z",
+ "quality": {
+  "tasks": 3,
+  "parts": 3,
+  "withPoints": 3,
+  "withReference": 0,
+  "withQuestion": 3,
+  "estimatedPoints": 3
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Let f (x) = xn + 5xn−1 + 3, where n > 1 is an integer. Prove that f (x)\n   cannot be expressed as the product of two nonconstant polynomials\n   with integer coefficients.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Let D be a point inside acute triangle ABC such that 6 ADB =\n   6 ACB + π/2 and AC · BD = AD · BC.\n\n   (a) Calculate the ratio (AB · CD)/(AC · BD).\n   (b) Prove that the tangents at C to the circumcircles of 4ACD and\n       4BCD are perpendicular.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "On an infinite chessboard, a game is played as follows. At the start, n2\n   pieces are arranged on the chessboard in an n by n block of adjoining\n   squares, one piece in each square. A move in the game is a jump in\n   a horizontal or vertical direction over an adjacent occupied square to\n   an unoccupied square immediately beyond. The piece which has been\n   jumped over is removed.\n  Find those values of n for which the game can end with only one piece\n  remaining on the board.\n\n                   Second Day    July 19, 1993\n                      Time Limit: 4 12 hours",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

@@ -323,3 +323,52 @@ section.cf-block { padding: 0; }
 .books { display: flex; flex-direction: column; gap: 8px; margin-top: 8px; }
 .book { display: flex; gap: 10px; align-items: flex-start; font-size: 0.9rem; line-height: 1.35; }
 .book-icon { flex-shrink: 0; }
+
+/* Книги */
+.book-list { display: flex; flex-direction: column; gap: 10px; }
+.book-list details.card { padding: 14px 18px; }
+.book-list summary { cursor: pointer; line-height: 1.5; }
+.book-list .tag { display: inline-block; font-size: 0.7rem; padding: 1px 6px; border-radius: 6px; border: 1px solid var(--line); color: var(--muted); vertical-align: middle; }
+.toc { margin: 10px 0 0; padding-left: 22px; line-height: 1.5; }
+.toc > li { margin: 4px 0; }
+.toc ul { margin: 2px 0 6px; padding-left: 16px; list-style: disc; }
+
+/* ── Вход и регистрация */
+.auth-page { max-width: 980px; }
+.auth-shell { display: grid; grid-template-columns: 1fr 1fr; margin: 24px auto; border: 1px solid var(--line); border-radius: 18px; overflow: hidden; background: var(--panel); box-shadow: 0 24px 60px rgba(0, 0, 0, 0.35); }
+.auth-side { position: relative; padding: 40px 36px; background: radial-gradient(120% 90% at 0% 0%, rgba(91, 124, 250, 0.35), transparent 60%), radial-gradient(90% 80% at 100% 100%, rgba(62, 207, 142, 0.18), transparent 60%), var(--bg-2); border-right: 1px solid var(--line); }
+.auth-brand { font-weight: 800; font-size: 1.25rem; letter-spacing: -0.01em; }
+.auth-brand span { color: var(--muted); font-weight: 500; }
+.auth-side h3 { font-size: 1.6rem; line-height: 1.2; margin: 28px 0 22px; letter-spacing: -0.02em; }
+.auth-perks { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 16px; }
+.auth-perks li { display: flex; gap: 12px; color: var(--muted); font-size: 0.9rem; line-height: 1.4; }
+.auth-perks li b { color: var(--text); }
+.auth-perks li > span { flex-shrink: 0; width: 36px; height: 36px; display: grid; place-items: center; border-radius: 10px; background: rgba(255, 255, 255, 0.06); border: 1px solid var(--line-2); font-size: 1.05rem; }
+.auth-main { padding: 36px 40px; display: flex; flex-direction: column; justify-content: center; }
+.auth-main h2 { margin: 6px 0 4px; font-size: 1.5rem; letter-spacing: -0.02em; }
+.auth-sub { color: var(--muted); margin: 0 0 18px; font-size: 0.92rem; }
+.auth-main .auth-tabs { margin-bottom: 18px; }
+.auth-main .field label { font-size: 0.85rem; font-weight: 600; color: var(--text); }
+.label-row { display: flex; justify-content: space-between; align-items: baseline; }
+.label-row a { color: var(--accent-2); }
+.input-ico { position: relative; }
+.input-ico > span { position: absolute; left: 12px; top: 50%; transform: translateY(-50%); opacity: 0.55; font-size: 0.9rem; pointer-events: none; }
+.input-ico input { padding-left: 38px !important; width: 100%; }
+.auth-main .field input { padding: 12px 14px; border-radius: 10px; font-size: 0.95rem; transition: border-color 0.15s, box-shadow 0.15s; }
+.auth-main .field input:focus { box-shadow: 0 0 0 3px var(--accent-bg); }
+.btn-block { width: 100%; justify-content: center; padding: 12px; font-size: 1rem; margin-top: 6px; border-radius: 10px; }
+.btn-google { width: 100%; justify-content: center; gap: 10px; padding: 11px; border-radius: 10px; }
+.g-dot { display: inline-grid; place-items: center; width: 20px; height: 20px; border-radius: 50%; background: #fff; color: #4285f4; font-weight: 800; font-size: 0.8rem; }
+.auth-or { display: flex; align-items: center; gap: 10px; color: var(--dim); font-size: 0.8rem; margin: 16px 0; }
+.auth-or::before, .auth-or::after { content: ""; flex: 1; height: 1px; background: var(--line); }
+.auth-foot { text-align: center; color: var(--muted); font-size: 0.9rem; margin: 18px 0 0; }
+.auth-foot a { color: var(--accent-2); font-weight: 600; }
+.pw-meter { height: 4px; border-radius: 4px; background: var(--line); overflow: hidden; margin-top: 2px; }
+.pw-meter i { display: block; height: 100%; width: 0; transition: width 0.2s, background 0.2s; }
+@media (max-width: 760px) {
+  .auth-shell { grid-template-columns: 1fr; margin: 8px auto; }
+  .auth-side { padding: 24px; border-right: 0; border-bottom: 1px solid var(--line); }
+  .auth-side h3 { font-size: 1.25rem; margin: 14px 0 12px; }
+  .auth-perks li:nth-child(n + 3) { display: none; }
+  .auth-main { padding: 24px; }
+}

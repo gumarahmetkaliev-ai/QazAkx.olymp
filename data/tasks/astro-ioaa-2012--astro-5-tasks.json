@@ -1,0 +1,202 @@
+{
+ "setId": "astro-ioaa-2012--astro-5-tasks",
+ "olympiadId": "astro-ioaa-2012",
+ "title": "Астрономия → IOAA (международная) → 2012 → 5 класс",
+ "materialLabel": "5 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/ioaa/2012/astro-5-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T18:02:00.807Z",
+ "quality": {
+  "tasks": 12,
+  "parts": 12,
+  "withPoints": 12,
+  "withReference": 0,
+  "withQuestion": 12,
+  "estimatedPoints": 12
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Make a schematic drawing of this system.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Create a hypothetical light curve for this system and use it to understand the mechanics of\n    the system. Do not take into account any instrumental effect.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Assuming the light curve from item (2) is accurate, calculate the values of the relevant\n    physical parameters for each of the three bodies: mass, radius, orbital period, mean orbital\n    radius, luminosity, effective temperature.\n\nPart II\n\nNow let’s examine the planet from Part I, called Troll by its inhabitants, more closely. Troll\nhas a rotation axis inclined by 30° with respect to the normal of the orbital plane, sidereal\nrotation period of five terrestrial days and mass of 0.5 terrestrial masses.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "For an observer located at the Trollian equator, draw a sketch of the sky in the moment of\n    the day when the incident light on the surface of the planet reaches its maximum intensity.\n\n                                    Team Problem",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "At which latitude during the Trollian year, is there at least one Trollian sidereal day that\n   there is no night?\n\nPart III\n\nSuppose now that Troll has a moon that can’t be detected from Earth and whose radius is ¼ of\nTroll’s radius. The moon’s orbital plane is inclined 15° with respect to the orbital plane of the\nplanet. The orbital period of the moon is about 30 Trollian sidereal days.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "For an observer at a Trollian latitude φ, what will be the longest time interval for which\n   the moon will stay above the horizon? In which part of Trollian year will it happen?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Задача 7",
+   "statement": "Under the same conditions and in the same day of item (6), calculate the duration of the\n   moon setting, that is, the time since the moon touches the Troll horizon until it disappears\n   completely below it.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Задача 8",
+   "statement": "How many total (T) and how many partial (P) eclipses can be seen during a Trollian\n   sidereal year?\n\nPart IV\n\nAssume that the binary system is at 277 pc from Earth, located at equatorial coordinates α =\n3h and δ = -15°, as seen from Earth.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "8",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Задача 9",
+   "statement": "Is it possible for a Trollian observer to see the Sun being occulted by any of the other\n   bodies of its system? Say YES if it possible and NO otherwise.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "9",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Задача 10",
+   "statement": "What is the “Trollian ecliptic latitude” of the Sun, to a Trollian observer?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "10",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Задача 11",
+   "statement": "In which conditions can the Trollian observer see a transit of the Jupiter in front of the\n   Sun? Make a drawing to explain your answer.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "11",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Задача 12",
+   "statement": "Estimate the apparent magnitudes of the following stars, as seen from Troll sky: Sun,\n   Vega, Sirius, Rigel, Aldebaran.\n\n             Team Problem\n                α            δ       m    M\nVega        18h36m56s   +38o47'01\" 0.03 0.58\nSirius      06h45m09s   -16o42'58\" -1.47 1.42\nRigel       05h14m32s   -08o12'06\" 0.12 -7.84\nAldebaran   04h35m55s   +16o30'34\" 0.75 -0.63",
+   "total": 7,
+   "parts": [
+    {
+     "id": "12",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

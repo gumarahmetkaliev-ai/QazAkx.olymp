@@ -1,0 +1,101 @@
+{
+ "setId": "astro-ioaa-2019--astro-2-tasks",
+ "olympiadId": "astro-ioaa-2019",
+ "title": "Астрономия → IOAA (международная) → 2019",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/ioaa/2019/astro-2-tasks.pdf",
+ "solutionFile": "olympiads/astronomy/s/ioaa/2019/astro-2-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T17:50:39.708Z",
+ "quality": {
+  "tasks": 5,
+  "parts": 5,
+  "withPoints": 5,
+  "withReference": 0,
+  "withQuestion": 5,
+  "estimatedPoints": 5
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "FINDERSCOPE ALIGNMENT",
+   "weight": null,
+   "total": 10,
+   "statement": "available time: 5 minutes                                                                            5 points\n\n     •    The finderscope is NOT aligned at the beginning. Point the telescope to Saturn and align the\n          finderscope parallel to the main tube.\n\nIf the alignment of Saturn is not within the crosshair of the finderscope, the telescope assistant will correct it\n– and you receive only partial or no points.",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "/ ALTERNATIVE: EPSILON LYRAE",
+   "weight": null,
+   "total": 10,
+   "statement": "available time: 10 minutes                                                                  15 points\n\n •        Find e Lyr, and make a drawing of the field of view (with the object and other stars) with\n         10mm eyepiece.\n         Label the directions North and East by two arrows and mark them as ‘N’ and ‘E’.\n •         Estimate the angular distance between the wide pair (ε1-ε2), and estimate the position angle of\n         the same pair.\n •         Increase the magnification with 2x Barlow lens to be able to resolve and separate the two close\n         pairs. Estimate the angle (in degrees to the nearest integer) subtended by the two close pairs\n         relative to each other. (The enclosed angle of the two lines going through the two narrow pairs).\n         Do not give any PA, only the relative angle of the two close pairs. No drawing is needed.\n\nIf you cannot find e Lyr, the assistant can point to it for you, but only after 5 minutes. In this case you will\nlose the marks for pointing the telescope to the object.\nThe telescope assistant will check the object at the end of the 10 min limit. If you are ready sooner, keep the\nstar in the FOV, and wait for the check.\n\n                                                        3",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "M57 – FIELD OF VIEW",
+   "weight": null,
+   "total": 10,
+   "statement": "available time: 10 minutes                                                       total: 10 points\n\n •     Find the planetary nebula M57 (in constellation Lyra), and put it in the centre of the field of\n     view in the main scope.\n •     The star chart in the answer sheet shows a part of constellation Lyra. In this chart, draw the FOV\n     circle around M57 as accurately as possible.\n\nIf you cannot find M57, the assistant will help you, but only after 5 minutes. In this case you will lose the\nmarks for pointing to the object.",
+   "parts": [
+    {
+     "id": "3.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "VARIABLE STAR – AF CYGNI",
+   "weight": null,
+   "total": 10,
+   "statement": "available time: 15 minutes                                                       total: 15 points\n\n •     Use the given charts of the constellation Cygnus to find the variable star AF Cyg.\n     The large scale finder chart has normal orientation (N is up E is to the left)\n     The smaller scale chart has ‘telescope’ orientation (S is up W is to the left)\n     Brightness of reference stars are given without decimal points. e.g. ‘97’ means 9.7 magnitude\n     If you do not find AF Cyg, the telescope assistant cannot help you to point to it in this task.\n\n •     Estimate the magnitude of AF Cyg by comparing it with the reference stars and write it down,\n     with decimal point, at one decimal accuracy (i.e. 9.7).\n     Write the time of your observation in UTC. You may ask telescope assistant for the time in the\n     local time zone (CEST).",
+   "parts": [
+    {
+     "id": "4.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "NAKED EYE BRIGHTNESS ESTIMATION",
+   "weight": null,
+   "total": 10,
+   "statement": "available time: 5 minutes                                                                5 points\n\n •    Estimate the visual magnitude of the two naked-eye stars marked on the stellar chart of\n     constellation Ursa Minor:\n     a)    z UMi (zeta UMi = Alifa) – STAR 2\n     b)    g UMi (gamma UMi = Pherkad) – STAR 1\n     c) Write your estimate with one decimal accuracy (e.g. 8.6).\n •    Estimate the angular distance between g UMi (STAR 1) and Polaris in degrees.\n\n                                                      2",
+   "parts": [
+    {
+     "id": "5.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,261 @@
+{
+ "setId": "astro-ioaa-2009--astro-4-tasks",
+ "olympiadId": "astro-ioaa-2009",
+ "title": "Астрономия → IOAA (международная) → 2009",
+ "materialLabel": "4 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/ioaa/2009/astro-4-tasks.pdf",
+ "solutionFile": "olympiads/astronomy/s/ioaa/2009/astro-4-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T18:05:29.048Z",
+ "quality": {
+  "tasks": 15,
+  "parts": 15,
+  "withPoints": 15,
+  "withReference": 0,
+  "withQuestion": 15,
+  "estimatedPoints": 15
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Calculate the mean mass density for a super massive black hole with total mass of 1×108",
+   "weight": null,
+   "total": 10,
+   "statement": "𝑀⨀ inside the Schwarzschild radius.",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Estimate the number of photons per second that arrive on our eye at 𝜆 = 550 𝑛𝑚 (V-",
+   "weight": null,
+   "total": 10,
+   "statement": "band) from a G2 main sequence star with apparent magnitude of 𝑚 = 6 (the threshold of naked eye\nvisibility). Assume the eye pupil diameter is 6 𝑚𝑚 and all the radition from this star is in 𝜆 =\n550 𝑛𝑚.",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Estimate the radius of a planet that a man can escape its gravitation by jumping vertically",
+   "weight": null,
+   "total": 10,
+   "statement": "Assume density of the planet and the Earth are the same.",
+   "parts": [
+    {
+     "id": "3.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "In a typical Persian architecture, on top of south side windows there is a structure called",
+   "weight": null,
+   "total": 10,
+   "statement": "\"Tabeshband\" (shader), which controls sunlight in summer and winter. In summer when the Sun is\nhigh, Tabeshband prevents sunlight to enter rooms and keeps inside cooler. In the modern architecture\nit is verified that the Tabeshband saves about 20% of energy cost. Figure (1) shows a vertical section\nof this design at latitude of 36°. 0 N with window and Tabeshband.\n\nUsing the parameters given in the figure, calculate the maximum width of the Tabeshband, \"𝑥\", and\nmaximum height of the window , \"𝑕\" in such a way that:\n\n   i)    No direct sunlight can enter to the room in the summer solstice at noon.\n   ii)   The direct sunlight reaches the end of the room (indicated by the point A in the figure) in the\n         winter solstice at noon.\n\n                                               Figure (1)\n\n                                                   5",
+   "parts": [
+    {
+     "id": "4.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "The Damavand Mountain is located at the North part of Iran, in south coast of Caspian",
+   "weight": null,
+   "total": 10,
+   "statement": "Sea. Consider an observer standing on the Damavand mountaintop (latitude = 35° 57′ N; longitude =\n52° 6' E; altitude 5.6 × 103 𝑚 from the mean sea level) and looking at the sky over the Caspian Sea.\nWhat is the minimum declination for a star, to be seen marginally circumpolar for this observer.\nGeodetic radius of the Earth at this latitude is 6370.8 𝑘𝑚. Surface level of the Caspian Sea is\napproximately equal to the mean sea level.",
+   "parts": [
+    {
+     "id": "5.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Derive a relation for the escape velocity of an object, launched from the center of a proto-",
+   "weight": null,
+   "total": 10,
+   "statement": "star cloud. The cloud has uniform density with the mass of 𝑀 and radius 𝑅. Ignore collisions between\nthe particles of the cloud and the launched object. If the object were allowed to fall freely from the\n                                                              𝐺𝑀\nsurface, it would reach the center with a velocity equal to    𝑅\n                                                                 .",
+   "parts": [
+    {
+     "id": "6.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "A student tries to measure field of view (FOV) of the eyepiece of his/her telescope, using",
+   "weight": null,
+   "total": 10,
+   "statement": "rotation of the Earth. To do this job, the observer points the telescope towards Vega (alpha Lyr., RA:\n18.5h , Dec: +39° ), turns off its \"clock drive\" and measures trace out time, t=5.3 minutes, that Vega\ncrosses the full diameter of the FOV. What is the FOV of this telescope in arc-minutes?",
+   "parts": [
+    {
+     "id": "7.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Estimate the mass of a globular cluster with the radius of 𝑟 = 20 𝑝𝑐 and root mean",
+   "weight": null,
+   "total": 10,
+   "statement": "square velocity of stars equal to 𝑣𝑟𝑚𝑠 = 3 𝑘𝑚𝑠 −1 .",
+   "parts": [
+    {
+     "id": "8.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "The Galactic longitude of a star is 𝑙 = 15°. Its radial velocity with respect to the Sun is",
+   "weight": null,
+   "total": 10,
+   "statement": "𝑉𝑟 = 100 𝑘𝑚𝑠 −1 . Assume stars in the disk of the Galaxy are orbiting the center with a constant\nvelocity of 𝑉0 = 250 𝑘𝑚𝑠 −1 in circular orbits in the same sense in the galactic plane. Calculate\ndistance of the star from the center of the Galaxy.",
+   "parts": [
+    {
+     "id": "9.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "A main sequence star with the radius and mass of 𝑅 = 4𝑅⨀, 𝑀 = 6𝑀⨀ has an average",
+   "weight": null,
+   "total": 10,
+   "statement": "magnetic field of 1 × 10−4 T. Calculate the strength of the magnetic field of the star when it evolves\nto a neutron star with the radius of 20 𝑘𝑚.",
+   "parts": [
+    {
+     "id": "10.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Assume the mass of neutrinos is 𝑚𝜈 = 10−5 𝑚𝑒 . Calculate the number density of",
+   "weight": null,
+   "total": 10,
+   "statement": "neutrinos (𝑛𝜈 ) needed to compensate the dark matter of the universe. Assume the universe is flat and\n25 % of its mass is dark matter.\n\nHint: Take the classical total energy equal to zero\n\n                                                      6",
+   "parts": [
+    {
+     "id": "11.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Calculate how much the radius of the Earth’s orbit increases as a result of the Sun losing",
+   "weight": null,
+   "total": 10,
+   "statement": "mass due to the thermo-nuclear reactions in its center in 100 years. Assume the Earth’s orbit remains\ncircular during this period.",
+   "parts": [
+    {
+     "id": "12.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Assume that you are living in the time of Copernicus and do not know anything about",
+   "weight": null,
+   "total": 10,
+   "statement": "Kepler's laws. You might calculate Mars-Sun distance in the same way as he did. After accepting the\nrevolutionary belief that all the planets are orbiting around the Sun, not around the Earth, you measure\nthat the orbital period of Mars is 687 days, then you observe that 106 days after opposition of Mars,\nthe planet appears in quadrature. Calculate Mars-Sun distance in astronomical unit (AU).",
+   "parts": [
+    {
+     "id": "13.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 14,
+   "title": "A satellite is orbiting around the Earth in a circular orbit in the plane of the equator. An",
+   "weight": null,
+   "total": 10,
+   "statement": "observer in Tehran at the latitude of 𝜑 = 35.6° observes that the satellite has a zenith angle of\n𝑧 = 46.0∘ , when it transits the local meridian. Calculate the distance of the satellite from the center of\nthe Earth (in the Earth radius unit).",
+   "parts": [
+    {
+     "id": "14.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 15,
+   "title": "An eclipsing close binary system consists of two giant stars with the same sizes. As a",
+   "weight": null,
+   "total": 10,
+   "statement": "result of mutual gravitational force, stars are deformed from perfect sphere to the prolate spheroid\nwith 𝑎 = 2𝑏, where 𝑎 and 𝑏 are semi-major and semi-minor axes (the major axes are always co-\nlinear). The inclination of the orbital plane to the plane of sky is 90∘. Calculate the amplitude of light\nvariation in magnitude (𝛥𝑚) as a result of the orbital motion of two stars. Ignore temperature\nvariation due to tidal deformation and limb darkening on the surface of the stars.\n\nHint: A prolate spheroid is a geometrical shape made by rotating of an ellipse around its major axis,\nlike rugby ball or melon.\n\n                                                    7",
+   "parts": [
+    {
+     "id": "15.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

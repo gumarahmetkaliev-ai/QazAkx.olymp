@@ -1,0 +1,213 @@
+{
+ "setId": "chem-national-2010-9--chem9-1-tasks",
+ "olympiadId": "chem-national-2010-9",
+ "title": "Химия → Республиканская → 2010 → 9 класс",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/chemistry/national/2010/9/chem9-1-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T18:32:49.684Z",
+ "quality": {
+  "tasks": 8,
+  "parts": 17,
+  "withPoints": 17,
+  "withReference": 0,
+  "withQuestion": 17,
+  "estimatedPoints": 17
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача №1",
+   "weight": null,
+   "total": 10,
+   "statement": "Газовая смесь получена при гидролизе смеси карбидов кальция и алюминия, в 1,6\nраза легче кислорода. Вычислить массовые доли карбидов в исходной смеси.",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача №2",
+   "weight": null,
+   "total": 10,
+   "statement": "33,6 л метана подвергли термическому разложению. Образовавшуюся газовую\nсмесь пропустили через избыток аммиачного раствора оксида серебра, в результате чего объем об-\nразовавшейся смеси уменьшился на 20%. Сколько литров метана превратилось в ацетилен и\nсколько моль этаналя можно получить из такого количества ацетилена, если учесть, что выход ре-\nакции составляет 70%.",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача №3",
+   "weight": null,
+   "total": 10,
+   "statement": "При окислении смеси равного количества бензола и толуола образовалось 9,76 г\nодноосновной кислоты. При взаимодействии полученной кислоты с гидрокарбонатом натрия вы-\nделился газ, объем которого в 24 раза меньше объема кислорода, израсходованного на сжигание\nпервоначальной смеси. Вычислить в процентах массовую долю бензола в исходной смеси.",
+   "parts": [
+    {
+     "id": "3.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача №4",
+   "weight": null,
+   "total": 10,
+   "statement": "Серебро растворили в 57%-ной азотной кислоте, и ее массовая доля сократилась\nдо 45%. Затем в полученном растворе кислоты растворили медь, и массовая доля кислоты понизи-\nлась до 39%. Рассчитайте массовые доли веществ в полученном растворе.",
+   "parts": [
+    {
+     "id": "4.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача №5",
+   "weight": null,
+   "total": 9,
+   "statement": "Допишите уравнения реакций и подберите коэффициенты одним из известных\nвам методов.\n\n   1) CO + [Ag(NH3)2]OH + 2H2O →                → CaOCl2 + H2O\n                 \" !#                           → Cl2O + CaCl2 + CaCO3\n   2) NH3 + CuO !⎯⎯⎯⎯⎯#\n                                                →Cl2 + CaCl2 + H2O\n   3) N2H4 + KMnO4 + H2SO4 →\n                                                → HCl + Na2SO4 + H2SO4\n   4) N2H4 + CuSO4 + NaOH →\n                                                → ClO2 +CO2 + K2SO4 + H2O\n   5) NH2OH + I2 + 2KOH →\n                                                → I2 + H2O\n   6) KNO2 + Zn + KOH + H2O →\n                                                → HIO3 + NO2 + H2O\n   7) As2O3 + Zn + HCl →\n                                                → K3H2IO6 + KCl + H2O\n   8) CO + PdCl2 +H2O →\n                                                → NaI + Na2S4O6\n   9) Si + HNO3 + H2F2 →\n                                                → I2 + MnSO4 + K2SO4 + H2O\n   10)SiO2 + HF(p-p) →",
+   "parts": [
+    {
+     "id": "5.1",
+     "points": 1,
+     "question": "CO + [Ag(NH3)2]OH + 2H2O → → CaOCl2 + H2O \" !# → Cl2O + CaCl2 + CaCO3",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.2",
+     "points": 1,
+     "question": "NH3 + CuO !⎯⎯⎯⎯⎯# →Cl2 + CaCl2 + H2O",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.3",
+     "points": 1,
+     "question": "N2H4 + KMnO4 + H2SO4 → → HCl + Na2SO4 + H2SO4",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.4",
+     "points": 1,
+     "question": "N2H4 + CuSO4 + NaOH → → ClO2 +CO2 + K2SO4 + H2O",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.5",
+     "points": 1,
+     "question": "NH2OH + I2 + 2KOH → → I2 + H2O",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.6",
+     "points": 1,
+     "question": "KNO2 + Zn + KOH + H2O → → HIO3 + NO2 + H2O",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.7",
+     "points": 1,
+     "question": "As2O3 + Zn + HCl → → K3H2IO6 + KCl + H2O",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.8",
+     "points": 1,
+     "question": "CO + PdCl2 +H2O → → NaI + Na2S4O6",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.9",
+     "points": 1,
+     "question": "Si + HNO3 + H2F2 → → I2 + MnSO4 + K2SO4 + H2O",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача №6",
+   "weight": null,
+   "total": 10,
+   "statement": "Напишите уравнение реакций с помощью которых можно реализовать следую-\nщие химические превращения:\n1-хлорпропан → гексан →циклогексан → бензол → фенол → фенолят калия →фенол → 2,4,6-\nтрихлорфенол.",
+   "parts": [
+    {
+     "id": "6.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Задача №7",
+   "weight": null,
+   "total": 10,
+   "statement": "На нейтрализацию кислоты, полученной после неполного электролиза CuSO4 мас-\nсой 200 г с массовой долей 18% затрачен раствор NaOH объемом 2 дм3 с молярной концентрацией\nщелочи 0,1 моль/дм3. Определите массовые доли электролитов в растворе, образовавшемся после\nэлектролиза.",
+   "parts": [
+    {
+     "id": "7.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Задача №8",
+   "weight": null,
+   "total": 10,
+   "statement": "Напишите уравнения реакций следующих превращений. Укажите условия их про-\nведения (кат, Т, Р и т.п.). Для осуществления каждого используйте минимальное число стадий. В\nслучае окислительно-восстановительных процессов в растворах напишите электронно-ионные\nуравнения полуреакций:\n 1) FeS → SO2 → SO2Cl2 →NaHSO4 → Na2S2O8\n 2) FeS → H2S → K2SO4 → K2S → S",
+   "parts": [
+    {
+     "id": "8.1",
+     "points": 5,
+     "question": "FeS → SO2 → SO2Cl2 →NaHSO4 → Na2S2O8",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "8.2",
+     "points": 5,
+     "question": "FeS → H2S → K2SO4 → K2S → S",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

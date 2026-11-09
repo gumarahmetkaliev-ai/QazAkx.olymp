@@ -1,0 +1,247 @@
+{
+ "setId": "astro-ioaa-2008--astro-3-tasks",
+ "olympiadId": "astro-ioaa-2008",
+ "title": "Астрономия → IOAA (международная) → 2008",
+ "materialLabel": "3 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/ioaa/2008/astro-3-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T18:05:29.225Z",
+ "quality": {
+  "tasks": 15,
+  "parts": 15,
+  "withPoints": 15,
+  "withReference": 0,
+  "withQuestion": 15,
+  "estimatedPoints": 15
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Part II consists of four steps: distributions of problem sheets in examination room,\n      using telescope and CCD observations on the observing ground (20 minutes), print\n      images and return to the examination room to answer questions (10 minutes). Bell\n      ring will indicate the beginning and the end of each step. Works completed after the\n      allocated time will not be considered.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "All participants will be guided by assistants to go to the observing ground until return\n      to the examination room. Assistants will collect the answer sheets from your table.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "All participants will be guided by assistants to go to the observing ground until\n   return to the examination room. Assistants will collect the answer sheets from\n   your table, after the 8 minute time is up.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "Never forget to fill in the boxes at the top of each answer sheet with your country\n   and your student codes. Otherwise, it will be ignored.\n\n              Country Code                                     Student Code\n                                                                      \n\n                                           PROBLEM\n\nFigure 1 shows a part of the southern sky chart for August 21, 2008 at 07.00 p.m. local time.\nUnfortunately, a number of bright stars in Capricorn and Scorpio constellations are missing.\nNow, you have to find those missing bright stars in both constellations by looking at the sky\ndirectly. To help you remember, the common names of many bright stars are listed in Table 1.\nDraw small circles on the locations of the missing bright stars in the Capricorn and Scorpio\nconstellations (Point: 60) and identify them by putting the numbers on the sky chart, as many\nas possible based on the Table 1 (Point: 60). Afterwards, draw on the sky chart, the border of\nScorpio constellation (Point: 15) and Capricorn constellation (Point: 15).\n\n                          Table 1: The number and common name of bright stars\n\n               Number       Common Names             Number      Common Names\n                 1          Rukbat ( Sgr)             18        Albali ( Aqr)\n                 2          Graffias ( Sco)           19        Altair ( Aql)\n                 3          Nunki ( Sgr)              20        Shaula ( Sco)\n                  4         Deneb ( Cyg)              21        Vrischika ( Sco)\n                 5          Zaniah ( Vir)             22        Arich ( Vir)\n                 6          Tarazed ( Aql)            23        Deneb Algedi ( Cap)\n                 7          Dabih ( Cap)              24        Heze ( Vir)\n                 8          Girtab ( Sco)             25        Nusakan ( CrB)\n                 9          Spica ( Vir)              26        Wei ( Sco)\n                 10         Sabik ( Oph)              27        Syrma ( Vir)\n                 11         Dschubba ( Sco)           28        Nashira ( Cap)\n                 12         Kaus Australis ( Sgr)     29        Lesath ( Sco)\n                 13         Algiedi ( Cap)            30        Zavijava ( Vir)\n                 14         Sadr ( Cyg)               31        Arcturus ( Boo)\n                 15         Vindemiatrix ( Vir)       32        Megrez ( UMa)\n                 16         Antares ( Sco)            33        Chara ( CVn)\n                 17         Yen ( Cap)                34        Sargas ( Sco)\n\n                                         PART I: Naked Eye\n                          Sky c hart at 19.00 on August 21, 2008\n                   Country and Student Code: …………………………….\nFigure\n     Figure\n        1 1\n\n                               Antares\nEcliptic\n\n                                 Acrux\n              SE                                 SW\n                       South\n\n      The 2nd International Olympiad on Astronomy and Astrophysics\n                                  Bandung, Indonesia\n                            \n\n                \n                                                \n\n            \n\nInstructions:",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "You may invert the background images into white color, as in the chart mode. Copy\n       and paste the sky chart from  into the answer page. Use “Ctrl c” and “Ctrl v”\n       buttons from the keyboard, respectively.\n\n                                              -2-",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "Type the equatorial coordinates of the centre of that object in the answer page as\n      indicated in .",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Задача 7",
+   "statement": "Take three photographs of the chosen object by using the attached CCD camera and\n       software, with various exposure times.\n      Choose exposure time in the range between 1 and 120 seconds. Image is automatically\n      subtracted with dark frame with the same exposure time.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Задача 8",
+   "statement": "You must invert the background images into white color. Copy and paste images from\n       into the answer page. Use “Ctrl c” and “Ctrl v” buttons from the keyboard,\n      respectively.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "8",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Задача 9",
+   "statement": "Save your answer page into hard disk in a Microsoft Word file format.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "9",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Задача 10",
+   "statement": "Print your answer page which consists of the photographs and the corresponding sky\n      chart.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "10",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Задача 11",
+   "statement": "Go to the identification room and bring with you the prints-out of the sky chart and the\n      photographs.\n      Ask some help from technical assistant, if necessary.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "11",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Задача 12",
+   "statement": "Choose the best out of the three printed images and identify as many objects as\n      possible on it.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "12",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Задача 13",
+   "statement": "Use the assigned computer and   software to identify objects. Type your\n      identification to your answer page.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "13",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Задача 14",
+   "statement": "Type on the answer page the names (or catalogue number), RA, Dec, and magnitude of\n      each identified star and put the sequential number on the photograph.\n      Make sure that you list the stars on the answer page following the same order and\n      number as on the photograph.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "14",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Задача 15",
+   "statement": "Estimate the limiting magnitude of the photograph you choose, empirically.\n\n                                            -3-",
+   "total": 7,
+   "parts": [
+    {
+     "id": "15",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

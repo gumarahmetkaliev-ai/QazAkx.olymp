@@ -1,0 +1,63 @@
+{
+ "setId": "math-egmo-2016--math-1-tasks",
+ "olympiadId": "math-egmo-2016",
+ "title": "Математика → EGMO → 2016",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/egmo/2016/math-1-tasks.pdf",
+ "solutionFile": "olympiads/math/s/egmo/2016/math-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:31.548Z",
+ "quality": {
+  "tasks": 3,
+  "parts": 3,
+  "withPoints": 3,
+  "withReference": 3,
+  "withQuestion": 3,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Пусть n – нечётное целое положительное число, а x1 , x2 , . . ., xn – неотрицательные\nдействительные числа. Докажите, что\n\n                               min (x2i + x2i+1 ) ≤ max (2xj xj+1 ),\n                             i=1,...,n            j=1,...,n\n\nгде xn+1 = x1 .",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "Problem 1. Let n be an odd positive integer, and let x1 , x2 , . . ., xn be\nnon-negative real numbers. Show that\n\n                       min (x2i + x2i+1 ) ≤ max (2xj xj+1 ),\n                      i=1,...,n                        j=1,...,n\n\nwhere xn+1 = x1 .\n\nSolution. In what follows, indices are reduced modulo n. Consider the n\ndifferences xk+1 −xk , k = 1, . . . , n. Since n is odd, there exists an index j such\nthat (xj+1 − xj )(xj+2 − xj+1 ) ≥ 0. Without loss of generality, we may and\nwill assume both factors non-negative, so xj ≤ xj+1 ≤ xj+2 . Consequently,\n\n    min (x2k + x2k+1 ) ≤ x2j + x2j+1 ≤ 2x2j+1 ≤ 2xj+1 xj+2 ≤ max (2xk xk+1 ).\n  k=1,...,n                                                            k=1,...,n\n\nRemark. If n ≥ 3 is odd, and one of the xk is negative, then the conclusion\nmay no longer hold. This is the case if, for instance, x1 = −b, and x2k = a,\nx2k+1 = b, k = 1, . . . , (n − 1)/2, where 0 ≤ a < b, so the string of numbers is\n\n                                   −b, b, a, b, a, . . . , b, a.\n\n    If n is even, the conclusion may again no longer hold, as shown by any\nstring of alternate real numbers: a, b, a, b, . . . , a, b, where a 6= b."
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Диагонали AC и BD вписанного четырёхугольника ABCD пересекаются в точке X.\nТочки C1 , D1 и M – середины отрезков CX, DX и CD соответственно. Прямые AD1 и BC1\nпересекаются в точке Y , а прямая M Y пересекает диагонали AC и BD в различных точках E и\nF соответственно. Докажите, что прямая XY касается окружности, описанной около треуголь-\nника EF X.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "Let ABCD be a cyclic quadrilateral, and let diagonals AC and\nBD intersect at X. Let C1 , D1 and M be the midpoints of segments CX,\nDX and CD, respectively. Lines AD1 and BC1 intersect at Y , and line M Y\nintersects diagonals AC and BD at different points E and F , respectively.\nProve that line XY is tangent to the circle through E, F and X.\n                                   Y                       C\n\n                                           M\n                                                   C1\n                          D\n                                               E\n                                  D1\n                                       X\n                                                   F\n\n                              A                                    B\n\nSolution. We are to prove that EXY = EF X; alternatively, but equi-\nvalently, AY X + XAY = BY F + XBY .\n    Since the quadrangle ABCD is cyclic, the triangles XAD and XBC are\nsimilar, and since AD1 and BC1 are corresponding medians in these triangles,\nit follows that XAY = XAD1 = XBC1 = XBY .\n    Finally, AY X = BY F , since X and M are corresponding points in the\nsimilar triangles ABY and C1 D1 Y : indeed, XAB = XDC = M C1 D1 ,\nand XBA = XCD = M D1 C1 ."
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Пусть m – целое положительное число. Дана таблица 4m×4m, состоящая из единич-\nных клеток. Две различные клетки назовём родственными, если они находятся в одной строке\nили в одном столбце. Никакая клетка не является родственной для самой себя. Некоторые клетки\nбыли окрашены в синий цвет, при этом оказалось, что у каждой клетки таблицы не менее двух\nродственных ей синих клеток. Найдите наименьшее возможное количество синих клеток.\n\nLanguage: Russian                                                   Время работы: 4 часа 30 минут\n                                                              Каждая задача оценивается в 7 баллов",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "Let m be a positive integer. Consider a 4m × 4m array of\nsquare unit cells. Two different cells are        to each other if they are in\neither the same row or in the same column. No cell is related to itself. Some\ncells are coloured blue, such that every cell is related to at least two blue\ncells. Determine the minimum number of blue cells.\n\nSolution 1 (Israel). The required minimum is 6m and is achieved by a\ndiagonal string of m 4 × 4 blocks of the form below (bullets mark centres of\nblue cells):\n                                 •\n                                 •\n                                 •\n                                    • • •\nIn particular, this configuration shows that the required minimum does not\nexceed 6m.\n    We now show that any configuration of blue cells satisfying the condition\nin the statement has cardinality at least 6m.\n    Fix such a configuration and let mr1 be the number of blue cells in rows\ncontaining exactly one such, let mr2 be the number of blue cells in rows\ncontaining exactly two such, and let mr3 be the number of blue cells in rows\ncontaining at least three such; the numbers mc1 , mc2 and mc3 are defined\nsimilarly.\n    Begin by noticing that mc3 ≥ mr1 and, similarly, mr3 ≥ mc1 . Indeed, if a\nblue cell is alone in its row, respectively column, then there are at least two\nother blue cells in its column, respectively row, and the claim follows.\n    Suppose now, if possible, the total number of blue cells is less than 6m.\nWe will show that mr1 > mr3 and mc1 > mc3 , and reach a contradiction by the\npreceding: mr1 > mr3 ≥ mc1 > mc3 ≥ mr1 .\n    We prove the first inequality; the other one is dealt with similarly. To this\nend, notice that there are no empty rows — otherwise, each column would\ncontain at least two blue cells, whence a total of at least 8m > 6m blue cells,\nwhich is a contradiction. Next, count rows to get mr1 + mr2 /2 + mr3 /3 ≥ 4m,\n\n                                       2\n\nand count blue cells to get mr1 + mr2 + mr3 < 6m. Subtraction of the latter\nfrom the former multiplied by 3/2 yields mr1 − mr3 > mr2 /2 ≥ 0, and the\nconclusion follows.\n\nSolution 2. To prove that a minimal configuration of blue cells satisfying\nthe condition in the statement has cardinality at least 6m, consider a bipar-\ntite graph whose vertex parts are the rows and the columns of the array,\nrespectively, a row and a column being joined by an edge if and only if the\ntwo cross at a blue cell. Clearly, the number of blue cells is equal to the num-\nber of edges of this graph, and the relationship condition in the statement\nreads: for every row r and every column c, deg r + deg c − \u000f(r, c) ≥ 2, where\n\u000f(r, c) = 2 if r and c are joined by an edge, and \u000f(r, c) = 0 otherwise.\n    Notice that there are no empty rows/columns, so the graph has no isolated\nvertices. By the preceding, the cardinality of every connected component\nof the graph is at least 4, so there are at most 2 · 4m/4 = 2m such and,\nconsequently, the graph has at least 8m − 2m = 6m edges. This completes\nthe proof.\n\nRemarks. The argument in the first solution shows that equality to 6m is\npossible only if mr1 = mr3 = mc1 = mc3 = 3m, mr2 = mc2 = 0, and there are no\nrows, respectively columns, containing four blue cells or more.\n    Consider the same problem for an n×n array. The argument in the second\nsolution shows that the corresponding minimum is 3n/2 if n is divisible by\n4, and 3n/2 + 1/2 if n is odd; if n ≡ 2 (mod 4), the minimum in question is\n3n/2 + 1. To describe corresponding minimal configurations Cn , refer to the\nminimal configurations C2 , C3 , C4 , C5 below:\n\n                                                         •\n                                      •                  •\n                     •                •                  •\n        • •          •                •                  •\n        • •          • • •                    • • •          • • • •\n\nThe case n ≡ 0 (mod 4) was dealt with above: a Cn consists of a diagonal\nstring of n/4 blocks C4 . If n ≡ r (mod 4), r = 2, 3, a Cn consists of a diagonal\nstring of bn/4c blocks C4 followed by a Cr , and if n ≡ 1 (mod 4), a Cn consists\nof a diagonal string of bn/4c − 1 blocks C4 followed by a C5 .\n    Minimal configurations are not necessarily unique (two configurations be-\ning equivalent if one is obtained from the other by permuting the rows and/or\nthe columns). For instance, if n = 6, the configurations below are both min-\nimal:\n\n                                          3\n\n            • •               •\n            • •               •\n•                             • • •\n•                     •\n•                     •\n    • • •             • • •\n\n                  4\n\n1   t1             2         X1\n          X1\n                         T2\n                                             2\n               T1                     T2\n     t2\n                             X2     Y      \n          X2                         T1    1"
+    }
+   ]
+  }
+ ]
+}

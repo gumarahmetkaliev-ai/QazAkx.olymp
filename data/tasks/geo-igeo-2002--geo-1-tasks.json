@@ -1,0 +1,37 @@
+{
+ "setId": "geo-igeo-2002--geo-1-tasks",
+ "olympiadId": "geo-igeo-2002",
+ "title": "География → iGeo (международная) → 2002",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/igeo/2002/geo-1-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T18:11:57.353Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "2002 iGeo - Durban, South Africa\nFieldwork Part 1\n\nCBD of Durban\n\nDraw a labeled street transect. Complete the following tasks in the field: (1 hour maximum). Buses will be waiting\nat the corner of Aliwal and West Street. Location: From the corner of West and Grey Street to the corner of West\nand Aliwal Street (south facing buildings only).\n\n        Construct a labeled transect of ground floor land-use activities along the West Street.\n        'Step out' the distance between different buildings to get a reasonably accurate measurement.\n        Label the different land uses and distinguish between different kinds of activities, for example, a garage\n         selling petrol and other goods, a café, a bookshop, etc.\n        Indicate on the map where informal sellers are situated.\n\nGateway Shopping Centre\n\nVisit the MTN Science Centre between 12.00 and 13.30 hour. Complete the following tasks in the field: (1 hour\nmaximum). Buses will be waiting in the car park ready to leave by 2.30 pm.\n\n        Walk around the outside of the shopping centre. Take some notes on what you observe. For example,\n         what kinds of land use surround the shopping centre? Why was this area chosen for a shopping centre?\n        What kinds of architecture characterizes the inside of the shopping centre? What has influenced the\n         architecture of the building?\n        What kind of customers is the shopping centre trying to attract?\n        How does this shopping centre differ from the shops and commercial activities in West Street (CBD of\n         Durban).\n        What are the advantages of regional shopping centres?\n        What are the problems of regional shopping centres? Is the Gateway shopping likely to cause problems?\n         Give reasons.",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

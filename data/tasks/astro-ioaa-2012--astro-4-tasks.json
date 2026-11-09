@@ -1,0 +1,247 @@
+{
+ "setId": "astro-ioaa-2012--astro-4-tasks",
+ "olympiadId": "astro-ioaa-2012",
+ "title": "Астрономия → IOAA (международная) → 2012 → 5 класс",
+ "materialLabel": "4 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/ioaa/2012/astro-4-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T18:02:00.780Z",
+ "quality": {
+  "tasks": 15,
+  "parts": 15,
+  "withPoints": 15,
+  "withReference": 0,
+  "withQuestion": 15,
+  "estimatedPoints": 15
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "At Brazil’s National Observatory, located at the city of Rio de Janeiro (22° 54’ S, 43°\n   12’ W), there is a sundial above the door of the dome of the 32cm telescope, facing to the\n   north. The dial lies on the plane East-Zenith-West and the rod is parallel to the Earth’s\n   axis. For which declinations of the sun and during what period of the year (months and\n   seasons) the clock (i) does not work during, at least, some fraction of the day?, and (ii)\n   does not work at all during the day?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Calculate the length of the sidereal day on Earth. What would be the length of the solar\n   and sidereal days, in the current time measures (our solar hours, minutes and seconds), if\n   the Earth would rotate in the opposite direction, but with the same rotation speed?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "What is the time interval between two consecutive oppositions of Mars? Assume the orbit\n   is circular.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "What would be full Moon’s visual magnitude if its albedo were equal to 1?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "Calculate the ratio between the average densities of the Earth and the Sun, using ONLY\n   the dataset below:\n      the angular diameter of the Sun, as seen from Earth\n      the gravitational acceleration on Earth’s surface\n      the length of the year\n      the fact that one degree in latitude at Earth’s surface corresponds to 111 km",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "Most of the energy emitted by the Sun is generated in its core via the so-called proton-\n   proton (p-p) nuclear chain reaction, which has three different branches. The most\n   energetic branch transforms 2 He3 into He4 + 2H1. Calculate the energy released (in MeV)\n   and the fractional reduction of the mass of the particles involved in this reaction.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Задача 7",
+   "statement": "Luminous Blue Variable (LBV) stars greatly vary in visual brightness; however, the\n   bolometric magnitude remains constant. Imagine a LBV star with a black body\n   temperature of 5 000 K at its maximum visual brightness, and 30 000 K at its minimum\n   visual brightness. Calculate the ratio of the star radius between both situations above.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Задача 8",
+   "statement": "A pulsar located 1000 pc far from Earth, 10 000 times more luminous than our Sun, emits\n   radiation only from its two opposite poles, creating an homogeneous emission beam\n   shaped as double cone with opening angle α = 4°.\n   Assuming the angle between the rotation axis and the\n   emission axis is 30°, and assuming a random orientation of\n   the pulsar beams in relation to an observer on Earth, what\n   is the probability of detecting the pulses? In case we can\n   see it, what is the apparent bolometric magnitude of the\n   pulsar?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "8",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Задача 9",
+   "statement": "An old planetary nebula, with a white dwarf (WD) in its center, is located 50 pc away\n   from Earth. Exactly in the same direction, but behind the nebula, lies another WD,\n   identical to the first, but located at 150 pc from the Earth. Consider that the two WDs have\n   absolute bolometric magnitude +14.2 and intrinsic color indexes B-V = 0.300 and U-V =\n   0.330. Extinction occurs in the interstellar medium and in the planetary nebula.\n   When we measure the color indices for the closer WD (the one who lies at the center of\n   the nebula), we find the values B-V = 0.327 and U-B = 0.038. In this part f the Galaxy,\n   the interstellar extinction rates are 1.50, 1.23 and 1.00 magnitudes per kiloparsec for the\n   filters U, B and V, respectively. Calculate the color indices as they would be measured for\n   the second star.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "9",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Задача 10",
+   "statement": "Assume that the universe currently is well described by a density parameter Ω0 = 1, there\n   is no dark energy, and the current temperature of the universe is 2.73 K. Knowing that the\n   temperature of the universe is inversely proportional to its radius (the scale factor),\n   compute how long, starting from the present time, it will take to the Universe to cool\n   down by 0.1 K",
+   "total": 7,
+   "parts": [
+    {
+     "id": "10",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Задача 11",
+   "statement": "What is the angular amplitude of the oscillatory motion of the Sun, due to the existence of\n   Jupiter, as measured by an observer located at Barnard’s Star? What is the period of this\n   oscillation?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "11",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Задача 12",
+   "statement": "What is the minimum diameter of a telescope, observing in the visible and near ultraviolet\n   bands, located in one of the Lagrangian points L4 or L5 of the Sun-Earth system, in order\n   to be able to detect the Earth’s wobbling relative to the ecliptic plane caused by the\n   gravitational action of the Moon?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "12",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Задача 13",
+   "statement": "An astronomer in the southern hemisphere contemplates the rise of the south ecliptic pole\n   and wonders how fun it would be if the sky started spinning around the ecliptic pole,\n   instead of the usual celestial pole. Sketch the displacement of this observer over the\n   Earth’s surface, to observe the stars revolving around south ecliptic pole in the same\n   direction and with the same period that they usually revolve around the south celestial\n   pole. Sketch the observer’s trajectory for one entire day. Determine its velocity (direction\n   and speed) when crossing the Equator for the first time.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "13",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Задача 14",
+   "statement": "An observer in Salonika (φ = +40.65°), Greece, quietly contemplates the starry sky when\n   he realizes that a very bright object (α = 5h55min, δ = +7.41°, m = 0.45),     hen reaching\n   its upper culmination, mysteriously detaches from the celestial sphere and continues\n   moving at the same tangential speed, remaining in this movement for all eternity, Assume\n   that the Earth stands still and the celestial sphere rotates. Then, determine the final alt -\n   azimuthal coordinates of the object. How long will it take for its apparent magnitude to\n   change to 6.00?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "14",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Задача 15",
+   "statement": "Christ, the Redeemer is the most famous Brazilian monument. But there are many similar\n   statues in other Brazilian cities and across the world. Imagine that an exact copy of the\n\nmonument was built on Borradaile Island, at latitude φ = -66.55°, the first place south of\nthe Antarctic Circle reached by man.\nAssume the island is exactly on the Antarctic Circle, and define a Cartesian coordinate\nsystem (Oxy) on the horizontal plane, with the origin O being at the base of the Christ, the\nOx axis in the East-West direction and the Oy axis in the North-South direction.\nDetermine the equation of the curve described by the tip of the Christ’s head shadow on\nthe horizontal plane, on a sunny solstice day and the minimum length of the shadow\nduring that day (neglect the motion of the sun in declination during the day). Neglect the\natmospheric effects.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "15",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "setId": "math-egmo-2023--math-1-tasks",
+ "olympiadId": "math-egmo-2023",
+ "title": "Математика → EGMO → 2023",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/egmo/2023/math-1-tasks.pdf",
+ "solutionFile": "olympiads/math/s/egmo/2023/math-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:24.983Z",
+ "quality": {
+  "tasks": 3,
+  "parts": 3,
+  "withPoints": 3,
+  "withReference": 3,
+  "withQuestion": 3,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Даны n ⩾ 3 действительных положительных чисел a1 , a2 , . . . , an . Для каждого\n1 ⩽ i ⩽ n пусть bi = ai−1a+a\n                           i\n                             i+1\n                                 (здесь мы определяем a0 как an , а также an+1 как a1 ). Для всех\ni и j от 1 до n включительно оказалось, что ai ⩽ aj тогда и только тогда, когда bi ⩽ bj .\nДокажите, что a1 = a2 = · · · = an .",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "Problem 1. There are n ⩾ 3 positive real numbers a1 , a2 , . . . , an . For each 1 ⩽ i ⩽ n we\nlet bi = ai−1a+a\n               i\n                 i+1\n                     (here we define a0 to be an and an+1 to be a1 ). Assume that for all i\nand j in the range 1 to n, we have ai ⩽ aj if and only if bi ⩽ bj .\n\nProve that a1 = a2 = · · · = an ."
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Дан остроугольный треугольник ABC. Пусть D − точка на его описанной окруж-\nности такая, что AD − её диаметр. Точки K и L лежат на отрезках AB и AC соответственно\nтак, что DK и DL − касательные к окружности, описанной около треугольника AKL.\nДокажите, что прямая KL проходит через ортоцентр треугольника ABC.\nОртоцентром треугольника называется точка пересечения его высот.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "We are given an acute triangle ABC. Let D be the point on its circumcircle\nsuch that AD is a diameter. Suppose that points K and L lie on segments AB and AC,\nrespectively, and that DK and DL are tangent to circle AKL.\n\nShow that line KL passes through the orthocentre of ABC.\n\nThe altitudes of a triangle meet at its orthocentre."
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Пусть k − целое положительное число. У Лекси есть словарь D, состоящий из\nнескольких k-буквенных слов, содержащих только буквы A и B. В каждую клетку таблицы\nk × k Лекси хочет вписать либо букву A, либо букву B так, чтобы каждый столбец таблицы\nсодержал слово из D при чтении сверху вниз, и каждая строка таблицы содержала слово из D\nпри чтении слева направо.\nЧему равно наименьшее целое число m такое, что если D содержит не менее m различных слов,\nто Лекси заведомо сможет заполнить таблицу нужным образом, независимо от того, какие слова\nнаходятся в D?\n\nLanguage: Russian                                                Время работы: 4 часа 30 минут\n                                                           Каждая задача оценивается в 7 баллов\n\nУсловия задач запрещено разглашать до 00:00 ночи 17 апреля 2023 г.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "Let k be a positive integer. Lexi has a dictionary D consisting of some\nk-letter strings containing only the letters A and B. Lexi would like to write either the\nletter A or the letter B in each cell of a k × k grid so that each column contains a string\nfrom D when read from top-to-bottom and each row contains a string from D when read\nfrom left-to-right.\n\nWhat is the smallest integer m such that if D contains at least m different strings, then\nLexi can fill her grid in this manner, no matter what strings are in D?"
+    }
+   ]
+  }
+ ]
+}

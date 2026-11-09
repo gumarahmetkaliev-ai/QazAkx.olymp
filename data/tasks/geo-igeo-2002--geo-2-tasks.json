@@ -1,0 +1,37 @@
+{
+ "setId": "geo-igeo-2002--geo-2-tasks",
+ "olympiadId": "geo-igeo-2002",
+ "title": "География → iGeo (международная) → 2002",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/igeo/2002/geo-2-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T18:11:57.371Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "2002 iGeo - Durban, South Africa\nFieldwork Part 2\n\nCommercial activities\n\n     Complete a neat, accurate copy of the transect along West Street from Grey Street to Aliwal Street on\n      the graph paper provided. Choose an appropriate scale. Indicate different kinds of land use types using\n      a key (shading or cross hatching). Label the activities on the transect. Show the location of informal\n      traders. (15)\n     Tabulate (present as a table) the (a) similarities and (b) differences of commercial activities in the CBD\n      of Durban and the regional shopping centre at Gateway. (10)\n     Using your insights and experience at Gateway Shopping Centre to develop a diagram illustrating the\n      problems caused by the decentralization of regional shopping centres. (10)",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "setId": "astro-iao-2000--astro-2-tasks",
+ "olympiadId": "astro-iao-2000",
+ "title": "Астрономия → IAO (международная) → 2000",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/iao/2000/astro-2-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T18:25:30.978Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Observational round (the day's part). Problem to solve\n\nGroup A.\n\n                                  STARS ON THE DAYTIME SKY\n\nIntroduction:\n\nYou cannot see stars at daytime with a naked eye. And can they be seen with a telescope? If yes,\nexplain why? Write here your explanation:\n\nYou have an opportunity to test that with the help of a guide of 1-meter telescope of SAO. Its\nobjective-glass diameter is 20 cm, focus distance is 3 m, and field of seeing is 21´.\n\nPreparation to observation.\n\nUsing the map of stars, select a star.\nPoint here your object:\nIts coordinates:\n\nObservation.\n\nAn operator input the coordinates of your object into a computer controlling the 1-m telescope. After\nthe telescope is pointed on it, check if it is seen into the guide.\nThe winner of the observational round competition is one who sees the faintest star at a minimum\ndistance from the Sun.\n\n                                  Observational round by photos\n\nGroups A and B.\n\n                                                               Sorry, photos are possible only in SAO.\n\nPhoto 1.\n\nWhat nebulae do you recognize?\nWhy most of them are red, but some are blue?\n\nPhoto 2.\n\nWhat stellar clusters are seen in the photo?\nWhat constellations do the photo borders cross?\n\nWhat part of the Galaxy is seen in Photo 1 and 2?\n\nPhoto 3.\n\nWhat objects are seen in the photo, their names or at least the types?\nIn what region of the Galaxy they are?\n\nPhoto 4.\n\nAustralian aborigines call this system of dark nebulae \"Emu\" (Australian ostrich).\nIn what constellations are its body, neck and head?\nWhat object of the photo is the nearest and the most distant?",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

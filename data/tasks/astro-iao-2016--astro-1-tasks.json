@@ -1,0 +1,96 @@
+{
+ "setId": "astro-iao-2016--astro-1-tasks",
+ "olympiadId": "astro-iao-2016",
+ "title": "Астрономия → IAO (международная) → 2016",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/iao/2016/astro-1-tasks.pdf",
+ "solutionFile": "olympiads/astronomy/s/iao/2016/astro-1-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:56:00.325Z",
+ "quality": {
+  "tasks": 5,
+  "parts": 5,
+  "withPoints": 5,
+  "withReference": 4,
+  "withQuestion": 5,
+  "estimatedPoints": 5
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Dyson sphere. There is a fantastic hypothesis that Betelgeuse is not a red supergiant, but an\nartificial construction, Dyson sphere, made by a super-high-temperature civilization around their\nstar. Naturally, the radius of the constructed sphere was the same as the previous orbital radius\nof their former planet. Estimate the orbital period of their former planet.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Length of Day. Due to influence of the Moon the Earth's         7       тн  +4 т5\n2 гойаіоп is gradually slowing down, increasing the length of Nt  0\nday by 16 milliseconds in every thousand years. However, | ПАПА Ams\napart from this, considerable variations of this duration with  1850 1900 195\nthe periods from one year to several hundred years exist. In     `            950 200\nthe given figure, length of day shifts including the so-called “subdecadal” variations from year\n1830 to 2014 is along horizontal axis and deviation in milliseconds is along vertical axis.\nAccording to one of the theories, the only reason for these variations is fluctuations of sea level.\nIn frames of this model find, how the sea level was changing during this period. Draw an\nindicative plot of these changes (on the horizontal axis — years, on the vertical one — changes of\nsea level in a reasonable scale).\nProblems 3, 4, 5 — see page 2.\nЗадачи 3, 4, 5- см. стр. 2.\n2 волгария, Пампорово-Смолян 201600002 Ратрогоуо:ӛто1уап, Bulgaria\n\nАСТРОНОМИЧЕСКОЕ          ше                EURO-ASIAN               Round\nОБЩЕСТВО           а      ASTRONOMICAL SOCIETY\n>. $                                                             Сгоир  а ГВ.\ngm >       ХХІ Международная астрономическая олимпиада\n\nІШ <:\n\nкы”.       ХХ! International Astronomy Olympiad         ak | Enalish\n\n: 2)  Е- 4      Болгария, Пампорово-Смолян    $ -13.Х, 2016    Pamporovo-Smolyan, Bulgaria\nTheoretical round. Problems to solve.\n\nCommon introduction for problems 3 and 4. Heaven omen. On June 22, 813 A.D, after 15 days\nof standing opposite to each other, Bulgarian Khan Krum defeated the Byzantine army of\nEmperor Michael | Rhangabe near Adrianople (currently Edirne, Turkey) and took over the city.\nAfter this victory, the Bulgarian army marched on to Constantinople and besieged the capital of\nthe Byzantine Empire. It is possible that the outcome of the battle was affected by superstitious\ngenerals. Fear of astronomical events is described in the Byzantine chronicles: “When the two\narmies, Bulgarian in north-west and Greek in south-east, converged, a terrible celestial omen\n\n|    was the gaze of warriors: two comets, bright as moons, separated from опе another’. Some\nhistorians of astronomy believe that it is one of the first descriptions of a cometary nucleus\nfragmentation. However, there are also other options.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "4.1. 2 pt, including:\nThe comet goes from under the right side of the Moon — 2 pt.\nEvening — 1 pt."
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Heaven omen. Two comets. Imagine two comets, moving one by one strictly on the same\ntrajectory. Supposing orbital period of the comets is exactly 3 years, let us assume that they\ncome in opposition for an observer on the Earth during the aphelion passage of their orbit\n(reaching the middle of asteroid belt), but their apparent positions in this position are so close to\neach other, that the comets merge into one visible point for the naked eye. At what maximum\nangular distance from each other the comets can be observed at the time of perihelion\npassage? (At this angular distance, perhaps two comets were seen in June 813 A.D).",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "2. L. Distance from the observer (i.e. from the Earth): 1.8 au for the asteroid of the main belt\n(in oppositions) and about 35-50 au for asteroid of the Kuiper belt. The intensity of light coming\nto the telescope is reverse proportional to the square of these distances."
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "Satellite of Mars. There is a project to launch an artificial satellite in an orbit around Mars with\nequipment for solar eclipse observations, similar to what we see from the Earth. Mars itself\nwould be the object occulting the Sun. Estimate, whether it is possible, and what could be the\norbital period of the satellite. Clearly explain your solution with a drawing.\n2. Length of Day. Due to as:\n- influence of the Moon the 05:\nEarth's rotation is gradually 755                     “a\nslowing down, increasing the +} f=\nlength of day by 16 milliseconds  253          .             :              қ\nis уелі ВЫ ҒКАУЯМЫР,    1965  1970 1975 1980 1985 1990 1995 2000 2005  2010 2015\napart from this there is а ~~ *”° 5           ”          pons        ”\nconsiderable variation of this duration with the periods from one year to several hundred years.\nIn the given figure, the so-called “subdecadal” length of day variations during last 50 years is\nalong horizontal axis and deviation in milliseconds is along vertical axis. According to one of the\ntheories, the only reason for these variations is fluctuations in sea level. In frames of this model\nfind, for which value the sea level would rise (Ah = +...) or fall (Ah = —...) from 1995 to 2003.\nProblems 3, 4, 5 — see page 2.\nЗадачи 3, 4, 5-см. стр. 2.\n— Болгария, Пампорово-Смолян 2060 Рапрогоуо-5то1уап, Bulgaria |\n\nАСТРОНОМИЧЕСКОЕ         -                EURO~ASIAN               Round      Т һ ео  |\nОБЩЕСТВО         oe  ;     ASTRONOMICAL SOCIETY\nМҚ.                                                                      Group  ЕЗ\nge» ~      ХХІ Международная астрономическая олимпиада\nНІ   22        ХХ! International Astronomy Olympiad\nNeh                                                                                =\n“е”                                                           язык English\nеті        :      Болгария, Пампорово-Смолян    5-13.Х. 2016    Pamporovo-Smolyan, Bulgaria  |language|\nTheoretical round. Problems to solve",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "4.4. Artistic drawing."
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "Search for asteroids. It is possible to register an asteroid from the main asteroid belt down to a\nsize of 2.5 km Бу a modern medium-size telescope. What size of the objects of the Kuiper belt\ncan be registered by the same telescope with the same methods? You should remember all\nnecessary properties and data of asteroids of the main belt and Kuiper belt by heart.\n\n2 Bonrapna, Пампорово-Смолян 002060 Раптрогоуо-ӛ5то1уап, Bulgaria”",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "1. R. Distance from the Sun: 2.8 au for the asteroid of the main belt and about 35-50 au for\nthe asteroid of the Kuiper belt. The intensity of light coming to the asteroids is reverse\nproportional to the square of these distances."
+    }
+   ]
+  }
+ ]
+}

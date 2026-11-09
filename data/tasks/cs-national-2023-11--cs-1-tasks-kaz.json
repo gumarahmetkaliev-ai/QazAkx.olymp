@@ -1,0 +1,37 @@
+{
+ "setId": "cs-national-2023-11--cs-1-tasks-kaz",
+ "olympiadId": "cs-national-2023-11",
+ "title": "Информатика → Республиканская → 2023 → 11 класс",
+ "materialLabel": "1 тур (Задачи на казахском)",
+ "lang": "kz",
+ "tasksFile": "olympiads/informatics/national/2023/11/cs-1-tasks_kaz.pdf",
+ "solutionFile": "olympiads/informatics/national/2023/11/cs-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T18:21:40.969Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 7,
+   "title": "бөлiмнен тұрады",
+   "weight": null,
+   "total": 10,
+   "statement": "Iшкi есеп    Қосымша шектеулер           Ұпайлар    Қажеттi iшкi есептер\n               0              Мысалдар                 0                –\n               1             ai = bi , q = 1           8                –\n               2             0 ⩽ ai , bi ⩽ 1           6                –\n               3                 ai = bi              16                1\n               4         q = 1, n, ai , bi ⩽ 2000     16                –\n               5                  q=1                 13                4\n               6             n, q ⩽ 75000             21                4\n               7                    –                 20            2, 3, 5, 6\n\nМысалдар\n                 standard input                             standard output\n    3                                           2\n    1 2 2                                       0\n    1 0 3                                       3\n    3\n    1 2\n    1 1\n    1 3\n    8                                           1\n    2 1 2 4 0 2 0 0                             2\n    3 1 0 5 2 5 2 2                             1\n    13                                          1\n    3 7                                         6\n    2 4                                         6\n    4 8                                         1\n    4 8                                         1\n    1 7                                         1\n    1 7                                         3\n    3 6                                         1\n    4 7                                         1\n    4 5                                         3\n    2 6\n    4 8\n    3 5\n    2 8\n\n   Бiрiншi мысал:\n   Бiрiншi тапсырыс l1 = 1, r1 = 2. 1 және 2 картаны аударамыз, онда беткi жағында 1 және 0 саны\nкөрiнедi, олардың MEX 2 болады.\n   Екiншi тапсырыс l2 = 1, r2 = 1. Картаның екi жағында да 1 жазылған, ал MEX [1] тең 0.\n   Үшiншi тапсырыс l3 = 1, r3 = 3. 1 және 2 картасын аударамыз, онда беткi жағында 1,0 және 2\nсаны көрiнедi, олардың MEX 3 болады.",
+   "parts": [
+    {
+     "id": "7.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

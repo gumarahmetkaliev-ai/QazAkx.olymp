@@ -1,0 +1,111 @@
+{
+ "setId": "geo-igeo-2006--geo-2-tasks",
+ "olympiadId": "geo-igeo-2006",
+ "title": "География → iGeo (международная) → 2006",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/igeo/2006/geo-2-tasks.pdf",
+ "solutionFile": "olympiads/geography/s/igeo/2006/geo-2-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T18:11:57.275Z",
+ "quality": {
+  "tasks": 6,
+  "parts": 6,
+  "withPoints": 6,
+  "withReference": 2,
+  "withQuestion": 6,
+  "estimatedPoints": 6
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "(7 marks)\n\nUsing the data that you gathered in the field earlier today, complete a land use map\nof the area that you visited, showing the current uses of the area. Organize the land\nuses into these categories:\n\n         •         Park and green space\n         •         University\n         •         Mixed use\n         •         Residential\n         •         Vacant\n\nInclude in the “Vacant” category any sites with demountable buildings, car parks, and\nsites where constructions are not yet above ground level.\n\nChoosing appropriate colours, present this information on the outline map in your\nanswer booklet.\n\nIn completing your map ensure the geographical conventions of good mapping have\nbeen observed.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "- Map - 7 Marks\nMark out of 14 and divide by 2 at the end. (Sample map was provided to markers.)\n\n Shading according to land uses\n 5 colours X 2 marks for each land use                       10\n (minus ½ mark for each mistake)\n Appropriate title\n Must have “Land Use” and                                    ½\n “Kelvin Grove Urban Village”                                ½\n Key (or legend)\n Must have 5 colours for 5 named land uses                   1\n North Point\n Must have an arrow pointing in the right direction.         ½\n (Acceptable deviation from the correct direction was worked\n out by the markers.)\n Must have a N or North                                      ½\n (if the direction is incorrect, no marks will be awarded)\n Scale\n The scale is approximately one centimetre on the map\n represents 20 metres on the ground\n Must have the scale correct to 10% either way               ½\n Plus the correct unit of measurement, i.e., metres, km      ½\n Initial Total                                               out of 14\n Divide by 2, final marks                                    out of 7"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "(5 marks)\n\nUsing percentages, construct an age-sex population pyramid for the data presented\nin Table 1. Complete the age-sex pyramid on the graph paper provided in the\nanswer booklet.\n\nEnsure that you use appropriate geographical conventions in the construction of the\nage-sex pyramid.\n\nTable 1. Expected population distribution in Kelvin\nGrove Urban Village (KGUV) on completion in 2010\n  Age group           Male     Fem ale      Total\n\n          0-14           98         126        224\n\n         15-24          241         303        544\n\n         25-34          244         256        500\n\n         35-44          173         177        350\n\n         45-54          178         183        361\n\n         55-64          122         134        256\n\n         65-74           43          56          99\n\n             75+         23          32          55\n\n Total                 1122        1267       2389\n(based on projections from KGUV)\n\n    6th International Geography Olympiad\n                         Brisbane, Australia\n\n                        Fieldwork Test\n                                   Part B\n                Saturday 1 July 9.00 - 10.30am\n\n               QUESTION BOOKLET\n\nYou may have with you stationery items, a calculator, a language dictionary, your\nAnswer Booklet from Part A, the aerial photo distributed during the fieldwork, your\nannotated map and notes from this morning’s fieldwork.\n\n           Answer the questions in the answer booklet provided\n\n2006 International Geography Olympiad. Fieldwork Test. Part B\n\n(Question 1 and 2 were in Part A)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "- Population Pyramid - 5 Marks\nMark out of 10 and divide by 2 at the end. (Sample population pyramid was provided to\nmarkers.)\n\nAppropriate vertical scale\nThe graph must be balanced (minus ½ or 1 mark if too flat or 1\ntoo high)\nAppropriate labelling of Axes\nMust have Percentage (or %) of population on the horizontal ½\naxis\nAge                                                              ½\nMales                                                            ½\nFemales                                                          ½\nAccurate Representation of Data\nMust be bars, not lines (either of a gap or no gap between       1\nbars)\nThe bars must be drawn accurately (minus ½ mark for each         3\nmistake). Please see the calculations below to guide your\nmarking of each bar\n\n Age                            Males %                          Females %\n 0-14                           4.1                              5.3\n 15-24                          10.1                             12.7\n 25-34                          10.2                             10.7\n 35-44                          7.2                              7.4\n 45-54                          7.5                              7.7\n 55-64                          5.1                              5.6\n 65-74                          1.8                              2.3\n 75+                            1.0                              1.3\n                                47%                              53%\n\n Appropriate Layout\n Must be a gap in the middle (for the vertical scale). (Varied   ½\n during marking to accept age scale to one side.)\n The bars must be drawn without numbers written on them          ½\n Appropriate Title\n Must include:\n Age Sex Population                                              ½\n Pyramid                                                         ½\n 2010                                                            ½\n Kelvin Grove Urban Village                                      ½\n Initial Total                                                   out of 10\n divide by 2 - final mark                                        out of 5\n\nQuestion Three - Population Pyramid Analysis - 5 Marks\nPART A - Description of significant age and gender distribution groups (2010) - 2\nmarks\n\nAny 4 valid points for 2 marks\n\nSample points\n\n•     Higher % of females in each age group\n\n•     Majority of people are expected to be in the 15 to 34 age groups (i.e. 15 to 24 group\n      and 25 to 34 group)\n\n•     Low % of people more than 65 years (older age groups), e.g. 65 - 74 ( 4.1 %), 75 +\n      (2.3%)\n\n•     Second largest age groups expected to be 35 - 44 years and 45 - 54 year group\n      (i.e. 14.6% and 15.2%)\n\n•     Small % of people expected in the 55 - 64 years group (10.7%)\n\n•     Smallest % of people are expected in the 0 - 14 years group (9.4%)\n\nPART B - similarities and the differences between the forecast population for Kelvin\nGrove Urban Village and the current population of Kelvin Grove suburb - 3 marks\n\nStudents MUST have a minimum of three valid points highlighting the similarities and a\nminimum of three valid points showing the differences between the data to obtain a total of\n3 marks.\n\nSIMILARITIES (Examples) - 1½ marks\n\n•     Both have females as the highest % in each age group\n\n•     The % in the 0 - 14 age group is much the same for both pyramids\n\n•     Like the 2010 pyramid, the 2001 pyramid had the greatest % in the 15 - 34 age\n      group\n\nDIFFERENCES (Examples) - 1½ marks\n\n•     The 2001 pyramid shows a greater % in the 75+ year age group, especially the %\n      of females\n\n•     The 2001 pyramid shows a greater % in the 15 - 24 age group and the 25 - 34 age\n      group for both males and females\n\n•     The 2001 pyramid has a lower % in the 35 - 64 age group\n\nQuestion 4 - Map Analysis - 5 Marks\nDescription of distribution of land uses - 4 valid points for 2 marks\n\nExamples of points\n\n•     There are a variety of land uses\n•     Village centre is at the centre of the hub\n•     Mixed use is along the main street (Musk Street)\n•     There are designated residential areas on the outer sections of the village and on\n      the upper floors of mixed use buildings\n•     Parks and open spaces are distributed throughout\n•     Considerable university land use in the creative arts precinct\n•     The large amount of vacant space indicates future development\n\nExplain the distribution of these land uses - at least 3 valid factors for 3 marks\n\nExamples\n\n•     Based on walking (you can live without a car)\n•     A variety of land uses where everything is in walking distance, e.g. shops,\n      restaurants, school, supermarkets\n•     Access to public transport\n\n•     Mixed tenure - Premises may be owned, leased or rented and this provides for a\n      variety of life styles and age groups, e.g. student accommodation, public housing,\n      managed senior accommodation\n\n•     Mixed use / high density\n•     In the centre there are multi-storey buildings with commercial/retail uses on the\n      ground floors and residential predominantly on the upper floors\n•     Encourage residents to live, work and shop in the village\n\n•     Sense of neighbourhood\n•     Residential areas are clustered together\n•     Parks and open spaces encourage people to go out and play or meet people\n•     Shop fronts face the main street and this promotes the idea of a village\n•     All residential areas are away from the main road (Kelvin Grove Road)\n\nStudents may use the following terms to explain the distribution:\n\n•     Environmental/ecological\n•     Social sustainability\n•     Economic\n\nQuestion 5 - Evaluation Matrix - 5 Marks\n\n All squares complete with at least 1 valid attribute listed [positive or                5 marks\n negative]\n All squares, with the exception of 1 or 2, complete with at least 1 valid               4\n attribute listed [positive or negative]\n All squares, with the exception of 3 or 4, complete with at least 1 valid               3\n attribute listed [positive or negative]\n All squares, with the exception of 5 or 6, complete with at least 1 valid               2\n attribute listed [positive or negative]\n All squares, with the exception of 7 or 8, complete with at least 1 valid               1\n attribute listed [positive or negative]\n\nExamples of valid attributes\n\n Proposals\\criteria             the development         the development        the development\n                                needs to                should be in           should not detract\n                                complement              keeping with the       from the natural and\n                                developments            idea of a              social environmental\n                                already completed       sustainable urban      qualities of the\n                                or planned              development            overall village\n A 3-storey development,        - mixed use [+]         - mixed use [+]        - contributes to\n the ground floor of which      - already student                              sense of\n will be retail [eg, coffee     accommodation [-]                              neighbourhood [+]\n shop, Oxfam shop, budget       - sufficient retail\n clothing shop] and the two     already?\n floors above being single\n bedroom units aimed at\n the student market.\n\n A 3-storey development,        - utilized by all age   - mixed use [+]        - use by existing\n the ground floor of which is   groups [+]              - uses space           and new community\n a gymnasium and                - already a gym [-]     effectively [+]        [+]\n associated health services     - these companies                              - add to ‘sense of\n ,the two floors remaining      could interface well                           community’.[+]\n providing space for offices    with those already                             - not necessarily a\n for companies such as          in village [+]                                 positive for sense of\n small publishing                                                              neighbourhood. [-]\n companies, technology\n support companies, and\n the like.\n\n A 3-storey development,        - already seniors       - one use building     - seniors may feel\n comprising one and two         accommodation [-]       [-]                    isolated [-]\n bedroom units aimed at         - a distance from       - unsustainable [-]    - may assist to\n the over 55 market.            other services for      - caters for one age   create sense of\n                                the elderly [-]         group only [-]         neighbourhood [+]\n                                - more suitable\n                                location for older\n                                groups than some\n                                already existing\n                                housing [+]\n\nQuestion 6 - Decision Making - 13 Marks\nThere is no one correct answer – any of the 3 options could be chosen by a student as the\nbetter option. What is important is how the student argues for the option they have chosen\n– the justification that they mount for it.\n\n Response Characteristics                                                        Marks\n Excellent:\n States preferred development proposal                                             1\n\n Indicates how the chosen development meets the criteria - gives at least 3        6\n points of justification with 2 points per criterion\n\n Indicates how the development proposals are less suitable - gives at least 4      4\n points and mentions both proposals\n\n Makes mention of the\n age-sex pyramid                                                                   1\n the land use map                                                                  1\n Good:\n States preferred development proposal                                             1\n\n Indicates how the chosen development meets most of the criteria - gives at        5\n least 3 points of justification with 2 criteria with 2 points\n\n Indicates how the other development proposals are less suitable - gives 3         3\n points\n\n Makes mention of the\n age-sex pyramid                                                                   1\n land use map                                                                      1\n Satisfactory:\n States preferred development proposal                                             1\n\n Indicates superficially how the chosen development meets most of the              4\n criteria - makes 4 points\n\n Limited reference to other proposals                                              2\n\n Limited mentions of age sex pyramid and land use map                              1\n Poor:\n States preferred development proposal                                             1\n\n Inappropriate justification of the decision (using the criteria or otherwise)     3\n\n Some reference to other proposals but extraneous or irrelevant                    1\n\n No reference to the age-sex pyramid or land use map                               0"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "(5 marks - approximately 100 words, in point form or in sentences)\n\nDescribe the demographic pattern in your completed age-sex pyramid from Question\n2.\n\nDescribe the similarities and differences between the forecast population for Kelvin\nGrove Urban Village (in your pyramid) and the current population of the suburb of\nKelvin Grove, as shown in Figure 1.\n\n              Figure 1. Age-sex data for Kelvin Grove residents at the 2001\n              Census.                      Source: Aust Bureau of Statistics",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "(5 marks - approximately 100 words, in point form or in sentences)\n\nDescribe how the current land uses shown in your completed map from Question 1,\nand the planned land uses shown in the map on the next page, are distributed\nacross the Kelvin Grove Urban Village site.\n\nExplain the distribution of these land uses. Use at least 3 influencing factors in your\nanswer.\n\n[In the test students received a high resolution printed copy of this map]\n\n2006 International Geography Olympiad. Fieldwork Test. Part B\n\nDecision-making task\n\nFigure 2 and the text below relate to\nQuestions 5 and 6 at the bottom of\nthe page.\n\nThe block highlighted in Figure 2 is\napproximately 950 sq metres, and has\nnot yet been developed. There are\nthree proposals being considered for\nthis block:\n                                        Figure 2\n\n1.    a three story building – the ground floor would be retail (for example, coffee\n      shop, Oxfam shop, budget clothing shop); the two floors above would be\n      single bedroom units aimed at the student market\n2.    a three story building – the ground floor would be a gymnasium and\n      associated health services (for example, doctors’ surgery, health food shop);\n      the two floors above would provide space for offices for companies such as\n      small publishing companies, technology support companies, advertising\n      companies and the like\n3.    a three story building, comprising one and two bedroom units aimed at the\n      over 55 years old market\n\nYou are required to make a decision as to the most appropriate of the three\nproposals.\n\nIn reaching your decision you should consider the information presented and\ngathered during yesterday’s fieldwork, and the data in your completed land use map\n(from Question 1) and your age-sex pyramid (from Question 2).",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "(5 marks - in point form)\n\nEvaluate the three proposals using the criteria listed below. Present your answer by\ncompleting the matrix in the answer booklet.\n\n•     the building should complement developments already completed or planned\n      for the village\n•     the building should be in keeping with the idea of a sustainable urban\n      community\n•     the building should not detract from the natural and social environmental\n      qualities of the overall village community",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "(13 marks - approximately 250 words, in paragraphs)\n\nWhich proposal do you consider to be the most appropriate? Justify your decision in\na well-structured response, referring to your evaluations presented in the matrix.\n\n  6th International Geography Olympiad\n            Brisbane, Australia\n\n           Fieldwork Test\n                 Part A\n        Friday 30 June 2.00 - 3.15pm\n\n        ANSWER BOOKLET\n\nName:\n\nTeam:\n\n[graph paper]\n\n  6th International Geography Olympiad\n            Brisbane, Australia\n\n            Fieldwork Test\n                  Part B\n        Saturday 1 July 9.00 - 10.30am\n\n        ANSWER BOOKLET\n\nName:\n\nTeam:\n\n2006 International Geography Olympiad. Fieldwork Test. Part B\n\nQuestion 3\n\nQuestion 4\n\n2006 International Geography Olympiad. Fieldwork Test. Part B\n\nQuestion 5. Evaluation matrix\n\n                             the building should     the building should be   the building should not\n              Criteria       com plem ent            in keeping with the      detract from the\n                             developm ents already   idea of a sustainable    natural and social\n                             com pleted or planned   urban com m unity        environm ental\n Proposals\n                             for the village                                  qualities of the overall\n                                                                              village com m unity\n 1. a three story building\n – the ground floor\n would be retail (for\n exam ple, coffee shop,\n Oxfam shop, budget\n clothing shop); the two\n floors above would be\n single bedroom units\n aim ed at the student\n m arket\n\n 2. a three story building\n – the ground floor\n would be a gym nasium\n and associated health\n services (for exam ple,\n doctors’ surgery, health\n food shop); the two\n floors above would\n provide space for\n offices for com panies\n such as sm all\n publishing com panies,\n technology support\n com panies, advertising\n com panies and the like\n\n 3. a three story\n building, com prising\n one and two bedroom\n units aim ed at the over\n 55 years old m arket\n\n2006 International Geography Olympiad. Fieldwork Test. Part B\n\nQuestion 6",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

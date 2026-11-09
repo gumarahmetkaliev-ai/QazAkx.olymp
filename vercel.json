@@ -20,7 +20,7 @@
       "permanent": false
     },
     {
-      "source": "/data/chemistry-sources.json",
+      "source": "/data/:file(.+-sources\\.json)",
       "destination": "/",
       "permanent": false
     },
@@ -37,6 +37,10 @@
     },
     {
       "source": "/olympiads/:id",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/books",
       "destination": "/index.html"
     },
     {

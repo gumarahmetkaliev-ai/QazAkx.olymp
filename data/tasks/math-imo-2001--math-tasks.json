@@ -1,0 +1,111 @@
+{
+ "setId": "math-imo-2001--math-tasks",
+ "olympiadId": "math-imo-2001",
+ "title": "Математика → IMO (международная) → 2001",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/2001/math-tasks.pdf",
+ "solutionFile": "olympiads/math/s/imo/2001/math-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:41.294Z",
+ "quality": {
+  "tasks": 6,
+  "parts": 6,
+  "withPoints": 6,
+  "withReference": 6,
+  "withQuestion": 6,
+  "estimatedPoints": 6
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Let ABC be an acute-angled triangle with circumcentre O . Let P on BC be the foot of the altitude from A.\n\n  Suppose that \u0001BCA \u0002 \u0001ABC \u0003 30\u0001 .\n\n  Prove that \u0001CAB \u0003 \u0001COP \u0004 90\u0001 .",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "Problem G2. In acute triangle ABC with circumcenter O and altitude AP , ∠C ≥\n∠B + 30◦ . Prove that ∠A + ∠COP < 90◦ .\n\nSolution 1. Let α = ∠CAB, β = ∠ABC, γ = ∠BCA, and δ = ∠COP . Let K\nand Q be the reflections of A and P , respectively, across the perpendicular bisector of\nBC. Let R denote the circumradius of 4ABC. Then OA = OB = OC = OK = R.\nFurthermore, we have QP = KA because KQP A is a rectangle. Now note that\n∠AOK = ∠AOB − ∠KOB = ∠AOB − ∠AOC = 2γ − 2β ≥ 60◦ .\n\n                                       K                         A\n\n                                                      O\n\n       J                         B       Q                      P      C\n\nIt follows from this and from OA = OK = R that KA ≥ R and QP ≥ R. Therefore,\nusing the Triangle Inequality, we have OP + R = OQ + OC > QC = QP + P C ≥\nR + P C. It follows that OP > P C, and hence in 4COP , ∠P CO > δ. Now since\nα = 12 ∠BOC = 12 (180◦ − 2∠P CO) = 90◦ − ∠P CO, it indeed follows that α + δ < 90◦ .\n\nSolution 2. As in the previous solution, it is enough to show that OP > P C. To this\nend, recall that by the (Extended) Law of Sines, AB = 2R sin γ and AC = 2R sin β.\nTherefore, we have\n\n BP − P C = AB cos β − AC cos γ = 2R(sin γ cos β − sin β cos γ) = 2R sin(γ − β).\n\n42                                                       CHAPTER 4. GEOMETRY\n\nIt follows from this and from\n\n                                 30◦ ≤ γ − β < γ < 90◦\n\nthat BP −P C ≥ R. Therefore, we obtain that R+OP = BO +OP > BP ≥ R+P C,\nfrom which OP > OC, as desired.\n\nSolution 3. We first show that R2 > CP ·CB. To this end, since CB = 2R sin α\nand CP = AC cos γ = 2R sin β cos γ, it suffices to show that 41 > sin α sin β cos γ. We\nnote that 1 > sin α = sin(γ + β) = sin γ cos β + sin β cos γ and 21 ≤ sin(γ − β) =\nsin γ cos β − sin β cos γ since 30◦ ≤ γ − β < 90◦ . It follows that 14 > sin β cos γ and\nthat 41 > sin α sin β cos γ.\n\n        Now we choose a point J on BC so that CJ · CP = R2 . It follows from this and\nfrom R2 > CP · CB that CJ > CB, so that ∠OBC > ∠OJC. Since OC/CJ =\nP C/CO and ∠JCO = ∠OCP , we have 4JCO ∼ = 4OCP and ∠OJC = ∠P OC = δ.\nIt follows that δ < ∠OBC = 90◦ − α or α + δ < 90◦ .\n\nSolution 4.       On the one hand, as in the third solution, we have R2 > CP · CB.\nOn the other hand, the power of P with respect to the circumcircle of 4ABC is\nBP · P C = R2 − OP 2 . From these two equations we find that\n\n                   OP 2 = R2 − BP · P C > P C·CB − BP ·P C = P C 2 ,\n\nfrom which OP > P C. Therefore, as in the first solution, we conclude that α + δ <\n90◦ .\n\n                                                                                      43"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Prove that\n\n                     a                                   b                                   c\n                     \u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0002\u0005\u0005 \u0003 \u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\n       \u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\n        \u0001\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002                              \u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0002\u0005\u0005 \u0003 \u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\n                                            \u0001\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002                              \u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0002\u0005\u0005\u0005 \u0002 1\n                                                                                \u0001\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\n             a2 \u0003 8\u0006b\u0006c                          b2 \u0003 8\u0006c\u0006a                          c2 \u0003 8\u0006a\u0006b\n  for all positive real numbers a, b and c .",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "A6. Prove that for all positive real numbers a, b, c,\n                               a           b           c\n                        √            +√          +√          ≥ 1.\n                            a2 + 8bc    b2 + 8ca    c2 + 8ab"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Twenty-one girls and twenty-one boys took part in a mathematical contest.\n\n             • Each contestant solved at most six problems.\n             • For each girl and each boy, at least one problem was solved by both of them.\n  Prove that there was a problem that was solved by at least three girls and at least three boys.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "C8. Twenty-one girls and twenty-one boys took part in a mathematical competition.\nIt turned out that\n(a) each contestant solved at most six problems, and\n\n(b) for each pair of a girl and a boy, there was at least one problem that was solved\n    by both the girl and the boy.\nShow that there is a problem that was solved by at least three girls and at least three\nboys.\n\n6                                                          CHAPTER 1. PROBLEMS"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "Let n be an odd integer greater than 1, and let k1 , k2 , …, kn be given integers. For each of the n\u0007 permutations\n  a \b \u0003a1 , a2 , …, an \u0004 of 1, 2, …, n , let\n\n                         n\n       S\u0006\u0003a\u0004 \b \u0005 ki \u0006ai .\n                       i\b1\n\n  Prove that there are two permutations b and c, b                                          c, such that n \u0007 is a divisor of S\u0003b\u0004   S\u0003c\u0004.\n\n                                                                                          http://imo.wolfram.com/\n\n2                                                                                                 IMO 2001 Competition Problems",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "C2. Let n be an odd integer greater than 1 and let c1 , c2 , . . . , cn be integers. For each\n                                                                           P\npermutation a = (a1 , a2 , . . . , an ) of {1, 2, . . . , n}, define S(a) = ni=1 ci ai . Prove that\nthere exist permutations a 6= b of {1, 2, . . . , n} such that n! is a divisor of S(a) − S(b)."
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "In a triangle ABC , let AP bisect \u0001BAC , with P on BC , and let BQ bisect \u0001ABC , with Q on CA.\n\n      It is known that \u0001BAC \b 60\u0001 and that AB \u0003 BP \b AQ \u0003 QB.\n\n      What are the possible angles of triangle ABC ?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "Problem G8. Let ABC be a triangle with ∠BAC = 60◦ . Let AP bisect ∠BAC\nand let BQ bisect ∠ABC, with P on BC and Q on AC. If AB + BP = AQ + QB,\nwhat are the angles of the triangle?\n\nSolution. Denote the angles of ABC by α = 60◦ , β, and γ. Extend AB to P 0 so that\nBP 0 = BP , and construct P 00 on AQ so that AP 00 = AP 0 . Then BP 0 P is an isosceles\ntriangle with base angle β/2. Since AQ + QP 00 = AB + BP 0 = AB + BP = AQ + QB,\nit follows that QP 00 = QB. Since AP 0 P 00 is equilateral and AP bisects the angle at\nA, we have P P 0 = P P 00 .\n\n                                           P 00\n\n                               Q            P\n\n                          A                       B           P0\n\nClaim. Points B, P, P 00 are collinear, so P 00 coincides with C.\n\nProof. Suppose to the contrary that BP P 00 is a nondegenerate triangle. We have\nthat ∠P BQ = ∠P P 0 B = ∠P P 00 Q = β/2. Thus the diagram appears as below, or\nelse with P is on the other side of BP 00 . In either case, the assumption that BP P 00\nis nondegenerate leads to BP = P P 00 = P P 0 , thus to the conclusion that BP P 0 is\nequilateral, and finally to the absurdity β/2 = 60◦ so α + β = 60◦ + 120◦ = 180◦ .\n\n56                                                       CHAPTER 4. GEOMETRY\n\n                                             P 00\n\n                                         β/2\n\n                               Q         P\n\n                                               β/2\n\n                                                     B\n\nThus points B, P, P 00 are collinear, and P 00 = C as claimed.\n\nSince triangle BCQ is isosceles, we have 120◦ − β = γ = β/2, so β = 80 and γ = 40◦ .\nThus ABC is a 60-80-40 degree triangle.\n\nChapter 5\n\nNumber Theory"
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "Let a, b, c, d be integers with a    b   c   d   0. Suppose that\n\n           a\u0006c \u0003 b\u0006d \b \u0003b \u0003 d \u0003 a          c\u0004\u0006\u0003b \u0003 d   a \u0003 c\u0004.\n      Prove that a\u0006b \u0003 c\u0006d is not prime.\n\n                                                          http://imo.wolfram.com/",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "N5. Let a > b > c > d be positive integers and suppose\n\n                       ac + bd = (b + d + a − c)(b + d − a + c).\n\nProve that ab + cd is not prime."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,232 @@
+{
+ "setId": "astro-ioaa-2011--astro-6-tasks",
+ "olympiadId": "astro-ioaa-2011",
+ "title": "Астрономия → IOAA (международная) → 2011 → Все классы",
+ "materialLabel": "6 кл · 6 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/ioaa/2011/astro-6-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T18:02:26.188Z",
+ "quality": {
+  "tasks": 15,
+  "parts": 15,
+  "withPoints": 15,
+  "withReference": 0,
+  "withQuestion": 15,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Most single-appearance comets enter the inner Solar System directly from the Oort Cloud.\n       Estimate how long it takes a comet to make this journey. Assume that in the Oort Cloud,\n       35 000 AU from the Sun, the comet was at aphelion.",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 10,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Estimate the number of stars in a globular cluster of diameter 40 pc, if the escape velocity at\n       the edge of the cluster is 6 km s−1 and most of the stars are similar to the Sun.",
+   "total": 10,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 10,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "On 9 March 2011 the Voyager probe was 116. 406 AU from the Sun and moving at 17.062\n       km s−1. Determine the type of orbit the probe is on: (a) elliptical, (b) parabolic, or\n       (c) hyperbolic. What is the apparent magnitude of the Sun as seen from Voyager?",
+   "total": 10,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 10,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "Assuming that Phobos moves around Mars on a perfectly circular orbit in the equatorial plane\n       of the planet, give the length of time Phobos is above the horizon for a point on the Martian\n       equator. Use the following data:\n       Radius of Mars RMars = 3 393 km Rotational period of Mars TMars = 24.623 h. Mass of Mars\n       MMars = 6.421 × 1023kg Orbital radius of Phobos RP = 9 380 km .",
+   "total": 10,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 10,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "What would be the diameter of a radiotelescope working at a wavelngth of λ = 1 cm with the\n       same resolution as an optical telescope of diameter D = 10 cm?",
+   "total": 10,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 10,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "Tidal forces result in a torque on the Earth. Assuming that, during the last several hundred\n       million years, both this torque and the length of the sidereal year were constant and had values\n       of 6.0 × 1016 N m and 3.15 × 107 s respectively, calculate how many days there were in a year\n       6.0 x 108 years ago. Moment of inertia of a homogeneous filled sphere of radius R and mass m\n                 2\n        is I      m R2\n                 5",
+   "total": 10,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 10,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Задача 7",
+   "statement": "A satellite orbits the Earth on a circular orbit. The initial momentum of the satellite is given by\n       the vector p. At a certain time, an explosive charge is set off which gives the satellite an\n       additional impulse Δp, equal in magnitude to |p|. Let α be the angle between the vectors p and\n       Δp, and β between the radius vector of the satellite and the vector Δp. By thinking about the\n       direction of the additional impulse Δp, consider if it is possible to change the orbit to each of\n       the cases given below. If it is possible mark YES on the answer sheet and give values of α and\n       β for which it is possible. If the orbit is not possible, mark NO.\n\n        (a) a hyperbola with perigee at the location of the explosion.\n\n1\n\n        (b) a parabola with perigee at the location of the explosion.\n\n        (c) an ellipse with perigee at the location of the explosion.\n\n        (d) a circle.\n\n        (e) an ellipse with apogee at the location of the explosion.\n\n        Note that for α = 180o and β = 90o the new orbit will be a line along which the satellite will\n        free fall vertically towards the centre of the Earth.",
+   "total": 10,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 10,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Задача 8",
+   "statement": "Assuming that dust grains are black bodies, determine the diameter of a spherical dust grain\n       which can remain at 1 AU from the Sun in equilibrium between the radiation pressure and\n       gravitational attraction of the Sun. Take the density of the dust grain to be ϱ = 103 kg m−3.",
+   "total": 10,
+   "parts": [
+    {
+     "id": "8",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 10,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Задача 9",
+   "statement": "Interstellar distances are large compared to the sizes of stars. Thus, stellar clusters and galaxies\n       which do not contain diffuse matter essentially do not obscure objects behind them. Estimate\n       what proportion of the sky is obscured by stars when we look in the direction of a galaxy of\n       surface brightness μ = 18.0 mag arcsec−2. Assume that the galaxy consists of stars similar to\n       the Sun.",
+   "total": 10,
+   "parts": [
+    {
+     "id": "9",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 10,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Задача 10",
+   "statement": "Estimate the minimum energy a proton would need to penetrate the Earth's magnetosphere.\n        Assume that the initial penetration is perpendicular to a belt of constant magnetic field 30 μT\n        and thickness 1.0 x 104 km. Prepare the sketch of the particle trajectory. (Note that at such\n        high energies the momentum can be replaced by the expression E/c. Ignore any radiative\n        effects).",
+   "total": 10,
+   "parts": [
+    {
+     "id": "10",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 10,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Задача 11",
+   "statement": "Based on the spectrum of a galaxy with redshift z = 6.03 it was determined that the age of the\n        stars in the galaxy is from 560 to 600 million years. At what z did the epoch of star formation\n        occur in this galaxy? Assume that the current age of the Universe is t0 = 13.7 × 109 years and\n        that the rate of expansion of the Universe is given by a flat cosmological model with\n        cosmological constant Λ = 0. (In such a model the scale factor R  t 2/3, where t is the time\n        since the Big Bang.)",
+   "total": 10,
+   "parts": [
+    {
+     "id": "11",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 10,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Задача 12",
+   "statement": "Due to the precession of the Earth's axis, the region of sky visible from a location with fixed\n        geographical coordinates changes with time. Is it possible that, at some point in time, Sirius\n        will not rise as seen from Krakow, while Canopus will rise and set? Assume that the Earth's\n        axis traces out a cone of angle 47o. Krakow is at latitude 50.1o N; the current equatorial\n        coordinates (right ascension and declination) of these stars are:\n        Sirius (α CMa) :          6h 45m , −16o 43'\n        Canopus (α Car) :        6h 24m , −52o 42'",
+   "total": 10,
+   "parts": [
+    {
+     "id": "12",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 10,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Задача 13",
+   "statement": "The equation of the ecliptic in equatorial coordinates (α, δ) has the form:\n        δ = arctan ( sin α tan ε ),\n        where ε is the angle of the celestial equator to the ecliptic plane. Find an analogous relation\n        h = f (A) for the galactic equator in horizontal coordinates (A, h) for an observer at latitude\n        φ = 49o 34' at local sidereal time θ = 0h 51m.\n\n2",
+   "total": 10,
+   "parts": [
+    {
+     "id": "13",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 10,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Задача 14",
+   "statement": "Estimate the number of solar neutrinos which should pass through a 1 m2 area of the Earth's\n        surface perpendicular to the Sun every second. Use the fact that each fusion reaction in the\n        Sun produces 26.8 MeV of energy and 2 neutrinos.",
+   "total": 10,
+   "parts": [
+    {
+     "id": "14",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 10,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Задача 15",
+   "statement": "Given that the cosmic background radiation has the spectrum of a black body throughout the\n        evolution of the Universe, determine how its temperature changes with redshift z. In\n        particular, give the temperature of the background radiation at the epoch z  10 (that of the\n        farthest currently observed objects). The current temperature of the cosmic background\n        radiation is 2.73 K .\n\n3",
+   "total": 10,
+   "parts": [
+    {
+     "id": "15",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 10,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

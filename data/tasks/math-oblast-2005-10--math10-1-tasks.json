@@ -1,0 +1,142 @@
+{
+ "setId": "math-oblast-2005-10--math10-1-tasks",
+ "olympiadId": "math-oblast-2005-10",
+ "title": "Математика → Областная → 2005 → 10 класс",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/oblast/2005/10/math10-1-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:39.177Z",
+ "quality": {
+  "tasks": 8,
+  "parts": 8,
+  "withPoints": 8,
+  "withReference": 0,
+  "withQuestion": 8,
+  "estimatedPoints": 8
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Решите в целых числах уравнение:        +    +    = 3.\n                                           z   x     y",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Сравнить числа cos(sin(2005)) и sin(cos(2005)).",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Докажите справедливость тождества\n                                                      n+1\n                                         sin nx\n                                              2 ⋅ sin 2 x\n           sin x + sin 2x + ⋯ + sin nx =                  ,    = 2πk , k ∈ Z.\n                                                              x\n                                               sin x2",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "Окружность, вписанная в треугольник ABC , делит его сторону AB на\n     отрезки AD и DB с длинами 5 см и 3 см соответственно. Величина, угла\n     A равна 60∘ . Найдите длину стороны BC .",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "Найдите сумму: 13 + 23 + 33 + ⋯ + n3 .",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "В равнобедренную трапецию ABCD (AB = CD) вписана окружность.\n     Пусть M — точка касания окружности со стороной CD, K — точка\n     пересечения окружности с отрезком AM , L — точка пересечения\n     окружности с отрезком BM . Найдите величину AM\n                                                 AK + BL .\n                                                      BM\n\n                                                                 a2   b2   c2",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Задача 7",
+   "statement": "Числа a, b, c, d положительны. Докажите неравенство            +    +    ≥\n                                                                  b    c   d\n     4(a − d) и выясните, при каких a, b, c, d оно обращается в равенство.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Задача 8",
+   "statement": "Решить в рациональных числах уравнение: x4 − 4x3 − 13x2 + 28x + 12 = 0.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "8",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

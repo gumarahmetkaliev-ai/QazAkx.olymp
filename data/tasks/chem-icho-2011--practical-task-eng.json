@@ -1,0 +1,210 @@
+{
+ "setId": "chem-icho-2011--practical-task-eng",
+ "olympiadId": "chem-icho-2011",
+ "title": "Химия → IChO (международная) → 2011",
+ "materialLabel": "Practical (Практика на английском)",
+ "lang": "en",
+ "tasksFile": "olympiads/chemistry/s/icho/2011/practical_task_eng.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T18:32:49.178Z",
+ "quality": {
+  "tasks": 3,
+  "parts": 23,
+  "withPoints": 23,
+  "withReference": 0,
+  "withQuestion": 23,
+  "estimatedPoints": 23
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача №1",
+   "weight": null,
+   "total": 12,
+   "statement": "Analysis of Chloride Mixtures\nComposition of a solution containing only MgCl2 and NaCl can be determined by an indirect titration\nmethod by performing a precipitation titration to determine the total amount of chloride present, followed\nby a complex formation titration to determine the amount of magnesium ions. A common precipitation\ntitration technique used to determine the amount of chloride ions present in a solution is the Fajans\nmethod. In this argentometric procedure, silver nitrate is used as the titrant to precipitate the chloride\nions present in the solution. The end point is detected through the use of an adsorption indicator,\ntypically dichlorofluorescein, a weak organic acid. Prior to the end point, silver chloride particles are\nnegatively charged because of the adsorption of excess chloride ions present in solution. The indicator\nanions are repelled by the negatively charged surface of the silver chloride particles imparting a yellow-\ngreen color to the solution. Beyond the equivalence point, however, silver chloride particles adsorb silver\nions. Thus a positively charged layer is formed and it attracts the dichlorofluoresceinate ions displaying a\npink-red color. Dextrin is used to stabilize the silver chloride particles against the coagulation.\n\nOn the other hand, the amount of magnesium ions present in a solution can be determined by\ncomplexometric titration with ethylenediaminetetraacetic acid, EDTA. As a hexadentate ligand, EDTA\nforms chelates with all metal ions, except alkali metal ions, in a 1:1 ratio regardless of the charge of the\ncation. Eriochrome Black T (EBT) is a common indicator used for EDTA titrations. When pH > 7.00 EBT\nimparts a blue color to the solution in the absence of metal ions and forms a red color when coordinated\nto metal ions.\n\nIn this experiment the chloride content of the solution containing MgCl2 and NaCl will be determined by\nFajans method. Magnesium ion concentration will be determined by EDTA titration.\nA 100 mL solution prepared by dissolving MgCl2 and NaCl in water is given as the unknown sample. The\nobjective is to determine the concentration of MgCl2 and NaCl in g/100 mL.\n\nA. Determination of total chloride by Fajans Method\n   1. Using a 10-mL pipette, transfer 10.0 mL aliquot from the bottle labeled as unknown solution into\n      a 250-mL Erlenmeyer flask. Complete the volume to approximately 100 mL by adding distilled\n      water.\n   2. Take one of the Eppendorf tubes given in the zipper bag labeled as dextrin and transfer all its\n      content into the Erlenmeyer flask.\n   3. Add 5 drops of dichlorofluorescein indicator solution.\n   4. Record the exact concentration of AgNO3 in standard solution.\n   5. Fill one of the burettes with the standard AgNO3 solution.\n\n43rd IChO Practical Tasks, Official English version                                                    1\n\n  6. Titrate the unknown solution until the whole solution has pink-red color.\n  7. Record the volume of AgNO3 used, in mL.\n  8. Use the same Erlenmeyer flask when repeating the titration. Before doing this, pour the content of\n     Erlenmeyer flask into the Aqueous Waste container and rinse it twice with distilled water.\n\nB. Determination of Mg2+ by direct titration with EDTA\n\n  1. Fill the second burette with the standard EDTA solution.\n  2. Record the exact concentration of EDTA in standard solution.\n  3. Using a 25-mL pipette, transfer a 25.0 mL aliquot of unknown solution into a 250-mL Erlenmeyer\n     flask. Complete the volume to approximately 100 mL by adding distilled water.\n  4. Using a 1-mL pipette, add 1.0 mL of pH 10 buffer.\n  5. Add 3-4 drops of EBT indicator solution.\n  6. Titrate the unknown solution with standard EDTA solution until the color changes from red to blue.\n  7. Record the volume of EDTA solution used, in mL.\n  8. Use the same Erlenmeyer flask when repeating the titration. Before doing this, pour the content of\n     Erlenmeyer flask into the Aqueous Waste container and rinse it twice with water.\n\n  1. Determine the amount of Cl- ion in millimoles in 100 mL unknown solution.\n  2. Determine the amount of Mg2+ ion in millimoles100 mL unknown solution.\n  3. Calculate the concentration of MgCl2 and NaCl in the unknown solution, in g/100 mL.\n\n43rd IChO Pratical Tasks, Official English version                                                  2",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 1.5,
+     "question": "Using a 10-mL pipette, transfer 10.0 mL aliquot from the bottle labeled as unknown solution into a 250-mL Erlenmeyer flask. Complete the volume to approximately 100 mL by adding distilled water.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.2",
+     "points": 1.5,
+     "question": "Take one of the Eppendorf tubes given in the zipper bag labeled as dextrin and transfer all its content into the Erlenmeyer flask.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.3",
+     "points": 1.5,
+     "question": "Add 5 drops of dichlorofluorescein indicator solution.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.4",
+     "points": 1.5,
+     "question": "Record the exact concentration of AgNO3 in standard solution.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.5",
+     "points": 1.5,
+     "question": "Fill one of the burettes with the standard AgNO3 solution.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.6",
+     "points": 1.5,
+     "question": "Titrate the unknown solution until the whole solution has pink-red color.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.7",
+     "points": 1.5,
+     "question": "Record the volume of AgNO3 used, in mL.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.8",
+     "points": 1.5,
+     "question": "Use the same Erlenmeyer flask when repeating the titration. Before doing this, pour the content of Erlenmeyer flask into the Aqueous Waste container and rinse it twice with distilled water.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача №2",
+   "weight": null,
+   "total": 10,
+   "statement": "Hydrogen generation from ammonia borane\nHydrogen has been considered as a clean and environmentally benign new energy carrier in the way\ntowards a sustainable energy future. An effective and safe storage of hydrogen is one of the key issues\nof the hydrogen economy. Among the chemical hydrides, considered as potent solid hydrogen storage\nmaterials, ammonia-borane (H3N·BH3) has been attracting a great deal of attention due to its high\nhydrogen content and stability under fuel cell operating conditions. Ammonia borane can release\nhydrogen upon hydrolysis, Equation 1:\n\nH3N·BH3(aq) + 2H2O(l)     ⟶ NH4BO2(aq) + 3H2(g)                                          (1)\n\nAqueous solution of ammonia borane is stable and its hydrolysis occurs only in the presence of a\nsuitable catalyst. Recent studies have shown that palladium(0) nanoclusters stabilized by water soluble\npolymers are highly active catalyst in the hydrolysis of ammonia borane. Palladium(0) nanoclusters are\ngenerated in situ by the reduction of potassium tetrachloropalladate(II) with ammonia borane in the\npresence of poly(4-styrenesulfonic acid-co-maleic acid).\n\nIn this experiment, the catalytic hydrolysis of ammonia borane will be carried out starting with potassium\ntetrachloropalladate(II) in a solution containing poly(4-styrenesulfonic acid-co-maleic acid). Potassium\ntetrachloropalladate(II) will be used as precatalyst, which will be reduced by ammonia borane and\npalladium(0) nanoclusters will be formed and stabilized by poly(4-styrenesulfonic acid-co-maleic acid).\nThese nanoclusters will catalyze the hydrolysis of ammonia borane.\n\nI. Preparation of the Experimental Set-up\n\n  1. Check that the experimental setup, shown below, is held on a support, the graduated tube is\n     connected to the Schlenk tube by Tygon tubing, and a stir bar is in the Schlenk tube.\n\n  2. Make sure that the septum is off and the valve is open.\n  3. By changing the bulb height adjust the water level in the graduated tube to zero.\n  4. Close the valve on the Schlenk tube.\n\n43rd IChO Pratical Tasks, Official English version                                                     3\n\nName:                                                                    Code:\n\n                 Bulb\n\n                                                                            Graduated\n               Syringe                                                        Tube\n\n               Septum\n\n                                                                              Valve\n\n                Schlenk\n                 Tube\n                                                                             Stir Bar\n\n                                                                             Magnetic\n                                                                              Stirrer\n\n                                         Experimental Set-up\n\nII. Hydrolysis of ammonia borane\n\nA. In the absence of catalyst\n\n  1. Transfer all of the ammonia-borane solution (Solution-A) from the glass vial to the Schlenk tube\n     through the funnel,\n  2. Add the polymer solution (Solution-B) from the glass vial to the Schlenk tube through the funnel.\n\n  3. Close the Schlenk tube with the septum, turn the stirring on at 600 rpm (as marked on the stirrer),\n     and open the valve connecting to the graduated tube. Record the water level as Vo at time zero.\n     Start the timer.\n  4. Every minute read the total volume of gas produced and write in the Table given on the answer\n     sheet. Do this for 10 minutes. Stop the timer.\n\n43rd IChO Pratical Tasks, Official English version                                                   4\n\nName:                                                                     Code:\nB. In the presence of catalyst\n\n  1. While stirring, transfer all of the potassium tetrachloropalladate(II) solution (Solution-C) from the\n     glass vial to the Schlenk tube by injecting through the septum using a 2.0 mL syringe. Keep the\n     syringe inserted in the septum throughout the experiment. Start the timer.\n\n  2. Every minute read the total volume of gas produced and write in the Table given on the answer\n     sheet. Do this for 10 minutes. Stop the timer.\n\nA. Reaction of ammonia-borane without catalyst\n\n  1. Plot the volume of gas recorded versus time in Graph 1.\n  2. Report the volume of gas evolved as Vuncatalyzed.\n\nB. Reaction of ammonia-borane with catalyst\n\n  1. Plot the volume of gas generated versus time in Graph 2.\n  2. Calculate the maximum number of moles and the maximum volume (mL) of hydrogen gas which\n     will be evolved theoretically from the hydrolysis of 29.5 mg ammonia borane with a purity of 97%\n     w/w at 25 °C. The atmospheric pressure is 690 torr.\n  3. Calculate the rate of hydrogen generation in your experiment\n      i) in mL H2/ min.\n      ii) in mmol H2/ min by assuming that the temperature is 25 °C. The atmospheric pressure is 690\n          torr.\n  4. Calculate the rate of hydrogen production per mole of palladium in (mol H2)·(mol Pd)-1·(min)-1 in\n     your experiment. The purity of potassium tetrachloropalladate(II) is 98% w/w.\n\n43rd IChO Pratical Tasks, Official English version                                                     5\n\nName:                                                                                              Code:",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 2.5,
+     "question": "Check that the experimental setup, shown below, is held on a support, the graduated tube is connected to the Schlenk tube by Tygon tubing, and a stir bar is in the Schlenk tube.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.2",
+     "points": 2.5,
+     "question": "Make sure that the septum is off and the valve is open.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.3",
+     "points": 2.5,
+     "question": "By changing the bulb height adjust the water level in the graduated tube to zero.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.4",
+     "points": 2.5,
+     "question": "Close the valve on the Schlenk tube.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача №3",
+   "weight": null,
+   "total": 11,
+   "statement": "Synthesis, purification and separation of a\ndiastereomeric mixture\nNature has many compounds in the form of a single enantiomer or diastereomer such as sugars, amino\nacids, steroids, etc. Some of these compounds are biologically active and used as drugs. Therefore, the\nasymmetric synthesis of organic compounds is important. One of the methods for the asymmetric\nsynthesis of organic compounds employes a metal-catalyst, in which the metal is coordinated to a chiral\norganic molecule named as chiral ligand. In this experiment two chiral ligands will be synthesized.\n\n                                                                                                   H                           H\n                                                                                                   CH3                         CH3\n              O          Br                O                                          O                           O\n                                                                                               N                           N\n                                                                   H\n                              Et3N                        H 2N   CH3\n                                                                                          H         +               H\n     Fe           Br                  Fe       Br                            Fe                          Fe\n                          CHCl3, rt                         CHCl3, rt\n                                                    (R)-1-phenylethanamine\n     2,3-dibromo-1-\nferrocenylpropan-1-one                                                            fraction A                  fraction B\n\nA. Synthesis\n\n   1. Transfer the triethylamine solution in vial 1 (V1) using a syringe to the 10 mL round bottom\n      reaction flask (Rxn RB) containing 0.50 mmol 2,3-dibromo-1-ferrocenylpropan-1-one through the\n      septum.\n   2. Stir the mixture at room temperature for 30 min using the magnetic stirrer at 600 rpm (as marked\n      on the stirrer).\n   3. At the end of 30 min, transfer the (R)-1-phenylethanamine solution in vial 2 (V2) to the reaction\n      flask using the same syringe through the septum.\n   4. Stir the mixture for additional 60 min at room temperature.\n   5. At the end of 60 min turn off the magnetic stirrer and perform a Thin Layer Chromatography, TLC,\n      analysis as follows:\n          i) Check your TLC plates before use. Damaged plates will be replaced upon request without\n             penalty.\n          ii) Draw a start line on the lower portion of TLC plate with a pencil (Fig. 2.1).\n          iii) Apply starting material from the vial labeled as SM two times to the spot on the left and then\n               two times to the spot in the middle of plate. To the same plate, apply the reaction mixture (RM)\n               taken from the reaction flask once to the spot on the right and then once to the spot in the\n               middle as shown in Figure 2.1 (use a different capillary tube for each sample).\n          iv) Develop TLC plate in the TLC chamber with the eluent. Mark the solvent front with the pencil.\n          v) When the TLC plate is dry, place it in a zipper storage bag marked as TLC1.\n\n43rd IChO Pratical Tasks, Official English version                                                                                   6\n\nName:                                                                   Code:\n\n                                                           Fig. 2.2 A TLC plate placed in the\nFigure 2.1. A TLC plate                                    TLC developing chamber.\n\n  B. Flash Column Chromatography\n\n     1. Remove the stopper, open the valve, and bring the eluent level at top of column to the\n        upper level of silica gel.\n     2. Close the valve and load the content of reaction flask on the top of flash column using a\n        Pasteur pipette (Fig. 2.3).\n\n                                Figure 2.3. Flash Column Chromatography\n\n43rd IChO Practical Tasks, Official English version                                             7\n\n  3. Rinse the reaction flask with 0.5 mL eluent taken from the bottle labeled as ELUENT using\n     a clean syringe. Using the same Pasteur pipette, load the washings also on the top of\n     column.\n  4. Open the valve of the column and let the solvent run down to the upper level of silica gel.\n  5. Close the valve and add 1.0 mL eluent by a Pasteur pipette. Open the valve. When the\n     eluent is at the upper level of silica gel, add 2-3 mL eluent slowly without closing the valve.\n  6. Fill the column by adding more eluent. CAUTION: Be careful during the addition of\n     eluent; do not disturb silica gel.\n\n  7. In order to speed up the purification, apply little pressure by connecting the pressure\n     applying bulb with an adapter on top of the column. CAUTION: Be careful not to apply too\n     much pressure. Add eluent time to time to avoid silica gel run dry.\n  8. You are expected to collect two major fractions A and B. Discard any material which elutes\n     before major fraction A and between A and B into the container labeled as Organic Waste.\n  9. Collect the first major fraction into a 100 mL Erlenmeyer flask and label it as fraction A.\n  10. Collect the second major fraction into a 250 mL Erlenmeyer flask and label it as fraction B.\n  11. After collecting fraction B stop the elution by closing the valve.\n\nC. Analysis\n\n  1. Perform another TLC by applying the starting material (SM) two times to the spot on the left,\n     apply fraction A two times to the spot in the middle, and then fraction B five times to the\n     spot on the right. After development, when the TLC plate is dry, place it in a zipper storage\n     bag marked TLC2.\n  2. Measure the volume of fraction A using 50 mL graduated cylinder and record the volume to\n     your answer sheet.\n  3. Measure the volume of fraction B using 250 mL graduated cylinder and record the volume\n     to your answer sheet.\n  4. Using a 2-mL pipette transfer 2.0 mL of fraction A into the 10 mL volumetric flask and\n     complete the volume to 10 mL by adding eluent. After shaking the flask, fill out the UV-\n     visible cell (at least ¾ of its volume) by using a Pasteur pipette. Ask the assistant to\n     measure the absorbance at 450 nm using the spectrophotometer and record the result to\n     your answer sheet.\n  5. Using fraction B, fill out (at least ¾ of its volume) the other UV-visible cell by a Pasteur\n     pipette (no need for dilution). Ask the assistant to measure the absorbance at 450 nm using\n     the spectrophotometer and record the result to your answer sheet.\n\n  1. Copy (sketch) the TLC1 plate on your answer sheet.\n  2. Copy (sketch) the TLC2 plate on your answer sheet.\n\n43rd IChO Practical Tasks, Official English version                                                8\n\nName:                                                                  Code:\n  3. Calculate and record the Rf values of the spots (fraction A, fraction B, and starting material\n     SM) using the TLC2 plate.\n\n                                                     -1 -1                 -1 -1\n  4. The molar extinction coefficient, e, is 404 Lmol cm for A and 400 Lmol cm for B at 450\n     nm. Calculate:\n      i) The percent yield of fraction A based on the starting material.\n      ii) The percent yield of fraction B based on the starting material.\n\n43rd IChO Practical Tasks, Official English version                                            9",
+   "parts": [
+    {
+     "id": "3.1",
+     "points": 1,
+     "question": "Transfer the triethylamine solution in vial 1 (V1) using a syringe to the 10 mL round bottom reaction flask (Rxn RB) containing 0.50 mmol 2,3-dibromo-1-ferrocenylpropan-1-one through the septum.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.2",
+     "points": 1,
+     "question": "Stir the mixture at room temperature for 30 min using the magnetic stirrer at 600 rpm (as marked on the stirrer).",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.3",
+     "points": 1,
+     "question": "At the end of 30 min, transfer the (R)-1-phenylethanamine solution in vial 2 (V2) to the reaction flask using the same syringe through the septum.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.4",
+     "points": 1,
+     "question": "Stir the mixture for additional 60 min at room temperature.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.5",
+     "points": 1,
+     "question": "At the end of 60 min turn off the magnetic stirrer and perform a Thin Layer Chromatography, TLC, analysis as follows: i) Check your TLC plates before use. Damaged plates will be replaced upon request without penalty. ii) Draw a start line on the lower portion of TLC plate with a pencil (Fig. 2.1). iii) Apply starting material from the vial labeled as SM two times to the spot on the left and then two times to the spot in the middle of plate. To the same plate, apply the reaction mixture (RM) taken from the reaction flask once to the spot on the right and then once to the spot in the middle as shown in Figure 2.1 (use a different capillary tube for each sample). iv) Develop TLC plate in the TLC chamber with the eluent. Mark the solvent front with the pencil. v) When the TLC plate is dry, place it in a zipper storage bag marked as TLC1.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.6",
+     "points": 1,
+     "question": "Fill the column by adding more eluent. CAUTION: Be careful during the addition of eluent; do not disturb silica gel.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.7",
+     "points": 1,
+     "question": "In order to speed up the purification, apply little pressure by connecting the pressure applying bulb with an adapter on top of the column. CAUTION: Be careful not to apply too much pressure. Add eluent time to time to avoid silica gel run dry.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.8",
+     "points": 1,
+     "question": "You are expected to collect two major fractions A and B. Discard any material which elutes before major fraction A and between A and B into the container labeled as Organic Waste.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.9",
+     "points": 1,
+     "question": "Collect the first major fraction into a 100 mL Erlenmeyer flask and label it as fraction A.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.10",
+     "points": 1,
+     "question": "Collect the second major fraction into a 250 mL Erlenmeyer flask and label it as fraction B.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.11",
+     "points": 1,
+     "question": "After collecting fraction B stop the elution by closing the valve.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

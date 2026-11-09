@@ -1,0 +1,205 @@
+{
+ "setId": "bio-hkgjsbo-2021--bio-2-tasks",
+ "olympiadId": "bio-hkgjsbo-2021",
+ "title": "Биология → HKGJSBO (Гонконг) → 2021",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/hkgjsbo/2021/bio-2-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/hkgjsbo/2021/bio-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T18:33:29.861Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 25,
+  "withPoints": 25,
+  "withReference": 0,
+  "withQuestion": 25,
+  "estimatedPoints": 25
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "The following experiment was done to investigate if plants growing in higher",
+   "weight": null,
+   "total": 25,
+   "statement": "temperature can have higher cooling ability. The results were:\n\n                             https://www.sciencedirect.com/science/article/pii/S0960982212003314\n\n(A) Plants grown for 3 weeks at 22°C before transfer to either 22°C (22) or 28°C (28)\n\nfor a further 2 weeks.\n\n(B) Leaf stomatal numbers recorded from plants described in (A). The difference is\n\nsignificant t-test (P < 0.05).\n\n(C) Water loss in plants when placed in an environment of 22°C or 28°C.            22–22\n\nrepresents 22°C-grown plants placed in 22°C ; 22–28 represents 22°C-grown plants\n\nplaced in 28°C; 28–22 represents 28°C-grown plants placed in 22°C; 28–28\n\nrepresents 28°C-grown plants placed in 28°C.\n\n(D) Thermal image of 22–28 and 28–28 plants on day 3 of the transpiration\n\nexperiment. Scale bars represent 1 cm.\n\n1. What is/are the valid conclusions based on the evidence of (C)?\n\ni. A plant grown in 22°C loses more water than a plant grown in 28°C when both\n\n    are placed in an environment of 28°C\n\nii. The difference in water loss between the plants grown in 22°C and 28°C was\n\n    less obvious in cooler environment.\n\niii. A plant grown in 22°C has greater cooling ability as compared to the plant\n\n    grown in 28°C\n\nA. (ii) only\n\nB. (i) and (ii)\n\nC. (ii) and (iii)\n\n2. What is/are the valid conclusion(s) based on all the results obtained?\n\ni. The more water lost from a plant, the cooler the plant is.\n\nii. Increased water loss of a plants is a result of higher stomatal density.\n\niii. Plants grown in hotter environment would develop less stomata per unit area.\n\niv. Plants grown in hotter environment would develop longer leaf stalk.\n\nC. (i), (iii) and (iv)\n\nSome experiments were done by Went in 1928 to investigate the phototropism of\n\nplant coleoptile.\n\n A tip cut off and placed on an         The agar blocks were then placed\n agar block (A)                         on the untip coleoptiles at\n                                        the centre (B) and the two sides (C,D)\n\n   3. What is/are the valid conclusion(s) based on the above results?\n\n   i. An agar block can stimulate the growth of an untip coleoptile.\n\n   ii. A substance collected from the tip of the coleoptile by an agar block can\n\n       stimulate the growth of an untip coleoptile.\n\n   iii. The uneven distribution of the growth promoting substance collected from the\n\n       tip causes the bending of the coleoptile.\n\n   iv. The uneven distribution of the growth promoting substance collected from the\n\n       tip causes the phototropic response of the coleoptile.\n\n   A. (ii) only\n\n   C. (i) and (iv)\n\n   D. (ii), (iii) and (iv)\n\nFlowering is controlled by several environmental factors including photoperiodism.\n\nPlants can only tell the length of continuous darkness in order to determine to flower\n\nor not. To flower, long-day plants require short night period less than a critical length,\n\nwhereas short-day plants require an uninterrupted critical night length. Red light (R)\n\nis the most effective color in interrupting the night time portion of the photoperiod.\n\nAction spectra and photoreversibility experiments show that phytochrome is the\n\nactive pigment. If a flash of red light during the dark period is followed immediately\n\nby a flash of far-red light (FR), then the plant detects no interruption of night length,\n\ndemonstrating red/far-red photoreversibility.\n\nThe following is a series of experiments (I  VI) of photoperiodism in a short-day\n\n(long-night) plant.\n\n         I            II   III      IV        V       VI\n\n4. Determine which experiment(s) resulting in flowering (Yes = flowered; No =\n\n    not flowered)\n\nA     Yes     Yes    Yes     No     Yes     No\n\nB     Yes     Yes    No      No     No      No\n\nC     Yes     No     Yes     No     Yes     No\n\nD     No      Yes    No      Yes    No      Yes\n\nThe ABC model of flower development postulates that three classes of genes A, B and\n\nC work in a combinatorial fashion to determine various flower parts.                Sepal\n\ndevelopment is determined by the expression of genes A, while the petals are\n\ndetermined by the co-expression of genes A and B. Stamens develop upon the co-\n\nexpression of genes B and C, while carpel development is determined by genes C only\n\n(see the diagram below).\n\nThe mutations of the three classes of genes will produce different mutant flowers:\n\n                           Mutant I             Mutant II              Mutant III\n\n     Floral parts    no sepal and           no petal                sepals present\n                       petal                 sepals present          petals present\n                     stamens present        no stamen               no stamen or\n                     carpels present        carpels present          carpel\n\n       5. Which of the following statements can be concluded based on the results from\n\n  i.    Mutant II has genes A and B mutated.\n\nii.     Mutant III has genes C mutated.\n\niii.    A mutant flower that has its genes A and C mutated will have no floral parts.\n\n             A. (i) only\n\n             C. (i) and (iii)\n\nThe figure below shows the process of plant transformation using a bacterial vector,\n\nAgrobacterium. A gene of interest is first inserted into the plasmid of the bacteria. The\n\nbacteria then transfer the gene into the plant cells.\n\n       6. Which of the following statements can be concluded based on the results from\n\n  i.    Agrobacterium is needed for plant transformation because plant cells cannot take\n        in plasmids or DNA directly.\n\nii.     The transformed plant cells have to be put into a seed so that a whole plant can be\n        grown.\n\niii.    This transformation process produces a plant in which every cell of the plant\n        contains the gene of interest.\n\n             B. (i) and (iii)\n\n             C. (ii) and (iii)\n\nSalt stress is one of the major factors limiting rice (Oryza sativa) production globally.\n\nTo investigate the role of the rice Mg2+ transporter OsMGT1 in salt tolerance in rice,\n\nseedlings of the wild-type rice (WT) and two OsMGT1 knockout lines (Mg2+\n\ntransporters had been made non-functional) were grown in three concentrations of Mg2+\n\nsolutions, 0.02, 0.2 and 2 mM in the presence of 50 mM NaCl for 7 days. The dry mass\n\nand Na content of the plants were recorded as below:\n\n`\n\n                                                                    (from Chen, Z.C. et al. 2017)\n\n      N.B. Bars that do not share any letter are significantly different in means. For\n\n      instance, a bar (bc) is significantly different from a bar (a) but not different from\n\n      the bar (b) and bar (c).\n\n       7. Which of the following statements can be concluded based on the results from\n\n  i.   The growth of osmgt1 mutants was inhibited at low Mg2+ concentrations (0.02 and\n       0.2mM), but not inhibited at high Mg2+ concentration (2 mM).\n\nii.    The Na content of the whole plant was of no significant difference between the wild\n       type and mutants at each Mg2+ concentration.\n\niii.   For the mutants, increasing the external Mg2+ concentration decreased the Na\n       concentration in shoot but increased it in root.\n\n             C. (i) and (iii)\n\nOsmoregulation is the process of maintaining salt and water balance (osmotic pressure)\n\nacross membranes within the body. Biological systems constantly interact and exchange\n\nwater and nutrients with the environment by way of consumption of food and water and\n\nthrough excretion in the form of sweat, urine and feces. Without a mechanism to\n\nregulate osmotic pressure, or when a disease damages this mechanism, there is a\n\ntendency to accumulate toxic waste and water, which can have dire consequences. The\n\nfigure below shows different osmoregulatory challenges in organisms living in aquatic\n\nand terrestrial environments.\n\nFigure W. Comparing the movement of salt and water through different animals (A:\n\nmammals; B: freshwater fish; C: marine fish; D: insects) at different levels of\n\nmagnification. The length of the arrows for water and salt uptake or removal shows\n\ntheir relative amounts.\n\nSource: Concepts of Biology, 1st Canadian Edition by Charles Molnar and Jane Gair (Chapter 11 –\n\nHomeostasis and Osmoregulation) http://utmadapt.openetext.utoronto.ca/chapter/4-1/\n\n8. If the mammalian nephron is similar to the freshwater fish nephron, what is\n\n   the expected outcome of urine and water uptake in the body?\n\nA. The urine is hypertonic to the body because most of the water is reabsorbed\n\n   into the blood.\n\nB. The urine is isotonic to the body because reabsorption of water and ions are at\n\n   equilibrium in the nephron.\n\nC. The urine is hypotonic to the body because reabsorption of water is reduced in\n\n   the nephron.\n\nD. There is no urine formation because water cannot enter the convoluted tubule\n\n   for reabsorption.\n\nPhthalates and estrogen are emerging pollutants which are readily released into the\n\nenvironment and create a risk of exposure for humans and other living organisms. It\n\nhas been reported that phthalates and estrogen are endocrine disruptors which may\n\ninterfere with the secretion and metabolism of growth and sex hormones hence,\n\naffecting reproduction and developmental processes. To investigate whether these\n\npollutants affect neurogenesis during embryonic development, 20 healthy zebrafish\n\nembryos were exposed to phthalates (5 μm DBP, 5 μm DINP and 5 μm BBP) and\n\nestrogen (10 nM E2) respectively, and to 0.02% methanol as the solvent control for 3\n\ndays. After exposure, total RNA of the embryos was extracted and qRT-PCR was\n\nperformed to show the gene expression of estrogen receptors in zebrafish embryos\n\n(Figure X). On the other hand, the embryos were immunolabeled with different dyes to\n\nvisualize the neurons and mitotic cells in the brain (Figure Y).\n\nFigure X. The expression of esr1, esr2a and esr2b in 3 dpf (days post fertilization)\n\nzebrafish exposed to solvent control (0.2% methanol), 5 μm DBP, 5 μm DINP, 5 μm\n\nBBP and 10 nM E2. An asterisk represents a significant difference was observed when\n\ncompared with the control group at p < 0.01 (**) or p < 0.001 (***) level using one-\n\nway ANOVA with Dunnett post hoc test, n = 4\n\nFigure Y. Exposure of phthalates and estrogen to zebrafish embryos.\n\nA. Representative images showing neurons and mitotic cells in the brain of zebrafish\n\nembryos exposed to the solvent control (0.2% methanol), 5 μm DBP, 5 μm DINP, 5 μm\n\nBBP and 10 nM E2. The neurons (red) and mitotic cells (green) were immunolabeled\n\nwith anti-Huc and anti-pH13 dyes, respectively. The brain area of zebrafish embryos\n\nwas bounded with a white dashed line. Scale bar: 200 μm.\n\nB, C. Bar charts showing the quantification of brain area (B) and the number of mitotic\n\nneurons in the brain (C) in panel A. Asterisk represents significant difference was\n\nobserved when compared with control group at p < 0.05 (*), p < 0.01 (**) or p < 0.001\n\n(***) level using one-way ANOVA with Dunnett post hoc test, n = 10~11\n\n                                      Source: Xu et al. (2020) Aquatic Toxicology, 222: 105469\n\n9. Which of the following statement(s) about phthalates and estrogen is/are correct?\n\ni.     Phthalates and estrogen do not affect neurogenesis in zebrafish embryo as\n\n       expression of esr2b was greatly enhanced at 5 μM BBP and 10 nM E2\n\n       compared to solvent control.\n\nii.    Phthalates and estrogen decrease the expression of esr1 and esr2a whereas\n\n       these expression is important for zebrafish neurogenesis.\n\niii.   Only phthalates reduced the brain size and mitotic neurons in the brain of\n\n       zebrafish embryos compared with the solvent control, but not for the\n\n       estrogen.\n\niv.    Exposure to phthalates and estrogen at embryonic stage inhibits\n\n       neurogenesis and hence impair brain development in zebrafish.\n\nA.      (i) and (iii)\n\nB.      (ii) and (iv)\n\nC.      (ii), (iii) and (iv)\n\nD.      ALL of the above\n\nThe rocky intertidal zone presents some of the most challenging abiotic environmental\n\nconditions encountered by marine animals. During the tidal cycle, alternating periods\n\nof immersion and emersion commonly lead to large variations in temperature, oxygen\n\navailability, and potential for desiccation. As a result, adaptations to these highly\n\nvariable abiotic conditions play an important role in determining the vertical\n\ndistribution patterns of rocky intertidal species. Two limpets Cellana grata and Cellana\n\ntoreuma were collected from the rocky shore in Shek O to study the relationship\n\nbetween physiological thermal tolerance and intertidal zonation. Thermal limits of\n\ncardiac performance including Arrhenius break temperatures (ABTs, the temperature at\n\nwhich heart rate decreases dramatically) of two species at different temperatures and\n\ndurations were measured and compared.\n\nFigure Z. Representative thermal limits of heart rates in individual Cellana toreuma\n\n(open circles) and C. grata (solid circles). Arrhenius break temperatures (ABT) of heart\n\nrates for representative individuals of C. toreuma (41.81 ± 1.9 °C, mean ± SD) and C.\n\ngrata (47.37 ± 0.9 °C, mean ± SD) were significantly different (t test, P = 0.01, n = 3\n\nfor each species)\n\nFigure A. Variation in heart rates of Cellana toreuma and C. grata during prolonged\n\nexposure to elevated temperature. In the first 60 min, temperature increased from 28 to\n\n40 °C at a rate of 0.2 °C per min and then was maintained at 40 °C for up to ~6 h. After\n\n120 min, heart rate of C. grata was plotted for 5-min intervals as the rate became more\n\nstable. The changes of heart rate of C. toreuma and C. grata were fitted using two-phase\n\nand three-phase linear regression, respectively.\n\n                               Source: Dong and Williams (2011) Marine Biology 158:1223-1231\n\n   10. Assuming the heart rate has a linear relationship with oxygen consumption in\n\n       limpets, which species has/ have higher metabolic rate(s) in the rocky shore?\n\n    A. C. toreuma has higher metabolic rate\n\n    B. C. grata has higher metabolic rate\n\n    C. C. toreuma and C. grata have similar metabolic rates\n\n    D. C. grata and C. toreuma have lower metabolic rates\n\n11. According to the physiological thermal tolerance of the limpets as shown in the\n\n   experiment, suggest a possible zone of vertical zonation of C. grata in the rocky\n\n   shore and how does the species adapt to such environmental challenges?\n\nA. C. grata inhabits lower intertidal zone of the shore as they could not tolerate\n\n   high temperature so that they could maintain normal oxygen supply when they\n\n   are in water.\n\nB. C. grata inhabits middle intertidal zone of the shore as they could tolerate heat\n\n   stress for 60 minutes until there is a splash of water bringing oxygen and\n\n   lowering temperature of the limpet.\n\nC. C. grata inhabits upper intertidal zone of the shore as they could tolerate high\n\n   temperature for longer periods and avoid desiccation by closing the shells\n\n   during low tides.\n\nD. None of the answer is correct.\n\nCorpus callosotomy is a surgical procedure to treat epilepsy seizures. The procedure\n\ninvolves cutting the patient’s corpus callosum, the bundle of nerve fibers that\n\nconnects the two cerebral hemispheres. This interrupts the propagation of seizure\n\nactivity across the cerebral hemispheres. In general, the patient’s quality of life can be\n\ngreatly improved after the procedure.\n\nHowever, corpus callosotomy also leads to “split-brain syndrome” in patients who\n\nhave received the surgery. One typical example of the split-brain syndrome is that\n\nwhen a word is presented to the patient’s left field of view, he is unable to read aloud\n\nwhat he saw, but he can draw it. On the other hand, when a word is presented to the\n\npatient’s right field of view, he can read aloud what he saw. Please note that input\n\nfrom the left field of view is processed by the right hemisphere and vice versa.\n\n   12. Based on the information provided, indicate which of the following statements\n\n       is incorrect.\n\n   A. The surgery brings an impact on the connectivity between the active brain\n\n       regions but without damage to functional modules of the brain.\n\n   B. The two sides of the brain can function independently.\n\n   C. The right and left brains operate like two markedly different machines, cabled\n\n       together and exchanging data.\n\n   D. The right brain is incapable of comprehending text when the corpus callosum\n\n       is cut.\n\nEmphysema is a chronic lung condition in which the air sacs in the lungs are\n\ndamaged; the inner walls of air sacs break down and merge permanently. Spirometry\n\nis a tool that helps to diagnose and measure breathing difficulties, such as shortness of\n\nbreath, or cough. The figure below shows the different types of lung volumes of a\n\nnormal person and an emphysema patient as measured by spirometry.\n\n   13. Please indicate which of the following statements is an incorrect interpretation\n\n       of the provided information/data.\n\n   A. The total surface area for gas exchange in the lungs is decreased in the\n\n       emphysema patient.\n\n   B. The lungs of the emphysema patient are not collapsed.\n\n   C. The total volume of air that can be breathed in by an emphysema patient is\n\n       lower than a normal person.\n\n   D. Air sacs become less elastic in the emphysema patient.\n\nGlomus cells function as chemoreceptors in the human body. A decrease in oxygen\n\npartial pressure, an increase in carbon dioxide partial pressure, and a decrease in\n\narterial pH can all cause depolarization of the glomus cell membrane that leads to the\n\nrelease of neurotransmitters and triggers the generation of nerve impulses in afferent\n\nnerve fibers.\n\n   14. Based on the aforementioned information which of the following is unlikely to\n\n       be true about glomus cells?\n\n   A. Glomus cells are involved in the regulation of breathing in the body.\n\n   B. Glomus cells are mainly located in the wall of blood vessels\n\n   C. Glomus cells receive a high amount of blood flowing through them.\n\n   D. Glomus cells are involved in the osmoregulation of the body\n\nThe figure below shows the relationship between the mean arterial blood pressure and\n\nthe body mass of different animals (each dot in the figure represents one type of\n\nanimal). Among all the animals, animal X has a significantly higher mean arterial\n\nblood pressure to body mass ratio.\n\n   15. Based on the provided information, which of the given choices will be the best\n\n       prediction of the features of animal X when compared to the other animals in\n\n       the study?\n\n      A        Average                  High                        Ectothermic\n\n      B          Short                Average                       Endothermic\n\n      C          Short                  Low                         Ectothermic\n\n                 Body          Heart mass : Body mass                Endothermic /\n\n                height                  ratio                         Ectothermic\n\n      D          Tall                   High                          Endothermic\n\nThe diagram below shows the velocity of nerve impulse conduction as a function of\n\nfiber diameter in a variety of animals. Myelinated fibers have a sheath of insulating\n\nmyelin around the fiber so that the impulses can ‘jump’ along the fiber.\n\n                                         Modified from Bullock, T.H. and Horridge, G.A. 1965\n\n16. Which of the following statement(s) is/are correct?\n\n        i.    The diagram shows that thicker nerve fibers conduct impulses faster\n              than thinner fibers.\n\n        ii.   The diagram shows that myelinated fibers usually conduct nerve\n              impulses faster than unmyelinated fibers of the same diameter.\n\n        iii. Myelination and increased thickness of nerve fibers are two different\n              ways that animals evolve to increase the speed of their nervous\n              conduction. Each species of animal will use either one only.\n\n A.   (i) only\n\n B.   (ii) only\n\n C.   (i) and (ii)\n\n D.   ALL of the above\n\nA nutritional scientist developed a scoring system to predict an individual's body mass\n\nindex (BMI) based on information about what they ate, called ‘diet scores’. Graph A\n\nbelow shows the relationship between the \"diet score\" and BMI. In graph B, the scientist\n\nadded age and gender of the subjects in order to understand more about their\n\nrelationship.\n\n                        A                                                B\n\n     17. Which of the following statements are correct?\n\ni.         BMI has no strong correlation with diet score, based on the data shown in graph\n\n           A.\n\nii.        A man always has a higher BMI than a woman with the same diet score, as\n\n           shown in graph B.\n\niii. The relationship between diet score and BMI is not affected by gender and age,\n\n           as shown in graph B.\n\n      A.        (i) and (ii)\n\n      B.        (i) and (iii)\n\n      C.        (ii) and (iii)\n\n      D.        ALL of the above\n\nInsulin can change the membrane permeability of cells to glucose. To study the effects\n\nof insulin on two types of cells, liver and heart, the glucose concentration of the cells\n\nwas measured when the tissues were supplied with increasing concentrations of glucose.\n\nThe control was without insulin added. The results are shown in the graphs below.\n\n      18. Which of the following statements is true?\n\ni.     Insulin increases the permeability of heart cells to glucose, but has no effect on\n\n       liver cells.\n\nii.    The uptake of glucose into heart cells is dependent on both the presence of\n\n       insulin and the glucose concentration gradient.\n\niii. In the liver cells, glucose is rapidly converted into glycogen under the influence\n\n       of insulin.\n\n       A.   (i) and (ii)\n\n       B.   (i) and (iii)\n\n       C.   (ii) and (iii)\n\n       D.   ALL of the above\n\nTo investigate the effect of insulin on the uptake of glucose into fat cells, two\n\nexperiments were conducted. The first experiment aimed to find out whether\n\ncycloheximide, a translation inhibitor, affects the function of insulin. The results are\n\nshown below.\n\n      A second experiment studied the number and distribution of glucose transporters,\n\n      GLUT4, in fat cells. A radioactive substance, 3H-cytochalasin B, was used to\n\n      show the number of GLUT4 since it binds to the transporter. The results are\n\n      shown below.\n\n19. Which of the following statement(s) is/are true?\n\n        i.     Without insulin, the fat cells do not take up glucose.\n\n      ii.      Insulin increases the uptake of glucose into fat cells mainly by activating\n               the translational production of GLUT4 transporter protein.\n\n      iii.     Insulin increases the number of GLUT4 transporters on the plasma\n               membrane of the fat cells so that more glucose is taken up.\n\n A.       (i) only\n\n B.       (ii) only\n\n C.       (iii) only\n\n D.       (i) and (iii)\n\nMale songbirds attract mates by singing. The length of the male song was recorded in\n\nboth the presence and absence of a female. The male and female birds were kept in\n\nseparate cages so that both could see each other, but they had no physical contact. In\n\nthe first trial, the song was recorded on two consecutive days. The male bird was with\n\nthe female on the first day, but the female was removed on the second day. The second\n\ntrial was conducted three weeks later. The male was alone on the first day, but a female\n\nwas present on the second day. (Sockman et al. (2005) Biol Lett 1: 34-37)\n\n                                     600\n\n                                     500                       Day 1\n                                                               Day 2\n        Mean song length (seconds)\n\n                                     400\n\n                                     300\n\n                                     200\n\n                                     100\n\n                                       0\n                                           Trial 1   Trial 2\n\n    20. Indicate if each of the following statement(s) is/are true based on the above\n\n        experiment.\n\n    i. Song effort of the male was declined once a mate has been attracted.\n\n    ii. Song effort increased after the male has lost the mate.\n\n    iii. The longer the male had been deprived of female exposure, the less he sang in\n\n        her absence.\n\n    iv. The song behavior of the male apparently functions primarily to attract the\n\n        female that is probably in the vicinity, but not the mere absence or the presence\n\n        of a female.\n\n    A. (i) and (iii)\n\nC. (i), (ii) and (iv)\n\nD. All of the above\n\nMany animal species form groups, and the group size can influence costs and benefits\n\nto the individual. The behavior of a bird species in different group sizes was studied,\n\nusing a raptor silhouette to simulate predation risk. The birds have their heads down\n\nduring feeding but occasionally have their heads up for scanning predators. (Williams\n\net al. (2003) Ani Behav 66: 377-387)\n\n                             Number of birds\n\n    21. Which of the following statements can be concluded based on the results from\n\n   i.   Individuals in larger groups could be expected to have a lower risk of mortality\n\n        from predation.\n\n ii.    The vigilance of individual birds to predator increased with the group size.\n\n iii.   Smaller groups improved the odds of detecting the predator silhouette.\n\n iv.    Overall vigilance of the group increased with the group size.\n\nA. (i) and (iv)\n\nC. (i), (iii) and (iv)\n\nD. All of the above\n\nAnimals distribute themselves in relation to the distribution of resources. When the\n\namount of food available in a habitat is reduced, they will leave the habitat and move\n\nto another one with more food. A model was developed to address this issue. The\n\ndiagram below relates the amount of resource per individual to the number of\n\ncompetitors in the habitat.\n\n                                                   1\n\n                      Number of competitors in the habitat\n\n   22. Which of the following descriptions is incorrect?\n\n   A. Habitat B is a more favorable habitat than Habitat A.\n\n   B. When the number of competitors in Habitat B is smaller than that at point 1,\n\n       individuals should move to Habitat A.\n\n   C. The more competitors in the habitat, the lower is the average amount of resource\n\n       for each individual.\n\n   D. Based on the model, animals will distribute themselves in a 1:1 ratio when two\n\n       habitats have the same average amount of food.\n\nBelow is a phylogenetic tree of the full-length genome sequences of SARS-CoV-2,\n\nSARSr-CoVs and other Betacoronviruses. Numbers at nodes indicate bootstrap\n\nsupport.\n\nFigure from Hu et al. (2021). Characteristics of SARS-CoV-2 and COVID-19. Nature Reviews\n\nMicrobiology 19: 141–154.\n\n23. Based on the above phylogenetic tree, which statement is false?\n\n A. Sarbecoviruses are a monophyletic group.\n\n B. Based on the principle of parsimony, bats are the likely origin of all\n\n    Sarbecovirus lineages.\n\n C. The Embecovirus clade is highly supported.\n\n D. SARS-CoV-2 is the sister group to Hibecovirus.\n\nMap (A) of the Caribbean with indicated sampling localities. (B) phylogeny of\n\nCyrtognatha species based on mitochondrial DNA. Branch colors match those of the\n\nislands in (A).\n\nFigure from Candek et al. (2019) Biogeography of the Carribean Cyrtognatha spiders. Scientific\n\nReports 9: 397.\n\n  24. Which island(s) contain non-monophyletic assemblages of Cyrtognatha\n\n     species?\n\nA. Hispaniola\n\nB. Puerto Rico\n\nC. Jamaica\n\nD. All the above\n\n  25. Based on the above figure, what statement is true?\n\n   A. All the species on an island are more closely related to species on the same\n\n       island than on other islands.\n\n   B. Species on islands are more closely related to species on adjacent islands.\n\n   C. Hispaniola contains the highest genetic diversity.\n\n   D. Due to the low genetic diversity in Cuba, you expect all individuals to be\n\n       morphologically identical.",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 1,
+     "question": "What is/are the valid conclusions based on the evidence of (C)?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.2",
+     "points": 1,
+     "question": "What is/are the valid conclusion(s) based on all the results obtained?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.3",
+     "points": 1,
+     "question": "What is/are the valid conclusion(s) based on the above results?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.4",
+     "points": 1,
+     "question": "Determine which experiment(s) resulting in flowering (Yes = flowered; No = not flowered)",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.5",
+     "points": 1,
+     "question": "Which of the following statements can be concluded based on the results from",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.6",
+     "points": 1,
+     "question": "Which of the following statements can be concluded based on the results from",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.7",
+     "points": 1,
+     "question": "Which of the following statements can be concluded based on the results from",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.8",
+     "points": 1,
+     "question": "If the mammalian nephron is similar to the freshwater fish nephron, what is the expected outcome of urine and water uptake in the body?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.9",
+     "points": 1,
+     "question": "Which of the following statement(s) about phthalates and estrogen is/are correct?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.10",
+     "points": 1,
+     "question": "Assuming the heart rate has a linear relationship with oxygen consumption in limpets, which species has/ have higher metabolic rate(s) in the rocky shore?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.11",
+     "points": 1,
+     "question": "According to the physiological thermal tolerance of the limpets as shown in the experiment, suggest a possible zone of vertical zonation of C. grata in the rocky shore and how does the species adapt to such environmental challenges?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.12",
+     "points": 1,
+     "question": "Based on the information provided, indicate which of the following statements is incorrect.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.13",
+     "points": 1,
+     "question": "Please indicate which of the following statements is an incorrect interpretation of the provided information/data.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.14",
+     "points": 1,
+     "question": "Based on the aforementioned information which of the following is unlikely to be true about glomus cells?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.15",
+     "points": 1,
+     "question": "Based on the provided information, which of the given choices will be the best prediction of the features of animal X when compared to the other animals in the study? A Average High Ectothermic B Short Average Endothermic C Short Low Ectothermic Body Heart mass : Body mass Endothermic / height ratio Ectothermic D Tall High Endothermic",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.16",
+     "points": 1,
+     "question": "Which of the following statement(s) is/are correct? i. The diagram shows that thicker nerve fibers conduct impulses faster than thinner fibers. ii. The diagram shows that myelinated fibers usually conduct nerve impulses faster than unmyelinated fibers of the same diameter. iii. Myelination and increased thickness of nerve fibers are two different ways that animals evolve to increase the speed of their nervous conduction. Each species of animal will use either one only.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.17",
+     "points": 1,
+     "question": "Which of the following statements are correct?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.18",
+     "points": 1,
+     "question": "Which of the following statements is true?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.19",
+     "points": 1,
+     "question": "Which of the following statement(s) is/are true? i. Without insulin, the fat cells do not take up glucose. ii. Insulin increases the uptake of glucose into fat cells mainly by activating the translational production of GLUT4 transporter protein. iii. Insulin increases the number of GLUT4 transporters on the plasma membrane of the fat cells so that more glucose is taken up.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.20",
+     "points": 1,
+     "question": "Indicate if each of the following statement(s) is/are true based on the above experiment.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.21",
+     "points": 1,
+     "question": "Which of the following statements can be concluded based on the results from",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.22",
+     "points": 1,
+     "question": "Which of the following descriptions is incorrect?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.23",
+     "points": 1,
+     "question": "Based on the above phylogenetic tree, which statement is false?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.24",
+     "points": 1,
+     "question": "Which island(s) contain non-monophyletic assemblages of Cyrtognatha species?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.25",
+     "points": 1,
+     "question": "Based on the above figure, what statement is true?",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

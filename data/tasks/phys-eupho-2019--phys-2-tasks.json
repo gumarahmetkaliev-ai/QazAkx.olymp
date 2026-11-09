@@ -1,0 +1,102 @@
+{
+ "setId": "phys-eupho-2019--phys-2-tasks",
+ "olympiadId": "phys-eupho-2019",
+ "title": "Физика → EuPhO (Европейская) → 2019",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/physics/s/EuPhO/2019/phys-2-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T18:37:11.516Z",
+ "quality": {
+  "tasks": 5,
+  "parts": 5,
+  "withPoints": 5,
+  "withReference": 0,
+  "withQuestion": 5,
+  "estimatedPoints": 5
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Sensitivity of receiver. (1p)",
+   "weight": null,
+   "total": 10,
+   "statement": "What is the lowest measurable received power (in mW)?",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Wavelength in water. (6p)",
+   "weight": null,
+   "total": 10,
+   "statement": "Determine the wavelength of the radio waves in water.\nYou may use the setup shown in Figure 2.\n\nlems Text for Student: COM-A1\n\n    In the following tasks you will study the propagation\n  of waves in metallic tubes ﬁlled with medium (water or\n  air) in which case\n\n                     ⃗ 0 (r, ϕ)e−αz ei(kz−ωt) ,\n                  ⃗ =E\n                  E                                       (1)\n\n  where E ⃗ stands for the electric ﬁeld vector, α describes\n  the attenuation due to dissipation in the medium (for\n  water α > 0, for air α = 0), and we have used cylindrical\n  coordinates r, ϕ, z.\n    The function E   ⃗ 0 (r, ϕ) represents a standing wave\n  across the cross-section of the waveguide. Different\n  standing waves in the cross-section correspond to dif-\n  ferent propagation modes of the wave in the waveguide.\n  The dispersion relation for the waves in a waveguide is\n  given by\n                         ω 2 = (k⋆2 + k 2 ) c2 ,          (2)\n\n  where c is the speed of light in the medium ﬁlling the\n\n  waveguide, and k⋆ is a positive constant depending only\n\n  on the diameter of the tube and on the propagation\n\n  mode. In your experiment, all the other propagation\n\n  modes except for the mode with the smallest value of\n\n  k⋆ can be ignored. Pay attention to the fact that a wave\n\n  can propagate along the waveguide without attenuation\n\n  (with a real-valued wave vector k) only if the oscillation\n\n  frequency is high enough, ω ≥ ck⋆ . Equations (1) and (2)\n\n  remain valid for lower frequencies yielding purely imag-\n\n  inary k = iµ which corresponds to a decaying (evanes-\n\n  cent) mode.",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Attenuation in water (3p) Hint: the radio",
+   "weight": null,
+   "total": 10,
+   "statement": "waves can propagate along the plastic tube when it is\n\n  ﬁlled with water and wrapped tightly with aluminium\n\n  foil. Determine the attenuation coeﬃcient α in water.\n\n  Hint: the radio waves can propagate along the plastic\n\n  tube when it is ﬁlled with water and wrapped tightly\n\n  with aluminium foil; use tape to prevent the tube from\n\n  falling over.",
+   "parts": [
+    {
+     "id": "3.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "a. Decaying modes in air-filled waveguides",
+   "weight": null,
+   "total": 10,
+   "statement": "(2p) Put the emitter into the aluminium tube of diame-\n  ter d1 = 46 mm and study how the power P of the waves\n  received by the receiver at the outlet of the tube depends\n  on the distance z of the emitter from the outlet of the\n  tube. From the measurement of P as a function of z\n  determine the value of the parameter µ of the decaying\n  mode.",
+   "parts": [
+    {
+     "id": "4.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Wavelength in air and refractive index",
+   "weight": null,
+   "total": 10,
+   "statement": "of water (3p) Determine the wavelength of these radio\n  waves in air and calculate the refractive index of water\n  for the radio waves.\n\nFigures\n\n                      )       0\n\n              &           1\n          & &     '\n                      2\n                                  +\n                              4\n                      3\n\n           \u0019\u0003PP\n          $\n\n                          %\n                              Figure 1\n\n                              Figure 2\n\n    Experimental Problem - Figures\n\n        ,\n\n    (\n\n                &\n-           .\n\n        /\n\n    *\n            *\n\n    * *",
+   "parts": [
+    {
+     "id": "5.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "setId": "geo-igeo-2022--geo-2-tasks",
+ "olympiadId": "geo-igeo-2022",
+ "title": "География → iGeo (международная) → 2022",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/igeo/2022/geo-2-tasks.pdf",
+ "solutionFile": "olympiads/geography/s/igeo/2022/geo-2-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T18:10:03.322Z",
+ "quality": {
+  "tasks": 3,
+  "parts": 5,
+  "withPoints": 5,
+  "withReference": 4,
+  "withQuestion": 5,
+  "estimatedPoints": 5
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Traffic on the River Seine",
+   "weight": null,
+   "total": 10,
+   "statement": "We will leave the boat at Cadebec-en-Caux and cross the\nriver.\n\nThe image shows a view across the Vernier Marsh. This is an\narea of wetland on the south bank of the River Seine, south\nof Caudebec-en-Caux on the map.\n\n2A. How do wetlands form?\nRead the causes of formation listed below and write T (true)\nor F (false) in the boxes on the answer sheet.\n\ni.     Where the water table is at or near the surface\nii.    Where buried ice from glaciers has melted\niii.   Where beavers have made dams to stop streamflow\niv.    Where rivers constantly overflow their banks\n\n2B. Look at the two images and give TWO management\nissues for farmers on this area of land.",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "1A.   32.     1B. 11                                          0.5 both right\n\n1C. Insert the correct name into the table.\n\n       BOAT      NAME\n       A         Van Dam\n       B         Eco Universe\n       C         Avalon\n       D         Nirvana\n\n0.5 if all correct (clue is cranes on the bulk carrier)\n\n 1D. 5 hours 12 minutes (52 NM). Give 0.5 if they have worked out the correct\n time for their distance, but the distance is more than 10% out)      1 mark\n\n Use this map to work out your answers.\n\n                                                                                 1",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Vernier Marsh Vegetation",
+   "weight": null,
+   "total": 10.5,
+   "statement": "A student is using a quadrat to estimate the amount of\nvegetation cover in different parts of the Marsh.\n\n2E. Estimate the percentage of vegetation cover and\nbare ground inside this quadrat.\n\n2F. The quadrat measure 0.5m x 0.5m What is the\nactual area that the bare ground covers?\n\nThe three boxes show different types of sampling\nmethods.\n2G. On your answer sheet, give names for each of the\ndifferent types of sampling.\n                                                         A   B   C\n\n                        Task 3: Vernier Marsh Soils\n\n3A. This map shows the geology of the area of the Vernier Marsh.\n\nThree soil pits were dug at locations A, B and C.\n\nLook at the next page and decide which soil was found at each site.\n\nWrite the answers on the table in your response sheet.\n\n3B. Give TWO factors that influence the formation of soils\n    besides geology/bedrock.\n\n3C. Look at the key showing the different types of bedrock in the area.\n (i) Which material was not deposited in water?\n(ii) Which are the youngest deposits in the area?\n\n                             Task 3: Vernier Marsh soils\n\n        1                                  2               3\n\n                                 Task 4: The River Channel\n\n4A.The Vernier Marsh lies inside the course of an old meander.\nUse the map on the response sheet to sketch the probable\nformer course of the River Seine in prehistoric times.\nMark the channel clearly.\n\nDraw your answer on the Response Sheet\n\n                                   Task 4: The River Channel\n\nThe Seine Estuary can be divided into three zones that can be distinguished from upstream to downstream:\n1. The fluvial estuary between Poses and Vieux-Port: a tidal zone where the water is fresh (salinity <0.5 g/l);\n2. The middle estuary or brackish estuary (salinity between 0.5 and 30 g/l) between Vieux-Port and Honfleur: a\n   zone where fresh and marine waters mix;\n3. The marine estuary between Honfleur and the eastern part of the Seine Bay: area where the water is always salty\n   (salinity > 30 g/l). (g/l = grams per litre)\n\n4B. Mark the three zones onto the base map of the River Seine in\nyour response sheet.\nLabel each one clearly with the name and salinity of the zone.\n\nLook at the image which was taken in the lower estuary.\n4C. Identify a place in the estuary where this photo could have\nbeen taken.\nMark the position on the map with a large Star *.\n\nWrite your answers on the base map.",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 3.5,
+     "question": "The fluvial estuary between Poses and Vieux-Port: a tidal zone where the water is fresh (salinity <0.5 g/l);",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.2",
+     "points": 3.5,
+     "question": "The middle estuary or brackish estuary (salinity between 0.5 and 30 g/l) between Vieux-Port and Honfleur: a zone where fresh and marine waters mix;",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.3",
+     "points": 3.5,
+     "question": "The marine estuary between Honfleur and the eastern part of the Seine Bay: area where the water is always salty (salinity > 30 g/l). (g/l = grams per litre)",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    }
+   ],
+   "solution": "2A.\n           Statement      T/F\n           i               T\n           ii              T\n           iii             T\n           iv              T\n\n0.5 if all correct\n\n2B. flooded land/communication/stagnant water/any other reasonable option\n2C. willow thrives in wet environment’s and will help with drainage\n0.5 marks for full explanation\n2D. cows will graze and keep the vegetation from overgrowing/this type of\ncattle is very attractive and can be tourist attractions\n0.5 marks. For full explanation\n\n2E. 55% vegetation 45% bare ground (=/- 10%) must be more vegetation than\nbare ground\n1 mark\n\n2F. 0.138 metres squared                                  0.5 marks\n\n2G.\n          Box             Answer\n          A               random\n          B               systematic\n          C               stratified\n0.5 marks for 2/3 right\n\n                                                                                2"
+  },
+  {
+   "number": 5,
+   "title": "Volume of cargo at Le Havre Port",
+   "weight": null,
+   "total": 10,
+   "statement": "The Port of Le Havre is the 6th busiest port\nin Europe.\n\nThe table shows the number of containers\npassing through the port between 2011\nand 2018.\n\n5A. Complete the graph on your response\nsheet to show the information in the\ntable.\n\n5B. What is the percentage increase in the\nnumber of containers between 2011 and\n2018?\n                                                  2011    2012    2013    2014    2015    2016    2017    2018\n                                      (‘000\n                                      container\n                                                  2,222   1,997   2,186   2,433   2,560   2,480   2,799   2,866\n                                      units )\n\nReturn to Paris\nAfter leaving the boat at Berville-sur-\nmer, you board a coach to travel west.\nYou cross the Normandie Bridge to\nreturn to Paris. It is the lowest crossing\npoint of the River Seine.\n\n5C. In which compass direction will\nyou be travelling across the bridge?\n\nEnd of the test\n\nAuthors of FWE Part I: Sue Lomas UK; Hana Svobodova, Czechia.\nHonore Dupont, France.",
+   "parts": [
+    {
+     "id": "5.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

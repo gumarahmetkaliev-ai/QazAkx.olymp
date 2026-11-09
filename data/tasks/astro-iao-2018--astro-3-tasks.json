@@ -1,0 +1,73 @@
+{
+ "setId": "astro-iao-2018--astro-3-tasks",
+ "olympiadId": "astro-iao-2018",
+ "title": "Астрономия → IAO (международная) → 2018",
+ "materialLabel": "3 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/iao/2018/astro-3-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T17:52:52.201Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 6,
+  "withPoints": 6,
+  "withReference": 0,
+  "withQuestion": 6,
+  "estimatedPoints": 6
+ },
+ "tasks": [
+  {
+   "number": 8,
+   "title": "- see оп the back",
+   "weight": null,
+   "total": 9,
+   "statement": "Шри-Ланка, Коломбо                     2018                     Colombo, Sri Lanka\n\nХх А0 248 7 ҒРгасйсаігоша.Ргойетеісзіге 7  раде 20:2\n8. Star variability analysis. For any periodic variable star, the period is one of the most important\nand most informative of its observable parameters. Studying the periods of variable stars, and\ntheir changes in periods is an important part of the analysis of variable stars. If a star is perfectly\nperiodic, then every period is exactly the same. In that case we can predict its cycles in\nadvance.\n\n8.1. Any perfectly periodic star with epoch time to (the time of maximum (or minimum) for\ncycle number zero) and period P, shows its next maximum at time tp + P. This maximum time is\nknown as calculated-time of maximum (or minima) for cycle number опе (Сл).\n\nUsing this pattern write an equation for the calculated-time of maximum (Cj) for any cycle\nnumber n of a perfectly periodic star with a period of P and epoch of to\n\n8.2. The table 8 lists times of minima of an eclipsing binary star which has epoch:\nto = JD 2442502.726 (JD: Julian Date) and period: P = 0.971534 day. Substituting these values\nto the equation you wrote above, compute the calculated time of minima for each cycle of the\ntable and fill the “JD-Calculated” column of the table.\n\n8.3. Fill the “(O-C) (in days)” column of the table. (O-C = observed value minus calculated\nvalue)\n\n8.4. Convert (O-C) values that you calculated in previous chapter into minutes and fill the\n“(О-С) (in minutes)” column of the table.\n\n8.5. Using the data of this completed table, construct (O-C) (in minutes) graph vs the\nnumber of cycle and fit a trend line for your plotted data. (Graph papers are provided. Use\nmaximum range of the graph paper).\n\n8.6. According to your results mention whether this star is perfectly periodic, almost periodic\nor not periodic. Write English words:\n\n“(1) perfectly periodic’, “(2) almost periodic” or “(3) not periodic’.\nШри-Ланка, Коломбо о 208 === союпьо, Sri һала 000\n\nАСТРОНОМИЧЕСКОЕ     ғ        EURO-ASIAN        Round  Prac |\nOBLUECTBO         В.        ASTRONOMICAL SOCIETY\nGroup |B\n^^,      ХХ! Международная астрономическая олимпиада\nи            ХХ! International Astronomy Olympiad                        ОИ\nж db              Шри-Ланка, Коломбо      6-14. Х. 2018      Colombo, Sri Lanka            БИН   English\nБЕГЕН БЕНЕН ии 8\nЕСЕН БЕНЕН КЕННЕН о\nЕСЕН БЕНЕН КЕННЕН ЕЕЕ\nЕСЕН И КЕННЕН ЕСЕН\nБЕГЕН БЕНЕН КЕННЕН БЕСІН\nПИ КЕННЕН БЕКСІ>-ЖЕ\nПОС БЕНЕН БЕСІЗЕ\nО БЕНЕН ое\nО БЕНЕН КЕННЕН ЕНЕСЕЕ\nКЕСІП БЕНЕН БЕНЕН ЕСІН\nО КЕННЕН БЕКЕТІНЕН\nee\nЕСЕН БЕНЕН КЕННЕН БЕСІНЕ\nTable 6.\n\nй                                          АСТРОНОМИЧЕСКОЕ              -                        EURO-ASIAN      |                                      [Prac |\nОБЩЕСТВО         - |     ASTRONOMICAL SOCIETY      шамы  _Ргас |\n1 or                                                Group ЕЗ\nws,    ХХІІІ Международная астрономическая олимпиада\n”\nр         XXIll International Astronomy Olympiad\n“ғ i           Шри-Ланка, Коломбо     6-14. Х. 2018     Colombo, Sri Lanka   En   lish\n3.5\n                               0.95\n0.90\n3        ;                    |         0.81\nқ.             жайы     0.76\nғыт      ый      0.70\n2.5          ь\nии         7     pa        0.65\n21          nh.            wh   40.54\nКƏ                          0.48\nк.                  0.35\n1.5\n                    |       0.3\nмл           palsy Vw        0.2\n‘|    мн  Awn4 0.08\nFig. 6.       _ и  |  |  7  |\n6550.0 6560.0 6570.0 6580.0 6590.0\nШри-Ланка, Коломбо             2018             Colombo, Sri Lanka\n\n|            токе Фо зто, Round | Theo |\na rs   Group ЕСІ\nме    ХХІІ Международная астрономическая олимпиада\nи        ХХШ International Astronomy Olympiad\na bp           Шри-Ланка, Коломбо     6-14. Х. 2018     Colombo, Sri Lanka              glish\n2456664.0+   magnitude\n\n0.23      -1.60\n0.24      -1.73\n0.25      -1.98\n0.25      -2.24\n0.26      -2.33\n0.27      -2.22\n0.28      -2.07\n0.29      -1.95\n0.30      -1.84\n0.31       -1.72\n0.32      -1.68\n0.32      -1.66\n0.33      -1.64\n0.34      -1.63\n0.35      -1.67\n0.36      -1.72\n0.37      -1.89\n0.37      -2.09\n0.38      -2.29\n0.39      -2.27\n0.40      -2.05\n0.41       -1.95\n0.42      -1.84\n\n|                0.43      -1.78\n0.44      -1.71\n0.45      -1.64\n\nTable 6.\nШри-Ланка, Клоюбо02048 Соотьо, ЗМ Lanka\n\n|                              АСТРОНОМИЧЕСКОЕ            a“                       EURO-ASIAN                    Round    Prac |\nОБШЕСТВО                  ж |         ASTRONOMICAL SOCIETY                                Prac |\n>              ХХІІ Международная астрономическая олимпиада\nXXIll International Astronomy Olympiad\ngg ”                  Шри-Ланка, Коломбо       6-14. Х. 2018       Colombo, Sri Lanka    En    lish\nее ион ИИ\n:                                                        Fe-Ne emission\n4    i ЗОО ЗИ         i    ТЕ     ЕН\nБЕНЕН: ЕЕЕ 01 ПО.\nSolar\nFigure 7.1.                                           spectrum\n6929             7032\nо О здҙ3і737 Т1 143\n2506\nо            2 |. ІШІ  Алатын, | ‘ | FSB SEE RL ЕНІ saa || НН НЫ Hit ТІ ІШ\nПІ ШШШШЕЕИІИШШШШИИІИІШІШІІЕІННІ ШИ\n0      10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200\nFigure 7.2.\nWavelength (A)                Pixel\nP8402\n6060 ЗҙҺ-\n| 6968 ПОНИ\nJ 68 |\n6717\nPp 929\nы - 92 |Т)\nTable 7.\nШри-Ланка, Коломбо                       2018                       Colombo, Sri Lanka\n\nАСТРОНОМИЧЕСКОЕ   ж     EURO-ASIAN     Round\nОБШЕСТВО           ы         ASTRONOMICAL SOCIETY\neee. croup [а [В\n“8,    ХХІІ Международная астрономическая олимпиада\nи        ХХ International Astronomy Olympiad\nоО оао ы\n(Obs)                (Cal)              (Obs - Cal)           (Obs - Cal)\nЕВЕ О БЕНЕН\nЕЛЕ О ОИ ПО\nЕ О ООО ПО\nПЕ ОИ ООО ОО\n          И\n          БИН\nЕЛЕ БЕНЕН ООО ЕНЕ\nЕСІРІСІТІ? БЕНЕН ООО ООО\nЕС ЕСІЛ БЕНЕН ЕНЕ\nЕЛ ЕПС БЕНЕН ЕНЕ\nЕТ БЕНЕН БЕНЕНЕН БЕНЕН\n                     И\n                     И\nTable 8.",
+   "parts": [
+    {
+     "id": "8.1",
+     "points": 1.5,
+     "question": "Any perfectly periodic star with epoch time to (the time of maximum (or minimum) for",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "8.2",
+     "points": 1.5,
+     "question": "The table 8 lists times of minima of an eclipsing binary star which has epoch:",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "8.3",
+     "points": 1.5,
+     "question": "Fill the “(O-C) (in days)” column of the table. (O-C = observed value minus calculated",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "8.4",
+     "points": 1.5,
+     "question": "Convert (O-C) values that you calculated in previous chapter into minutes and fill the",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "8.5",
+     "points": 1.5,
+     "question": "Using the data of this completed table, construct (O-C) (in minutes) graph vs the",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "8.6",
+     "points": 1.5,
+     "question": "According to your results mention whether this star is perfectly periodic, almost periodic",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

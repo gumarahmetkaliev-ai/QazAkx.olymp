@@ -1,0 +1,142 @@
+{
+ "setId": "math-oblast-2005-11--math11-1-tasks",
+ "olympiadId": "math-oblast-2005-11",
+ "title": "Математика → Областная → 2005 → 11 класс",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/oblast/2005/11/math11-1-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:39.201Z",
+ "quality": {
+  "tasks": 8,
+  "parts": 8,
+  "withPoints": 8,
+  "withReference": 0,
+  "withQuestion": 8,
+  "estimatedPoints": 8
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Сравните числа           и         .\n                      ln 2005   ln 2006\n                                                                                  3 3",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Доказать справедливость неравенства sin α + sin β + sin γ ≤                      , где\n                                                                                   2\n     α, β , γ — внутренние углы некоторого треугольника.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "В выпуклом четырехугольнике ABCD выполнено AB 2 + CD2 = AC 2 +\n     BD2 . Найдите угол между сторонами BC и AD.\n\n                               2       2                      2     n(n2 −1)(3n+2)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "Докажите равенство 1 ⋅ 2 + 2 ⋅ 3 + ⋯ + (n − 1) n             =       12       .",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "Исследовать на ограниченность числовую последовательность: xn = 1 +\n     1       1\n     2 + ⋯ + n , (n ≥ 1).",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "Докажите для любых положительных чисел x и y неравенство: x ⋅ 2y + y ⋅\n     2−x ≥ x + y .\n\n                                               x2",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Задача 7",
+   "statement": "Найдите первообразную f (x) =                        .\n                                       (x sin x + cos x)2",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Задача 8",
+   "statement": "Длины сторон треугольника — неравные между собой целые числа, а\n     меньшая высота равна 8. Найдите расстояние между центрами описанной\n     и вписанной в треугольник окружностей.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "8",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

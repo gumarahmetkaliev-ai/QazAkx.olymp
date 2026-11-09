@@ -1,0 +1,156 @@
+{
+ "setId": "astro-ioaa-2014--astro-2-tasks",
+ "olympiadId": "astro-ioaa-2014",
+ "title": "Астрономия → IOAA (международная) → 2014 → 6 класс",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/ioaa/2014/astro-2-tasks.pdf",
+ "solutionFile": "olympiads/astronomy/s/ioaa/2014/astro-2-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:57:52.581Z",
+ "quality": {
+  "tasks": 9,
+  "parts": 9,
+  "withPoints": 9,
+  "withReference": 8,
+  "withQuestion": 9,
+  "estimatedPoints": 9
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "The observational round in the planetarium consists of two parts, one inside the dome and the other\n   outside the dome.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "(20 points)\n\n     a. First arc length – length – MERIDIAN 10º - 1p+2p\n        Second arc segment length – EQUATOR 15º - 1p+2p\n     b. sidereal – 13h30m                          6p\n         +/- 15 m – full points; +/- 30 m half points\n     c. Month number – June (6) - 8p"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "The part inside the dome consists of 3 questions and takes 30 minutes.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "(15 points)\n\n                      M101\n                                      Number which indicates the\n1st Messier object\n                      2p              type\n\n                      M57\n                                      Number which indicates the\n2nd Messier object\n                      2p              type\n\n                      M92\n                                      Number which indicates the\n3rd Messier object\n                      2p              type"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "When you enter the dome, you will be directed to your seat, where you will find a clipboard with your\n   answer sheet, one data table and a flashlight. During the adaptation time the students may stand and\n   change the position around their place, but they are not allowed to communicate with each other.\n   During the observation you can stand and turn in order to make a comfortable observation.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "(15 points)\n\n                  UMi / Kochab            Number which\n1st Star\n                                           indicates the type\n                 2p\n\n                 Leo / Algieba           Number which\n\n2nd Star\n                                           indicates the type\n                 2p\n\n                 CVn / Cor Caroli        Number which\n\n3rd Star\n                                           indicates the type\n                 2p\n\n1                              UMa\n     IAU abbreviation of the\n\n     constellation\n1p                             2p\n\n2                              Lyr\n     IAU abbreviation of the\n\n     constellation\n1p                             2p\n\n4                              Her\n     IAU abbreviation of the\n\n     constellation\n1p                             2p\n\n1    IAU abbreviation of the   UMi\n\n     constellation\n1p                             2p\n\n2\n     IAU abbreviation of the\n                               Leo\n\n     constellation\n1p                             2p\n\n2\n     IAU abbreviation of the\n                               CVn\n\n     constellation\n1p                             2p\n\nMARKING SCHEME for Observational part2 – Chart (50 points)"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "Fill your student ID in the box on the answer sheet.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "– 4p (each star name 0.5p + at correct position in the list 0.5p)\n\n              1             Name of the star              Boo (Arcturus)\n\nMarking       2             Name of the star              Lyr (Vega)\non the\nmap           3             Name of the star              Aur (Capella)\n\n              4             Name of the star              Aql (Altair)"
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "PAY ATTENTION TO THE ASSISTANTS, and follow their instructions.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "– 6p (0.4 p for each constellation (15 constellations))"
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "The timing for the first part is as follows:\n   a) 8 minutes for your eye adaptation to the darkness;\n   b) 10 minutes for the first question;\n   c) 6 minutes for the second question;\n   d) 6 minutes for the third question;",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "– 5p (each object 1p)"
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Задача 7",
+   "statement": "Use the flash light only when you need it and point it only at your paper.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "– 10p (18h; +/-15m full points; +/- 30m half points)"
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Задача 8",
+   "statement": "When you leave the dome, leave everything on your seat.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "8",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "– 6p (Ascension – 20h+/-1h - 3p; Declination – +10°+/-5° – 3p)"
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Задача 9",
+   "statement": "PLEASE WRITE ONLY ON THE PRINTED SIDE OF THE ANSWER SHEET. DON’T USE THE\n   REVERSE SIDE. The evaluator will not take into account what is written on the reverse of the\n   answer sheet.\n\nGOOD LUCK!\n\n                  OBSERVATIONAL                      PART I                              STUDENT ID\n\n                  PLANETARIUM                        Answer sheet                        page no.\n\n                              Please write ONLY on this side of the paper\n\n                                                       Question 1\n\nThe sky projected in the dome corresponds to Suceava (Long 260 15’), at 18:00 UT, on a certain day of a\ncertain month.\n\nYou have 8 minutes to relax and familiarize your eyes with the darkness. During this time don’t use the\nflash light.\n\nTwo arcs will then be projected. The arcs are segmented. Each segment represents an interval of some\nnumber of degrees. Note that this number is not the same for each arc.\n\n10 minutes – Question 1\n a. Identify each arc by circling the correct name and give the angular size of each segment (in degrees).\n\n                                                                                         Segment size\n           First arc                 Equator             Meridian          Ecliptic\n\n                                                                                         Segment size\n        Second arc                   Equator             Meridian          Ecliptic\n\nb. Estimate the local sidereal time of the sky you see in the dome.\n\n                                                     sidereal\n\nc. Determine the month to which the projected sky would correspond at the given time. Fill in the box the\n   number of the month (1 to 12).\n\n                                           Month number\n\n                     OBSERVATIONAL                     PART I                                   STUDENT ID\n\n                     PLANETARIUM                       Answer sheet                             page no.\n\n                               Please write ONLY on this side of the paper\n\n                                                   Question 2 and 3\n\nFor questions 2 and 3 the assistant will use a small red arrow pointer to point some objects in the sky. Each object\nwill be pointed at for 2 minutes (30 seconds arrow pointer on and 10 seconds off). Please pay attention to the\nassistant announcements.\n\n6 minutes – Question 2\nThe locations of three Messier objects will be pointed at one by one. For each Messier object pointed to, fill in the\nboxes with its Messier catalog number and the number which indicates its type, based on the following: 1 for\ngalaxy, 2 for nebula, 3 for open cluster, 4 for globular cluster.\nAlso, for each object, fill in the IAU abbreviation of the constellation where the star is located. Refer to Table 1 for\nthe abbreviations.\n\n                                         Number which indicates the                    IAU abbreviation of the\n  1st Messier object\n                                                                  type                            constellation\n\n                                         Number which indicates the                    IAU abbreviation of the\n 2nd Messier object\n                                                                  type                            constellation\n\n                                         Number which indicates the                    IAU abbreviation of the\n 3rd Messier object\n                                                                  type                            constellation\n\n6 minutes – Question 3\nThree stars will be pointed at successively. Each star will be pointed at for 2 minutes. Fill the appropriate box with\nthe name of the star (or the Bayer designation) and the number which indicates its type (1 for single, 2 double).\nFor each star, also fill in the IAU abbreviation of the constellation where the star is located. Refer to Table 1 for the\nabbreviations.\n                                                      Number which                     IAU abbreviation of the\n       1st Star\n                                                    indicates the type                            constellation\n\n                                                      Number which                     IAU abbreviation of the\n      2nd Star\n                                                    indicates the type                            constellation\n\n                                                      Number which                     IAU abbreviation of the\n      3rd Star\n                                                    indicates the type                            constellation\n\nYou have finished the first part. Verify that have written your student ID on every page. Attach the answer sheers\nto the clipboard and leave it on your seat along with the flashlight, and then exit the dome.\n\n                                                  PART II Star\n                            OBSERVATIONAL         chart\n                                                                                         STUDENT ID\n\n                            PLANETARIUM           Indication                             page no.\n\nStar chart:\nYou have 30 minutes to finish this part.\nPlease use only pencil to make the drawings and markings.\nAfter you finish this part, write your student ID on the answer sheet as well as on the sky map.\nPut the answer sheets in the folder; leave the compass, the ruler and the pencil on the table.\nThank you!\n\nIn this part you will use the sky-map found in the envelope. The map represents the sky in Suceava\n(Latitude 470 39’ North, Longitude 260 15’ East) on the day of the test at 22:00 local time. The observer\nwho made the sky-map was at a very high altitude above Suceava; the Zenith point is in the center of the\nchart. Please use a pencil for marking and drawing lines on the sky-map. Use the example markings 1, 2\nand 3 shown below to draw lines and mark objects on the map.\n\n                                       HOW TO DRAW AND MARK\n                                       OBJECTS ON THE SKY-MAP\n                                                                                            MARKNG 2 This is how\n                                                                                            you will mark the\n                                                                                            constelations.\nMARKING 3 This is how you\nwill mark the planets or stars.   5                                                           B\n                                                                                            The letter corresponds to\n                                                                                            the name of the\nNumber of the body, star,\n                                                                                            constellation according to\nplanet etc.\n                                                                                            table 1.\n\n                                                                                The equatorial parallel\n\n                                                                        MARKING 1 This is how you will draw the\n                                                                        curves/lines and indicate what it represents.\n\n                                                       PART II – outside\n                    OBSERVATIONAL                      the dome\n                                                                                           STUDENT ID\n\n                    PLANETARIUM                        Answer sheet                        page no.\n\n                               Please write ONLY on this side of the paper\n\n                                                         Questions\nThe map represents the sky in Suceava (Latitude 470 39’ North, Longitude 260 15’ East) at 19:00 UT on the day of\ntest. The observer who made the sky-map was at a very high altitude above Suceava; the Zenith point is in the\ncenter of the chart. Solve question 1 to 4 on one copy of the map and questions 5 to 8 on the second copy of map.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "9",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

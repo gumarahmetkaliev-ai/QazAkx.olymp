@@ -1,0 +1,111 @@
+{
+ "setId": "astro-iao-2013--astro-1-tasks",
+ "olympiadId": "astro-iao-2013",
+ "title": "Астрономия → IAO (международная) → 2013",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/iao/2013/astro-1-tasks.pdf",
+ "solutionFile": "olympiads/astronomy/s/iao/2013/astro-1-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:59:16.363Z",
+ "quality": {
+  "tasks": 6,
+  "parts": 6,
+  "withPoints": 6,
+  "withReference": 5,
+  "withQuestion": 6,
+  "estimatedPoints": 6
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Star rise in Moletai. An observer in Moletai recorded that a star culminated at 02:54 and set at 05:45 оп\n\nSeptember 8, 2013. Effects of irregularities of the horizon should not be taken into account.\n\n1.1. At what time will the star rise on September 9, 2013?\n\n1.2. In approximately which direction do you need to wait for the rising of the star? Choose one of the alternatives:\n№, МЕ, Е, SE, $, SW, ХУ, NW. Draw a picture with an explanation.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "1.1. The time elapsed from the rising of the star to culmination is equal to the time elapsed from\nculmination to set. Therefore, on September 8, this star rose at 02:54 — 02:51 = 0:03. The next time the star\nwill rise after a sidereal day, equal to 23:56, that is, at 23:59 but still on September 8. On September 9 the\nstar will rise after one more sidereal day, that is at 23:55."
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Gliese 581 g. This celestial body in the system of the star Gliese 581 is the most Earth-like planet found outside the\nSolar System, and the exoplanet with the greatest recognized potential for harboring albuminous based life.\n\nEstimate orbital period t of Gliese 581 g. Consider the orbit to be circular.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "2.1. It is obvious that there should be about the same conditions as on the Earth for the existence of\nalbuminous based life on the planet.\n\n(Following in the solution indexes с refer to the system Gliese 581, and indexes © and в — to the Sun\nand Earth).\n\nIn the \"data of some stars\" table one can find the mass of the star Gliese 581, which is equal to\nMeg = 0.31 Mo, its parallax р = 0.16\", and the apparent bolometric magnitude m = 8\".0.\n\nKnowing the parallax and the apparent bolometric magnitude of the star, one can find its absolute\nbolometric magnitude:\n\nM=m+5™\"+5™lgp=8™.0 + 5™4+ -37.98 =9™.0.\n\nIt is 9\"—-4\".8=4™2 greater than the absolute magnitude of the Sun. Thus, the radiation from\nGliese 581 is I@/Ig = 10*?5 = 48 times less than that of the Sun.\n\nTaking into account the Stefan-Boltzmann law, let us compare the temperature regimes on Earth (Те)\nand on the planet Gliese 581 g (Tg).\n\nIt is known that the balance temperature T on the planet is defined by the balance of incoming and\nradiated energy. The radiated energy depends only on the surface area and the temperature (the dependence\non the temperature is described by the Stefan-Boltzmann E ~ Т*, but is not necessary to know the exact\nrelationship for the task). In absence of internal sources of energy (we make this assumption) the radiated\nenergy is equal to the energy from the central luminary. Both the radiated and incoming energies are\nproportional to the surface area of the planet; hence the balance does not depend on the size of the planet.\n\nThe incoming energy is proportional to the radiation of the central star and inversely proportional to the         |\ndistance to the star:\n\nEx~Io/Re, Ес- Вс?\n\nThus, for the temperatures on Earth and Gliese 581 g to be equal, it is necessary that\n\nЕр-Ес ог Ко Ес-(1610)/2\nAccording to the generalized Kepler's third law\n<’Ma>=const, thatis т- aM”,\nor as the orbits are circular,\nс - RM ?, тс / te = (ВоВ (Мс, Mo)\",\nTG = Te(Ro/Re)??/(Me/Mo)\"” = tE(Ic/lo)*4(Me/ Mo)”,\nTG = 365 days x 48°4/0.31\"7,\nTc ~ 36 days.\nЛитва, Вильнюс                     2013                      Vilnius, Lithuania\n\nXVIII IAO 2013 Theoretical round. Sketches for solution. For preliminary work of Jury only         page 3 of 6\nB-2.2. The size of the planet could be determined by recording the radio-sources from different points of\nthe planet's surface (result of an activity of the civilization). In order to get at least some estimate of the\nsize of the planet, one needs to get a \"picture\" of radio-sources distribution, and the angular size of the\n\"picture\" should exceed the angular resolution at least several times. It should be assumed that as the\nplanet Gliese 581 в is similar to Earth, its diameter is comparable to the diameter of Earth Dg, at least in ап\norder of the value. The angular size of a body with a diameter of Earth Dg in system of Gliese 581 is equal\nto\n\na =p ОЕ / Re,\nа = 0,16\" x 12,8 thous.km / 149 600 thous.km = 14-10°\" = 14 pas.\nAs we see, this value is comparable with the best angular resolution of RadioAstron, and for the most of\npositions of the \"Spektr-R\" it is even less. In order to obtain any reasonable result an \"image\" have to be\n|                taken, that is the angular size of the object have to exceed the angular resolution at least several times. It is\nnot possible to get a \"picture\", only a spot will appear as evidence of the extended radio-source. Thus only,\n                it is clear that radio-sources are not at one point but at different locations. In the best case it will be able to\ndetermine the order of the diameter of the planet (which we had known earlier).\nAnswer: «нет-по».\nNote. The size of the planet Gliese 581 g, determined by other methods, is estimated as 1.4+0.2 of the size of Earth. The\nratio of 1.4 does not introduce considerable amendments to the solution.\naB-3. Observations from Gliese 581 g.\nоВ-3.1. The magnitude of the Sun, visible from any remote location is\nMo = mp + 5\" log (206265) — 5\" lg p.\nwhere mp is the apparent magnitude of the Sun visible from Earth, and p is the annual parallax of the\nlocation.\nThe magnitude of the Sun as seen from the system of Gliese 581 is\nMg = -26™.74 + 26\".57 — 5™ log 0.16 = -0\".17 — -3\".98 = 3™.8.\n(And it is not the only way of solution. The value can be found in many other ways, e.g., by formula\nmoe =M-—5\"+5\"lgp).\nоВ-3.2. While observing from the planet Gliese 581 g, our Sun will be at a point opposite to where the\nsystem of Gliese 581 is seen from Earth. Because Gliese 581 is located in the zodiacal constellation of\nLibra, the sun will be approximately in the opposite zodiacal constellation, that is, in the constellation of\nAries. (That solution is correct enough.)\n\nNote: Using a sky-chart one can solve the problem more accurately. The point opposite to the location of the system\n\nGliese 581 at the Earth's sky, has the coordinates 03\" 19\" 27° and 07° 43'20\". This point is located in the constellation\n\nof Taurus (Tau), very close to the borders of the constellations of Cetus (Cet) and Aries (Ari). As the students were not\n\n         provided by a sky-chart, and question was \"what is the approximate constellation\", the answer \"approximately in the\nconstellation, opposite to the constellation of Libra, that is in the constellation of Aries\" is correct.\n                   B-3.3. To keep the heat balance a Gliese 581 g should receive the same amount of energy per unit area\nas is received at Earth.\n(As in the previous solution с indices refer to the system of Gliese 581, and indexes о and в — to the\nSun and the Earth).\nFrom the given tables one may find that the spectral class of the star Gliese 581 is M3V. According to\nthe Hertzsprung-Russell diagram the temperature of the star, corresponding to this spectral class, is about\nТс = 3300 К. It is То/Тс = 5780/3300 = 1.75 times less than the temperature of the Sun.\nAccording to the Stefan-Boltzmann law the power emitted from the star is P = с.ЗТ“, and in just the\nsame way we may discourse about the apparent angular area from which the radiation is coming.\nThus, since the apparent angular area of a star is proportional to the square of its apparent angular\ndiameter a, the following equations should be correct:\nл/4-ас Тс = 1/4-аө То’ ог ос- ав(Тө/Тс),\nас-32-(1.75):-98.\nва, Вғлһинве//,20200 Уішіш, *<Lithuanial\n\nХУШ 1АО 2013 Theoretical round. Sketches for solution. For preliminary work of Jury only         page 4 of 6\nMore than three times larger than the Sun!\naB-4. XVIII century. Midday. Horse-powers per square verst is a power per unit of area, the quantity that\ndimension is similar to the solar constant. In physics, it is properly called the \"power flux\".\nLet us calculate the solar constant in units, which were coming into operation in the end of the XVIII\ncentury.\nI method — visual.\nThe energy-release of the Sun has not changed since the end of the XVIII century and in units of the\nhorse-power is\nL = 3.86-107° W / (735.5 W/hp) = 5.25-10?3 horse-powers.\nThe distance from the Sun to Earth has not changed since the end of the XVIII century as well, and in\nversts is\na= 1 AU = 1.496-10\"! m/ (3-500-0.7112 m/vrst) = 1.402-108 vrst.\nThus, the solar constant in units of the end of the XVIII century is                                                             |\nAyix = Г. / 4ла? = 5.25.1023 hp / 4п(1,402-108 vrst)? = 2.12-10° hp / vrst’.\nII method — formal.\nАхх = АХ Карлу / арша) = 1367 Wim? / (735.5 W/hp) x (1066.78 m/vrst)” = 2.12:10° hp / vrst”."
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Observations from Gliese 581 о.\n\n3.1. What is the apparent magnitude of our Sun and 3.2. what is the approximate constellation in which our Sun\nwill be seen when observed from the planet Gliese 581 g?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "3.2. Totally 3 pt, including:\nUnderstanding that Gliese 581 is located in the zodiacal constellation of Libra — 1 pt.\nSun will be at opposite point — 1 pt.\nAnswer: constellation of Aries — 1 pt.\n\nB-3. Observations from Gliese 581 g."
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "XVIII century. Midday. (Dubingiai is the nearest town to the accommodation place of XVIII IAO.).\n\nThere were different systems of units of measurement in the history of science. This problem is to use historical (at\npresent obsolete) units of measurement.\n4.1. Calculate the capacity of the solar energy that in the end of the XVIII century fell on the unit of area of the\nterritory in the outskirts of Dubingiai at midday time:\n\nin winter, in spring, in autumn, and in summer.                                                        .\nThe answer must be given using only the «new» physical units, which were coming into        ше. 4         ` =\noperation in those days in this area: horse-powers per square verst.                               а | % 4\" \"2 4 % і\n4.2. Estimate also the capacity of the solar energy incident on a local horse those times. |  1 ae 2  Ж\nТһе answer must also be expressed іп physical units, which were coming into operation   ey oa exon (Rea ae ғ\nіп those days. What can be surprising about the right answer?                                      о А: ое",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "4.1. The outskirts of Dubingiai in the XVIII century were located on the same latitude as where they are\nlocated іп the ХХІ century, that is, at about latitudes 54.7° — 55.29 (latitudes of Vilnius and Moletai\nrespectively, may be found from the map). The value of 23.5°, the inclination of the equatorial plane of the\necliptic, also almost has not changed (strictly speaking, it had declined by about one arc minute). Thus, at\nthe middays of the winter solstice in the XVIII century in the outskirts of the town Dubingiai the sun was\nat an altitude about\nhw = 90° — 55.0° — 23.5° = 11.5°,\nat the middays of spring and autumn — at an altitude about\nho = 90° — 55.0° = 35.0°,\nat the middays of the summer solstice — at an altitude about\nhg = 90° — 55.0° + 23.5° = 58.5°.\nWhile the altitude of the Sun is h, the power flux to the unit of the territory is\nW =A:sin В.\nThus, the target values are:\nin winter — Ww = A:sin hw = 420 000  hp/vrst”,\nin spring and autumn — Wo = A:sin ho = 1 220 000 hp/vrst”,\nin summer — Ws = A:sin hs = 1 810 000  hp/vrst’."
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "ХХІ century. Midday. As is known, the Republic of Lithuania (see map) uses zone with winter time UT+02 and\nsummer time UT+03. Calculate and draw a conclusion about the following:\n\n5.1. Are there any places in Lithuania, where today (September 8, 2013) the Sun will be exactly in the south at a       |\ntime when the watches of residents will show just 12:00? («да-уе$» or «нет-по»).\n\n5.2. And in general, on the other days of the year, are there such places? («да-уез» ог «HeT-no»). If \"yes\", then\ncalculate in what dates, if \"no\", then justify it by calculations.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "4.1. Totally 3 pt, including:\nLatitudes the same as now (about 54.7° — 55.2°) — 1 pt.\nCalculation of altitudes of midday Sun in winter, spring, autumn, summer — 1 pt.\nW =A:sin В, correct final calculations — 1 pt."
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "Supernova remnant. An X-ray image of supernova remnant (SNR) Cas A located at a distance of d = 3400 рс was\nobtained using Chandra Space Observatory. The negative of this image is shown in Fig. SNR. The boundaries of\nthe SNR region are marked by a circle. The scale of the image is shown in the upper left corner of the figure. A dot\nlocated close to the center of the circle is the neutron star — the remaining core of the collapsed star. The\nrectangular marks outside the circle are given for the reference when determining the center of the circle.\n\nAssume that the amount of energy released in the supernova explosion was about Egy = 1046 J, 1% of which drives\nthe expansion of the remnant. The average density of the matter in the SNR is р= 107 kg/m’,\n6.1. Estimate the age of the SNR Cas A.\n6.2. Calculate the average velocity of the motion of the neutron star from the center of the SNR.\nЛитва, Вильнюс                            2013                            Vilnius, Lithuania\n\nАСТРОНОМИЧЕСКОЕ           -  |                  EURO-ASIAN                    Round\nОБШЕСТВО         фр.        ASTRONOMICAL SOCIETY\nTa             Group      ЕЗ\nХУШ Международная астрономическая олимпиада\n+t        XVIII International Astronomy Olympiad\nRS  |  өзе”  |    Литва, Вильнюс       6-14. ІХ. 2013       Vilnius, Lithuania            | language |    En g lish\nTheoretical round. Problems to solve\nGeneral note. Maybe not all problems have correct questions. Some questions (maybe the main question of the problem,\n|            maybe one of the subquestions) may make по real sense. In this case you have to write in your answer (in English or Russian):\n«impossible situation — ситуация невозможна». Of course, this answer has to be explained numerically or logically.\n|                                              Data from the tables (Planetary data, stars, constants, etc.) may be used for solving every problem.\nThe answers «Да-Үев» ог «Нет-Хо» have to be written in English or Russian.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

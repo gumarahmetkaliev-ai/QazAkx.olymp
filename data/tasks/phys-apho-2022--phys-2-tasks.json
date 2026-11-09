@@ -1,0 +1,81 @@
+{
+ "setId": "phys-apho-2022--phys-2-tasks",
+ "olympiadId": "phys-apho-2022",
+ "title": "Физика → APhO (Азиатская) → 2022",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/physics/s/APhO/2022/phys-2-tasks.pdf",
+ "solutionFile": "olympiads/physics/s/APhO/2022/phys-2-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T18:21:39.375Z",
+ "quality": {
+  "tasks": 4,
+  "parts": 4,
+  "withPoints": 4,
+  "withReference": 1,
+  "withQuestion": 4,
+  "estimatedPoints": 4
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "a smartphone",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "a magnet in blue (S) and red (N) color",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "27.5   781.33    5607.78\n\n  28     781.62    5597.66\n\n  29     781.81    5553.37\n\n  30     781.46    5478.86\n\n  31     780.58    5377.65\n\n  32     779.17    5254.35\n\n It is clear from the table and graph that 𝜃1 = 27∘ . We repeat this for another distance 16000 m. Table\n and graph for this distance is given below.\n\nSolutions\n\n A.6 (cont.)\n\n        5,000\n\n        4,000\n 𝑓max\n\n        3,000\n\n        2,000\n\n  𝜃         𝑓min\n\n  25        781.12\n\n  26        781.47\n\n  27        781.70"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "a dark shaded hollow pipe with uniform thickness",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "a calibrated scale, which can be activated by clicking the 'SHOW/HIDE SCALE' button.\n  Intergrid spacing on the grid canvas is 1 cm.\n\n   1 Chandan Relekar (IISc, Bangalore), Siddhant Mukherjee (The University of Cambridge, UK), Siddharth Tiwary (IIT Powai, Mum-\n\nbai), Charudutt Kadolkar (IIT Guwahati), Praveen Pathak (HBCSE-TIFR, Mumbai), were the principal authors of this problem. The\ncontributions of the Academic Committee and the International Board are gratefully acknowledged.\n\n                                                                             Q1-2\nExperiment\n\n                                                                                        Oﬃcial (English)\n\n                                Figure 2: Screenshot of the simulation\n\n The set up:\n The objects can be moved by holding and dragging the mouse. Smartphone, scale, and magnet can\n also be rotated in the plane. The rotation control slider is available in the right panel. You can drag\n the slider to change the orientation. For a better control, after clicking on the slider, you can use\n arrow keys to rotate an object.\n There is a magnetometer inside the phone which measures the magnetic ﬁeld of the magnet in its\n vicinity. The exact location of the magnetometer in the phone is not given to you. Depending on the\n location of the magnetometer, the right panel displays the components 𝐵𝑤 and 𝐵𝑙 of the magnetic\n ﬁeld of the magnet measured by the smartphone along its width and length, respectively, as shown\n in Fig 2. Component 𝐵𝑤 points to the right for the default position (portrait/vertical orientation) of\n the phone. Component 𝐵𝑙 points downwards along the length of the phone.\n The measurement:\n When you click on 'START MEASUREMENT' you can also see the graph of variation of 𝐵𝑤 and 𝐵𝑙 as a\n function of time. 'RESET GRAPH' will erase all the values recorded in this graph. When you move the\n cursor over the curve in the graph obtained, you can see the value of the data point. A portion of the\n graph can be zoomed in by inserting the time in the \"Graph start time (𝑡𝑖 )\" and the \"Graph end time\n (𝑡𝑓 )\" ﬁelds.\n\n                                                                               Q1-3\nExperiment\n\n                                                                                          Oﬃcial (English)\n\n  Smartphones may get damaged if they are exposed to high magnetic ﬁeld. To prevent this, if the\n  net magnetic ﬁeld value measured by the smartphone exceeds 6500 𝜇T, the measurement will stop\n  and you will see a warning on the right panel 'Maximum Magnetic ﬁeld exceeded.' Measurement is\n  restored as soon as the magnet is moved away from the phone at a suﬃcient distance.\n  Further features:\n  The magnet can be moved by keyboard arrow keys in up-down and left-right directions. For this, click\n  anywhere on the canvas. A ﬁner/coarser movement of the magnet can be achieved by clicking '2X\n  FINER MAGNET MOVEMENT/2X COARSER MAGNET MOVEMENT'. With each clicking of these buttons,\n  the movement will become two times ﬁner/coarser. The buttons will grey-out when the maximum\n  coarse/ﬁner level is reached.\n  Gravity is in the downward direction, towards the bottom of the screen. The ﬂoor is indicated by a\n  red line. Consider all the objects in the plane of the screen only. More information about the pipe is\n  given before the part (B).\n  Consider the magnet to be held in a stationary position when you place it anywhere on the screen.\n  Clicking on the \"Drop\" button will release the magnet and it will start descending. Note that the\n  magnet can be dropped only after clicking the 'START MEASUREMENT' button. The 'RESET POSITION'\n  button will bring back the magnet to the position from where it was dropped last. Objects can be\n  moved outside the Canvas if needed.\n\nIn this experiment, consider the magnet to be a point dipole.\nNote that there is no error estimation required in this question.\n\n    A.1     Obtain the location of the magnetometer on the phone. To help you answer              1pt\n            this part in the answer sheet, a ﬁner grid is made inside the schematic diagram\n            of the phone. Intergrid spacing in the ﬁner grid is 2 mm. Indicate the location of\n            the magnetometer by drawing \"⨂\" in the smartphone at an appropriate place.\n\n    A.2     Plot a suitable linear graph and obtain the dipole moment of the magnet from          2.3pt\n            the graph. Fill in the table for the recorded data of the method you have em-\n            ployed.\n\nA hollow nonmagnetic vertically held pipe of ﬁnite uniform thickness is given on the screen. For the\nmagnet to be dropped inside the pipe, the magnet should be aligned with the axis of the pipe properly.\nThe \"DROP\" button will release the magnet in the vertical plane. The motion of the magnet inside the\npipe cannot be viewed. Assume that when the magnet is dropped inside the pipe, it doesn't tilt or rotate\nas it descends. The pipe consists of three distinct sections: one section is made of wood (W), another\nsection is made of aluminum (Al) having electrical conductivity = 3.77 × 107 Ω−1 m−1 , and the remaining\nsection is made of copper (Cu) having electrical conductivity = 5.96 × 107 Ω−1 m−1 . These three different\nmaterials may/may not be in this order. If the magnet is dropped vertically (say along the downward\n𝑦-axis), the fall of the magnet is governed by\n\n                                              𝑚𝑦 ̈ = 𝑚𝑔 − 𝑘𝑦 ̇                                            (3)\n\nwhere 𝑚 is the mass of the magnet, 𝑔 is the acceleration due to gravity (𝑔 = 9.8m/s2 ), and 𝑘 is the damping\nconstant due to the generation of the eddy current in the pipe. The damping constants for the wooden,\n\n                                                                              Q1-4\nExperiment\n\n                                                                                         Oﬃcial (English)\n\naluminum, and the copper sections are zero, 𝑘Al , and 𝑘Cu , respectively. Drop the magnet inside the pipe\nfollowing these steps:",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "0.1+0.1"
+    }
+   ]
+  }
+ ]
+}

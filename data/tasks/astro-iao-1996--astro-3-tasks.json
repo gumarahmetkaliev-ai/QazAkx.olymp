@@ -1,0 +1,142 @@
+{
+ "setId": "astro-iao-1996--astro-3-tasks",
+ "olympiadId": "astro-iao-1996",
+ "title": "Астрономия → IAO (международная) → 1996",
+ "materialLabel": "3 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/iao/1996/astro-3-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T18:09:54.354Z",
+ "quality": {
+  "tasks": 8,
+  "parts": 8,
+  "withPoints": 8,
+  "withReference": 0,
+  "withQuestion": 8,
+  "estimatedPoints": 8
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Why is it sometimes better to use a small telescope in orbit around the Earth than it is to use a\nlarge telescope on a mountain top?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "A thick black fly has dotten onto the object lens of a 5 cm telescope. What will an observer\nlooking to the Moon through the telescope see?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Explain why we see more meteors from midnight to dawn than from evening to midnight.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "The 12 Zodiacal signs are equally extended on the ecliptic. In which of them does the Sun lie in\nfor the shortest period?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "On 1 cm2 of Pluto's surface fall approximately 10,000 photons per second from a star of the fifth\nmagnitude. How many photons would fall on a detector from a star of 20 m during half an hour, if\nBTA at the Earth is used (the diameter of the main mirror is 6 m)?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "The sun has a parallax of  s = 8\".8, and a star with the same absolute brightness -  * = 0\".022. Is\nit possible to observe the star at night sky visually?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Задача 7",
+   "statement": "The moon set in St.Petersburg (60� North, 30� East) yesterday just at midnight. In what\nregion of the Earth will there be an opportunity to observe a total solar eclipse sometime next\nweek?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Задача 8",
+   "statement": "A spaceship landed on an asteroid 2.2 km in diameter with an average density of 2.2 g/cm 3. The\nasteroid is slowly rotating. The cosmonauts decided to travel along the equator of the asteroid in a\nrover in 2.2 hours. Will it be possible for them to do such a thing? If the answer is negative, why?\nIf the answer is positive, what do they take into account?\n\nGrades 11-12",
+   "total": 7,
+   "parts": [
+    {
+     "id": "8",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

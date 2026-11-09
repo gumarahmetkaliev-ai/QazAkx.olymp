@@ -1,0 +1,112 @@
+{
+ "setId": "astro-ioaa-2008--astro-1-tasks",
+ "olympiadId": "astro-ioaa-2008",
+ "title": "Астрономия → IOAA (международная) → 2008",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/ioaa/2008/astro-1-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T18:05:29.111Z",
+ "quality": {
+  "tasks": 6,
+  "parts": 6,
+  "withPoints": 6,
+  "withReference": 0,
+  "withQuestion": 6,
+  "estimatedPoints": 6
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Every student receives problem sheets in English and/or in his/her native language,\n    answer sheets, millimeter block papers, and scratch sheets.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "The time available is five hours for the data analysis and observation competitions.\n   There are three data analysis problems, and two observation problems.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Use only the materials provided.\n Fill in the boxes at the top of each sheet of paper with your country code and your\n   student code. \n5. Use only the front side of answer sheets. Write only inside the boxed area.\n6. Begin answering each question on a separate sheet.\n7. Numerical results should be written with as many digits as are appropriate.\n8. Write on the answer sheets and the millimeter block papers whatever you consider is\n   required for the solution of each question. Please express your answer primarily in\n   term of equations, numbers, figures, and plots. If necessary provide your answers with\n   concise text. Full credit will be given to correct answer with detailed steps for each\n   question. Underline your final result.\n9. At the end of the exam place the answer sheets and the millimeter block papers inside\n   the envelope and leave everything on your desk.\n\n\n\n                      Astronomical and Phys\n\n                  Quantity\nAstronomical unit (AU)\nLight year (ly)\nParsec (pc)\nSidereal year\nTropical year\nGregorian year\nSidereal month\nSynodic month\nMean sidereal day\nMean solar day\nMean distance, Earth to Moon\nEarth mass ( ⊕)\nEarth's mean radius\nEarth's mean velocity in orbit\nMoon’s mass ()\nMoon’s mean radius\nSun mass ()\nMean Earth radius\nSun radius (R)\nSun luminosity (L)\nSun effective temperature (Teff)\nSun apparent magnitude (m)\nSun bolometric magnitude (mbol)\nSun absolute magnitude (M)\nSun absolute bolometric magnitude (Mbol) 4\nSpeed of light (c)\nGravitational constant (G)\nBoltzmann constant (k)\nStefan-Boltzmann constant (σ)\nPlanck constant (h)\nElectron charge (e)\nElectron mass (me)\n\n\n\nical Constants\n\n                        Value\n  149,597,870.691 km\n 9.4605 × 1017 cm = 63,240 AU\n 3.0860 × 1018 cm = 206,265 AU\n 365.2564 days\n 365.2422 days\n 365.2425 days\n 27.3217 days\n 29.5306 days\n  23h56m4s.091 of mean solar time\n  24h3m56s.555 of sidereal time\n  384,399 km\n 5.9736 × 1027 g\n  6,371.0 km\n  29.783 km/s\n 7.3490 × 1025 g\n  1,738 km\n 1.9891 × 1033 g\n  6.3710 × 106 cm\n 6.96 × 1010 cm\n 3.96 × 1033 erg s-1\n 5 800 oK\n -26.8\n -26.79\n 4.82\n.72\n 2.9979 × 1010 cm/s\n 6.6726× 10-8 dyne cm2 g-2\n 1.3807 × 10-16 erg. K-1\n 5.6705× 10-5 erg cm-2 K- 4 s-1\n 6.6261 × 10-27 erg s\n 1.602 × 10-19 C = 4.803 × 10-10 esu\n 5.48579903 × 10-4 amu\n\n\n\nProton mass (mp)                            1.007276470 amu\nNeutron mass (mn)                           1.008664904 amu\nDeuterium nucleus mass (md)                 2.013553214 amu\nHydrogen mass                               1.00794 amu\nHelium mass                                 4.002603 amu\nCarbon mass                                 12.01070 amu\n\n                                Conversion table\n                1Å                           0.1 nm\n                1 barn                       10-28 m2\n                1G                           10-4 T\n                1 erg                        10-7 J = 1 dyne cm\n                1 esu                        3.3356 × 10-10 C\n                1 amu (atomic mass unit)     1.6606 × 10 −24 g\n                1 atm (atmosphere)           101,325 Pa = 1.01325 bar\n                1 dyne                       10-5 N\n\n\n\n                 300 points for 3 problems, 100 points for each problem\n\nI. Virgo Cluster\n\nThe Virgo cluster of galaxies is the nearest large cluster which extends over nearly 10\ndegrees across the sky and contains a number of bright galaxies. It is very interesting to find\nthe distance to Virgo and to deduce certain cosmological information from it. The table\nbelow provides the distance estimates using various distance indicators (listed in the left\ncolumn). The right column lists the mean distance di ± the standard deviation si.\n\n                 i       Distance Indicator       Virgo Distance (Mpc)\n                 1 Cepheids                             14.9 ± 1.2\n                 2 Novae                                21.1 ± 3.9\n                 3 Planetary Nebulae                    15.2 ± 1.1\n                 4 Globular Cluster                     18.8 ± 3.8\n                 5 Surface Brightness Fluctuation       15.9 ± 0.9\n                 6 Tully-Fisher relation                15.8 ± 1.5\n                 7 Faber-Jackson relation               16.8 ± 2.4\n                 8 Type Ia Supernovae                   19.4 ± 5.0",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "What is the Hubble Time (age of the universe) using the value of Hubble constant you\n   found and the uncertainty (rms)?\n\n\n\nII. Determination of stellar masses in a visual binary system\n\nThe star α-Centauri (Rigel Kentaurus) is a triple star which consists of two main-sequence\nstars α-Centauri A and α-Centauri B representing visual binary system, and the third star,\ncalled Proxima Centauri, which is smaller and fainter than the other two stars. The angular\ndistance between α-Centauri A and α-Centauri B is 17.59”. The binary system has an\norbital period of 79.24 years. The visual magnitudes of α-Centauri A and α-Centauri B are\n-0.01 and 1.34 respectively. Their color indices are 0.65 and 0.85 respectively. Use the\ndata below to answer the following questions.\n\n                               Data for main-sequence stars\n\n                                 (B –V)0     Teff    BC\n                               -0.25     24500 2.30\n                               -0.23     21000 2.15\n                               -0.20     17700 1.80\n                               -0.15     14000 1.20\n                               -0.10     11800 0.61\n                               -0.05     10500 0.33\n                               0.00       9480     0.15\n                               0.10       8530     0.04\n                               0.20       7910       0\n                               0.30       7450       0\n                               0.40       6800       0\n                               0.50       6310     0.03\n                               0.60       5910     0.07\n                               0.70       5540     0.12\n                               0.80       5330     0.19\n                               0.90       5090     0.28\n                               1.00       4840     0.40\n                               1.20       4350     0.75\n                      BC=Bolometric Correction, (B-V)0=Intrinsic Color\n\n   Questions:",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "Subsequently, help this astronomer to determine the age of each type of the\n        meteorites and its error. Which type is older?\n\n                                      87 Sr ",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "Determine the initial value of  86  for each type of the meteorites and its error.\n                                      Sr \n                                            0\n\nGlossary:\n\n\n\nA simple linear regression line y=a+bx can be fitted to a set of data (Xi,Yi), i=1,…,n, in\nwhich\n\n         \n             \nwhere\n                                                      2\n                              n\n                                    1 n     \nSSxx : sum of square for X =  X i −   X i \n                                  2\n\n                             i =1   n  i =1 \n                                                  2\n                               n\n                                     1 n \nSSyy : sum of square for Y =  Yi 2 −   Yi \n                             i =1    n  i =1 \n                                          n\n                                                          1 n      n\nSSxy : sum of square for both X and Y =  X iYi −            i  Yi\n                                                                X\n                                         i =1             n i =1 i =1\nStandard deviation of each parameter, a and b can be calculated by",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

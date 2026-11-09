@@ -1,0 +1,127 @@
+{
+ "setId": "astro-ioaa-2011--astro-2-tasks",
+ "olympiadId": "astro-ioaa-2011",
+ "title": "Астрономия → IOAA (международная) → 2011 → Все классы",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/ioaa/2011/astro-2-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T18:02:26.065Z",
+ "quality": {
+  "tasks": 7,
+  "parts": 7,
+  "withPoints": 7,
+  "withReference": 0,
+  "withQuestion": 7,
+  "estimatedPoints": 7
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Teams consisting of three or more students can participate in the group competition.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "The team will be given a set of 5 problems to solve in 60 minutes.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "The team's result is decided by the sum total of the points obtained for all 5 problems. Up\n   to 20 points can be obtained for each problem. The team can gain extra points by handing\n   in their solutions to all 5 problems before the end of the allotted 60 minutes, and will lose\n   points for time taken beyond the 60 minutes, as follows:",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "If, at the moment the team's solutions are handed in, n full minutes are left before the\n   allotted time, then the sum total of the points obtained by the team for their solutions will\n   be multiplied by a factor\n\n                                           k = 1 + n/100,\n\n    thus the team gets an extra 1% of their total result for every minute saved.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "If the team hand in their solutions n full minutes after the allotted 60 minutes have\n   passed, the sum total of the points obtained by the team of the team will be multiplied by\n   the factor\n\n                                           k = 1 – n/100,\n\n    thus the team will lose 1% of their result for every minute used beyond the allotted time.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "The team with the most points after adjustment for time wins.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Задача 7",
+   "statement": "Every student of the winning team will be given a prize and gold medal of the group\n   competition.\n\n                               Additional Instructions",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

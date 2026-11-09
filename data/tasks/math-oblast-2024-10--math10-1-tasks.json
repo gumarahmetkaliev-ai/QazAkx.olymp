@@ -1,0 +1,63 @@
+{
+ "setId": "math-oblast-2024-10--math10-1-tasks",
+ "olympiadId": "math-oblast-2024-10",
+ "title": "Математика → Областная → 2024 → 10 класс",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/oblast/2024/10/math10-1-tasks.pdf",
+ "solutionFile": "olympiads/math/oblast/2024/10/math10-1-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:22.742Z",
+ "quality": {
+  "tasks": 3,
+  "parts": 3,
+  "withPoints": 3,
+  "withReference": 2,
+  "withQuestion": 3,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Докажите, что существует бесконечно много целых чисел, не представимых в\nвиде x2 + y 2 + z 2 + xyz, где x, y, z — целые числа.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "2. Натуральные числа x, y, t таковы, что x2 + 257 = y t и 2 ≤ t ≤ 48. Докажите,\nчто число t — простое.\n\nРешение.√Предположим, что t — составное и p наименьший простой делитель t.\n\nТогда p ≤ t, откуда p < 7. Обозначим k = t/p > 1 и y k = z."
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Жибек загадывает два различных действительных числа a и b, а Ержан пы-\nтается их найти. За один ход Ержан придумывает многочлен P (x) степени 2024\nс действительными коэффициентами, после чего Жибек сообщает ему значение\nP (a) − P (b). Докажите, что за три хода Ержан сможет гарантированно найти\nчисла a и b.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "В треугольнике ABC проведены биссектрисы AL, BM, CN и высоты\nAD, BE, CF . Докажите, что если площадь треугольника DEF больше площади\nтреугольника LM N , то треугольник ABC тупоугольный.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "3.   В треугольнике ABC проведены биссектрисы AL, BM, CN и высоты\n\nAD, BE, CF . Докажите, что если площадь треугольника DEF больше площади\nтреугольника LM N , то треугольник ABC тупоугольный.\nРешение. Через SXY Z обозначим площадь △XY Z. От противного. Если △ABC\nпрямоугольный, то SDEF = 0, что неверно. Значит △ABC остроугольный. Обо-\nзначим AB = c, AC = b, BC = a, ∠A = α, ∠B = β, ∠C = γ. По теореме синусов\na = 2R sin α, b = 2R sin β и c = 2R sin γ, где R — радиус описанной окружности\n△ABC. Можно считать, что SABC = 1.\n\n  Будем использовать следующие известные формулы:\n                                                                          x+y     x−y\n   sin 2x = 2 sin x cos x, cos 2x = 2 cos2 x − 1, sin x + sin y = 2 sin       cos     ,\n                                                                           2       2\n                                    x+y      x−y\n              cos x + cos y = 2 cos      cos       , cos x = sin (90◦ − x),\n                                     2         2\n                                                     x+y       y+z        z+x\n    cos x + cos y + cos z = − cos(x + y + z) + 4 cos       cos        cos     . (∗)\n                                                       2          2         2\n  Из (*) следует, что cos α + cos β + cos γ = 1 + 4 cos α + β  α+γ   γ+β\n                                                          2 cos 2 cos 2  =\n                β     γ\n1 + 4 sin α\n          2 sin 2 sin 2 . Аналогично cos 2α + cos 2β + cos 2γ = −1 − 4 cos α cos β cos γ.\n  Заметим, что\n                                  SAEF      AE AF\n                           SAEF =        =      ·     = cos2 α.\n                                  SABC      AB AC\nАналогично найдем SBDF и SCDE . Тогда\n                                                  −1 − cos 2α − cos 2β − cos 2γ\n       SDEF = 1 − cos2 α − cos2 β − cos2 γ =                                    =\n                                                               2\n                                = 2 cos α cos β cos γ. (1)\nАналогично\n                             AM AN            bc\n                         SAM N =·    =                 .\n                             AC AB      (a + b)(a + c)\nАналогично найдем SBLN и SCM L . Тогда используя sin α + sin β                            =\n             α−β             α−β\n2 sin α + β             γ\n        2 cos 2 = 2 cos 2 cos 2   получим\n                    bc             ac             ab                 2abc\nSLM N = 1 −                 −              −               =                       =\n              (a + b)(a + c) (a + b)(b + c) (a + c)(b + c)   (a + b)(b + c)(c + a)\n                                                                       β     γ\n                   2 sin α sin β sin γ                     2 sin α\n                                                                 2 sin 2 sin 2\n                                                   =                               ≥\n     (sin α + sin β)(sin α + sin γ)(sin β + sin γ)   cos α − β cos α − γ cos γ − β\n                                                            2             2      2\n                                      α   β   γ\n                               ≥ 2 sin sin sin . (2)\n                                      2   2   2\n  По неравенству Коши\n              p               cos α + cos β       α+β     α−β\n                cos α cos β ≤               = cos     cos     ≤\n                                    2               2      2\n                                      α+β         γ\n                               ≤ cos        = sin .\n                                       2          2\n  Аналогично получив другие неравенства и перемножив их получим, что\n                                         α     β    γ\n                       cos α cos β cos γ ≤ sin\n                                           sin sin . (3)\n                                         2     2    2\n  Из (1), (2) и (3) получим, что SDEF ≤ SLM N , противоречие."
+    }
+   ]
+  }
+ ]
+}

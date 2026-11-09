@@ -1,0 +1,127 @@
+{
+ "setId": "phys-cpo-2005--phys-tasks",
+ "olympiadId": "phys-cpo-2005",
+ "title": "Физика → CPhO (Китай) → 2005",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/physics/s/cpo/2005/phys-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T18:46:23.945Z",
+ "quality": {
+  "tasks": 7,
+  "parts": 7,
+  "withPoints": 7,
+  "withReference": 0,
+  "withQuestion": 7,
+  "estimatedPoints": 7
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "As shown in the figure, a thin beam of light falls from the air\n   onto the upper face of a transparent plane-parallel plate at an\n   angle i, passes through it and exits into the air from below the\n   plate after refraction. The beam consists of two monochromatic\n   waves 1 and 2 of different frequencies. The refractive index of\n   the plate at these frequencies is n1 and n2 , respectively, and it is\n   known that n1 > n2 .\n\n    (a) Analyze in general terms which of the two frequencies of\n        light will pass through the plate faster in various possible\n        cases.\n    (b)    i. Analyze which of the two frequencies of light will pass\n              through the plate faster in different possible cases, for\n              the values n1 = 1.55, n2 = 1.52.\n          ii. Analyze which of the two frequencies of light will pass\n              through the plate faster in different possible cases, for\n              the values n1 = 1.40, n2 = 1.38.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "As shown in the figure, the left end of a light horizontal spring\n   with a stiffness of k = 40.0 N/m is attached to the wall, and the\n   right end is attached to a small bar A of mass M = 3.00 kg. A\n   thin weightless thread is tied to the right side of A and thrown\n\n                                 1\n\n   over a light and smooth fixed block. A hook is attached to the\n   other end of the thread. Bar A is located on a sufficiently long\n   horizontal surface, and the coefficient of static friction between it\n   and the bar is µ0 = 0.200, and the coefficient of sliding friction is\n   µ = 0.180. At the initial moment of time, the bar and the block\n   are at rest, and the spring is not stretched. A load B of mass m\n   = 2.00 kg is hung on the hook and then released. Find the work\n   to overcome the friction force Wµ and the time t spent on the\n   entire process of overcoming. Consider the free fall acceleration\n   equal to g = 10 m/s2 .",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "As shown in the figure, A and B are two vertical cylinders with\n   the same internal diameter. They are placed in an atmosphere\n   whose pressure is p0 . In cylinders under pistons with mass m\n   there is the same ideal gas in the amount of n mol. The cross-\n   sectional area of the cylinders is equal to S. The piston in cylin-\n   der B is connected to a weightless vertical spring of stiffness k,\n   the upper end of which is fixed. Initially, the gas temperature in\n   the cylinders is equal to T1 , the pistons are in equilibrium and\n   the spring is not stretched. Now, the gas in both cylinders is\n   cooled to the same temperature, and the volume of gas in cylin-\n   der B changes by a factor of α. Find the difference between the\n   amounts of heat QA and QB removed from the gas in cylinders\n   A and B, respectively.\n\n                                 2",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "A buffer is a shock-absorbing device used to reduce the effects\n   of a collision between vehicles. The figure shows a simplified\n   diagram of a widely used friction buffer. N is a spring box.\n   C and D are two identical wedges with a trapezoidal section,\n   located symmetrically above and below. Their left and right\n   ends touch the P and Q plates, respectively. The angle between\n   the inclined plane of the wedge and the horizontal is α. A is a\n   k1 spring attached to C and D. B is a k2 spring attached to Q\n   and the inner wall of the buffer. Sliding with friction coefficient\n   µ is possible along each of the contact surfaces. An important\n   characteristic of the buffer is the degree of absorption η. When\n   it is measured, the buffer is fixed and the plate P is hit with a\n   force F . Under the action of this force, the spring is compressed,\n   and the work done by the force until the moment of the greatest\n   compression of the spring is W , and when the spring moves back\n   to the state of the least compression, the buffer does the work\n   W ′ . The degree of absorption in this case is determined by the\n   formula:\n                                   W − W′\n                              η=\n                                      W\n   Consider the following buffer parameters known to us: stiffness k1\n   = 1.2 x 107 N/m, stiffness k2 = 1.5 x 106 N/m, friction coefficient\n\n                                3\n\n  µ = 0.25, angle α = 22°. In the initial state, both springs are\n  slightly compressed, and the compression A is x10 = 1.0 x 10−3\n  m, and the compression B is x20 = 4.0 x 10−2 m. Upon impact,\n  the spring B will be compressed by a maximum of ∆xm = 6.3 x\n  10−2 m.\n  The mass of the spring, wedges and plates can be neglected. Find\n  the absorption rate of the buffer η.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "For some atomic nucleus, its mass in the ground state m0 and the\n   difference between the energies of the ground and excited states\n   ∆E are known. Planck’s constant h and the speed of light in\n   vacuum c are also known.\n\n   (a) The excited nucleus is free and is at rest. At some point in\n       time, it goes into the ground state, emitting a photon. Find\n       the wavelength λ0 of the emitted photon.\n   (b) As a result of thermal motion, excited atoms are often not\n       at rest, but move at all possible speeds in all possible direc-\n       tions. In this problem, consider that the atoms move only\n       along one straight line. The maximum speed of atoms is u.\n       Let us denote by ∆λ the difference between the largest and\n       smallest wavelengths emitted by these atoms.Find the ratio\n       ∆λ\n        λ0 .\n\n                                4",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "The figure shows a fixed cylindrical shaft OO′ with radius a1 and\n   negligible resistance. A homogeneous conducting disk with inner\n   and outer radii a1 and a2 , respectively, and thickness h(h << a1 )\n   is put on the shaft OO′ , can freely rotate around it, and has good\n   electrical contact with it. The resistivity of the disk at a distance\n   r from its center is proportional to this distance, i.e. ρ = ρ0 r,\n   where ρ0 is some constant. The system is in a magnetic field of\n   induction B, perpendicular to the surface of the disk. The figure\n   also shows a constant current source S, which provides a current\n   of magnitude I, regardless of the load on it. In parallel with the\n   load, the current source is connected to a resistor with resistance\n   R0 . One end of the source is connected to the center of the end\n   surface of the shaft X, and the other end is connected to the ring\n   brush Y . The ring brush surrounds the disc and maintains good\n   electrical contact with it without interfering with its rotation.\n   This system can be used as a motor. When there is no load on\n   it, then the angular velocity of the steady rotation of the disk is\n   ω0 . When there is some load on the motor, the angular velocity\n   is ω. Ignore friction.\n\n                                 5\n\n   (a) Find the ratio ω/ω0 at which the motor produces the max-\n       imum mechanical power P .\n   (b) What thermal power Pd is released in this case on the disk?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Задача 7",
+   "statement": "The figure shows two uniformly charged thin rings with radius\n   R and charge Q (Q > 0). Their centers lie on the Oz axis, their\n   planes are perpendicular to it. The centers of the rings O1 and\n   O2 are at the same distance D from the center of coordinates O\n   lying between them. When solving the problem, gravity can be\n   neglected. A charged particle of mass m and charge q(q > 0)\n   moves along the positive direction of the Oz axis from z = −∞.\n   It is known that its speed is enough to pass through the rings.\n\n   (a) Plot a characteristic plot of the kinetic energy Ek of the\n       particle as a function of the z coordinate. Find for which D\n       different qualitative variants of the graph are realized.\n   (b) Describe the possible options for the motion of a particle\n       released with a certain speed along the Oz axis from the\n       point z = 0.\n\n                               6",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

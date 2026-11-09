@@ -1,0 +1,37 @@
+{
+ "setId": "astro-iao-2017--astro-2-tasks",
+ "olympiadId": "astro-iao-2017",
+ "title": "Астрономия → IAO (международная) → 2017",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/iao/2017/astro-2-tasks.pdf",
+ "solutionFile": "olympiads/astronomy/s/iao/2017/astro-2-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T17:54:34.919Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 1,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "АСТРОНОМИЧЕСКОЕ          РЗ                EURO-ASIAN                 Round | Ob",
+   "weight": null,
+   "total": 31,
+   "statement": "ОБЩЕСТВО          =     ASTRONOMICAL SOCIETY                    –\nа Group |9 [В\n20220007, ХХН Международная астрономическая олимпиада\n5       ХХН International Astronomy Olympiad                  _\nМ                                                                    язык             =\n\nм      Китай, Войхай    27.Х. = 04.X1, 2047    Weihai, China        language   English\n\nCode of participant      код участника\n\n,             Observational round. Questions\nClear sky\n\nYou are provided with a headlight (with white & red lights).\n\n7. The Moon. Determine (for the time of 1 minute after the beginning of your work at the round)\nand write down in the right boxes:\n\n7.1. Astronomical azimuth of the Moon (assume the 0° azimuth\ncorresponds to South direction, and the counting is clockwise).\n7.2. The height of the Moon above the horizon.\n7.3. Constellation(s) in which the Moon is located\nр                (write the standard three-letter designation).\n-        7.4. Тһе angular distance between the Moon and a Cas (Shedir).\n9. a Peg (Markab). You are provided with a small       $        |        ғ\ntelescope (80EQ). (Focal length of the telescope:        “       “\nF=900mm; focal length of the eyepiece:             №       ҒА\nf = 20 mm, and apparent field of view: aFoV = 40°).                  и\nTarget and center the telescope оп a bright star              “  КА\nMarkab (a Peg), which magnitude is 2.5\". Then    Дм\nobserve for the second bright star, HIP 114031, м                  a Peg,\nthe field of view (ҒоМ).                                                     ОС\n9.1. Right is the FoV of the telescope. Plot the position             е       |       “\n\nof НР 114031 relative to о Ред, and mark the          “          “\n\ndirections by Latin letters М, $, Е, W (North, South,         4            р             >\n\nEast and West respectively).\n9.2. Estimate the angular distance between these two stars.                                                    |\n9.3. Estimate the magnitude of HIP114031.\n\nThe maximum total time for all tasks is 15 minutes.\nКитай, Вэйхай   0 7 Ма, ба о",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 31,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "7. The Moon. (points: 10(3/2/2/3))\nGroup-1, time: 19:53 1; 41.4 ; Agqr/Aqu; 71\nGroup-2, time: 20:16 8; 41.1 ;\nGroup-3, time: 20:40 16; 40.1 ;\nGroup-4, time: 21:04 23; 385 ;\nGroup-5, time: 21:29 30; 36.5\nGroup-6, time: 21:54 37; 34\nGroup-7, time: 22:21 44; 30.5\nGroup-8, time: 22:44 49; 27.3\n(az: +-2: 3 points, +-5: 2points, +-8: 1 point ;\nh: +-5: 2 points, +-10: 1 point; Agr: 2points;\nSEP: +-5: 3 points, +-10: 2 points, +-15: 1 point)\n9. (points: 10(5/3/2))\n91              Е\nPlot the correct distance (3 points), correct direction\n(2 points)\n9.2, 0.3333” (20’) (+- 2’: 3 points, +-5’: 2 points, +- 8’:\n1 point)\n9.3, 6.8 (+-1: 2 points, +-2: 1 point)",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "setId": "astro-ioaa-2009--astro-1-tasks",
+ "olympiadId": "astro-ioaa-2009",
+ "title": "Астрономия → IOAA (международная) → 2009",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/ioaa/2009/astro-1-tasks.pdf",
+ "solutionFile": "olympiads/astronomy/s/ioaa/2009/astro-1-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T18:05:28.719Z",
+ "quality": {
+  "tasks": 2,
+  "parts": 2,
+  "withPoints": 2,
+  "withReference": 0,
+  "withQuestion": 2,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "CCD Image Processing",
+   "weight": null,
+   "total": 60,
+   "statement": "As an exercise of image processing, this problem involves use of a simple calculator\nand tabular data (table 1.1) which contains the pixel values of an image during the given\nexposure time. This image, which is a part of a larger CCD image, was taken by a small\nCCD camera, installed on an amateur telescope and using a V band filter. Figure 1.1\nshows this          pixels image that contains 5 stars.\n\n                                 (1)\n                                                         (2)\n                                            (3)\n\n                                                               (5)\n\n                                                  (4)\n\n                                          Figure 1.1\nIn table 1.1 the first row and column indicates the pixels’ x and y coordinates. Table 1.2\ngives the telescope and the image specifications.\n                                          Table 1.2\n                              Telescope focal\n                                   length\n                            CCD pixel size\n\n                             Exposure time\n                           Telescope zenith\n                                  angle\n                           Average extinction\n                          coefficient in band          mag/airmass\n\nThe observer identified stars 1, 3 and 4 by comparing this image with standard star\ncatalogues. Table 1.3 shows stars true magnitudes (        ) as given in the catalogue.\n\n                                           Table 1.3\n                                    Star\n\na. Using the available data, determine the instrumental magnitudes of the stars in\n   the image. Assume the dark current is negligible and the image is flat fielded. For\n   simplicity you can use a square aperture.\n   Hint: The instrumental magnitude is calculated using the difference between the\n   measured flux from the star in the aperture and the flux from an equivalent area\n   of dark sky.\nb. The instrumental magnitude of a star in a CCD image is related to true\n   magnitude as\n\n   where is extinction, is airmass,            and     are respectively instrumental and\n   true magnitude of star and             is zero point constant. Calculate the zero point\n   constant         ) for identified stars. Calculate average zero point constant\n          ).\n   Hint: Zero point constant is the constant reducing extinction-free magnitudes to\n   the true magnitude.\nc. Calculate true magnitudes of stars 2 and 5.\nd. Calculate CCD pixel scale for the CCD camera in units of arcsec.\ne. Calculate average brightness of dark sky in magnitude per square arcsec (           ).\nf. Use a suitable plot to estimate astronomical seeing in arcsec.",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 60,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Venus",
+   "weight": null,
+   "total": 10,
+   "statement": "An observer in Deh-Namak (you will be taking the observational part of the exam in this\nregion tonight) has observed Venus for seven months, started from September 2008 and\ncontinued until March 2009. During the observation, a research CCD camera and an image\nprocessing software were used to take high resolution images and to extract high precision\ndata. Table 2.1 shows the collected data during the observation.\n\nTable 2.1 description:\nColumn 1        Date of observation.\nColumn 2        Earth-Sun distance in astronomical unit (AU) for observation date and\n                time. This value is taken from high precision tables.\nColumn 3        Phase of Venus, Percent of Venus disk illuminated by the Sun as\n                observed from the Earth.\nColumn 4        Elongation of Venus, the angular distance between center of the Sun and\n                center of Venus in degrees as observed from the Earth.\n\n   a) Using given data in table 2.1, calculate the Sun-Venus-Earth angle            . This is\n      angular separation between the Sun and the Earth as seen from Venus. Write\n      angle in column 2 of Table 2.2 in your answer sheet for the all observing dates.\n      Hint: Remember that the line between light and shadow, in the phases, is an ellipse\n      arc.\n   b) Calculate Sun – Venus distance in AU and write it down in column 3 of table 2.2 for\n      all observation dates.\n   c) Plot Sun – Venus distance versus observing date.\n   d) Find perihelion        and aphelion          distances of Venus from the Sun.\n   e) Calculate semi-major axis     of the Venus orbit.\n   f) Calculate eccentricity    of Venus orbit.\n\n                  Table 2.1\n\nColumn 1      Column 2     Column 3   Column 4\n             Earth - Sun              Elongation\n                            Phase\n  Date        Distance                   (SEV)\n                             (%)\n                (AU)                       ( ͦ)\n 20/9/2008     1.0043        88.4        27.56\n10/10/2008     0.9986        84.0        32.29\n20/10/2008     0.9957        81.6        34.53\n30/10/2008     0.9931        79.0        36.69\n 9/11/2008     0.9905        76.3        38.71\n19/11/2008     0.9883        73.4        40.62\n29/11/2008     0.9864        70.2        42.38\n19/12/2008     0.9839        63.1        45.29\n29/12/2008     0.9834        59.0        46.32\n 18/1/2009     0.9838        49.5        47.09\n 7/2/2009      0.9863        37.2        44.79\n 17/2/2009     0.9881        29.6        41.59\n 27/2/2009     0.9904        20.9        36.16\n 19/3/2009     0.9956         3.8        16.08",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

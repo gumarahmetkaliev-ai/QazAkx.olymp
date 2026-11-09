@@ -16,7 +16,7 @@ let knownUrls = null;
 function getKnownUrl(pageUrl, title) {
   if (knownUrls === null) {
     knownUrls = {};
-    for (const subject of ["chemistry", "biology"]) {
+    for (const subject of ["chemistry", "biology", "physics", "math", "informatics", "astronomy", "geography"]) {
       try {
         const file = path.join(__dirname, "..", "data", `${subject}-sources.json`);
         if (fs.existsSync(file)) Object.assign(knownUrls, JSON.parse(fs.readFileSync(file, "utf8")).urls || {});

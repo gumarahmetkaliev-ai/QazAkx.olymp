@@ -1,0 +1,37 @@
+{
+ "setId": "geo-igeo-1996--geo-1-tasks",
+ "olympiadId": "geo-igeo-1996",
+ "title": "География → iGeo (международная) → 1996",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/igeo/1996/geo-1-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T18:11:57.436Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "1996 iGeo – The Hague, The Netherlands\nWritten Test\nInstructions for the contestant\n\nThis test consists of 6 themes. Each theme contains a number of questions. The number of marks you can gain\nfor a correct answer is given for each question. The maximum number of marks is 100. Do not give more\nanswers (reasons, examples, etcetera) than is requested. For example, if two reasons are asked and you give\nmore than two reasons, only the first two are taken into account. Any question that calls for an explanation or a\ncommentary will only gain marks if the answer contains such explanation or comment. Write all the answers with\nthe corresponding numbers on your answering sheet. Use a new answering sheet for each theme. You have\nthree hours to complete this test.\n\nGood luck!\n\nTheme C: The water cycle\n\nLocation: Lake Aral\n\nStudy the maps of the subsiding lake Aral in source C.2. and the graphs in source C.1.\n\n17. Because of what human activity has lake Aral subsided? (2 marks)\n\n18. Mention two causes of the rising salt content of lake Aral. (2 marks)\n\n19. About 20 of the 24 species of fish in lake Aral have disappeared. Fishing, which amounted to 44,000 tons in\nthe fifties and which provided about 60,000 jobs, has gone down to zero. Make a connection between these facts\nand the subsidence of lake Aral. (2 marks)\n\n20. The climate round lake Aral has changed. Summers have yielded higher temperatures, winters have become\ncolder. Because frost appears earlier and remains longer, the growth season has become shorter. Find a\nconnection between the changes in the climate and the subsidence of lake Aral. (3 marks)",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

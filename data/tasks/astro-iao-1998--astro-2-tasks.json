@@ -1,0 +1,37 @@
+{
+ "setId": "astro-iao-1998--astro-2-tasks",
+ "olympiadId": "astro-iao-1998",
+ "title": "Астрономия → IAO (международная) → 1998",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/iao/1998/astro-2-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T18:25:31.086Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Observational round\n                               Both age groups (A and B).\n\n                                               Text of these problems is available also\n                                        in Bulgarian, Danish, Portuguese and Russian.\n\n9. The Sun in optical and radio range.\n\nWith the help of a \"school telescope\" examine and draw the detailes visible on the\ndisk of the Sun. Orientate the Sun according to the cardinal points.\n\nIdentify the details of your picture with the details of one-dimentional radio-\nsections of the Sun fulfilled in previous days with RATAN-600.\n\nRadio observations were carried out at noon, the knife beam was directed\nvertically and covered all disk of the Sun.\n\n10. \"The Star-Splitter\".\n\n               ...That telescope was christened the Star-Splitter,\n               Because it didn't do a thing but split\n               A star in two or three, the way you split\n               A globule of quicksilver in your hand\n               With one stroke of your finger in the middle...\n                            Robert Frost \"The Star-Splitter\"\n\nWith the help of a \"school telescope\" find in the sky and divide several (not more\nthan 5) binaries into components.\nPay attention to the brightness and colours of the components.\nExplain the observed relation between the brightness and colors of the components\n(fill the table below).\n\n                   Colour of        Colour of           Explanation of the observed\n      Object\n                  main comp.       companion                facts (colour, etc.)\n1\n2\n3\n4\n5",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

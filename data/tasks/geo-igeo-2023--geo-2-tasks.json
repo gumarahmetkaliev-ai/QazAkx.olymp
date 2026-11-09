@@ -1,0 +1,112 @@
+{
+ "setId": "geo-igeo-2023--geo-2-tasks",
+ "olympiadId": "geo-igeo-2023",
+ "title": "География → iGeo (международная) → 2023",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/igeo/2023/geo-2-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T18:10:01.429Z",
+ "quality": {
+  "tasks": 6,
+  "parts": 6,
+  "withPoints": 6,
+  "withReference": 0,
+  "withQuestion": 6,
+  "estimatedPoints": 6
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Bukit Pakar is considered as a high risk area for mass movement. On your way, identify any\n    signs of mass movement along your route on Map 1A.\n   NO          SIGNS OF MASS MOVEMENT                                   NOTES\n\n    1\n\n    2\n\n    3\n\n                                                 1\n\n  NO         SIGNS OF MASS MOVEMENT                                     NOTES\n\n   4\n\n   5",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "On your way, identify and map all of the existing land use in Map 1B, located within the zone,\n   demarcated on Map 1A within the WHITE LINE, and classify them into 8 categories:\n    ● Residentials,\n    ● Residential - Commercial Mixed Use,\n    ● Commercial – Café & Resto,\n    ● Commercial – Cultural Space,\n    ● Agriculture – Plantation,\n    ● Agriculture – Crops,\n    ● Forest, and\n    ● Others.\n\n   Write down all the land use, including strategic features (cafés, restaurants, museums, galleries,\n   etc.), that you had identified already in Table 1A on the response sheet, and draw and label all\n   features on Map 1B using only pens (blue, black, or other colors, if needed), and provide the\n   following data for them:\n    •   Name (for strategic features only – cafés, restaurants, museums, galleries, etc.).\n    •   Land-use category – 8 classes.\n    •   Report the condition (quality; see example below).\n        Building condition (quality) assessment – 4 classes maximum:\n        1. A – ruined, need to be rebuilt;\n        2. B – very poor, need to be repaired entirely;\n        3. C – average, serious restoration needed;\n        4. D – good, no minor repairs are needed\n   •    Parking area capacity (for strategic features only – cafés, restaurants, museums, galleries,\n        etc.) – mention the ability for cars and motorcycles.\n\n                                                 2\n\n            Table 1A Response Sheet\n                                               PARKING AREA\nNO   NAME   LAND-USE CATEGORY     CONDITIONS\n                                                 CAPACITY\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n\n                       3\n\n                                             PARKING AREA\nNO   NAME   LAND-USE CATEGORY   CONDITIONS\n                                               CAPACITY\n\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n43\n44\n\n45\n\n                     4",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Assess the road quality in the area by analyzing the 4 roads shown on map 1C and describe\n    their condition in the table below.\n    Factors           Road A              Road B             Road C             Road D\nBuilt Material\n\nRoad Condition\n\nLargest vehicles\nthat can access\n(Pedestrian;\nmotorcycle/bicycle;\ncars; buses; and/or\ntrucks)\n\nNo of lanes\n\nObstacles that\nmight impede\ntraffic\n\n                                           Map 1C\n\n                                             5\n\n                                                                STUDENT NUMBER: 19 _ _ _ _\nSPOT 1\n\nObservations (14 marks)\n\nTIME LIMIT: 40 MINUTES.\n\nTask Guideline\nYou are currently at SPOT 1 (see Map 1.1 on a separate sheet), the part of it you’re looking at is\nbuilt on the gentle slopes of Northern Bandung.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "Point out 4 factors that you think would be the most dominant in affecting the runoff\n    coefficient in Bukit Pakar and explain your reasoning [4 marks]",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "Runoff water from upstream areas can be a blessing or a curse for communities further\n   downstream. Point out and explain one positive and one negative impact of Bukit Pakar’s\n   runoff water for downstream communities in Bandung [2 marks]\n   Positive impact:\n   ………………………………………………………………………………………………………………………………………\n   ………………………………………………………………………………………………………………………………………\n   ………………………………………………………………………………………………………………………………………\n   Negative impact:\n   ………………………………………………………………………………………………………………………………………\n   ………………………………………………………………………………………………………………………………………\n   ………………………………………………………………………………………………………………………………………",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "Explain vegetative and structural methods that you think would be most appropriate for\n   reducing the runoff water in Bukit Pakar based on your observations [4 marks]\n             Method                                      Explanation\n\n   End of Question at Spot 1\n\n                                              3 2\n\n                                                                 STUDENT NUMBER: 19 _ _ _ _\nSPOT 2\n\nObservations (14 marks)\n\nTIME LIMIT: 40 MINUTES\n\nTask Guideline\nYou are now at the SPOT 2 Station (see Map 1A on a separate sheet).",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,246 @@
+{
+ "setId": "phys-ipho-2017--phys-2-tasks",
+ "olympiadId": "phys-ipho-2017",
+ "title": "Физика → IPhO (международная) → 2017",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/physics/s/IPhO/2017/phys-2-tasks.pdf",
+ "solutionFile": "olympiads/physics/s/IPhO/2017/phys-2-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T18:42:05.243Z",
+ "quality": {
+  "tasks": 15,
+  "parts": 15,
+  "withPoints": 15,
+  "withReference": 2,
+  "withQuestion": 15,
+  "estimatedPoints": 15
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "page 1 of 8\n\nExperiment\nEnglish (Official)\n                                       E1",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "C1.                 4.2    10                    till\n                             15.8   10\n\n            Without or wrong unit\n\n            Out of range\n\n        Experimental\n        Question          1\n\n        page 18 of 19\n\n10‐5 cm2/s             0.5 pts‐\n                       ‐0.5 pts\n\n                       Marks\n                  Plot D vs.\n                  C0\n\n                  0.8 pts\n\n                  ‐0\n                  ‐0.4 pts\n\n                  0.5 pts\n\n                  ‐0.01 pts\n\n                  ‐0.5 pts\n\n                                Experimental\nE1. Marking Scheme & Solution   Question        1\nStudent Code\n                                page 19 of 19\n\n                            E2. Marking Scheme & Solution\n                           Student Code\n\n                     Parallel Dipole Line Magnetic Trap for\n                   Earthquake & Volcanic Sensing (10 points)\n\n       A. BASIC CHARACTERISTICS OF PDL TRAP\n         1. Determination of the magnet's magnetization (M) (2.5 pts)\nQuest                               Answer\n ion\n A.1    Record zero offset (B0) of the Teslameter without any magnet 0"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Задача 7",
+   "statement": "",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Задача 8",
+   "statement": "page 2 of 8\n\nExperiment\nEnglish (Official)\n                                   E1",
+   "total": 7,
+   "parts": [
+    {
+     "id": "8",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "0.1         Measure the levitation height y0 of the rod (see Fig. 7a). Hin\n pts         Use the insert ruler provided as shown in Fig. 7b. Press the\n             ruler on the magnets to read the position of the graphite rod\n\n             We levitate graphite HB/0.5, l = 8mm. Using the insert-ruler,\n             we measure approximately y = 1 mm from the top of the\n\n             magnet surface. Thus: y0 = R - y = (3.2 - 1) mm = 2.2 mm\n\n   Experimental\n   Question              1\n\n   page 2 of 7\n\n     Obtaining p from graph:"
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Задача 9",
+   "statement": "",
+   "total": 7,
+   "parts": [
+    {
+     "id": "9",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Задача 10",
+   "statement": "",
+   "total": 7,
+   "parts": [
+    {
+     "id": "10",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Задача 11",
+   "statement": "",
+   "total": 7,
+   "parts": [
+    {
+     "id": "11",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Задача 12",
+   "statement": "",
+   "total": 7,
+   "parts": [
+    {
+     "id": "12",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Задача 13",
+   "statement": "page 3 of 8\n\nExperiment\nEnglish (Official)\n                                   E1\n\n                     page 4 of 8\n\nExperiment\nEnglish (Official)\n\n          δ\n\n      Z0 Z      d\n\n                     d\n\n                                    E1\n\n              ξ                 Y\n                       dn/dY\n\n          ξZ\nYi = Z 0 +d+Z\n          i 0\n\n         Z0\n\n  ( dY )i = Zd\n    dn            δi\n\n                  page 5 of 8\n\nExperiment\nEnglish (Official)\n\n                          Z Z0\n\n        C0\n\n                 Z d Z 0 ξi        δi    i\n\n                                        t\n        δi                              Z d\n\n                        ( dY ) i\n                          dn\n                 Yi\n\n                                                E1\n\n                  Z Z0\n\n                         C0                C0\n\n              t\n\n                              Z d Z0 ξ i\n    Z0\n\npage 6 of 8\n\nExperiment\nEnglish (Official)\n                                                                                E1\n\n                     t                       Z d             Z0\n                                                      ( dY ) i\n                                                        dn\n                                                                  Yi   t\n\n        Determine the Yi at ( dY )i maximum obtained from question A3. Assign\n                              dn\n\n        this Yi as h .\n\n                                        page 7 of 8\n\nExperiment\nEnglish (Official)\n\n      C C0 D t h\n                                  Yi\n   (dn/dC)\n                       (dn/dY)i\n\n                  f ( dY\n                      dn\n                         )   g (Y)\n\n              t\n\n         dn\n         dY\n\n                                                            E1\n\n ( dY )i = ( dC ) ( dY )i\n   dn          dn        dC\n\n                         (h− Yi ) 2\n\n( dY )i ≈ 2√ πDt e\n  dC        Co     −        4Dt\n\n                                                  (dn/dY)\n\n  Yi\n\n                    f ( dY\n                        dn\n                           )              g (Y)\n\n          D\n\n                                      D               C\n\n              page 8 of 8\n\nExperiment\nEnglish (Official)\n                                    E2\n\n                     page 1 of 11\n\nExperiment\nEnglish (Official)\n                                            E2\n\n                         x\n          y                                  y0\n                         z\n\n                     z\n\n                             page 2 of 11\n\nExperiment\nEnglish (Official)\n                                                 E2\n\n                               M\n\n                                χ\n\n                                             χ\n\n                     Q                  μA\n\n                         page 3 of 11\n\nExperiment\nEnglish (Official)\n                                    E2",
+   "total": 7,
+   "parts": [
+    {
+     "id": "13",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "0.9 - 1.4 : 0.3 pts"
+    }
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Задача 14",
+   "statement": "",
+   "total": 7,
+   "parts": [
+    {
+     "id": "14",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Задача 15",
+   "statement": "",
+   "total": 7,
+   "parts": [
+    {
+     "id": "15",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

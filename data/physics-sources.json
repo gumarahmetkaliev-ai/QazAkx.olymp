@@ -1,0 +1,2807 @@
+{
+ "updatedAt": "2026-11-09T17:40:07.243Z",
+ "pages": {
+  "https://olympiads.bc-pf.org/physics/s/EuPhO/2024": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/EuPhO/2023": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/EuPhO/2022": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/EuPhO/2020": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/EuPhO/2021": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/EuPhO/2019": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/EuPhO/2017": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/EuPhO/2018": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/APhO/2023": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/APhO/2019": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/APhO/2021": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/APhO/2018": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/APhO/2017": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/APhO/2022": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/APhO/2016": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/APhO/2015": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/APhO/2013": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/APhO/2011": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/APhO/2012": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/APhO/2014": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/APhO/2010": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2024": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2023": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2022": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2021": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2019": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2018": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2017": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2016": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2014": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2013": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2012": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2020": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2011": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2015": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2010": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/NBPhO/2023": [
+   "phys-tasks.pdf",
+   "phys-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/NBPhO/2024": [
+   "phys-tasks.pdf",
+   "phys-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/NBPhO/2021": [
+   "phys-tasks.pdf",
+   "phys-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/NBPhO/2022": [
+   "phys-tasks.pdf",
+   "phys-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/NBPhO/2020": [
+   "phys-tasks.pdf",
+   "phys-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/NBPhO/2019": [
+   "phys-tasks.pdf",
+   "phys-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/2023": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/2024": [
+   "phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf",
+   "phys9-2-tasks.pdf",
+   "phys9-2-sol.pdf",
+   "phys10-1-tasks.pdf",
+   "phys10-1-sol.pdf",
+   "phys10-2-tasks.pdf",
+   "phys10-2-sol.pdf",
+   "phys11-1-tasks.pdf",
+   "phys11-1-sol.pdf",
+   "phys11-2-tasks.pdf",
+   "phys11-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/2021": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/2022": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/2020": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/2019": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/2018": [
+   "phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf",
+   "phys9-2-tasks.pdf",
+   "phys9-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/2017": [
+   "phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf",
+   "phys9-2-tasks.pdf",
+   "phys9-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/2016": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/2014": [
+   "phys9-1-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/2013": [
+   "phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf",
+   "phys9-2-tasks.pdf",
+   "phys9-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/2015": [
+   "phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf",
+   "phys9-2-tasks.pdf",
+   "phys9-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/2012": [
+   "phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf",
+   "phys9-2-tasks.pdf",
+   "phys9-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/2011": [
+   "2011_problems.pdf",
+   "2011_solutions.pdf",
+   "2011_experimental_problems.pdf",
+   "2011_experimental_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/2009": [
+   "2009_problems.pdf",
+   "2009_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/2010": [
+   "2010_problems.pdf",
+   "2010_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/2008": [
+   "2008_problems.pdf",
+   "2008_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/2006": [
+   "2006_problems.pdf",
+   "2006_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/2007": [
+   "2007_problems.pdf",
+   "2007_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/2005": [
+   "2005_problems.pdf",
+   "2005_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/2004": [
+   "2004_problems.pdf",
+   "2004_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/2002": [
+   "2002_problems.pdf",
+   "2002_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/2001": [
+   "2001_problems.pdf",
+   "2001_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/2003": [
+   "2003_problems.pdf",
+   "2003_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/2000": [
+   "2000_problems.pdf",
+   "2000_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/1999": [
+   "1999_problems.pdf",
+   "1999_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/1998": [
+   "1998_problems.pdf",
+   "1998_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/1996": [
+   "1996_problems.pdf",
+   "1996_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/1997": [
+   "1997_problems.pdf",
+   "1997_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/1995": [
+   "1995_problems.pdf",
+   "1995_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/1994": [
+   "1994_problems.pdf",
+   "1994_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/1993": [
+   "1993_problems.pdf",
+   "1993_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/1991": [
+   "1991_problems.pdf",
+   "1991_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/1990": [
+   "1990_problems.pdf",
+   "1990_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2024": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2023": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2022": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2021": [
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belpho/1992": [
+   "1992_problems.pdf",
+   "1992_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2020": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2019": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2018": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2017": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2016": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2015": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2014": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2013": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2011": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2012": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2022": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2021": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2020": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2010": [
+   "phys-1-tasks.pdf",
+   "phys-2-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2017": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2019": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2024": [
+   "phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf",
+   "phys9-2-tasks.pdf",
+   "phys9-2-sol.pdf",
+   "phys10-1-tasks.pdf",
+   "phys10-1-sol.pdf",
+   "phys10-2-tasks.pdf",
+   "phys10-2-sol.pdf",
+   "phys11-1-tasks.pdf",
+   "phys11-1-sol.pdf",
+   "phys11-2-tasks.pdf",
+   "phys11-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2018": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2016": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2015": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2013": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2012": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2014": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2011": [
+   "2011_problems.pdf",
+   "2011_solutions.pdf",
+   "2011_experimental_problems.pdf",
+   "2011_experimental_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2010": [
+   "2010_problems.pdf",
+   "2010_solutions.pdf",
+   "2010_experimental_problems.pdf",
+   "2010_experimental_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2009": [
+   "2009_problems.pdf",
+   "2009_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2008": [
+   "2008_problems.pdf",
+   "2008_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2006": [
+   "2006_problems.pdf",
+   "2006_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2005": [
+   "2005_problems.pdf",
+   "2005_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2004": [
+   "2004_problems.pdf",
+   "2004_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2003": [
+   "2003_problems.pdf",
+   "2003_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2007": [
+   "2007_problems.pdf",
+   "2007_solutions.pdf",
+   "2007_experimental_problems.pdf",
+   "2007_experimental_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2002": [
+   "2002_problems.pdf",
+   "2002_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2001": [
+   "2001_problems.pdf",
+   "2001_solutions.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/beyondolymp/3": [
+   "sen_ru.pdf",
+   "jun_ru.pdf",
+   "sol_ru.pdf",
+   "sen_kz.pdf",
+   "jun_kz.pdf",
+   "sol_kz.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/beyondolymp/2": [
+   "jun_ru.pdf",
+   "sen_ru.pdf",
+   "solutions_ru.pdf",
+   "jun_kz.pdf",
+   "sen_kz.pdf",
+   "solutions_kz.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/beyondolymp/1": [
+   "Beyond1_PHYS_TASK_7-8RUS.pdf",
+   "Beyond1_PHYS_TASK_9RUS.pdf",
+   "Beyond1_PHYS_TASK_10RUS.pdf",
+   "Beyond1_PHYS_TASK_7-8KAZ.pdf",
+   "Beyond1_PHYS_TASK_9KAZ.pdf",
+   "Beyond1_PHYS_TASK_10KAZ.pdf",
+   "Beyond1_PHYS_SOL_7-8RUS.pdf",
+   "Beyond1_PHYS_SOL_9RUS.pdf",
+   "Beyond1_PHYS_SOL_10RUS.pdf",
+   "Beyond1_PHYS_SOL_7-8KAZ.pdf",
+   "Beyond1_PHYS_SOL_9KAZ.pdf",
+   "Beyond1_PHYS_SOL_10KAZ.pdf",
+   "Beyond1_PHYS_TASK_11-12RUS.pdf",
+   "Beyond1_PHYS_TASK_11-12KAZ.pdf",
+   "Beyond1_PHYS_SOL_11-12RUS.pdf",
+   "Beyond1_PHYS_SOL_11-12KAZ.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/BPO/2024": [
+   "phys-tasks.pdf",
+   "phys-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/BPO/2023": [
+   "phys-tasks.pdf",
+   "phys-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/BPO/2022": [
+   "phys-tasks.pdf",
+   "phys-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/BPO/2020": [
+   "phys-tasks.pdf",
+   "phys-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/BPO/2019": [
+   "phys-tasks.pdf",
+   "phys-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/junior/2024": [
+   "phys7-tasks.pdf",
+   "phys7-sol.pdf",
+   "phys8-tasks.pdf",
+   "phys8-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/junior/2023": [
+   "phys7-tasks.pdf",
+   "phys7-sol.pdf",
+   "phys8-tasks.pdf",
+   "phys8-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/junior/2022": [
+   "phys8-junior-oblast-tasks-rus.pdf",
+   "phys7-junior-oblast-tasks-rus.pdf",
+   "phys8-junior-oblast-tasks-qaz.pdf",
+   "phys7-junior-oblast-tasks-qaz.pdf",
+   "phys8-junior-oblast-sol.pdf",
+   "phys7-junior-oblast-sol.pdf",
+   "phys8-tasks.pdf",
+   "phys7-tasks.pdf",
+   "phys8-sol.pdf",
+   "phys7-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/junior/2021": [
+   "phys7-tasks.pdf",
+   "phys7-sol.pdf",
+   "phys8-tasks.pdf",
+   "phys8-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/junior/2020": [
+   "phys-all.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/junior/2019": [
+   "phys-tasks.pdf",
+   "phys-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/esc/2022": [
+   "physics-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/cpo/2005": [
+   "phys-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/sbory/2022": [
+   "phys-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/sbory/2020": [
+   "phys-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/sbory/2019": [
+   "phys-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/sbory/2018": [
+   "phys-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/sbory/2021": [
+   "phys-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/sbory/2017": [
+   "phys-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/sbory/2016": [
+   "phys-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/sbory/2015": [
+   "phys-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/kbo/2024": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/kbo/2023": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/kbo/2022": [
+   "phys-1-tasks.pdf",
+   "phys-1-sol.pdf",
+   "phys-2-tasks.pdf",
+   "phys-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2024": [
+   "phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf",
+   "phys9-2-tasks.pdf",
+   "phys9-2-sol.pdf",
+   "phys10-1-tasks.pdf",
+   "phys10-1-sol.pdf",
+   "phys10-2-tasks.pdf",
+   "phys10-2-sol.pdf",
+   "phys11-1-tasks.pdf",
+   "phys11-1-sol.pdf",
+   "phys11-2-tasks.pdf",
+   "phys11-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2019": [
+   "final2019.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2018": [
+   "final2018.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2017": [
+   "final2017.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2015": [
+   "final2015.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2016": [
+   "final2016.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2014": [
+   "final2014.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2013": [
+   "final2013.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2010": [
+   "final2010.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2011": [
+   "final2011.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2009": [
+   "final2009.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2007": [
+   "final2007.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2008": [
+   "final2008.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2012": [
+   "final2012.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2006": [
+   "final2006.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2005": [
+   "final2005.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2004": [
+   "final2004.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2003": [
+   "final2003.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2000": [
+   "final2000.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2001": [
+   "final2001.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2002": [
+   "final2002.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossokrug/2008": [
+   "okrug2008.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossokrug/2006": [
+   "okrug2006.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossokrug/2007": [
+   "okrug2007.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossokrug/2005": [
+   "okrug2005.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossokrug/2003": [
+   "okrug2003.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossokrug/2004": [
+   "okrug2004.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossokrug/2002": [
+   "okrug2002.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossokrug/2000": [
+   "okrug2000.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossokrug/2001": [
+   "okrug2001.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2021": [
+   "region2021.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2020": [
+   "region2020.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2019": [
+   "region2019.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2018": [
+   "region2018.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2017": [
+   "region2017.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2016": [
+   "region2016.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2015": [
+   "region2015.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2014": [
+   "region2014.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2011": [
+   "region2011.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2013": [
+   "region2013.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2012": [
+   "region2012.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2010": [
+   "region2010.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2009": [
+   "region2009.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2007": [
+   "region2007.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2008": [
+   "region2008.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2006": [
+   "region2006.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2005": [
+   "region2005.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2004": [
+   "region2004.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2003": [
+   "region2003.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2002": [
+   "region2002.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2000": [
+   "region2000.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2001": [
+   "region2001.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/graviton/4th/10-12": [
+   "phys1012-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/graviton/4th/7-9": [
+   "phys79-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/graviton/1st/10-12": [
+   "phys1012-1-tasks.pdf",
+   "phys1012-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/graviton/3rd/10-12": [
+   "phys1012-tasks.pdf",
+   "phys1012-res.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/graviton/3rd/7-9": [
+   "phys79-tasks.pdf",
+   "phys79-res.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/graviton/5th/11-12": [
+   "phys1112-tasks.pdf",
+   "phys1112-sol.pdf",
+   "phys1112-res.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/graviton/5th/8-10": [
+   "phys810-tasks.pdf",
+   "phys810-sol.pdf",
+   "phys810-res.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/graviton/2nd/7-8": [
+   "phys78-1-tasks.pdf",
+   "phys78-1-res.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2024/9": [
+   "phys9-1-tasks.pdf",
+   "phys9-1-sol_kaz.pdf",
+   "phys9-1-sol_rus.pdf",
+   "phys9-2-tasks.pdf",
+   "phys9-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2024/10": [
+   "phys10-1-tasks.pdf",
+   "phys10-1-sol_kaz.pdf",
+   "phys10-1-sol_rus.pdf",
+   "phys10-2-tasks.pdf",
+   "phys10-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2024/11": [
+   "phys11-1-tasks.pdf",
+   "phys11-1-sol_kaz.pdf",
+   "phys11-1-sol_rus.pdf",
+   "phys11-2-tasks.pdf",
+   "phys11-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2022/9": [
+   "phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf",
+   "phys9-2-sol.pdf",
+   "phys9-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2023/9": [
+   "phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf",
+   "phys9-2-sol.pdf",
+   "phys9-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2022/11": [
+   "phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf",
+   "phys11-2-sol.pdf",
+   "phys11-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2023/10": [
+   "phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf",
+   "phys10-2-sol.pdf",
+   "phys10-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2023/11": [
+   "phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf",
+   "phys11-2-sol.pdf",
+   "phys11-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2021/9": [
+   "phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf",
+   "phys9-1-sol.pdf",
+   "phys9-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2022/10": [
+   "phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf",
+   "phys10-2-sol.pdf",
+   "phys10-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2021/10": [
+   "phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf",
+   "phys10-1-sol.pdf",
+   "phys10-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2020/9": [
+   "phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2021/11": [
+   "phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf",
+   "phys11-1-sol.pdf",
+   "phys11-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2020/10": [
+   "phys10-1-tasks.pdf",
+   "phys10-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2020/11": [
+   "phys11-1-tasks.pdf",
+   "phys11-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2013/10": [
+   "phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2013/9": [
+   "phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2019/9": [
+   "phys9-1-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2013/11": [
+   "phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2019/10": [
+   "phys10-1-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2019/11": [
+   "phys11-1-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2015/9": [
+   "phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2015/10": [
+   "phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2012/9": [
+   "phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2015/11": [
+   "phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2011/10": [
+   "phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2011/11": [
+   "phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2021/9": [
+   "phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf",
+   "phys9-1-sol.pdf",
+   "phys9-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2021/10": [
+   "phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf",
+   "phys10-1-sol.pdf",
+   "phys10-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2021/11": [
+   "phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf",
+   "phys11-1-sol.pdf",
+   "phys11-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2024/9": [
+   "phys9-1-tasks-rus.pdf",
+   "phys9-1-sol-rus.pdf",
+   "phys9-1-tasks-kaz.pdf",
+   "phys9-1-sol-kaz.pdf",
+   "phys9-2-tasks-rus.pdf",
+   "phys9-2-sol-rus.pdf",
+   "phys9-2-tasks-kaz.pdf",
+   "phys9-2-sol-kaz.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2024/10": [
+   "phys10-1-tasks-rus.pdf",
+   "phys10-1-sol-rus.pdf",
+   "phys10-1-tasks-kaz.pdf",
+   "phys10-1-sol-kaz.pdf",
+   "phys10-2-tasks-rus.pdf",
+   "phys10-2-sol-rus.pdf",
+   "phys10-2-tasks-kaz.pdf",
+   "phys10-2-sol-kaz.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2024/11": [
+   "phys11-1-tasks-rus.pdf",
+   "phys11-1-sol-rus.pdf",
+   "phys11-1-tasks-kaz.pdf",
+   "phys11-1-sol-kaz.pdf",
+   "phys11-2-tasks-rus.pdf",
+   "phys11-2-sol-rus.pdf",
+   "phys11-2-tasks-kaz.pdf",
+   "phys11-2-sol-kaz.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2025/9": [
+   "phys9-1-tasks-rus.pdf",
+   "phys9-1-sol-rus.pdf",
+   "phys9-1-tasks-kaz.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2025/10": [
+   "phys10-1-tasks-rus.pdf",
+   "phys10-1-sol-rus.pdf",
+   "phys10-1-tasks-kaz.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2025/11": [
+   "phys11-1-tasks-rus.pdf",
+   "phys11-1-sol-rus.pdf",
+   "phys11-1-tasks-kaz.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2020/9": [
+   "phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf",
+   "phys9-1-sol.pdf",
+   "phys9-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2020/10": [
+   "phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf",
+   "phys10-1-sol.pdf",
+   "phys10-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2020/11": [
+   "phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf",
+   "phys11-1-sol.pdf",
+   "phys11-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/oblast/2011/9": [
+   "phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2023/9": [
+   "phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf",
+   "phys9-1-sol.pdf",
+   "phys9-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2023/11": [
+   "phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf",
+   "phys11-1-sol.pdf",
+   "phys11-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2023/10": [
+   "phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf",
+   "phys10-1-sol.pdf",
+   "phys10-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2022/9": [
+   "phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf",
+   "phys9-1-sol.pdf",
+   "phys9-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2022/10": [
+   "phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf",
+   "phys10-1-sol.pdf",
+   "phys10-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2022/11": [
+   "phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf",
+   "phys11-1-sol.pdf",
+   "phys11-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2019/9": [
+   "phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf",
+   "phys9-1-sol.pdf",
+   "phys9-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2019/11": [
+   "phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf",
+   "phys11-1-sol.pdf",
+   "phys11-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2019/10": [
+   "phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf",
+   "phys10-1-sol.pdf",
+   "phys10-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2017/10": [
+   "phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2017/9": [
+   "phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2017/11": [
+   "phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2018/10": [
+   "phys10-1-tasks.pdf",
+   "phys10-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2018/9": [
+   "phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2018/11": [
+   "phys11-1-tasks.pdf",
+   "phys11-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2016/9": [
+   "phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf",
+   "phys9-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2016/10": [
+   "phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf",
+   "phys10-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2015/11": [
+   "phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf",
+   "phys11-1-sol.pdf",
+   "phys11-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2016/11": [
+   "phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf",
+   "phys11-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2015/10": [
+   "phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf",
+   "phys10-1-sol.pdf",
+   "phys10-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2015/9": [
+   "phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf",
+   "phys9-1-sol.pdf",
+   "phys9-2-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2013/10": [
+   "phys10-1-tasks.pdf",
+   "phys10-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2013/9": [
+   "phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2013/11": [
+   "phys11-1-tasks.pdf",
+   "phys11-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2014/9": [
+   "phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2014/10": [
+   "phys10-1-tasks.pdf",
+   "phys10-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2014/11": [
+   "phys11-1-tasks.pdf",
+   "phys11-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2012/9": [
+   "phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2012/10": [
+   "phys10-1-tasks.pdf",
+   "phys10-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2012/11": [
+   "phys11-1-tasks.pdf",
+   "phys11-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2011/10": [
+   "phys10-1-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2011/11": [
+   "phys11-1-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2011/9": [
+   "phys9-1-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/national/2010/9": [
+   "phys9-1-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/region/2023/9": [
+   "phys9-1-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/region/2023/10": [
+   "phys10-1-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/region/2024/10": [
+   "phys10-tasks.pdf",
+   "phys10-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/region/2024/9": [
+   "phys9-tasks.pdf",
+   "phys9-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/region/2023/11": [
+   "phys11-1-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/region/2024/11": [
+   "phys11-tasks.pdf",
+   "phys11-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/region/2022/9": [
+   "phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/region/2022/10": [
+   "phys10-1-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/region/2021/9": [
+   "phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/region/2021/10": [
+   "phys10-1-tasks.pdf",
+   "phys10-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/region/2021/11": [
+   "phys11-1-tasks.pdf",
+   "phys11-1-sol.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/region/2019/9": [
+   "phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/region/2019/11": [
+   "phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/region/2019/10": [
+   "phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/region/2017/8": [
+   "phys8-1-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/region/2017/9": [
+   "phys9-1-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/region/2017/10": [
+   "phys10-1-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/region/2017/11": [
+   "phys11-1-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/region/2015/8": [
+   "phys8-1-tasks.pdf",
+   "phys8-2-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/region/2015/9": [
+   "phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/region/2015/10": [
+   "phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf"
+  ],
+  "https://olympiads.bc-pf.org/physics/region/2015/11": [
+   "phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf"
+  ]
+ },
+ "urls": {
+  "https://olympiads.bc-pf.org/physics/s/EuPhO/2024": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2024/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2024/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2024/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2024/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/EuPhO/2023": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2023/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2023/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2023/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2023/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/EuPhO/2022": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2022/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2022/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2022/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2022/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/EuPhO/2020": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2020/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2020/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2020/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2020/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/EuPhO/2021": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2021/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2021/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2021/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2021/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/EuPhO/2019": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2019/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2019/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2019/phys-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/EuPhO/2017": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2017/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2017/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2017/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2017/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/EuPhO/2018": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2018/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2018/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2018/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/EuPhO/2018/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/APhO/2023": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2023/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2023/phys-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/APhO/2019": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2019/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2019/phys-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/APhO/2021": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2021/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2021/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2021/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2021/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/APhO/2018": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2018/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2018/phys-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/APhO/2017": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2017/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2017/phys-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/APhO/2022": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2022/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2022/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2022/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2022/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/APhO/2016": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2016/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2016/phys-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/APhO/2015": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2015/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2015/phys-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/APhO/2013": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2013/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2013/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2013/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/APhO/2011": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2011/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2011/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2011/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2011/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/APhO/2012": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2012/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2012/phys-2-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/APhO/2014": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2014/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2014/phys-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/APhO/2010": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2010/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/APhO/2010/phys-2-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2024": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2024/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2024/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2024/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2024/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2023": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2023/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2023/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2023/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2023/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2022": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2022/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2022/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2022/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2022/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2021": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2021/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2021/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2021/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2021/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2019": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2019/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2019/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2019/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2019/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2018": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2018/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2018/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2018/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2018/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2017": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2017/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2017/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2017/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2017/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2016": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2016/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2016/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2016/phys-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2014": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2014/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2014/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2014/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2014/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2013": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2013/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2013/phys-2-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2012": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2012/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2012/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2012/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2020": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2020/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2020/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2020/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2020/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2011": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2011/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2011/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2011/phys-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2015": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2015/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2015/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2015/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2015/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IPhO/2010": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2010/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IPhO/2010/phys-2-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/NBPhO/2023": {
+   "phys-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/NBPhO/2023/phys-tasks.pdf",
+   "phys-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/NBPhO/2023/phys-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/NBPhO/2024": {
+   "phys-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/NBPhO/2024/phys-tasks.pdf",
+   "phys-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/NBPhO/2024/phys-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/NBPhO/2021": {
+   "phys-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/NBPhO/2021/phys-tasks.pdf",
+   "phys-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/NBPhO/2021/phys-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/NBPhO/2022": {
+   "phys-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/NBPhO/2022/phys-tasks.pdf",
+   "phys-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/NBPhO/2022/phys-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/NBPhO/2020": {
+   "phys-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/NBPhO/2020/phys-tasks.pdf",
+   "phys-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/NBPhO/2020/phys-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/NBPhO/2019": {
+   "phys-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/NBPhO/2019/phys-tasks.pdf",
+   "phys-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/NBPhO/2019/phys-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/2023": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2023/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2023/phys-1-sol.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2023/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2023/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/2024": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2024/phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2024/phys9-1-sol.pdf",
+   "phys9-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2024/phys9-2-tasks.pdf",
+   "phys9-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2024/phys9-2-sol.pdf",
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2024/phys10-1-tasks.pdf",
+   "phys10-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2024/phys10-1-sol.pdf",
+   "phys10-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2024/phys10-2-tasks.pdf",
+   "phys10-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2024/phys10-2-sol.pdf",
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2024/phys11-1-tasks.pdf",
+   "phys11-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2024/phys11-1-sol.pdf",
+   "phys11-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2024/phys11-2-tasks.pdf",
+   "phys11-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2024/phys11-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/2021": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2021/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2021/phys-1-sol.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2021/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2021/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/2022": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2022/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2022/phys-1-sol.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2022/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2022/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/2020": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2020/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2020/phys-1-sol.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2020/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2020/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/2019": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2019/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2019/phys-1-sol.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2019/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2019/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/2018": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2018/phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2018/phys9-1-sol.pdf",
+   "phys9-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2018/phys9-2-tasks.pdf",
+   "phys9-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2018/phys9-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/2017": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2017/phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2017/phys9-1-sol.pdf",
+   "phys9-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2017/phys9-2-tasks.pdf",
+   "phys9-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2017/phys9-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/2016": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2016/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2016/phys-1-sol.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2016/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2016/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/2014": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2014/phys9-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2014/phys-1-sol.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2014/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2014/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/2013": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2013/phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2013/phys9-1-sol.pdf",
+   "phys9-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2013/phys9-2-tasks.pdf",
+   "phys9-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2013/phys9-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/2015": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2015/phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2015/phys9-1-sol.pdf",
+   "phys9-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2015/phys9-2-tasks.pdf",
+   "phys9-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2015/phys9-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/2012": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2012/phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2012/phys9-1-sol.pdf",
+   "phys9-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2012/phys9-2-tasks.pdf",
+   "phys9-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2012/phys9-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/2011": {
+   "2011_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2011/2011_problems.pdf",
+   "2011_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2011/2011_solutions.pdf",
+   "2011_experimental_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2011/2011_experimental_problems.pdf",
+   "2011_experimental_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2011/2011_experimental_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/2009": {
+   "2009_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2009/2009_problems.pdf",
+   "2009_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2009/2009_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/2010": {
+   "2010_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2010/2010_problems.pdf",
+   "2010_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2010/2010_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/2008": {
+   "2008_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2008/2008_problems.pdf",
+   "2008_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2008/2008_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/2006": {
+   "2006_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2006/2006_problems.pdf",
+   "2006_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2006/2006_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/2007": {
+   "2007_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2007/2007_problems.pdf",
+   "2007_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2007/2007_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/2005": {
+   "2005_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2005/2005_problems.pdf",
+   "2005_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2005/2005_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/2004": {
+   "2004_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2004/2004_problems.pdf",
+   "2004_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2004/2004_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/2002": {
+   "2002_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2002/2002_problems.pdf",
+   "2002_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2002/2002_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/2001": {
+   "2001_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2001/2001_problems.pdf",
+   "2001_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2001/2001_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/2003": {
+   "2003_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2003/2003_problems.pdf",
+   "2003_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2003/2003_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/2000": {
+   "2000_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2000/2000_problems.pdf",
+   "2000_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/2000/2000_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/1999": {
+   "1999_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/1999/1999_problems.pdf",
+   "1999_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/1999/1999_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/1998": {
+   "1998_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/1998/1998_problems.pdf",
+   "1998_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/1998/1998_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/1996": {
+   "1996_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/1996/1996_problems.pdf",
+   "1996_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/1996/1996_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/1997": {
+   "1997_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/1997/1997_problems.pdf",
+   "1997_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/1997/1997_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/1995": {
+   "1995_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/1995/1995_problems.pdf",
+   "1995_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/1995/1995_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/1994": {
+   "1994_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/1994/1994_problems.pdf",
+   "1994_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/1994/1994_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/1993": {
+   "1993_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/1993/1993_problems.pdf",
+   "1993_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/1993/1993_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/1991": {
+   "1991_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/1991/1991_problems.pdf",
+   "1991_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/1991/1991_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/1990": {
+   "1990_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/1990/1990_problems.pdf",
+   "1990_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/1990/1990_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2024": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2024/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2024/phys-1-sol.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2024/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2024/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2023": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2023/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2023/phys-1-sol.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2023/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2023/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2022": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2022/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2022/phys-1-sol.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2022/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2022/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2021": {
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2021/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2021/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belpho/1992": {
+   "1992_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/1992/1992_problems.pdf",
+   "1992_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/final/1992/1992_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2020": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2020/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2020/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2020/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2019": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2019/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2019/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2019/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2019/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2018": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2018/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2018/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2018/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2018/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2017": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2017/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2017/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2017/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2017/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2016": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2016/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2016/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2016/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2016/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2015": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2015/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2015/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2015/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2015/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2014": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2014/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2014/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2014/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2014/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2013": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2013/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2013/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2013/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2013/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2011": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2011/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2011/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2011/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2011/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2012": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2012/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2012/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2012/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2012/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2022": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2022/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2022/phys-1-sol.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2022/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2022/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2021": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2021/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2021/phys-1-sol.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2021/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2021/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2020": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2020/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2020/phys-1-sol.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2020/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2020/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/IZhO/2010": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2010/phys-1-tasks.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2010/phys-2-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2010/phys-1-sol.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/IZhO/2010/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2017": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2017/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2017/phys-1-sol.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2017/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2017/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2019": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2019/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2019/phys-1-sol.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2019/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2019/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2024": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2024/phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf": "https://cdn.bc-pf.org/olymads/belpho/oblast/2024/phys9-1-sol.pdf",
+   "phys9-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2024/phys9-2-tasks.pdf",
+   "phys9-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2024/phys9-2-sol.pdf",
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2024/phys10-1-tasks.pdf",
+   "phys10-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2024/phys10-1-sol.pdf",
+   "phys10-2-tasks.pdf": "https://cdn.bc-pf.org/olymads/belpho/oblast/2024/phys10-2-tasks.pdf",
+   "phys10-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2024/phys10-2-sol.pdf",
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2024/phys11-1-tasks.pdf",
+   "phys11-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2024/phys11-1-sol.pdf",
+   "phys11-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2024/phys11-2-tasks.pdf",
+   "phys11-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2024/phys11-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2018": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2018/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2018/phys-1-sol.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2018/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2018/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2016": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2016/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2016/phys-1-sol.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2016/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2016/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2015": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2015/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2015/phys-1-sol.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2015/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2015/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2013": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2013/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2013/phys-1-sol.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2013/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2013/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2012": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2012/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2012/phys-1-sol.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2012/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2012/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2014": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2014/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2014/phys-1-sol.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2014/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2014/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2011": {
+   "2011_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2011/2011_problems.pdf",
+   "2011_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2011/2011_solutions.pdf",
+   "2011_experimental_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2011/2011_experimental_problems.pdf",
+   "2011_experimental_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2011/2011_experimental_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2010": {
+   "2010_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2010/2010_problems.pdf",
+   "2010_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2010/2010_solutions.pdf",
+   "2010_experimental_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2010/2010_experimental_problems.pdf",
+   "2010_experimental_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2010/2010_experimental_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2009": {
+   "2009_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2009/2009_problems.pdf",
+   "2009_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2009/2009_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2008": {
+   "2008_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2008/2008_problems.pdf",
+   "2008_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2008/2008_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2006": {
+   "2006_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2006/2006_problems.pdf",
+   "2006_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2006/2006_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2005": {
+   "2005_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2005/2005_problems.pdf",
+   "2005_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2005/2005_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2004": {
+   "2004_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2004/2004_problems.pdf",
+   "2004_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2004/2004_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2003": {
+   "2003_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2003/2003_problems.pdf",
+   "2003_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2003/2003_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2007": {
+   "2007_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2007/2007_problems.pdf",
+   "2007_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2007/2007_solutions.pdf",
+   "2007_experimental_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2007/2007_experimental_problems.pdf",
+   "2007_experimental_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2007/2007_experimental_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2002": {
+   "2002_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2002/2002_problems.pdf",
+   "2002_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2002/2002_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/belphooblast/2001": {
+   "2001_problems.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2001/2001_problems.pdf",
+   "2001_solutions.pdf": "https://cdn.bc-pf.org/olympiads/physics/belpho/oblast/2001/2001_solutions.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/beyondolymp/3": {
+   "sen_ru.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/3/sen_ru.pdf",
+   "jun_ru.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/3/jun_ru.pdf",
+   "sol_ru.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/3/sol_ru.pdf",
+   "sen_kz.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/3/sen_kz.pdf",
+   "jun_kz.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/3/jun_kz.pdf",
+   "sol_kz.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/3/sol_kz.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/beyondolymp/2": {
+   "jun_ru.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/2/jun_ru.pdf",
+   "sen_ru.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/2/sen_ru.pdf",
+   "solutions_ru.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/2/solutions_ru.pdf",
+   "jun_kz.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/2/jun_kz.pdf",
+   "sen_kz.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/2/sen_kz.pdf",
+   "solutions_kz.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/2/solutions_kz.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/beyondolymp/1": {
+   "Beyond1_PHYS_TASK_7-8RUS.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/1/tasks/Beyond1_PHYS_TASK_7-8RUS.pdf",
+   "Beyond1_PHYS_TASK_9RUS.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/1/tasks/Beyond1_PHYS_TASK_9RUS.pdf",
+   "Beyond1_PHYS_TASK_10RUS.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/1/tasks/Beyond1_PHYS_TASK_10RUS.pdf",
+   "Beyond1_PHYS_TASK_7-8KAZ.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/1/tasks/Beyond1_PHYS_TASK_7-8KAZ.pdf",
+   "Beyond1_PHYS_TASK_9KAZ.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/1/tasks/Beyond1_PHYS_TASK_9KAZ.pdf",
+   "Beyond1_PHYS_TASK_10KAZ.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/1/tasks/Beyond1_PHYS_TASK_10KAZ.pdf",
+   "Beyond1_PHYS_SOL_7-8RUS.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/1/solutions/Beyond1_PHYS_SOL_7-8RUS.pdf",
+   "Beyond1_PHYS_SOL_9RUS.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/1/solutions/Beyond1_PHYS_SOL_9RUS.pdf",
+   "Beyond1_PHYS_SOL_10RUS.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/1/solutions/Beyond1_PHYS_SOL_10RUS.pdf",
+   "Beyond1_PHYS_SOL_7-8KAZ.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/1/solutions/Beyond1_PHYS_SOL_7-8KAZ.pdf",
+   "Beyond1_PHYS_SOL_9KAZ.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/1/solutions/Beyond1_PHYS_SOL_9KAZ.pdf",
+   "Beyond1_PHYS_SOL_10KAZ.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/1/solutions/Beyond1_PHYS_SOL_10KAZ.pdf",
+   "Beyond1_PHYS_TASK_11-12RUS.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/1/tasks/Beyond1_PHYS_TASK_11-12RUS.pdf",
+   "Beyond1_PHYS_TASK_11-12KAZ.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/1/tasks/Beyond1_PHYS_TASK_11-12KAZ.pdf",
+   "Beyond1_PHYS_SOL_11-12RUS.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/1/solutions/Beyond1_PHYS_SOL_11-12RUS.pdf",
+   "Beyond1_PHYS_SOL_11-12KAZ.pdf": "https://cdn.bc-pf.org/olympiads/physics/beyondolymp/1/solutions/Beyond1_PHYS_SOL_11-12KAZ.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/BPO/2024": {
+   "phys-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/BPO/2024/phys-tasks.pdf",
+   "phys-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/BPO/2024/phys-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/BPO/2023": {
+   "phys-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/BPO/2023/phys-tasks.pdf",
+   "phys-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/BPO/2023/phys-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/BPO/2022": {
+   "phys-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/BPO/2022/phys-tasks.pdf",
+   "phys-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/BPO/2022/phys-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/BPO/2020": {
+   "phys-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/BPO/2020/phys-tasks.pdf",
+   "phys-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/BPO/2020/phys-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/BPO/2019": {
+   "phys-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/BPO/2019/phys-tasks.pdf",
+   "phys-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/BPO/2019/phys-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/junior/2024": {
+   "phys7-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/junior/2024/phys7-tasks.pdf",
+   "phys7-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/junior/2024/phys7-sol.pdf",
+   "phys8-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/junior/2024/phys8-tasks.pdf",
+   "phys8-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/junior/2024/phys8-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/junior/2023": {
+   "phys7-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/junior/2023/phys7-tasks.pdf",
+   "phys7-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/junior/2023/phys7-sol.pdf",
+   "phys8-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/junior/2023/phys8-tasks.pdf",
+   "phys8-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/junior/2023/phys8-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/junior/2022": {
+   "phys8-junior-oblast-tasks-rus.pdf": "https://cdn.bc-pf.org/olympiads/physics/junior/2022/oblast/phys8-junior-oblast-tasks-rus.pdf",
+   "phys7-junior-oblast-tasks-rus.pdf": "https://cdn.bc-pf.org/olympiads/physics/junior/2022/oblast/phys7-junior-oblast-tasks-rus.pdf",
+   "phys8-junior-oblast-tasks-qaz.pdf": "https://cdn.bc-pf.org/olympiads/physics/junior/2022/oblast/phys8-junior-oblast-tasks-qaz.pdf",
+   "phys7-junior-oblast-tasks-qaz.pdf": "https://cdn.bc-pf.org/olympiads/physics/junior/2022/oblast/phys7-junior-oblast-tasks-qaz.pdf",
+   "phys8-junior-oblast-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/junior/2022/oblast/phys8-junior-oblast-sol.pdf",
+   "phys7-junior-oblast-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/junior/2022/oblast/phys7-junior-oblast-sol.pdf",
+   "phys8-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/junior/2022/final/phys8-tasks.pdf",
+   "phys7-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/junior/2022/final/phys7-tasks.pdf",
+   "phys8-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/junior/2022/final/phys8-sol.pdf",
+   "phys7-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/junior/2022/final/phys7-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/junior/2021": {
+   "phys7-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/junior/2021/final/phys7-tasks.pdf",
+   "phys7-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/junior/2021/final/phys7-sol.pdf",
+   "phys8-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/junior/2021/final/phys8-tasks.pdf",
+   "phys8-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/junior/2021/final/phys8-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/junior/2020": {
+   "phys-all.pdf": "https://cdn.bc-pf.org/olympiads/physics/junior/2020/phys-all.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/junior/2019": {
+   "phys-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/junior/2019/final/phys-tasks.pdf",
+   "phys-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/junior/2019/final/phys-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/esc/2022": {
+   "physics-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/ESC/2022/physics-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/cpo/2005": {
+   "phys-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/CPO/2005/phys-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/sbory/2022": {
+   "phys-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/sbory/2022/phys-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/sbory/2020": {
+   "phys-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/sbory/2020/phys-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/sbory/2019": {
+   "phys-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/sbory/2019/phys-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/sbory/2018": {
+   "phys-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/sbory/2018/phys-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/sbory/2021": {
+   "phys-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/sbory/2021/phys-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/sbory/2017": {
+   "phys-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/sbory/2017/phys-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/sbory/2016": {
+   "phys-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/sbory/2016/phys-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/sbory/2015": {
+   "phys-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/sbory/2015/phys-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/kbo/2024": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/kbo/2024/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/kbo/2024/phys-1-sol.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/kbo/2024/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/kbo/2024/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/kbo/2023": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/kbo/2023/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/kbo/2023/phys-1-sol.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/kbo/2023/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/kbo/2023/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/kbo/2022": {
+   "phys-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/kbo/2022/phys-1-tasks.pdf",
+   "phys-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/kbo/2022/phys-1-sol.pdf",
+   "phys-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/kbo/2022/phys-2-tasks.pdf",
+   "phys-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/kbo/2022/phys-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2024": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2024/phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2024/phys9-1-sol.pdf",
+   "phys9-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2024/phys9-2-tasks.pdf",
+   "phys9-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2024/phys9-2-sol.pdf",
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2024/phys10-1-tasks.pdf",
+   "phys10-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2024/phys10-1-sol.pdf",
+   "phys10-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2024/phys10-2-tasks.pdf",
+   "phys10-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2024/phys10-2-sol.pdf",
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2024/phys11-1-tasks.pdf",
+   "phys11-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2024/phys11-1-sol.pdf",
+   "phys11-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2024/phys11-2-tasks.pdf",
+   "phys11-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2024/phys11-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2019": {
+   "final2019.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2024/final2019.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2018": {
+   "final2018.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2018/final2018.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2017": {
+   "final2017.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2017/final2017.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2015": {
+   "final2015.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2015/final2015.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2016": {
+   "final2016.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2016/final2016.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2014": {
+   "final2014.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2014/final2014.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2013": {
+   "final2013.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2013/final2013.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2010": {
+   "final2010.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2010/final2010.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2011": {
+   "final2011.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2011/final2011.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2009": {
+   "final2009.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2009/final2009.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2007": {
+   "final2007.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2007/final2007.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2008": {
+   "final2008.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2008/final2008.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2012": {
+   "final2012.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2012/final2012.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2006": {
+   "final2006.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2006/final2006.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2005": {
+   "final2005.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2005/final2005.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2004": {
+   "final2004.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2004/final2004.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2003": {
+   "final2003.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2003/final2003.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2000": {
+   "final2000.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2000/final2000.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2001": {
+   "final2001.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2001/final2001.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossfinal/2002": {
+   "final2002.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/final/2002/final2002.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossokrug/2008": {
+   "okrug2008.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/okrug/2008/okrug2008.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossokrug/2006": {
+   "okrug2006.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/okrug/2006/okrug2006.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossokrug/2007": {
+   "okrug2007.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/okrug/2007/okrug2007.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossokrug/2005": {
+   "okrug2005.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/okrug/2005/okrug2005.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossokrug/2003": {
+   "okrug2003.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/okrug/2003/okrug2003.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossokrug/2004": {
+   "okrug2004.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/okrug/2004/okrug2004.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossokrug/2002": {
+   "okrug2002.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/okrug/2002/okrug2002.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossokrug/2000": {
+   "okrug2000.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/okrug/2000/okrug2000.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossokrug/2001": {
+   "okrug2001.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/okrug/2001/okrug2001.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2021": {
+   "region2021.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/region/2021/region2021.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2020": {
+   "region2020.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/region/2020/region2020.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2019": {
+   "region2019.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/region/2019/region2019.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2018": {
+   "region2018.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/region/2018/region2018.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2017": {
+   "region2017.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/region/2017/region2017.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2016": {
+   "region2016.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/region/2016/region2016.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2015": {
+   "region2015.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/region/2015/region2015.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2014": {
+   "region2014.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/region/2014/region2014.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2011": {
+   "region2011.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/region/2011/region2011.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2013": {
+   "region2013.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/region/2013/region2013.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2012": {
+   "region2012.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/region/2012/region2012.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2010": {
+   "region2010.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/region/2010/region2010.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2009": {
+   "region2009.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/region/2009/region2009.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2007": {
+   "region2007.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/region/2007/region2007.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2008": {
+   "region2008.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/region/2008/region2008.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2006": {
+   "region2006.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/region/2006/region2006.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2005": {
+   "region2005.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/region/2005/region2005.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2004": {
+   "region2004.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/region/2004/region2004.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2003": {
+   "region2003.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/region/2003/region2003.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2002": {
+   "region2002.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/region/2002/region2002.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2000": {
+   "region2000.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/region/2000/region2000.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/s/vserossregion/2001": {
+   "region2001.pdf": "https://cdn.bc-pf.org/olympiads/physics/vseross/region/2001/region2001.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/graviton/4th/10-12": {
+   "phys1012-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/graviton/4th/phys1012-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/graviton/4th/7-9": {
+   "phys79-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/graviton/4th/phys79-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/graviton/1st/10-12": {
+   "phys1012-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/graviton/1st/phys1012-1-tasks.pdf",
+   "phys1012-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/graviton/1st/phys1012-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/graviton/3rd/10-12": {
+   "phys1012-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/graviton/3rd/phys1012-tasks.pdf",
+   "phys1012-res.pdf": "https://cdn.bc-pf.org/olympiads/physics/graviton/3rd/phys1012-res.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/graviton/3rd/7-9": {
+   "phys79-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/graviton/3rd/phys79-tasks.pdf",
+   "phys79-res.pdf": "https://cdn.bc-pf.org/olympiads/physics/graviton/3rd/phys79-res.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/graviton/5th/11-12": {
+   "phys1112-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/graviton/5th/phys1112-tasks.pdf",
+   "phys1112-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/graviton/5th/phys1112-sol.pdf",
+   "phys1112-res.pdf": "https://cdn.bc-pf.org/olympiads/physics/graviton/5th/phys1112-res.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/graviton/5th/8-10": {
+   "phys810-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/graviton/5th/phys810-tasks.pdf",
+   "phys810-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/graviton/5th/phys810-sol.pdf",
+   "phys810-res.pdf": "https://cdn.bc-pf.org/olympiads/physics/graviton/5th/phys810-res.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/graviton/2nd/7-8": {
+   "phys78-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/graviton/2nd/phys78-1-tasks.pdf",
+   "phys78-1-res.pdf": "https://cdn.bc-pf.org/olympiads/physics/graviton/2nd/phys78-1-res.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2024/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2024/phys9-1-tasks.pdf",
+   "phys9-1-sol_kaz.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2024/phys9-1-sol_kaz.pdf",
+   "phys9-1-sol_rus.pdf": "https://cdn.bc-pf.org/olymads/physics/national/oblast/2024/phys9-1-sol_rus.pdf",
+   "phys9-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2024/phys9-2-tasks.pdf",
+   "phys9-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2024/phys9-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2024/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2024/phys10-1-tasks.pdf",
+   "phys10-1-sol_kaz.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2024/phys10-1-sol_kaz.pdf",
+   "phys10-1-sol_rus.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2024/phys10-1-sol_rus.pdf",
+   "phys10-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2024/phys10-2-tasks.pdf",
+   "phys10-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2024/phys10-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2024/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2024/phys11-1-tasks.pdf",
+   "phys11-1-sol_kaz.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2024/phys11-1-sol_kaz.pdf",
+   "phys11-1-sol_rus.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2024/phys11-1-sol_rus.pdf",
+   "phys11-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2024/phys11-2-tasks.pdf",
+   "phys11-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2024/phys11-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2022/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2022/phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2022/phys9-2-tasks.pdf",
+   "phys9-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2022/phys9-2-sol.pdf",
+   "phys9-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2022/phys9-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2023/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2023/phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2023/phys9-2-tasks.pdf",
+   "phys9-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2023/phys9-2-sol.pdf",
+   "phys9-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2023/phys9-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2022/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2022/phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2022/phys11-2-tasks.pdf",
+   "phys11-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2022/phys11-2-sol.pdf",
+   "phys11-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2022/phys11-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2023/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2023/phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2023/phys10-2-tasks.pdf",
+   "phys10-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2023/phys10-2-sol.pdf",
+   "phys10-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2023/phys10-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2023/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2023/phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2023/phys11-2-tasks.pdf",
+   "phys11-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2023/phys11-2-sol.pdf",
+   "phys11-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2023/phys11-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2021/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2021/phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2021/phys9-2-tasks.pdf",
+   "phys9-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2021/phys9-1-sol.pdf",
+   "phys9-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2021/phys9-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2022/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2022/phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2022/phys10-2-tasks.pdf",
+   "phys10-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2022/phys10-2-sol.pdf",
+   "phys10-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2022/phys10-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2021/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2021/phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2021/phys10-2-tasks.pdf",
+   "phys10-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2021/phys10-1-sol.pdf",
+   "phys10-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2021/phys10-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2020/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2020/phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2020/phys9-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2021/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2021/phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2021/phys11-2-tasks.pdf",
+   "phys11-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2021/phys11-1-sol.pdf",
+   "phys11-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2021/phys11-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2020/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2020/phys10-1-tasks.pdf",
+   "phys10-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2020/phys10-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2020/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2020/phys11-1-tasks.pdf",
+   "phys11-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2020/phys11-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2013/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2013/phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2013/phys10-2-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2013/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2013/phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2013/phys9-2-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2019/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2019/phys9-1-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2013/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2013/phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2013/phys11-2-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2019/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2019/phys10-1-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2019/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2019/phys11-1-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2015/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2015/phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2015/phys9-2-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2015/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2015/phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2015/phys10-2-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2012/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2012/phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2012/phys9-2-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2015/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2015/phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2015/phys11-2-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2011/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2011/phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2011/phys10-2-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2011/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2011/phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2011/phys11-2-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2021/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2021/phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2021/phys9-2-tasks.pdf",
+   "phys9-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2021/phys9-1-sol.pdf",
+   "phys9-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2021/phys9-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2021/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2021/phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2021/phys10-2-tasks.pdf",
+   "phys10-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2021/phys10-1-sol.pdf",
+   "phys10-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2021/phys10-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2021/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2021/phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2021/phys11-2-tasks.pdf",
+   "phys11-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2021/phys11-1-sol.pdf",
+   "phys11-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2021/phys11-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2024/9": {
+   "phys9-1-tasks-rus.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2024/9/phys9-1-tasks-rus.pdf",
+   "phys9-1-sol-rus.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2024/9/phys9-1-sol-rus.pdf",
+   "phys9-1-tasks-kaz.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2024/9/phys9-1-tasks-kaz.pdf",
+   "phys9-1-sol-kaz.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2024/9/phys9-1-sol-kaz.pdf",
+   "phys9-2-tasks-rus.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2024/9/phys9-2-tasks-rus.pdf",
+   "phys9-2-sol-rus.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2024/9/phys9-2-sol-rus.pdf",
+   "phys9-2-tasks-kaz.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2024/9/phys9-2-tasks-kaz.pdf",
+   "phys9-2-sol-kaz.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2024/9/phys9-2-sol-kaz.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2024/10": {
+   "phys10-1-tasks-rus.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2024/10/phys10-1-tasks-rus.pdf",
+   "phys10-1-sol-rus.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2024/10/phys10-1-sol-rus.pdf",
+   "phys10-1-tasks-kaz.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2024/10/phys10-1-tasks-kaz.pdf",
+   "phys10-1-sol-kaz.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2024/10/phys10-1-sol-kaz.pdf",
+   "phys10-2-tasks-rus.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2024/10/phys10-2-tasks-rus.pdf",
+   "phys10-2-sol-rus.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2024/10/phys10-2-sol-rus.pdf",
+   "phys10-2-tasks-kaz.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2024/10/phys10-2-tasks-kaz.pdf",
+   "phys10-2-sol-kaz.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2024/10/phys10-2-sol-kaz.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2024/11": {
+   "phys11-1-tasks-rus.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2024/11/phys11-1-tasks-rus.pdf",
+   "phys11-1-sol-rus.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2024/11/phys11-1-sol-rus.pdf",
+   "phys11-1-tasks-kaz.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2024/11/phys11-1-tasks-kaz.pdf",
+   "phys11-1-sol-kaz.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2024/11/phys11-1-sol-kaz.pdf",
+   "phys11-2-tasks-rus.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2024/11/phys11-2-tasks-rus.pdf",
+   "phys11-2-sol-rus.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2024/11/phys11-2-sol-rus.pdf",
+   "phys11-2-tasks-kaz.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2024/11/phys11-2-tasks-kaz.pdf",
+   "phys11-2-sol-kaz.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2024/11/phys11-2-sol-kaz.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2025/9": {
+   "phys9-1-tasks-rus.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2025/9/phys9-1-tasks-rus.pdf",
+   "phys9-1-sol-rus.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2025/9/phys9-1-sol-rus.pdf",
+   "phys9-1-tasks-kaz.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2025/9/phys9-1-tasks-kaz.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2025/10": {
+   "phys10-1-tasks-rus.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2025/10/phys10-1-tasks-rus.pdf",
+   "phys10-1-sol-rus.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2025/10/phys10-1-sol-rus.pdf",
+   "phys10-1-tasks-kaz.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2025/10/phys10-1-tasks-kaz.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2025/11": {
+   "phys11-1-tasks-rus.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2025/11/phys11-1-tasks-rus.pdf",
+   "phys11-1-sol-rus.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2025/11/phys11-1-sol-rus.pdf",
+   "phys11-1-tasks-kaz.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2025/11/phys11-1-tasks-kaz.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2020/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2020/phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2020/phys9-2-tasks.pdf",
+   "phys9-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2020/phys9-1-sol.pdf",
+   "phys9-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2020/phys9-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2020/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2020/phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2020/phys10-2-tasks.pdf",
+   "phys10-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2020/phys10-1-sol.pdf",
+   "phys10-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2020/phys10-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2020/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2020/phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2020/phys11-2-tasks.pdf",
+   "phys11-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2020/phys11-1-sol.pdf",
+   "phys11-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2020/phys11-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/oblast/2011/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2011/phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/oblast/2011/phys9-2-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2023/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2023/phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2023/phys9-2-tasks.pdf",
+   "phys9-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2023/phys9-1-sol.pdf",
+   "phys9-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2023/phys9-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2023/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2023/phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2023/phys11-2-tasks.pdf",
+   "phys11-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2023/phys11-1-sol.pdf",
+   "phys11-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2023/phys11-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2023/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2023/phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2023/phys10-2-tasks.pdf",
+   "phys10-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2023/phys10-1-sol.pdf",
+   "phys10-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2023/phys10-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2022/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2022/phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2022/phys9-2-tasks.pdf",
+   "phys9-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2022/phys9-1-sol.pdf",
+   "phys9-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2022/phys9-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2022/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2022/phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2022/phys10-2-tasks.pdf",
+   "phys10-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2022/phys10-1-sol.pdf",
+   "phys10-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2022/phys10-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2022/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2022/phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2022/phys11-2-tasks.pdf",
+   "phys11-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2022/phys11-1-sol.pdf",
+   "phys11-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2022/phys11-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2019/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2019/phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2019/phys9-2-tasks.pdf",
+   "phys9-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2019/phys9-1-sol.pdf",
+   "phys9-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2019/phys9-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2019/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2019/phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2019/phys11-2-tasks.pdf",
+   "phys11-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2019/phys11-1-sol.pdf",
+   "phys11-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2019/phys11-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2019/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2019/phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2019/phys10-2-tasks.pdf",
+   "phys10-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2019/phys10-1-sol.pdf",
+   "phys10-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2019/phys10-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2017/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2017/phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2017/phys10-2-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2017/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2017/phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2017/phys9-2-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2017/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2017/phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2017/phys11-2-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2018/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2018/phys10-1-tasks.pdf",
+   "phys10-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2018/phys10-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2018/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2018/phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2018/phys9-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2018/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2018/phys11-1-tasks.pdf",
+   "phys11-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2018/phys11-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2016/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2016/phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2016/phys9-2-tasks.pdf",
+   "phys9-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2016/phys9-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2016/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2016/phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2016/phys10-2-tasks.pdf",
+   "phys10-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2016/phys10-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2015/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2015/phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2015/phys11-2-tasks.pdf",
+   "phys11-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2015/phys11-1-sol.pdf",
+   "phys11-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2015/phys11-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2016/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2016/phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2016/phys11-2-tasks.pdf",
+   "phys11-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2016/phys11-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2015/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2015/phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2015/phys10-2-tasks.pdf",
+   "phys10-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2015/phys10-1-sol.pdf",
+   "phys10-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2015/phys10-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2015/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2015/phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2015/phys9-2-tasks.pdf",
+   "phys9-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2015/phys9-1-sol.pdf",
+   "phys9-2-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2015/phys9-2-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2013/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2013/phys10-1-tasks.pdf",
+   "phys10-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2013/phys10-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2013/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2013/phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2013/phys9-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2013/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2013/phys11-1-tasks.pdf",
+   "phys11-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2013/phys11-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2014/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2014/phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2014/phys9-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2014/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2014/phys10-1-tasks.pdf",
+   "phys10-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2014/phys10-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2014/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2014/phys11-1-tasks.pdf",
+   "phys11-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2014/phys11-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2012/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2012/phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2012/phys9-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2012/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2012/phys10-1-tasks.pdf",
+   "phys10-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2012/phys10-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2012/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2012/phys11-1-tasks.pdf",
+   "phys11-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2012/phys11-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2011/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2011/phys10-1-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2011/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2011/phys11-1-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2011/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2011/phys9-1-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/national/2010/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/final/2010/phys9-1-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/region/2023/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2023/phys9-1-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/region/2023/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2023/phys10-1-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/region/2024/10": {
+   "phys10-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2024/phys10-tasks.pdf",
+   "phys10-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2024/phys10-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/region/2024/9": {
+   "phys9-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2024/phys9-tasks.pdf",
+   "phys9-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2024/phys9-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/region/2023/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2023/phys11-1-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/region/2024/11": {
+   "phys11-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2024/phys11-tasks.pdf",
+   "phys11-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2024/phys11-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/region/2022/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2022/phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2022/phys9-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/region/2022/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2022/phys10-1-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/region/2021/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2021/phys9-1-tasks.pdf",
+   "phys9-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2021/phys9-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/region/2021/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2021/phys10-1-tasks.pdf",
+   "phys10-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2021/phys10-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/region/2021/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2021/phys11-1-tasks.pdf",
+   "phys11-1-sol.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2021/phys11-1-sol.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/region/2019/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2019/phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2019/phys9-2-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/region/2019/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2019/phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2019/phys11-2-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/region/2019/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2019/phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2019/phys10-2-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/region/2017/8": {
+   "phys8-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2017/phys8-1-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/region/2017/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2017/phys9-1-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/region/2017/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2017/phys10-1-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/region/2017/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2017/phys11-1-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/region/2015/8": {
+   "phys8-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2015/phys8-1-tasks.pdf",
+   "phys8-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2015/phys8-2-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/region/2015/9": {
+   "phys9-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2015/phys9-1-tasks.pdf",
+   "phys9-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2015/phys9-2-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/region/2015/10": {
+   "phys10-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2015/phys10-1-tasks.pdf",
+   "phys10-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2015/phys10-2-tasks.pdf"
+  },
+  "https://olympiads.bc-pf.org/physics/region/2015/11": {
+   "phys11-1-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2015/phys11-1-tasks.pdf",
+   "phys11-2-tasks.pdf": "https://cdn.bc-pf.org/olympiads/physics/national/region/2015/phys11-2-tasks.pdf"
+  }
+ }
+}

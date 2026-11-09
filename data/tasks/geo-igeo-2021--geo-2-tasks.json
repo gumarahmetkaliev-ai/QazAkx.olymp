@@ -1,0 +1,157 @@
+{
+ "setId": "geo-igeo-2021--geo-2-tasks",
+ "olympiadId": "geo-igeo-2021",
+ "title": "География → iGeo (международная) → 2021",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/igeo/2021/geo-2-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T18:10:05.874Z",
+ "quality": {
+  "tasks": 9,
+  "parts": 9,
+  "withPoints": 9,
+  "withReference": 0,
+  "withQuestion": 9,
+  "estimatedPoints": 9
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "You have the printed Map of the FWE-I area. Use this map to orient yourself and find the location of\nfive topical sites. The sites are marked on the map, but not labelled.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "The sequence of moving from one site to another is in numeric order: Site 1 (Start) → Site 2 → Site 3\n→ Site 4 → Site 5 (Finish).",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "The absolute height (elevation) at each site is lower than of the previous one on the route. Always go\ndown!",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "“Leaving” one site and “arriving” at the next one, do not return. Always move forward!",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "At each site you will get tasks you need to complete. For FWE-I you can gain maximum 15 marks.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "You are to decide for how long you will be “staying” at each site.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Задача 7",
+   "statement": "Answers should be written in English on the Response Sheet. For answers use a pen with a dark blue\ntint only. Do not forget to write your participant code in the upper right corner of both pages of the\nResponse Sheet.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Задача 8",
+   "statement": "This presentation will be stopped when 60 minutes end, regardless of whether you have visited all five\nsites, or not. Deliver your Response Sheet to the supervisor of your exam immediately then.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "8",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Задача 9",
+   "statement": "Keep the Map with you, it can be used as reference for Part II of the Fieldwork exercise (FWE-II).\n\n                                                Good luck!\n\nARRIVING TO THE STARTING POINT\nImagine you to the Hacıosman\nmetro station (green line), located\nin the Eastern Thrace, 2 km from\nthe Bosphorus.\n\nSITE 1. ISTANBUL HEIGHTS\n\nSite 1 is right across the road\nfrom an unfinished building of a\nhotel.\nAnalyze the map extract and\nassuming that each floor of this\nbuilding is 2.5 meters in height\nand the terrace on its roof is the\nsame height, answer the\nquestions from the next slide.\n\n                                     SITE 1. ISTANBUL HEIGHTS",
+   "total": 7,
+   "parts": [
+    {
+     "id": "9",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

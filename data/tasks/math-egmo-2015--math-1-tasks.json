@@ -1,0 +1,63 @@
+{
+ "setId": "math-egmo-2015--math-1-tasks",
+ "olympiadId": "math-egmo-2015",
+ "title": "Математика → EGMO → 2015",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/egmo/2015/math-1-tasks.pdf",
+ "solutionFile": "olympiads/math/s/egmo/2015/math-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:32.632Z",
+ "quality": {
+  "tasks": 3,
+  "parts": 3,
+  "withPoints": 3,
+  "withReference": 3,
+  "withQuestion": 3,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Пусть 4ABC — остроугольный треугольник, а точка D — основание высоты, прове-\nдённой из вершины C. Биссектриса угла ∠ABC пересекает CD в точке E, а описанную окруж-\nность ω треугольника 4ADE вторично пересекает в точке F . Докажите, что если угол\n∠ADF = 45◦ , то CF является касательной к окружности ω.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "Let \u0002ABC be an acute-angled triangle, and let D be the foot of the altitude from C.\nThe angle bisector of ∠ABC intersects CD at E and meets the circumcircle ω of triangle \u0002ADE\nagain at F. If ∠ADF = 45◦ , show that CF is tangent to ω."
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Домино — это плитка размера 2 × 1 или 1 × 2. Определите количество различных\nспособов расположить ровно n2 плиток домино без наложений на шахматной доске размера\n2n × 2n так, что каждый квадрат размера 2 × 2 содержит по крайней мере две пустых клет-\nки, которые находятся в одной и той же строке или одном и том же столбце.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "A domino is a 2 × 1 or 1 × 2 tile. Determine in how many ways exactly n2 dominoes\ncan be placed without overlapping on a 2n × 2n chessboard so that every 2 × 2 square contains at\nleast two uncovered unit squares which lie in the same row or column."
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Пусть n, m — натуральные числа, большие 1, и пусть a1 , a2 , . . . , am — натуральные\nчисла, не превосходящие nm . Докажите, что существуют натуральные числа b1 , b2 , . . . , bm , не\nпревосходящие n, такие, что\n\n                                НОД(a1 + b1 , a2 + b2 , . . . , am + bm ) < n,\n\nгде НОД(x1 , x2 , . . . , xm ) обозначает наибольший общий делитель чисел x1 , x2 , . . . , xm .\n\nLanguage: Russian                                                            Время: 4 часа и 30 минут\n                                                                 Каждая задача оценивается в 7 баллов",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "Let n, m be integers greater than 1, and let a1 , a2 , . . . , am be positive integers not\ngreater than nm . Prove that there exist positive integers b1 , b2 , . . . , bm not greater than n, such that\n\n                                    gcd(a1 + b1 , a2 + b2 , . . . , am + bm ) < n,\n\nwhere gcd(x1 , x2 , . . . , xm ) denotes the greatest common divisor of x1 , x2 , . . . , xm .\n\n                                                      Day 2"
+    }
+   ]
+  }
+ ]
+}

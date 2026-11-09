@@ -1,0 +1,66 @@
+{
+ "setId": "math-symmetrix-2nd-10-12--math1012-tasks",
+ "olympiadId": "math-symmetrix-2nd-10-12",
+ "title": "Математика → Symmetrix → 2nd → 10-12 класс",
+ "materialLabel": "Math1012 (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/symmetrix/2nd/10-12/math1012-tasks.pdf",
+ "solutionFile": "olympiads/math/symmetrix/2nd/10-12/math1012-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:43.264Z",
+ "quality": {
+  "tasks": 3,
+  "parts": 3,
+  "withPoints": 3,
+  "withReference": 1,
+  "withQuestion": 3,
+  "estimatedPoints": 3
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Пусть ABC – это треугольник. Окружность содержащая A и B пересекает отрезки AC\nи BC в точках D и E соответственно. Прямые AB и DE пересекаются в точке F , когда\nкак прямые BD м CF пересекаются в точке M . Докажите, что M F = M C тогда и только\nтогда когда M B · M D = M C 2 .",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Пусть a, b, c положительные вещественные числа. Докажите, что\n\n                     (2a + b + c)2   (2b + c + a)2   (2c + a + b)2\n                                   +               +               ≤ 8.\n                     2a2 + (b + c)2 2b2 + (c + a)2 2c2 + (a + b)2",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "5. Let a, b, c be positive real numbers. Prove that\n                         (2a + b + c)2   (2b + c + a)2   (2c + a + b)2\n                                       +               +               ≤ 8.\n                         2a2 + (b + c)2 2b2 + (c + a)2 2c2 + (a + b)2\n\n  First Solution: By multiplying a, b, and c by a suitable factor, we reduce the problem to\n  the case when a + b + c = 3. The desired inequality reads\n                            (a + 3)2       (b + 3)2       (c + 3)2\n                                       +              +               ≤ 8.\n                         2a2 + (3 − a)2 2b2 + (3 − b)2 2c2 + (3 − c)2\n\n           1 point for homogeneous approach and expressing b + c in terms of\n           a.\n\n  Set\n                                                     (x + 3)2\n                                         f (x) =\n                                                  2x2 + (3 − x)2\n  It suffices to prove that f (a) + f (b) + f (c) ≤ 8. Note that\n                                    x2 + 6x + 9     1 x2 + 6x + 9\n                       f (x) =        2\n                                                  = · 2\n                                  3(x − 2x + 3)     3 x − 2x + 3\n                                    \u0012                \u0013     \u0012                 \u0013\n                                  1         8x + 6       1         8x + 6\n                              =       1+ 2             =     1+\n                                  3       x − 2x + 3     3      (x − 1)2 + 2\n                                    \u0012            \u0013\n                                  1       8x + 6     1\n                              ≤       1+           = (4x + 4).\n                                  3         2        3\n  Hence,\n                                                1\n                         f (a) + f (b) + f (c) ≤ (4a + 4 + 4b + 4 + 4c + 4) = 8,\n                                                3\n  as desired.\n\n           6 points for completing the proof. No partial credits given in this\n           part.\n\n           Remark: The possible marks for this approach is 0, 1, 7.\n\n  Second Solution: Note that\n                     (2x + y)2 + 2(x − y)2 = 4x2 + 4xy + y 2 + 2x2 − 4xy + 2y 2\n                                             = 3(2x2 + y 2 ).\n  Setting x = a and y = b + c yields\n                           (2a + b + c)2 + 2(a − b − c)2 = 3(2a2 + (b + c)2 ).\n  Thus, we have\n                (2a + b + c)2    3(2a2 + (b + c)2 ) − 2(a − b − c)2       2(a − b − c)2\n                               =                                    = 3 −                .\n                2a2 + (b + c)2            2a2 + (b + c)2                  2a2 + (b + c)2\n  and its analogous forms. Thus, the desired inequality is equivalent to\n                          (a − b − c)2   (b − a − c)2   (c − a − b)2   1\n                                       +              +               ≥ .\n                         2a2 + (b + c)2 2b2 + (c + a)2 2c2 + (a + b)2  2\n\n         3 points for transforming into this formation. Serious but unsuc-\n         cessful attempt to use a and b + c as two variables will be awarded\n         1 point.\n\nBecause (b + c)2 ≤ 2(b2 + c2 ), we have 2a2 + (b + c)2 ≤ 2(a2 + b2 + c2 ) and its analogous forms.\nIt suffices to show that\n                    (a − b − c)2    (b − a − c)2    (c − a − b)2   1\n                      2    2    2\n                                  +   2    2    2\n                                                  +   2    2    2\n                                                                  ≥ ,\n                   2(a + b + c ) 2(a + b + c ) 2(a + b + c )       2\nor,\n                   (a − b − c)2 + (b − a − c)2 + (c − a − b)2 ≥ a2 + b2 + c2 .                (1)\n\n         3 points for reducing to this inequality.\n\nMultiplying this out the left-hand side of the last inequality gives 3(a2 +b2 +c2 )−2(ab+bc+ca).\nTherefore the inequality (1) is equivalent to 2[a2 + b2 + c2 − (ab + bc + ca)] ≥ 0, which is\nevident because\n\n               2[a2 + b2 + c2 − (ab + bc + ca)] = (a − b)2 + (b − c)2 + (c − a)2 .\n\nEqualities hold if (b + c)2 = 2(b2 + c2 ) and (c + a)2 = 2(c2 + a2 ), that is, a = b = c.\n\n         1 point for completing the proof.\n\n         Remark: Because the last step is only meaningful with previous steps, the\n         final 1 point will not be awarded to students if no evidence why it is useful\n         was provided. One the other hand, any serious attempt to use a and b + c as\n         two variables will be awarded 1 point. The possible marks for this approach\n         is 0, 1, 3, 6, 7.\n\nThird Solution: Given a function f of three variables, define the cyclic sum\n                  X\n                      f (p, q, r) = f (p, q, r) + f (q, r, p) + f (r, p, q).\n                        cyc\n\nWe first convert the inequality into\n\n                   2a(a + 2b + 2c) 2b(b + 2c + 2a) 2c(c + 2a + 2b)\n                                   +                +                ≤ 5.\n                    2a2 + (b + c)2   2b2 + (c + a)2   2c2 + (a + b)2\n\nSplitting the 5 among the three terms yields the equivalent form\n                              X 4a2 − 12a(b + c) + 5(b + c)2\n                                                                ≥ 0.                          (2)\n                              cyc\n                                        3[2a2 + (b + c)2 ]\n\n         1 points for transforming into this formation.\n\nThe numerator of the term shown factors as (2a − x)(2a − 5x), where x = b + c. We will show\nthat\n                            (2a − x)(2a − 5x)       4(2a − x)\n                                   2     2\n                                               ≥−             .                          (3)\n                               3(2a + x )           3(a + x)\nIndeed, (3) is equivalent to\n\n                         (2a − x)[(2a − 5x)(a + x) + 4(2a2 + x2 )] ≥ 0,\n\nwhich reduces to\n\n                      (2a − x)(10a2 − 3ax − x2 ) = (2a − x)2 (5a + x) ≥ 0,\n\nevident. We proved that\n\n                        4a2 − 12a(b + c) + 5(b + c)2    4(2a − b − c)\n                                                     ≥−               ,\n                             3[2a2 + (b + c)2 ]         3(a + b + c)\n\nhence (2) follows. Equality holds if and only if 2a = b + c, 2b = c + a, 2c = a + b, i.e., when\na = b = c.\n\n         6 points for transform into this formation.\n\n         Remark: The possible marks of this approach are 0, 1 and 7.\n\nFourth Solution: Given a function f of three variables, we define the symmetric sum\n                     X                         X\n                        f (x1 , . . . , xn ) =   f (xσ(1) , . . . , xσ(n) )\n                           sym                       σ\n\nwhere σ runs over all permutations of 1, . . . , n (for a total of n! terms). For example, if n = 3,\nand we write x, y, z for x1 , x2 , x3 ,\n                          X\n                                x3 = 2x3 + 2y 3 + 2z 3\n                           sym\n                         X\n                               x2 y = x2 y + y 2 z + z 2 x + x2 z + y 2 x + z 2 y\n                         sym\n                         X\n                               xyz = 6xyz.\n                         sym\n\nWe combine the terms in the desired inequality over a common denominator and use sym-\nmetric sum notation to simplify the algebra. The numerator of the difference between the\ntwo sides is\n             X\n                 8a6 + 8a5 b + 2a4 b2 + 10a4 bc + 10a3 b3 − 52a3 b2 c + 14a2 b2 c2 .\n                sym\n\n         1 point for multiplying out correctly.\n\nRecalling Schur’s Inequality, we have\n\n                      a3 + b3 + c3 + 3abc − (a2 b + b2 c + ca + ab2 + bc2 + ca2 )\n                  = a(a − b)(a − c) + b(b − a)(b − c) + c(c − a)(c − b) ≥ 0,\n\nor                                    X\n                                            a3 − 2a2 b + abc ≥ 0.\n                                      sym\n\nHence,                    X                             X\n              0 ≤ 14abc         a3 − 2a2 b + abc = 14         a4 bc − 28a3 b2 c + 14a2 b2 c2\n                          sym                           sym\n\n         3 points for proving this inequality.\n\nand by repeated AM-GM Inequality,\n                                              X\n                                        0≤          4a6 − 4a4 bc\n                                              sym\n\n(because a4 6 + a6 + a6 + a6 + b6 + c6 ≥ 6a4 bc and its analogous forms)\n\n         1 point for proving this inequality.\n\nand                         X\n                       0≤         4a6 + 8a5 b + 2a4 b2 + 10a3 b3 − 24a3 b2 c.\n                            sym\n\n         2 points for proving this inequality.\n\nAdding these three inequalities yields the desired result.\n\n         Remark:        In this approach, we have 1 + 1 = 2 and the other partial\n         credits are not additive. (Indeed, because the last two inequalities are in\n         very artificial forms, it is almost impossible to state and prove them with\n         the third to last inequality.) The possible marks for this approaches are 0,\n         1, 2, 3, 7."
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "На вершинах правильного шестиугольника записаны 6 неотрицательных целых чисел с\nсуммой 20032003 . Николай на каждом своем ходу может выбрать вершину и заменить число\nнаписанное на ней на разность чисел расположенных на двух соседних вершинах. Дока-\nжите, что Николай может исполнить последовательность ходов так, что на всех вершинах\nбудет написано 0.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

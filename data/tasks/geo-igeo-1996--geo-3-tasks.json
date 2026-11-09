@@ -1,0 +1,66 @@
+{
+ "setId": "geo-igeo-1996--geo-3-tasks",
+ "olympiadId": "geo-igeo-1996",
+ "title": "География → iGeo (международная) → 1996",
+ "materialLabel": "3 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/igeo/1996/geo-3-tasks.pdf",
+ "solutionFile": "olympiads/geography/s/igeo/1996/geo-3-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T18:11:57.499Z",
+ "quality": {
+  "tasks": 3,
+  "parts": 3,
+  "withPoints": 3,
+  "withReference": 0,
+  "withQuestion": 3,
+  "estimatedPoints": 3
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "What is shown in this diagram? (analysing diagarms)\na. Gross national product\nb. Oil production\nc. Agricultural production\nd. Number of inhabitants",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "1.   a"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Which is the best characterisation of this landscape? (analysing maps)\na. Plain\nb. Table land\nc. Low mountains\nd. High mountains",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "2.   b"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Newcastle is at the lowest bridging point on the Thyne, and stands on its northern bank. The city covers a\nroughly semi-circular area extending for four kilometres in all directions. Across the river lies Newcastle's twin -\nGateshead - covering about half the area of Newcastle.\n\nWhich map fits the description in the text? (analysing maps)\na. Map 1\nb. Map 2\nc. Both maps\nd. Neither of the two maps\n\nTheme Water",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "1.   c"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "setId": "math-imo-2003--math-tasks",
+ "olympiadId": "math-imo-2003",
+ "title": "Математика → IMO (международная) → 2003",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/2003/math-tasks.pdf",
+ "solutionFile": "olympiads/math/s/imo/2003/math-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:40.413Z",
+ "quality": {
+  "tasks": 6,
+  "parts": 6,
+  "withPoints": 6,
+  "withReference": 6,
+  "withQuestion": 6,
+  "estimatedPoints": 6
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "S is the set {1, 2, 3, . . . , 1000000}. Show that for any subset A\nof S with 101 elements we can find 100 distinct elements xi of S, such that\nthe sets {a + xi |a ∈ A} are all pairwise disjoint.\n                                                                           2",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "C1. Let A be a 101-element subset of the set S = {1, 2, . . . , 1000000}. Prove that there\nexist numbers t1 , t2 , . . . , t100 in S such that the sets\n\n                           Aj = {x + tj | x ∈ A},         j = 1, 2, . . . , 100\n\nare pairwise disjoint.\n\nSolution 1. Consider the set D = {x − y | x, y ∈ A}. There are at most 101 × 100 + 1 =\n10101 elements in D. Two sets A + ti and A + tj have nonempty intersection if and only if\nti − tj is in D. So we need to choose the 100 elements in such a way that we do not use a\ndifference from D.\n   Now select these elements by induction. Choose one element arbitrarily. Assume that\nk elements, k ≤ 99, are already chosen. An element x that is already chosen prevents us\nfrom selecting any element from the set x + D. Thus after k elements are chosen, at most\n10101k ≤ 999999 elements are forbidden. Hence we can select one more element.\n\nComment. The size |S| = 106 is unnecessarily large. The following statement is true:\n\n        If A is a k-element\n                        ¡¡ ¢ subset\n                                ¢ of S = {1, . . . , n} and m is a positive integer such\n     that n > (m − 1) k2 + 1 , then there exist t1 , . . . , tm ∈ S such that the sets\n     Aj = {x + tj | x ∈ A}, j = 1, . . . , m are pairwise disjoint.\n\nSolution 2. We give a solution to the generalised version.\n                       ©        ¯         ª                ¡¢\n   Consider the set B = |x − y| ¯ x, y ∈ A . Clearly, |B| ≤ k + 1.      2\n    It suffices to prove that there exist t1 , . . . , tm ∈ S such that |ti − tj | ∈\n                                                                                   / B for every distinct\ni and j. We will select t1 , . . . , tm inductively.\n                                                                                             ¡¡ ¢ ¢\n    Choose 1 as t1 , and consider the set C1 = S \\(B +t1 ). Then we have |C1 | ≥ n− k2 +1 >\n         ¡¡ ¢      ¢\n(m − 2) k2 + 1 .\n   For 1 ≤ ¡¡i < ¢ m, ¢suppose that t1 , . . . , ti and Ci are already defined and that |Ci | >\n               k\n(m − i − 1) 2 + 1 ≥ 0. Choose the least element in Ci as ti+1 and consider the set\nCi+1 = Ci \\ (B + ti+1 ). Then\n                                    µµ ¶       ¶               µµ ¶     ¶\n                                      k                           k\n                  |Ci+1 | ≥ |Ci | −      + 1 > (m − i − 2)           + 1 ≥ 0.\n                                      2                           2\n\n   Clearly, t1 , . . . , tm satisfy the desired condition.\n\n22"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Find all pairs (m, n) of positive integers such that 2mn2m−n3 +1\nis a positive integer.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "N3. Determine all pairs of positive integers (a, b) such that\n\n                                                 a2\n                                            2ab2 − b3 + 1\nis a positive integer.\n\nSolution. Let (a, b) be a pair of positive integers satisfying the condition. Because k =\na2 /(2ab2 − b3 + 1) > 0, we have 2ab2 − b3 + 1 > 0, a > b/2 − 1/2b2 , and hence a ≥ b/2. Using\nthis, we infer from k ≥ 1, or a2 ≥ b2 (2a − b) + 1, that a2 > b2 (2a − b) ≥ 0. Hence\n\n                                       a > b or 2a = b.                                   (∗)\n\n     Now consider the two solutions a1 , a2 to the equation\n\n                                   a2 − 2kb2 a + k(b3 − 1) = 0                             (])\n\nfor fixed positive integers k and b, and assume that one of them is an integer. Then the\nother is also an integer because a1 + a2 = 2kb2 . We may assume that a1 ≥ a2 , and we have\na1 ≥ kb2 > 0. Furthermore, since a1 a2 = k(b3 − 1), we get\n\n                                         k(b3 − 1)   k(b3 − 1)\n                              0 ≤ a2 =             ≤           < b.\n                                            a1          kb2\nTogether with (∗), we conclude that a2 = 0 or a2 = b/2 (in the latter case b must be even).\n     If a2 = 0, then b3 − 1 = 0, and hence a1 = 2k, b = 1.\n     If a2 = b/2, then k = b2 /4 and a1 = b4 /2 − b/2.\n     Therefore the only possibilities are\n\n                          (a, b) = (2l, 1) or (l, 2l) or (8l4 − l, 2l)\n\nfor some positive integer l. All of these pairs satisfy the given condition.\n\nComment 1. An alternative way to see (∗) is as follows: Fix a ≥ 1 and consider the\nfunction fa (b) = 2ab2 −b3 +1. Then fa is increasing on [0, 4a/3] and decreasing on [4a/3, ∞).\nWe have\n\n                                      fa (a) = a3 + 1 > a2 ,\n                                fa (2a − 1) = 4a2 − 4a + 2 > a2 ,\n                                fa (2a + 1) = −4a2 − 4a < 0.\n\nHence if b ≥ a and a2 /fa (b) is a positive integer, then b = 2a.\n   Indeed, if a ≤ b ≤ 4a/3, then fa (b) ≥ fa (a) > a2 , and so a2 /fa (b) is not an integer, a\ncontradiction, and if b > 4a/3, then\n\n(i) if b ≥ 2a + 1, then fa (b) ≤ fa (2a + 1) < 0, a contradiction;\n(ii) if b ≤ 2a − 1, then fa (b) ≥ fa (2a − 1) > a2 , and so a2 /fa (b) is not an integer, a\n     contradiction.\n\n                                                                                                55\n\nComment 2. There are several alternative solutions to this problem. Here we sketch three\nof them."
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "A convex hexagon has the property  √that for any pair of opposite\nsides the distance between their midpoints is 3/2 times the sum of their\nlengths Show that all the hexagon’s angles are equal.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "G6. Each pair of opposite sides of a convex hexagon has the following property:\n                                                      √\n   the distance between their midpoints is equal to 3/2 times the sum of their\n   lengths.\n\n    Prove that all the angles of the hexagon are equal."
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "ABCD is cyclic. The feet of the perpendicular from D to the\nlines AB, BC, CA are P, Q, R respectively. Show that the angle bisectors of\nABC and CDA meet on the line AC iff RP = RQ.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "G1. Let ABCD be a cyclic quadrilateral. Let P , Q, R be the feet of the perpendiculars\nfrom D to the lines BC, CA, AB, respectively. Show that P Q = QR if and only if the\nbisectors of ∠ABC and ∠ADC are concurrent with AC.\n\nSolution 1.\n\n                                       A\n\n                                   R\n\n                                                               D\n\n                                              Q\n\n                         B                            C    P\n\n   It is well-known that P , Q, R are collinear (Simson’s theorem). Moreover, since ∠DP C\nand ∠DQC are right angles, the points D, P , Q, C are concyclic and so ∠DCA = ∠DP Q =\n∠DP R. Similarly, since D, Q, R, A are concyclic, we have ∠DAC = ∠DRP . Therefore\n4DCA ∼ 4DP R.\n   Likewise, 4DAB ∼ 4DQP and 4DBC ∼ 4DRQ. Then\n                                         QR\n                          DA   DR   DB · BC   QR BA\n                             =    =      PQ\n                                            =    ·   .\n                          DC   DP   DB · BA   P Q BC\n\nThus P Q = QR if and only if DA/DC = BA/BC.\n  Now the bisectors of the angles ABC and ADC divide AC in the ratios of BA/BC and\nDA/DC, respectively. This completes the proof.\n\nSolution 2. Suppose that the bisectors of ∠ABC and ∠ADC meet AC at L and M ,\nrespectively. Since AL/CL = AB/CB and AM/CM = AD/CD, the bisectors in question\n\n32\n\nmeet on AC if and only if AB/CB = AD/CD, that is, AB · CD = CB · AD. We will prove\nthat AB · CD = CB · AD is equivalent to P Q = QR.\n   Because DP ⊥ BC, DQ ⊥ AC, DR ⊥ AB, the circles with diameters DC and DA\ncontain the pairs of points P , Q and Q, R, respectively. It follows that ∠P DQ is equal\nto γ or 180◦ − γ, where γ = ∠ACB. Likewise, ∠QDR is equal to α or 180◦ − α, where\nα = ∠CAB. Then, by the law of sines, we have P Q = CD sin γ and QR = AD sin α. Hence\nthe condition P Q = QR is equivalent to CD/AD = sin α/sin γ.\n   On the other hand, sin α/sin γ = CB/AB by the law of sines again. Thus P Q = QR if\nand only if CD/AD = CB/AB, which is the same as AB · CD = CB · AD.\n\nComment. Solution 2 shows that this problem can be solved without the knowledge of\nSimson’s theorem.\n\n                                                                                           33"
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "Given n > 2 and reals x1 ≤ x2 ≤ · · · ≤ xn , show that\n( i,j |xi − xj |)2 ≤ 32 (n2 − 1) i,j (xi − xj )2 . Show that we have equality iff\n P                              P\n\nthe sequence is an arithmetic progression.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "A4. Let n be a positive integer and let x1 ≤ x2 ≤ · · · ≤ xn be real numbers.\n\n(1) Prove that\n                                  Ã n                    !2                         n\n                                   X                               2(n2 − 1) X\n                                            |xi − xj |         ≤                   (xi − xj )2 .\n                                    i,j=1\n                                                                       3     i,j=1\n\n(2) Show that the equality holds if and only if x1 , . . . , xn is an arithmetic sequence.\n\nSolution. (1) Since both sides of the inequality arePinvariant under any translation of all\nxi ’s, we may assume without loss of generality that ni=1 xi = 0.\n   We have              n                                                    n\n                        X                          X                         X\n                                |xi − xj | = 2           (xj − xi ) = 2             (2i − n − 1)xi .\n                        i,j=1                      i<j                        i=1\n\n   By the Cauchy-Schwarz inequality, we have\n        Ã n               !2    n                 n                             n\n          X                    X                 X             n(n + 1)(n − 1) X 2\n                |xi − xj | ≤ 4     (2i − n − 1)2     x2i = 4 ·                     xi .\n          i,j=1                i=1               i=1\n                                                                      3        i=1\n\n   On the other hand, we have\n               n\n               X                             n\n                                             X             n\n                                                           X          n\n                                                                      X              n\n                                                                                     X                n\n                                                                                                      X\n                                   2\n                       (xi − xj ) = n              x2i −         xi         xj + n         x2j = 2n         x2i .\n               i,j=1                         i=1           i=1        j=1            j=1              i=1\n\n   Therefore                Ã n                     !2\n                             X                                                 n\n                                                               2(n2 − 1) X\n                                         |xi − xj |        ≤                   (xi − xj )2 .\n                                 i,j=1\n                                                                   3     i,j=1\n\n(2) If the equality holds, then xi = k(2i − n − 1) for some k, which means that x1 , . . . , xn\nis an arithmetic sequence.\n    On the other hand, suppose that x1 , . . . , x2n is an arithmetic sequence with common\ndifference d. Then we have\n                                              d               x1 + xn\n                                          xi = (2i − n − 1) +         .\n                                              2                  2\n                                                                                                Pn\nTranslate xi ’s by −(x1 + xn )/2 to obtain xi = d(2i − n − 1)/2 and                               i=1 xi = 0, from which\nthe equality follows.\n\n18"
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "Show that for each prime p, there exists a prime q such that\nnp − p is not divisible by q for any positive integer n.\n\n                                       1",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "N6. Let p be a prime number. Prove that there exists a prime number q such that for\nevery integer n, the number np − p is not divisible by q.\n\nSolution. Since (pp − 1)/(p − 1) = 1 + p + p2 + · · · + pp−1 ≡ p + 1 (mod p2 ), we can get at\nleast one prime divisor of (pp − 1)/(p − 1) which is not congruent to 1 modulo p2 . Denote\nsuch a prime divisor by q. This q is what we wanted. The proof is as follows. Assume that\n                                                                            2\nthere exists an integer n such that np ≡ p (mod q). Then we have np ≡ pp ≡ 1 (mod q)\nby the definition of q. On the other hand, from Fermat’s little theorem, nq−1 ≡ 1 (mod q),\nbecause q is a prime. Since p2 - q − 1, we have (p2 , q − 1) | p, which leads to np ≡ 1 (mod q).\nHence we have p ≡ 1 (mod q). However, this implies 1 + p + · · · + pp−1 ≡ p (mod q). From\nthe definition of q, this leads to p ≡ 0 (mod q), a contradiction.\n\nComment 1. First, students will come up, perhaps, with the idea that q has to be of the\nform pk + 1. Then,\n\n                       ∃n np ≡ p      (mod q) ⇐⇒ pk ≡ 1 (mod q),\n\ni.e.,\n                       ∀n np 6≡ p     (mod q) ⇐⇒ pk 6≡ 1 (mod q).\nSo, we have to find such q. These observations will take you quite naturally to the idea\nof taking a prime divisor of pp − 1. Therefore the idea of the solution is not so tricky or\ntechnical.\n\nComment 2. The prime q satisfies the required condition if and only if q remains a prime\n           √\nin k = Q( p p). By applying Chebotarev’s density theorem to the Galois closure of k, we\nsee that the set of such q has the density 1/p. In particular, there are infinitely many q\nsatisfying the required condition. This gives an alternative solution to the problem.\n\n60"
+    }
+   ]
+  }
+ ]
+}

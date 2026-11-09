@@ -1,0 +1,105 @@
+{
+ "setId": "math-imo-2020--math-tasks",
+ "olympiadId": "math-imo-2020",
+ "title": "Математика → IMO (международная) → 2020",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/2020/math-tasks.pdf",
+ "solutionFile": "olympiads/math/s/imo/2020/math-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:27.470Z",
+ "quality": {
+  "tasks": 6,
+  "parts": 6,
+  "withPoints": 6,
+  "withReference": 6,
+  "withQuestion": 6,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Consider the convex quadrilateral ABCD. The point P is in the interior of ABCD.\nThe following ratio equalities hold:\n\n                 ∠P AD : ∠P BA : ∠DP A = 1 : 2 : 3 = ∠CBP : ∠BAP : ∠BP C.\nProve that the following three lines meet in a point: the internal bisectors of angles ∠ADP and\n∠P CB and the perpendicular bisector of segment AB.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "1. Consider the convex quadrilateral ABCD. The point P is in the interior of ABCD.\n     The following ratio equalities hold:\n\n              ∠P AD : ∠P BA : ∠DP A = 1 : 2 : 3 = ∠CBP : ∠BAP : ∠BP C.\n\n     Prove that the following three lines meet in a point: the internal bisectors of angles\n     ∠ADP and ∠P CB and the perpendicular bisector of segment AB."
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "The real numbers a, b, c, d are such that a ≥ b ≥ c ≥ d > 0 and a + b + c + d = 1.\nProve that\n                                 (a + 2b + 3c + 4d) aa bb cc dd < 1.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "2. The real numbers a, b, c, d are such that a ≥ b ≥ c ≥ d > 0 and a + b + c + d = 1.\n     Prove that\n                               (a + 2b + 3c + 4d)aa bb cc dd < 1."
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "There are 4n pebbles of weights 1, 2, 3, . . . , 4n. Each pebble is coloured in one of n\ncolours and there are four pebbles of each colour. Show that we can arrange the pebbles into two\npiles so that the following two conditions are both satisfied:\n\n  • The total weights of both piles are the same.\n\n  • Each pile contains two pebbles of each colour.\n\nLanguage: English                                                      Time: 4 hours and 30 minutes.\n                                                                       Each problem is worth 7 points.\n\n                                                               English (eng), day 2\n\n                                                                          Tuesday, 22. September 2020",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "3. There are 4n pebbles of weights 1, 2, 3, . . . , 4n. Each pebble is coloured in one of n\n     colours and there are four pebbles of each colour. Show that we can arrange the\n     pebbles into two piles the total weights of both piles are the same, and each pile\n     contains two pebbles of each colour."
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "There is an integer n > 1. There are n2 stations on a slope of a mountain, all at\ndifferent altitudes. Each of two cable car companies, A and B, operates k cable cars; each cable\ncar provides a transfer from one of the stations to a higher one (with no intermediate stops). The\nk cable cars of A have k different starting points and k different finishing points, and a cable car\nwhich starts higher also finishes higher. The same conditions hold for B. We say that two stations\nare linked by a company if one can start from the lower station and reach the higher one by using\none or more cars of that company (no other movements between stations are allowed).\n    Determine the smallest positive integer k for which one can guarantee that there are two stations\nthat are linked by both companies.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "4. There is an integer n > 1. There are n2 stations on a slope of a mountain, all at\n     different altitudes. Each of two cable car companies, A and B, operates k cable\n     cars; each cable car provides a transfer from one of the stations to a higher one\n     (with no intermediate stops). The k cable cars of A have k different starting points\n     and k different finishing points, and a cable car which starts higher also finishes\n     higher. The same conditions hold for B. We say that two stations are linked by\n     a company if one can start from the lower station and reach the higher one by\n     using one or more cars of that company (no other movements between stations are\n     allowed). Determine the smallest positive integer k for which one can guarantee\n     that there are two stations that are linked by both companies."
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "A deck of n > 1 cards is given. A positive integer is written on each card. The deck\nhas the property that the arithmetic mean of the numbers on each pair of cards is also the geometric\nmean of the numbers on some collection of one or more cards.\n   For which n does it follow that the numbers on the cards are all equal?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "5. A deck of n > 1 cards is given. A positive integer is written on each card. The\n     deck has the property that the arithmetic mean of the numbers on each pair of\n     cards is also the geometric mean of the numbers on some collection of one or more\n     cards. For which n does it follow that the numbers on the cards are all equal?"
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "Prove that there exists a positive constant c such that the following statement is true:\n    Consider an integer n > 1, and a set S of n points in the plane such that the distance between\nany two different points in S is at least 1. It follows that there is a line ℓ separating S such that the\ndistance from any point of S to ℓ is at least cn−1/3 .\n    (A line ℓ separates a set of points S if some segment joining two points in S crosses ℓ.)\n\nNote. Weaker results with cn−1/3 replaced by cn−α may be awarded points depending on the value\nof the constant α > 1/3.\n\nLanguage: English                                                      Time: 4 hours and 30 minutes.\n                                                                       Each problem is worth 7 points.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "6. Consider an integer n > 1, and a set S of n points in the plane such that the\n     distance between any two different points in S is at least 1. Prove there is a line `\n     separating S such that the distance from any point of S to ` is at least Ω(n−1/3 ).\n     (A line ` separates a set of points S if some segment joining two points in S crosses\n     `.)\n\n                                             2\n\nIMO 2020 Solution Notes                              web.evanchen.cc, updated January 28, 2021\n\n§1 IMO 2020/1, proposed by Dominik Burek (POL)\nConsider the convex quadrilateral ABCD. The point P is in the interior of ABCD. The following\nratio equalities hold:\n\n               ∠P AD : ∠P BA : ∠DP A = 1 : 2 : 3 = ∠CBP : ∠BAP : ∠BP C.\n\nProve that the following three lines meet in a point: the internal bisectors of angles ∠ADP and\n∠P CB and the perpendicular bisector of segment AB.\n\n  Let O denote the circumcenter of 4P AB. We claim it is the desired concurrency\npoint.\n                                             C\n\n                                P\n                           D\n\n                                         O\n                       A                                   B\n\nIndeed, O obviously lies on the perpendicular bisector of AB. Now\n\n                                ]BCP = ]CBP + ]BP C\n                                        = 2]BAP = ]BOP\n\nit follows BOP C are cyclic. And since OP = OB, it follows that O is on the bisector of\n∠P CB, as needed.\n\n  Remark. The angle equality is only used insomuch ∠BAP is the average of ∠CBP and\n  ∠BP C, i.e. only 1+3\n                    2 = 2 matters.\n\n                                                 3\n\nIMO 2020 Solution Notes                                  web.evanchen.cc, updated January 28, 2021\n\n§2 IMO 2020/2, proposed by BEL\nThe real numbers a, b, c, d are such that a ≥ b ≥ c ≥ d > 0 and a + b + c + d = 1. Prove that\n\n                                (a + 2b + 3c + 4d)aa bb cc dd < 1.\n\n  By weighted AM-GM we have\n                             X            a\n               aa bb cc dd ≤                      · a = a2 + b2 + c2 + d2 .\n                                cyc\n                                    a + b + c + d\n\nConsequently, it is enough to prove that\n\n               (a2 + b2 + c2 + d2 )(a + 2b + 3c + 4d) ≤ 1 = (a + b + c + d)3 .\n\nExpand both sides to get\n\n                                        +a3                    +3b2 a +3c2 a    +3d2 a\n            +a3   +b2 a +c2 a +d2 a\n                                       +3a2 b                   +b3   +3b2 c    +3d2 b\n           +2a2 b +2b3 +2b2 c +2d2 b\n                                     < +3a2 c                  +3b2 c  +c3      +3d2 c\n           +3a2 c +3b2 c +3c3 +3d2 c\n                                       +3a2 d                  +3b d +3c2 d\n                                                                  2              +d3\n           +4a2 d +4b2 d +4c2 d +4d3\n                                       +6abc                   +6bcd +6cda      +6dab\n\nIn other words, we need to prove that\n\n                                                             +2b2 a +2c2 a +2d2 a\n                                                     +a2 b          +b2 c  +d2 b\n                       +b3\n                                             <\n                       +2c3\n             +a d +b d +c2 d +3d3\n               2    2\n                                                 +6abc +6bcd +6cda +6dab\n\n  This follows since\n\n                                       2b2 a ≥ b3 + c2 d\n                                       2c2 a ≥ 2c3\n                                       2d2 a ≥ 2d3\n                                         a2 b ≥ a2 d\n                                         b2 c ≥ b2 d\n                                         d2 b ≥ d3\n\nand 6(abc + bcd + cda + dab) > 0.\n\n                                                 4\n\nIMO 2020 Solution Notes                                    web.evanchen.cc, updated January 28, 2021\n\n§3 IMO 2020/3, proposed by Milan Haiman (HUN) and Carl\n   Schildkraut (USA)\nThere are 4n pebbles of weights 1, 2, 3, . . . , 4n. Each pebble is coloured in one of n colours and\nthere are four pebbles of each colour. Show that we can arrange the pebbles into two piles the\ntotal weights of both piles are the same, and each pile contains two pebbles of each colour.\n\n  The first key idea is the deep fact that\n                          1 + 4n = 2 + (4n − 1) = 3 + (4n − 2) = . . . .\nSo, place all four pebbles of the same colour in a box (hence n boxes). For each\nk = 1, 2, . . . , 2n we tape a piece of string between pebble k and 4n + 1 − k. To solve the\nproblem, it suffices to paint each string either blue or green such that each box has two\nblue strings and two green strings (where a string between two pebbles in the same box\ncounts double).\n\n                                              1       20\n\n                                              4       3\n\n                                              Box A\n\n               17     8                                                      13    15\n\n               11     5                                                      16     9\n\n                Box B                                                         Box E\n\n                            6    10                               2     12\n\n                           19     5                               16    18\n\n                            Box C                                  Box D\n   We can therefore rephrase the problem as follows, if we view boxes as vertices and\nstrings as edges:\n\n  Claim — Given a 4-regular multigraph on n vertices (where self-loops are allowed\n  and have degree 2), one can color the edges blue and green such that each vertex\n  has two blue and two green edges.\n\nProof. Each connected component of the graph can be decomposed into an Eulerian\ncircuit, since 4 is even. A connected component with k vertices has 2k edges in its\nEulerian circuit, so we may color the edges in this circuit alternating green and blue.\nThis may be checked to work.\n\n                                                  5\n\nIMO 2020 Solution Notes                                  web.evanchen.cc, updated January 28, 2021\n\n§4 IMO 2020/4, proposed by Tejaswi Navilarekallu (IND)\nThere is an integer n > 1. There are n2 stations on a slope of a mountain, all at different altitudes.\nEach of two cable car companies, A and B, operates k cable cars; each cable car provides a\ntransfer from one of the stations to a higher one (with no intermediate stops). The k cable cars\nof A have k different starting points and k different finishing points, and a cable car which starts\nhigher also finishes higher. The same conditions hold for B. We say that two stations are linked\nby a company if one can start from the lower station and reach the higher one by using one or\nmore cars of that company (no other movements between stations are allowed). Determine the\nsmallest positive integer k for which one can guarantee that there are two stations that are linked\nby both companies.\n\n  Answer: k = n2 − n + 1.\n  When k = n2 − n, the construction for n = 4 is shown below which generalizes readily.\n(We draw A in red and B in blue.)\n\n   To see this is sharp, view A and B as graphs whose connected components are paths\n(possibly with 0 edges; the direction of these edges is irrelevant). Now, if k = n2 − n + 1\nit follows that A and B each have exactly n − 1 connected components.\n   But in particular some component of A has at least n + 1 vertices. This component\nhas two vertices in the same component of B, as desired.\n\n   Remark. The main foothold for this problem is the hypothesis that the number of stations\n   should be n2 rather than, say, n. This gives a big hint towards finding the construction\n   which in turn shows how the bound can be computed.\n      On the other hand, the hypothesis that “a cable car which starts higher also finishes\n   higher” appears to be superfluous.\n\n                                                  6\n\nIMO 2020 Solution Notes                                        web.evanchen.cc, updated January 28, 2021\n\n§5 IMO 2020/5, proposed by Oleg Košik (EST)\nA deck of n > 1 cards is given. A positive integer is written on each card. The deck has the\nproperty that the arithmetic mean of the numbers on each pair of cards is also the geometric\nmean of the numbers on some collection of one or more cards. For which n does it follow that\nthe numbers on the cards are all equal?\n\n  The assertion is true for all n.\n\n  Setup (boilerplate). Suppose that a1 , . . . , an satisfy the required properties but are\nnot all equal. Let d = gcd(a1 , . . . , an ) > 1 then replace a1 , . . . , an by ad1 , . . . , adn . Hence\nwithout loss of generality we may assume\n\n                                        gcd(a1 , a2 , . . . , an ) = 1.\n\nWLOG we also assume\n                                          a1 ≥ a2 ≥ · · · ≥ an .\n\n  Main proof. As a1 ≥ 2, let p be a prime divisor of a1 . Let k be smallest index such\nthat p - ak (which must exist). In particular, note that a1 6= ak .\n  Consider the mean x = a1 +a2 ; by assumption, it equals some geometric mean, hence\n                               k\n\n                                    √                     a1 + ak\n                                    m   ai1 . . . aim =           > ak .\n                                                             2\nSince the arithmetic mean is an integer not divisible by p, all the indices i1 , i2 , . . . , im\nmust be at least k. But then the GM is at most ak , contradiction.\n\n   Remark. A similar approach could be attempted by using the smallest numbers rather\n   than the largest ones, but one must then handle the edge case an = 1 separately since no\n   prime divides 1.\n\n                                    √\n   Remark. Since 27+9     2 = 18 = 3 27 · 27 · 8, it is not true that in general the AM of two\n   largest different cards is not the GM of other numbers in the sequence (say the cards are\n   27, 27, 9, 8, . . . ).\n\n                                                      7\n\nIMO 2020 Solution Notes                                web.evanchen.cc, updated January 28, 2021\n\n§6 IMO 2020/6, proposed by Ting-Feng Lin and Hung-Hsun\n   Hans Yu (TWN)\nConsider an integer n > 1, and a set S of n points in the plane such that the distance between\nany two different points in S is at least 1. Prove there is a line ` separating S such that the\ndistance from any point of S to ` is at least Ω(n−1/3 ).\n   (A line ` separates a set of points S if some segment joining two points in S crosses `.)\n\n  We present the official solution given by the Problem Selection Committee.\n  Let’s suppose that among all projections of points in S onto some line m, the maximum\npossible distance between two consecutive projections is δ. We will prove that δ ≥\nΩ(n−1/3 ), solving the problem.\n  We make the following the definitions:\n   • Define A and B as the two points farthest apart in S. This means that all points\n     lie in the intersections of the circles centered at A and B with radius R = AB ≥ 1.\n   • We pick chord XY of        (B) such that XY ⊥ AB and the distance from A to XY\n     is exactly 12 .\n   • We denote by T the smaller region bound by            (B) and chord XY .\nThe figure is shown below with T drawn in yellow, and points of S drawn in blue.\n\n                                       X\n\n                                   T\n\n                           A                                      B\n                                  1               <δ\n                                  2\n\n                                       Y\n\n                                                             √\n  Claim (Length of AB + Pythagorean theorem) — We have XY < 2 nδ.\n\nProof. First, note that we have R = AB < (n − 1) · δ, since the n projections of points\nonto AB are spaced at most δ apart. The Pythagorean theorem gives\n                            s\n                                       1 2          "
+    }
+   ]
+  }
+ ]
+}

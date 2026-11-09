@@ -1,0 +1,82 @@
+{
+ "setId": "astro-iao-2011--astro-2-tasks",
+ "olympiadId": "astro-iao-2011",
+ "title": "Астрономия → IAO (международная) → 2011",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/iao/2011/astro-2-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T18:02:25.955Z",
+ "quality": {
+  "tasks": 4,
+  "parts": 4,
+  "withPoints": 4,
+  "withReference": 0,
+  "withQuestion": 4,
+  "estimatedPoints": 4
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Установите Юпитер в центре поля                       1. Bring Jupiter to the centre of field of\n   зрения телескопа. Покажите                               view of the telescope. Demonstrate the\n   результат экзаменатору. Зарисуйте                        result to the examiner. Draw a picture\n   расположение спутников Юпитера                           with the positions of the moons of\n   на момент наблюдения.                                    Jupiter at the moment of observation.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Определите и напишите на листке                       2. Calculate and write down on the paper\n   часовой угол и горизонтальные                            the hour angle and horizontal\n   координаты α Peg.                                        coordinates of α Peg.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Зарисуйте и пронумеруйте в                            3. Draw and enumerate in descending\n   порядке убывания яркости (1, 2, …)                       order by brightness (1, 2, …) the eight\n   восемь основных звёзд созвездия                          main stars of the “Cygnus”\n   “Cygnus”.                                                constellation.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "Определите поле зрения телескопа,                     4. Calculate the field of view of the\n   стоящего перед Вами.                                     telescope in front of you.\n   Фокусное расстояние окуляра                              The focal length of the eyepiece is\n   F = 10 мм.                                               F = 10 mm.\n\n    Максимальное время выполнения                                The maximum total time for all tasks\n         задания – 20 минут.                                              is 20 minutes.\n\n                                  Медведи желают Вам успехов!\n                                   The Bears wish you success!\n\n         Казахстан, Алма-Ата                       25.IX.2011                     Almaty, Kazakhstan",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

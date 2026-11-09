@@ -1,0 +1,105 @@
+{
+ "setId": "math-imo-2014--math-tasks",
+ "olympiadId": "math-imo-2014",
+ "title": "Математика → IMO (международная) → 2014",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/2014/math-tasks.pdf",
+ "solutionFile": "olympiads/math/s/imo/2014/math-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:33.655Z",
+ "quality": {
+  "tasks": 6,
+  "parts": 6,
+  "withPoints": 6,
+  "withReference": 6,
+  "withQuestion": 6,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Let a0 < a1 < a2 < · · · be an in\u001cnite sequence of positive integers. Prove that there\nexists a unique integer n ≥ 1 such that\n                                         a0 + a1 + · · · + an\n                                  an <                        ≤ an+1 .\n                                                 n",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "A1.     Let z0 ă z1 ă z2 ă ¨ ¨ ¨ be an infinite sequence of positive integers. Prove that there\nexists a unique integer n ě 1 such that\n                                          z0 ` z1 ` ¨ ¨ ¨ ` zn\n                                   zn ă                        ď zn`1 .                            p1q\n                                                  n\n                                                                                             (Austria)\nSolution. For n “ 1, 2, . . . define\n\n                                   dn “ pz0 ` z1 ` ¨ ¨ ¨ ` zn q ´ nzn .\n\nThe sign of dn indicates whether the first inequality in (1) holds; i.e., it is satisfied if and only\nif dn ą 0.\n\n     Notice that\n\n        nzn`1 ´ pz0 ` z1 ` ¨ ¨ ¨ ` zn q “ pn ` 1qzn`1 ´ pz0 ` z1 ` ¨ ¨ ¨ ` zn ` zn`1 q “ ´dn`1 ,\n\nso the second inequality in (1) is equivalent to dn`1 ď 0. Therefore, we have to prove that there\nis a unique index n ě 1 that satisfies dn ą 0 ě dn`1 .\n\n     By its definition the sequence d1 , d2 , . . . consists of integers and we have\n\n                                   d1 “ pz0 ` z1 q ´ 1 ¨ z1 “ z0 ą 0.\n\nFrom\n           `                                       ˘ `                        ˘\ndn`1 ´ dn “ pz0 ` ¨ ¨ ¨ ` zn ` zn`1 q ´ pn ` 1qzn`1 ´ pz0 ` ¨ ¨ ¨ ` zn q ´ nzn “ npzn ´ zn`1 q ă 0\n\nwe can see that dn`1 ă dn and thus the sequence strictly decreases.\n\n    Hence, we have a decreasing sequence d1 ą d2 ą . . . of integers such that its first element d1\nis positive. The sequence must drop below 0 at some point, and thus there is a unique index n,\nthat is the index of the last positive term, satisfying dn ą 0 ě dn`1 .\n\nComment. Omitting the assumption that z1 , z2 , . . . are integers allows the numbers dn to be all\npositive. In such cases the desired n does not exist. This happens for example if zn “ 2 ´ 21n for all\nintegers n ě 0.\n\nShortlisted problems – solutions                                                                          11"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Let n ≥ 2 be an integer. Consider an n × n chessboard consisting of n2 unit squares.\nA con\u001cguration of n rooks on this board is peaceful if every row and every column contains exactly\none rook. Find the greatest positive integer k such that, for each peaceful con\u001cguration of n rooks,\nthere is a k × k square which does not contain a rook on any of its k 2 unit squares.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "C3. Let n ě 2 be an integer. Consider an n ˆ n chessboard divided into n2 unit squares.\nWe call a configuration of n rooks on this board happy if every row and every column contains\nexactly one rook. Find the greatest positive integer k such that for every happy configuration\nof rooks, we can find a k ˆ k square without a rook on any of its k 2 unit squares.\n                                                                                     (Croatia)\n           X?   \\\nAnswer.      n´1 .\nSolution. Let ℓ be a positive integer. We will show that (i) if n ą ℓ2 then each happy\nconfiguration contains an empty ℓ ˆ ℓ square, but (ii) if n ď ℓ2 then there exists a happy\nconfiguration not containing such a square. These two statements together yield the answer.\n   (i). Assume that n ą ℓ2 . Consider any happy configuration. There exists a row R containing\na rook in its leftmost square. Take ℓ consecutive rows with R being one of them. Their union\nU contains exactly ℓ rooks. Now remove the n ´ ℓ2 ě 1 leftmost columns from U (thus at least\none rook is also removed). The remaining part is an ℓ2 ˆ ℓ rectangle, so it can be split into ℓ\nsquares of size ℓ ˆ ℓ, and this part contains at most ℓ ´ 1 rooks. Thus one of these squares is\nempty.\n    (ii). Now we assume that n ď ℓ2 . Firstly, we will construct a happy configuration with no\nempty ℓ ˆ ℓ square for the case n “ ℓ2 . After that we will modify it to work for smaller values\nof n.\n    Let us enumerate the rows from bottom to top as well as the columns from left to right\nby the numbers 0, 1, . . . , ℓ2 ´ 1. Every square will be denoted, as usual, by the pair pr, cq of\nits row and column numbers. Now we put the rooks on all squares of the form piℓ ` j, jℓ ` iq\nwith i, j “ 0, 1, . . . , ℓ ´ 1 (the picture below represents this arrangement for ℓ “ 3). Since each\nnumber from 0 to ℓ2 ´ 1 has a unique representation of the form iℓ ` j (0 ď i, j ď ℓ ´ 1), each\nrow and each column contains exactly one rook.\n                                    8\n                                             r  r\n                                          r\n                                    7\n\n                                               r\n                                    6\n\n                                         r r r\n                                    5\n                                    4\n                                    3\n\n                                           r\n                                    2\n\n                                        r\n                                    1\n                                    0\n                                        0 1   2 3   4 5    6   7   8\n\n   Next, we show that each ℓ ˆ ℓ square A on the board contains a rook. Consider such a\nsquare A, and consider ℓ consecutive rows the union of which contains A. Let the lowest of\nthese rows have number pℓ ` q with 0 ď p, q ď ℓ ´ 1 (notice that pℓ ` q ď ℓ2 ´ ℓ). Then the\nrooks in this union are placed in the columns with numbers qℓ ` p, pq ` 1qℓ ` p, . . . , pℓ ´ 1qℓ ` p,\np ` 1, ℓ ` pp ` 1q, . . . , pq ´ 1qℓ ` p ` 1, or, putting these numbers in increasing order,\n\n       p ` 1, ℓ ` pp ` 1q, . . . , pq ´ 1qℓ ` pp ` 1q, qℓ ` p, pq ` 1qℓ ` p, . . . , pℓ ´ 1qℓ ` p.\n\nOne readily checks that the first number in this list is at most ℓ ´ 1 (if p “ ℓ ´ 1, then q “ 0,\nand the first listed number is qℓ ` p “ ℓ ´ 1), the last one is at least pℓ ´ 1qℓ, and the difference\nbetween any two consecutive numbers is at most ℓ. Thus, one of the ℓ consecutive columns\nintersecting A contains a number listed above, and the rook in this column is inside A, as\nrequired. The construction for n “ ℓ2 is established.\n\nShortlisted problems – solutions                                                                   31\n\n    It remains to construct a happy configuration of rooks not containing an empty ℓ ˆ ℓ square\nfor n ă ℓ2 . In order to achieve this, take the construction for an ℓ2 ˆ ℓ2 square described above\nand remove the ℓ2 ´ n bottom rows together with the ℓ2 ´ n rightmost columns. We will have\na rook arrangement with no empty ℓ ˆ ℓ square, but several rows and columns may happen to\nbe empty. Clearly, the number of empty rows is equal to the number of empty columns, so one\ncan find a bijection between them, and put a rook on any crossing of an empty row and an\nempty column corresponding to each other.\n\nComment. Part (i) allows several different proofs. E.g., in the last paragraph of the solution, it\nsuffices to deal only with the case n “ ℓ2 ` 1. Notice now that among the four corner squares, at\nleast one is empty. So the rooks in its row and in its column are distinct. Now, deleting this row and\ncolumn we obtain an ℓ2 ˆ ℓ2 square with ℓ2 ´ 1 rooks in it. This square can be partitioned into ℓ2\nsquares of size ℓ ˆ ℓ, so one of them is empty.\n\n32                                                                            IMO 2014 South Africa"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Convex quadrilateral ABCD has ∠ABC = ∠CDA = 90◦ . Point H is the foot of the\nperpendicular from A to BD. Points S and T lie on sides AB and AD, respectively, such that H\nlies inside triangle SCT and\n\n                        ∠CHS − ∠CSB = 90◦ ,          ∠T HC − ∠DT C = 90◦ .\n\nProve that line BD is tangent to the circumcircle of triangle T SH .\n\nLanguage: English                                                        Time: 4 hours and 30 minutes\n\n                                                                         Each problem is worth 7 points\n\n                                                                                Language: English\n                                                                                                      Day: 2\n\n                                                                               Wednesday, July 9, 2014",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "G5. Let ABCD be a convex quadrilateral with =B “ =D “ 90 . Point H is the foot of\n                                                                   ˝\n\nthe perpendicular from A to BD. The points S and T are chosen on the sides AB and AD,\nrespectively, in such a way that H lies inside triangle SCT and\n\n                     =SHC ´ =BSC “ 90˝ ,       =T HC ´ =DT C “ 90˝ .\n\nProve that the circumcircle of triangle SHT is tangent to the line BD.\n                                                                                       (Iran)"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "Points P and Q lie on side BC of acute-angled triangle ABC so that ∠P AB = ∠BCA\nand ∠CAQ = ∠ABC . Points M and N lie on lines AP and AQ, respectively, such that P is the\nmidpoint of AM , and Q is the midpoint of AN . Prove that lines BM and CN intersect on the\ncircumcircle of triangle ABC .",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "G1.     The points P and Q are chosen on the side BC of an acute-angled triangle ABC so\nthat =P AB “ =ACB and =QAC “ =CBA. The points M and N are taken on the rays AP\nand AQ, respectively, so that AP “ P M and AQ “ QN. Prove that the lines BM and CN\nintersect on the circumcircle of the triangle ABC.\n                                                                                (Georgia)\nSolution 1. Denote by S the intersection point of the lines BM and CN. Let moreover\nβ “ =QAC “ =CBA and γ “ =P AB “ =ACB. From these equalities it follows that the\ntriangles ABP and CAQ are similar (see Figure 1). Therefore we obtain\n                                          BP   BP   AQ   NQ\n                                             “    “    “    .\n                                          PM   PA   QC   QC\nMoreover,\n                                          =BP M “ β ` γ “ =CQN .\nHence the triangles BP M and NQC are similar. This gives =BMP “ =NCQ, so the trian-\ngles BP M and BSC are also similar. Thus we get\n                                   =CSB “ =BP M “ β ` γ “ 180˝ ´ =BAC ,\nwhich completes the solution.\n                                                                     A\n                           A\n\n                          γ β\n\n                      β            β +γ     γ               B                               C\n              B                                 C                   Q P\n                          Q P\n\n                                                                L\n                                                                         S\n                               S\n                                                                             K\n                  N                  M                          N    X       M\n                               Figure 1                               Figure 2\n\nSolution 2. As in the previous solution, denote by S the intersection point of the lines BM\nand NC. Let moreover the circumcircle of the triangle ABC intersect the lines AP and AQ\nagain at K and L, respectively (see Figure 2).\n    Note that =LBC “ =LAC “ =CBA and similarly =KCB “ =KAB “ =BCA. It implies\nthat the lines BL and CK meet at a point X, being symmetric to the point A with respect\nto the line BC. Since AP “ P M and AQ “ QN, it follows that X lies on the line MN.\nTherefore, using Pascal’s theorem for the hexagon ALBSCK, we infer that S lies on the\ncircumcircle of the triangle ABC, which finishes the proof.\n\nComment. Both solutions can be modified to obtain a more general result, with the equalities\n                                          AP “ P M   and   AQ “ QN\nreplaced by\n                                                AP   QN\n                                                   “    .\n                                                PM   AQ\n\nShortlisted problems – solutions                                                                 51"
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "For each positive integer n, the Bank of Cape Town issues coins of denomination n1 .\nGiven a \u001cnite collection of such coins (of not necessarily di\u001berent denominations) with total value at\nmost 99 + 21 , prove that it is possible to split this collection into 100 or fewer groups, such that each\ngroup has total value at most 1.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "N3. A coin is called a Cape Town coin if its value is 1{n for some positive integer n. Given\na collection of Cape Town coins of total value at most 99 ` 21 , prove that it is possible to split\nthis collection into at most 100 groups each of total value at most 1.\n                                                                                    (Luxembourg)"
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "A set of lines in the plane is in general position if no two are parallel and no three\npass through the same point. A set of lines in general position cuts the plane into regions, some of\nwhich have \u001cnite area; we call these its \u001cnite regions. Prove that√for all su\u001eciently large n, in any\nset of n lines in general position it is possible to colour at least n of the lines blue in such a way\nthat none of its \u001cnite regions has a completely blue boundary.\n                      √               √\nNote: Results with     n replaced by c n will be awarded points depending on the value of the\nconstant c.\n\nLanguage: English                                                        Time: 4 hours and 30 minutes\n                                                                         Each problem is worth 7 points",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "C5. Consider n ě 3 lines in the plane such that no two lines are parallel and no three have a\ncommon point. These lines divide the plane into polygonal\n                                                        Pa regions;\n                                                              T      let F be the set of regions\nhaving finite area. Prove that it is possible to colour   n{2   of the lines blue in such a way\nthat no region in F has a completely blue boundary. (For a real number x, rxs denotes the\nleast integer which is not smaller than x.)\n                                                                                       (Austria)\nSolution. Let L be the given set of lines. Choose a maximal (by inclusion) subset B Ď L such\nthat when we colour the lines Paof B Tblue, no region in F has a completely blue boundary. Let\n|B| “ k. We claim that k ě         n{2 .\n    Let us colour all the\n                       `k˘lines of LzB red. Call a point blue if it is the intersection of two blue\nlines. Then there are 2 blue points.\n    Now consider any red line ℓ. By the maximality of B, there exists at least one region A P F\nwhose only red side lies on ℓ. Since A has at least three sides, it must have at least one blue\nvertex. Let us take one such vertex and associate it to ℓ.\n    Since each blue point belongs to four regions (some of which may be unbounded),         ` ˘ it is\nassociated to at most four red lines. Thus the total number of red lines is at most 4 k2 . On\nthe other hand, this number is n ´ k, so\n\n                      n ´ k ď 2kpk ´ 1q, thus n ď 2k 2 ´ k ď 2k 2 ,\n                Pa   T\nand finally k ě   n{2 , which gives the desired result.\n\nComment 1. The constant factor in the estimate can be improved in different ways; we sketch\ntwo of them below. On the other hand, the Problem Selection Committee is not aware of any results\n                                                                                                           ?\nshowing that it is sometimes impossible to colour k lines satisfying the desired condition for k \" n.\nIn this situation we find it more suitable to keep the original formulation of the problem.\n                                                                                  Pa       T"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "setId": "astro-ioaa-2014--astro-4-tasks",
+ "olympiadId": "astro-ioaa-2014",
+ "title": "Астрономия → IOAA (международная) → 2014 → 6 класс",
+ "materialLabel": "4 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/ioaa/2014/astro-4-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:57:52.759Z",
+ "quality": {
+  "tasks": 7,
+  "parts": 7,
+  "withPoints": 7,
+  "withReference": 0,
+  "withQuestion": 7,
+  "estimatedPoints": 7
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "The observational round in the field should take a maximum of 30 minutes;",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Please pay attention to the instructions by assistants.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "You will be directed to a designated telescope. Here you will find attached to the clipboard the\n   answersheet.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "For the observational test outdoor, we are using a Newtonian telescope on equatorial mount EQ5\n   (D=200 mm, F=1000 mm).\n    Note: the telescope is already aligned, but not necessarily calibrated – do not change the position of\nthe tripod!",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "Fill your student ID in the box.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "Please write the time at the start of the observation test on the top of next page!",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Задача 7",
+   "statement": "PLEASE WRITE ONLY ON THE PRINTED SIDE OF THE ANSWER SHEET. DON’T USE THE\n   REVERSE SIDE. The evaluator will not take into account what is written on the reverse of the\n   answersheet.\n\nGOOD LUCK!\n\n                OBSERVATIONAL                  Time of start\n\n                TEST\n                OUTDOOR\n\nQuestions",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

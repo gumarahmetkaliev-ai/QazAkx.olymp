@@ -1,0 +1,97 @@
+{
+ "setId": "astro-iao-2006--astro-1-tasks",
+ "olympiadId": "astro-iao-2006",
+ "title": "Астрономия → IAO (международная) → 2006",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/iao/2006/astro-1-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T18:09:09.692Z",
+ "quality": {
+  "tasks": 5,
+  "parts": 5,
+  "withPoints": 5,
+  "withReference": 0,
+  "withQuestion": 5,
+  "estimatedPoints": 5
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Telescope. On the observational round you will use a simple Newton-system telescope with the mirror\ndiameter О = 125 mm, focal length Е = 1025 mm and 3 eye-pieces with focal lengths Қ = 12 mm,\nЬ = 25 mm and f;= 38mm. Find оп what distances (Ax; =, Ах. =, Ax3= in vertical direction on the\nmiddle figure) it is necessary to move the corresponding eye-pieces (1,2,3) to readjust the telescope from\nobservation of the sky objects to observation of a monkey sitting at a distance L = 50 m from you. (Your\nanswer should have both formula and numerical values.) What eyepiece is the most suitable for\nobservation of the monkey? Why?\n\nAddition for В group.\n\n1+В. Telescope. L = 50 м as before, but now the monkey is running directly towards you (to steal something\nto eat) with a speed v=3 m/s. Find the rate (in mm/s) of moving the most suitable eye-piece for\nreadjusting the telescope to keep the monkey in focus.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "False star. The White Bear (whom was already met in the VII, VIII, ІХ and X International Astronomy\nOlympiads) decided to connect a telescope to a film photo camera to make photos of constellations. The\nexposure times used were of order of 5 minutes. His comrade Penguin appears to be a great joker and\nbought a photoflash lamp. He decided to play a trick on the Bear and to “put” an extra star in his sky\nimage, while the Bear photographed near-horizon constellations. The Penguin sitting in the photographic\narea of the Bear’s telescope (of course, relatively far from the telescope — 2.5 km) flashed once (sent one\nlight pulse) to the camera during the exposure. Estimate the stellar magnitude of the false star in the\nBear’s image.\n\nTake into account the parameters of the flash pulse. The photographic conditions (sensitivity of film,\ndiaphragm) while photographing objects with the flash at the distance of 1.5 metres (from both flash and\ncamera) should be the same as while photographing the same objects on a sunny day with an exposure\ntime of about 1/1000 second.\n\nThe solution has to include a picture with images of the telescope, Bear and Penguin.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Polar day and night. Find the boundaries of the region of the polar day and the region of polar night at\nthe dates when the Sun may be in Zenith in Mumbai, HBCSE. The latitude and longitude of HBCSE are\nare Ac = 72° 56', фс = 19° 03'. Take as many effects as possible into account.\n\n>                  “                                                   4\nых (                qin Astronomy 6;                   ж-              Round\n49 АЙЫ» %,      croup | a] | B|\nә           AX 252 52 72 5 с» EG          <>\n<  ee  о  of 4  Kio  5 >75           <\nм               ара ще\numbai, India 5705      Pes Бомбей, Индия\n10-19 Моуетһег 2006               a                 10-19 ноября 2006 г.\nХІ Международная астрономическая олимпиада    English\nTheoretical round. Problems to solve 4-5 (page 2 of 2)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "Galaxy. Figure 4.1. shows the distribution of hydrogen gas in the disk of the spiral galaxy NGC 1325 as a\ncontour map. The contour image is superimposed on an optical image of the galaxy. Assume the disk of\nthe galaxy to be nearly circular. Find the angular diameter of the galaxy. (As the angular size of the galaxy\nis small to an observer on the Earth, you can use plane geometry as an approximation.) Estimate the\ndiameter and distance to the galaxy in kpc. Find the angle of inclination of the galaxy plane with respect to\nthe plane of the sky.\n\nAddition for В group.\n\n4+B. Galaxy. Figure 4.2. shows 2° in diameter region of sky near NGC 1325. A radiomessage on the\nwavelength 2, = 20 cm has been sent to this region from the Earth in hope that after 260 years the sapiens\nhabitants of system of star ті Eri receive it. But the signal passed further and has been registered only by\nhabitants of NGC 1325. Scientists of NGC 1325 also think that intelligence exists in т, Eri system. What\nsize of radiotelescope should be possessed by citizens of NGC 1325 to identify that the signal issued in\nSolar system but not in ті Eri system.\n\nа group only.\n\na-5.Lunar satellite. These are two photos of the Moon taken by the same camera mounted on a lunar satellite.\nThe first photo has been made while the satellite was near its periselenion and the second one near the\naposelenion. Find from these data the value of the satellite's orbit eccentricity. Estimate the minimum\nperiod between the moments at which these two photos could be taken.\n\nДВ group only.\n\n6-5. Lunar satellite. These are two photos of the Moon taken by the same camera mounted on a lunar satellite.\nThe first photo has been made while the satellite was near its periselenion and the second one near the\naposelenion. Estimate from these data the maximum possible period of orbit around the Moon of this\nsatellite. Consider the lunar orbit around Earth as circular.\n\nData from the “Table of planetary data” may be used for the solving of every problem.\n\nО Мм а ы Meee ieee ee о\n\nКСП     е.\nҮС           Км  ды   Oy 6;                           ound\nxe     ot 1-2) (0; ЛЯ ”     Ly\n“$      252744727228     %»                Сгоир\nS      Боас 52 @ к       <>\nBe a dj / EES      =\n© о, ”о     Сү; за   >\nMumbai, India 2 РЕ, Бомбей, Индия      ие | Bee |\n10-19 November 2006 >.            10-19 ноября 2006 г.\nХІ Международная астрономическая олимпиада\n       ка\nРисунки к задачам теоретического тура\nTheoretical round. Pictures\nа\nЗет\n5%    oo айы ады;\n;                    1. Телескоп.    1. Telescope.             «№ oe\nр   СА                                                      Balke у EV aie se\n3                                                              ЖЕТЕС УС.\n\"oa                                      aed Fy. ae\nк                                                             a, ^^\nА                                                                                         te                                                    О:            ite ie\nA             SSS eee               ee    ec с\nЗИ.                           о» ы.\nШілтен                          Шы гы\n2% 4”            Ааа\n4. Галактика.    4. Galaxy.\nNGC 1325 (SAbc)\n5          ” 5крс\n30’     .              |     7%\nst Gee\n5              Се    о\n3 327 МЫСЫ.\nN                  ese     As\n< -21°33'          <       LFS\n:            . АСЕ А\nО                        АС Х\nШ     34’              м)\nа                    к. 522-2224\n35!       7                  ;                                        :\nФ               Жұт\n36\"\n40°       30° 3°24™205\nR.A. (22000)                 я жа.            ее\nhese   АА           =   № \\",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "Спутник Луны.                 е                 “\n5. Lunar satellite.        ”                     a    і\n\"жер    |             к.\n       | Жж   | %             le  bsp\n>\nIndia, Mumbai              2006              Бомбей, Индия\n\n| Ae                   anal Astronoyy,                           ж-               Роипа\n53.65        ANS     ТІС?”     4 (7           _\nS    Dose: Tg    %,              Group                  |\n(4        Есе::24%-522%         <\n: го    У Фр           =\nмə      о 4) Wis sh OS\nOO GeO                                                               5\nMumbai, India ЗОВ  DE  Бомбей, Инлия                ШЕ   Р усскии\n10-19 November 2006             “ие.           10-19 ноября 2006 г.          language |\n.\nХІ Международная астрономическая олимпиада    English\nЭлементы орбит.\nФизические характеристики некоторых планет, Луны и Солнца\nParameters of orbits.\nPhysical characteristics of some planets, Moon and Sun\nСреднее           Сидерический       Экс- | Эквато-              Сред- | Ускор. | Макс.\nНебесное         расстояние от           период обрашения        цен- | риальн. | Масса        HAS        своб. | блеск,\nтело,      центрального тела                          триси- | диаметр              плот- | пад. | вид.с | Аль-\nпланета       в                    в           в        тет,                          ность | упов. | Земли | бедо\nастр.               тропич. | средних               км      1 474 =   ы”    м”     **)\nед.                 годах          а        е\n Еее\nВоду,         central bod        or analogous) period | centri- | diameter | Mass     den- | acceler.| magn. | Al-\nplanet        in                   in                   city                           sity | atsurf.| from | bedo\nastr.              troph.     in days             km       4        3      2    Earth\nunits                 =          ОЙ.                М4 | g/em | т? | ON\nе”       1,610” | 2,510!| 2240       8-10\"           1392000 | 1989000 | 1,409            -26,8\"\nМеркурий                                                                                                   т”\nаку       0,387      57,9 | 0,241        87,97 | 0,206 | 4879 | 0,3302| 5,43 | 3,70 | 22\"| 0,06\nны        0,723 | 1082 | 0,615      224,70 | 0,007 | 12104 | 4,8690| 5,24 | 8,87 | -4,7™ | 0,78\nы мас.          1,000 | 149,6 | 1,000 | 36526 | 0,017 | 12756 | 5,9742| 5,515| 9,81              0,36\nЛуна        0,00257 | 0,38440 | 0,0748 | 27,3217 | 0,055 | 3475 | 0,0735| 3,34 | 1,62 | 42.7” | 0,07\nМооп\nы”          1,524 | 227,9 | 1,880 | 686,98 | 0,093 | 6794 | 0,6419| 3,94 | 3Л| -2.0\" | 0,15\nое       5,204 | 778,6 | 11,862 | 4332,59 | 0,048 | 142984 | 1899,8 | 1,33 | 24,86 | -27” | 0,66\nСаура        9,584 | 1433,7 | 29,458 | 10759,20 | 0,054 | 120536 | 568,50 | 0,70 | 1041| 07\"| 0,68\nSaturn\n**) Для внешних планет и Луны - в среднем противостоянии,\n**) For outer planets and Moon - іп mean opposition.\nIndia, Mumbai                          2006                          Бомбей, Индия",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

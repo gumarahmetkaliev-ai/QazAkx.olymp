@@ -1,0 +1,69 @@
+{
+ "setId": "math-egmo-2022--math-2-tasks",
+ "olympiadId": "math-egmo-2022",
+ "title": "Математика → EGMO → 2022",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/egmo/2022/math-2-tasks.pdf",
+ "solutionFile": "olympiads/math/s/egmo/2022/math-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T17:49:26.630Z",
+ "quality": {
+  "tasks": 3,
+  "parts": 3,
+  "withPoints": 3,
+  "withReference": 3,
+  "withQuestion": 3,
+  "estimatedPoints": 3
+ },
+ "tasks": [
+  {
+   "number": 4,
+   "title": "Для каждого натурального числа 𝑛𝑛 ≥ 2, определите наибольшее",
+   "weight": null,
+   "total": 10,
+   "statement": "натуральное число N, для которого существует N+1 вещественных чисел\n𝑎𝑎0 , 𝑎𝑎1 , 𝑎𝑎3 , … , 𝑎𝑎𝑁𝑁 таких, что\n                      1\n   (1) 𝑎𝑎0 + 𝑎𝑎1 = − 𝑛𝑛, и\n   (2) (𝑎𝑎𝑘𝑘 + 𝑎𝑎𝑘𝑘−1 )(𝑎𝑎𝑘𝑘 + 𝑎𝑎𝑘𝑘+1 ) = 𝑎𝑎𝑘𝑘−1 − 𝑎𝑎𝑘𝑘+1 , при 1 ≤ 𝑘𝑘 ≤ 𝑁𝑁 − 1",
+   "parts": [
+    {
+     "id": "4.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "Given a positive integer n ≥ 2, determine the largest positive integer N for which there exist N + 1\nreal numbers a0 , a1 , . . . , aN such that\n                1\n (1) a0 + a1 = − , and\n                n\n (2) (ak + ak−1 )(ak + ak+1 ) = ak−1 − ak+1 for 1 ≤ k ≤ N − 1.\n\n                                                                                       Proposed by: Romania\n\nSolution 1. (ak + ak−1 )(ak + ak+1 ) = ak−1 − ak+1 is equivalent to (ak + ak−1 + 1)(ak + ak+1 − 1) = −1.\nLet bk = ak + ak+1 . Thus we need b0 , b1 , ... the following way: b0 = − n1 and (bk−1 + 1)(bk − 1) = −1.\nThere is a proper sequence b0 , b1 , ..., bN −1 if and only if there is proper sequence a0 , a1 , ..., aN , be-\ncause from a a proper (ak ) sequence we can get a proper (bk ) sequence with bk = ak + ak+1 for\nk = 0, 1, ..., N − 1 and from a proper (bk ) sequence we can get a proper (ak ) sequence by arbitrarily\nsetting a0 and then inductively defining ak = bk−1 − ak−1 for k = 1, 2, ..., N .\n\n                                      1\n   We prove by induction that bk = − n−k for k < n. This is true for k = 0, as b0 = − n1 and\n                                             1                1              1\n                              bk = 1 −              =1−         1     =−\n                                         bk−1 + 1         1 − n−k+1         n−k\nfor k < n. Thus there is a proper sequence b0 , b1 , ..., bn−1 , but it can’t be continued, because bn−1 +1 =\n0 so there is no bn for which (bn−1 + 1)(bn − 1) = −1.\n    Therefore the longest proper sequence (bk ) is n-long, so the longest proper sequence (ak ) is n + 1\nlong, so N = n.\n\nSolution 2. The required maximum is N = n.\n    To rule out the case N ≥ n + 1, it is clearly sufficient to rule out the case N = n + 1.\n    Assume for contradiction that a0 , a1 , . . . , an+1 are real numbers satisfying both conditions in the\nstatement. It is sufficient to show that ak + ak+1 = 0 for some k ≤ n, because then ak−1 − ak+1 = 0\nso ak+1 = ak−1 , therefore ak−1 + ak = 0 and so on, by backwards recursion we get that aj + aj+1 = 0\nfor all 0 ≤ j ≤ k, but this is a contradiction with a0 + a1 = − n1 .\n    To prove that ak + ak+1 = 0 for some k ≤ n, assume that ak + ak+1 ̸= 0 for all k ≤ n, to rewrite\nthe second condition in the statement in the form\n                                   1                 1\n                                         −                 = 1, k = 1, . . . , n.\n                               ak + ak+1 ak−1 + ak\nand sum both sides over the full range from k = 1 to n. This gives\n                                              1        1\n                                                   −        = n.\n                                          an + an+1 a0 + a1\nAs a0 + a1 = − n1 , this means that an +a1 n+1 = 0, which is a contradiction. Consequently, N ≤ n.\n   To provide n + 1 real numbers satisfying both conditions in the statement, fix a0 and go through\nthe telescoping procedure above to obtain\n                                                 k\n                                         k\n                                                 X (−1)k−j+1\n                             ak = (−1) a0 +                    ,   k = 1, . . . , n.\n                                                 j=1\n                                                       n−j+1\n\n   This concludes the proof.\n\nEGMO2022 Problems and Solutions                                                                         13",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Для каждой пары натуральных чисел 𝑛𝑛 и 𝑘𝑘 через 𝑓𝑓(𝑛𝑛, 2𝑘𝑘) обозначим",
+   "weight": null,
+   "total": 10,
+   "statement": "количество способов, которыми можно полностью покрыть доску размера 𝑛𝑛 × 2k\nпри помощи 𝑛𝑛𝑛𝑛 доминошек размера 2 × 1. (Например, 𝑓𝑓(2,2) = 2 и 𝑓𝑓(3,2) = 3.)\nНайдите все натуральные числа 𝑛𝑛 такие, что для каждого натурального числа 𝑘𝑘\nчисло 𝑓𝑓(𝑛𝑛, 2𝑘𝑘) нечётно.",
+   "parts": [
+    {
+     "id": "5.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "For all positive integers n, k, let f (n, 2k) be the number of ways an n × 2k board can be fully covered\nby nk dominoes of size 2 × 1. (For example, f (2, 2) = 2 and f (3, 2) = 3.)\nFind all positive integers n such that for every positive integer k, the number f (n, 2k) is odd.\n                                                                                   Proposed by: U.S.A.\n\nSolution. The integers n with the requested property are exactly the ones of the form 2k − 1.\n   In what follows, let f (m, n) denote the number of domino tilings of an m × n grid. (For conveni-\nence, we also allow m and n to be 0, in which case f (m, n) = 1.)\nClaim. f (m, 2n + 1) ≡ f (m, n) (mod 2) for all n and even m\nProof. Consider reflecting m × (2n + 1) tilings across the central column. In this way, the tilings are\ngrouped into singletons and pairs, so modulo 2, f (m, 2n+1) is congruent to the number of singletons.\n   If a tiling is invariant under reflection in the central column, then every domino with one cell in\nthat column must have both cells in that column.\n   In other words, the central column is filled with m2 vertical dominoes, splitting the remainder of\nthe grid into two m × n grids. Obeying the symmetry constraint, there are f (m, n) tilings: each of\nthe tilings of the left grid fixes the tiling of the right grid.\nClaim. f (n, n) ≡ 0 (mod 2) for all even n ≥ 2. (Recall that f (0, 0) = 1 is odd.)\nProof. Consider reflecting n × n tilings across the diagonal. This groups the tilings into pairs, (no\ntiling is grouped with itself). Hence the number of n × n tilings is even.\n   We are ready to complete the solution.\n\n   • If n is odd, the first claim shows that n satisfies the property if and only if 12 (n − 1) does.\n\n   • If n ≥ 2 is even, the second claim shows that n does not satisfy the property.\n\n   • If n = 0, then n satisfies the property, as f (m, 0) = 1 always.\n\nThis concludes the proof that the sought numbers are the ones of the form 2k − 1.\n\nSolution 2.\n    Color the board as a chessboard. Consider the bipartite graph whose vertices are the squares\nand the neighbors are connected by an edge. Notice that a domino tiling described in the problem\ncorresponds to a perfect matching in this bipartite graph, so we are interested in the number of\nperfect matchings.\n    And that is the permanent of the (bipartite) adjacency matrix. However we need to compute it\nmod 2 (over F2 ), so that is the determinant of that matrix.\n    So our goal is to decide whether the determinant is 0 or 1 mod 2, or in other world, that matrix\nis singular or not. From now we compute everything mod 2. Now we understand what does it mean,\nthat a vector v is in the nullspace (has eigenvalue 0). But each entry of v is 0 − 1, so in other words\nwe choose a subset of the black squares (v is the characteristic vector of that subset). So in the\nlanguage of the board, there is a nontrivial v in the nullspace iff we have a subspace of black square\nsuch a way that each white square has even number of black chosen neighbors.\n    If n is even, then we can choose a subset such a way in the n × n square: the diagonal.\n    Now we prove similar connection between n and 2n + 1: there is a construction for n iff we have\none for 2n + 1. k is always even. If we have a construction in n × k then we have one in (2n + 1) × k:\nwe mirror the construction to the middle row.\nNow we prove that from a construction in (2n + 1) × k we can make a construction in n × k. First, we\n\nEGMO2022 Problems and Solutions                                                                         14\n\ndon’t have any chosen black square in the middle row. Then the chosen black squares in the upper\n(or lower) n × k rectangle is a construction for n × k. Second, we have some chosen black square\nin the middle row. Because we can find a white square in the middle row such that is has only one\nchosen black neighbor in the middle row. Thus this construction isn’t symmetric to the horizontal\nline the symmetric difference of the construction and its reflection (to the vertical line) is a nontrivial\nvector in the nullspace, thus we can use the first case.\n\nEGMO2022 Problems and Solutions                                                                   15",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Дан вписанный четырехугольник 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 с центром окружности 𝑂𝑂",
+   "weight": null,
+   "total": 10,
+   "statement": "Биссектрисы внутренних углов 𝐴𝐴 и 𝐵𝐵 пересекаются в точке 𝑋𝑋, биссектрисы\nвнутренних углов 𝐵𝐵 и 𝐶𝐶 пересекаются в точке 𝑌𝑌, биссектрисы внутренних углов 𝐶𝐶 и\n𝐷𝐷 пересекаются в точке 𝑍𝑍, а биссектрисы внутренних углов 𝐷𝐷 и 𝐴𝐴 пересекаются в\nточке 𝑊𝑊. Пусть 𝐴𝐴𝐴𝐴 и 𝐵𝐵𝐵𝐵 пересекаются в точке 𝑃𝑃. Предположим, что точки\n𝑋𝑋, 𝑌𝑌, 𝑍𝑍, 𝑊𝑊, 𝑂𝑂 и 𝑃𝑃 различны. Докажите, что 𝑂𝑂, 𝑋𝑋, 𝑌𝑌, 𝑍𝑍 и 𝑊𝑊 лежат на одной окружности\nтогда и только тогда, когда 𝑃𝑃, 𝑋𝑋, 𝑌𝑌, 𝑍𝑍 и 𝑊𝑊 лежат на одной окружности.\n\n                                                                    Время работы: 4 часа 30 минут\n                                                             Каждая задача оценивается в 7 баллов.\n\n       Чтобы олимпиада была честной и доставила всем удовольствие, пожалуйста,\n       не упоминайте и не пишите ничего про задачи в интернете и любых\n       социальных сетях до 04:00 ночи 10 апреля по времени Алматы.",
+   "parts": [
+    {
+     "id": "6.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "1. From BDD′ CAA′ we see that the points P , W and E are collinear.",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "setId": "math-egmo-2023--math-2-tasks",
+ "olympiadId": "math-egmo-2023",
+ "title": "Математика → EGMO → 2023",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/egmo/2023/math-2-tasks.pdf",
+ "solutionFile": "olympiads/math/s/egmo/2023/math-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:25.252Z",
+ "quality": {
+  "tasks": 3,
+  "parts": 3,
+  "withPoints": 3,
+  "withReference": 3,
+  "withQuestion": 3,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "Улитка Турбо сидит в некоторой точке окружности длиной 1. Дана бесконечная\nпоследовательность действительных положительных чисел c1 , c2 , c3 , . . .. Турбо последовательно\nпроползает расстояния c1 , c2 , c3 , . . . по этой окружности, каждый раз выбирая ползти ли ей по\nчасовой стрелке или против часовой стрелки.\nНапример, если последовательность c1 , c2 , c3 , . . . это 0.4, 0.6, 0.3, . . ., то Турбо может начать ползти\nследующим образом:\n\n                           0.4\n                                                   0.6\n\n                                                         0.3\n\nОпределите наибольшую константу C > 0 со следующим свойством: для любой последователь-\nности действительных положительных чисел c1 , c2 , c3 , . . . таких, что ci < C для каждого i, Турбо\nможет (после изучения последовательности) гарантировать, что на окружности есть точка, ко-\nторую она никогда не посетит и не переползёт.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "Turbo the snail sits on a point on a circle with circumference 1. Given an\ninfinite sequence of positive real numbers c1 , c2 , c3 , . . ., Turbo successively crawls distances\nc1 , c2 , c3 , . . . around the circle, each time choosing to crawl either clockwise or counter-\nclockwise.\nFor example, if the sequence c1 , c2 , c3 , . . . is 0.4, 0.6, 0.3, . . ., then Turbo may start crawling\nas follows:\n\n                        0.4\n                                                0.6\n\n                                                       0.3\n\nDetermine the largest constant C > 0 with the following property: for every sequence of\npositive real numbers c1 , c2 , c3 , . . . with ci < C for all i, Turbo can (after studying the\nsequence) ensure that there is some point on the circle that it will never visit or crawl\nacross."
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "Дано целое положительное число s ⩾ 2. Для каждого целого положительного числа k\nопределим его реверсное значение k ′ следующим образом: запишем k в виде as+b, где a, b − целые\nнеотрицательные числа и b < s, затем положим k ′ = bs + a. Для целого положительного числа\nn рассмотрим бесконечную последовательность чисел d1 , d2 , . . ., где d1 = n и di+1 − реверсное\nзначение числа di для каждого целого положительного значения i.\nДокажите, что эта последовательность содержит 1 тогда и только тогда, когда остаток при де-\nлении числа n на число s2 − 1 равен либо 1, либо s.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "We are given a positive integer s ⩾ 2. For each positive integer k, we define\nits twist k ′ as follows: write k as as + b, where a, b are non-negative integers and b < s,\nthen k ′ = bs + a. For the positive integer n, consider the infinite sequence d1 , d2 , . . . where\nd1 = n and di+1 is the twist of di for each positive integer i.\n\n                                                   1\n\nEGMO 2023, Portorož                                                     Problems & Solutions\n\nProve that this sequence contains 1 if and only if the remainder when n is divided by\ns2 − 1 is either 1 or s."
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "Дан треугольник ABC с описанной около него окружностью Ω. Пусть Sb и Sc − со-\nответственно середины дуг AC и AB, не содержащих третью вершину треугольника ABC. Пусть\nNa − середина дуги BAC (дуги BC, содержащей вершину A). Пусть I − центр вписанной окруж-\nности треугольника ABC. Пусть ωb − окружность, которая касается прямой AB и внутренним\nобразом касается окружности Ω в точке Sb , и пусть ωc − окружность, которая касается прямой\nAC и внутренним образом касается окружности Ω в точке Sc . Докажите, что прямая INa и пря-\nмая, проходящая через точки пересечения окружностей ωb и ωc , пересекаются на окружности\nΩ.\n\nLanguage: Russian                                                     Время работы: 4 часа 30 минут\n                                                                Каждая задача оценивается в 7 баллов\n\nУсловия задач запрещено разглашать до 00:00 ночи 17 апреля 2023 г.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "Let ABC be a triangle with circumcircle Ω. Let Sb and Sc respectively\ndenote the midpoints of the arcs AC and AB that do not contain the third vertex. Let\nNa denote the midpoint of arc BAC (the arc BC containing A). Let I be the incentre of\nABC. Let ωb be the circle that is tangent to AB and internally tangent to Ω at Sb , and\nlet ωc be the circle that is tangent to AC and internally tangent to Ω at Sc . Show that\nthe line INa , and the line through the intersections of ωb and ωc , meet on Ω.\nThe incentre of a triangle is the centre of its incircle, the circle inside the triangle that is\ntangent to all three sides.\n\n                                               2\n\nEGMO 2023, Portorož                                                       Problems & Solutions\n\nSolutions"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "setId": "astro-ioaa-2016--astro-3-tasks",
+ "olympiadId": "astro-ioaa-2016",
+ "title": "Астрономия → IOAA (международная) → 2016",
+ "materialLabel": "3 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/ioaa/2016/astro-3-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T18:21:44.601Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Observational Examination (OT)\n                                      Examination                                                     Page 1 of 1\n\n        When you arrive at your observing station, DO NOT disturb the telescope before attempting the first\n        question (OT1).\n\n(OT1) The telescope is already set to a deep sky object. Identify the object and tick the correct box in the         10\n      Summary Answersheet.\n      Note: You can use any technique to identify the object. However, if you disturb the telescope, you will\n            NOT be helped to bring it back to the original position.\n\n(OT2)\n        (OT2.1) Point the telescope to M45. Show the object to the examiner.                                         5\n                 Note: 1. After 5 minutes, 1 mark will be deducted for a delay of every minute (or part thereof)\n                 in pointing the telescope.\n                       2. You have a single chance to be evaluated. If your pointing is incorrect the examiner\n                       will change the pointing to M45 for the next part of the question.\n        (OT2.2) Your Summary Answersheet shows telescopic field of M45. In the image, seven (7) brightest            15\n                stars of the cluster are replaced by ‘+’ sign. Compare the image with the field you see in the\n                telescope and number the ‘+’ marks from 1 to 7 in the order of decreasing brightness (brightest\n                is 1 and faintest is 7) of the corresponding stars.\n\n(OT3) The examiner will give you a moon filter, an eyepiece with a cross-wire and a stopwatch. Point the             20\n      telescope towards the Moon. Attach the filter to the telescope. On the surface of the Moon, you will see\n      several “seas” (maria) which are nearly circular in shape. Estimate the diameter of Mare Serenitatis, 𝐷MSr ,\n      labelled as “1” in the figure below, as a fraction of the lunar diameter, 𝐷Moon , by measuring the telescope\n      drift times, 𝑡Moon and 𝑡MSr , for the Moon and the mare, respectively.\n\n                                      Observational Examination (OP)\n                                                                                                      Page 1 of 1\n\n(OP1)   Eight well known historical supernovae will appear in the projected sky one at a time (not necessarily in    40\n        chronological order). You have to identify the appropriate map (Map 1 / Map 2) where a particular\n        supernova belongs and mark it in the corresponding map with ‘+’ sign and write codes ‘S1’ to ‘S8’\n        besides it.\n        Each supernova code will be projected on dome for 10 seconds, followed by appearance of supernova for\n        60 seconds and then 20 seconds for you to mark the answers.\n        (OP1.1) For S1, S2, S3, S4 and S5, the projected sky corresponds to the sky as seen from Rio de Janeiro\n                on the midnight of 21st May.\n        (OP1.2) For S6, S7 and S8, the projected sky corresponds to the sky as seen from Beijing on the midnight\n                of 20th November. There will be a gap of two minute after S5 for change over and adaptation\n                to new sky.\n\n(OP2) We are now projecting sky of another planet. The sky will be slowly rotated for 5 minutes . Identify the       10\n      visible celestial pole of this planet and mark it with a ‘+’ sign and label it as ‘P’ on the appropriate map\n      (Map 1 / Map 2).\n\n                                       Observational Examination (OM)\n                                                                                                          Page 1 of 1\n\n(OM1) Mark any 5 (five) of the following stars on the map by putting a circle (O) around the appropriate star and        20\n      writing its code next to it. If you mark more than 5 stars, only the first 5 in serial order will be considered.\n\n                Code          Name           Bayer Name         Code        Name           Bayer Name\n                 S1            Caph             β Cas            S5         Sheliak           β Lyr\n                 S2      Asellus Australis      δ Cnc            S6         Albireo          β Cyg\n                 S3           Acrux            α Cru             S7       Rasalhague         α Oph\n                 S4          Alphard            α Hya            S8      Kaus Australis       ϵ Sgr\n\n(OM2) Mark location of any 3 (three) of the following galaxies on the map by putting a ‘+’ sign at appropriate           15\n      place in the map and writing its code next to it. If you mark more than 3 galaxies, only the first 3 in serial\n      order will be considered.\n\n           Code              Name                  M number         Code        Name             M number\n            G1         Triangulum Galaxy             M 33            G4        Virgo A             M 87\n            G2          Whirlpool Galaxy             M 51            G5     Sombrero Galaxy       M 104\n            G3      Southern Pinwheel Galaxy         M 83\n\n(OM3) Draw ecliptic on the map and label it as ‘E’.                                                                      5\n\n(OM4) Show position of Autumnal Equinox (descending node of the ecliptic) on the map by a ‘+’ sign and label             5\n      it as ‘A’.\n\n(OM5) Draw local meridian for Bhubaneswar on Winter Solstice day (22nd December) at local midnight and label             5\n      it as ‘M’.",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

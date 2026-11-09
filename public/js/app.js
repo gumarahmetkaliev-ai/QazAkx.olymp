@@ -13,20 +13,26 @@
   const SUBJECTS = [
     { key: "chemistry", label: "Химия", of: "по химии" },
     { key: "biology", label: "Биология", of: "по биологии" },
+    { key: "physics", label: "Физика", of: "по физике" },
+    { key: "math", label: "Математика", of: "по математике" },
+    { key: "informatics", label: "Информатика", of: "по информатике" },
+    { key: "astronomy", label: "Астрономия", of: "по астрономии" },
+    { key: "geography", label: "География", of: "по географии" },
   ];
 
   async function loadData() {
-    const [chem, bio, topics, videos] = await Promise.all([
-      fetch("/data/catalog/chemistry.json").then((r) => r.json()),
-      fetch("/data/catalog/biology.json").then((r) => r.json()).catch(() => ({ olympiads: [] })),
+    const empty = { olympiads: [], stages: [] };
+    const [catalogs, topics, videos] = await Promise.all([
+      Promise.all(SUBJECTS.map((s) => fetch(`/data/catalog/${s.key}.json`).then((r) => (r.ok ? r.json() : empty)).catch(() => empty))),
       fetch("/data/topics.json").then((r) => r.json()).catch(() => ({ chemistry: [] })),
       fetch("/data/videos.json").then((r) => r.json()).catch(() => ({})),
     ]);
-    App.catalogs = { chemistry: chem, biology: bio };
-    App.catalog = chem;
-    App.topics = [...(topics.chemistry || []), ...(topics.biology || [])];
+    App.catalogs = {};
+    SUBJECTS.forEach((s, i) => (App.catalogs[s.key] = catalogs[i]));
+    App.catalog = App.catalogs.chemistry;
+    App.topics = Object.values(topics).filter(Array.isArray).flat();
     App.videos = videos;
-    const all = [...chem.olympiads, ...bio.olympiads];
+    const all = catalogs.flatMap((c) => c.olympiads || []);
     App.byId = new Map(all.map((o) => [o.id, o]));
     App.bySet = new Map();
     for (const o of all) for (const m of o.materials) if (m.setId) App.bySet.set(m.setId, { olymp: o, material: m });
@@ -138,11 +144,73 @@
       setActiveNav("progress");
       return renderProgress();
     }
+    if (path === "/books") {
+      setActiveNav("books");
+      return renderBooks(params);
+    }
     if (path === "/account" || path.startsWith("/auth")) {
       setActiveNav("account");
       return renderAccount();
     }
     view().innerHTML = `<div class="page"><h1>Страница не найдена</h1><a href="/" data-link>← К олимпиадам</a></div>`;
+  }
+
+  // ---------------------------------------------------------------- books
+  async function renderBooks(params) {
+    view().innerHTML = `<div class="page"><div class="empty">Загружаю книги…</div></div>`;
+    if (!App.books) App.books = await fetch("/data/books.json").then((r) => r.json()).then((d) => d.books || []).catch(() => []);
+    const books = App.books;
+    const mode = params.get("by") === "book" ? "book" : "topic";
+    const open = params.get("book");
+    const lang = (b) => (b.lang === "ru" ? "RU" : "EN");
+    const pages = (s) => (s.to && s.to !== s.p ? `с. ${s.p}–${s.to}` : `с. ${s.p}`);
+    const bioTopics = App.topics.filter((t) => t.id.startsWith("bio-"));
+
+    let body;
+    if (mode === "topic") {
+      body = bioTopics
+        .map((t) => {
+          const rows = [];
+          for (const b of books) {
+            const secs = b.sections.filter((x) => x.topic === t.id);
+            if (!secs.length) continue;
+            // главы целиком, если есть; иначе первые параграфы
+            const top = secs.filter((x) => x.lvl === 0);
+            const pick = (top.length ? top : secs).slice(0, 4);
+            rows.push(`<div class="book"><span class="book-icon">📖</span><span><b>${esc(b.title)}</b> <span class="tag">${lang(b)}</span><br>
+              ${pick.map((x) => `<span class="small">${esc(x.t)} <span class="dim">· ${pages(x)}</span></span>`).join("<br>")}${secs.length > pick.length ? `<br><span class="small dim">и ещё ${secs.length - pick.length} разд.</span>` : ""}</span></div>`);
+          }
+          if (!rows.length) return "";
+          return `<details class="card book-topic"><summary><b>${esc(t.label)}</b> <span class="dim small">· ${rows.length} ${plural(rows.length, "книга", "книги", "книг")}</span></summary><div class="books">${rows.join("")}</div></details>`;
+        })
+        .join("");
+    } else {
+      body = books
+        .map((b) => {
+          const chapters = [];
+          let cur = null;
+          for (const x of b.sections) {
+            if (x.lvl === 0 || !cur) { cur = { head: x, subs: [] }; chapters.push(cur); }
+            else cur.subs.push(x);
+          }
+          return `<details class="card book-full" ${open === b.id ? "open" : ""} id="book-${esc(b.id)}"><summary><b>${esc(b.title)}</b> <span class="tag">${lang(b)}</span><br><span class="small dim">${esc(b.authors || "")} · ${chapters.length} глав</span></summary>
+            <ol class="toc">${chapters
+              .map((c) => `<li><span>${esc(c.head.t)}</span> <span class="dim small">${pages(c.head)}</span>${c.subs.length ? `<ul>${c.subs.map((x) => `<li class="small">${esc(x.t)} <span class="dim">${pages(x)}</span></li>`).join("")}</ul>` : ""}</li>`)
+              .join("")}</ol></details>`;
+        })
+        .join("");
+    }
+
+    view().innerHTML = `<div class="page">
+      <h1>Книги</h1>
+      <p class="dim">Что читать по каждой теме: книга, глава и страницы. После проверки задачи сайт сам подскажет нужный параграф в «Что повторить». Пока есть книги по биологии.</p>
+      <div class="subjects" style="margin:12px 0">
+        <a class="subject ${mode === "topic" ? "active" : ""}" href="/books" data-link>По темам</a>
+        <a class="subject ${mode === "book" ? "active" : ""}" href="/books?by=book" data-link>По книгам</a>
+      </div>
+      <div class="book-list">${body || `<div class="empty">Книг пока нет.</div>`}</div>
+      <p class="small dim" style="margin-top:16px">Номера страниц — по изданиям: Campbell 11th ed., Alberts MBC 6th ed., Vander's, Raven 8th ed., Cummings «Concepts of Genetics», Schaum's Genetics, Грин–Стаут–Тейлор (3 тома), «Зоология позвоночных», Шарова «Зоология беспозвоночных».</p>
+    </div>`;
   }
 
   // ---------------------------------------------------------------- catalog
@@ -191,13 +259,12 @@
         <div class="hero">
           <div>
             <h1>Олимпиады ${subject.of}</h1>
-            <p>Все туры с задачами и решениями. Пиши ответ к каждому пункту — ${subject.key === "biology" ? "сайт проверит по официальным ключам, а открытые вопросы — ИИ-жюри," : "ИИ-жюри проверит по официальной схеме оценивания"} и подскажет, что повторить.</p>
+            <p>Все туры с задачами и решениями. Пиши ответ к каждому пункту — ${subject.key === "biology" ? "сайт проверит по официальным ключам, а открытые вопросы — ИИ-жюри," : subject.key === "math" ? "ИИ-жюри проверит доказательство по официальному решению" : subject.key === "informatics" ? "ИИ-жюри разберёт алгоритм (код не запускается)" : "ИИ-жюри проверит по официальной схеме оценивания"} и подскажет, что повторить.</p>
           </div>
           <div class="pill accent">ИИ-проверка: ${totalSolvable} ${plural(totalSolvable, "комплект", "комплекта", "комплектов")}</div>
         </div>
         <div class="subjects">
           ${SUBJECTS.map((x) => `<a class="subject ${x.key === subject.key ? "active" : ""}" href="/?subject=${x.key}" data-link>${x.label}</a>`).join("")}
-          ${["Физика", "Математика", "География", "Информатика", "Астрономия"].map((x) => `<button class="subject" disabled title="Скоро">${x}</button>`).join("")}
         </div>
         <div class="catalog">
           <aside class="card stages">${stageButtons("kz", "Казахстан")}${stageButtons("intl", "Другие олимпиады")}</aside>
@@ -366,6 +433,8 @@
       <div class="row"><b>Решение</b><span class="small muted">Проверено ${p.checked} из ${p.total} · ${fmt(p.score)} / ${fmt(p.fullMax || p.max)} б.</span></div>
       <div class="meter"><i style="width:${Math.round((p.checked / p.total) * 100)}%"></i></div>
       ${weightedLine}
+      ${set.noSolution ? `<div class="small muted" style="margin-top:6px">ℹ Официального решения к этому туру нет — ИИ-жюри оценит ответ по существу.</div>` : ""}
+      ${set.wholeDocument ? `<div class="small muted" style="margin-top:6px">ℹ Задания этого тура не удалось разбить по пунктам — пиши все ответы в одно поле, подписывая номер задачи.</div>` : ""}
       <div class="task-chips">${set.tasks.map((t) => {
         const st = taskStatus(set.setId, t.number);
         return `<button class="task-chip ${st.cls} ${t.number === taskNumber ? "active" : ""}" data-task="${t.number}" title="${esc(t.title + (st.tip ? " — " + st.tip : ""))}">${t.number}${st.label && st.cls !== "draft" ? `<span class="small">${st.label}</span>` : st.cls === "draft" ? "·" : ""}</button>`;
@@ -699,12 +768,12 @@
 
   function passwordFields(label = "Пароль", autocomplete = "new-password") {
     return `
-      <div class="field"><label class="small muted">${label}</label>
-        <div class="pw-wrap"><input type="password" name="password" required minlength="${MIN_PASSWORD}" autocomplete="${autocomplete}">
-        <button type="button" class="pw-toggle" aria-label="Показать пароль">👁</button></div></div>
-      <div class="field"><label class="small muted">Повтори пароль</label>
-        <input type="password" name="password2" required minlength="${MIN_PASSWORD}" autocomplete="${autocomplete}"></div>
-      <p class="dim small">Минимум ${MIN_PASSWORD} символов.</p>`;
+      <div class="field"><label>${label}</label>
+        <div class="pw-wrap input-ico"><span>🔒</span><input type="password" name="password" required minlength="${MIN_PASSWORD}" autocomplete="${autocomplete}" placeholder="Минимум ${MIN_PASSWORD} символов">
+        <button type="button" class="pw-toggle" aria-label="Показать пароль">👁</button></div>
+        <div class="pw-meter"><i></i></div><div class="pw-meter-label dim small">Минимум ${MIN_PASSWORD} символов</div></div>
+      <div class="field"><label>Повтори пароль</label>
+        <div class="input-ico"><span>🔒</span><input type="password" name="password2" required minlength="${MIN_PASSWORD}" autocomplete="${autocomplete}" placeholder="Ещё раз"></div></div>`;
   }
 
   function checkPasswords(form) {
@@ -801,17 +870,19 @@
       <a href="/account" data-link class="${mode === "login" ? "active" : ""}">Вход</a>
       <a href="/account?mode=signup" data-link class="${mode === "signup" ? "active" : ""}">Регистрация</a></div>`;
     const google = QStore.auth.googleEnabled()
-      ? `<button class="btn" id="google" type="button" style="width:100%;margin:8px 0 16px">Войти через Google</button>`
+      ? `<button class="btn btn-google" id="google" type="button"><span class="g-dot">G</span> Продолжить с Google</button><div class="auth-or"><span>или по email</span></div>`
       : "";
-    const emailField = `<div class="field"><label class="small muted">Email</label><input type="email" name="email" required autocomplete="email" value="${esc(params.get("email") || "")}"></div>`;
+    const emailField = `<div class="field"><label for="f-email">Email</label><div class="input-ico"><span>✉</span><input id="f-email" type="email" name="email" required autocomplete="email" placeholder="you@example.com" value="${esc(params.get("email") || "")}"></div></div>`;
 
     if (mode === "forgot") {
-      view().innerHTML = `<div class="page"><div class="card auth-card"><h2>Восстановление пароля</h2>
-        <p class="muted small">Укажи email аккаунта — пришлём ссылку, по которой можно задать новый пароль.</p>
+      view().innerHTML = authShell(`
+        <h2>Восстановление пароля</h2>
+        <p class="auth-sub">Укажи email аккаунта — пришлём ссылку, по которой можно задать новый пароль.</p>
         <form id="forgot-form">${emailField}
-          <div class="actions"><button class="btn btn-primary" type="submit">Отправить ссылку</button><a class="btn btn-ghost" href="/account" data-link>Назад ко входу</a></div>
+          <button class="btn btn-primary btn-block" type="submit">Отправить ссылку</button>
           <p class="error"></p></form>
-        <div id="forgot-done" class="notice" hidden></div></div></div>`;
+        <div id="forgot-done" class="notice" hidden></div>
+        <p class="auth-foot"><a href="/account" data-link>← Назад ко входу</a></p>`);
       const form = document.getElementById("forgot-form");
       bindForm(form, async () => {
         await QStore.auth.resetPassword(form.email.value);
@@ -823,13 +894,16 @@
     }
 
     if (mode === "signup") {
-      view().innerHTML = `<div class="page"><div class="card auth-card">${tabs}
-        <p class="muted small">Аккаунт нужен, чтобы прогресс сохранялся на всех устройствах.</p>${google}
+      view().innerHTML = authShell(`${tabs}
+        <h2>Создать аккаунт</h2>
+        <p class="auth-sub">Бесплатно. Прогресс и решения сохранятся на всех устройствах.</p>${google}
         <form id="signup-form">${emailField}${passwordFields()}
-          <div class="actions"><button class="btn btn-primary" type="submit">Создать аккаунт</button></div>
+          <button class="btn btn-primary btn-block" type="submit">Создать аккаунт</button>
           <p class="error"></p></form>
-        <div id="signup-done" class="notice" hidden></div></div></div>`;
+        <div id="signup-done" class="notice" hidden></div>
+        <p class="auth-foot">Уже есть аккаунт? <a href="/account" data-link>Войти</a></p>`);
       const form = document.getElementById("signup-form");
+      bindStrength(form);
       bindForm(form, async () => {
         const d = await QStore.auth.signUp(form.email.value, checkPasswords(form));
         if (d && d.session) {
@@ -846,15 +920,16 @@
       return;
     }
 
-    view().innerHTML = `<div class="page"><div class="card auth-card">${tabs}
-      <p class="muted small">Войди, чтобы прогресс сохранялся на всех устройствах.</p>${google}
+    view().innerHTML = authShell(`${tabs}
+      <h2>С возвращением 👋</h2>
+      <p class="auth-sub">Войди, чтобы продолжить решать с того места, где остановился.</p>${google}
       <form id="login-form">${emailField}
-        <div class="field"><label class="small muted">Пароль</label>
-          <div class="pw-wrap"><input type="password" name="password" required autocomplete="current-password">
+        <div class="field"><div class="label-row"><label for="f-pw">Пароль</label><a class="small" href="/account?mode=forgot" data-link id="forgot-link">Забыли пароль?</a></div>
+          <div class="pw-wrap input-ico"><span>🔒</span><input id="f-pw" type="password" name="password" required autocomplete="current-password" placeholder="Твой пароль">
           <button type="button" class="pw-toggle" aria-label="Показать пароль">👁</button></div></div>
-        <div class="actions" style="margin-top:6px"><button class="btn btn-primary" type="submit">Войти</button>
-          <a class="small" href="/account?mode=forgot" data-link id="forgot-link">Забыли пароль?</a></div>
-        <p class="error"></p></form></div></div>`;
+        <button class="btn btn-primary btn-block" type="submit">Войти</button>
+        <p class="error"></p></form>
+      <p class="auth-foot">Нет аккаунта? <a href="/account?mode=signup" data-link>Зарегистрироваться</a></p>`);
     const form = document.getElementById("login-form");
     document.getElementById("forgot-link").addEventListener("click", (e) => {
       e.preventDefault();
@@ -866,6 +941,49 @@
       renderAccount();
     });
     document.getElementById("google")?.addEventListener("click", () => QStore.auth.google().catch((e) => toast(e.message)));
+  }
+
+  /** Двухпанельная обёртка страницы входа/регистрации */
+  function authShell(inner) {
+    return `<div class="page auth-page"><div class="auth-shell">
+      <aside class="auth-side">
+        <div class="auth-brand">QazAkx<span>.olymp</span></div>
+        <h3>Готовься к олимпиадам как чемпион</h3>
+        <ul class="auth-perks">
+          <li><span>🏆</span><div><b>7 предметов, 1400+ олимпиад</b><br>Районные, областные, республиканские и международные туры</div></li>
+          <li><span>🤖</span><div><b>ИИ-жюри</b><br>Проверяет решение по официальной схеме и объясняет ошибки</div></li>
+          <li><span>📈</span><div><b>Прогресс как на Codeforces</b><br>Календарь активности, серии, уровни задач</div></li>
+          <li><span>📖</span><div><b>Что повторить</b><br>Книга, глава и страницы по каждой ошибке</div></li>
+        </ul>
+      </aside>
+      <div class="auth-main">${inner}</div>
+    </div></div>`;
+  }
+
+  /** Индикатор надёжности пароля */
+  function bindStrength(form) {
+    const input = form.password;
+    const bar = form.querySelector(".pw-meter i");
+    const label = form.querySelector(".pw-meter-label");
+    if (!input || !bar) return;
+    input.addEventListener("input", () => {
+      const v = input.value;
+      let sc = 0;
+      if (v.length >= MIN_PASSWORD) sc++;
+      if (v.length >= 10) sc++;
+      if (/[A-ZА-Я]/.test(v) && /[a-zа-я]/.test(v)) sc++;
+      if (/\d/.test(v) && /[^\w\s]|_/.test(v)) sc++;
+      const lv = [
+        ["0%", "var(--line-2)", `Минимум ${MIN_PASSWORD} символов`],
+        ["30%", "var(--bad)", "Слабый"],
+        ["55%", "var(--warn)", "Средний"],
+        ["80%", "var(--good)", "Хороший"],
+        ["100%", "var(--good)", "Надёжный"],
+      ][v ? Math.max(1, sc) : 0];
+      bar.style.width = lv[0];
+      bar.style.background = lv[1];
+      label.textContent = lv[2];
+    });
   }
 
   function toast(text) {

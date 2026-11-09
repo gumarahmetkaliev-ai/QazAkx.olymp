@@ -1,0 +1,504 @@
+{
+ "setId": "chem-icho-2001--theory-task",
+ "olympiadId": "chem-icho-2001",
+ "title": "Химия → IChO (международная) → 2001",
+ "materialLabel": "Теория (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/chemistry/s/icho/2001/theory_task.pdf",
+ "solutionFile": "olympiads/chemistry/s/icho/2001/prep_sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T18:33:13.895Z",
+ "quality": {
+  "tasks": 7,
+  "parts": 60,
+  "withPoints": 60,
+  "withReference": 0,
+  "withQuestion": 60,
+  "estimatedPoints": 60
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача №1",
+   "weight": null,
+   "total": 12,
+   "statement": "Hydrogen Atom and Hydrogen Molecule\n\nNiels Bohr (1885-1962)\n\nThe observed wavelengths in the line spectrum of hydrogen atom were first expressed in\nterms of a series by Johann Jakob Balmer, a Swiss teacher. Balmer’s empirical formula is\n        1       1   1\n          = RH  2 − 2  ;      n = 3, 4, 5, ....\n        λ      2   n \n\n                     me e 4\n            RH =               = 109 678 cm-1\nHere,              8 ε 02 h3 c\n\nis the Rydberg konstant, me is the mass of an electron. Niels Bohr derived this expression\ntheoretically in 1913. The formula is easily generalized to any one electron atom/ion.\n                                                                -10\n1.1 Calculate the longest wavelength in Å (1 Å = 10                   m) in the ‘Balmer series’ of singly\n                            +\n     ionized helium (He ). Ignore nuclear motion in your calculation.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                        777\n\n                                        RD\n                           THE 33            INTERNATIONAL CHEMISTRY OLYMPIAD, 2001\n\n1.2 A formula analogous to Balmer’s formula applies to the series of spectral lines which\n     arise from transitions from higher energy levels to the lowest energy level of\n     hydrogen atom. Write this formula and use it to determine the ground state energy of\n     a hydrogen atom in eV.\n\n     A ‘muonic hydrogen atom’ is like a hydrogen atom in which the electron is replaced\nby a heavier particle, the muon. The mass of a muon is about 207 times the mass of an\nelectron, while its charge is the same as that of an electron. A muon has a very short\nlifetime, but we ignore its unstable nature here.\n1.3 Determine the lowest energy and the radius of the first Bohr orbit of the muonic\n     hydrogen atom. Ignore the motion of the nucleus in your calculation. The radius of\n     the first Bohr orbit of a hydrogen atom\n                                                   ε 0 h2\n     (called the Bohr radius, a0 =                          ) is 0.53 Å.\n                                                 me e 2 π\n\n     The classical picture of an \"orbit\" in Bohr’s theory has now been replaced by the\nquantum mechanical notion of an ‘orbital’. The orbital ψ1σ1s (r) for the ground state of a\nhydrogen atom is given by\n                                    r\n                    1          −\n      Ψ1s (r ) =           e       a0\n\n                   π a03\n\nwhere r is the distance of the electron from the nucleus and ao is the Bohr radius.\n1.4 Consider a spherical shell of radius ao and thickness 0.001ao. Estimate the\n     probability of finding the electron in this shell. Volume of a spherical shell of inner\n     radius r and small thickness ∆r equals 4πr2 ∆r.\n\n     The H2 molecule can dissociate through two different channels:\n     (i)    H2 → H + H (two separate hydrogen atoms)\n     (ii)   H2 → H+ + H− (a proton and a hydride ion)\nThe graph of energy (E) vs internuclear distance (R) for H2 is shown schematically in the\nfigure. The atomic and molecular energies are given in the same scale.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2           778\n\n                                  RD\n\n1.5 Put appropriate channel labels (i) or (ii) in the boxes below.\n1.6 Determine the values of the dissociation energies (De in eV) of the H2 molecule\n     corresponding to\n     channel (i)\n\n     channel (ii)\n\n1.7 From the given data, calculate the energy change for the process\n     H → H + e−\n       –\n\n       –\n1.8 H is a two-electron atomic system. Assuming that the Bohr energy formula is valid\n                                                                                   –\n     for each electron with nuclear charge Z replaced by Zeff, calculate Zeff for H .\n\nSOLUTION\n1.1 Longest wavelength AL corresponds to n = 3\n              +\n     For He\n      1         1   1\n        = 4 RH  2 − 2 \n      λ        2   n \n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2           779\n\n                                  RD\n\n      λ L = 1641.1 Å\n\n      1        1    1\n1.2     = 4 RH  2 − 2         n = 2, 3, 4, ...\n      λ        1   n \n      E = − hc RH = − 13.6 eV\n\n1.3 Lowest energy = – 207 × 13.6 = –2.82 keV\n      Radius of the first Bohr orbit = 0.53 / 207 = 2.6×10\n                                                                -3\n                                                                     Å\n\n1.4 Probability = | ψ (a0)| 4 πa0 × 0.001ao = 0.004 e = 5.41×10\n                            2           2                     -2           -4\n\n1.5\n\n1.6 Channel (i):       4.7 eV\n      Channel (ii):   17.6 eV\n\n1.7 Electron affinity = – 13.6 – (– 14.3) = 0.7 eV\n\n                            2\n1.8 Zeff = –13.6 + 27.2 Z eff = 0.7\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2   780\n\n                                  RD",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 1.5,
+     "question": "Calculate the longest wavelength in Å (1 Å = 10 m) in the ‘Balmer series’ of singly + ionized helium (He ). Ignore nuclear motion in your calculation.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.2",
+     "points": 1.5,
+     "question": "A formula analogous to Balmer’s formula applies to the series of spectral lines which arise from transitions from higher energy levels to the lowest energy level of hydrogen atom. Write this formula and use it to determine the ground state energy of a hydrogen atom in eV. A ‘muonic hydrogen atom’ is like a hydrogen atom in which the electron is replaced",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.3",
+     "points": 1.5,
+     "question": "Determine the lowest energy and the radius of the first Bohr orbit of the muonic hydrogen atom. Ignore the motion of the nucleus in your calculation. The radius of the first Bohr orbit of a hydrogen atom ε 0 h2 (called the Bohr radius, a0 = ) is 0.53 Å. me e 2 π The classical picture of an \"orbit\" in Bohr’s theory has now been replaced by the",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.4",
+     "points": 1.5,
+     "question": "Consider a spherical shell of radius ao and thickness 0.001ao. Estimate the probability of finding the electron in this shell. Volume of a spherical shell of inner radius r and small thickness ∆r equals 4πr2 ∆r. The H2 molecule can dissociate through two different channels: (i) H2 → H + H (two separate hydrogen atoms) (ii) H2 → H+ + H− (a proton and a hydride ion)",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.5",
+     "points": 1.5,
+     "question": "Put appropriate channel labels (i) or (ii) in the boxes below.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.6",
+     "points": 1.5,
+     "question": "Determine the values of the dissociation energies (De in eV) of the H2 molecule corresponding to channel (i) channel (ii)",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.7",
+     "points": 1.5,
+     "question": "From the given data, calculate the energy change for the process H → H + e− – –",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.8",
+     "points": 1.5,
+     "question": "H is a two-electron atomic system. Assuming that the Bohr energy formula is valid – for each electron with nuclear charge Z replaced by Zeff, calculate Zeff for H .",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача №2",
+   "weight": null,
+   "total": 10,
+   "statement": "Phosphoric Acid\n     Phosphoric acid is of a great importance in fertilizer industry. Besides, phosphoric\nacid and its various salts have a n umber of applications in metal treatment, food,\ndetergent and toothpaste industries.\n2.1 The pK values of the three successive dissociations of phosphoric acid at 25 °C are:\n     pK1a = 2.12\n      pK2a = 7.21\n      pK3a = 12.32\n      Write down the conjugate base of dihydrogen phosphate ion and determine its pKb\nvalue.\n\n      Small quantities of phosphoric acid are extensively used to impart the sour or tart\ntaste to many soft drinks such as colas and root beers. A cola having a density of 1.00\n     -3\ng cm contains 0.05 % by weight of phosphoric acid.\n2.2 Determine the pH of the cola (ignoring the second and the third dissociation steps for\n     phosphoric acid). Assume that the acidity of the cola arises only from phosphoric\n     acid.\n2.3 Phosphoric acid is used as a fertiliser for agriculture. 1.00×10 M phosphoric acid is\n                                                                               -3\n\n     added to an aqueous soil suspension and the pH is found to be 7.00.\n\n     Determine the fractional concentrations of all the different phosphate species present\nin the solution. Assume that no component of the soil interacts with any phosphate\nspecies.\n2.4 Zinc is an essential micronutrient for plant growth. Plant can absorb zinc in water\n     soluble form only. In a given soil water with pH = 7.0, zinc phosphate was found to\n                                                                                    2+\n     be the only source of zinc and phosphate. Calculate the concentration of [Zn ] and\n\n         4 ] ions in the solution. Ksp for zinc phosphate is 9.1×10\n                                                                         -33\n     [ PO3-                                                         .\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2            781\n\n                                          RD\n\nSOLUTION\n2.1 The conjugate base of dihydrogen phosphate ( H2PO-4 ) is monohydrogen phosphate\n\n      ( HPO2-\n           4 ) :\n\n                                                               +\n      H2PO-4 + H2O                   HPO2-\n                                        4 + H3 O                              K2a\n                                                                 –\n      HPO2-\n         4 + H2 O                        H2PO-4 + OH                          K2b\n                                 +             –\n      2 H2 O              H3O + OH                                            Kw\n\n      pK2a + pK2b = pKw = 14\n      pK2b = 6.79\n\n                                                     0.5\n2.2   Concentration of H3PO4 =                           = 0.0051 M\n                                                     98\n                                                                     +\n      H3PO4 + H2O                    H2PO-4 + H3O\n\n      0.0051-x                            x          +       x\n\n                          gives K1a = 7.59×10\n                                                                         -3\n      pK1a = 2.12\n\n                  −3     [H2PO-4 ][H3O+ ]       x2\n      7.59 × 10        =                  =\n                            [H3PO 4 ]       0.0051 - x\n\n      x = [H3O ] = 3.49×10\n                   +                      -3\n\n      pH = 2.46\n\n                              [H3 X]                      [H2 X- ]\n2.3 Let                f0 =          ,             f1 =            ,\n                                C                           C\n                              [HX2- ]          [X3- ]\n                       f2 =           and f3 =\n                                C               C\n      denote the fractional concentrations of different phosphate species. C is the total\n      initial concentration of H3X. (X = PO4)\n            f0 + f1 + f2 + f3 = 1\n                        [H2 X- ] [H3O+ ] f1\n               K1a =                    = [H3O+ ]\n                            [H3 X]       f0\n\n                      [HX2- ] [H3O+ ] f2\n               K 2a =           -\n                                     = [H3O+ ]\n                         [H2 X ]      f1\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2           782\n\n                                                    RD\n                                     THE 33              INTERNATIONAL CHEMISTRY OLYMPIAD, 2001\n\n                          [X3- ] [H3O+ ] f3\n                 K 3a =                 = [H3O+ ]\n                             [HX2- ]     f2\n\n     These equations lead to\n            [H3O+ ]3                       K1a [H3O+ ]2                            K1a K 2a [H3O+ ]             K1a K 2a K 3a\n     f0 =                           f1 =                                    f2 =                         f3 =\n               D     ,                          D       ,                                 D         ,                D\n                                                                              +                   + 2           + 3\n     where D = K1a K2a K3a + K1a K2a [H3O ] + K1a [H3O ] + [H3O ]\n\n     From the values of pK1a, pK2a, pK3a and pH one gets\n      K1a = 7.59×10 ; K2a = 6.17×10 ; K3a = 4.79×10 ; [ H3O ] = 1×10\n                                -3                                     -8                          -13          +               -7\n\n     The fractional concentrations of different phosphate species are:\n\n                    (f0) = 8.10×10\n                                                -6\n     H3PO4\n      H2PO-4\n                   (f1) = 0.618\n      HPO2-\n         4         (f2) = 0.382\n      PO3-\n                   (f3) = 1.83×10\n        4                                      -6\n\n                               -3\n2.4 Let S (mol dm ) be the solubility of Zn3(PO4)2 in soil water.\n            2+\n     [Zn ] = 3 S\n     Total concentration of different phosphate species = 2 S\n\n         4 ] = f3 × 2 S\n     [ PO3-\n\n     f3 can be determined from the relation derived in 2.3\n     For pH = 7, f3 = 1.83×10\n                                                         –6\n\n                        2+ 3               2\n     Ksp = [Zn ] [ PO3-\n                     4 ]\n\n     9.1×10             = (3 S) (f3 × 2 S)\n                  –33                 3                       2\n\n     [Zn ] = 9×10\n            2+                 –5\n\n     [PO4 ] = 1.1×10\n             3–                      –10\n\n     Solubility of Zn3(PO4)2 = 3.0×10\n                                                                  –5                -3\n                                                                       mol dm\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                                                        783\n\n                                  RD",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 2.5,
+     "question": "The pK values of the three successive dissociations of phosphoric acid at 25 °C are: pK1a = 2.12 pK2a = 7.21 pK3a = 12.32 Write down the conjugate base of dihydrogen phosphate ion and determine its pKb",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.2",
+     "points": 2.5,
+     "question": "Determine the pH of the cola (ignoring the second and the third dissociation steps for phosphoric acid). Assume that the acidity of the cola arises only from phosphoric acid.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.3",
+     "points": 2.5,
+     "question": "Phosphoric acid is used as a fertiliser for agriculture. 1.00×10 M phosphoric acid is -3 added to an aqueous soil suspension and the pH is found to be 7.00. Determine the fractional concentrations of all the different phosphate species present",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.4",
+     "points": 2.5,
+     "question": "Zinc is an essential micronutrient for plant growth. Plant can absorb zinc in water soluble form only. In a given soil water with pH = 7.0, zinc phosphate was found to 2+ be the only source of zinc and phosphate. Calculate the concentration of [Zn ] and 4 ] ions in the solution. Ksp for zinc phosphate is 9.1×10 -33 [ PO3.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача №3",
+   "weight": null,
+   "total": 10,
+   "statement": "Second Law of Thermodynamics\n\n     The second law of thermodynamics is a fundamental law of science. In this problem\nwe consider the thermodynamics of an ideal gas, phase transitions and chemical\nequilibrium.\n     3.00 mol of CO2 gas expands isothermically (in thermal contact with the\nsurroundings; temperature = 15 °C) against a fixed external pressure of 1.00 bar. The\n                                                       3             3\ninitial and final volumes of the gas are 10.0 dm and 30.0 dm , respectively.\n3.1 Choose the correct option for change in the entropy of the system (∆Ssys) and of the\n     surroundings (∆Ssur):\n     (a)   ∆Ssys > 0         ∆Ssur = 0\n     (b)   ∆Ssys < 0         ∆Ssur > 0\n     (c)   ∆Ssys > 0         ∆Ssur < 0\n     d)    ∆Ssys = 0         ∆Ssur = 0\n3.2 Calculate ∆Ssys assuming CO2 to be an ideal gas.\n3.3 Calculate ∆Ssur.\n3.4 Calculate the change in entropy of the universe.\n     Does your answer agree with the Second Law of Thermodynamics?\n     (Mark X in the correct box.)                                               Yes No\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2       784\n\n                                  RD\n\n      The pressure – temperature phase diagram of CO2 is given below schematically.\n      The diagram is not to scale.\n\n3.5 CO2 gas, initially at a pressure of 4.0 bar and temperature of 10.0 °C is cooled at\n     constant pressure. In this process,\n     (a)   it goes first to the liquid phase and then to the solid phase.\n     (b)   it goes to the solid phase without going through the liquid phase.\n3.6 Starting with the same pressure and temperature as above (in 3.5), CO2 is\n     compressed isothermatically. In this process,\n     (a)   it goes first to the liquid phase and then to the solid phase.\n     (b)   it goes to the solid phase without going through the liquid phase.\n3.7 From the data given in the phase diagram, calculate the molar enthalpy change of\n     sublimation of CO2. Write down the formula used.\n3.8 CO gas, used extensively in organic synthesis, can be obtained by reacting CO2 gas\n     with graphite. Use the data given below to show that the equilibrium constant at\n     298.15 K is less than unity.\n     At 298.15 K\n                       ∆ Hf0 = –393.51 kJ mol ;\n                                                     -1        0                -1   -1\n     CO2(g):                                                 S = 213.79 J K mol\n\n                       ∆ Hf0 = –110.53 kJ mol ;\n                                                     -1        0                -1   -1\n     CO(g):                                                  S = 197.66 J K mol\n                         0                -1    -1\n     C(graphite)       S = 5.74 J K mol\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2             785\n\n                                    RD\n\n3.9    Estimate the temperature at which the reaction would have an equilibrium constant\n       equal to 1. Ignore slight variations in the thermodynamic data with temperature.\n3.10 The reaction above (in 3.8) is carried out between CO2 and excess hot graphite in a\n       reactor maintained at about 800 °C and a total pres sure of 5.0 bar. The equilibrium\n       constant Kp under these conditions is 10.0. Calculate the partial pressure of CO at\n       equilibrium.\n\nSOLUTION\n3.1 Correct solution:          (c)        ∆Ssys > 0       ∆Ssur < 0\n3.2 Since ∆Ssys is independent of path, it is the same as for isothermal reversible\n      expansion of an ideal gas.\n\n                       Vf\n      ∆Ssys = n R ln      = 27.4 JK -1\n                       Vi\n\n3.3 q = pext ∆V\n                  q\n      ∆Ssur = −\n                                -1\n                    = – 6.94 JK\n                  T\n\n3.4 ∆Suni = ∆Ssys + ∆Ssur = 20.5 JK\n                                                -1\n\n      The answer agrees with the second law of thermidynamics (correct is YES)\n\n3.5 Correct answer:\n      (b) it goes to the solid phase without going through the liquid phase.\n\n3.6 Correct answer:\n      (a) it goes first to the liquid phase and then to the solid phase.\n\n           p2    ∆Hsub  1 1 \n3.7   ln      =−        − \n           p1     R  T1 T2 \n\n      ∆Hsub = 26.1 kJ mol\n                              -1\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2             786\n\n                                            RD\n                              THE 33             INTERNATIONAL CHEMISTRY OLYMPIAD, 2001\n\n3.8 ∆H = 172.45 kJ mol\n         0                             -1\n\n       ∆S = 176 J K mol\n         0               -1       -1\n\n       ∆G = ∆H – T∆S = 120 kJ mol\n         0      0             0                         -1\n\n       ∆G > O implies K < 1\n         0\n\n3.9 ∆G0 = 0 when ∆H0 = T∆S0\n       T = 980 K\n\n3.10                               CO2 (g) + C(s)                    2 CO (g)\n                                  1-α                                 2α\n                                  1− α                                2α\n       Partial pressure:               ×5                                 ×5\n                                  1− α                               1− α\n\n              p 2 (CO)\n         Kp =\n              p(CO2 )\n         p(CO) = 3.7 bar\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2             787\n\n                                               RD",
+   "parts": [
+    {
+     "id": "3.1",
+     "points": 1,
+     "question": "Choose the correct option for change in the entropy of the system (∆Ssys) and of the surroundings (∆Ssur): (a) ∆Ssys > 0 ∆Ssur = 0 (b) ∆Ssys < 0 ∆Ssur > 0 (c) ∆Ssys > 0 ∆Ssur < 0 d) ∆Ssys = 0 ∆Ssur = 0",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.2",
+     "points": 1,
+     "question": "Calculate ∆Ssys assuming CO2 to be an ideal gas.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.3",
+     "points": 1,
+     "question": "Calculate ∆Ssur.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.4",
+     "points": 1,
+     "question": "Calculate the change in entropy of the universe. Does your answer agree with the Second Law of Thermodynamics? (Mark X in the correct box.) Yes No",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.5",
+     "points": 1,
+     "question": "CO2 gas, initially at a pressure of 4.0 bar and temperature of 10.0 °C is cooled at constant pressure. In this process, (a) it goes first to the liquid phase and then to the solid phase. (b) it goes to the solid phase without going through the liquid phase.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.6",
+     "points": 1,
+     "question": "Starting with the same pressure and temperature as above (in 3.5), CO2 is compressed isothermatically. In this process, (a) it goes first to the liquid phase and then to the solid phase. (b) it goes to the solid phase without going through the liquid phase.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.7",
+     "points": 1,
+     "question": "From the data given in the phase diagram, calculate the molar enthalpy change of sublimation of CO2. Write down the formula used.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.8",
+     "points": 1,
+     "question": "CO gas, used extensively in organic synthesis, can be obtained by reacting CO2 gas with graphite. Use the data given below to show that the equilibrium constant at 298.15 K is less than unity. At 298.15 K ∆ Hf0 = –393.51 kJ mol ; -1 0 -1 -1 CO2(g): S = 213.79 J K mol ∆ Hf0 = –110.53 kJ mol ; -1 0 -1 -1 CO(g): S = 197.66 J K mol 0 -1 -1 C(graphite) S = 5.74 J K mol",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.9",
+     "points": 1,
+     "question": "Estimate the temperature at which the reaction would have an equilibrium constant equal to 1. Ignore slight variations in the thermodynamic data with temperature.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.10",
+     "points": 1,
+     "question": "The reaction above (in 3.8) is carried out between CO2 and excess hot graphite in a reactor maintained at about 800 °C and a total pres sure of 5.0 bar. The equilibrium constant Kp under these conditions is 10.0. Calculate the partial pressure of CO at equilibrium.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача №4",
+   "weight": null,
+   "total": 10,
+   "statement": "Beach sand mineral, monazite, is a rich source of thorium, available in large\nquantities in the state of Kerala in India. A typical monazite sample contains about 9 %\n                                        208           206\nThO2 and 0.35 % U3O8.                         Pb a          Pb are the stable end-products in the radioactive decay\n                 232            238\nseries of              Th and         U, respectively. All the lead (Pb) found in monazite is of radiogenic\norigin.\n                                                208         232\n      The isotopic atom ratio                         Pb/         Th, measured mass spectrometrically, in a monazite\n                                                                                                                     U 1.41×10\n                                                                                            232                238                10\nsample was found to be 0.104. The half-lives of                                                   Th and                               years and\n4.47×10 years, respectively. Assume that\n             9                                                                208         206         232             238\n                                                                                    Pb,         Pb,         Th and          U remained entirely\nin the monazite sample since the formation of monazite mineral.\n4.1 Calculate the age (time elapsed since its formation) of the monazite sample.\n                                                                  206         238\n4.2 Estimate the isotopic atom ratio                                    Pb/         U in the monazite sample.\n4.3 Thorium-232 is a fertile material for nuclear energy. In thermal neutron irradiation, it\n                                                                                                             U by successive β decays.\n                                                                                                       233                             –\n      absorbs a neutron and the resulting isotope forms\n                                                                                            233               232\n      Write the nuclear reactions for the formation of                                            U from            Th.\n\n                                         233\n      In nuclear fission of                    U a complex mixture of radioactive fission products is formed.\n                                101\nThe fission product                   Mo initially undergoes radioactive decay as shown below:\n      101\n      42     Mo \n                 t = 14.6min\n                             → 101\n                               43 Tc \n                                      t = 14.3min\n                                                  → 101\n                                                    44 Ru\n\n                                                                                                        101\n4.4 A freshly prepared radiochemically pure sample of                                                         Mo contains 5000 atoms of\n      101\n             Mo initially. How many atoms of\n                  101\n      i)                Mo\n                  101\n      ii)               Tc\n                  101\n      iii)              Ru\n      will be present in the sample after 14.6 min?\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                                                               788\n\n                                                  RD\n\nSOLUTION\n                            0.6931 t\n                        −\n\n4.1\n      N = N0 e                 t1/ 2\n\n                             +0.6931 t\n      N0 − N\n             =e                 t1/ 2\n                                         −1\n        N\n                                                             232                                              208\n      (N0 - N) = Total number of                                   Th atoms decayed. = Total number of              Pb atoms\n      formed.\n      N0 − N\n             = 0.104\n        N\n           0.6931 t\n          1.41 × 1010\n      e                 = 1.104\n      t = 2.01×10 years.\n                                9\n\n4.2 Let x be the required ratio.\n                +0.6931 t\n\n      x=e          t1/ 2\n                               −1\n\n                    ×10 years, and                                             ×10 years.\n                                         9                                         9\n      where t = 2.01×                                               t1/2 = 4.47×\n      x = 0.366\n\n                 (n, γ )          β                      -                   β-\n             Th      → 233Th →                                     Pa →\n      232                                                          233          233\n4.3                                                                                 U\n\n                                                              101\n4.4 (i)         The number of atoms of                              Mo (N1) in the sample after one half-life is :\n                 N1 = 2500\n                                                             101\n      (ii)      The number of atoms of                             Tc (N2) is given by\n                              λ 1 N0    −λ t  −λ t\n                 N2 =                 (e 1 − e 2 )\n                             λ 2 − λ1\n                                                                                            101\n                where N0 (= 5000) is the initial number of atoms of                               Mo.\n                            0.693\n                λ1 =              min−1\n                            14.6\n                             0.693\n                 λ2 =              min−1\n                             14.3\n                At t = 14.6 min\n                N2 = 1710\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                                           789\n\n                                  RD\n\n                                        101\n     (iii)   Number of atoms of               Ru (N3) at t = 14.6 min is :\n             N3 = N0 – N1 – N2 = 790 atoms\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2   790\n\n                                  RD",
+   "parts": [
+    {
+     "id": "4.1",
+     "points": 2.5,
+     "question": "Calculate the age (time elapsed since its formation) of the monazite sample. 206 238",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.2",
+     "points": 2.5,
+     "question": "Estimate the isotopic atom ratio Pb/ U in the monazite sample.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.3",
+     "points": 2.5,
+     "question": "Thorium-232 is a fertile material for nuclear energy. In thermal neutron irradiation, it U by successive β decays. 233 – absorbs a neutron and the resulting isotope forms 233 232 Write the nuclear reactions for the formation of U from Th. 233 In nuclear fission of U a complex mixture of radioactive fission products is formed. 101",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.4",
+     "points": 2.5,
+     "question": "A freshly prepared radiochemically pure sample of Mo contains 5000 atoms of 101 Mo initially. How many atoms of 101 i) Mo 101 ii) Tc 101 iii) Ru will be present in the sample after 14.6 min?",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача №5",
+   "weight": null,
+   "total": 16,
+   "statement": "Halogen Chemistry\n      Halogens in their reactions among themselves and with a variety of other elements\ngive rise to a large number of compounds with diverse structure, bonding and chemical\nbehaviour. Metal halides, halogen derivatives and interhalogens represent major types of\nhalogen compounds.\n\n(A)   Photography\n      A \"black and white\" photographic film contains a coating of silver bromide on a\nsupport such as cellulose acetate.\n5.1 Write the photochemical reaction that occurs when light falls on AgBr(s) coated on a\n      film.\n5.2 During the developing process, unexposed AgBr is washed away by complexation of\n      Ag(I) by sodium thiosulphate solution. Write down this chemical reaction.\n5.3 These washings are often disposed of as waste. However, metallic silver can be\n      recovered from them by adding cyanide, followed by zinc. Write down the reactions\n      involved.\n\n(B)   Shapes, spectra and reactivity\n      The most reactive halogen, fluorine, reacts with other halogens Cl2, Br2 and I2 under\ncontrolled conditions giving a tetra-atomic, hexa-atomic and an octa-atomic molecule,\nrespectively.\n5.4 Write the formulae and 3-dimensional structures of these interhalogen molecules on\n      the basis of VSEPR theory. Show the disposition of the lone pairs on the central\n      atom, where appropriate.\n\n      A mixture of iodine vapour and chlorine gas when fed into a mass spectrometer gave\ntwo sets (A and B) of mass spectral peaks corresponding to molecular ions of two\nchemical species at m/z:\n      A:      162, 164\n      B:      464, 466, 468, 470, 472, 474, 476\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2          791\n\n                                  RD\n\n5.5 Identify the molecular species corresponding to m/z = 162, 164, 466 and 476. Draw\n     the structure of the heaviest species (m/z = 476) indicating clearly the lone pairs on\n     atom(s) of I (iodine). Show the isotopic composition of each species.\n     In aqueous medium chlorine gas oxidises sodium thiosulphate to an ion containing\nthe highest oxidation state of sulphur.\n5.6 Write down the chemical equation for this reaction.\n5.7 Write down the Lewis dot structure of the thiosulphate ion. Circle the sulphur atom\n     that has the lower oxidation state.\n5.8 Chlorine dioxide reacts with sodium hydroxide as shown below. Identify the products\n     X and Y (both containing chlorine) and balance the equation.\n5.9 Reaction of chlorine an alkali is used by manufacturing bleach. Write the chemical\n     reaction for its formation.\n5.10 Write the oxidation state(s) of chlorine in bleach.\n\n(C) Alkali metal halides and X-ray crystallography\n     X-ray crystallography reveals many aspects of the structure of metal halides. The\nradius ratio (r+/r–) is a useful parameter to rationalise their structure and stability. A table of\nradius ratio (r+/r–) for some alkali halides with radius ratio (r– kept constant) is shown\nschematically for NaCl-type and CsCl-type crystal structures.\n\n                                                                 +         +        +        +        +\n                                                               Li     Na        K       Rb       Cs\n                                                           –\n                                                      Cl       0.33   0.52      0.74    0.82     0.93\n                                                           –\n                                                      Br       0.31   0.49      0.68    0.76     0.87\n                                                           –\n                                                       I       0.28   0.44      0.62    0.69     0.78\n\n5.11 For a given anion, the graph for NaCl-type structure levels off at low r+/r– values\n     because of\n     (a)    cation-cation contact along the face diagonal.\n     (b)    anion-anion contact along the face diagonal.\n     (c) cation-anion contact along the cell edge.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                     792\n\n                                       RD\n\n5.12 Which among the halides LiBr, NaBr and RbBr is likely to undergo phase transition\n     from NaCl-type to CsCl-type structure with change of temperature and / or pressure?\n5.13 Show by calculation the radius ratio (r+/r–) at which the energy of CsCl-type structure\n     levels off.\n5.14 Using CuKα X-rays (λ = 154 nm), diffraction by a KCl crystal (fcc structure) is\n     observed at an angle (θ) of 14.2 °. Given that (i) diffraction takes place from the\n                        2     2   2                                              2    2    2 1/2\n     planes with h + k + l = 4, (ii) in a cubic crystal dhkl = a / (h + k + l ) , where \"d\" is\n     the distance between adjacent hkl planes and \"a\" is a lattice parameter, and (iii)\n     reflections in an fcc structure can occur only from planes with \"all odd\" or \"all even\"\n     hkl (Miller) indices, calculate the lattice parameter \"a\" for KCl.\n                                                                                          nd       rd\n5.15 Indicate in the table given below the required information for the 2                      and 3 nearest\n                              +\n     neighbours of a K ion in the KCl lattice.\n\n                       nd                                                   rd\n                   2        nearest neighbours                          3 nearest neighbours\n           number             sign of the          distance        number        sign of the       distance\n                                charge               (pm)                           charge           (pm)\n\n5.16 Determine the lowest value of diffraction angle θ possible for the KCl structure.\n\nSOLUTION\n                hν\n5.1 2 AgBr (s)  → 2 Ag (s) + Br2 /2 Br •\n\n5.2 AgBr(s) + 2 Na2S2O3 → Na3[Ag(S2O3)2] + NaBr\n\n                        + 2 CN → [Ag(CN)2] + 2 S2O32-\n                   3-             –                      –\n5.3 [Ag(S2O3)2]\n\n     2 [Ag(CN)2] + Zn → [Zn (CN)4]                      + 2 Ag ↓\n                   –                               2-\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                            793\n\n                                    RD\n                         THE 33          INTERNATIONAL CHEMISTRY OLYMPIAD, 2001\n5.4\n\n                 ClF3\n\n                 BrF5\n\n                 IF7\n\n5.5.\n       Mass:                  162                       164              466          476\n                              35                        37\n      Species:            I        Cl               I        Cl       I235Cl5 37Cl   I237Cl6\n\n5.6 4 Cl2 + S2O32- + 5 H2O → 8 Cl + 2 SO2-\n                                             –                    +\n                                        4 + 10 H\n\n5.7\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                  794\n\n                                                      RD\n                                          THE 33           INTERNATIONAL CHEMISTRY OLYMPIAD, 2001\n\n5.8 2 ClO2 + 2 NaOH → NaClO2 + NaClO3 + H2O\n\n                                                          X              Y\n\n5.9 Cl2 + Ca(OH)2 → Ca(Cl)(OCl) + H2O\n       or\n       Cl2 + CaO → Ca(Cl)(OCl)\n       or\n       2 OH + Cl2 → Cl + OCl + H2O\n              -                           -                -\n\n5.10        The oxidation state(s) of chlorine in bleach is (are):                                           -I and I\n5.11        Correct answer: (b) anion–anion contact along the face diagonal.\n5.12        RbBr\n5.13        In CsCI-type structure,\n            Cell edge, a = 2 r\n            Body diagonál:                       3 a = 2(r+ + r–)\n\n            r+\n               = 3 − 1 = 0.732\n            r−\n\n5.14    λ = 2d sin θ\n                            λ\n        d200 =                       = 314 pm\n                       2 sinθ\n                                 a                                   a                   a\n        d 200 =                                       =                              =\n                   (h + k + l )\n                       2         2            2 1/2\n                                                           (2 + 0 + 0 )\n                                                               2    2        2 1/2\n                                                                                         2\n        a = 628 pm\n\n                  nd                 rd                                                  +\n5.15    The 2          and 3 nearest neighbours of a K ion in the KCl lattice.\n\n                           nd                                                                     rd\n                       2        nearest neighbours                                               3 nearest neighbours\n\n               number                          sign of             distance              number               sign of   distance\n                                                 the                 (pm)                              the      the       (pm)\n                                               charge                                                         charge\n\n                   12                                 +              444                     8                    -       544\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                                                      795\n\n                                         RD\n                               THE 33         INTERNATIONAL CHEMISTRY OLYMPIAD, 2001\n\n5.16 Lowest θ value is for the plane with hkl = (111)\n                  a                628\n      d=                       =         = 363 pm\n            1 +1 +1\n             2        2    2\n                                    3\n\n                      λ          154 pm\n      sinθ111 =            =              = 0.212\n                  2 d111       2 × 363 pm\n\n      θ111 = 12.2 °\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2          796\n\n                                  RD",
+   "parts": [
+    {
+     "id": "5.1",
+     "points": 1,
+     "question": "Write the photochemical reaction that occurs when light falls on AgBr(s) coated on a film.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.2",
+     "points": 1,
+     "question": "During the developing process, unexposed AgBr is washed away by complexation of Ag(I) by sodium thiosulphate solution. Write down this chemical reaction.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.3",
+     "points": 1,
+     "question": "These washings are often disposed of as waste. However, metallic silver can be recovered from them by adding cyanide, followed by zinc. Write down the reactions involved.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.4",
+     "points": 1,
+     "question": "Write the formulae and 3-dimensional structures of these interhalogen molecules on the basis of VSEPR theory. Show the disposition of the lone pairs on the central atom, where appropriate. A mixture of iodine vapour and chlorine gas when fed into a mass spectrometer gave",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.5",
+     "points": 1,
+     "question": "Identify the molecular species corresponding to m/z = 162, 164, 466 and 476. Draw the structure of the heaviest species (m/z = 476) indicating clearly the lone pairs on atom(s) of I (iodine). Show the isotopic composition of each species. In aqueous medium chlorine gas oxidises sodium thiosulphate to an ion containing",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.6",
+     "points": 1,
+     "question": "Write down the chemical equation for this reaction.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.7",
+     "points": 1,
+     "question": "Write down the Lewis dot structure of the thiosulphate ion. Circle the sulphur atom that has the lower oxidation state.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.8",
+     "points": 1,
+     "question": "Chlorine dioxide reacts with sodium hydroxide as shown below. Identify the products X and Y (both containing chlorine) and balance the equation.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.9",
+     "points": 1,
+     "question": "Reaction of chlorine an alkali is used by manufacturing bleach. Write the chemical reaction for its formation.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.10",
+     "points": 1,
+     "question": "Write the oxidation state(s) of chlorine in bleach.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.11",
+     "points": 1,
+     "question": "For a given anion, the graph for NaCl-type structure levels off at low r+/r– values because of (a) cation-cation contact along the face diagonal. (b) anion-anion contact along the face diagonal. (c) cation-anion contact along the cell edge.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.12",
+     "points": 1,
+     "question": "Which among the halides LiBr, NaBr and RbBr is likely to undergo phase transition from NaCl-type to CsCl-type structure with change of temperature and / or pressure?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.13",
+     "points": 1,
+     "question": "Show by calculation the radius ratio (r+/r–) at which the energy of CsCl-type structure levels off.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.14",
+     "points": 1,
+     "question": "Using CuKα X-rays (λ = 154 nm), diffraction by a KCl crystal (fcc structure) is observed at an angle (θ) of 14.2 °. Given that (i) diffraction takes place from the 2 2 2 2 2 2 1/2 planes with h + k + l = 4, (ii) in a cubic crystal dhkl = a / (h + k + l ) , where \"d\" is the distance between adjacent hkl planes and \"a\" is a lattice parameter, and (iii) reflections in an fcc structure can occur only from planes with \"all odd\" or \"all even\" hkl (Miller) indices, calculate the lattice parameter \"a\" for KCl. nd rd",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.15",
+     "points": 1,
+     "question": "Indicate in the table given below the required information for the 2 and 3 nearest + neighbours of a K ion in the KCl lattice. nd rd 2 nearest neighbours 3 nearest neighbours number sign of the distance number sign of the distance charge (pm) charge (pm)",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.16",
+     "points": 1,
+     "question": "Determine the lowest value of diffraction angle θ possible for the KCl structure.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача №6",
+   "weight": null,
+   "total": 9,
+   "statement": "Organic Chemistry of Indian Spices\n\n     The rhizomes of ginger (Zingiber officinale) are well known for their medicinal and\nflavouring properties. In Ayurveda (the traditional system of medicine in India) different\nformulations of ginger are used for the treatment of gastrointestinal problems, common\ncold and other aliments. Several compounds are responsible for the pungency of ginger.\nMany are simple substituted aromatic compounds with different side chains. Three of\nthem, Zingerone, (+)[6] Gingerol (to be referred hereafter as Gingerol only), and Shogaol\nare particularly important.\nZingerone:       C11H14O3\nGingerol:        C17H14O4\nShogaol:         C17H24O3\n6.1 Zingerone gives positive FeCl3 and 2,4-DNP (2,4-dinitrophenylhydrazine) tests. It\n     does not react with Tollen's reagent. Therefore, Zingerone contains the following\n     functional groups: (Mark X in the correct boxes.)\n     (a)    alcoholic hydroxyl                         (e)   ester\n     (b)    aldehydic carbonyl                         (f)   alkoxyl\n     (c)    ketonic carbonyl                           (g)   unsaturation\n\n     (d)    phenolic hydroxyl\n\n                                         1\n     The data obtained from the H NMR spectrum of Zingerone are shown in Table 1.\nSome other relevant information is given in Table 2.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2         797\n\n                                           RD\n\n               1\nTable 1:        H NMR spectral data on Zingerone\n\n   Chemical                                             Multiplicity                     Relative\n     shifts                                                                              intensity\n         (δ)\n  2.04                  singlet                                                               3\n\n  2.69, 2.71            two (closely spaced) triplets of equal intensity                      4\n\n  3.81                  singlet                                                               3\n\n  5.90                  broad singlet (D2O exchangeable)                                      1\n\n  6.4 – 6.8             two doublets with similar chemical shifts and one singlet             3\n\n       *) For clarity, some of the data have been altered slightly.)\n\nTable 2: Approximate 1H chemical shifts (δ) and spin-spin coupling constants (J)\n               of some protons\n\n   1H Chemical shifts\n                                                                        O            O\n\n  alkyl - H                         0.9 - 1.5                           C   CH       C   3.4 - 3.6\n\n         O\n                                                                                 H\n        C          CH               2.0 - 2.7                          C    C            4.0 - 7.0\n\n                                                                       Ph   H            6.0 - 8.0\n  Ph           CH                   2.3 - 2.9\n\n                                                                       Ar   OH           4.0 - 11.0\n        O          CH               3.3 - 3.9\n\nSpin–spin coupling constants (J)\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                        798\n\n                                  RD\n\n     Alkenes                 cis             5 – 14 Hz (commonly around 6 – 8 Hz)\n\n                             trans           11 – 19 Hz (commonly around 14 – 16 Hz)\n\n     Zingerone on bromination with bromine water gives only one nuclear mono\nbrominated product. The IR spectrum of Zingerone indicates the presence of a week\nintramolecular hydrogen bond. The same is present even after Clemmensen reduction\n(Zn – Hg/HCl) of Zingerone.\n\n6.2 From the information above deduce the following:\n\n     i)     side chain in Zingerone\n\n     ii)    substituent on the aromatic ring\n\n     iii)   relative positions of the substituents on the ring\n\n6.3 Draw a possible structure of Zingerone based on the above inferences.\n\n6.4 Complete the following reaction sequence for the synthesis of Zingerone.\n\n                            +                               \n                                                             aq. NaOH\n                                                                      →      C\n\n              A              +             B (C3H6O)\n\n                                  H / Catalyst\n                              \n                               2\n                                   →                 Zingerone (C11H14O3)\n\n              C\n\n6.5 Zingerone can be easily converted into Gingerol by the following reaction sequence:\n\n                         (i) Me3SiCl / (Me3Si)2NH                     (i) hexanal\n      Zingerone                                              D                      Cingerol\n                         (ii) LDA, 78 °C                             (ii) H2O/ H+\n      (C11H14O3)                                                                    (C17H28O4)\n\n     Notes:       (1) Me3SiCl / (Me3Si)2NH is used to convert OH into –OSiMe3; the group\n                       –SiMe3 can be removed by acid hydrolysis.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2              799\n\n                                   RD\n\n                   (2) LDA is lithium disopropylamine, a strong, very hindered,\n                       non.nucleophilic base.\n\n      i)     Draw the structure of D.\n      ii)    Draw the structure of Gingerol.\n      iii)   Complete the Fischer projection of the R-enantiomer of Gingerol.\n      iv)    In the above reaction sequence (6.5), about 2 – 3 % another constitutional\n             isomer (E) of Gingerol is obtained. Draw the likely structure of E.\n      v)     Will the compound E be formed as\n             (a)   a pair of enatiomers?\n             (b)   a mixture of diastereomers?\n             (c)   a mixture of an enantiomeric pair and a meso isomer?\n     vi)     Gingerol (C17H26O4) when heated with a mild acid (such as KHSO4) gives\n             Shogaol (C17H24O3). Draw the structure of Shogaol.\n6.6 Turmeric (Curcuma longa) is a commonly used spice in Indian food. It is also used in\n     Ayurvedic medicinal formulations. Curmunin (C21H20O6), an active ingredient of\n     turmeric, is structurally related to Gingerol. It exhibits keto-enol tautomerism.\n     Curcumin is responsible for the yellow colour of turmeric and probably also for the\n     pungent taste.\n                   1\n             The H NMR spectrum of the keto form of Curcumin shows aromatic signal\n     similar to that of Gingerol. It also shows a singlet around δ 3.5 (2H) and two doublets\n     (2H each) in the region δ 6 – 7 with J = 16 Hz. It can be synthesized by condensing\n     TWO moles of A (refer to 6.4) with one mole of pentan-2,4-dione.\n     i)      Draw the stereochemical structure of Curcumin.\n     ii)     Draw the structure of the enol form of Curcumin.\n     iii)    Curcumin is yellow in colour because it has\n             (a)   a phenyl ring\n             (b)   a carbonyl group\n             (c)   an extended conjugation\n             (d)   a hydroxyl group\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2             800\n\n                                     RD\n\nSOLUTION\n6.1 Zingerone contains the following functional groups:\n      (c)    ketonic carbonyl\n      (d)    phenolic hydroxyl\n6.2 i)       side chain in Zingerone:                           CH2CH2COCH3\n      ii)    substituents on the aromatic ring:                 OH, OCH3\n      iii)   relative positions of the substituents\n             on the ring:                                       1, 2, 4\n6.3\n\n6.4\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2      801\n\n                                    RD\n\n6.5 i)\n\n      ii)\n\n      iii)\n                       CH2COR\n\n              HO                (CH2)4CH3\n\n                       H\n      iv)\n\n      v)     Compound E will be formed as: (b) a mixture of diastereomers\n\n6.6   i)\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2     802\n\n                                  RD\n\n     ii)\n\n     iii)   Curcumin is yellow in coulour because it has:\n            (c)   an extended conjugation.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2   803\n\n                                  RD",
+   "parts": [
+    {
+     "id": "6.1",
+     "points": 1.5,
+     "question": "Zingerone gives positive FeCl3 and 2,4-DNP (2,4-dinitrophenylhydrazine) tests. It does not react with Tollen's reagent. Therefore, Zingerone contains the following functional groups: (Mark X in the correct boxes.) (a) alcoholic hydroxyl (e) ester (b) aldehydic carbonyl (f) alkoxyl (c) ketonic carbonyl (g) unsaturation (d) phenolic hydroxyl 1 The data obtained from the H NMR spectrum of Zingerone are shown in Table 1.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.2",
+     "points": 1.5,
+     "question": "From the information above deduce the following: i) side chain in Zingerone ii) substituent on the aromatic ring iii) relative positions of the substituents on the ring",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.3",
+     "points": 1.5,
+     "question": "Draw a possible structure of Zingerone based on the above inferences.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.4",
+     "points": 1.5,
+     "question": "Complete the following reaction sequence for the synthesis of Zingerone. +  aq. NaOH → C A + B (C3H6O) H / Catalyst  2 → Zingerone (C11H14O3) C",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.5",
+     "points": 1.5,
+     "question": "Zingerone can be easily converted into Gingerol by the following reaction sequence: (i) Me3SiCl / (Me3Si)2NH (i) hexanal Zingerone D Cingerol (ii) LDA, 78 °C (ii) H2O/ H+ (C11H14O3) (C17H28O4) Notes: (1) Me3SiCl / (Me3Si)2NH is used to convert OH into –OSiMe3; the group –SiMe3 can be removed by acid hydrolysis.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.6",
+     "points": 1.5,
+     "question": "Turmeric (Curcuma longa) is a commonly used spice in Indian food. It is also used in Ayurvedic medicinal formulations. Curmunin (C21H20O6), an active ingredient of turmeric, is structurally related to Gingerol. It exhibits keto-enol tautomerism. Curcumin is responsible for the yellow colour of turmeric and probably also for the pungent taste. 1 The H NMR spectrum of the keto form of Curcumin shows aromatic signal similar to that of Gingerol. It also shows a singlet around δ 3.5 (2H) and two doublets (2H each) in the region δ 6 – 7 with J = 16 Hz. It can be synthesized by condensing TWO moles of A (refer to 6.4) with one mole of pentan-2,4-dione. i) Draw the stereochemical structure of Curcumin. ii) Draw the structure of the enol form of Curcumin. iii) Curcumin is yellow in colour because it has (a) a phenyl ring (b) a carbonyl group (c) an extended conjugation (d) a hydroxyl group",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Задача №7",
+   "weight": null,
+   "total": 12,
+   "statement": "Peptides and Proteins\n\nProtein folding\n     Proteins (polypeptides) are known to assume a variety of backbone conformations.\nIn one conformation, the backbone is almost fully extended arrangement (as in a parallel\nor anti-parallel β-sheet), and in another conformation it is in a fully folded arrangement (as\nin an α-helix).\n7.1 The end-to-end distance in a hexapeptide when it is in a fully extended conformation\n     is approximately:\n     (a)   10 Å              \u0003\n     (b)   15 Å              \u0003\n     (c)   20 Å              \u0003\n     (d)   25 Å              \u0003\n7.2 Assuming that the following hexapeptide is a α-helix conformation, draw a\n     connecting arrow between an oxygen atom and an amide NH with which it is\n     hydrogen bonded.\n7.3 The following hexapeptides (A and B) display contrasting conformations in water at\n     pH 7.0, especially when their serine hydroxyls are phosphorylated. A is moderately\n     helical and it becomes a stronger helix on serine phosphorylation. B is weakly helical\n     and it is completely disorded on serine phosphorylation. Draw connecting arrows to\n     indicate the interactions between the residues that are responsible for this differing\n     behaviour.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2             804\n\n                                  RD\n\n      Consider the following process of folding/unfolding of a tripeptide segment in a large\nprotein. The free energy change (AG) will depend on the interaction of the unfolded\ntripeptide with the solvent (water) and with the rest of the protein in the folded state (see\nbelow). Assume that the tripeptide is made up of one non-polar (hydrophobic; shaded)\nand two polar (hydrophilic; unshaded) residues. Assume the following approximate\nchanges in the interaction free energies :\n      a non-polar residue and the solvent (water): ∆G = +8 kJ mol\n                                                                            -1\n(a)\n      a non-polar residue and the rest of the protein: ∆G = – 4 kJ mol\n                                                                                 -1\n(b)\n      a polar residue and the solvent (water): ∆G = – 16 kJ mol\n                                                                       -1\n(c)\n      a polar residue and the rest of the protein: ∆G = – 14 kJ mol\n                                                                            -1\n(d)\n\n7.4 Calculate ∆G for the foldinq of the tripeptide segment.\n7.5 Calculate ∆G for the folding of the tripeptide segment if all the three residues are\n      polar.\n\nβ - lactamase and drug resistance\n      Penicillins are effective drugs in combating bacterial infections. An alarming\ndevelopment over the years has, however, been the emergence of drug resistant bacteria.\nPenicillin resistance arises due to the secretion of an enzýme called (3-lactamase (also\nknown as penicillinase), which inactivates penicillin by opening its (3-lactam ring. The\nmechanism for this (3-lactam ring opening involves the nucleophilic attack by serine-OH at\nthe active site of the enzýme as shown below.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2              805\n\n                                  RD\n\n      An attempt was made to characterize the b–lactamase from Staphylococcus aureus.\n                                                                  32\nWhen the pure enzyme was treated with a radiolabelled [ P] phosphorylating agent, only\nthe active site serine got labelled. On analysis, this serine {molecular mass = 105 mass\nunits (Da)} constituted 0.35% by weight of the b–lactamase.\n7.6   Estimate the minimal molecular mass of this b–lactamase.\n7.7 The approximate number of amino acid residues present in a protein of this size\n      is :\n      (a)    100       \u0003\n      (b)    150       \u0003\n      (c)    275       \u0003\n      (d)    375       \u0003\n      [Mark X in the correct box.]\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2       806\n\n                                   RD\n\n       To map its active site, the b–lactamase was hydrolysed using trypsin, a specific\n enzyme. This resulted in a hexapeptide P1 containing the active site serine. Amino acid\n analysis revealed the following in equimolar proportion : Glu, Leu, Lys, Met, Phe and Ser.\n Treatment of P1 with Edman’s reagent (phenyl isothiocyanate) yielded phenyl\n thiohydantoin (PTH) derivative of phenyalanine and a peptide P2.\n       Treatment of P1 with cyanogen bromide (CNBr) gave an acidic tetrapeptide P3 and a\n dipeptide P4.\n       Treatment of P2 with 1–fluoro–2,4–dinitrobenzene, followed by complete hydrolysis,\n yielded N–2,4–dinitrophenyl–Glu. P1, P2, and P3 contain the active site serine.\n 7.8 From the above information, deduce the amino acid sequence of P1, P2, P3 and P4.\n 7.9 Calculate the molecular mass of P3 in mass units (Da) from the information given in\n       the attached Table.\n\n       The β–lactamase active site provides a unique microenvironment that makes the\n catalytic serine–OH an unusually reactive nucleophile. The first order rate constant for β–\n                                                –1\n lactamase catalysed reaction is 350 s . For penicillin hydrolysis by free serine–OH (at 1\n                                                                   –1\n M) in solution, the pseudo first order rate constant is 0.5 s .\n 7.10 From the information above, calculate the effective concentration of this\n       nucleophile at the enzyme active site?\n\n       A molecule competing with penicillin for binding to the b–lactamase active site can\n inhibit the enzyme. Dissociation constants (KD) for the inhibitor–lactamase complex for\n three different inhibitors are given below :\n                                           Inhibitor Dissociation constant (KD)\n                                                              –3\n       A                                             2.0×10\n                                                              –6\n       B                                             1.0×10\n                                                              –9\n       C                                             5.0×10\n7.11   Indicate which of these inhibitors is most effective in protecting penicillin against\n       β–lactamase. [Mark X in the correct box]\n       A          \u0003\n       B          \u0003\n       C          \u0003\n\n THE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2          807\n\n                                  RD\n\n     A β–lactamase inhibitor was designed rationally. On binding to the enzyme active\nsite, a nucleophilic attack by the OH group of serine resulted in the opening of the\nβ–lactam moiety of the inhibitor and elimination of Br . A reactive electrophile is generated\n                                                              –\n\nas a result and it captures an active site residue X, inactivating the enzyme.\n7.12 Based on the above information, identify the electrophile (A) generated and the final\n     product (B) formed in the enzyme inactivation by the inhibitor shown.\n\nTable\n\n        Amino Acid                                Structure                     Molecular\n                                                                                mass (Da)\n\n Glu – Glutamic acid                                                                147\n\n Hms – Homoserine                                                                   119\n\n    Leu – Leucine                                                                   131\n\n  Met – Methionine                                                                  149\n\n     Lys – Lysine                                                                   146\n\nPhe – Phenylalanine                                                                 165\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2               808\n\n                                  RD\n\nTable (continued)\n\n      Arg – Arginine                                                            174\n\n      Ser – Serine                                                              105\n\nSOLUTION\n7.1 The end-to-end distance in a hexapeptide when it is in a fully extended conformation\n       is approximately :\n       (c)   20 Å\n7.2\n\n7.3\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2         809\n\n                                  RD\n\n7.4 ∆G = – 8 – (–16 × 2) + (–4×1) + (–14 × 2) = – 8 kJ mol\n                                                                     -1\n\n7.5 ∆G = – (14 × 3) – (– 16 × 3) = + 6 kJ mol\n                                                       -1\n\n      105 × 100\n7.6             = 30000 Da\n        0.35\n\n7.7 The approximate number of amino acid residues present in a protein of this size is:\n      (c)   275\n\n7.8    P1: Phe – Glu – Ser – Met – Leu – Lys\n       P2: Glu – Ser – Met – Leu – Lys\n       P3: Phe – Glu – Ser – Hms/Met\n       P4: Leu – Lys\n\n7.9 Phe - Glu - Ser - Hms\n      (165 + 147 + 105 + 119) – 3 H2O = 536 – 54 = 482 Da\n\n7.10 700 M\n\n7.11 The most effective inhibitor is C.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2        810\n\n                                  RD\n\n7.12\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2   811\n\n                                     RD\n\n                              PRACTICAL PROBLEMS",
+   "parts": [
+    {
+     "id": "7.1",
+     "points": 1,
+     "question": "The end-to-end distance in a hexapeptide when it is in a fully extended conformation is approximately: (a) 10 Å \u0003 (b) 15 Å \u0003 (c) 20 Å \u0003 (d) 25 Å \u0003",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.2",
+     "points": 1,
+     "question": "Assuming that the following hexapeptide is a α-helix conformation, draw a connecting arrow between an oxygen atom and an amide NH with which it is hydrogen bonded.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.3",
+     "points": 1,
+     "question": "The following hexapeptides (A and B) display contrasting conformations in water at pH 7.0, especially when their serine hydroxyls are phosphorylated. A is moderately helical and it becomes a stronger helix on serine phosphorylation. B is weakly helical and it is completely disorded on serine phosphorylation. Draw connecting arrows to indicate the interactions between the residues that are responsible for this differing behaviour.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.4",
+     "points": 1,
+     "question": "Calculate ∆G for the foldinq of the tripeptide segment.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.5",
+     "points": 1,
+     "question": "Calculate ∆G for the folding of the tripeptide segment if all the three residues are polar.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.6",
+     "points": 1,
+     "question": "Estimate the minimal molecular mass of this b–lactamase.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.7",
+     "points": 1,
+     "question": "The approximate number of amino acid residues present in a protein of this size is : (a) 100 \u0003 (b) 150 \u0003 (c) 275 \u0003 (d) 375 \u0003 [Mark X in the correct box.]",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.8",
+     "points": 1,
+     "question": "From the above information, deduce the amino acid sequence of P1, P2, P3 and P4.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.9",
+     "points": 1,
+     "question": "Calculate the molecular mass of P3 in mass units (Da) from the information given in the attached Table. The β–lactamase active site provides a unique microenvironment that makes the",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.10",
+     "points": 1,
+     "question": "From the information above, calculate the effective concentration of this nucleophile at the enzyme active site? A molecule competing with penicillin for binding to the b–lactamase active site can",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.11",
+     "points": 1,
+     "question": "Indicate which of these inhibitors is most effective in protecting penicillin against β–lactamase. [Mark X in the correct box] A \u0003 B \u0003 C \u0003",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.12",
+     "points": 1,
+     "question": "Based on the above information, identify the electrophile (A) generated and the final product (B) formed in the enzyme inactivation by the inhibitor shown.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,142 @@
+{
+ "setId": "phys-ipho-2016--phys-2-tasks",
+ "olympiadId": "phys-ipho-2016",
+ "title": "Физика → IPhO (международная) → 2016",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/physics/s/IPhO/2016/phys-2-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T18:43:14.551Z",
+ "quality": {
+  "tasks": 8,
+  "parts": 8,
+  "withPoints": 8,
+  "withReference": 0,
+  "withQuestion": 8,
+  "estimatedPoints": 8
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Battery pack with USB cable",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Adjustable signal generator powered by the battery pack",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Small screwdriver",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "Ten cables with crocodile clips",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "Six cables with         plugs",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "Two digital multimeters\nYou may also use any of the supplied stationary items to conduct the practical tasks.\n\n                                            Experiment\n                                           English (Oﬃcial)                   G0-4\nSignal generator\n\n                                              (2)\n                                                                  (1)\n\n                                                                        (4)\n                               (3)\n\n                                     (5)       (6)          (8)   (7)\n\n                                                Figure 2.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Задача 7",
+   "statement": "Common ground socket",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Задача 8",
+   "statement": "Switch to turn the loudspeaker terminals and monitor output for the loudspeaker amplitude on\n     / off\nTo power the signal generator, plug the battery pack using the USB cable to the USB connector of the\nsignal generator (1).\nNote that several turns of the potentiometer are required to go from one end of the range to the other.\nThe potentiometers do not have mechanical stops at the end of their range.\n\nDigital multimeters\n\nThe digital multimeters can be used for current and voltage measurements. Always connect the two\nleads to the sockets labeled \"   \" and \"     \" and choose current/voltage and the measurement range\nby means of the selector.\n\n                                               Experiment\n                                              English (Oﬃcial)                    Q1-1\nElectrical conductivity in two dimensions (10 points)\nPlease read the general instructions in the separate envelope before you start this problem.\n\nIntroduction\n\nIn the quest to develop next generation devices based on semi-conductor technology like computer chips\nor solar cells, researchers are looking for materials which exhibit outstanding transport properties, e.g.\nlow electrical resistivity. Measurements of these properties are carried out using samples of ﬁnite size,\ncontacts with ﬁnite contact resistance and in a special geometry. These effects have to be taken into\naccount in order to extract the true material properties. Moreover, a thin ﬁlm of the material may behave\ndifferently than bulk material.\nIn this task, we will investigate the measurement of electrical properties. We will use two different deﬁ-\nnitions:\n   • Resistance : The resistance is the electrical property of a sample or device. It is the quantity which\n     we actually measure on a speciﬁc sample with given dimensions.\n   • Resistivity : The resistivity is the material property which determines the resistance. It depends\n     on the material itself and on external parameters like the temperature, but it does not depend on\n     the geometry of the sample.\nIn particular, we will measure the so-called sheet resistivity. This is the resistivity divided by the thickness\nof the very thin sheet.\nWe will explore the inﬂuence of the following parameters on the measurement of the electrical resistance\nof thin layers of material:\n   • the measurement circuitry,\n   • the measurement geometry,\n   • and the sample dimensions.\nA sheet of conductive paper and a metal coated silicon wafer will serve as samples.\n\n                                             Experiment\n                                             English (Oﬃcial)                  Q1-2\nList of materials\n\n                                       (1)\n\n                         (2)                 (4)      (3)            (5)\n\n                            Figure 1: Additional equipment for this experiment.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "8",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

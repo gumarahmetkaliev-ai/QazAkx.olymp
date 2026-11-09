@@ -1,0 +1,105 @@
+{
+ "setId": "math-imo-2010--math-tasks",
+ "olympiadId": "math-imo-2010",
+ "title": "Математика → IMO (международная) → 2010",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/2010/math-tasks.pdf",
+ "solutionFile": "olympiads/math/s/imo/2010/math-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:36.668Z",
+ "quality": {
+  "tasks": 6,
+  "parts": 6,
+  "withPoints": 6,
+  "withReference": 6,
+  "withQuestion": 6,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Determine all functions f : R → R such that the equality\n                                              Ä   ä        ö   ù\n                                          f bxcy = f (x) f (y)\n\nholds for all x, y ∈ R. (Here bzc denotes the greatest integer less than or equal to z.)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "A1. Determine all functions f : R Ñ R such that the equality\n                                       f prxsy q \u0010 f pxqrf py qs.                                 (1)\nholds for all x, y P R. Here, by rxs we denote the greatest integer not exceeding x.\n                                                                                            (France)\nAnswer. f pxq \u0010 const \u0010 C, where C \u0010 0 or 1 ¨ C              2.\nSolution 1. First, setting x \u0010 0 in (1) we get\n                                         f p0q \u0010 f p0qrf py qs                                    (2)\nfor all y P R. Now, two cases are possible.\n    Case 1. Assume that f p0q \u0018 0. Then from (2) we conclude that rf py qs \u0010 1 for all\ny P R. Therefore, equation (1) becomes f prxsy q \u0010 f pxq, and substituting y \u0010 0 we have\nf pxq \u0010 f p0q \u0010 C \u0018 0. Finally, from rf py qs \u0010 1 \u0010 rC s we obtain that 1 ¨ C 2.\n    Case 2. Now we have f p0q \u0010 0. Here we consider two subcases.\n    Subcase 2a. Suppose that there exists 0 α 1 such that f pαq \u0018 0. Then setting x \u0010 α\nin (1) we obtain 0 \u0010 f p0q \u0010 f pαqrf py qs for all y P R. Hence, rf py qs \u0010 0 for all y P R. Finally,\nsubstituting x \u0010 1 in (1) provides f py q \u0010 0 for all y P R, thus contradicting the condition\nf pαq \u0018 0.\n    Subcase 2b. Conversely, we have f pαq \u0010 0 for all 0 ¨ α          1. Consider any real z; there\nexists an integer N such that α \u0010      P r0, 1q (one may set N \u0010 rzs 1 if z © 0 and N \u0010 rzs\u0001 1\n                                    z\n                                   N\notherwise). Now, from (1) we get f pz q \u0010 f prN sαq \u0010 f pN qrf pαqs \u0010 0 for all z P R.\n    Finally, a straightforward check shows that all the obtained functions satisfy (1).\nSolution 2. Assume that rf py qs \u0010 0 for some y; then the substitution x \u0010 1 provides\nf py q \u0010 f p1qrf py qs \u0010 0. Hence, if rf py qs \u0010 0 for all y, then f py q \u0010 0 for all y. This function\nobviously satisfies the problem conditions.\n    So we are left to consider the case when rf paqs \u0018 0 for some a. Then we have\n                                                                    f prxsaq\n                         f prxsaq \u0010 f pxqrf paqs,      or f pxq \u0010\n                                                                     rf paqs .                    (3)\n\nThis means that f px1 q \u0010 f px2 q whenever rx1 s \u0010 rx2 s, hence f pxq \u0010 f prxsq, and we may assume\nthat a is an integer.\n   Now we have                           \b          \u0010     \b\u0018\n                        f paq \u0010 f 2a \u0004 12 \u0010 f p2aq f 12 \u0010 f p2aqrf p0qs;\nthis implies rf p0qs \u0018 0, so we may even assume that a \u0010 0. Therefore equation (3) provides\n                                                 f p0q\n                                      f pxq \u0010\n                                                rf p0qs \u0010 C \u0018 0\nfor each x. Now, condition (1) becomes equivalent to the equation C \u0010 C rC s which holds\nexactly when rC s \u0010 1.\n\n8"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Let I be the incentre of triangle ABC and let Γ be its circumcircle. Let the line AI\n                                                    ˙ and F a point on the side BC such that\nintersect Γ again at D. Let E be a point on the arc BDC\n\n                                        ∠BAF = ∠CAE < 21 ∠BAC.\n\nFinally, let G be the midpoint of the segment IF . Prove that the lines DG and EI intersect on Γ.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "G4. Let I be the incenter of a triangle ABC and Γ be its circumcircle. Let the line AI\nintersect Γ at a point D \u0018 A. Let F and E be points on side BC and arc BDC respectively\nsuch that =BAF \u0010 =CAE          1\n                               2\n                                 =BAC. Finally, let G be the midpoint of the segment IF .\nProve that the lines DG and EI intersect on Γ.\n                                                                                       (Hong Kong)\n\nSolution 1. Let X be the second point of intersection of line EI with Γ, and L be the foot\nof the bisector of angle BAC. Let G1 and T be the points of intersection of segment DX with\nlines IF and AF , respectively. We are to prove that G \u0010 G1 , or IG1 \u0010 G1 F . By the Menelaus\ntheorem applied to triangle AIF and line DX, it means that we need the relation\n\n                                      G1 F\n                             1\u0010            \u0010    \u0004 ,              \u0010\n                                             T F AD           TF   ID\n                                                         or           .\n                                      IG1    AT ID            AT   AD\n   Let the line AF intersect Γ at point K \u0018 A (see Fig. 1); since =BAK \u0010 =CAE we have\n\nBK      hence KE k BC. Notice that =IAT \u0010 =DAK \u0010 =EAD \u0010 =EXD \u0010 =IXT , so\n    \u0010 CE,\nthe points I, A, X, T are concyclic. Hence we have =IT A \u0010 =IXA \u0010 =EXA \u0010 =EKA, so\nIT k KE k BC. Therefore we obtain\n                                       TF\n                                       AT\n                                           \u0010 IL\n                                             AI\n                                                .\n\n   Since CI is the bisector of =ACL, we get        \u0010     . Furthermore, =DCL \u0010 =DCB \u0010\n                                               IL    CL\n                                               AI    AC\n=DAB \u0010 =CAD \u0010 2 =BAC, hence the triangles DCL and DAC are similar; therefore we get\n                      1\n\nCL\nAC\n     \u0010 DC\n       AD\n           . Finally, it is known that the midpoint D of arc BC is equidistant from points I,\n\nB, C, hence\n             DC\n             AD\n                 \u0010   ID\n                     AD\n                          .\n   Summarizing all these equalities, we get\n\n                                         TF\n                                         AT\n                                            \u0010 IL\n                                              AI\n                                                 \u0010 CL\n                                                   AC\n                                                      \u0010 DC\n                                                        AD\n                                                           \u0010 ID\n                                                             AD\n                                                                ,\n\nas desired.\n\n                      X                                                            A\n                                             A\n\n                                                                              I\n\n                                                               B                          C\n                                      IIII\n                      TT\n                             G′\n                                                                             D\n                  F\n        B                         L                  C\n\n              K                                  E\n                             D                                        L\n                           Fig. 1                                         Fig. 2\n\n                                                                                            53\n\nComment. The equality\n                           AI\n                           IL\n                               \u0010  AD\n                                  DI\n                                       is known and can be obtained in many different ways. For\ninstance, one can consider the inversion with center D and radius DC \u0010 DI. This inversion takes\nǑ to the segment BC, so point A goes to L. Hence IL \u0010 AI , which is the desired equality.\nBAC\n                                                       DI    AD\nSolution 2. As in the previous solution, we introduce the points X, T and K and note that\nit suffice to prove the equality\n          TF\n          AT\n             \u0010 DI\n               AD\n                        ðñ      T F AT\n                                   AT\n                                       \u0010 DI AD\n                                           AD\n                                                            ðñ     AT\n                                                                   AD\n                                                                      \u0010   AF\n                                                                        DI AD\n                                                                              .\n\nSince =F AD \u0010 =EAI and =T DA \u0010 =XDA \u0010 =XEA \u0010 =IEA, we get that the trian-\ngles AT D and AIE are similar, therefore\n                                         AT\n                                         AD\n                                            \u0010  AI\n                                              AE\n                                                   .\n    Next, we also use the relation DB \u0010 DC \u0010 DI. Let J be the point on the extension\nof segment AD over point D such that DJ \u0010 DI \u0010 DC (see Fig. 2). Then =DJC \u0010\n=JCD \u0010 12 pπ \u0001 =JDC q \u0010 12 =ADC \u0010 12 =ABC \u0010 =ABI. Moreover, =BAI \u0010 =JAC, hence\ntriangles ABI and AJC are similar, so\n                                       AB\n                                       AJ\n                                          \u0010 AI\n                                            AC\n                                                , or AB \u0004 AC \u0010 AJ \u0004 AI \u0010 pDI AD q \u0004 AI.\n    On the other hand, we get =ABF \u0010 =ABC \u0010 =AEC and =BAF \u0010 =CAE, so trian-\ngles ABF and AEC are also similar, which implies\n                                                  AF\n                                                  AC\n                                                      \u0010 AB\n                                                        AE\n                                                            , or AB \u0004 AC \u0010 AF \u0004 AE.\n    Summarizing we get\n\n pDI    AD q \u0004 AI \u0010 AB \u0004 AC \u0010 AF \u0004 AE       ñ     AI\n                                                  AE\n                                                     \u0010   AF\n                                                       AD DI\n                                                                      ñ    AT\n                                                                           AD\n                                                                              \u0010   AF\n                                                                                AD DI\n                                                                                      ,\n\nas desired.\nComment. In fact, point J is an excenter of triangle ABC.\n\n54"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Let N be the set of positive integers. Determine all functions g : N → N such that\n                                          Ä           äÄ         ä\n                                           g(m) + n m + g(n)\n\nis a perfect square for all m, n ∈ N.\n\nLanguage: English                                                      Time: 4 hours and 30 minutes\n                                                                       Each problem is worth 7 points\n\n                                                                            Language: English\n\n                                                                                              Day: 2\n\n                                                                                  Thursday, July 8, 2010",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "Problem A1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    7"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "Let P be a point inside the triangle ABC. The lines AP , BP and CP intersect the\ncircumcircle Γ of triangle ABC again at the points K, L and M respectively. The tangent to Γ at C\nintersects the line AB at S. Suppose that SC = SP . Prove that M K = M L.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "G2. Point P lies inside triangle ABC. Lines AP , BP , CP meet the circumcircle of ABC\nagain at points K, L, M, respectively. The tangent to the circumcircle at C meets line AB\nat S. Prove that SC \u0010 SP if and only if MK \u0010 ML.\n                                                                                    (Poland)\n\nSolution 1. We assume that CA ¡ CB, so point S lies on the ray AB.\n   From the similar triangles △P KM \u0012 △P CA and △P LM \u0012 △P CB we get    \u0010\n                                                                     PM   PA\n                                                                     KM   CA\nand\n    LM\n    PM\n        \u0010 P B . Multiplying these two equalities, we get\n           CB\n\n                                     LM\n                                     KM\n                                        \u0010   \u0004 .\n                                          CB P A\n                                          CA P B\n\nHence, the relation MK \u0010 ML is equivalent to          \u0010\n                                                CB       PB\n                                                            .\n                                                 CA      PA\n   Denote by E the foot of the bisector of angle B in triangle ABC. Recall that the locus of\npoints X for which\n                      XA\n                     XB\n                           \u0010 CA\n                             CB\n                                 is the Apollonius circle Ω with the center Q on the line AB,\nand this circle passes through C and E. Hence, we have MK \u0010 ML if and only if P lies on Ω,\nthat is QP \u0010 QC.\n\n                                                              Ω\n                        L                             C\n                                                      C\n                                                      C\n                                                      C\n\n                                                              K\n\n                                       P\n                                       P\n                                       P\n\n                                                                       S\n                    A                    E                B\n\n                             M\n                                             Fig. 1\n\n   Now we prove that S \u0010 Q, thus establishing the problem statement. We have =CES \u0010\n=CAE =ACE \u0010 =BCS =ECB \u0010 =ECS, so SC \u0010 SE. Hence, the point S lies on AB\nas well as on the perpendicular bisector of CE and therefore coincides with Q.\n\nSolution 2. As in the previous solution, we assume that S lies on the ray AB."
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "In each of six boxes B1 , B2 , B3 , B4 , B5 , B6 there is initially one coin. There are two\ntypes of operation allowed:\n\n  Type 1: Choose a nonempty box Bj with 1 ≤ j ≤ 5. Remove one coin from Bj and add two\n          coins to Bj+1 .\n  Type 2: Choose a nonempty box Bk with 1 ≤ k ≤ 4. Remove one coin from Bk and exchange\n          the contents of (possibly empty) boxes Bk+1 and Bk+2 .\n\nDetermine whether there is a finite sequence of such operations that results in boxes B1 , B2 , B3 , B4 , B5\n                                                      2010                      c     c\nbeing empty and box B6 containing exactly 20102010         coins. (Note that ab = a(b ) .)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "C4. Six stacks S1 , . . . , S6 of coins are standing in a row. In the beginning every stack contains\na single coin. There are two types of allowed moves:\n Move 1 : If stack Sk with 1 ¨ k ¨ 5 contains at least one coin, you may remove one coin\n          from Sk and add two coins to Sk 1 .\n Move 2 : If stack Sk with 1 ¨ k ¨ 4 contains at least one coin, then you may remove\n          one coin from Sk and exchange stacks Sk 1 and Sk 2 .\nDecide whether it is possible to achieve by a sequence of such moves that the first five stacks\n                                                               2010\nare empty, whereas the sixth stack S6 contains exactly 20102010     coins.\n     1                                                            2010"
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "Let a1 , a2 , a3 , . . . be a sequence of positive real numbers. Suppose that for some\npositive integer s, we have\n                                 an = max{ak + an−k | 1 ≤ k ≤ n − 1}\nfor all n > s. Prove that there exist positive integers ` and N , with ` ≤ s and such that an = a` +an−`\nfor all n ≥ N .\n\nLanguage: English                                                         Time: 4 hours and 30 minutes\n                                                                          Each problem is worth 7 points",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "Problem A2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    8"
+    }
+   ]
+  }
+ ]
+}

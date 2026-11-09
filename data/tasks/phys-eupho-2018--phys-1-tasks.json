@@ -1,0 +1,37 @@
+{
+ "setId": "phys-eupho-2018--phys-1-tasks",
+ "olympiadId": "phys-eupho-2018",
+ "title": "Физика → EuPhO (Европейская) → 2018",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/physics/s/EuPhO/2018/phys-1-tasks.pdf",
+ "solutionFile": "olympiads/physics/s/EuPhO/2018/phys-1-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T18:37:14.996Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 1,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "1     Three balls",
+   "weight": null,
+   "total": 51,
+   "statement": "Three small identical balls (denoted as A, B, and C) of mass\nm each are connected with two massless rods of length ` so\nthat one of the rods connects the balls A and B, and the\nother rod connects the balls B and C. The connection at the\nball B is hinged, and the angle between the rods can change\neffortlessly. The system rests in weightlessness so that all the\nballs lie on one line. The ball A is given instantaneously a\nvelocity perpendicular to the rods.\n   Find the minimal distance d between the balls A and C\nduring the subsequent motion of the system. Any friction is\nto be neglected.\n\n2     Solenoid\n                    A solenoid of length ` = 20 cm is wound\n                 around a vertical, cylindrical test tube made\n                 of glass, filled with water. The solenoid is\n                 thermally insulated from the water. The height\n                 of the water level is approximately 20 cm above\n                 the upper end of the solenoid, the diameter of\n                 the test tube is 1 cm, the number of turns of the\n                 coil is N = 6000. The atmospheric pressure\n                 is p0 = 101 kPa, the temperature of water is\n                293 K. Magnetic susceptibility of water is χ ≡\n                 µr − 1 = −9.04 × 10−6 . Vacuum permeability\n                 µ0 = 12.57 × 10−7 H/m.\n   The current in the solenoid is slowly increased until the\nwater starts boiling inside the coil. At which current strength\nwould this happen? Make reasonable approximations when\n\nneeded. Note that the required current strength might be\n\nslightly too large for the present technology.\n\n3     Staircase\nThe equilibrium shape of bodies in zero-gravity is determined\nby the minimum of their surface energy. Thus, for example,\nthe equilibrium shape of a water droplet turns out to be\nspherical: the sphere has the smallest surface area among\nbodies of the same volume.\n   At low temperature, the equilibrium shape of crystals may\nhave flat facets. The parts of the crystal surface that have a\nsmall angle ϕ with the facet are in fact staircases of rare steps\non this facet. The height of such steps is equal to the period\nof the crystal lattice h.\n\n   Equilibrium surface profile y(x) of a certain crystal and the\ncorresponding microscopic staircase are shown schematically\nin the figure, where n denotes the step number, counting from\nx = 0. The profile shape at x > 0 can be approximated as\ny(x) = −(x/λ)3/2 h, where λ = 45 µm and h = 0.3 nm.\n\n A. Express the distance dn between two adjacent steps as a\n    function of n for n \u001d 1.\n\n B. The interaction energy E of two steps depends on the\n\n    distance d between them as\n\n                            E(d) = µ dν ,\n\n    where µ is a constant. Assume that only adjacent steps\n    interact. Find the numerical value for the exponent ν.",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 51,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "1. x(n) = n2/3 λ (1 pt).",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

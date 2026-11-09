@@ -1,0 +1,37 @@
+{
+ "setId": "math-imo-1967--math-tasks",
+ "olympiadId": "math-imo-1967",
+ "title": "Математика → IMO (международная) → 1967",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1967/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:42.605Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": ". On the first day, one medal and 1/7 of the remaining m − 1 medals\nwere awarded. On the second day, two medals and 1/7 of the now remaining\nmedals were awarded; and so on. On the n-th and last day, the remaining n\nmedals were awarded. How many days did the contest last, and how many\nmedals were awarded altogether?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

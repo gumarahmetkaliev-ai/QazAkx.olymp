@@ -1,0 +1,97 @@
+{
+ "setId": "phys-esc-2022--physics-tasks",
+ "olympiadId": "phys-esc-2022",
+ "title": "Физика → Estonian-Finnish → 2022",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/physics/s/esc/2022/physics-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T18:21:40.129Z",
+ "quality": {
+  "tasks": 5,
+  "parts": 5,
+  "withPoints": 5,
+  "withReference": 0,
+  "withQuestion": 5,
+  "estimatedPoints": 5
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "If the hammer thrower throws the hammer at an optimal angle to the\n   ground in calm weather, the hammer will fly to a distance of L = 58.00\n   m. By how many meters does the throw distance change if a headwind\n   blows with a speed of u = 2.0 m/s? Assume that in the case of a\n   headwind the ball is thrown again at the best angle, giving the same\n   initial speed as in calm weather and that the hammer starts its free\n   flight from a height of H = 0.50 m. The hammer is an iron body with\n   mass m = 4.00 kg and density ρv = 7900 kg/m3 to which a wire with\n   a handle is attached; in this task, the effect of the wire and the handle\n   on the flight should not be taken into account. During flight, the ball is\n   affected by the air resistance force Ft = 0.24Sρv 2 , where v is the speed\n   of the ball relative to the air, S is the cross-sectional area of the ball\n   and ρa = 1.23 kg/m3 is the density of the air.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Inside a homogeneously magnetized spherical magnet, the magnetic\n   field strength is B = 0.95 T; radius of the magnet R = 1 cm. The\n   magnet moves towards the copper plate with a certain initial speed\n   v so that its north pole is turned directly towards the plate and the\n   velocity vector is perpendicular to the surface of the plate. In such a\n   movement, eddy currents are created in the plate, which slows down\n   the bullet. For what highest initial velocity v (unit: m/s) will the bullet\n   come to a complete stop before reaching the plate? Plate thickness d\n   = 2 mm and copper resistivity ρ = 1.68 × 10−8 Ω m. Magnet density\n   ρm = 7500 kg/m3 . Assume that the dimensions of the plate and the\n   initial distance of the ball from the plate are larger than the radius of\n   the ball.\n\n                                    1",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Two narrow long metal strips, each with a thickness of d = 1.0 mm,\n   one of which is copper and the other steel, are glued together with a\n   very strong glue to form a two-millimeter-thick “ruler”. At a certain\n   temperature, the ruler is perfectly straight, but it curves as the tem-\n   perature rises. What radius of curvature (unit: m) will the “ruler”\n   acquire if the temperature rises by t = 10 K? The coefficients of linear\n   expansion of copper and steel are respectively αv = 1.67 × 10−5 K−1\n   and αt = 1.10 × 10−5 K−1 . The elastic moduli of copper and steel are\n   Yv = 1.10 × 1011 Pa and Yt = 2.00 × 1011 Pa, respectively.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "A steel ball with a radius r = 5.00 cm is located in interplanetary\n   space at such a distance from the Sun that the density of the heat flow\n   coming from the Sun is J = 1.00 kW/m2 and rotates around an axis\n   perpendicular to the heat flow vector with an angular velocity f = 1.00\n   Hz. The specific heat of steel is c = 502 J/kg K, thermal conductivity\n   coefficient k = 45W/m K and density is ρ = 7850 kg/m3 . Assume that\n   steel reflects β = 0.92 part of the incident radiation at all wavelengths\n   and absorbs the remaining part 1 −β = 0.08. By how many degrees\n   does the temperature of the closest point of this sphere to the Sun\n   differ from the temperature of the farthest point from the Sun? Note:\n   the ball radiates like an absolute black body, i.e. the radiated power\n   per unit area is P = σT 4 , where T is the temperature of the observed\n   surface point.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "From both surfaces of the window glass, r = 0.080 part of the light\n   falling perpendicular to it is reflected back. In addition, in glass with\n   a thickness of d = 3.0 mm, a = 0.060 part of the light passing through\n   it is absorbed. Seventy of these window panes are laid against each\n   other in such a way that a layer of glass 21 centimeters thick is formed.\n   What fraction of the light incident perpendicularly on such a glass layer\n   emerges from the opposite side of the glass layer?\n\n                                   2",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "setId": "math-region-2024-9--math9-tasks",
+ "olympiadId": "math-region-2024-9",
+ "title": "Математика → Районная → 2024 → 9 класс",
+ "materialLabel": "Math9 (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/region/2024/9/math9-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:22.292Z",
+ "quality": {
+  "tasks": 3,
+  "parts": 3,
+  "withPoints": 3,
+  "withReference": 0,
+  "withQuestion": 3,
+  "estimatedPoints": 3
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Решите систему уравнений:\n   а)\n                                        1\n                                    \n                                    x − = 0\n                                    \n                                        y\n                                        1\n                                    y − = 1\n                                    \n                                        x\n   б)\n                                         1\n                                    \n                                    x − = 1\n                                    \n                                         y\n                                    y − 1 = 2\n                                    \n                                         x",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "а) Существует ли натуральное число, дающее остаток 7 при делении на 12 и остаток 11\nпри делении на 42?\n   б) Существует ли натуральное число, дающее остаток 7 при делении на 11 и остаток\n11 при делении на 42?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "а) Существует ли треугольник с высотами 2, 3, 7?\n   б) Существует ли треугольник с высотами 3, 4, 6?\n   Если да, то вычислите его стороны.\n\n                                          1",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

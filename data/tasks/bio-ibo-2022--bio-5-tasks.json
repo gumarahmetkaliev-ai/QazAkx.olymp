@@ -1,0 +1,279 @@
+{
+ "setId": "bio-ibo-2022--bio-5-tasks",
+ "olympiadId": "bio-ibo-2022",
+ "title": "Биология → IBO (международная) → 2022 → Все классы",
+ "materialLabel": "5 кл · 5 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/ibo/2022/bio-5-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T18:33:25.642Z",
+ "quality": {
+  "tasks": 4,
+  "parts": 32,
+  "withPoints": 32,
+  "withReference": 0,
+  "withQuestion": 32,
+  "estimatedPoints": 29
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Determining the activity of alcohol dehydrogenase by spectrophotometry",
+   "weight": null,
+   "total": 42,
+   "statement": "",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 42,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "The effect of different modifiers on alcohol dehydrogenase activity",
+   "weight": null,
+   "total": 32,
+   "statement": "",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 32,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Calculation of alcohol dehydrogenase activity in the presence of modifiers",
+   "weight": null,
+   "total": 16,
+   "statement": "",
+   "parts": [
+    {
+     "id": "3.1",
+     "points": 16,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Clarifying of the structure of the active site of alcohol dehydrogenase",
+   "weight": null,
+   "total": 10,
+   "statement": "GENERAL INFORMATION ON ALCOHOL DEHYDROGENASE\nAlcohol dehydrogenase (EC 1.1.1.1) is a representative of oxidoreductases and in different organisms,\ncatalyzes the oxidation of ethanol to acetic aldehyde:\n\nThe coenzyme of alcohol dehydrogenase in this reaction is NAD+, which is reduced as a result of this\nreaction taking up two electrons and one proton, turning into NADH. The produced NADH absorbs light\nat a wavelength of 340 nm while the oxidized forms do not.\nThe interaction between the enzyme and coenzyme is mediated by tyrosine, histidine and aspartic acid\nresidues, where the role of the acid-base catalyst is played by either the histidine residue or the divalent\nion of a metal, e.g., zinc, manganese or others.\nThe primary structures of variants of alcohol dehydrogenase isolated from different sources strongly\nresemble each other. These enzymes are similar also in the structure of the active site.\nAs a rule, dehydrogenases are distinguished by their quaternary structures. They are oligomeric pro-\nteins, which are made up of different numbers of subunits in different organisms. The subunits sep-\narately do not have catalytic activity. Most dehydrogenases require the presence of bivalent metallic\ncations for catalytic activity, which stabilize the active conformation of the enzyme and take part in acti-\nvating the substrate. The activity of dehydrogenases can be regulated by interaction with a modifier. The\nactivity of most NAD-dependent dehydrogenases is altered by the sulfhydryl (SH-)-reactive agents such\nas para-chloromercuribenzoic acid (PCMB). Other modifiers of dehydrogenases include monoiodoacetic\nacid and diethylpyrocarbonate (DEP), which specifically interact with histidine residues. EDTA interacts\nwith bivalent metal ions. Ninhydrin interacts with the arginine.\n\nPart 1. Determining the activity of alcohol dehydrogenase by\nthe spectrophotometric method.\nBefore you start your work!\n  1. Put on the gloves and then read all the instructions.\n  2. Turn on the spectrophotometer and set the wavelength at 340 nm (see Fig. 1 and 2).\n  3. An opaque, black cuvette is placed in the fourth position of the cuvette holder, which is necessary\n     for zeroing the spectrophotometer indication.\n  4. Close the cuvette compartment.\n  5. Put one blue tip on the 1000-μL pipette and do not remove it until the end of the work. Use this\n     pipette only to pipette the glycine buffer (Gly).\n  6. Before measuring alcohol dehydrogenase activity, you need to blank the spectrophotometer. For\n     that, prepare a control solution in one spectrophotometer cuvette according to Table 1, using the\n     appropriate pipettes.\n\n                                                     Gly     NAD       Eth\n                               Control solution    2.7mL    0.1mL     0.1mL\n\n7. Cover the cuvette with a lid, hold it with your index finger and thumb from the top and bottom of\nthe cuvette, and mix the contents of the cuvette, by inverting it once.\n8. If necessary, clean the transparent sides of the cuvette with filter paper.\n9. Place the cuvette into any slot of the cuvette holder of the spectrophotometer, with the opaque side\nfacing you (the transparent side facing the small window).\n10. Position the cuvette holder so that the fourth position with an opaque cuvette appears on the path\nof light (in front of the light window).\n11. Now close the cover of the cuvette compartment.\n12. Press Mode on the display (fig.1) repeatedly until T mode appears.\n13. Press 0%.\n14. Move the cuvette holder so that the cuvette with the control solution appears in the light path.\n15. Press Mode on the screen repeatedly until Mode A appears. The value on the screen is the absorption\nof the control solution and must be reset.\n16. Press 100% T to reset the spectrophotometer.\n17. Now open the cover of the cuvette compartment and remove the cuvette.\n18. Prepare the clock, and set the stopwatch to the starting position.\n19. Remove the cuvette lid and add 0.1 mL of the alcohol dehydrogenase solution (ADH) to the contents\nof the cuvette, and immediately start the stopwatch. Cover the cuvette with a lid and invert to mix as\nin point 7 (hold it with your index finger and thumb from the top and bottom of the cuvette, and\nmix the contents of the cuvette, by inverting it once).\n20. Place the cuvette into the cuvette holder so that the cuvette appears in the light path. The absorbance\nvalue (A) of the solution will appear on the screen. Record the absorbance of the solution at the 15th\nsecond.\n\n21. Follow the reaction for 120 seconds in total by taking measurements at 15-second intervals of the\nabsorbance of the NADH formed during the reaction. Record your results in the table of Question 1.1\nin the answer sheet (as shown below).\n\n  Question 1.1\n\n                                   Reaction time, s\n\n22. Remove the cuvette from the spectrophotometer and close the cuvette compartment cover. Leave\nthe spectrophotometer in the working state.\n23. Empty the cuvette in the trash can on the table, and put the used cuvette in the cuvette box.\n24. Using the millimeter grid in Question 1.2/f in your answer sheet, plot a curve for the dependence of\nthe absorbance of NADH as a function of reaction time (t) based on the data you receive. The reaction\ntime is set on the X-axis and the absorbance on the Y-axis.\n25. Draw a linear curve to fit the data points.\n26. Derive a function equation for the curve to express the dependence of NADH absorbance on reaction\ntime. You can use the clean pages of the task pages as rough paper.\n27. Record your result in the “Function equation” field of Question 1.2 in your answer sheet. Enter the\ncoefficient of the function equation to 3 decimal points, for example, 0.222.\n\n  Question 1.2\n\n                                 Function equation\n\n28. Determine the alcohol dehydrogenase activity (U/mL) using the arbitrary units based on this formula:\n\n                                       𝐴𝐷𝐻(      )=                 ,\n                                              𝑚𝐿    6.22 ∗ 𝑉2 ∗ △ 𝑡\n\nwhere:\nΔAbsorbance – is the change in absorbance (unitless) according to the curve in the arbitrary time range\nof your choice\n\n6.22 – absorption coefficient, 𝑚𝑀 −1 * 𝑐𝑚−1\n𝑉1 – the final volume of the control solution after adding enzyme, mL\n𝑉2 – enzyme solution volume, mL\nΔt – duration of the arbitrary time range of your choice, in minutes\n29. Record the result in the “ADH” field of Question 1.2 in your answer sheet (see above).\n\nPart 2. The effect of different modifiers on alcohol dehydro-\ngenase activity\n  1. Label the two empty Eppendorf tubes “1” and “2” with the marker pen.\n  2. Place the tubes on the Eppendorf tube holder and open them.\n  3. Add 180 μl of the alcohol dehydrogenase solution (ADH) to Tube #1. Then add 20 μl EDTA solu-\n     tion. Close the tube lid tightly, and mix the contents by inverting the tube. Put the tube into the\n     Eppendorf tube holder.\n  4. Pre-incubate the enzyme with the EDTA for 10 min. Set the time with the stopwatch given to you.\n  5. Before the pre-incubation time is over, take a clear cuvette and prepare the control solution accord-\n     ing to Table 1 in Part 1.\n  6. Insert the cuvette into the spectrophotometer and reset it as in Task 1 (Points 6-7).\n  7. After the 10 min pre-incubation time is over, reset the stopwatch.\n  8. Remove the cuvette from the spectrophotometer, open the lid and place the cuvette on the table.\n     Add 100 μl of enzyme solution from Eppendorf Tube #1 and immediately start the stopwatch.\n  9. Cover the cuvette with a lid and mix the contents, as described in Task 1 (Point 19). Put the cuvette\n     into the cuvette holder.\n 10. Record the absorbance of the solution at each 15th second during the next 120 seconds.\n 11. Record the results in Question 2.1 EDTA of your answer sheet.\nQuestion 2.1 EDTA\n\n                                   Reaction time\n\n12. Remove the cuvette from the spectrophotometer and close the cuvette compartment cover. Leave\nthe spectrophotometer in the working state.\n13. Empty the cuvette in the trash can on the table, and put the used cuvette in the cuvette box.\n14. Add 180 μl of the alcohol dehydrogenase solution to Eppendorf Tube #2. Then add 20 μl of PCMB\nsolution. Close the tube lid tightly, and mix the contents by inverting the tube. Put the tube into the\nEppendorf tube holder.\n15. Pre-incubate the enzyme with a PCMB modifier for 10 min. Set the time with the stopwatch.\n16. Before the pre-incubation time is over, take the clean cuvette and prepare the control solution ac-\ncording to Table 1.\n17. Insert the cuvette into the spectrophotometer and reset it as in Task 1 (Points 6-7).\n18. After the 10-min pre-incubation time is over, reset the stopwatch.\n\n19. Remove the cuvette from the spectrophotometer, open the lid and place the cuvette on the table.\nAdd 100 μl of enzyme solution from Eppendorf Tube #2 and run the stopwatch immediately.\n20. Cover the cuvette with a lid and mix the contents, as described in Task 1 (Point 19), and place the\ncuvette into the cuvette compartment in the spectrophotometer.\n21. Record the absorbance of the solution at each 15th second.\n22. Follow the reaction for 120 seconds, recording the absorption of the resulting NADH every 15 sec-\nonds. Record the results in the table Question 2.2 PCMB of the answer sheet.\nQuestion 2.2 PCMB\n\n                                   Reaction time\n\n23. Remove the cuvette from the spectrophotometer and close the cuvette compartment cover. Turn\noff the spectrophotometer.\n24. Empty the cuvette in the trash can on the table, and put the used cuvette in the cuvette box. Close\nthe cuvette box.\n25. Put the used tips, filter papers, and Eppendorf tubes into the trash can.\n\nPart 3. Calculation of alcohol dehydrogenase activity in the\npresence of modifiers\n  1. Using the millimeter grid of Question 3.1/f in your answer sheet, plot a curve for the dependence of\n     the absorbance of NADH in the presence of EDTA as a function of reaction time (t), as in the previous\n     task. Draw a linear curve to fit the data points. .\n  2. Derive a function equation for the curve to express the dependence of absorbance of NADH on\n     reaction time in the presence of EDTA.\n  3. Record your result in the “Function equation” field of Question 3.1 in your answer sheet. Enter the\n     coefficient of the function equation to 3 decimal points, for example, 0.222.\n\n  Question 3.1\n\n                             Function equation, EDTA\n\n4. Determine the activity of alcohol dehydrogenase during the enzymatic reaction after pre-incubation\nwith various modifiers using the arbitrary units based on this formula:\n\n                                       𝐴𝐷𝐻(      )=\n                                              𝑚𝑙    6.22 ∗ 𝑉2 ∗ △ 𝑡\n\nwhere ΔAbsorbance – is the change in absorbance (unitless) according to the mean curve in the arbitrary\ntime range of your choice\n6.22 – millimolar absorption coefficient, mM-1*cm-1\n𝑉1 – the final volume of the control solution after adding enzyme, mL\n𝑉2 – enzyme solution mixture, mL\n△ 𝑡 – duration of the reaction, minutes\n5. Record your results in the “ADH” field of Question 3.1 in your answer sheet.\n6. Using the millimeter grid of Question 3.2/f in your answer sheet, plot a curve for the dependence of\nthe absorbance of NADH in the presence of PCMB as a function of reaction time (t). Draw a linear curve\nto fit the data points.\n7. Derive a function equation for the curve to express the dependence of absorbance of NADH on reac-\ntion time in the presence of PCMB. Record your result in the “Function equation” field of Question 3.2 in\nyour answer sheet. Enter the coefficient of the function equation to 3 decimal points, for example, 0.222.\n\n  Question 3.2\n\n                             Function equation, PCMB\n\nUsing the equation above (as in Task 1) determine the activity of alcohol dehydrogenase during the\nenzymatic reaction after pre-incubation with PCMB using the arbitrary units based on this formula:\n\n                                       𝐴𝐷𝐻(      )=\n                                              𝑚𝑙    6.22 ∗ 𝑉2 ∗ △ 𝑡\n\nwhere ΔAbsorbance – is the change in absorbance (unitless) according to the mean curve in the arbitrary\ntime range of your choice.\n6.22 – millimolar absorption coefficient, 𝑚𝑀 −1 *𝑐𝑚−1\n𝑉1 – the final volume of the reaction mixture after adding enzyme, mL\n𝑉2 – enzyme solution volume, mL\n△ 𝑡 – duration of the reaction, minutes\n8. Record your results in the “ADH” field of Question 3.2 in your answer sheet (3 points).\n\n9. Based on the data you received, calculate the percentage change in alcohol dehydrogenase activity\nand record it in the corresponding cell of Question 3.3 in your answer sheet.\n\n Question 3.3\n\n                 Change on enzyme activity, %\n\n                         Modificator\n\n                          Increases\n\n                          Decreases\n\nPart 4. Clarifying of the structure of the active site of alcohol\ndehydrogenase.\nChoose which statement is correct from the given statements. Answer the questions by putting\nan X in the appropriate box of the answer sheet in Question 4.1.\n  1. Significant change of alcohol dehydrogenase activity by PCMB is due to the presence of histidine\n     residues in the active site.\n  2. Sulfur-containing amino acids are part of the structure of the catalytic site of the enzyme alcohol\n     dehydrogenase.\n  3. Bivalent metal ions are indispensable for the formation of the quaternary structure of the enzyme\n     alcohol dehydrogenase.\n  4. A mutant of alcohol dehydrogenase with a mutation involving glutamic acid in subunits interaction\n     to alanine performs like a native in the presence of EDTA.\n\n Question 4.1\n\n                                   Statement\n\n                                      True\n\n                                      False\n\n                                    We wish you the best of luck!",
+   "parts": [
+    {
+     "id": "4.1",
+     "points": 0.5,
+     "question": "Put on the gloves and then read all the instructions.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.2",
+     "points": 0.5,
+     "question": "Turn on the spectrophotometer and set the wavelength at 340 nm (see Fig. 1 and 2).",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.3",
+     "points": 0.5,
+     "question": "An opaque, black cuvette is placed in the fourth position of the cuvette holder, which is necessary for zeroing the spectrophotometer indication.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.4",
+     "points": 0.5,
+     "question": "Close the cuvette compartment.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.5",
+     "points": 0.5,
+     "question": "Put one blue tip on the 1000-μL pipette and do not remove it until the end of the work. Use this pipette only to pipette the glycine buffer (Gly).",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.6",
+     "points": 0.5,
+     "question": "Before measuring alcohol dehydrogenase activity, you need to blank the spectrophotometer. For that, prepare a control solution in one spectrophotometer cuvette according to Table 1, using the appropriate pipettes. Gly NAD Eth Control solution 2.7mL 0.1mL 0.1mL",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.7",
+     "points": 0.5,
+     "question": "Cover the cuvette with a lid, hold it with your index finger and thumb from the top and bottom of",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.8",
+     "points": 0.5,
+     "question": "If necessary, clean the transparent sides of the cuvette with filter paper.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.9",
+     "points": 0.5,
+     "question": "Place the cuvette into any slot of the cuvette holder of the spectrophotometer, with the opaque side",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.10",
+     "points": 0.5,
+     "question": "Position the cuvette holder so that the fourth position with an opaque cuvette appears on the path",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.11",
+     "points": 0.5,
+     "question": "Now close the cover of the cuvette compartment.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.12",
+     "points": 0.5,
+     "question": "Press Mode on the display (fig.1) repeatedly until T mode appears.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.13",
+     "points": 0.5,
+     "question": "Press 0%.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.14",
+     "points": 0.5,
+     "question": "Move the cuvette holder so that the cuvette with the control solution appears in the light path.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.15",
+     "points": 0.5,
+     "question": "Press Mode on the screen repeatedly until Mode A appears. The value on the screen is the absorption",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.16",
+     "points": 0.5,
+     "question": "Press 100% T to reset the spectrophotometer.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.17",
+     "points": 0.5,
+     "question": "Now open the cover of the cuvette compartment and remove the cuvette.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.18",
+     "points": 0.5,
+     "question": "Prepare the clock, and set the stopwatch to the starting position.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.19",
+     "points": 0.5,
+     "question": "Remove the cuvette lid and add 0.1 mL of the alcohol dehydrogenase solution (ADH) to the contents",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.20",
+     "points": 0.5,
+     "question": "Place the cuvette into the cuvette holder so that the cuvette appears in the light path. The absorbance",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.21",
+     "points": 0.5,
+     "question": "Follow the reaction for 120 seconds in total by taking measurements at 15-second intervals of the",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.22",
+     "points": 0.5,
+     "question": "Remove the cuvette from the spectrophotometer and close the cuvette compartment cover. Leave",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.23",
+     "points": 0.5,
+     "question": "Empty the cuvette in the trash can on the table, and put the used cuvette in the cuvette box.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.24",
+     "points": 0.5,
+     "question": "Using the millimeter grid in Question 1.2/f in your answer sheet, plot a curve for the dependence of",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.25",
+     "points": 0.5,
+     "question": "Draw a linear curve to fit the data points.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.26",
+     "points": 0.5,
+     "question": "Derive a function equation for the curve to express the dependence of NADH absorbance on reaction",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.27",
+     "points": 0.5,
+     "question": "Record your result in the “Function equation” field of Question 1.2 in your answer sheet. Enter the",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.28",
+     "points": 0.5,
+     "question": "Determine the alcohol dehydrogenase activity (U/mL) using the arbitrary units based on this formula: 𝐴𝐷𝐻( )= , 𝑚𝐿 6.22 ∗ 𝑉2 ∗ △ 𝑡",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.29",
+     "points": 0.5,
+     "question": "Record the result in the “ADH” field of Question 1.2 in your answer sheet (see above).",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

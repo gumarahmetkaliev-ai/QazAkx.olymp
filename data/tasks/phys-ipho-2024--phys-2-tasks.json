@@ -1,0 +1,126 @@
+{
+ "setId": "phys-ipho-2024--phys-2-tasks",
+ "olympiadId": "phys-ipho-2024",
+ "title": "Физика → IPhO (международная) → 2024",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/physics/s/IPhO/2024/phys-2-tasks.pdf",
+ "solutionFile": "olympiads/physics/s/IPhO/2024/phys-2-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T18:21:27.022Z",
+ "quality": {
+  "tasks": 7,
+  "parts": 7,
+  "withPoints": 7,
+  "withReference": 5,
+  "withQuestion": 7,
+  "estimatedPoints": 7
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Do not touch and activate the buttons on the equipment before it is asked you to do so.\n                                    I",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "=   𝑑𝜃         ∆𝜃  =                 =\n        𝑃2                                 𝜃0 −𝜃1\n                 𝑑𝑥 𝑥=0𝑐𝑚   ∆𝑥 𝑥=0𝑐𝑚\n                 𝑑𝜃\n        𝑃3       𝑑𝑥 𝑥=42𝑐𝑚    sinh(𝜆(42−𝑥0 ))"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "You do not need to do anything regarding the setup. Take care not to disturb the setup and not\n                                 AT\n\n   to disconnect any wires.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "=   𝑑𝜃              =\n        𝑃2                       sinh(𝜆𝑥0 )\n                 𝑑𝑥 𝑥=0𝑐𝑚"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Don’t move the setup during the experiment.\n                         EG",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "calculation by integral method or sigma in several parts"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "If the message “Turn off Heater1” appears on the monitor, immediately turn off Heater no. 1.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "Slope ((C-B) _ B)\n\n                 12\n\n                 10\n                           y = 0.6015x - 0.5922\n                   8            R² = 0.9998\n             C-B\n\n                   6\n\n                   4\n\n                   2\n\n                   0\n                       0                    5               10             15   20\n                                                           B-1\n\n                                                  𝑃3 = 0.60 𝑃2 ± 0.01 𝑃2\n\nProblem E2- Solution\n\n        number   m\n          1      1\n          2      2\n          3      3\n          4      4\n          5      5\n          6      6\n          7      7\n          8      9\n          9      11\n          10     13\n          11     16\n          12     19\n          13     21\n          14     23\n          15     26\n          16     29\n          17     31\n          18     36\n          19     41\n          20     46\n          21     51\n          22     56\n          23     61\n          24     66\n          25     71\n          26     75\n\n                                      S2-1\n\n    A.1\n𝜃𝑚 (degrees) √𝑛2 − sin2 𝜃𝑚 − cos 𝜃𝑚\n   9.00              0.5142\n   13.00             0.5188\n   15.75             0.5229\n   18.00             0.5270\n   20.50             0.5322\n   22.25             0.5362\n   24.00             0.5406\n   27.00             0.5491\n   29.75             0.5579\n   32.25             0.5668\n   35.50             0.5798\n   38.50             0.5931\n   40.25             0.6015\n   42.00             0.6105\n   44.25             0.6228\n   46.75             0.6375\n   48.00             0.6453\n   51.25             0.6671\n   54.25             0.6891\n   57.00             0.7110\n   59.50             0.7325\n   62.00             0.7555\n   64.00             0.7750\n   66.25             0.7982\n   68.25             0.8200\n   69.75             0.8371\n\n                                      S2-2\n\n           1\n\n                                                  A.2\n80\n\n70                y = 229.10x - 116.84\n60                   R² = 0.999982\n\n50\n\n40\nm\n\n30\n\n20\n\n10\n\n0\n0.5000   0.5500          0.6000          0.6500   0.7000 X   0.7500   0.8000   0.8500   0.9000\n\n                                                  A.3\n                     B = 229.1\n                     A = -116.8\n\n                                                  A.4\n                     h = (148.9 ± 0.1) 𝜇𝑚\n\n                                                    2\n\n                                                    S2-3\n\n                 B.1\nnumber m         𝜃𝑚 (degrees)         𝜃𝑚 2 (rad2)\n 1         1             2.50             0.00190\n 2         2             4.25             0.00550\n 3         3             5.50             0.00921\n 4         4             6.50             0.01287\n 5         5             7.25             0.01601\n 6         6             8.25             0.02073\n 7         8             9.50             0.02749\n 8         10            10.75            0.03520\n 9         12            11.75            0.04206\n 10        15            13.25            0.05348\n 11        18            14.50            0.06405\n 12        20            15.25            0.07084\n 13        22            16.00            0.07798\n 14        25            17.00            0.08803\n 15        29            18.50            0.10426\n 16        31            19.00            0.10997\n 17        33            19.75            0.11882\n\n                       B.2\n                     𝐻      1\n                𝑚=      (1 − ) 𝜃𝑚 2\n                     2𝜆     𝑛\n\n                          3\n\n                                                                                         S2-4\n\n                                                  B.3\n35\n\n30\n                    y = 275.7x + 0.43\n                      R² = 0.99982\n25\n\n20\nm\n\n15\n\n10\n\n5\n\n0\n0.00000   0.02000          0.04000      0.06000         0.08000   0.10000   0.12000   0.14000\n                                            2\n                                           𝜃𝑚 (𝑟𝑎𝑑2 )\n\n                                                  B.4\n                B = 275.7\n                A =0.43\n\n                                                  B.5\n                    H = (1.061 ± 0.004)𝑚𝑚\n\n                                                   4\n\n                                                S2-5\n                     C.1\nnumber   m       𝜃𝑚 (degree)      𝜃𝑚 2 (rad2)\n  1      1          5.75           0.01007\n  2      2          7.75           0.01830\n  3      3          9.50           0.02749\n  4      4          10.75          0.03520\n  5      5          12.00          0.04386\n  6      6          13.00          0.05148\n  7      7          14.00          0.05971\n  8      8          14.75          0.06627\n  9      9          15.75          0.07556\n  10     10         16.50          0.08293\n  11     11         17.25          0.09064\n  12     12         18.00          0.09870\n  13     13         18.50          0.10426\n  14     14         19.25          0.11288\n  15     15         19.75          0.11882\n\n                     C.2\n                 𝐻      𝑁2    2\n              𝑚=    (𝑁 − ) 𝜃𝑚\n                 2𝜆     𝑛\n\n                       5\n\n16\n\n14\n\n            y = 128.0x - 0.50\n12\n              R² = 0.99895\n\n10\n\n8\nm\n\n6\n\n4\n\n2\n\n 0\n0.00000   0.02000        0.04000\n-2\n\n                    B = 128.0\n                    A = −0.50\n\n                    N =1.332 ± 0.0\n\n                                                S2-6\n\n           C.3\n\n 0.06000         0.08000   0.10000   0.12000   0.14000\n       Theta^2\n        𝜃 2 (𝑟𝑎𝑑 2 )\n           𝑚\n\n           C.4\n\n           C.5\n02\n\n            6\n\n          D.1\nnumber    m     𝜃𝑚 (degree)\n  1        1       13.25\n  2        2       19.00\n  3        3       23.00\n  4        4       26.00\n  5        5       29.00\n  6        6       31.50\n  7        7       33.75\n  8        8       35.75\n  9       10       39.25\n  10      12       42.25\n  11      15       46.25\n  12      18       50.00\n  13      20       52.00\n  14      22       53.75\n  15      25       56.25\n  16      28       58.50\n  17      30       60.00\n  18      32       61.25\n  19      35       63.25\n  20      38       65.00\n  21      40       66.00\n  22      42       67.00\n  23      44       68.00\n  24      46       68.75\n  25      48       69.75\n\n     𝑚𝜆\n\nu=\n     ℎ\n\n                              S2-7\n\n         D.3\n       u                w\n0.00436             0.24795\n0.00873             0.24265\n0.01309             0.24981\n0.01746             0.26200\n0.02182             0.26474\n0.02619             0.27069\n0.03055             0.27653\n0.03492             0.28307\n0.04365             0.29637\n0.05238             0.30973\n0.06547             0.32743\n0.07857             0.34076\n0.08730             0.35289\n0.09603             0.36608\n0.10912             0.38415\n0.12222             0.40213\n0.13095             0.41261\n0.13968             0.42517\n0.15277             0.44072\n0.16587             0.45761\n0.17460             0.47008\n0.18333             0.48193\n0.19205             0.49320\n0.20078             0.50715\n0.20951             0.51739\n\nD.2\n     𝑚𝜆      𝑚𝜆\n          (𝑛 +    )\n     ℎ       2ℎ\nw=\n     1 − cos 𝜃𝑚\n\n 7\n\n0.55000\n\n0.50000\n                          y = 1\n\n0.45000\n\n0.40000\nw\n\n0.35000\n\n0.30000\n\n0.25000\n\n0.20000\n      0.00000         0.05000\n\n          B = 1.337\n          A = 0.2372\n\n          NB = 1.337±0.005\n          NA = 1.3319 ± 0.0005\n\n                                                           S2-8\n\n                     D.4\n\n.337x + 0.2372\n\n  𝑅 2=0.99975\n\n                                Linear region\n\n           0.10000        u   0.15000           0.20000   0.25000\n\n By removing the first 3 points\n\n                     D.5\n\n                     D.6\n\n                      8\n\n                                                                                     S2-9\nTheoretical calculations:\nB.2 & C.2:\n                             𝐻                                𝐻\n                        𝑚=     (√𝑛2 − 𝑁 2 𝑠𝑖𝑛2 𝜃𝑚 − 𝑁𝑐𝑜𝑠𝜃𝑚 ) − (𝑛 − 𝑁)\n                             𝜆                                𝜆\n                                                                            2\n                                                                          𝜃𝑚\n                        𝜃𝑚 ≪ 1 ∶     sin 𝜃𝑚 ≈ 𝜃𝑚       ;   cos 𝜃𝑚 ≈ 1 −\n                                                                           2\n\n                                            2            2\n                             𝐻        𝑁 2 𝜃𝑚           𝜃𝑚      𝐻\n                        𝑚=     (𝑛√1 −     2\n                                              − 𝑁 (1 −     )) − (𝑛 − 𝑁)\n                             𝜆         𝑛                2      𝜆\n\n                             𝐻         𝑁 2 𝜃𝑚2\n                                                          𝜃𝑚2\n                                                                  𝐻\n                        𝑚=     (𝑛 (1 −      2  ) − 𝑁 (1 −     )) − (𝑛 − 𝑁)\n                             𝜆          2𝑛                 2      𝜆\n\n                                            𝐻        𝑁 2\n                                       𝑚=      𝑁 (1 − ) 𝜃𝑚\n                                            2𝜆       𝑛\n                                              𝐻      1 2\n                                𝑁=1∶ 𝑚=          (1 − ) 𝜃𝑚\n                                              2𝜆     𝑛\n\nD.2:\n                               ℎ                                ℎ\n                          𝑚=     (√𝑛2 − 𝑁 2 𝑠𝑖𝑛2 𝜃𝑚 − 𝑁𝑐𝑜𝑠𝜃𝑚 ) − (𝑛 − 𝑁)\n                               𝜆                                𝜆\n                             𝑚𝜆\n                                + 𝑛 − 𝑁(1 − 𝑐𝑜𝑠𝜃𝑚 ) = √𝑛2 − 𝑁 2 𝑠𝑖𝑛2 𝜃𝑚\n                             ℎ\n        𝑚𝜆 2    𝑚𝜆                                           𝑚𝜆\n       ( ) + 2𝑛( ) + 𝑛2 + 𝑁 2 (1 − 𝑐𝑜𝑠𝜃𝑚 )2 − 2𝑁(1 − 𝑐𝑜𝑠𝜃𝑚 )(   + 𝑛) = 𝑛2 − 𝑁 2 𝑠𝑖𝑛2 𝜃𝑚\n        ℎ       ℎ                                             ℎ\n            𝑚𝜆 2      𝑚𝜆                                                        𝑚𝜆\n        (     ) + 2𝑛 ( ) + 𝑁 2 (2 − 2𝑐𝑜𝑠𝜃𝑚 ) − 2𝑁𝑛(1 − 𝑐𝑜𝑠𝜃𝑚 ) − 2𝑁(1 − 𝑐𝑜𝑠𝜃𝑚 )( ) = 0\n            ℎ         ℎ                                                         ℎ\n                              𝑚𝜆       𝑚𝜆\n                                 (𝑛 +     )\n                              ℎ        2ℎ + 𝑁 2 − 𝑁𝑛 − 𝑁 (𝑚𝜆) = 0\n                               1 − cos 𝜃𝑚                 ℎ\n                                𝑚𝜆       𝑚𝜆\n                                   (𝑛 +     )\n                                ℎ        2ℎ = 𝑁(𝑛 − 𝑁) + (𝑚𝜆)𝑁\n                                 1 − cos 𝜃𝑚               ℎ\n                                        𝑤 = 𝑁(𝑛 − 𝑁) + 𝑢𝑁\n\n                                                   9\n\n                                                                              S2-10\nError calculations:\nLinear equation slope and intercept uncertainties:\n                          1  1\n                  Δ𝐵 = 𝐵√   ( 2 − 1)            ;       Δ𝐴 = Δ𝐵√𝑥̅ 2 + 𝜎𝑥2\n                         𝑛−2 𝑟\n\nC.5:\n                             𝐻      𝑁2       𝑁2   2𝜆\n                        𝐵=      (𝑁 − ) ⇒ (𝑁 − ) =    𝐵≡𝑐\n                             2𝜆     𝑛        𝑛    𝐻\n\n                                   ∆𝑐    ∆𝐵 2 ∆𝐻 2\n                                 ⇒     √\n                                      = ( ) +( )\n                                   𝑐     𝐵    𝐻\n\n                                𝑁2          𝑛    𝑛 2\n                            (𝑁 − ) = 𝑐 ⇒ 𝑁 = ± √( ) − 𝑐 𝑛\n                                𝑛           2    2\n\nA negative sign is unacceptable in this equation.\n\n                            𝑛     𝑛 2                      𝑛\n                       𝑁=     + √( ) − 𝑐 𝑛 ⇒ ∆𝑁 =                     ∆𝑐"
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "Turning on the heaters will increase the tempereture, so it will take extra time for the system to\n               EL\n\n     reach its steady state, make sure that you do not turn on a heater unnecessarily.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "Errors need to be calculated and reported whenever the ± sign is present in the answer sheet.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Задача 7",
+   "statement": "Regression, (denoted by reg in the formula below and shown as r on the calculator), is a number\n         D\n\n     between 1 and -1 showing how much the data can be fitted to a line. If |reg| = 1 it means that\n     the data are completely on a line.\nWe can use the following formula to calculate the uncertainty of the slope b :\n                                                     1         1\n                                    Δb = b√               (         2\n                                                                        − 1)\n                                                  (n−2)       reg\n\nin which n is the number of data points.\n\nThe Equipment\n\nIPhO 2024                                                                                Page 3 of 21\nExperiment, English (Official)\n\nPoints: 20                                                                                Time: 5.0 Hours",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "1.39                            2.25"
+    }
+   ]
+  }
+ ]
+}

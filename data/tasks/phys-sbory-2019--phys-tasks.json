@@ -1,0 +1,37 @@
+{
+ "setId": "phys-sbory-2019--phys-tasks",
+ "olympiadId": "phys-sbory-2019",
+ "title": "Физика → Сборы сборной РК → 2019",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/physics/s/sbory/2019/phys-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T18:37:10.257Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Scanned by CamScanner\n\nScanned by CamScanner\n\nScanned by CamScanner\n\nScanned by CamScanner\n\nScanned by CamScanner\n\nScanned by CamScanner\n\nScanned by CamScanner\n\nScanned by CamScanner\n\nScanned by CamScanner\n\nScanned by CamScanner\n\nScanned by CamScanner\n\nScanned by CamScanner\n\nScanned by CamScanner\n\nScanned by CamScanner\n\nScanned by CamScanner\n\nScanned by CamScanner\n\nScanned by CamScanner\n\nScanned by CamScanner\n\nScanned by CamScanner\n\nScanned by CamScanner\n\nScanned by CamScanner\n\nScanned by CamScanner\n\nScanned by CamScanner\n\nScanned by CamScanner\n\nScanned by CamScanner\n\nScanned by CamScanner\n\nScanned by CamScanner",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

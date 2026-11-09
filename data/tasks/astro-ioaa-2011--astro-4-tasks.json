@@ -1,0 +1,142 @@
+{
+ "setId": "astro-ioaa-2011--astro-4-tasks",
+ "olympiadId": "astro-ioaa-2011",
+ "title": "Астрономия → IOAA (международная) → 2011 → Все классы",
+ "materialLabel": "4 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/ioaa/2011/astro-4-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T18:02:26.127Z",
+ "quality": {
+  "tasks": 8,
+  "parts": 8,
+  "withPoints": 8,
+  "withReference": 0,
+  "withQuestion": 8,
+  "estimatedPoints": 8
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "There are 2 questions, each worth 25 points. You have 80 minutes to solve them, of\n   which :\n\n            (a) 25 minutes for reading the question and preparing for the observations,\n\n            (b) 30 minutes to perform all the observations at the telescope\n                (for both questions),\n\n            (c) 25 minutes for calculations and finishing your work.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Additional time is allowed to move to and from the observing site.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Along with the questions you will receive a map of the sky, for use with both questions.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "At the observing site you will find ready :\n\n            (a) a refracting telescope with a right-angle mirror and an eyepiece with\n                an illuminated reticle, which can be rotated about the optical axis,\n\n            (b) a red torch, stopwatch, pencil, eraser and clipboard,\n\n            (c) a chair.\n\n    Note: the telscope is already aligned – do not change the position of the tripod!\n\n    The brightness of the reticle can be adjusted by turning the on-off switch.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "You are allowed to take only the questions, answer sheet and blank paper for additional\n   work with you to the telescope.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "Only the answer sheet will be assessed. The additional worksheets will not be assessed.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Задача 7",
+   "statement": "Clearly mark every page of the answer sheet with your code number.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Задача 8",
+   "statement": "If you have difficulty with the equipment (not related to the question) or disturb the\n   alignment of the telescope, call an assistant.\n\n                                                                                                    v2\n\n                             Observing competition – night round",
+   "total": 7,
+   "parts": [
+    {
+     "id": "8",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

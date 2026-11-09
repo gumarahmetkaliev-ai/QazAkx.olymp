@@ -1,0 +1,37 @@
+{
+ "setId": "math-egmo-2013--math-2-tasks",
+ "olympiadId": "math-egmo-2013",
+ "title": "Математика → EGMO → 2013",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/egmo/2013/math-2-tasks.pdf",
+ "solutionFile": "olympiads/math/s/egmo/2013/math-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T17:49:34.790Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 1,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Language:           Russian",
+   "weight": null,
+   "total": 10,
+   "statement": "Day:    2\n\n                                                                           EGMO 2013\n                                                                      European Girls' Mathematical Olympiad\n\n                                                                          ×åòâåðã, 11 àïðåëÿ 2013\n\n Çàäà÷à 4.   Íàéäèòå âñå ïàðû íàòóðàëüíûõ ÷èñåë    a è b, äëÿ êîòîðûõ íàéäóòñÿ òðè ïîñëåäîâà-\n òåëüíûõ öåëûõ ÷èñëà, ïðè êîòîðûõ ìíîãî÷ëåí\n\n                 n5 + a\n       P (n) =\n                    b\n ïðèíèìàåò öåëûå çíà÷åíèÿ.\n\n Çàäà÷à 5.   Ïóñòü Ω - îïèñàííàÿ îêðóæíîñòü òðåóãîëüíèêà ABC . Îêðóæíîñòü ω êàñàåòñÿ ñòîðîí\n\n AC , BC , à òàêæå êàñàåòñÿ âíóòðåííèì îáðàçîì îêðóæíîñòè Ω â òî÷êå P . Ïðÿìàÿ, ïàðàëëåëüíàÿ\n AB ïåðåñåêàåò ñòîðîíû òðåóãîëüíèêà ABC è êàñàåòñÿ ω â òî÷êå Q.\n    Äîêàæèòå, ÷òî ∠ACP = ∠QCB .\n\n Çàäà÷à 6.   Áåëîñíåæêà è ñåìü ãíîìîâ æèâóò â ñâîåì äîìèêå â ëåñó. Â òå÷åíèå êàæäîãî èç 16\n\n ïîñëåäîâàòåëüíûõ äíåé íåêîòîðûå ãíîìû ðàáîòàëè íà àëìàçíîé øàõòå, â òî âðåìÿ êàê îñòàëüíûå\n\n ñîáèðàëè ãðèáû. Êàæäûé ãíîì âûïîëíÿë òîëüêî îäèí âèä ðàáîòû â òå÷åíèå âñåãî äíÿ. Èçâåñòíî,\n\n ÷òî êàêèå áû äâà äíÿ íè âûáðàòü, íàéäóòñÿ õîòÿáû òðè ãíîìà, êîòîðûå â ýòè äâà äíÿ âûïîëíÿëè\n\n îáà âèäà ðàáîòû. Êðîìå òîãî, â ïåðâûé äåíü âñå ñåìü ãíîìîâ ðàáîòàëè íà øàõòå.\n\n    Äîêàæèòå, ÷òî â îäèí èç ýòèõ   16 äíåé âñå ãíîìû õîäèëè çà ãðèáàìè.\n\n Language: Ðóññêèé                                              Âðåìÿ ðàáîòû: 4 ÷àñà 30 ìèíóò\n\n                                                        Êàæäàÿ çàäà÷à îöåíèâàåòñÿ â 7 áàëëîâ",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "1. As all seven dwarves work in the diamond mine on the first day, the first day-vector is\n   d1 = (0000000). This day-vector covers all vectors in V with weight 0 or 1.",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

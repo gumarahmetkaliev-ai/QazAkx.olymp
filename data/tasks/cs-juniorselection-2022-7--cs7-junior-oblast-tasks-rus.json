@@ -1,0 +1,37 @@
+{
+ "setId": "cs-juniorselection-2022-7--cs7-junior-oblast-tasks-rus",
+ "olympiadId": "cs-juniorselection-2022-7",
+ "title": "Информатика → Junior — отбор → 2022 → 7 класс",
+ "materialLabel": "Junior (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/informatics/juniorselection/2022/7/cs7-junior-oblast-tasks-rus.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T18:21:42.399Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Вторая подзадача (1 <= q <= 300000) – 64 баллов.\n  Примеры\n                  стандартный ввод                            стандартный вывод\n\nrj    5\n      1 1                          rj              3 1 2\n                                                                          rj\n    o11 2\n      2                                    o1                                     o1\n      1 3\n      2     31                                     31                                      31\n      10\n      1 1\n                    4                                         4\n                                                   6 5 4 3 2 1 7                                 4\n      1 2\n      1 3\n      1 4\n      1 5\n      2\n      2\n      1 6\n      2\n      1 7\n\nrj                                 rj                                     rj\n    o1                                     o1                                     o1\n            31                                     31                                      31\n                    4                       Страница 1 из 1   4                                  4",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Опишите алгоритм и приложите код (на любом языке). Укажите сложность.",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

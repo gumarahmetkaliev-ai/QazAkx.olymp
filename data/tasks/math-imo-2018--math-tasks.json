@@ -1,0 +1,105 @@
+{
+ "setId": "math-imo-2018--math-tasks",
+ "olympiadId": "math-imo-2018",
+ "title": "Математика → IMO (международная) → 2018",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/2018/math-tasks.pdf",
+ "solutionFile": "olympiads/math/s/imo/2018/math-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:29.599Z",
+ "quality": {
+  "tasks": 6,
+  "parts": 6,
+  "withPoints": 6,
+  "withReference": 6,
+  "withQuestion": 6,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Let Γ be the circumcircle of acute-angled triangle ABC. Points D and E lie on\nsegments AB and AC, respectively, such that AD = AE. The perpendicular bisectors of BD and\nCE intersect the minor arcs AB and AC of Γ at points F and G, respectively. Prove that the lines\nDE and F G are parallel (or are the same line).",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "G1. Let ABC be an a ute-angled triangle with ir um ir le Γ. Let D and E be points on\nthe segments AB and AC , respe tively, su h that AD “ AE . The perpendi ular bise tors of\nthe segments BD and CE interse t the small ar s AB\n                                                Ŋ and AC\n                                                       Ŋ at points F and G respe tively.\nProve that DE k F G.\n                                                                                           (Gree e)\nSolution 1. In the sequel, all the onsidered ar s are small ar s.\n    Let P be the midpoint of the ar BC Ŋ . Then AP is the bise tor of =BAC , hen e, in the\nisos eles triangle ADE , AP K DE . So, the statement of the problem is equivalent to AP K F G.\n    In order to prove this, let K be the se ond interse tion of Γ with F D . Then the triangle\nF BD is isos eles, therefore\n                           =AKF “ =ABF “ =F DB “ =ADK,\nyielding AK “ AD . In the same way, denoting by L the se ond interse tion of Γ with GE , we\nget AL “ AE . This shows that AK “ AL.\n                                              A\n                                                                K\n\n                                  L\n                                                          E\n                                          D\n                                                                        G\n                              F\n\n                                  B                                 C\n                                                      P\n\n   Now =F BD “ =F DB gives AF  Ŋ “ BF\n                                   Ŋ ` AK\n                                        Ŋ “ BF     Ň , hen e BF\n                                              Ŋ ` AL              Ň . In a similar\n                                                             Ŋ “ LF\nway, we get CG\n            Ŋ “ GKŊ . This yields\n                  Ŋ`P\n                  AF    ŊG     Ň ` LF\n                               AL  Ň `P Ŋ    Ŋ\n                                         C ` CG   Ŋ ` LB\n                                                  KL    Ŋ ` BCŊ ` CK\n                                                                  Ŋ\n     =pAP, F Gq “           “                   “                     “ 90˝ .\n                      2               2                     4\n\nSolution 2. Let Z “ AB X F G, T “ AC X F G. It su\u001e es to prove that =AT Z “ =AZT .\n     Let X be the point for whi h F XAD is a parallelogram. Then\n                    =F XA “ =F DA “ 180˝ ´ =F DB “ 180˝ ´ =F BD,\nwhere in the last equality we used that F D “ F B . It follows that the quadrilateral BF XA is\n y li , so X lies on Γ.\n                                                  G\n                                                                    C\n                                      Y\n\n                                              E       T\n\n                                  A               D       Z\n                                                                    B\n                                          X\n                                                          F\n\nShortlisted problems \u0015 solutions                                                          37\n\n   Analogously, if Y is the point for whi h GY AE is a parallelogram, then Y lies on Γ. So\nthe quadrilateral XF GY is y li and F X “ AD “ AE “ GY , hen e XF GY is an isos eles\ntrapezoid.\n   Now, by XF k AZ and Y G k AT , it follows that =AT Z “ =Y GF “ =XF G “ =AZT .\n\nSolution 3. As in the \u001crst solution, we prove that F G K AP , where P is the midpoint of the\nsmall ar BC\n          Ŋ.\n   Let O be the ir um entre of the triangle ABC , and let M and N be the midpoints of the\nsmall ar s AB\n           Ŋ and ACŊ , respe tively. Then OM and ON are the perpendi ular bise tors of AB\nand AC , respe tively.\n                                       A\n\n                                                            N\n\n                              M\n                                            O       E   d\n                                   d                            G\n                                       D\n                              F\n\n                                   B                        C\n                                                P\n\n    The distan e d between OM and the perpendi ular bise tor of BD is 12 AB ´ 12 BD “ 21 AD ,\nhen e it is equal to the distan e between ON and the perpendi ular bise tor of CE .\n    This shows that the isos eles trapezoid determined by the diameter δ of Γ through M and\nthe hord parallel to δ through F is ongruent to the isos eles trapezoid determined by the\ndiameter δ 1 of Γ through N and the hord parallel to δ 1 through G. Therefore MF “ NG,\nyielding MN k F G.\n    Now\n                              1 ` Ŋ Ŋ Ŋ ˘ 1 `Ŋ Ŋ Ŋ˘\n              =pMN, AP q “       AM ` P C ` CN “        AB ` BC ` CA “ 90˝ ,\n                              2                      4\nhen e MN K AP , and the on lusion follows.\n\n38                                                            Cluj-Napo a \u0016 Romania, 3\u001514 July 2018"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Find all integers n ≥ 3 for which there exist real numbers a1 , a2 , . . . , an+2 , such that\nan+1 = a1 and an+2 = a2 , and\n                                      ai ai+1 + 1 = ai+2\nfor i = 1, 2, . . . , n.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "A2.         Find all positive integers n ě 3 for whi h there exist real numbers a1 , a2 , . . . , an ,\nan`1 “ a1 , an`2 “ a2 su h that\n                                        ai ai`1 ` 1 “ ai`2\nfor all i “ 1, 2, . . . , n.\n                                                                                                             (Slovakia)"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "An anti-Pascal triangle is an equilateral triangular array of numbers such that, except\nfor the numbers in the bottom row, each number is the absolute value of the difference of the two\nnumbers immediately below it. For example, the following array is an anti-Pascal triangle with four\nrows which contains every integer from 1 to 10.\n\n                                                        4\n                                                    2       6\n                                                5       7        1\n                                            8       3       10       9\n\nDoes there exist an anti-Pascal triangle with 2018 rows which contains every integer from 1 to\n1 + 2 + · · · + 2018?\n\nLanguage: English                                                          Time: 4 hours and 30 minutes\n                                                                           Each problem is worth 7 points\n\n                                               English (eng), day 2\n\n                                                                             Tuesday, July 10, 2018",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "C4.       An anti-Pas al pyramid is a \u001cnite set of numbers, pla ed in a triangle-shaped array\nso that the \u001crst row of the array ontains one number, the se ond row ontains two numbers,\nthe third row ontains three numbers and so on; and, ex ept for the numbers in the bottom\nrow, ea h number equals the absolute value of the di\u001beren e of the two numbers below it. For\ninstan e, the triangle below is an anti-Pas al pyramid with four rows, in whi h every integer\nfrom 1 to 1 ` 2 ` 3 ` 4 “ 10 o urs exa tly on e:\n\n                                               4\n                                            2 6\n                                           5 7 1\n                                          8 3 10 9 .\n\n   Is it possible to form an anti-Pas al pyramid with 2018 rows, using every integer from 1 to\n1 ` 2 ` ¨ ¨ ¨ ` 2018 exa tly on e?\n                                                                                          (Iran)"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "A site is any point (x, y) in the plane such that x and y are both positive integers less\nthan or equal to 20.\n   Initially, each of the 400 sites is unoccupied. Amy and Ben take turns placing stones with Amy\ngoing first. On her turn, Amy places a new red stone on an√unoccupied site such that the distance\nbetween any two sites occupied by red stones is not equal to 5. On his turn, Ben places a new blue\nstone on any unoccupied site. (A site occupied by a blue stone is allowed to be at any distance from\nany other occupied site.) They stop as soon as a player cannot place a stone.\n   Find the greatest K such that Amy can ensure that she places at least K red stones, no matter\nhow Ben places his blue stones.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "N5.        Four positive integers x, y , z , and t satisfy the relations\n\n                                         xy ´ zt “ x ` y “ z ` t.\n\nIs it possible that both xy and zt are perfe t squares?\n                                                                                                    (Russia)"
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "Let a1 , a2 , . . . be an infinite sequence of positive integers. Suppose that there is an\ninteger N > 1 such that, for each n ≥ N , the number\n                                     a1 a2         an−1 an\n                                       +   + ··· +     +\n                                     a2 a3          an   a1\nis an integer. Prove that there is a positive integer M such that am = am+1 for all m ≥ M .",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "N4.        Let a1 , a2 , . . ., an , . . . be a sequen e of positive integers su h that\n                                       a1 a2        an´1 an\n                                         `   ` ¨¨¨`     `\n                                       a2 a3         an   a1\nis an integer for all n ě k , where k is some positive integer. Prove that there exists a positive\ninteger m su h that an “ an`1 for all n ě m.\n                                                                                                (Mongolia)\nSolution 1. The argument hinges on the following two fa ts: Let a, b, c be positive integers\nsu h that N “ b{c ` pc ´ bq{a is an integer.\n     (1) If gcdpa, cq “ 1, then c divides b ; and\n     (2) If gcdpa, b, cq “ 1, then gcdpa, bq “ 1.\n    To prove (1), write ab “ cpaN ` b ´ cq. Sin e gcdpa, cq “ 1, it follows that c divides b. To\nprove (2), write c2 ´ bc “ apcN ´ bq to infer that a divides c2 ´ bc. Letting d “ gcdpa, bq, it\nfollows that d divides c2 , and sin e the two are relatively prime by hypothesis, d “ 1.\n     Now, let sn “ a1 {a2 ` a2 {a3 ` ¨ ¨ ¨ ` an´1 {an ` an {a1 , let δn “ gcdpa1 , an , an`1 q and write\n\n                                   an    an`1 ´ an    an {δn    an`1 {δn ´ an {δn\n                   sn`1 ´ sn “         `           “          `                   .\n                                  an`1      a1       an`1 {δn         a1 {δn\n\n    Let n ě k . Sin e gcdpa1 {δn , an {δn , an`1 {δn q “ 1, it follows by (2) that gcdpa1 {δn , an {δn q “ 1.\nLet dn “ gcdpa1 , an q. Then dn “ δn ¨ gcdpa1 {δn , an {δn q “ δn , so dn divides an`1 , and therefore\ndn divides dn`1 .\n    Consequently, from some rank on, the dn form a nonde reasing sequen e of integers not\nex eeding a1 , so dn “ d for all n ě ℓ, where ℓ is some positive integer.\n    Finally, sin e gcdpa1 {d, an`1 {dq “ 1, it follows by (1) that an`1 {d divides an {d, so an ě an`1\nfor all n ě ℓ. The on lusion follows.\n\nSolution 2. We use the same notation sn . This time, we explore the exponents of primes in\nthe prime fa torizations of the an for n ě k .\n   To start, for every n ě k , we know that the number\n                                                    an    an`1 an\n                                     sn`1 ´ sn “        `     ´                                          p˚q\n                                                   an`1    a1   a1\n\nis integer. Multiplying it by a1 we obtain that a1 an {an`1 is integer as well, so that an`1 | a1 an .\nThis means that an | a1n´k ak , so all prime divisors of an are among those of a1 ak . There are\n\u001cnitely many su h primes; therefore, it su\u001e es to prove that the exponent of ea h of them in\nthe prime fa torization of an is eventually onstant.\n    Choose any prime p | a1 ak . Re all that vp pqq is the standard notation for the exponent of p\nin the prime fa torization of a nonzero rational number q . Say that an index n ě k is large if\nvp pan q ě vp pa1 q. We separate two ases.\nCase 1: There exists a large index n.\n    If vp pan`1 q ă vp pa1 q, then vp pan {an`1 q and vp pan {a1 q are nonnegative, while vp pan`1 {a1 q ă 0;\nhen e p˚q annot be an integer. This ontradi tion shows that index n ` 1` is also large. ˘\n    On the other hand, if vp pan`1 q ą vp pan q, then vp pan {an`1 q ă 0, while vp pan`1 ´an q{a1 ě 0,\nso p˚q is not integer again. Thus, vp pa1 q ď vp pan`1 q ď vp pan q.\n    The above arguments an now be applied su essively to indi es n ` 1, n ` 2, . . . , showing\nthat all the indi es greater than n are large, and the sequen e vp pan q, vp pan`1 q, vp pan`2 q, . . . is\nnonin reasing \u0016 hen e eventually onstant.\n\nShortlisted problems \u0015 solutions                                                                             63\n\nCase 2: There is no large index.\n   We have vp pa1 q ą vp pan q for all n ě k . If we had vp pan`1 q ă vp pan q for some n ě k ,\nthen vp pan`1 {a1 q ă vp pan {a1 q ă 0 ă vp pan {an`1 q whi h would also yield that p˚q is not integer.\nTherefore, in this ase the sequen e vp pak q, vp pak`1 q, vp pak`2 q, . . . is nonde reasing and bounded\nby vp pa1 q from above; hen e it is also eventually onstant.\n\nComment. Given any positive odd integer m, onsider the m-tuple p2, 22 , . . . , 2m´1 , 2m q. Appending\nan in\u001cnite string of 1's to this m-tuple yields an eventually        onstant sequen e of integers satisfying\nthe    ondition in the statement, and shows that the rank from whi h the sequen e stabilises may be\narbitrarily large.\n      There are more sophisti ated examples. The solution to part     (b) of 10532, Amer. Math. Monthly,\nVol. 105 No. 8 (O t. 1998), 775\u0015777 (available at https://www.jstor.org/stable/2589009), shows\nthat, for every integer m ě 5, there exists an m-tuple pa1 , a2 , . . . , am q of pairwise distin t positive\nintegers su h that gcdpa1 , a2 q “ gcdpa2 , a3 q “ ¨ ¨ ¨ “ gcdpam´1 , am q “ gcdpam , a1 q “   1, and the sum\na1 {a2 ` a2 {a3 ` ¨ ¨ ¨ ` am´1 {am ` am {a1 is an integer. Letting am`k “ a1 , k “ 1, 2, . . . , extends su h an\nm-tuple to an eventually onstant sequen e of positive integers satisfying the ondition in the statement\nof the problem at hand.\n    Here is the example given by the proposers of 10532. Let b1 “ 2, let bk`1 “ 1 ` b1 ¨ ¨ ¨ bk “\n1 ` bk pbk ´ 1q, k ě 1, and set Bm “ b1 ¨ ¨ ¨ bm´4 “ bm´3 ´ 1. The m-tuple pa1 , a2 , . . . , am q de\u001cned below\nsatis\u001ces the required   onditions:\n\n           a1 “ 1, a2 “ p8Bm ` 1qBm ` 8, a3 “ 8Bm ` 1, ak “ bm´k for 4 ď k ď m ´ 1,\n                                        ˆ                  ˙\n                         a2        Bm     1                               Bm\n                   am “     ¨ a3 ¨    “     p8Bm ` 1qBm ` 4 ¨ p8Bm ` 1q ¨    .\n                          2         2     2                                2\n\nIt is readily   he ked that a1 ă am´1 ă am´2 ă ¨ ¨ ¨ ă a3 ă a2 ă am . For further details we refer to\nthe solution mentioned above. A quaintan e with this example (or more elaborated examples derived\nfrom) o\u001bers no advantage in ta kling the problem.\n\n64                                                            Cluj-Napo a \u0016 Romania, 3\u001514 July 2018"
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "A convex quadrilateral ABCD satisfies AB · CD = BC · DA. Point X lies inside\nABCD so that\n                     ∠XAB = ∠XCD and ∠XBC = ∠XDA.\nProve that ∠BXA + ∠DXC = 180◦ .\n\nLanguage: English                                                     Time: 4 hours and 30 minutes\n                                                                      Each problem is worth 7 points",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "G6.        A onvex quadrilateral ABCD satis\u001ces AB ¨ CD “ BC ¨ DA. A point X is hosen\ninside the quadrilateral so that =XAB “ =XCD and =XBC “ =XDA. Prove that =AXB `\n=CXD “ 180˝.\n                                                                                         (Poland)"
+    }
+   ]
+  }
+ ]
+}

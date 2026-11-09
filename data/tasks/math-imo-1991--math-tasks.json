@@ -1,0 +1,67 @@
+{
+ "setId": "math-imo-1991--math-tasks",
+ "olympiadId": "math-imo-1991",
+ "title": "Математика → IMO (международная) → 1991",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1991/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:41.962Z",
+ "quality": {
+  "tasks": 3,
+  "parts": 3,
+  "withPoints": 3,
+  "withReference": 0,
+  "withQuestion": 3,
+  "estimatedPoints": 3
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Given a triangle ABC, let I be the center of its inscribed circle.\n   The internal bisectors of the angles A, B, C meet the opposite sides in\n   A0 , B 0 , C 0 respectively. Prove that\n                         1    AI · BI · CI     8\n                           <   0     0     0\n                                             ≤    .\n                         4   AA · BB · CC      27",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Let n > 6 be an integer and a1 , a2 , . . . , ak be all the natural numbers\n   less than n and relatively prime to n. If\n\n                   a2 − a1 = a3 − a2 = · · · = ak − ak−1 > 0,\n\n   prove that n must be either a prime number or a power of 2.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Let S = {1, 2, 3, . . . , 280}. Find the smallest integer n such that each n-\n   element subset of S contains five numbers which are pairwise relatively\n   prime.\n\n                    Second Day    July 18, 1991\n                       Time Limit: 4 12 hours",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

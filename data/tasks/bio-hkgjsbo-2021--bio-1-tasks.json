@@ -1,0 +1,205 @@
+{
+ "setId": "bio-hkgjsbo-2021--bio-1-tasks",
+ "olympiadId": "bio-hkgjsbo-2021",
+ "title": "Биология → HKGJSBO (Гонконг) → 2021",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/hkgjsbo/2021/bio-1-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/hkgjsbo/2021/bio-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T18:33:29.684Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 25,
+  "withPoints": 25,
+  "withReference": 0,
+  "withQuestion": 25,
+  "estimatedPoints": 25
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Cancer cells which show multi-drug resistance (MDR) reduce the efficacy of anti-",
+   "weight": null,
+   "total": 25,
+   "statement": "cancer drugs during chemotherapy. One of the mechanisms of MDR is to trigger the\n\nexpression of a drug efflux pump, P-glycoprotein, to actively pump the anti-cancer drug\n\nout of the cancer cells, hence preventing the accumulation of drug molecules inside the\n\ncells. A study investigated whether a chemical blocker, Verapamil, of P-glycoprotein\n\ncould help traditional anti-cancer drug, doxorubicin, in destroying the MDR-cancer\n\ncells. The cytotoxicity (in terms of the percentage of survived cells) of native (ordinary)\n\nand MDR-cancer cells under exposure of the doxorubicin of different concentrations in\n\ncomparison with their corresponding untreated condition (negative control) is presented\n\nin the following graph.\n\n1. What could be the likely reason(s) why the drug doxorubicin at high concentrations\n\n      (above 150µM) still poses a small cytotoxicity effect on MDR-cancer cells?\n\ni.     The uptake of the drug doxorubicin by the cells is faster than the pumping action\n\n       by the efflux pump.\n\nii.    Some MDR-cancer cells are not as highly resistant to this drug as the other cells.\n\niii. Doxorubicin at high concentration could inactivate the efflux pumps of some\n\n       MDR cancer cells.\n\nC.    (i) and (iii)\n\nD.    All of the above\n\n2. Why did the blocker alone, even with zero doxorubicin exposure, still show a\n\n     certain cytotoxicity effect on both native and MDR-cancer cells?\n\nA.    The blocker could switch off the expression of the drug efflux pump.\n\nB.    The blocker is ineffective in targeting MDR-cancer cells specifically.\n\nC.    The blocker alone is toxic to cells.\n\nD.    There are experimental errors as cell survival also depends on other factors.\n\n3. Given the observation that the “Doxorobicin + Verapamil” action on MDR-cancer\n\n     cells is not having the same cytotoxicity effect as on native cancer cells, which of\n\n     the following is/are the possible reason(s) for this observation?\n\n      i.    The concentration of the blocker Verapamil used in the experiment is not high\n\n            enough to block all the efflux pumps.\n\n      ii.   There are other kinds of efflux pumps in MDR-cancer cells that also pump\n\n            out doxorubicin but will not be blocked by the blocker Verapamil.\n\n      iii. MDR-cancer cells grow faster than native cancer cells, thus misleading the\n\n            calculation of the percentage of survived cells.\n\nC.    (i) and (iii)\n\nD.    All of the above\n\nDNA nanotechnology makes use of nucleic acids to build nanostructures. In the\n\nconstruction of a specific structure, self-assembly takes place between a long single-\n\nstrand DNA and several short-strand DNA oligonucleotides. The following illustration\n\nshows how the interaction between DNA strands to create a 3D nanostructure.\n\n4. Compared to double-stranded DNAs, these DNA nanostructures are observed,\n\n     through electron microscopy, to be more resistant to digestion by enzymes, e.g.\n\n     exonuclease and endonuclease. What could be the possible reason(s)?\n\n   i.        The closely packed 3D structure blocks the enzymes from binding onto the\n\n             DNA easily.\n\n ii.         The structure can be retained, even after parts of the strands have been digested.\n\n iii.        The restriction sites could be designed to be shielded by other DNA strands.\n\n        A.     (i) only\n\n        B.     (ii) and (iii)\n\n        C.     (i) and (iii)\n\n        D.     All of the above\n\n5. A DNA nanostructure designed to be structurally complementary to the MDR\n\n       receptor binding site can function as an MDR blocker inside the body. What is the\n\n       most critical factor in the design and optimization of such a DNA nanostructure\n\n       blocker prior to practical use?\n\n  i.      The DNA nanostructure should be resistant to deoxyribonuclease throughout\n\n          the drug metabolism.\n\n ii.      The specific DNA sequences of the DNA nanostructure should not hybridize\n\n          with human DNAs.\n\niii.      The DNA nanostructure should be small enough to pass through the blood-brain\n\n          barrier.\n\n iv.      The DNA nanostructure should retain its 3D configuration at or above body\n\n          temperature.\n\nA.      (i) and (ii)\n\nB.      (iii) and (iv)\n\nC.      (i) and (iii)\n\nD.      (i), (ii) and (iv)\n\n6. What could be the benefit of using a DNA nanostructure structurally\n\n     complementary to the MDR receptor, in contrast to various ways of producing\n\n     conventional chemical-based blocker in anti-cancer therapy?\n\nA.    The cost of the synthesis of DNA nanostructures is lower.\n\nB.    The DNA nanostructure is more thermal and pH-resistant than the chemical\n\n      blocker.\n\nC.    The affinity with the receptors are more diverse by simply adjusting the DNA\n\n      sequence and base-pairing.\n\nD.    DNA nanostructures have no adverse effects on human body.\n\n7. G-protein-couple receptors (GPCRs) are the largest family of cell-surface\n\n    receptors. Extracellular signal molecules acting via GPCRs affect the activity of\n\n    the intracellular adenylyl cyclase and alter the concentration of the 2nd messenger\n\n    cyclic AMP (cAMP). The activated GPCRs switch on the adenylyl cyclase,\n\n                          Formation of second messenger: cAMP\n    causing an increase in the synthesis of cAMP from ATP. cAMP then induces many\n\n    cellular responses, such as breakdown of glycogen and fat. cAMP is then broken\n\n    down by cyclic AMP phosphodiesterase.\n\nEssential Cell Biology (© Garland Science 2010)\n\nWith reference from the figure, which of the following statement(s) is/are correct?\n\n  i.    Inhibiting cyclic AMP phosphodiesterase decreases the metabolic rate.\n\n ii.    A drug enhancing the adenylyl cyclase activity can be used to increase body\n\n        metabolic rate and synthesis of ATP.\n\niii.      Caffeine acts as a stimulant by inhibiting cyclic AMP phosphodiesterase in\n\n          neuronal cells, blocking cAMP degradation and keeping the concentration of\n\n          cAMP high.\n\niv.       Introduction of a constitutively active GPCRs resumes the rate of metabolism\n\n          in a mutant with overactive cyclic AMP phosphodiesterase.\n\n      A. (i) only\n\n      B. (ii) and (iii) only\n\n      C. (i) and (iii) only\n\n      D. (iii) and (iv) only\n\nPhospholipid plasma membrane helps in cell communication where membrane\n\nreceptor proteins enable the cell to receive signals from the environment. Membrane\n\nproteins are amphipathic with both hydrophobic and hydrophilic regions.\n\nHydrophobic regions lie in the interior of the bilayer, whereas hydrophilic regions are\n\nexposed to the aqueous environment on either side of the membrane.\n\nMembrane protein can be solubilized by a detergent. Detergents are small,\n\namphipathic, lipid like molecules that have both hydrophilic and hydrophobic regions.\n\nThe lipid molecules tend to aggregate into small clusters called micelles, rather than\n\nforming a bilayer.\n\n8. According to the above passage and figure, which of the following statement(s)\n\n      is/are correct?\n\ni.     A strong ionic detergent consists of a strong ionic bond in the hydrophobic\n\n       region.\n\nii.    Triton X-100 is a mild nonionic detergent as it consists of a weak hydrophilic\n\n       region.\n\niii. To form the transmembrane protein-detergent complex, hydrophobic ends of\n\n       detergent molecules bind to the interior hydrophobic region of the\n\n       transmembrane proteins.\n\niv. To form the lipid-detergent complex, the hydrophilic region of detergent binds to\n\n       the hydrophobic tails of the membrane phospholipid molecules.\n\n      A. (i) only\n\n      B. (ii) and (iii) only\n\n      C. (i) and (iii) only\n\n      D. (iii) and (iv) only\n\n9. The roles of cell membrane in cell communication include:\n\n       i.           provide a barrier to select for signals from environment or adjacent\n\n                    cells to be communicated into the cell ,\n\n      ii.           act as an active facilitator of osmosis,\n\n     iii.           importing and exporting nutrients and waste products,\n\n     iv.            activating enzymes and catalyzing the reactions associated with the\n\n                    cell membrane.\n\nA.   (i) and (ii)\n\nB.   (iii) and (iv)\n\nC.   (i), (iii) and (iv)\n\nD.   (i) and (iii)\n\nThe novel coronavirus SARS-CoV-2, the cause of the COVID-19 pandemic, is a RNA\n\nvirus and highly infectious human respiratory pathogen to which the global\n\npopulation had no prior immunity. It is suggested that the virus continues to cause\n\nsignificant severe symptoms to the infected until there is a broadly effective vaccine.\n\nCOVID-19 vaccine candidates have been developed using conventional and novel\n\napproaches to vaccine development (see figure below). All of them generate immunity\n\nto the viral spike glycoprotein, which is required for the virus to enter host cells. The\n\naim of vaccine-generated antibodies against the spike glycoprotein is to neutralize the\n\nvirus, and stop it from infecting cells.\n\nMcIntyre P, Joo YJ, Chiu C, Flanagan K, Macartney K. COVID‑19 vaccines – are we\n\nthere yet? Aust Prescr 2021;44:19-25.\n\n10. All viruses evolve and change over time when a virus replicates or makes copies\n\n   of itself. These changes are called “mutations”. A virus with one or more new\n\n   mutations is referred to as a “variant” of the original virus. Which of the following\n\n   viral mutations decrease vaccine effectiveness in targeting the variants?\n\n   i. A mutation on the viral spike protein expressed on the viral surface\n\n   ii. A mutation on the viral coat protein that decreases the viral stability.\n\n   iii. A mutation on the viral encoding RNA polymerase that increases the rate of\n\n       viral replication in host cells.\n\n   iv. A mutation on the viral spike protein that makes it resemble a native growth\n\n       factor that binds to the normal receptor in target cells.\n\n           A. (i) and (iii)\n\n           B. (i), (ii) and (iv)\n\n           C. (i), (iii) and (iv)\n\n           D. (ii) and (iv)\n\nFarmers first introduced about 100 cane toads (Rhinella marina, left panel) to\n\nAustralia from their native South America in 1935 to control cane beetles\n\n(Dermolepida albohirtum) infesting sugarcane plantations. The giant toads failed to\n\nknock down the beetle populations, but they succeeded in multiplying. Because of\n\ntheir highly poisonous skin coated with bufotoxins, they had no natural predators\n\nand went on to invade the northern and eastern parts of the country in 86 years\n\ndevouring anything it can fit in its mouth – household rubbish, small rodents and\n\neven birds. During this period, they also evolve to be highly cannibalistic, older\n\ntadpoles would prey on the hatchlings (panel on the right).\n\nScientists were curious about this cannibalistic behavior, they collected cane toads\n\nfrom Australia and from South America, and bred them to produce hatchlings and\n\nolder tadpoles. The team then exposed a single tadpole to 10 hatchlings from its own\n\ngroup – either from Australia, South America or hybrid – hundreds of times and\n\nfound that both the invasive Australian and hybrid tadpoles alike were 3 times more\n\nlikely to cannibalize hatchlings of their own group (395 cannibalism observed in 488\n\ntests for Australian breed, 366 cannibalism observed in 446 tests for the hybrid) than\n\nthe native South American tadpoles (134 cannibalism observed in 490 tests).\n\n11. Which of the following statement can be concluded based on the information\n\n   provided in the above observations?\n\n    A. South American tadpoles are not cannibalistic.\n\n    B. The cannibalistic trait in Australian cane toad tadpoles is a dominant trait.\n\n    C. Aggressive cannibalism is a character lost in the South American population\n\n        over the past eight decades.\n\n    D. There is no preference of the cannibalistic tadpoles to prey on any hatchling.\n\nIt is known that Australian tadpoles are attracted to the hatchlings because of the scent\n\nof the younger animals’ toxic skin. In a separate experiment, the Australian tadpoles\n\nwere shown to be nearly 30 times as likely to swim towards a trap containing\n\nAustralian hatchlings (299/455) as going to an empty trap (9/444), and the South\n\nAmerican tadpoles showed no significant preference for trap with American\n\nhatchlings as to an empty trap (34/421 versus 21/389).\n\n12. Which of the following statement can be concluded based on the above\n\n   experimental findings?\n\n     A. South American hatchlings do not have toxic skin.\n\n     B. South American tadpoles lost the ability to detect the attractants.\n\n     C. Australian tadpoles’ attraction to the hatchlings is the primary cause of the\n\n         display of higher cannibalism among them.\n\n     D. Australian tadpoles can effectively differentiate substance presented in their\n\n         hatchlings.\n\nAlthough the speed with which the toads evolved this behavior is impressive, the team\n\nwas also surprised by another observation in the hatchlings. They found that when\n\ninvasive Australian hatchlings shared a tank with caged, older tadpoles from the same\n\ngroup, the hatchlings were more likely to have a shorter developmental period than\n\nthat of the South American or hybrid hatchlings by 30%. When older tadpoles don’t\n\ntend to eat older tadpoles – so the toads might have evolved to speed up the\n\nmaturation of their hatchling phase. This would limit the amount of time they spend\n\nvulnerable to cannibalism.\n\n13. Based on the observation above, which of the following conclusion can be\n\n   obtained?\n\n    A. The shorter developmental period is a defense system in hatchlings against\n\n        cannibalism\n\n    B. More hatchlings would survive to become older tadpoles when they are\n\n        exposed to the cannibalistic Australian tadpoles as compared to exposure to\n\n        South American tadpoles.\n\n    C. A normal longer developmental period must be maintained by a genetic\n\n        function in the South American tadpoles that is lost in the Australian toad.\n\n    D. There must be communication between the tadpoles and the hatchling via the\n\n        toxic chemicals on the hatchlings’ skin.\n\n                                                Short fin\n\n                           Long Fin\n\nSiam fighting fish was domesticated for their unique color and fin features, and of\n\ncourse also their aggressive behavior to fight each other when two males are put\n\ntogether. It was noted that the long fin feature is genetically encoded and artificially\n\nbred for ornamental purpose. When a pure breed long fin fish is bred with a pure\n\nbreed short fin fish, a medium fin size was observed in the next generation progeny\n\nfrom this pair with some minor variations. When these progeny were interbred, a full\n\nrange of phenotype from very long fin and very short fin fishes were obtained and\n\nintermediates spanning the full range.\n\n14. Based on this observation of phenotype, which of the following statement\n\n   correctly describes the mode of inheritance of this trait of fin length.\n\n         A. There are multiple genes controlling the fin length with additive effect on\n\n             each other.\n\n         B. A genetic locus with a co-dominant allele is governing the development\n\n             of the fin length.\n\n         C. Two genetic loci are regulating each other in a balance to control the\n\n             outcome of the fin length.\n\n         D. There are multiple alleles of this genetic locus that confer fin length,\n\n             contributing to the variations of fin length.\n\nSome genes of essential function are critical for the survival of a cell or an organism.\n\nAn essential gene A, when it is mutated to have loss-of-activity (lof) in homozygosity,\n\nlethality results; while heterozygosity gives an animal no specific phenotype, neither\n\ndoes it affect growth, fertility nor survival. In a breeding program starting with a\n\nparental pair of heterozygous (A/a) animals, and allow random mating among\n\nprogeny of the same generation for multiple subsequent generations.\n\n15. What do you expect the allele frequency of the loss of function (lof) allele would\n\n   be as compared with the normal allele?\n\n     A. The lof “a” allele would increase gradually as the allele is found in the first\n\n         generation in three quarters of the living population allowing faster\n\n         propagation.\n\n     B. This “a” allele frequency will fluctuate randomly up and down around 50%\n\n         as both parents are heterozygous.\n\n     C. This “a” allele will be decreasing gradually until it is totally eliminated from\n\n         the population as they contribute to smaller proportion of the gene pool in\n\n         random mating.\n\n     D. This allele frequency will be maintained at around 33% since the F1\n\n         generation creates a population of homozygous and heterozygous animals\n\n         with the “a” allele present in the 33% of the gene pool.\n\nMr. and Mrs West gave birth to fraternal twins – Peter and Mary. Before the babies’\n\ninformation was registered with the hospital record, the computer system was hacked.\n\nA clear trail of documentation was lost. Having only seen the baby briefly after birth,\n\nthe parent cannot recognize their babies, who were put in the Intensive Care Unit of\n\nthe pediatric ward among those newborns (4 other babies) in the same morning. The\n\nonly viable option is to do DNA testing for all of them to confirm their relationship.\n\nDNA samples of the babies and Mr. & Mrs. West were testing for restriction markers.\n\n Mr West    Mrs West   Baby a   Baby b   Baby c   Baby d   Baby e   Baby f\n\n16. Which of the 6 baby children are Mr. and Mrs. West’s twins?\n\n     A. Baby a and b\n\n     B. Baby c and e\n\n     C. Baby a and e\n\n     D. Baby d and f\n\nFlying squirrel and flying possum are mammals with very similar body sizes and\n\nfeatures. They both glide between trees using the furry membrane called patagium.\n\nYet, flying squirrel is placental mammal that is usually found in North America, while\n\nflying possum is marsupial that is native in Australia. They are the example of\n\nconvergent evolution.\n\n17. Which of the following statement is true about this pair of animals?\n\n       A. The reproductive mechanisms of this pair of animals are going to converge\n\n           in the next 100 years.\n\n       B. They share no recent common ancestor and are not closely related on the\n\n           tree of life.\n\n       C. They face distinctive set of selective pressure because they live on\n\n           different continents.\n\n       D. They must have the same molecular basis in developing the membrane for\n\n           flying.\n\nFigure 1 below illustrates the formation of mouse’s free toe and webbed feet of duck.\n\nGreen represents apoptotic tissues and red represents preserved tissues. We know that\n\nX  Y  Apoptosis. Knockout (k/o) of gene Z in duck leads to the phenotype of free\n\ntoe. Figure 2 shows the effects of gene Z k/o in duck on mRNA and protein levels of\n\nX and, as well, the percentage of apoptosis in the experimental tissue.\n\n                Figure 1.\n\n     Figure 2. (A & B) mRNA and protein levels, respectively, of Z, X and Y before\n\n     and after knockout. GAPDH and actin are controls. (C) percentage of apoptosis\n\n     of the experimental tissue before and after knockout of Z.\n\n18. According to the data above, which of the following statement is correct and\n\n   supported with evidence?\n\n     A. Z is a transcriptional factor that controls the expressions of X and Y.\n\n     B. Z is an inhibitor that competes with Y for the active site of the receptor.\n\n     C. Z behaves like a siRNA that down-regulates apoptosis.\n\n     D. X and Y genes are regulating Z gene to control the execution of apoptosis.\n\n19. In a given population, a gene locus consists of 3 alleles X, Y and Z. The\n\n   population allele frequencies of X = 0.45 and Y = 0.25. Assuming the population\n\n   undergoes random mating. Which of the following statement is correct?\n\n       A. If Z is dominant to X and Y, then the Z phenotype frequency will be\n\n           0.6975.\n\n       B. If the XZ phenotype frequency is 0.27, then Z is not dominant to X.\n\n       C. If the YZ phenotype frequency will be 0.075, then X and Y are\n\n           codominant.\n\n       D. If X, Y and Z are codominant, then the allele frequency of X equals to the\n\n           XX phenotype frequency.\n\nFigure below is the pedigree of a family. The family tree shows the affected (black)\n\nand asymptomatic (blank) members. Squares indicate males, and circles indicate\n\nfemales. I2 and II1 are members who had passed away because of the genetic\n\ndisorder.\n\n20. The inheritance pattern suggests that the diseased gene is a/an…\n\n       A. Autosomal dominant gene\n\n       B. Autosomal recessive gene\n\n       C. X-linked dominant gene\n\n       D. X-linked recessive gene\n\nSpecies-area curves (see below), show that larger areas of habitats tend to contain\n\nmore species. Conservation biologists have used species area curves to guide the\n\ndevelopment of protected areas.\n\n21. Which of the following statements best describes the information contained in this\n\n   graph?\n\n     A. As habitat area increases, the number of species increases exponentially.\n\n     B. The number of species in a habitat is positively correlated with the area of the\n\n        habitat.\n\n     C. The effectiveness of increasing the number of species in a habitat by\n\n        increasing the conservation area increases with the size of the area.\n\n     D. As the area of habitat increases, the number of species per unit area\n\n        decreases.\n\n    The graph below plots the population size of hares (a type of herbivorous rabbit) and\n\n    lynx (a type of carnivorous cat) in Canada between 1910 and 1930.\n\n    22. What is the evidence provided from the graph that hare is the prey of lynx?\n\n  i.     The population of hare is always larger than lynx.\n\nii.      The changes in population of lynx are always lagging behind the changes in hare.\n\niii.     The fluctuation of the population of lynx is larger than that of hare.\n\n    B.   (ii) only\n\n    C.   (i) and (ii)\n\n    D.   (i), (ii) and (iii)\n\n    The following graph plots the relationship between seed germination percentage and\n\n    sowing density (# seeds per square meter)\n\n    23. Which of the following(s) is/are correct based on the information of the graph?\n\n  i.     Seed germination rate decreases with increase in sowing density.\n\nii.      All seeds can germinate when the sowing density is lower than 2000.\n\niii.     When the sowing density is larger than 300000, less than 20% of seeds can\n\n         germinate.\n\n    B.   (i) and (ii)\n\n    C.   (i) and (iii)\n\n    D.   (ii) and (iii)\n\nThe graph below shows egg production at different population densities of the barnacle\n\n(Semibalanus balanoides) at three rates of water flow.\n\n24. Which of the following statement(s) is true based on the information of the graph.\n\n         i.       The higher the population density, the more eggs are produced.\n\n        ii.       The effect of water flow on egg production is independent of the\n\n                  population density.\n\n       iii.       Faster water flow can increase egg production.\n\nB.   (i) and (ii)\n\nC.   (iii) only\n\nD.   (ii) and (iii)\n\nThe graph below shows age distribution diagrams for Mexico, a developing country,\n\nand the USA, a developed country.\n\n25. Which of the following(s) can be inferred from the graph?\n\n     i. Mexico has a younger population than the US.\n\n     ii. In Mexico, the working class needs to support a larger number of children than\n\n         the US.\n\n     iii. The US people has a longer lifespan on average than the Mexicans.\n\nC.    (ii) and (iii)\n\nD.    ALL of the above",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 1,
+     "question": "What could be the likely reason(s) why the drug doxorubicin at high concentrations (above 150µM) still poses a small cytotoxicity effect on MDR-cancer cells?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.2",
+     "points": 1,
+     "question": "Why did the blocker alone, even with zero doxorubicin exposure, still show a certain cytotoxicity effect on both native and MDR-cancer cells?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.3",
+     "points": 1,
+     "question": "Given the observation that the “Doxorobicin + Verapamil” action on MDR-cancer cells is not having the same cytotoxicity effect as on native cancer cells, which of the following is/are the possible reason(s) for this observation? i. The concentration of the blocker Verapamil used in the experiment is not high enough to block all the efflux pumps. ii. There are other kinds of efflux pumps in MDR-cancer cells that also pump out doxorubicin but will not be blocked by the blocker Verapamil. iii. MDR-cancer cells grow faster than native cancer cells, thus misleading the calculation of the percentage of survived cells.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.4",
+     "points": 1,
+     "question": "Compared to double-stranded DNAs, these DNA nanostructures are observed, through electron microscopy, to be more resistant to digestion by enzymes, e.g. exonuclease and endonuclease. What could be the possible reason(s)? i. The closely packed 3D structure blocks the enzymes from binding onto the DNA easily.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.5",
+     "points": 1,
+     "question": "A DNA nanostructure designed to be structurally complementary to the MDR receptor binding site can function as an MDR blocker inside the body. What is the most critical factor in the design and optimization of such a DNA nanostructure blocker prior to practical use? i. The DNA nanostructure should be resistant to deoxyribonuclease throughout the drug metabolism.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.6",
+     "points": 1,
+     "question": "What could be the benefit of using a DNA nanostructure structurally complementary to the MDR receptor, in contrast to various ways of producing conventional chemical-based blocker in anti-cancer therapy?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.7",
+     "points": 1,
+     "question": "G-protein-couple receptors (GPCRs) are the largest family of cell-surface receptors. Extracellular signal molecules acting via GPCRs affect the activity of the intracellular adenylyl cyclase and alter the concentration of the 2nd messenger cyclic AMP (cAMP). The activated GPCRs switch on the adenylyl cyclase, Formation of second messenger: cAMP causing an increase in the synthesis of cAMP from ATP. cAMP then induces many cellular responses, such as breakdown of glycogen and fat. cAMP is then broken down by cyclic AMP phosphodiesterase.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.8",
+     "points": 1,
+     "question": "According to the above passage and figure, which of the following statement(s) is/are correct?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.9",
+     "points": 1,
+     "question": "The roles of cell membrane in cell communication include: i. provide a barrier to select for signals from environment or adjacent cells to be communicated into the cell , ii. act as an active facilitator of osmosis, iii. importing and exporting nutrients and waste products, iv. activating enzymes and catalyzing the reactions associated with the cell membrane.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.10",
+     "points": 1,
+     "question": "All viruses evolve and change over time when a virus replicates or makes copies of itself. These changes are called “mutations”. A virus with one or more new mutations is referred to as a “variant” of the original virus. Which of the following viral mutations decrease vaccine effectiveness in targeting the variants? i. A mutation on the viral spike protein expressed on the viral surface ii. A mutation on the viral coat protein that decreases the viral stability. iii. A mutation on the viral encoding RNA polymerase that increases the rate of viral replication in host cells. iv. A mutation on the viral spike protein that makes it resemble a native growth factor that binds to the normal receptor in target cells. A. (i) and (iii) B. (i), (ii) and (iv) C. (i), (iii) and (iv) D. (ii) and (iv)",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.11",
+     "points": 1,
+     "question": "Which of the following statement can be concluded based on the information provided in the above observations? A. South American tadpoles are not cannibalistic. B. The cannibalistic trait in Australian cane toad tadpoles is a dominant trait. C. Aggressive cannibalism is a character lost in the South American population over the past eight decades. D. There is no preference of the cannibalistic tadpoles to prey on any hatchling.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.12",
+     "points": 1,
+     "question": "Which of the following statement can be concluded based on the above experimental findings? A. South American hatchlings do not have toxic skin. B. South American tadpoles lost the ability to detect the attractants. C. Australian tadpoles’ attraction to the hatchlings is the primary cause of the display of higher cannibalism among them. D. Australian tadpoles can effectively differentiate substance presented in their hatchlings.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.13",
+     "points": 1,
+     "question": "Based on the observation above, which of the following conclusion can be obtained? A. The shorter developmental period is a defense system in hatchlings against cannibalism B. More hatchlings would survive to become older tadpoles when they are exposed to the cannibalistic Australian tadpoles as compared to exposure to South American tadpoles. C. A normal longer developmental period must be maintained by a genetic function in the South American tadpoles that is lost in the Australian toad. D. There must be communication between the tadpoles and the hatchling via the toxic chemicals on the hatchlings’ skin. Short fin Long Fin",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.14",
+     "points": 1,
+     "question": "Based on this observation of phenotype, which of the following statement correctly describes the mode of inheritance of this trait of fin length. A. There are multiple genes controlling the fin length with additive effect on each other. B. A genetic locus with a co-dominant allele is governing the development of the fin length. C. Two genetic loci are regulating each other in a balance to control the outcome of the fin length. D. There are multiple alleles of this genetic locus that confer fin length, contributing to the variations of fin length.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.15",
+     "points": 1,
+     "question": "What do you expect the allele frequency of the loss of function (lof) allele would be as compared with the normal allele? A. The lof “a” allele would increase gradually as the allele is found in the first generation in three quarters of the living population allowing faster propagation. B. This “a” allele frequency will fluctuate randomly up and down around 50% as both parents are heterozygous. C. This “a” allele will be decreasing gradually until it is totally eliminated from the population as they contribute to smaller proportion of the gene pool in random mating. D. This allele frequency will be maintained at around 33% since the F1 generation creates a population of homozygous and heterozygous animals with the “a” allele present in the 33% of the gene pool.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.16",
+     "points": 1,
+     "question": "Which of the 6 baby children are Mr. and Mrs. West’s twins? A. Baby a and b B. Baby c and e C. Baby a and e D. Baby d and f",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.17",
+     "points": 1,
+     "question": "Which of the following statement is true about this pair of animals? A. The reproductive mechanisms of this pair of animals are going to converge in the next 100 years. B. They share no recent common ancestor and are not closely related on the tree of life. C. They face distinctive set of selective pressure because they live on different continents. D. They must have the same molecular basis in developing the membrane for flying.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.18",
+     "points": 1,
+     "question": "According to the data above, which of the following statement is correct and supported with evidence? A. Z is a transcriptional factor that controls the expressions of X and Y. B. Z is an inhibitor that competes with Y for the active site of the receptor. C. Z behaves like a siRNA that down-regulates apoptosis. D. X and Y genes are regulating Z gene to control the execution of apoptosis.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.19",
+     "points": 1,
+     "question": "In a given population, a gene locus consists of 3 alleles X, Y and Z. The population allele frequencies of X = 0.45 and Y = 0.25. Assuming the population undergoes random mating. Which of the following statement is correct? A. If Z is dominant to X and Y, then the Z phenotype frequency will be 0.6975. B. If the XZ phenotype frequency is 0.27, then Z is not dominant to X. C. If the YZ phenotype frequency will be 0.075, then X and Y are codominant. D. If X, Y and Z are codominant, then the allele frequency of X equals to the XX phenotype frequency.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.20",
+     "points": 1,
+     "question": "The inheritance pattern suggests that the diseased gene is a/an… A. Autosomal dominant gene B. Autosomal recessive gene C. X-linked dominant gene D. X-linked recessive gene",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.21",
+     "points": 1,
+     "question": "Which of the following statements best describes the information contained in this graph? A. As habitat area increases, the number of species increases exponentially. B. The number of species in a habitat is positively correlated with the area of the habitat. C. The effectiveness of increasing the number of species in a habitat by increasing the conservation area increases with the size of the area. D. As the area of habitat increases, the number of species per unit area decreases. The graph below plots the population size of hares (a type of herbivorous rabbit) and lynx (a type of carnivorous cat) in Canada between 1910 and 1930.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.22",
+     "points": 1,
+     "question": "What is the evidence provided from the graph that hare is the prey of lynx?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.23",
+     "points": 1,
+     "question": "Which of the following(s) is/are correct based on the information of the graph?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.24",
+     "points": 1,
+     "question": "Which of the following statement(s) is true based on the information of the graph. i. The higher the population density, the more eggs are produced. ii. The effect of water flow on egg production is independent of the population density. iii. Faster water flow can increase egg production.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.25",
+     "points": 1,
+     "question": "Which of the following(s) can be inferred from the graph? i. Mexico has a younger population than the US. ii. In Mexico, the working class needs to support a larger number of children than the US. iii. The US people has a longer lifespan on average than the Mexicans.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

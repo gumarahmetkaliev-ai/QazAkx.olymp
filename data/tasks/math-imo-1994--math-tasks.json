@@ -1,0 +1,97 @@
+{
+ "setId": "math-imo-1994--math-tasks",
+ "olympiadId": "math-imo-1994",
+ "title": "Математика → IMO (международная) → 1994",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1994/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:41.863Z",
+ "quality": {
+  "tasks": 5,
+  "parts": 5,
+  "withPoints": 5,
+  "withReference": 0,
+  "withQuestion": 5,
+  "estimatedPoints": 5
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Let m and n be positive integers. Let a1 , a2 , . . . , am be distinct elements\nof {1, 2, . . . , n} such that whenever ai + aj ≤ n for some i, j, 1 ≤ i ≤ j ≤ m,\nthere exists k, 1 ≤ k ≤ m, with ai + aj = ak . Prove that\n                             a1 + a2 + · · · + am   n+1\n                                                  ≥      .\n                                     m               2",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "ABC is an isosceles triangle with AB = AC. Suppose that",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "E lies on the line AB and F lies on the line AC such that E, Q, F are\n      distinct and collinear.\nProve that OQ is perpendicular to EF if and only if QE = QF .\n3. For any positive integer k, let f (k) be the number of elements in the set\n{k + 1, k + 2, . . . , 2k} whose base 2 representation has precisely three 1s.\n   • (a) Prove that, for each positive integer m, there exists at least one\n     positive integer k such that f (k) = m.\n   • (b) Determine all positive integers m for which there exists exactly one\n     k with f (k) = m.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "Determine all ordered pairs (m, n) of positive integers such that\n                                     n3 + 1\n                                     mn − 1\nis an integer.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "Let S be the set of real numbers strictly greater than −1. Find all\nfunctions f : S → S satisfying the two conditions:",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

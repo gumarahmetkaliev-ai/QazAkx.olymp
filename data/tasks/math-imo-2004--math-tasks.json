@@ -1,0 +1,111 @@
+{
+ "setId": "math-imo-2004--math-tasks",
+ "olympiadId": "math-imo-2004",
+ "title": "Математика → IMO (международная) → 2004",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/2004/math-tasks.pdf",
+ "solutionFile": "olympiads/math/s/imo/2004/math-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:39.866Z",
+ "quality": {
+  "tasks": 6,
+  "parts": 6,
+  "withPoints": 6,
+  "withReference": 6,
+  "withQuestion": 6,
+  "estimatedPoints": 6
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Let ABC be an acute-angled triangle with AB 6= AC. The\ncircle with diameter BC intersects the sides AB and AC at M and N\nrespectively. Denote by O the midpoint of the side BC. The bisectors of\nthe angles 6 BAC and 6 M ON intersect at R. Prove that the circumcircles\nof the triangles BM R and CN R have a common point lying on the side\nBC.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "1. Let ABC be an acute-angled triangle with AB 6= AC. The circle with\n   diameter BC intersects the sides AB and AC at M and N , respectively.\n   Denote by O the midpoint of BC. The bisectors of the angles BAC and\n   M ON intersect at R. Prove that the circumcircles of the triangles BM R\n   and CN R have a common point lying on the line segment BC."
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Find all polynomials f with real coefficients such that for all\nreals a,b,c such that ab + bc + ca = 0 we have the following relations\n\n                f (a − b) + f (b − c) + f (c − a) = 2f (a + b + c).",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "2. Find all polynomials P (x) with real coefficients that satisfy the equality\n\n                 P (a − b) + P (b − c) + P (c − a) = 2P (a + b + c)\n\n    for all triples a, b, c of real numbers such that ab + bc + ca = 0."
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Define a ”hook” to be a figure made up of six unit squares\nas shown below in the picture, or any of the figures obtained by applying\nrotations and reflections to this figure.\n\nDetermine all m×n rectangles that can be covered without gaps and without\noverlaps with hooks such that\n\n   • the rectangle is covered without gaps and without overlaps\n\n   • no part of a hook covers area outside the rectagle.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "14. C7 (EST)IMO3 Determine all m × n rectangles that can be covered with\n    hooks made up of 6 unit squares, as in the figure:\n\n    Rotations and reflections of hooks are allowed. The rectangle must be\n    covered without gaps and overlaps. No part of a hook may cover area\n    outside the rectangle."
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "Let n ≥ 3 be an integer. Let t1 , t2 , ..., tn be positive real\nnumbers such that\n                                            1  1         1\n                                             \u0012                    \u0013\n                2\n              n + 1 > (t1 + t2 + ... + tn )   + + ... +    .\n                                            t1 t2       tn\nShow that ti , tj , tk are side lengths of a triangle for all i, j, k with\n1 ≤ i < j < k ≤ n.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "4. Let n ≥ 3 be an integer and t1 , t2 , . . . , tn positive real numbers such that\n                                                  \u0012                    \u0013\n              2                                     1     1          1\n             n + 1 > (t1 + t2 + · · · + tn )           + +···+           .\n                                                    t1   t2         tn\n    Show that ti , tj , tk are the side lengths of a triangle for all i, j, k with\n    1 ≤ i < j < k ≤ n."
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "In a convex quadrilateral ABCD the diagonal BD does not\nbisect the angles ABC and CDA. The point P lies inside ABCD and\nsatisfies\n                  6 P BC = 6 DBA and 6 P DC = 6 BDA.\n\nProve that ABCD is a cyclic quadrilateral if and only if AP = CP .\n\n                                         1",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "5. In a convex quadrilateral ABCD the diagonal BD does not bisect the\n   angles ABC and CDA. The point P lies inside ABCD and satisfies\n\n                    ∠P BC = ∠DBA and ∠P DC = ∠BDA.\n\n    Prove that ABCD is a cyclic quadrilateral if and only if AP = CP ."
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "We call a positive integer alternating if every two consecutive\ndigits in its decimal representation are of different parity.\nFind all positive integers n such that n has a multiple which is alternating.\n\n                                     2",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": "6. We call a positive integer alternate if its decimal digits are alternately\n   odd and even. Find all positive integers n such that n has an alternate\n   multiple."
+    }
+   ]
+  }
+ ]
+}

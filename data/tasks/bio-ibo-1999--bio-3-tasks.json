@@ -1,0 +1,37 @@
+{
+ "setId": "bio-ibo-1999--bio-3-tasks",
+ "olympiadId": "bio-ibo-1999",
+ "title": "Биология → IBO (международная) → 1999",
+ "materialLabel": "3 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/ibo/1999/bio-3-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T18:33:50.967Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "All IBO examination questions are published under the following Creative Commons license:\n\r  \n\n\r  \n\r  \nCC BY-NC-SA (Attribution-NonCommercial-ShareAlike) -\nhttps://creativecommons.org/licenses/by-nc-sa/4.0/\n\nThe exam papers can be used freely for educational purposes as long as IBO is credited and\nnew creations are licensed under identical terms. No commercial use is allowed.",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

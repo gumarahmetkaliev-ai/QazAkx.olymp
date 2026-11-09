@@ -1,0 +1,115 @@
+{
+ "setId": "geo-igeo-2025--igeo-fwe1-tasks",
+ "olympiadId": "geo-igeo-2025",
+ "title": "География → iGeo (международная) → 2025",
+ "materialLabel": "Igeo fwe1 (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/igeo/2025/igeo-fwe1-tasks.pdf",
+ "solutionFile": "olympiads/geography/s/igeo/2025/igeo-fwe1-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T18:09:55.517Z",
+ "quality": {
+  "tasks": 2,
+  "parts": 11,
+  "withPoints": 11,
+  "withReference": 11,
+  "withQuestion": 11,
+  "estimatedPoints": 10
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Observe and Sketch the Image (10 marks)",
+   "weight": null,
+   "total": 9,
+   "statement": "Instruction\nJob type:      Answer the questions.\nLocation:      Task 1 on Map 1-1.\nDuration:      The maximum time for this task is 20 minutes.\n               After finishing the exercise, you must hand in this paper.\n\nQuestions:\n1. Produce and annotate a sketch of this location. (5 marks)\n\n2. Draw the river flow direction on the sketch. (1 mark)\n\n3. Explain the factors that determine the river flow direction. (1 mark)\n\n4. Estimate the velocity of the river:                                          m/s. (1 mark)\n\n5. Estimate the angle at which the pagoda is tilted from vertical. (1 mark)\n\n6. What is the concrete structure found at this site called? What is its main purpose? (1 mark)",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 1.5,
+     "question": "Produce and annotate a sketch of this location. (5 marks)",
+     "reference": "1. Produce and annotate a sketch of this location. (5 marks)\n\n   1 mark for a tilted pagoda\n\n   1 mark for concrete structure to protect erosion\n\n   1 mark for the river and water level\n\n   1 mark for a group of trees\n\n   1 mark for a building",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.2",
+     "points": 1.5,
+     "question": "Draw the river flow direction on the sketch. (1 mark)",
+     "reference": "2. Draw the river flow direction on the sketch. (1 mark)\n\n   1 mark for a correct drawn arrow indicating the river flow direction.",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.3",
+     "points": 1.5,
+     "question": "Explain the factors that determine the river flow direction. (1 mark)",
+     "reference": "3. Explain the factors that determine the river flow direction. (1 mark)\n\n   1 mark for mentioning a correct factor that influences river flow direction. Possible\n   factors are high tide, water volume, wind.",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.4",
+     "points": 1.5,
+     "question": "Estimate the velocity of the river: m/s. (1 mark)",
+     "reference": "4. Estimate the velocity of the river:                                           m/s. (1 mark)\n\n   1 mark for a reasonable estimate based on calculation. The estimate answer is 0.4-0.7m/s",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.5",
+     "points": 1.5,
+     "question": "Estimate the angle at which the pagoda is tilted from vertical. (1 mark)",
+     "reference": "5. Estimate the angle at which the pagoda is tilted from vertical. (1 mark)\n\n   1 mark for a reasonable estimate of the angle. The estimate of the angle is 20 degrees.",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.6",
+     "points": 1.5,
+     "question": "What is the concrete structure found at this site called? What is its main purpose? (1 mark)",
+     "reference": "6. What is the concrete structure found at this site called? What is its main purpose? (1 mark)\n\n   0.5 mark for naming the concrete structure. The structure names “Riverbank embankment”\n\n   0.5 mark for stating its main function. Its main function is used to prevent riverbank\n   collapse due to water erosion",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Observe and Collect Data on Human Activities and Vegetation",
+   "weight": null,
+   "total": 2.5,
+   "statement": "(20 marks)\nInstruction\nJob type:                 Observe and Record Human Activities and Vegetation Data on\n                          Two Walking/Cycling Routes.\nLocation:                 Ko Kret, Nonthaburi Province (Map 1-1)\nStarting and Ending Point: Wat Poramai Yikawat.\nTask management:          The survey and data collection will be conducted along two\n                          designated routes. Students who start with Task 2 will be divided\n                          into two groups. Each group will complete Task 2 along one\n                          designated route. After finishing the first route, both groups will\n                          meet at the starting point and switch to the other route to\n                          complete the same tasks. Students are not allowed to talk to each\n                          other.\nDuration:                 The maximum time allotted for the fieldwork is 2.0 hours, one\n                          hour for each designated route. Upon completion of all assigned\n                          tasks, participants must arrive at the designated endpoint\n                          (Map 1-1) no later than 15 mins before time expires and submit\n                          all examination materials. Any submissions made after that will\n                          be recorded as late, and therefore subject to a mark penalty.\nRemark:                   1) Upon completion at each fieldwork site, all worksheets and\n                             maps will be collected once the group has reported in. Please\n                             do not leave the final checkpoint until all worksheets and maps\n                             have been submitted.\n                          2) Students are required to proceed to the field site in their\n                             assigned groups, as indicated on the official name list.\n                             However, each student must complete all assigned tasks\n                             independently. All group members are responsible for ensuring\n                             that every area within the designated fieldwork site is\n                             thoroughly covered and that individual observations are\n                             accurately recorded on their personal worksheets.\n                          3) Map 1-2 (Size A3) for Task 2 in FWE 1 will be given back to\n                             students to assist in completing the tasks in FWE 2.\n\n                                                 Student Number          2     1\n\n   1. Observe and record the following data for route A and route B on Map 1-2:\n      • Major economic activities, locations of important landmarks, tourist attractions and\n        facilities, e.g. temples (or “Wat”, in Thai), large pagodas, markets, restrooms, services,\n        piers, and waste management.\n      • Green spaces along the study routes. Indicate whether the green spaces are natural\n        vegetation or agricultural fields (orchard) (Figure 1). In natural vegetation areas, locate\n        and draw the boundaries of local plant clusters -- 1) Lotus and 2) Nor Kala (a type of\n        ginger plant used in the local cuisine) (Figure 2).\n\n         Data from this task will be used in the following questions and in FWE 2.\n\n                    Natural Vegetation                                       Agricultural Fields\n\nFigure 1: Natural vegetation and agricultural fields in Ko Kret\n\n                          Lotus                                                    Nor Kala\n\nFigure 2: Local plants in Ko Kret\n\n                                        Student Number   2   1\n\nMap 1-2: Field observations (Size A3)\n\n2. Describe the spatial pattern of natural vegetation areas (including two local vegetation –\n   Lotus and Nor Kala), and agricultural fields in Table 1-1. (4 marks)\nTable 1-1: Spatial pattern of Natural vegetation and Agricultural Fields.\n    Type of green\n                                           Description of spatial pattern\n       spaces\n\n  Natural vegetation\n\n  Agriculture fields\n     (orchard)\n\n3. Identify 6 tourist facilities and indicate economic activities related to tourists along BOTH\n   routes. (6 marks)\n\n   3.1 Tourist facilities:\n        1)\n        2)\n        3)\n        4)\n        5)\n        6)\n        7)\n        8)\n        9)\n        10)\n   3.2 Economic activities related to tourists:\n        1)\n        2)\n        3)\n        4)\n        5)\n        6)\n        7)\n        8)\n        9)\n        10)\n\n                                           Student Number         2    1\n\n4. Identify four problems within the community that may impact tourism. Specify the\n   route(s) where you observed them. (6 marks)\n\n   Table 1-2: Physical Problems.\n\n          Problems                 Route               Descriptions/evidence\n\n                                             Student Number         2    1\n\n5. Mark the locations of the piers on Map 1-3 with numeric symbols (e.g. 1, 2, 3, and so on).\n   Identify which piers are mainly used for public transportation. Justify your answers in\n   Table 1-3. (4 marks)\n\n       Table 1-3: The uses of piers.\n                        Pier\n     Major use                                  Justification for your answer\n                       Number\n\n       Public\n   transportation\n\n     Non-public\n   transportation\n\nMap 1-3: Locations of the piers.",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 0.5,
+     "question": "Observe and record the following data for route A and route B on Map 1-2: • Major economic activities, locations of important landmarks, tourist attractions and facilities, e.g. temples (or “Wat”, in Thai), large pagodas, markets, restrooms, services, piers, and waste management. • Green spaces along the study routes. Indicate whether the green spaces are natural vegetation or agricultural fields (orchard) (Figure 1). In natural vegetation areas, locate and draw the boundaries of local plant clusters -1) Lotus and 2) Nor Kala (a type of ginger plant used in the local cuisine) (Figure 2). Data from this task will be used in the following questions and in FWE 2. Natural Vegetation Agricultural Fields",
+     "reference": "1. Observe and record the following data for route A and route B on Map 1-2:\n      • Major economic activities, locations of important landmarks, tourist attractions and\n        facilities, e.g. temples (or “Wat”, in Thai), large pagodas, markets, restrooms, services,\n        piers, and waste management.\n      • Green spaces along the study routes. Indicate whether the green spaces are natural\n        vegetation or agricultural fields (orchard) (Figure 1). In natural vegetation areas, locate\n        and draw the boundaries of local plant clusters -- 1) Lotus and 2) Nor Kala (a type of\n        ginger plant used in the local cuisine) (Figure 2).\n\n         Data from this task will be used in the following questions and in FWE 2.\n\n                    Natural Vegetation                                       Agricultural Fields\n\nFigure 1: Natural vegetation and agricultural fields in Ko Kret\n\n                          Lotus                                                    Nor Kala\n\nFigure 2: Local plants in Ko Kret\n\n                                        Student Number   2   1\n\nMap 1-2: Field observations (Size A3)",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.2",
+     "points": 0.5,
+     "question": "Describe the spatial pattern of natural vegetation areas (including two local vegetation – Lotus and Nor Kala), and agricultural fields in Table 1-1. (4 marks)",
+     "reference": "2. Describe the spatial pattern of natural vegetation areas (including two local vegetation –\n   Lotus and Nor Kala), and agricultural fields in Table 1-1. (4 marks)\nTable 1-1: Spatial pattern of Natural vegetation and Agricultural Fields.\n    Type of green\n                                           Description of spatial pattern\n       spaces\n\n                        1. Natural vegetation is widely distributed along the outer river\n                           bends and is also concentrated in the southern and western\n                           sections. These zones often intermingle with the two local\n                           vegetation types: lotus and nor kala\n\n  Natural vegetation    2. Lotus fields are clustered in the northwest and southern sections.\n                           They are mostly found within areas of natural vegetation.\n\n                        3. Nor kala fields are concentrated in the central and southern\n                           sections, with some distribution in the eastern parts. They are\n                           also mostly located within natural vegetation areas.\n\n                        4. Agricultural fields are distributed across the western, central,\n                           and southern parts of the map.\n  Agriculture fields\n     (orchard)\n\nGive 1 mark for each correct and appropriate answer",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.3",
+     "points": 0.5,
+     "question": "Identify 6 tourist facilities and indicate economic activities related to tourists along BOTH routes. (6 marks) 3.1 Tourist facilities: 1) 2) 3) 4) 5) 6) 7) 8) 9) 10) 3.2 Economic activities related to tourists: 1) 2) 3) 4) 5) 6) 7) 8) 9) 10) Student Number 2 1",
+     "reference": "3. Identify 6 tourist facilities and indicate economic activities related to tourists along BOTH\n   routes. (6 marks)\n\n   3.1 Tourist facilities:\n        1)\n        2)\n        3)\n        4)\n        5)\n        6)\n   3.2 Economic activities related to tourists:\n        1)\n        2)\n        3)\n        4)\n        5)\n        6)\n\n              Tourist facilities                  Economic activities related to tourists\n                    Toilet                        Pottery production (factory and shops)\n                  Trash bin                                   Open market\n     Tourist signs on the walking paths                Restaurants/bars/food strand\n                    Piers                                    Souvenir shops\n         Tourist information map                               Bicycle rent\n        Tourist information centre                             Cloth shops\n           Tourism Police office                             Massage centre\n      Public shelter for food and drink\n                consumption\n\n    Give 0.5 mark for each correct and appropriate answer.",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.4",
+     "points": 0.5,
+     "question": "Identify four problems within the community that may impact tourism. Specify the route(s) where you observed them. (6 marks) Table 1-2: Physical Problems. Problems Route Descriptions/evidence Student Number 2 1",
+     "reference": "4. Identify four problems within the commu\n   route(s) where you observed them. (6 ma\n\n   Table 1-2: Physical Problems.\n\n            Problems               Route\n\n Narrow walking path           Route A &\n                               B\n\n High density of shops         Route A\n\n Trash                         Route B\n\n Restroom                      Route A\n                               and B\n\n Land subsidence near river    Route B\n bank\n\n Flooding                      Route B\n\nnity that may impact tourism. Specify the\nrks)\n\n              Descriptions/evidence\n\n      •   The walking path is used for both\n          pedestrians and cyclists. Pedestrians\n          need to be aware of cyclists from time\n          to time.\n      •   Many shops extend their stalls on the\n          walking path, reducing the walking\n          space.\n      •   No clear division between walking\n          and cycling lanes on the green route.\n      •   Parts of route A are not well paved or\n          not in good conditions for cycling.\n   Shops are densely located next to each other.\n   Together with the narrow path, it can be very\n   difficult for accessibility and evacuation\n   during emergency events (e.g. fire).\n   Almost no trash bins on this route because it\n   is mainly residential areas. Some tourists\n   simply disposed of garbage on the ground\n   alongside the walking path.\n   No public toilet along the route. There is only\n   one toilet spot near the start of 2 routes.\n   Tourists may need to use the toilets at the\n   shops, restaurants, or temples during their\n   walking journey.\n   Inclined pagodas at Wat Wat Poramai\n   Yikawat and Wat Chimplee Sutthawas as a\n   result of river bank subsidence. Construction\n   to maintain the pagoda to be on its vertical\n   axis.\n      •   Flood marks on the buildings\n      •   Man-made levee along the river bank,\n          which can be clearly observed at the\n          temples\n\n          Problems                Route\n\n No resting area               Route A\n                               and B\n\n Street dog                    Route A\n                               and B\n\n Lack of sanitary regulation   Route B\n by preparing food on street\n\n Disposal water                Route A\n                               and B\n\nGuideline for marking schemes:\n   •   0.5 mark for a problem and route\n   •   1 mark for correct evidence\n\nStudent Number        2    1\n\n           Descriptions/evidence\n\n   •   Elevated walking path at some parts\n       (e.g. green areas),\n   •   Aquatic plants (e.g. lotus)\nNo shelter or shade areas where tourists can\nrest on the green route. Also, no restaurant\nand café on that green part for tourists to\nrest.\nThere are many dogs along the route\n\nSome houses prepare food without a proper\nkitchen, directly next to the street\n\nThere is some household garbage in the river.\n\n                                              Student Number           2    1",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.5",
+     "points": 0.5,
+     "question": "Mark the locations of the piers on Map 1-3 with numeric symbols (e.g. 1, 2, 3, and so on). Identify which piers are mainly used for public transportation. Justify your answers in Table 1-3. (4 marks) Table 1-3: The uses of piers. Pier Major use Justification for your answer Number Public transportation Non-public transportation",
+     "reference": "5. Mark the locations of the piers on Map 1-3 with numeric symbols (e.g. 1, 2, 3, and so on).\n   Identify which piers are mainly used for public transportation. Justify your answers in\n   Table 1-3. (4 marks)\n\n        Table 1-3: The uses of piers.\n                          Pier\n       Major use                                 Justification for your answer\n                       Number\n                        2 piers     - There is a high volume of pedestrian traffic around\n                       11 and 14      the ferry terminal.\n                                    - There is a toll booth for collecting ferry service fees.\n                                    - There is an information point for assisting tourists.\n       Public\n                                    - There are designated parking areas for bicycles and\n   transportation\n                                      motorcycles used by community members.\n                                    - It is an area located near an important temple on the\n                                      island.\n\n                         Other      - It is a pier typically located within a community area.\n                        numbers     - There are no structures to provide protection from sun\n     Non-public        (1-10, 12-     and rain.\n   transportation         13)       - There is low pedestrian traffic.\n                                    - Trash bags are placed in the area awaiting collection.\n\nMap 1-3: Locations of the piers.\n   •    Pier Numbers:\n           o Public transportation:\n\n                ▪ Give 0.5 marks for those who fill in the correct pier number.\n                ▪ The maximum is 1 mark in each box.\n        o Non-public transportation:\n                ▪ Give 1 mark for those who fill in more than 5 correct pier numbers.\n                ▪ Give 0.5 points for those who fill in the correct pier number, less than\n                   or equal to 5 piers.\n•   Justification:\n        o 1 mark for those who provide reasonable supporting reasons."
+    }
+   ]
+  }
+ ]
+}

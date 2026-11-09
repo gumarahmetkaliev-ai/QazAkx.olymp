@@ -1,0 +1,67 @@
+{
+ "setId": "astro-iao-2005--astro-1-tasks",
+ "olympiadId": "astro-iao-2005",
+ "title": "Астрономия → IAO (международная) → 2005",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/iao/2005/astro-1-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T18:09:45.452Z",
+ "quality": {
+  "tasks": 3,
+  "parts": 3,
+  "withPoints": 3,
+  "withReference": 0,
+  "withQuestion": 3,
+  "estimatedPoints": 3
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "The Bear. The White Bear (whom was already met in the texts of the Vil, УШ and ІХ\nInternational Astronomy Olympiads) has returned from Crimea to the North Pole and decided to\nobserve a sunset. Calculate how long this sunset lasts. The solution has to include a picture with\nan image of the Bear on the North Pole; necessary sizes or angular sizes should be in the picture.\nAssume that the Earth is spherical. Recollect for yourself the necessary information about the\nWhite Bear.\n\nBut can the Bear prolong the observation of sunset, not moving from the Pole? For what time?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Sun. In one of the ancient models of the Universe the centre of solar system is the Earth rotating\naround its own axis, The stars are not moving around the Earth. The Moon and the Sun are\norbiting the Earth. Mercury and Venus are orbiting the Sun. Mars, Jupiter and Saturn moves\naround invisible objects which are orbiting the Earth.\n\nConsider the explanation of the system Earth-Moon to be correct in this model and the mass of\nSun to be negligible in comparison with the mass of the Earth-Moon system. Find (by two\ndifferent ways of solution) the distance between the Earth and the Sun in such a model.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Andromeda nebula. We hope that you are familiar with the object Andromeda nebula (M31,\nNGC 224). Its stellar magnitude т = 4.4\" and its distance from us is 0.7 Mpc. To what distance\nfrom this object should we move, if it were to shine as the full Moon? What would the\n(approximate) angular size of this object be in that case?\n\nПри решении каждой задачи можно использовать данные прилагаемой “Таблицы данных о планетах”\n\nData from the “Table of planetary data” may be used for solving every problem.\n\n|          Китай. Пекин                    2005                     Beijing, China     a\n\n10 Oktober 2006\nАСТРОНОМИЧЕСКОЕ           ж                EURO-ASIAN\nОБЩЕСТВО             ASTRONOMICAL SOCIETY\nҚы      Х Международная астрономическая олимпиада\n€      2        +                                   Й                                           :\n%ь--          Х International Astronomy Olympiad |\nКитай, Пекин                  25.Х -2.Х1. 2005                   Beijing. China\n|\nЗадачи теоретического тура                     Theoretical round. Problems іс soive\n4     ес еее                 language _ | Еп  lis һ  21\n№ п         toy\nGroup а                                    a     \"         а\na4. Sunspots. At the дау of the winter, solstice we observe the Sun in Quito, the capital city of\nEcuador in South America (78°W, (95). The resulting image is seen in figure 1. There аге two\nsunspots on the Sun. At the same time it is'sunrise in Alaska (60°N) and, sunset in Windhoek, the\ncapital city of Namibia in Africa (17°E, 23°S). Are these sunspots to\\ be seen in Alaska and\nWindhoek. (Note: answer «Да-Үев» or «Her-No» has to be written in English or Russian.) Draw\nthe images of the observations of the Sun at that time as they are seen in Alaska and Windhoek.\nи       oN                              in       алы\nра           ы     М                  елес“    a қ\n/        .        \\   |         ме УС\n|                     \\   |\n20-002\n\\                   /   |                                                   |\nNS 2                      7 и\n/\nEast                                                       West                                       |\n—_—— tS          ht             |\na5. Cluster. Astronomers find a \"star\" which position in the Hertzsprung-Russeli diagram is about 8\"         |\nhigher than the corresponding stars of the main sequence. Assume that the “star” is a cluster of        |\nsimilar stars and estimate the number of stars in the cluster.                                                             |\na6, Earth transit. At November 7, 2005, the Mars opposition will occur. During this event Mars will          |\n‚ Ве situated at 0.47 a.u. from the Earth, being quite close to the ecliptic line (27° south of it) as       |\nobserved from the Earth. For this event the Martian Space Agency is planning the near-Mars       |\nspace mission with astronauts onboard purposed to observe the Earth transit the centre of the solar          |\ndisk. To diminish expenses the space mission will follow the optima! way — to observe the transit         |\nfrom the minimum possible distance from Mars. In what constellation will Mars be observed from         |\nthe station in the middle of the Earth transit?                                    |                                     |\nПри решении каждой задачи можно использовать данные прилагаемой “Таблицы данных о планетах\nData from the “Table of planetary data” may be used for solving every problem.                                               |\nе        Китай. Пекин                 22 2005    |                Beijing, China      Б        |\n\n10 Oktober 2006\nАСТРОНОМИЧЕСКОЕ            &                 EURO-ASIAN\nОБШЕСТВО               a            ASTRONOMICAL SOCIETY\nИа,      Х Международная астрономическая олимпиада\nқ\nе       ec        %                 .                 .                                           .\nИ»          Х International Astronomy Olympiad\nКитай, Пекин                        25.Х.-2.Хі. 2005                        Beijing. China\n|\nЗадачи теоретического тура                     Theoretical round. Problems to solve\nязык |         2     ЕЕ\n|        Тазша Eaglish |\n\nGroup В\n\nВ4. Pole star. It is known, that the altitude of the Pole star above the horizon is numerically equal to\nthe geographic latitude of the place of observation, and the direction to it is the direction to North.\nHowever there are some errors іп these rules. Find the maximum errors (in ° and ') while using\nthis way to find the latitude of the place (Ар) and the direction to North (AB). The observations\nare carried ош т the observatory Xinglong (Синьлун) near Beijing. The declination of the Pole\nstar is equal to 89910 The approximate latitude of Beijing is ф = 40°.\n\nBS. Cluster. Astronomers find a \"star\" of the spectral class А0 which position at the Hertzsprung-\nRussell diagram is about -7\" — -8™! (1.е. it is very much higher than the main sequence). Assume\nthat the \"star\" is a cluster that consists of many similar stars and estimate the possible number of\nstars in the cluster.\n\nВ6. Earth transit. At November 7, 2005, the Mars opposition will occur. During this event Mars will\nbe situated at 0.47 a.u. from the Earth, being quite close to the ecliptic line (27' south of it) as\nobserved from the Earth. For this event the Martian Space Agency is planning the near-Mars\nspace mission with astronauts onboard purposed to observe the Earth transit on the solar disk (at\n\n/      least transit through the edge of the Sun) and to investigate the Earth’s atmosphere. What\nminimum orbital period of motion around Mars must this space station have?\n\nПри решении каждой задачи можно использовать данные прилагаемой “Таблицы данных о планетах”.             |\n\nData from the “Table of planetary data” may be used for solving every problem.\n\nООО\n\nКитай. Пекин                     2005                     Beijing. China",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

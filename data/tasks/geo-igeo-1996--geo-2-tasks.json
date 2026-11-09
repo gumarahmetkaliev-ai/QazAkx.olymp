@@ -1,0 +1,37 @@
+{
+ "setId": "geo-igeo-1996--geo-2-tasks",
+ "olympiadId": "geo-igeo-1996",
+ "title": "География → iGeo (международная) → 1996",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/igeo/1996/geo-2-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T18:11:57.460Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "1996 iGeo – The Hague, The Netherlands\nThe Fieldwork\nThe structure of a typical coastal landscape\n\nIn general the beach can be divided into a zone with regular tidal influence and a higher part, inundated only\nwhen extreme high water levels occur. On this higher part of the beach some pioneer plants with high salt\ntolerance can settle. The dune landscape can be divided in: primary dunes, primary dune valleys and the dune\ncomplex. These morphological units have there own soil and vegetation characteristics (figure 7 + 8).\n\nNearby the sea the sediment contains lime, originating from fragmented shells. Therefore the plants near the\ncoast line have a high lime tolerance. With increasing distance from the coast line the lime content is diminishing\nand other (secondary) plant species with a low lime tolerance can develop. In the older parts of the dune\nlandscape even trees can thrive. The polder can not be divided into significant natural land units because it is\nentirely cultivated now.\n\nThe characteristics of a coastal landscape are summarised in figure 8.\n\nFieldwork: research questions and exercises\n\nThe fieldwork exercise in the Oranjezon area will be carried out along a transect. The observations will focus on\nsoil, soil hydrology, geomorphology and vegetation/land use.\n\nThe main research question is: To what extend the fieldwork area at Oranjezon is a typical coastal landscape?\n(compared with the typical coastal landscape as described in section 3 and figures 7 + 8). Give reasons for your\nanswers and illustrate them with evidence from your fieldwork area.\n\nThe research question should be answered after carrying out the exercises A E in the field and at the lab in the\nschool in Oostkappelle.\n\nIn the field you will work in a multi national group of four. Each group will be provided with a map for every person\nand per group:\n\n        a standard auger\n        plastic bags for soil samples\n        plastic bottles for water samples\n        tables for soil description\n        tables for vegetation description\n        a sample card to determine soil colour\n        a sample card to determine soil texture\n\nEvery group will be accompanied by one of the assistants of the organising committee who will act as an\nobserver. The observer may only respond to questions regarding clarification of the fieldwork exercises.\n\nDuring the fieldwork no contact between groups is allowed.\n\nUpon arrival in the fieldwork area at Oranjezon a transect route will be assigned to you/your group. Walk inland\nfrom the coast line to the polder along the transect route that is assigned to your group. Observe the landscape\nand map the boundaries between the units. After the fieldwork you have to produce a map of the transect with a\nshort description of the landscape units that you have found. Use the information about geomorphology, soil,\nhydrology and vegetation that you have gathered in the field (exercises A/E).\n\nA. Describe the characteristics of the soil of every landscape unit at representative points. A good soil description\nrequires a bore profile (use a standard auger) showing the horizons. Describe soil color and texture and explain\nthe spatial pattern of the soils in the fieldwork area. Use the standard forms and sample tables that are provided.\n\nB. Describe the vegetation at a representative point of every landscape unit. Try to find out which plants are\ncharacteristic for a landscape unit and which plants are more general. Use the standard forms that are provided.\nExplain the spatial pattern of vegetation in the fieldwork area.\n\nC. Take samples of the top horizon in every bore hole en put them the plastic bag that were provided (one plastic\nbag per bore hole). In the lab in the school in Oostkappelle you can sieve the samples and determine the content\nof shell particles by using a stereomicroscope. Explain the different values found for the various landscape units.\n\nD. Take samples of the surface water in the canals and put them in the plastic bottles. In every transect there are\n2 canals: one in the dunes and one in the polder. In the lab in the school at Oostkappelle you have to determine\nthe the chloride content with a test set. Explain the different values found for the various landschape units.\n\nE. Draw a map and a cross section of the landscape along your transect (for an example of a cross section see\nfigure 7). Describe the various landscape units you have found. Include information about geomorphology, soil,\nhydrology and vegetation in your transect area. At the school in Oostkappelle additional copies of the map of the\nfieldwork area will be available.\n\nFinally: answer the main question of the fieldwork exercise.\n\nPresent your results in an in individual report with the following content: - Name - Number of the group/transect -\nTitle of your report - Answers to all the exercises (A/E) - A map and a crossection of your transect, a description\nof the different land units in your transect - An answer to the main research question and your own conclusions.\n\nThe report may not exceed 5 pages. Aside from the map and the crosssection of your transect and the\nexplanatory text the report may include graphs, tables, and additional maps that support your reasoning.\n\nAcknowledgements\n\n        de Jong, C. & ten Brinke, W.: Het Nederlandse Landschap, University of Nijmegen / ten Brinke, Meppel.\n        Pannekoek, A.J. : Geologische Geschiedenis van Nederland, and 6 Staatdrukkerij, Den Haag, 1956.\n        van der Borgt, M. : Grond onder je voeten, Centre for Environmental and 7 Education Zeeland, Goes,\n         1996.\n\nAppendix II\n\nFragment of a Contour Line Map of Zeeland 1:5000, Nutsbedrijf Zeeland, Middelburg.\n\nAppendix III",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

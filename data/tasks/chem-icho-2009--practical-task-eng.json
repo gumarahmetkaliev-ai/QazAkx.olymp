@@ -1,0 +1,139 @@
+{
+ "setId": "chem-icho-2009--practical-task-eng",
+ "olympiadId": "chem-icho-2009",
+ "title": "Химия → IChO (международная) → 2009",
+ "materialLabel": "Practical (Практика на английском)",
+ "lang": "en",
+ "tasksFile": "olympiads/chemistry/s/icho/2009/practical_task_eng.pdf",
+ "solutionFile": "olympiads/chemistry/s/icho/2009/theory_sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T18:33:09.021Z",
+ "quality": {
+  "tasks": 3,
+  "parts": 13,
+  "withPoints": 13,
+  "withReference": 13,
+  "withQuestion": 13,
+  "estimatedPoints": 13
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "– An Environmentally Friendly Aldol Condensation",
+   "weight": null,
+   "total": 9,
+   "statement": "In attempts to become more environmentally friendly, increasing attention is being\npaid to minimising the large amounts of solvents used in chemical reactions. In the\nfollowing experiment, an aldol condensation reaction is carried out in the absence of\nsolvent.\n\n       1. Add 3,4-dimethoxybenzaldehyde (DMBA 0.50 g, 3.0 mmol) and 1-\n       indanone (0.40 g, 3.0 mmol) to a 25 cm3 beaker. Use a metal spatula to\n       scrape and crush the two solids together until they become a clear oil.\n\n       2. Add NaOH (0.1 g, 2.5 mmol) to the reaction mixture, crush any lumps\n       formed and continue scraping and crushing until the mixture becomes solid.\n\n       3. Allow the mixture to stand for 20 minutes. Then add 4 cm3 HCl (3 M\n       aqueous) and scrape around the beaker so as to dislodge all product from\n       the walls. Use a flat-ended glass rod to crush any lumps present.\n\na)     Measure and record the pH of the solution.\n\n       4. Isolate the crude product using vacuum filtration through a Hirsch funnel.\n       Rinse out the beaker with 2 cm3 HCl (3 M aqueous) and pour over the crude\n       product in Hirsch funnel to wash, continuing to pull air through the solid for 10\n       minutes to facilitate drying.\n\nb)     Report the mass of the crude product (which may still be a little wet), using\n       the vial labeled ‘CPA’ as a container.\n\n                          Practical Instructions Page 9 / 14\n\n5.   Take a TLC to assess whether the reaction is complete, using Et2O:heptane\n     (1:1) as the eluant. Solutions of both starting materials in ethyl ethanoate are\n     provided. The crude product is soluble in ethyl ethanoate. [Note: three TLC\n     plates are provided. You may use them all, but you must only submit one in\n     your labelled Ziploc bag. This should be the plate that you draw in your\n     answer booklet.]\n\nc)   Using UV light to visualize, draw around the spots on the plate in pencil to\n     show where they are, copy your plate onto the answer sheet, and place your\n     plate in the Ziploc bag labeled with your student code. Determine and record\n     the relevant RF values.\n\n     6. Using a 100 cm3 conical flask with a stir bar in the bottom, recrystallise the\n     product from 9:1 EtOH:H2O (N.B. A hot filtration, using the glass funnel\n     provided, is required as part of this process to remove small amounts of\n     insoluble impurities). Any lumps may be crushed using the flat-ended glass\n     rod. Allow the conical flask containing the filtered solution to cool to room\n     temperature and then cool in an ice bath (use the polystyrene tray to make\n     the ice bath in) for one hour before filtration through a Buchner funnel to\n     collect your product. Suck air through for 10 minutes to dry the product.\n     Place your product in the vial marked with your code and labeled ‘RPA’.\n\nd)   Report the mass of the purified product.\n\ne)   Determine the potential structures for Product A, using the information on the\n     answer sheet.\n\nf)   The 13C NMR spectrum for A is shown on the next page. Peaks due to the\n     solvent, CDCl3, are marked with an asterisk. With the aid of the spectrum,\n     decide which is the correct formula for A. Mark your answer on the answer\n     sheet.\n\ng)   Calculate the percentage yield of the purified product, based on the formula\n     you gave for its structure.\n\n                       Practical Instructions Page 10 / 14\n\nPractical Instructions Page 11 / 14\n\nPractical Instructions Page 12 / 14",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 1.5,
+     "question": "Add 3,4-dimethoxybenzaldehyde (DMBA 0.50 g, 3.0 mmol) and 1-",
+     "reference": "1.1 Sketch the unit cell and calculate how many Au atoms the cell contains.\n\n1.1 Unit cell:\n@\n.\n%  – yA\n-\n\nNumber of Au atoms т the unit cell:\n\n8 x 1/8 from each corner = 1\n\n6 x % from each face = 3\n\nTotal = 4 atoms",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.2",
+     "points": 1.5,
+     "question": "Add NaOH (0.1 g, 2.5 mmol) to the reaction mixture, crush any lumps",
+     "reference": "1.2 The density of Au is 1.93 - 104 kg т 2. Calculate the volume and mass of the cubic\nunit cell.\n\n1.2 Volume:\n\nV = (0.408 пт)” = 6.79.1079 т?\n\nMass:\n\nт =pV =1.93 -10* кат x 6.79 10-29 п? = 1.31 10°\" kg",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.3",
+     "points": 1.5,
+     "question": "Allow the mixture to stand for 20 minutes. Then add 4 cm3 HCl (3 M",
+     "reference": "1.3 Hence calculate the mass of a gold atom and the Avogadro constant, given that the\n\nrelative atomic mass of Au is 196.97.\n\nMethod В- from radioactive decay (Rutherford, 1911)\n\nThe radioactive decay series of 226Ra is as follows:\n226ра      |        222Б,  3.825 4     218р0   310т    214рр   26.8 т     214;    19.9m\n214ро 164318 210рр 2239, 21ор; 5.0134, 210p, 13844, 206рр\nThe times indicated are half-lives, the units are у = years, d = days, т = minutes. Тһе first\ndecay, marked t above, has a much longer half-life than the others.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 3                          1141\n\n1.3 Mass of Au atom:\n\n-24\nт= 1.31.10 kg  = 3.28.10-2 kg\n4\nAvogadro constant:\n–1\nМа = 199-97 9 M0\" = 6.01.1083 mol”\n3.28.1074\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 3                          1 145\n\n1.4\n2 ене Freee",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.4",
+     "points": 1.5,
+     "question": "Isolate the crude product using vacuum filtration through a Hirsch funnel.",
+     "reference": "1.4 In the table below, identify which transformations are a-decays and which аге\n\nB-decays.\nFey [re\n       See\n       ee ee\n       os\n        Ни\n       ии\n       ии\n        в 4 --\n       ии\n       ии",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.5",
+     "points": 1.5,
+     "question": "Take a TLC to assess whether the reaction is complete, using Et2O:heptane (1:1) as the eluant. Solutions of both starting materials in ethyl ethanoate are provided. The crude product is soluble in ethyl ethanoate. [Note: three TLC plates are provided. You may use them all, but you must only submit one in your labelled Ziploc bag. This should be the plate that you draw in your answer booklet.]",
+     "reference": "1.5 А sample containing 192 mg of 226Ra was purified and allowed to stand for 40 days.\nIdentify the first isotope in the series (excluding Ra) that has not reached a steady\nstate.\n\n1.5 Answer: 7'°Pb\n1.6 2.77-10'°s' x 163 x 24x60x60s = 3.90.107”",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.6",
+     "points": 1.5,
+     "question": "Using a 100 cm3 conical flask with a stir bar in the bottom, recrystallise the",
+     "reference": "1.6 The total rate of a-decay from the sample was then determined by scintillation to be\n27.7 GBg (where 1 Bq = 1 count $ '). Тһе sample was then sealed for 163 days.\nCalculate the number of particles produced.",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "– Analysis of a Copper(II) Complex",
+   "weight": null,
+   "total": 10,
+   "statement": "You are provided with a sample of an inorganic copper(II) complex, the anion of\nwhich is made from copper, chlorine, and oxygen. The counter ion is the tetramethyl\nammonium cation. There is no water of crystallisation. You are required to\ndetermine proportions of copper ions and chloride ions by titration and hence\ndetermine the composition of the complex\n\nTitration to determine the proportion of copper ions\n\n       1. You are provided with three accurately pre-weighed samples of copper\n       complex, each of approximately 0.1 g. These are labeled \"Sample 1\",\n       \"Sample 2\", \"Sample 3\", together with the exact mass of the copper complex.\n       Take the first of these, note down the mass of the sample and quantitatively\n       transfer the contents to a 250 cm3 conical flask using approximately 25 cm3\n       of water.\n\n       2. Add pH 10 ammonia buffer solution until the precipitate which forms\n       initially just redissolves (about 10 drops).\n\n       3. Add 10 drops of the murexide indicator.\n\n       4. Titrate with the 0.0200 mol dm–3 EDTA solution until the solution turns\n       violet and the colour persists for at least 15 seconds. Record the volume of\n       solution used in the titration.\n\n       5. Repeat if necessary with samples 2 and 3.\n\nNote: you will be marked only on a single value you report in the answer booklet.\nThis may either be an average value, or a single value you feel most confident in.\n\na)     Calculate the volume of EDTA solution needed to react completely with\n       0.100 g of complex.\n\nb)     Give an equation for the titration reaction.\n\nc)     Calculate the percentage by mass of copper in the sample.\n\nYou will need to wash out your burette before you start the titration for the\ndetermination of chloride ions. Any remaining EDTA solution may be disposed of into\nthe waste containers labelled ‘EDTA’.\n\n                          Practical Instructions Page 13 / 14\n\nTitration to determine the proportion of chloride ions present\n\n       1. You are provided with three accurately pre-weighed samples of copper\n       complex each of approximately 0.2 g. These are labeled \"Sample 4\",\n       \"Sample 5\", \"Sample 6\", together with the exact mass of the copper complex.\n       Take the first of these, note down the mass of the sample and quantitatively\n       transfer the contents to a 250 cm3 conical flask using approximately 25 cm3\n       of water.\n\n       2. Add 5 drops of ethanoic acid, followed by 10 drops of dichlorofluorescein\n       indicator and 5 cm3 dextrin (2% suspension in water). N.B. Shake the bottle\n       well before adding the dextrin suspension.\n\n       3. Titrate with the 0.1000 mol dm–3 silver nitrate solution, swirling constantly\n       until the white suspension turns pink and the colour does not disappear after\n       swirling.\n\n       4. Repeat if necessary.\n\nNote: you will be marked only on a single value you report in the answer booklet.\nThis may either be an average value, or the value you feel most confident in.\n\nd)     Calculate the volume of silver nitrate solution needed to react completely with\n       0.200 g of complex.\n\ne)     Give an equation for the titration reaction.\n\nf)     Calculate the percentage by mass of chloride ions in the sample.\n\nThe percentage of carbon, hydrogen and nitrogen in the complex was determined by\ncombustion analysis and found to be as follows:\n\nCarbon: 20.87 %              Hydrogen: 5.17 %             Nitrogen: 5.96 %\n\ng)     Mark in the answer booklet, which element in the complex has the greatest\n       percentage error in the determination of its proportion.\n\nh)     Determine the formula of the copper complex. Show your working.\n\n                         Practical Instructions Page 14 / 14",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 2,
+     "question": "You are provided with three accurately pre-weighed samples of copper",
+     "reference": "2.1 Calculate the rate at which H atoms adsorb onto a dust particle. You may assume\nthat this rate is constant throughout.\n\nDesorption of H atoms is first order with respect to the number of adsorbed atoms.\nThe rate constant for the desorption step is kg = 1.9 - 10:36”,\n\n2.1 Answer: 1.4-10~ 6”",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.2",
+     "points": 2,
+     "question": "Add pH 10 ammonia buffer solution until the precipitate which forms",
+     "reference": "2.2 Assuming that only adsorption and desorption take place, calculate the steady-state\nnumber, N, of H atoms on the surface of a dust particle.\n\nТһе H atoms are mobile on the surface. When they meet they react to form Hp,\nwhich then desorbs. The two kinetic models under consideration differ in the way the\nreaction is modelled, but share the same rate constants Ка, kg, and k,, for adsorption,\ndesorption, and bimolecular reaction, as given below.\n\nКа = 1.4 10° ст? s\"\n\nКа= 1.9.1033\"\n\nК,=5.1 - 10° 5\"\n‘THE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, \\оштез 4148\n\nModel A\n\nReaction to form H2 is assumed to be second order. Оп a dust particle the rate of\nremoval of H atoms by reaction is К, М 2\n2.2 Answer: 1.4:10*s'=1.9-:10°s'N => М = 7.4-107",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.3",
+     "points": 2,
+     "question": "Add 10 drops of the murexide indicator.",
+     "reference": "2.3 Write down an equation for the rate of change of М, including adsorption, desorption\n\nand reaction. Assuming steady state conditions, determine the value of N.\n2.3  ам” 0 = k,[H]–k,N–k,N?\ndt\nnecks + К +4k_k,[H]\n2k.\n\nN=5.2-10°",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.4",
+     "points": 2,
+     "question": "Titrate with the 0.0200 mol dm–3 EDTA solution until the solution turns",
+     "reference": "2.4 Calculate the rate of production of Н2 per dust particle in this model.\nModel B\n\nModel В attempts to analyse the probability that the dust particles carry 0, 1 or 2 H\natoms. The three states are linked by the following reaction scheme. The assumption is\nmade that no more than 2 atoms may be adsorbed simultaneously.\n\n1\n0“ 2\n\nХо, X1 and хә are the fractions of dust particles existing in state 0, 1 or 2, respectively.\nThese fractions may be treated in the same way as concentrations in the following kinetic\nanalysis. For a system in state m with fraction xm, the rates of the three possible\nprocesses are\nAdsorption (т – т + 1): rate = К. [Н] Xm\nDesorption (т > т-1): rate = Кат Xm\nReaction (т > т-2): rate = 7% Ак т(т-1) Xm\n2.4 Answer: %К, №=7.0 1055\"\n2.5\n\ndP\n\nҒТА = k, [H]P, – (k,[H] + k,)P, +2k,P,\n\nар, _ КІНІР – (2k, +k,)P,             (remember P is changed to x)\n\ndt\n2.6\n\nВ = ын _ Kale . 27.107\n\nВ (2k,+k,) К,\n\nВ КНИ2к+к,) КН _ 69.102\n\nР К (2К+К,)+КК[Н] k,+k,[H]       |\n2.7\n\nР, - 0.94,\n\nР =0.064,\n\nР, =1.8.10–°\n\n–           –6 -1",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.5",
+     "points": 2,
+     "question": "Repeat if necessary with samples 2 and 3.",
+     "reference": "2.5 Write down equations for the rates of change, хи / dt, of the fractions хо, x; and Хо.",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "– The Critical Micelle Concentration of a Surfactant",
+   "weight": null,
+   "total": 10,
+   "statement": "Surfactants are used extensively in many everyday cleaning products, such as\nshampoos or detergents for washing clothes. One such surfactant is SDS, sodium n-\ndodecyl sulfate, CH3(CH2)11OSO3Na (Relative Molecular Mass: 288.37).\n\nVery dilute aqueous solutions consist of solvated individual molecules of SDS.\nHowever, if the concentration is gradually increased beyond a specific concentration,\nthe concentration of monomeric SDS does not change, but instead the surfactant\nbegins to form clusters known as micelles. It is these micelles that assist in the\nremoval of grease and dirt. The concentration at which the micelles form is called the\ncritical micelle concentration. This process is shown schematically in the figure\nbelow.\n\nlow SDS concentration                       high SDS concentration\nfree monomer only                           micelles and some free monomer\n\nIn this experiment, you will determine the critical micelle concentration of SDS by\nmeasuring the conductivity of different concentrations of SDS.\n\n   1. You are provided with approximately 4.3 g SDS, accurately pre-weighed in a\n      vial, a 250 cm3 volumetric flask, a 50 cm3 burette, 50 cm3 bulb pipette, a\n      conductivity meter, conductivity solution (used only for calibration), and a tall\n        plastic vessel.\n\n   2.    You need to measure the conductivity (σ, in µS cm–1) of various\n        concentrations of aqueous SDS (c, up to 30 mmol dm–3). [Note: you may\n        assume all volumes are additive.]\n\n                          Practical Instructions Page 15 / 14\n\na) Give the concentration of your stock SDS solution.\n\nb) Use the table given in the answer booklet to record your results and plot a\n   suitable graph to determine the critical micelle concentration (CMC) on the paper\n   provided.\n\nc) State the concentration at which micelles begin to form (the critical micelle\n   concentration).\n\nNotes\n\n   1) Solutions of SDS readily form bubbles if shaken.\n\n   2) The conductivity meter needs at least 50 cm3 of solution to be inside the\n      plastic vessel in order to work correctly.\n\n   3) To calibrate the meter:\n\n          •   Switch the meter on by pressing the ON/OFF button once.\n\n          •   Press and hold the ON/OFF button again, this time for about 3 seconds,\n              until you see the letters ‘CAL’ on the screen, indicating that the\n              calibration mode has been entered. Let go of the ON/OFF button and\n              ‘1413’ will start blinking on the display. To calibrate, carry out the next\n              step immediately, before the meter has reverted back to reading ‘0’ on\n              the screen (meaning you have exited the calibration mode)\n\n          •   Immerse the probe in the pouch containing the ‘HI 70031’ calibration\n              solution, without exceeding the maximum immersion level.\n\n          •   Stir gently and wait for about 20 seconds to confirm the reading.\n\n          •   Once the display stops blinking, the meter is calibrated and ready for\n              use.\n\n          •   Rinse the meter with distilled water and dry before making\n              measurements.\n\n   4) To record the reading:\n\n          •   Switch the meter on by pressing the ON/OFF button\n\n          •   Immerse the probe in the sample without exceeding the maximum\n              immersion level and being above the minimum immersion level.\n\n          •   Stir gently and wait for the reading to stabilize. The meter automatically\n              compensates for temperature variations.\n\n          •   The                                                           conductivity\n\n                          Practical Instructions Page 16 / 14\n\nvalue of the sample will be shown on the LCD.\n\n           Practical Instructions Page 17 / 14",
+   "parts": [
+    {
+     "id": "3.1",
+     "points": 5,
+     "question": "You are provided with approximately 4.3 g SDS, accurately pre-weighed in a vial, a 250 cm3 volumetric flask, a 50 cm3 burette, 50 cm3 bulb pipette, a conductivity meter, conductivity solution (used only for calibration), and a tall plastic vessel.",
+     "reference": "3.1 Assuming that the fluorescence intensity from each species is directly proportional to\nits concentration, calculate the fraction, x, of unfolded molecules present at each\ntemperature.",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.2",
+     "points": 5,
+     "question": "You need to measure the conductivity (σ, in µS cm–1) of various concentrations of aqueous SDS (c, up to 30 mmol dm–3). [Note: you may assume all volumes are additive.] Practical Instructions Page 15 / 14",
+     "reference": "3.2 Give an expression for the equilibrium constant, K, in terms of x, and hence calculate\nthe value of K at each temperature.",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

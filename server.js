@@ -137,7 +137,7 @@ const server = http.createServer(async (req, res) => {
     } else {
       filePath = path.join(ROOT_DIR, "index.html");
     }
-  } else if (pathname.startsWith("/auth/") || pathname === "/progress" || pathname === "/account") {
+  } else if (pathname.startsWith("/auth/") || pathname === "/progress" || pathname === "/books" || pathname === "/account") {
     filePath = path.join(ROOT_DIR, "index.html");
   } else {
     filePath = path.join(ROOT_DIR, pathname);

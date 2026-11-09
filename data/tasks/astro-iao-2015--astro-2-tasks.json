@@ -1,0 +1,37 @@
+{
+ "setId": "astro-iao-2015--astro-2-tasks",
+ "olympiadId": "astro-iao-2015",
+ "title": "Астрономия → IAO (международная) → 2015",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/iao/2015/astro-2-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T18:21:44.621Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "СТРОНОМИЧЕСКОЕ      $ і \"           EURO-ASIAN\nАст ОБШЕСТВО           ағ |      ASTRONOMICAL SOCIETY        Roun а     О b 5\n——ы=ы=ы=—=ы=ы“ А\n=                  Group | @ | В.\n+     ХХ Международная астрономическая  олимпиада      rouP\nе” :     е        XX International Astronomy Olympiad\n-                                                                 ‚зы | English\n2;          Бі        Россия, Татарстан, Казань      15 - 23. Х. 2015      Kazan, Tatarstan, Russia\nм—\nObservational round. Questions.\nPlanetarium\n8. The Moon.\nYou have 3 minutes to read the problem.\nThen accelerated animation of the Moon's motion will be shown twice during 4\nminutes.\nMoreover at the 2™ time the\nanimation will be paused at the\nbeginning and at the end.                                    Answer:\nAfter that you will have 2 minutes\nto write an answer.\nFind out the month of the\nobservation.                                                                                 22\n9. Motion of the planets.\nYou have 2.5 minutes to read the problem.\nThen an accelerated animation of the Sun's and planets's motion relative to stars\nwill be shown twice during 5 minutes. Moreover at the 2\" time the animation will be\npaused at the beginning and at the end.\nAfter that you will have 2 minutes to write the answers.\nAnswer:\n9.1. Estimate dates (+/- 1 week)                                                      |\nof the beginning and of the end of\nthe animation.                                                                                        |\n9.2. Write, which constellations                             Answer:\n(their standard three-letter\ndesignation) the Mars and the\nVenus had passed.                   |                                                       |\nРоссия, Татарстан, Казань                  2015                  Kazan, Tatarstan, Russia\n\nАСТРОНОМИЧЕСКОЕ               EURO-ASIAN                Round\nОБШЕСТВО       —   ASTRONOMICAL SOCIETY\nе”...\n=                  Group | @ | B |\n+     ХХ Международная астрономическая  олимпиада\n39     2        ХХ International Astronomy Olympiad  Русский\nа Жы     @\\       Россия, Татарстан, Казань      15 - 23. Х. 2015      Kazan, Tatarstan, Russia    _ язык |    English\n=\nд\nCode of participant          Koo участника                          Draw number        Номер по жеребьёвке\nВопросы наблюдательного тура.          Observational round. Questions.\nОблачное небо                                       Cloudy sky\nНаблюдения в телескоп                       Observations with telescope\n10. Очертание.                                   10. Outline.\nНедавно астрономы обнаружили              Recently, astronomers һауе\nновое рассеянное звёздное скопление.      discovered а new open cluster.\n10.1. Наведите телескоп на ero копию.      10.1. Point the telescope to its сору.\nЗарисуйте конфигурацию «звёзд».             Draw configuration of the «stars».\n~     В     —\n10.2. Один из астрономов узнал в           10.2. One of astronomers recognized\nочертаниях скопления знакомое                familiar constellation in the outlines of\nсозвездие. Напишите ero стандартное        the cluster. Write the standard three-\nтрехбуквенное обозначение.                    letter designation of that constellation.\nөтеп   Re   “\nМаксимальное время выполнения            Тһе maximum total time for all tasks\nзадания - 11 минут.                              is 11 minutes.\nРоссия, Татарстан, Казань                  2015                  Kazan, Tatarstan, Russia",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

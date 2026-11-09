@@ -1,0 +1,112 @@
+{
+ "setId": "math-imo-1988--math-tasks",
+ "olympiadId": "math-imo-1988",
+ "title": "Математика → IMO (международная) → 1988",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1988/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:42.056Z",
+ "quality": {
+  "tasks": 6,
+  "parts": 6,
+  "withPoints": 6,
+  "withReference": 0,
+  "withQuestion": 6,
+  "estimatedPoints": 6
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Consider two coplanar circles of radii R and r (R > r) with the same center.\n   Let P be a fixed point on the smaller circle and B a variable point on the larger\n   circle. The line BP meets the larger circle again at C. The perpendicular l to\n   BP at P meets the smaller circle again at A. (If l is tangent to the circle at P\n   then A = P .)\n\n    (i) Find the set of values of BC 2 + CA2 + AB 2 .\n   (ii) Find the locus of the midpoint of BC.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Let n be a positive integer and let A1 , A2 , . . . , A2n+1 be subsets of a set B.\n   Suppose that\n\n    (a) Each Ai has exactly 2n elements,\n   (b) Each Ai ∩ Aj (1 ≤ i < j ≤ 2n + 1) contains exactly one element, and\n    (c) Every element of B belongs to at least two of the Ai .\n\n   For which values of n can one assign to every element of B one of the numbers\n   0 and 1 in such a way that Ai has 0 assigned to exactly n of its elements?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "A function f is defined on the positive integers by\n\n                                f (1)   =   1, f (3) = 3,\n                              f (2n)    =   f (n),\n                          f (4n + 1)    =   2f (2n + 1) − f (n),\n                          f (4n + 3)    =   3f (2n + 1) − 2f (n),\n\n   for all positive integers n.\n   Determine the number of positive integers n, less than or equal to 1988, for\n   which f (n) = n.\n\n               29th International Mathematical Olympiad\n                             Canberra, Australia\n                                    Day II",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "Show that set of real numbers x which satisfy the inequality\n                                    70\n                                    X    k    5\n                                            ≥\n                                    k=1\n                                        x−k   4\n\n   is a union of disjoint intervals, the sum of whose lengths is 1988.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "ABC is a triangle right-angled at A, and D is the foot of the altitude from A.\n   The straight line joining the incenters of the triangles ABD, ACD intersects\n   the sides AB, AC at the points K, L respectively. S and T denote the areas of\n   the triangles ABC and AKL respectively. Show that S ≥ 2T .",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "Let a and b be positive integers such that ab + 1 divides a2 + b2 . Show that\n\n                                         a2 + b2\n                                         ab + 1\n   is the square of an integer.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "setId": "chem-kaz-sbory-2018-dec--exam-8-org-2",
+ "olympiadId": "chem-kaz-sbory-2018-dec",
+ "title": "Химия → Сборы сборной РК → 2018-Dec",
+ "materialLabel": "Exam 8 org 2",
+ "lang": "ru",
+ "tasksFile": "olympiads/chemistry/s/kaz_sbory/2018-Dec/exam-8-org-2.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T18:56:56.919Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 2,
+   "title": "Birch sugar Pe 3",
+   "weight": null,
+   "total": 10,
+   "statement": "5   са ДЕРІ ДН\nnm) Аа а\nMonosaccharide Ais a xylose. This name derives from the Greek word for wo     ye\noe SS Reno, и. er ys А     BEERS VLE   yr wood and |     ;\nthe occurrence of this st Bar ‘in bark (woo а sugar). А modi att    Tet    ТЕ ОҒАН\nи АО                 УА      sta     (xyhtol о:   in\nsugar) is fo re п birch trees. Xylitol nas won relevance for dl Aapetics а5 а с   8    сх   р   ;\nи Ё тана И:\nЕ.     ak\nRs а г а\" : i 5  _ NaBH,  By    ;          пом                               NID,\nio Paes,   Е     <<    et НН    2%                |   A\nHint; Substance Е is idose and is name accord            oMene\npentahydroxyhexanal. |                       |         is (25 ЗВ 4S ER.",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

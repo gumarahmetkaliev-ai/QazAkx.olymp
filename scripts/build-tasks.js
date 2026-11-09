@@ -19,6 +19,8 @@ const path = require("path");
 const { execFileSync } = require("child_process");
 const { parseOlympiad, qualityReport } = require("../lib/task-parser");
 const { parseTestSet, testToTasks } = require("../lib/test-parser");
+const { parseNumbered } = require("../lib/numbered-parser");
+const { linearize } = require("../lib/columns");
 
 const ROOT = path.join(__dirname, "..");
 const PUBLIC_DIR = path.join(ROOT, "public");
@@ -202,6 +204,58 @@ function isGood(q) {
   );
 }
 
+const SUBJECT = args.subject || "chemistry";
+const NEW_SUBJECT = !["chemistry", "biology"].includes(SUBJECT);
+
+/** Оценка разбора: задачи с эталоном и правдоподобное число задач */
+function score(tasks) {
+  const q = qualityReport(tasks);
+  if (!q.tasks) return -1;
+  const blob = q.tasks === 1 && q.parts <= 1 ? 0.5 : 1;
+  return (q.withReference * 2 + q.parts + q.tasks) * blob;
+}
+
+/** Физика, математика, информатика, астрономия, география */
+function parseNewSubject(tasksText, solText, olymp, mat) {
+  const lt = linearize(tasksText).text;
+  const ls = linearize(solText).text;
+  const test = parseTestSet(lt, ls) || parseTestSet(tasksText, solText);
+  if (test) return { tasks: testToTasks(test, 10, null), test, generatedBy: "test-parser" };
+  const opts = { grade: mat.grade ?? olymp.grade, round: mat.round, lang: mat.lang === "kz" ? "kz" : mat.lang === "en" ? "en" : "ru" };
+  const numbered = parseNumbered(tasksText, solText, opts);
+  if (SUBJECT === "informatics") for (const t of numbered) t.parts[0].question = "Опишите алгоритм и приложите код (на любом языке). Укажите сложность.";
+  if (SUBJECT === "math" || SUBJECT === "informatics") {
+    if (numbered.length) return { tasks: numbered, generatedBy: "numbered-parser" };
+  }
+  const variants = [
+    { tasks: parseOlympiad(lt, ls), generatedBy: "parser" },
+    { tasks: parseOlympiad(tasksText, solText), generatedBy: "parser" },
+    { tasks: numbered, generatedBy: "numbered-parser" },
+  ];
+  variants.sort((a, b) => score(b.tasks) - score(a.tasks));
+  return variants[0];
+}
+
+function wholeTask(tasksText, solText) {
+  const clean = (t) => linearize(t).text.replace(/\f/g, "\n").replace(/[ \t]+$/gm, "").replace(/\n{3,}/g, "\n\n").trim();
+  const ref = solText ? clean(solText).slice(0, 15000) : "";
+  return {
+    number: 1,
+    title: "Задания тура",
+    statement: clean(tasksText).slice(0, 15000),
+    total: 10,
+    parts: [
+      {
+        id: "1",
+        question: "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+        points: 10,
+        pointsEstimated: true,
+        reference: ref,
+      },
+    ],
+  };
+}
+
 async function main() {
   loadEnv();
   if (!fs.existsSync(CATALOG_PATH)) execFileSync(process.execPath, [path.join(__dirname, "build-catalog.js"), `--subject=${args.subject || "chemistry"}`], { stdio: "inherit" });
@@ -216,11 +270,19 @@ async function main() {
     if (args.stage && olymp.stage !== args.stage) continue;
     if (args.year && String(olymp.year) !== String(args.year)) continue;
     for (const mat of olymp.materials) {
-      if (mat.kind !== "tasks" || !mat.solutionId) continue;
+      // химия/биология — только с официальным решением; новые предметы — и без него (ИИ оценивает по существу)
+      // без официального решения ИИ оценивает по существу
+      if (!(mat.kind === "tasks" || ((mat.asTasks || mat.selfSolution) && mat.setId))) continue;
       if (args.set && !String(args.set).split(",").includes(mat.setId)) continue;
-      const sol = olymp.materials.find((m) => m.id === mat.solutionId);
+      let sol = mat.solutionId ? olymp.materials.find((m) => m.id === mat.solutionId) : null;
+      if (mat.selfSolution) sol = mat; // условие и решение в одном файле
+      if (!sol && mat.kind === "tasks") {
+        // одно общее «Решения» на оба дня (EGMO, IZhO): задачи найдутся в нём по тексту условия
+        const sols = olymp.materials.filter((m) => m.kind === "sol" && (m.round == null || m.round === mat.round));
+        if (sols.length === 1) sol = sols[0];
+      }
       const exists = (m) => m && fs.existsSync(path.join(PUBLIC_DIR, m.localPath));
-      if (!exists(mat) || !exists(sol)) continue;
+      if (!exists(mat) || (sol && !exists(sol))) continue;
       const outPath = path.join(TASKS_DIR, `${mat.setId}.json`);
       if (fs.existsSync(outPath) && !args.force) {
         // --ai без --force: перепроверить только слабые комплекты, собранные парсером
@@ -236,12 +298,19 @@ async function main() {
 
   async function runJob({ olymp, mat, sol, outPath }) {
     const tasksText = await pdfText(path.join(PUBLIC_DIR, mat.localPath));
-    const solText = await pdfText(path.join(PUBLIC_DIR, sol.localPath));
-    // Тест с ключом (биология: «80 вопросов с одним правильным ответом») — проверяется без ИИ
-    const test = parseTestSet(tasksText, solText);
-    let tasks = test ? testToTasks(test) : parseOlympiad(tasksText, solText);
+    const solText = sol ? await pdfText(path.join(PUBLIC_DIR, sol.localPath)) : "";
+    let tasks;
+    let test = null;
+    let generatedBy;
+    if (NEW_SUBJECT) {
+      ({ tasks, test, generatedBy } = parseNewSubject(tasksText, solText, olymp, mat));
+    } else {
+      // Тест с ключом (биология: «80 вопросов с одним правильным ответом») — проверяется без ИИ
+      test = parseTestSet(tasksText, solText);
+      tasks = test ? testToTasks(test) : parseOlympiad(tasksText, solText);
+      generatedBy = test ? "test-parser" : "parser";
+    }
     let q = qualityReport(tasks);
-    let generatedBy = test ? "test-parser" : "parser";
     const label = `${olymp.title} · ${mat.label}`;
 
     if (!test && !isGood(q) && args.ai && tasksText.replace(/\s/g, "").length > 300) {
@@ -261,6 +330,12 @@ async function main() {
       }
     }
 
+    if (!q.tasks && tasksText.replace(/\s/g, "").length > 80) {
+      // Последний вариант: весь тур — одна задача с одним полем ответа
+      tasks = [wholeTask(tasksText, solText)];
+      q = qualityReport(tasks);
+      generatedBy = "whole-document";
+    }
     if (!q.tasks) {
       console.log(`✗ ${label}: задачи не найдены`);
       weak++;
@@ -275,7 +350,8 @@ async function main() {
       materialLabel: mat.label,
       lang: mat.lang,
       tasksFile: mat.localPath,
-      solutionFile: sol.localPath,
+      solutionFile: sol ? sol.localPath : null,
+      ...(sol ? {} : { noSolution: true }),
       generatedBy,
       ...(test ? { type: "test" } : {}),
       generatedAt: new Date().toISOString(),
@@ -292,7 +368,15 @@ async function main() {
   let next = 0;
   await Promise.all(
     Array.from({ length: Math.max(1, concurrency) }, async () => {
-      while (next < jobs.length) await runJob(jobs[next++]);
+      while (next < jobs.length) {
+        const job = jobs[next++];
+        try {
+          await runJob(job);
+        } catch (err) {
+          weak++;
+          console.warn(`✗ ${job.mat.setId}: ${String(err.message).split("\n")[0]}`);
+        }
+      }
     })
   );
   console.log(`\nГотово: собрано ${built}, пропущено (уже есть) ${skipped}, требуют проверки ${weak}.`);

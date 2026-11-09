@@ -1,0 +1,105 @@
+{
+ "setId": "math-imo-2012--math-tasks",
+ "olympiadId": "math-imo-2012",
+ "title": "Математика → IMO (международная) → 2012",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/2012/math-tasks.pdf",
+ "solutionFile": "olympiads/math/s/imo/2012/math-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:35.342Z",
+ "quality": {
+  "tasks": 6,
+  "parts": 6,
+  "withPoints": 6,
+  "withReference": 6,
+  "withQuestion": 6,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Given triangle ABC the point J is the centre of the excircle opposite the vertex A.\nThis excircle is tangent to the side BC at M , and to the lines AB and AC at K and L, respectively.\nThe lines LM and BJ meet at F , and the lines KM and CJ meet at G. Let S be the point of\nintersection of the lines AF and BC, and let T be the point of intersection of the lines AG and BC.\n    Prove that M is the midpoint of ST .\n\n    (The excircle of ABC opposite the vertex A is the circle that is tangent to the line segment BC,\nto the ray AB beyond B, and to the ray AC beyond C.)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "G1. In the triangle ABC the point J is the center of the excircle opposite to A. This excircle\nis tangent to the side BC at M, and to the lines AB and AC at K and L respectively. The\nlines LM and BJ meet at F , and the lines KM and CJ meet at G. Let S be the point of\nintersection of the lines AF and BC, and let T be the point of intersection of the lines AG\nand BC. Prove that M is the midpoint of ST ."
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Let n ≥ 3 be an integer, and let a2 , a3 , . . . , an be positive real numbers such that\na2 a3 · · · an = 1. Prove that\n\n                               (1 + a2 )2 (1 + a3 )3 · · · (1 + an )n > nn .",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "A3. Let a2 , . . . , an be n − 1 positive real numbers, where n ≥ 3, such that a2 a3 · · · an = 1.\nProve that\n                               (1 + a2 )2 (1 + a3 )3 · · · (1 + an )n > nn ."
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "The liar’s guessing game is a game played between two players A and B. The rules\nof the game depend on two positive integers k and n which are known to both players.\n    At the start of the game A chooses integers x and N with 1 ≤ x ≤ N . Player A keeps x secret,\nand truthfully tells N to player B. Player B now tries to obtain information about x by asking player\nA questions as follows: each question consists of B specifying an arbitrary set S of positive integers\n(possibly one specified in some previous question), and asking A whether x belongs to S. Player\nB may ask as many such questions as he wishes. After each question, player A must immediately\nanswer it with yes or no, but is allowed to lie as many times as she wants; the only restriction is\nthat, among any k + 1 consecutive answers, at least one answer must be truthful.\n    After B has asked as many questions as he wants, he must specify a set X of at most n positive\nintegers. If x belongs to X, then B wins; otherwise, he loses. Prove that:\n\n  1. If n ≥ 2k , then B can guarantee a win.\n\n  2. For all sufficiently large k, there exists an integer n ≥ 1.99k such that B cannot guarantee a\n     win.\n\nLanguage: English                                                          Time: 4 hours and 30 minutes\n                                                                           Each problem is worth 7 points\n\n                                                                              Language:             English\n\n                                                                                                        Day:   2\n\n                                                                                Wednesday, July 11, 2012",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "C6. Let k and n be fixed positive integers. In the liar’s guessing game, Amy chooses integers\nx and N with 1 ≤ x ≤ N. She tells Ben what N is, but not what x is. Ben may then repeatedly\nask Amy whether x ∈ S for arbitrary sets S of integers. Amy will always answer with yes or no,\nbut she might lie. The only restriction is that she can lie at most k times in a row. After he\nhas asked as many questions as he wants, Ben must specify a set of at most n positive integers.\nIf x is in this set he wins; otherwise, he loses. Prove that:\n     a) If n ≥ 2k then Ben can always win.\n     b) For sufficiently large k there exist n ≥ 1.99k such that Ben cannot guarantee a win.\n\nSolution. Consider an answer A ∈ {yes, no} to a question of the kind “Is x in the set S?”\nWe say that A is inconsistent with a number i if A = yes and i 6∈ S, or if A = no and i ∈ S.\nObserve that an answer inconsistent with the target number x is a lie.\n    a) Suppose that Ben has determined a set T of size m that contains x. This is true initially\nwith m = N and T = {1, 2, . . . , N}. For m > 2k we show how Ben can find a number y ∈ T\nthat is different from x. By performing this step repeatedly he can reduce T to be of size 2k ≤ n\nand thus win.\n    Since only the size m > 2k of T is relevant, assume that T = {0, 1, . . . , 2k , . . . , m−1}. Ben\nbegins by asking repeatedly whether x is 2k . If Amy answers no k + 1 times in a row, one\nof these answers is truthful, and so x 6= 2k . Otherwise Ben stops asking about 2k at the first\nanswer yes. He then asks, for each i = 1, . . . , k, if the binary representation of x has a 0 in\nthe ith digit. Regardless of what the k answers are, they are all inconsistent with a certain\nnumber y ∈ {0, 1, . . . , 2k − 1}. The preceding answer yes about 2k is also inconsistent with y.\nHence y 6= x. Otherwise the last k + 1 answers are not truthful, which is impossible.\n    Either way, Ben finds a number in T that \u0004 is different \u0005 from x, and the claim is proven.\n                                                        k+1\n    b) We prove that if 1 < λ < 2 and n = (2 − λ)λ           − 1 then Ben cannot guarantee a win.\nTo complete the proof, then it suffices to take λ such that 1.99 < λ < 2 and k large enough so\nthat                                   \u0004           \u0005\n                                   n = (2 − λ)λk+1 − 1 ≥ 1.99k .\n   Consider the following strategy for Amy. First she chooses N = n+1 and x ∈ {1, 2, . . . , n+1}\narbitrarily. After every answer of hers Amy determines, for each i = 1, 2, . . . , n + 1, the\nnumber mi of consecutive answers she has given by that point that are inconsistent with i. To\ndecide on her next answer, she then uses the quantity\n                                                 n+1\n                                                 X\n                                            φ=         λmi .\n                                                 i=1\n\nNo matter what Ben’s next question is, Amy chooses the answer which minimizes φ.\n    We claim that with this strategy φ will always stay less than λk+1 . Consequently no expo-\nnent mi in φ will ever exceed k, hence Amy will never give more than k consecutive answers\ninconsistent with some i. In particular this applies to the target number x, so she will never lie\nmore than k times in a row. Thus, given the claim, Amy’s strategy is legal. Since the strategy\ndoes not depend on x in any way, Ben can make no deductions about x, and therefore he cannot\nguarantee a win.\n    It remains to show that φ < λk+1 at all times.\n                                             \u0004      Initially\n                                                            \u0005 each mi is 0, so this condition  holds\n                                                        k+1                            k+1\nin the beginning due to 1 < λ < 2 and n = (2 − λ)λ           − 1. Suppose that φ < λ        at some\npoint, and Ben has just asked if x ∈ S for some set S. According as Amy answers yes or no,\nthe new value of φ becomes\n                         X      X                            X            X\n                    φ1 =    1+      λmi +1     or      φ2 =      λmi +1 +     1.\n                          i∈S     i∈S\n                                   /                           i∈S          i∈S\n                                                                             /\n\n                                                                                            27\n\nSince Amy chooses the option minimizing φ, the new φ will equal min(φ1 , φ2 ). Now we have\n                                                                     !\n                    1             1 X             \u0001  X             \u0001     1\n     min(φ1 , φ2 ) ≤ (φ1 + φ2 ) =       1 + λmi +1 +    λmi +1 + 1     = (λφ + n + 1).\n                    2             2 i∈S                                  2\n                                                                i∈S\n                                                                 /\n                                               \u0004           \u0005\nBecause φ < λk+1, the assumptions λ < 2 and n = (2 − λ)λk+1 − 1 lead to\n\n                                            1\n                             min(φ1 , φ2 ) < (λk+2 + (2 − λ)λk+1 ) = λk+1 .\n                                            2\nThe claim follows, which completes the solution.\n\nComment. Given a fixed k, let f (k) denote the minimum value of n for which Ben can guarantee a\nvictory. The problem asks for a proof that for large k\n\n                                             1.99k ≤ f (k) ≤ 2k .\n\nA computer search shows that f (k) = 2, 3, 4, 7, 11, 17 for k = 1, 2, 3, 4, 5, 6.\n\n28"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "Find all functions f : Z → Z such that, for all integers a, b, c that satisfy a + b + c = 0,\nthe following equality holds:\n\n                    f (a)2 + f (b)2 + f (c)2 = 2f (a)f (b) + 2f (b)f (c) + 2f (c)f (a).\n\n(Here Z denotes the set of integers.)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "A1. Find all the functions f : Z → Z such that\n                   f (a)2 + f (b)2 + f (c)2 = 2f (a)f (b) + 2f (b)f (c) + 2f (c)f (a)\n\nfor all integers a, b, c satisfying a + b + c = 0."
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "Let ABC be a triangle with ∠BCA = 90◦ , and let D be the foot of the altitude from\nC . Let X be a point in the interior of the segment CD. Let K be the point on the segment AX\nsuch that BK = BC . Similarly, let L be the point on the segment BX such that AL = AC . Let M\nbe the point of intersection of AL and BK .\n    Show that M K = M L.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "G5.      Let ABC be a triangle with ∠BCA = 90◦ , and let C0 be the foot of the altitude\nfrom C. Choose a point X in the interior of the segment CC0 , and let K, L be the points on\nthe segments AX, BX for which BK = BC and AL = AC respectively. Denote by M the\nintersection of AL and BK. Show that MK = ML."
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "Find all positive integers n for which there exist non-negative integers a1 , a2 , . . . , an\nsuch that\n                         1   1            1     1   2            n\n                           +    + · · · + an = a1 + a2 + · · · + an = 1.\n                        2a1 2a2          2     3   3            3\n\nLanguage: English                                                         Time: 4 hours and 30 minutes\n\n                                                                          Each problem is worth 7 points",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "N7. Find all n ∈ N for which there exist nonnegative integers a1 , a2 , . . . , an such that\n                        1    1           1    1    2            n\n                         a\n                           + a\n                               + · · · +  a\n                                            =  a\n                                                 + a\n                                                     + · · · +     = 1.\n                        21 22            2n   31 32            3an"
+    }
+   ]
+  }
+ ]
+}

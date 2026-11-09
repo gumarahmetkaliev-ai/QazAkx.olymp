@@ -1,0 +1,142 @@
+{
+ "setId": "math-oblast-2001-11--math11-1-tasks",
+ "olympiadId": "math-oblast-2001-11",
+ "title": "Математика → Областная → 2001 → 11 класс",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/oblast/2001/11/math11-1-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:40.897Z",
+ "quality": {
+  "tasks": 8,
+  "parts": 8,
+  "withPoints": 8,
+  "withReference": 0,
+  "withQuestion": 8,
+  "estimatedPoints": 8
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Дана последовательность чисел {an }, удовлетворяющих условиям a125         = 0, ai ⋅\n      aj = ai+j ⋅ (ai + aj ), для любых натуральных i, j . Чему равно a2000 , если a2001 =\n      2000?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Решить в натуральных числах уравнение a4 + a3 + a2 + a + 1 = b2 .",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "В остроугольном треугольнике ABC на стороне BC выбрана точка D. Пусть E\n      и F — основания перпендикуляров, опущенных из точки D на стороны AB и\n      AC соответственно. Докажите, что если DE 2 + DF 2 принимает минимальное из\n      всех возможных значений, то угол между AD и биссектрисой угла A равен углу\n      между биссектрисой и медианой, опущенных из вершины A.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "Докажите, что любое целое число представимо в виде x2 + y 2 + z 3 , где x, y и z\n      — целые числа.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "Клетчатая доска 2001 × 2001 разбита на фигурки трех видов                              .\n      Докажите, что фигурок первого вида не меньше чем 4003.\n                                                                      2         n",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "Докажите неравенство (1 + a1 )(1 + a2 ) … (1 + an ) ≤ 1 + s + s2! + ⋯ + sn! , где ai > 0\n      , i = 1, 2, …, n и s = a1 + a2 + ⋯ + an .",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Задача 7",
+   "statement": "Дан четырехугольник ABCD и точка F внутри него. Известно, что ABCF —\n      параллелограмм. Докажите, что\n\n                           SABC ⋅ SACD + SAF D ⋅ SF CD = SABD ⋅ SBCD .",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Задача 8",
+   "statement": "Даны натуральные числа q , n и r, 0 < r ≤ n. Докажите, что число (q n − 1)(q n −\n      q ) … (q n − q r−1 ) делится на r!.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "8",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

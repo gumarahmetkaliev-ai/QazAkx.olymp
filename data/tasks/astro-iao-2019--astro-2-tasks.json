@@ -1,0 +1,37 @@
+{
+ "setId": "astro-iao-2019--astro-2-tasks",
+ "olympiadId": "astro-iao-2019",
+ "title": "Астрономия → IAO (международная) → 2019",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/iao/2019/astro-2-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T18:21:44.476Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Below are questions of the Observational Round. This round\nwas held at night on 22 October 2019 in the freezing cold in\nStadium Ceahlaul (football stadium of Piatra Neamt,\nRomania).\n\n               OBSERVATIONAL ROUND\n\n             ANSWER ALL SIX QUESTIONS\n\n                      (25 MINUTES)",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

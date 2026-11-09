@@ -130,3 +130,38 @@ console.log("format tests: OK");
   assert.strictEqual(new Set(recs.map((r) => r.book.replace(/-\d+$/, ""))).size, recs.length, "разные книги");
   console.log("books tests: OK");
 }
+
+// Новые предметы: колонки, нумерованные задачи, сопоставление решений по тексту условия
+{
+  const { linearize, langOf } = require("../lib/columns");
+  const { parseNumbered } = require("../lib/numbered-parser");
+  const { parseSourcePage, classifyFile } = require("../lib/chem-catalog");
+  const { subjectOf } = require("../lib/jury");
+  const kz = ["1. Барлық жай сандарды табыңыз, мұндағы p", "қосындысы тақ болатын.", "", "2. Үшбұрыштың қабырғасы берiлген ABC", "ұзындығын табыңыз."];
+  const ru = ["1. Найдите все простые числа p, для которых", "сумма нечётна и делится на три.", "", "2. Дан треугольник ABC со стороной", "найдите длину высоты BH."];
+  const lines = [];
+  for (let i = 0; i < 10; i++) lines.push((kz[i % 5] || "").padEnd(60) + (ru[i % 5] || ""));
+  const lin = linearize(lines.join("\n"));
+  assert.strictEqual(lin.split, 1, "двухколоночная страница разрезана");
+  assert.strictEqual(langOf(ru.join(" ")), "ru");
+  assert.strictEqual(langOf(kz.join(" ")), "kz");
+
+  const tasks = "Каждая задача оценивается в 7 баллов\n1. Найдите все простые p, такие что p^2 + 2 тоже простое.\n2. В треугольнике ABC проведена биссектриса AL. Докажите, что BL/LC = AB/AC.\n";
+  const sol = "Решения\n1. Найдите все простые p, такие что p^2 + 2 тоже простое.\nОтвет: p = 3. Решение. Если p ≠ 3, то p^2 + 2 делится на 3.\n2. В треугольнике ABC проведена биссектриса AL. Докажите, что BL/LC = AB/AC.\nРешение. По теореме синусов…\n";
+  const parsed = parseNumbered(tasks, sol);
+  assert.strictEqual(parsed.length, 2);
+  assert.strictEqual(parsed[0].parts[0].points, 7);
+  assert(!parsed[0].parts[0].pointsEstimated);
+  assert(/p = 3/.test(parsed[0].parts[0].reference));
+  assert(/синусов/.test(parsed[1].parts[0].reference));
+
+  const info = parseSourcePage("https://olympiads.bc-pf.org/physics/s/IPhO/2023");
+  assert.strictEqual(info.subjectPrefix, "phys");
+  assert.strictEqual(info.stageLabel, "IPhO (международная)");
+  assert.strictEqual(classifyFile("phys10-2-tasks.pdf").grade, 10);
+  assert.strictEqual(classifyFile("phys10-2-tasks.pdf").round, 2);
+  assert.strictEqual(classifyFile("cs-1-tasks_kaz.pdf").lang, "kz");
+  assert.strictEqual(subjectOf("math-imo-2019--math-tasks"), "math");
+  assert.strictEqual(subjectOf("chem-oblast-2023-9--chem9-1-tasks"), "chemistry");
+  console.log("new subjects tests: OK");
+}

@@ -1,0 +1,37 @@
+{
+ "setId": "cs-national-2012-10--cs10-1-tasks",
+ "olympiadId": "cs-national-2012-10",
+ "title": "Информатика → Республиканская → 2012 → 10 класс",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/informatics/national/2012/10/cs10-1-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T18:21:43.646Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "N ×N\n            N2\n\n                 90\n\n                                         N2\n\n                      K 1 ≤ K ≤ 10\n               K\n    N 1 ≤ N ≤ 100                    N\nN\n\n                  K\n\n                         S = s1 s2 s3 ...sn       T = t1 t2 t3 ...tm\n                      R = S + T = s1 s2 ...sn t1 t2 ...tm\n          R = S · T = s1 t1 s1 t2 s1 t3 ...s1 tm s2 t1 ...s2 tm ...sn t1 ...sn tm\n(S · T ) · R #= S · (T · R)\n\n           K\n\n                                                                                    100000\n\n                      K 1 ≤ K ≤ 1018                                  K\n\n                              10 · X + Y   X\n                     Y\n\n                          T                        R\n\nR=T                      R = 0.75 · T\n       R = 0.5 · T                             R = 0.25 · T\n      R=0\n\n                 N\n\n                     A                       B                       B\n                 A\n\n                                                     N       M 1 ≤ N ≤ 10000\n1 ≤ M ≤ 100000           M                               A    B\nB                            A 1 ≤ A, B ≤ N A #= B",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,898 @@
+{
+ "setId": "geo-igeo-2008--geo-3-tasks",
+ "olympiadId": "geo-igeo-2008",
+ "title": "География → iGeo (международная) → 2008",
+ "materialLabel": "3 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/igeo/2008/geo-3-tasks.pdf",
+ "solutionFile": "olympiads/geography/s/igeo/2008/geo-3-sol.pdf",
+ "generatedBy": "test-parser",
+ "type": "test",
+ "generatedAt": "2026-11-09T18:11:57.122Z",
+ "quality": {
+  "tasks": 3,
+  "parts": 30,
+  "withPoints": 30,
+  "withReference": 30,
+  "withQuestion": 30,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Тест: вопросы 1–10",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q1",
+     "kind": "choice",
+     "points": 1,
+     "question": "1. Here are three photographs. They were all taken in the same country. Look carefully. In which country were they taken? We will show you all the photographs twice. A Kuwait B Gambia C Yemen D Turkey",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q2",
+     "kind": "choice",
+     "points": 1,
+     "question": "2. Here are three photographs. They were all taken in the same country. Look carefully. In which country were they taken? We will show you all the photographs twice. A Spain B Canada C Zimbabwe D Philippines",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q3",
+     "kind": "choice",
+     "points": 1,
+     "question": "3. This photograph was taken in a city located on a coast in the eastern hemisphere near the equator. Which two cities are located at the same longitude as the city in the photograph? A Caracas and Miami B Karachi and Jakarta C Tokyo and Adelaide D Tunis and Dar es Salaam",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q4",
+     "kind": "choice",
+     "points": 1,
+     "question": "4. This photograph illustrates: A a canyon B a wadi C an alluvial plain D a river",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q5",
+     "kind": "choice",
+     "points": 1,
+     "question": "5. The map shows: A C is an exclave of A B C is an exclave of B C A is an enclave of C D C is an enclave of B 2 Multimedia Test International Geography Olympiad Carthage 2008",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q6",
+     "kind": "choice",
+     "points": 1,
+     "question": "6. The map shows nitrogen dioxide pollution in Europe as observed by a satellite in 2004. The main cause of this pollution is:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Power stations"
+      },
+      {
+       "key": "B",
+       "text": "Emissions from agriculture"
+      },
+      {
+       "key": "C",
+       "text": "Road transport"
+      },
+      {
+       "key": "D",
+       "text": "Incinerators"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q7",
+     "kind": "choice",
+     "points": 1,
+     "question": "7. Map A shows in green the distribution of a phenomenon. Map B shows in pink the distribution of another phenomenon. Which is correct?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Map A shows the distribution of coral reefs and map B shows the distribution of volcanoes"
+      },
+      {
+       "key": "B",
+       "text": "Map A shows the distribution of mangroves and map B shows the distribution of volcanoes"
+      },
+      {
+       "key": "C",
+       "text": "Map A shows the distribution of mangroves and map B shows the distribution of coral reefs"
+      },
+      {
+       "key": "D",
+       "text": "Map A shows the distribution of coral reefs and map B shows the distribution of mangroves"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q8",
+     "kind": "choice",
+     "points": 1,
+     "question": "8. This map of the United States shows the distribution of :",
+     "options": [
+      {
+       "key": "A",
+       "text": "Poverty"
+      },
+      {
+       "key": "B",
+       "text": "Black population"
+      },
+      {
+       "key": "C",
+       "text": "Badlands"
+      },
+      {
+       "key": "D",
+       "text": "Hispanics"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q9",
+     "kind": "choice",
+     "points": 1,
+     "question": "9. This picture from the USA shows a:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Hurricane in Florida"
+      },
+      {
+       "key": "B",
+       "text": "Tornado in Alabama"
+      },
+      {
+       "key": "C",
+       "text": "Wild fire in Utah"
+      },
+      {
+       "key": "D",
+       "text": "Volcanic eruption in Maine"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q10",
+     "kind": "choice",
+     "points": 1,
+     "question": "10. Here are four small images. All images show the effects of",
+     "options": [
+      {
+       "key": "A",
+       "text": "El Nino"
+      },
+      {
+       "key": "B",
+       "text": "Biodiversity"
+      },
+      {
+       "key": "C",
+       "text": "Typhoons"
+      },
+      {
+       "key": "D",
+       "text": "Global warming 3 Multimedia Test International Geography Olympiad Carthage 2008"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Тест: вопросы 11–20",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q11",
+     "kind": "choice",
+     "points": 1,
+     "question": "11. The top ten producers of this product are shown in yellow. What is the product?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Bananas"
+      },
+      {
+       "key": "B",
+       "text": "Cotton"
+      },
+      {
+       "key": "C",
+       "text": "Coffee"
+      },
+      {
+       "key": "D",
+       "text": "Rice"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q12",
+     "kind": "choice",
+     "points": 1,
+     "question": "12. This photo of central pivot irrigation is typical of",
+     "options": [
+      {
+       "key": "A",
+       "text": "USA"
+      },
+      {
+       "key": "B",
+       "text": "New Zealand"
+      },
+      {
+       "key": "C",
+       "text": "Finland"
+      },
+      {
+       "key": "D",
+       "text": "Indonesia"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q13",
+     "kind": "choice",
+     "points": 1,
+     "question": "13. This map shows two factors. Which combination is shown on this map?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Births and natural increase"
+      },
+      {
+       "key": "B",
+       "text": "Domestic animals and agricultural productivity"
+      },
+      {
+       "key": "C",
+       "text": "Imports and inflation"
+      },
+      {
+       "key": "D",
+       "text": "Population and GNP"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q14",
+     "kind": "choice",
+     "points": 1,
+     "question": "14. This world map shows height in brown and depth in blue. In a correct legend for this map, which is the correct pair?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A is higher than 1000 m and B is between 0 and -2500 m"
+      },
+      {
+       "key": "B",
+       "text": "A is higher than 1000 m and B is between 0 and - 500 m"
+      },
+      {
+       "key": "C",
+       "text": "A is higher than 3000 m and B is between 0 and -2500 m"
+      },
+      {
+       "key": "D",
+       "text": "A is higher than 3000 m and B is between 0 and - 500 m"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q15",
+     "kind": "choice",
+     "points": 1,
+     "question": "15. Look at A and B on this map of Africa. How will the distance between A and B change in the coming ten thousand years?",
+     "options": [
+      {
+       "key": "A",
+       "text": "unpredictable"
+      },
+      {
+       "key": "B",
+       "text": "decrease"
+      },
+      {
+       "key": "C",
+       "text": "increase"
+      },
+      {
+       "key": "D",
+       "text": "no change 4 Multimedia Test International Geography Olympiad Carthage 2008"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q16",
+     "kind": "choice",
+     "points": 1,
+     "question": "16. This figure shows a network of roads and cities in a certain region. If all roads and cities are equal, which statement is correct?",
+     "options": [
+      {
+       "key": "A",
+       "text": "City A has the highest accessibility and a high connectivity"
+      },
+      {
+       "key": "B",
+       "text": "City B has the highest accessibility and a high connectivity"
+      },
+      {
+       "key": "C",
+       "text": "City C has the highest accessibility and a high connectivity"
+      },
+      {
+       "key": "D",
+       "text": "City D has the highest accessibility and a high connectivity"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q17",
+     "kind": "choice",
+     "points": 1,
+     "question": "17. Where was the picture taken?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Location 1"
+      },
+      {
+       "key": "B",
+       "text": "Location 2"
+      },
+      {
+       "key": "C",
+       "text": "Location 3"
+      },
+      {
+       "key": "D",
+       "text": "Location 4 18.What is the name of the organization to which these countries belong? A. OPEC B. OECD C. NATO D. WTO"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q18",
+     "kind": "choice",
+     "points": 1,
+     "question": "18. Условие этого вопроса — в PDF (рисунок или таблица).",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q19",
+     "kind": "choice",
+     "points": 1,
+     "question": "19. This is the flag of Nauru. The star represents the position of Nauru in relation to:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Antarctic Circle"
+      },
+      {
+       "key": "B",
+       "text": "Equator"
+      },
+      {
+       "key": "C",
+       "text": "Tropic of Capricorn"
+      },
+      {
+       "key": "D",
+       "text": "Tropic of Cancer"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q20",
+     "kind": "choice",
+     "points": 1,
+     "question": "20. For an inhabitant of Dakar it is:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Morning in March"
+      },
+      {
+       "key": "B",
+       "text": "Evening in June"
+      },
+      {
+       "key": "C",
+       "text": "Evening in September"
+      },
+      {
+       "key": "D",
+       "text": "Morning in December 5 Multimedia Test International Geography Olympiad Carthage 2008"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Тест: вопросы 21–30",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q21",
+     "kind": "choice",
+     "points": 1,
+     "question": "21. This cartogram was created in 2006. It shows",
+     "options": [
+      {
+       "key": "A",
+       "text": "World oil and gas imports"
+      },
+      {
+       "key": "B",
+       "text": "World grain production"
+      },
+      {
+       "key": "C",
+       "text": "World automobile production"
+      },
+      {
+       "key": "D",
+       "text": "Increase in world urbanisation"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q22",
+     "kind": "choice",
+     "points": 1,
+     "question": "22. Which of the following geographical terms does NOT relate to the picture?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Convectional rainfall"
+      },
+      {
+       "key": "B",
+       "text": "Cumulus cloud"
+      },
+      {
+       "key": "C",
+       "text": "Condensation"
+      },
+      {
+       "key": "D",
+       "text": "Relief rainfall"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q23",
+     "kind": "choice",
+     "points": 1,
+     "question": "23. Images of four cities are shown on the next slide. To which of these cities does the climate graph correspond?",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q24",
+     "kind": "choice",
+     "points": 1,
+     "question": "24. Условие этого вопроса — в PDF (рисунок или таблица).",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q25",
+     "kind": "choice",
+     "points": 1,
+     "question": "25. This image is taken in Brisbane at 11 AM. The top of the image is:",
+     "options": [
+      {
+       "key": "A",
+       "text": "East"
+      },
+      {
+       "key": "B",
+       "text": "West"
+      },
+      {
+       "key": "C",
+       "text": "North"
+      },
+      {
+       "key": "D",
+       "text": "South 6 Multimedia Test International Geography Olympiad Carthage 2008"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q26",
+     "kind": "choice",
+     "points": 1,
+     "question": "26. This river rises in eastern Tibet and empties into the South China Sea. What is its name? A Chang Jiang (Yangtze) B Huang He (Yellow River) C Irrawaddy D Mekong",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q27",
+     "kind": "choice",
+     "points": 1,
+     "question": "27. On the left hand side is a climate graph. Precipitation is shown by blue bars. The red line shows the maximum temperature. The green line shows the minimum temperature. The climate graph belongs to which place number on the map?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Location 1"
+      },
+      {
+       "key": "B",
+       "text": "Location 2"
+      },
+      {
+       "key": "C",
+       "text": "Location 3"
+      },
+      {
+       "key": "D",
+       "text": "Location 4"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q28",
+     "kind": "choice",
+     "points": 1,
+     "question": "28. This map of Brazil shows the degree of poverty in different parts of the country. The highest poverty rates at the end of last century were found in the region where:",
+     "options": [
+      {
+       "key": "A",
+       "text": "The population density is very low and the temperature is very hot"
+      },
+      {
+       "key": "B",
+       "text": "The water supply is of poor quality and the land tenure system is out of date"
+      },
+      {
+       "key": "C",
+       "text": "The distance to the core areas of Brazil and the rest of the world is great"
+      },
+      {
+       "key": "D",
+       "text": "The people have a different cultural background and there is no freedom of speech"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q29",
+     "kind": "choice",
+     "points": 1,
+     "question": "29. This film shows the origin of:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Trade winds"
+      },
+      {
+       "key": "B",
+       "text": "Monsoons"
+      },
+      {
+       "key": "C",
+       "text": "Depressions"
+      },
+      {
+       "key": "D",
+       "text": "Typhoons or hurricanes"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q30",
+     "kind": "choice",
+     "points": 1,
+     "question": "30. What do we call the phenomenon shown in the film?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Mud flow"
+      },
+      {
+       "key": "B",
+       "text": "Gelifluction"
+      },
+      {
+       "key": "C",
+       "text": "Landslide"
+      },
+      {
+       "key": "D",
+       "text": "Rockfall 7 Multimedia Test International Geography Olympiad Carthage 2008"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "setId": "astro-ioaa-2012--astro-3-tasks",
+ "olympiadId": "astro-ioaa-2012",
+ "title": "Астрономия → IOAA (международная) → 2012 → 5 класс",
+ "materialLabel": "3 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/ioaa/2012/astro-3-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T18:21:44.739Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Name:                                                   Country:\n\n                 Observational Exam – 1st attempt\n1 – Estimate the field of view of this telescope, using 10mm Plöss eyepiece and\nstar chart-1, showing nearby region of open cluster NGC 6231. Star chart 1\nshows two angular distances. Use them as reference. Express your answer in arc\nminutes and tenths of it.\n\n2 – Use star chart-2 to estimate the magnitude of the missing star, shown as a\ncross, inside NGC 6231. Use the magnitude of other stars as reference.\nNote: To avoid confusion between decimal dots and real stars, dots where\nsupressed. So, magnitude 60 corresponds to magnitude 6.0. Give your answer\nusing one decimal figure and 0.1 precision.\n\n3 – Point your telescope to the binary star  - Trianguli Australis using star\nchart-3 as a guide. That pair components are magnitude 4.1 and 9.3 separated by\n82”. Choose the best option for the correct color of each star:\n\nBrighter:   White/blue (       ) Yellow (   )          Red (       )\n\nDimmer:     White/blue (       ) Yellow (   )          Red (       )\n\n4 – Identify objects pointed by the evaluator as Open Cluster (OC), Globular\nCluster (GC), Emission Nebulae (EN) or Planetary Nebulae (PN).\n\n            Object 1       (   )                 Object 3      (       )\n\n            Object 2       (   ):                Object 4      (       )\n\n5 – Use your green laser pointer to spot the stars Antares, Vega, Altair and\nPeacock. Also point to the constellation Corona Australis.\n\n                       Material needed for each student:\n\nRed flashlight, green laser pointer, chair, table, pencil, rubber and\nclipboard.\n\nName:                               Country:\n\n        Observational Exam – 1st attempt\n        Chart 1 – NGC 6231 Field of view\n\nName:                               Country:\n\n        Observational Exam – 1st attempt\n              Chart 2 – NGC 6231\n\nName:                                   Country:\n\n           Observational Exam – 1st attempt\n        Chart 3 - □ Trianguli Australis location\n\nName: _                                                    Country:\n\n                Observational Exam – 2nd attempt\n1 – Use your green laser pointer to aim at 3 zodiacal constellations of your\nchoice.\n\n2 – Point to  and  scorpii (star chart-4), two binary stars. Use 2x Barlow +\n10mm eyepiece to determine the main difference on both stars, besides\ndifferences in distance between the components and magnitude.\n\n3 – Point your telescope to the star SAO 209318 (star chart-5). Pay attention to\na small nebulous patch close to that star. Use your 10mm or 10mm + 2x Barlow\nto estimate the distance between the star and the nebulous patch, in arc minutes.\n(coordinates to SAO 209318 are RA: 17h50m51s and Dec: -37°02’). Express\nyour answer using 0.5’ precision, knowing that field of view of the 10mm\neyepiece on this telescope is 24 arcminutes or 0.4º.\n\n4 – Point your telescope to the binary star Albireo (-Cygni) using star chart-6\nas guide. That pair components are magnitude 3.2 and 4.7 separeted by 34.8”\n(2010). Choose the best option for the correct color of each star:\n\nBrighter:    White ( ) blue (     )   Yellow (   )              Red (     )\n\nDimmer:      White ( ) blue (     )   Yellow (   )              Red (     )\n\n5 – Identify objects pointed by the evaluator as Open Cluster (OC), Globular\nCluster (GC), Emission Nebulae (EN) or Planetary Nebulae (PN).\n\n            Object 1     (   )                       Object 3   (     )\n\n            Object 2     (   ):                      Object 4   (     )\n\n                       Material needed for each student:\n\nRed flashlight, green laser pointer, chair, table, pencil, rubber             and\nclipboard.\n\nName: _                                Country:\n\n          Observational Exam – 2nd attempt\n                  Chart 4 – Scorpius\n\nName: _                                Country:\n\n          Observational Exam – 2nd attempt\n                  Chart 5 – Scorpius\n\nName: _                               Country:\n\n          Observational Exam – 2nd attempt\n                  Chart 6 – Cygnus",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

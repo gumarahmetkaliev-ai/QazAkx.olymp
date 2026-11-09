@@ -1,0 +1,105 @@
+{
+ "setId": "math-imo-2017--math-tasks",
+ "olympiadId": "math-imo-2017",
+ "title": "Математика → IMO (международная) → 2017",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/2017/math-tasks.pdf",
+ "solutionFile": "olympiads/math/s/imo/2017/math-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:30.521Z",
+ "quality": {
+  "tasks": 6,
+  "parts": 6,
+  "withPoints": 6,
+  "withReference": 6,
+  "withQuestion": 6,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "For each integer a0 > 1, define the sequence a0 , a1 , a2 , . . . by:\n                         \u001a √          √\n                              an    if an is an integer,\n                 an+1 =                                      for each n ⩾ 0.\n                            an + 3 otherwise,\n\nDetermine all values of a0 for which there is a number A such that an = A for infinitely many values\nof n.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "N1.        The sequen e a0 , a1 , a2 , . . . of positive integers satis\u001ces\n                           #?                   ?\n                              an ,         if    an is an integer\n                    an`1 “                                                   for every n ě 0.\n                            an ` 3,        otherwise\n\nDetermine all values of a0 ą 1 for whi h there is at least one number a su h that an “ a for\nin\u001cnitely many values of n.\n                                                                                                    (South Afri a)"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Let R be the set of real numbers. Determine all functions f : R → R such that, for\nall real numbers x and y,\n                             f (f (x)f (y)) + f (x + y) = f (xy).",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "A3.       Let S be a \u001cnite set, and let A be the set of all fun tions from S to S . Let f be an\nelement of A, and let T “ f pSq be the image of S under f . Suppose that f ˝ g ˝ f ‰ g ˝ f ˝ g\nfor every g in A with g ‰ f . Show that f pT q “ T .\n                                                                                                  (India)"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "A hunter and an invisible rabbit play a game in the Euclidean plane. The rabbit’s\nstarting point, A0 , and the hunter’s starting point, B0 , are the same. After n − 1 rounds of the game,\nthe rabbit is at point An−1 and the hunter is at point Bn−1 . In the nth round of the game, three\nthings occur in order.\n\n  (i) The rabbit moves invisibly to a point An such that the distance between An−1 and An is\n      exactly 1.\n\n (ii) A tracking device reports a point Pn to the hunter. The only guarantee provided by the tracking\n      device to the hunter is that the distance between Pn and An is at most 1.\n\n(iii) The hunter moves visibly to a point Bn such that the distance between Bn−1 and Bn is\n      exactly 1.\n\n   Is it always possible, no matter how the rabbit moves, and no matter what points are reported\nby the tracking device, for the hunter to choose her moves so that after 109 rounds she can ensure\nthat the distance between her and the rabbit is at most 100?\n\nLanguage: English                                                       Time: 4 hours and 30 minutes\n                                                                        Each problem is worth 7 points\n\n                                                   English (eng), day 2\n\n                                                                                  Wednesday, July 19, 2017",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "C5.         A hunter and an invisible rabbit play a game in the Eu lidean plane. The hunter's\n                                                                                   th\nstarting point H0        oin ides with the rabbit's starting point R0 . In the n         round of the game\n(n ě 1), the following happens.\n     (1) First the invisible rabbit moves se retly and unobserved from its          urrent point Rn´1 to\nsome new point Rn with Rn´1 Rn “ 1.\n                                                                                         1\n   (2) The hunter has a tra king devi e (e.g. dog) that returns an approximate position Rn of\n                        1\nthe rabbit, so that Rn Rn ď 1.\n   (3) The hunter then visibly moves from point Hn´1 to a new point Hn with Hn´1 Hn “ 1.\n                                                                   9\n   Is there a strategy for the hunter that guarantees that after 10 su h rounds the distan e\nbetween the hunter and the rabbit is below 100?\n                                                                                                 (Austria)\n\nShortlisted problems                                                                                                7"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "Let R and S be different points on a circle Ω such that RS is not a diameter. Let `\nbe the tangent line to Ω at R. Point T is such that S is the midpoint of the line segment RT . Point\nJ is chosen on the shorter arc RS of Ω so that the circumcircle Γ of triangle JST intersects ` at two\ndistinct points. Let A be the common point of Γ and ` that is closer to R. Line AJ meets Ω again\nat K. Prove that the line KT is tangent to Γ.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "G2.       Let R and S be distin t points on ir le Ω, and let t denote the tangent line to Ω\n              1\nat R. Point R is the re\u001de tion of R with respe t to S . A point I is hosen on the smaller ar\nRS of Ω so that the ir um ir le Γ of triangle ISR1 interse ts t at two di\u001berent points. Denote\nby A the ommon point of Γ and t that is           losest to R. Line AI meets Ω again at J . Show\n       1\nthat JR is tangent to Γ.\n                                                                                         (Luxembourg)"
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "An integer N ⩾ 2 is given. A collection of N (N + 1) soccer players, no two of whom\nare of the same height, stand in a row. Sir Alex wants to remove N (N − 1) players from this row\nleaving a new row of 2N players in which the following N conditions hold:\n\n (1) no one stands between the two tallest players,\n\n (2) no one stands between the third and fourth tallest players,\n    ..\n     .\n\n(N ) no one stands between the two shortest players.\n\nShow that this is always possible.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "C4.        Let N ě 2 be an integer. NpN ` 1q so           er players, no two of the same height, stand\nin a row in some order. Coa h Ralph wants to remove NpN ´ 1q people from this row so that\nin the remaining row of 2N players, no one stands between the two tallest ones, no one stands\nbetween the third and the fourth tallest ones, . . . , and \u001cnally no one stands between the two\nshortest ones. Show that this is always possible.\n                                                                                                  (Russia)"
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "An ordered pair (x, y) of integers is a primitive point if the greatest common divisor\nof x and y is 1. Given a finite set S of primitive points, prove that there exist a positive integer n\nand integers a0 , a1 , . . . , an such that, for each (x, y) in S, we have:\n\n                     a0 xn + a1 xn−1 y + a2 xn−2 y 2 + · · · + an−1 xy n−1 + an y n = 1.\n\nLanguage: English                                                           Time: 4 hours and 30 minutes\n                                                                            Each problem is worth 7 points",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "N7.         Say that an ordered pair px, yq of integers is an              irredu ible latti e point if x and\ny are relatively prime. For any \u001cnite set S of irredu ible latti e points, show that there is a\nhomogenous polynomial in two variables, f px, yq, with integer oe\u001e ients, of degree at least 1,\nsu h that f px, yq “ 1 for ea h px, yq in the set S .\n   Note: A homogenous polynomial of degree n is any nonzero polynomial of the form\n\n                 f px, yq “ a0 xn ` a1 xn´1 y ` a2 xn´2 y 2 ` ¨ ¨ ¨ ` an´1 xy n´1 ` an y n .\n\n                                                                                                   (U.S.A.)"
+    }
+   ]
+  }
+ ]
+}

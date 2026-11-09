@@ -1,0 +1,82 @@
+{
+ "setId": "math-musab-2023--math-tasks",
+ "olympiadId": "math-musab-2023",
+ "title": "Математика → Мусабаев (MUSAB) → 2023",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/musab/2023/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:25.386Z",
+ "quality": {
+  "tasks": 4,
+  "parts": 4,
+  "withPoints": 4,
+  "withReference": 0,
+  "withQuestion": 4,
+  "estimatedPoints": 4
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "На сторонах BC, CA, AB треугольника ABC выбраны\nсоответственно точки K, L, M , а внутри треугольника выбрана точка P\nтак, что\n                  P L ∥ BC, P M ∥ CA, P K ∥ AB.\nМожет ли оказаться, что все три трапеции AM P L, BKP M , CLP K —\nописанные?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Найти все натуральные a, b, c, такие что\n                                      ab + bc + ca\n                        [a, b, c] =                .\n                                           4\nЗдесь [x, y] — наименьшее общее кратное чисел x и y.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Даны 2023 шара и натуральное число k. Каждый воз-\nдушный шар был надут до определённого размера (не обязательно оди-\nнакового). На каждом шаге можно выбрать не более k шариков и прирав-\nнять их размеры к среднему арифметическому. Определите наименьшее\nзначение k, при котором, какими бы ни были начальные размеры, можно\nсделать все шарики одинакового размера за конечное число шагов.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "Пусть\n\n                       P (x) = x2023 + ax2022 + p,\n\nгде a — нечётное число, а p — простое. Оказалось, что P (x) можно пред-\nставить в виде произведения двух многочленов с целыми коэффициен-\nтами. Найдите p.\n\n                                       1",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

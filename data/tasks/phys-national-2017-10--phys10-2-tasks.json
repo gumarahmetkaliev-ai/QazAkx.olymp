@@ -1,0 +1,67 @@
+{
+ "setId": "phys-national-2017-10--phys10-2-tasks",
+ "olympiadId": "phys-national-2017-10",
+ "title": "Физика → Республиканская → 2017 → 10 класс",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/physics/national/2017/10/phys10-2-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T18:37:15.657Z",
+ "quality": {
+  "tasks": 3,
+  "parts": 3,
+  "withPoints": 3,
+  "withReference": 0,
+  "withQuestion": 3,
+  "estimatedPoints": 3
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "изложите методику вашего эксперимента, получив все необходимые соотношения;",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "проведите необходимые измерения и представьте их результаты в виде таблиц и графиков;",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "оцените погрешность полученного результата.\nЗамечание: помните, что представленная вами работа представляет собой отчет о проделанном\nэксперименте. Если из вашего отчета не ясно, что вы делали, какие единицы использовали, или как\nпроводили расчет, то значит, вы этого не делали!\n\nСайыстың ұзақтығы 3 сағат / Продолжительность тура 3часа.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

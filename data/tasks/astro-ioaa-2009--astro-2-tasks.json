@@ -1,0 +1,51 @@
+{
+ "setId": "astro-ioaa-2009--astro-2-tasks",
+ "olympiadId": "astro-ioaa-2009",
+ "title": "Астрономия → IOAA (международная) → 2009",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/ioaa/2009/astro-2-tasks.pdf",
+ "solutionFile": "olympiads/astronomy/s/ioaa/2009/astro-2-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T18:05:28.803Z",
+ "quality": {
+  "tasks": 2,
+  "parts": 2,
+  "withPoints": 2,
+  "withReference": 0,
+  "withQuestion": 2,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 16,
+   "title": "High Altitude Projectile",
+   "weight": null,
+   "total": 45,
+   "statement": "A projectile which starts from the surface of the Earth at the sea level is launched with the initial\n                                                                                                      𝜋\nspeed of 𝑣∘ =    (𝐺𝑀/𝑅) and with the projecting angle (with respect to the local horizon) of 𝜃 = 6 .\n𝑀 and 𝑅 are the mass and radius of the Earth respectively. Ignore the air resistance and rotation of the\nEarth.\n\n    a) Show that the orbit of the projectile is an ellipse with a semi-major axis of 𝑎 = 𝑅.\n    b) Calculate the highest altitude of the projectile with respect to the Earth surface (in the unit of\n       the Earth radius).\n    c) What is the range of the projectile (distance between launching point and falling point) in the\n       units of the earth radii?\n    d) What is eccentricity (e) of this elliptical orbit?\n    e) Find the time of flight for the projectile.",
+   "parts": [
+    {
+     "id": "16.1",
+     "points": 45,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 17,
+   "title": "Apparent number density of stars in the Galaxy",
+   "weight": null,
+   "total": 45,
+   "statement": "Let us model the number density of stars in the disk of Milky Way Galaxy with a simple exponential\n                            𝑟−𝑅0\nfunction of 𝑛 = 𝑛0 exp⁡\n                      (−         ) , where 𝑟 represents the distance from the center of the Galaxy, 𝑅0 is\n                             𝑅𝑑\nthe distance of the Sun from the center of the Galaxy, 𝑅𝑑 is the typical size of disk and 𝑛0 is the\nstellar density of disk at the position of the Sun. An astronomer observes the center of the Galaxy\nwithin a small field of view. We take a particular type of Red giant stars (red clump) as the standard\ncandles for the observation with approximately constant absolute magnitude of 𝑀 = −0.2,\n\n    a)  Considering a limiting magnitude of 𝑚 = 18 for a telescope, calculate the maximum\n       distance that telescope can detect the red clump stars. For simplicity we ignore the presence\n       of interstellar medium so there is no extinction.\n    b) Assume an extinction of 0.7 𝑚𝑎𝑔/𝑘𝑝𝑐 for the interstellar medium. Repeat the calculation as\n       done in the part (a) and obtain a rough number for the maximum distance these red giant stars\n       can be observed.\n    c) Give an expression for the number of these red giant stars per magnitude within a solid angle\n                                                                                                    ∆𝑁\n         of Ω that we can observe with apparent magnitude in the range of 𝑚 and 𝑚 + ∆𝑚, (i.e. ∆𝑚 ).\n         Red giant stars contribute fraction 𝑓 of overall stars. In this part assume no extinction in the\n         interstellar medium as part (a). Assume the size of the disk is larger than maximum\n         observable distance.\n\n                                                    9",
+   "parts": [
+    {
+     "id": "17.1",
+     "points": 45,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

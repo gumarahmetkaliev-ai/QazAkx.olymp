@@ -1,0 +1,37 @@
+{
+ "setId": "astro-iao-1999--astro-2-tasks",
+ "olympiadId": "astro-iao-1999",
+ "title": "Астрономия → IAO (международная) → 1999",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/iao/1999/astro-2-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T18:25:31.032Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "IV International Astronomy Olympiad, Problems to solve\n\nObservational round\n9.1. Name the distance between the Moon and Jupiter in degree. Show how did you find the result.\n\n9.2. Find and name the five brightesr stars of autumn sky. Which one is the brightest?\n\n9.3. Define the period since new moon for today.\n\n                                                      MGG * Naucnnyj * 1999 * Crimea\n\n© Dr. M.G.Gavrilov, ISSP RAS, Chairman of the Olympic Coordinating Council, 1999.\n\n http://www.issp.ac.ru/iao/1999/problems/vi99us_e.html    (5 of 4) [04.05.2009 07:01:44]",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

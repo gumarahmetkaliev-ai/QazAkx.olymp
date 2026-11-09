@@ -1,0 +1,63 @@
+{
+ "setId": "math-egmo-2020--math-1-tasks",
+ "olympiadId": "math-egmo-2020",
+ "title": "Математика → EGMO → 2020",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/egmo/2020/math-1-tasks.pdf",
+ "solutionFile": "olympiads/math/s/egmo/2020/math-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:27.671Z",
+ "quality": {
+  "tasks": 3,
+  "parts": 3,
+  "withPoints": 3,
+  "withReference": 2,
+  "withQuestion": 3,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Целые положительные числа a0 , a1 , a2 , . . . , a3030 таковы, что\n\n                              2an+2 = an+1 + 4an при всех n = 0, 1, 2, . . . , 3028.\n\nДокажите, что хотя бы одно из чисел a0 , a1 , a2 , . . . , a3030 делится на 22020 .",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "Problem 1.        The positive integers a0 , a1 , a2 , . . . , a3030 satisfy\n\n                               2an+2 = an+1 + 4an for n = 0, 1, 2, . . . , 3028.\n\nProve that at least one of the numbers a0 , a1 , a2 , . . . , a3030 is divisible by 22020 ."
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Найдите все наборы (x1 , x2 , . . . , x2020 ) неотрицательных вещественных чисел таких,\nчто выполняются следующие три условия:\n\n  (i) x1 ⩽ x2 ⩽ . . . ⩽ x2020 ;\n\n (ii) x2020 ⩽ x1 + 1;\n\n(iii) существует перестановка (y1 , y2 , . . . , y2020 ) набора (x1 , x2 , . . . , x2020 ) такая, что\n                                                2020\n                                                X                                       2020\n                                                                                        X\n                                                                              \u00012\n                                                           (xi + 1)(yi + 1)        =8          x3i .\n                                                 i=1                                    i=1\n\nПерестановкой набора называется набор такой же длины, что и исходный, с теми же элемен-\nтами, но элементы в нём могут быть расположены в ином порядке.\nНапример, (2, 1, 2) является перестановкой (1, 2, 2), и они оба являются перестановками набора\n(2, 2, 1). Отметим, что любой набор является своей перестановкой.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "Problem 2. Find all lists (x1 , x2 , . . . , x2020 ) of non-negative real numbers such that the fol-\nlowing three conditions are all satisfied:\n  (i) x1 ≤ x2 ≤ . . . ≤ x2020 ;\n\n (ii) x2020 ≤ x1 + 1;\n (iii) there is a permutation (y1 , y2 , . . . , y2020 ) of (x1 , x2 , . . . , x2020 ) such that\n                                         2020                                2020\n                                         X                         \u00012        X\n                                                (xi + 1)(yi + 1)        =8          x3i .\n                                          i=1                                i=1\n\nA permutation of a list is a list of the same length, with the same entries, but the entries are\nallowed to be in any order. For example, (2, 1, 2) is a permutation of (1, 2, 2), and they are both\npermutations of (2, 2, 1). Note that any list is a permutation of itself."
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Пусть ABCDEF — выпуклый шестиугольник такой, что ∠A = ∠C = ∠E и ∠B =\n= ∠D = ∠F и биссектрисы внутренних углов ∠A, ∠C и ∠E пересекаются в одной точке.\nДокажите, что биссектрисы внутренних углов ∠B, ∠D и ∠F тоже пересекаются в одной точке.\n\nОбратим внимание, что внутренний угол ∠A = ∠F AB. Другие внутренние углы шестиуголь-\nника определяются аналогично.\n\nLanguage: Русский                                                                         Время работы: 4 часа 30 минут\n                                                                                   Каждая задача оценивается из 7 баллов\n\n Чтобы олимпиада была честной и доставила всем удовольствие, пожалуйста, не\nупоминайте и не пишите ничего про задачи в интернете и любых социальных сетях\nдо 01:00 ночи 19 апреля по московскому времени.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

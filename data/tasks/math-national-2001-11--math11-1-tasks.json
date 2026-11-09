@@ -1,0 +1,67 @@
+{
+ "setId": "math-national-2001-11--math11-1-tasks",
+ "olympiadId": "math-national-2001-11",
+ "title": "Математика → Республиканская → 2001 → 11 класс",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/national/2001/11/math11-1-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:40.993Z",
+ "quality": {
+  "tasks": 3,
+  "parts": 3,
+  "withPoints": 3,
+  "withReference": 0,
+  "withQuestion": 3,
+  "estimatedPoints": 3
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Докажите, что существует бесконечно много натуральных чисел n таких,\n     что 2n + 3n делится на n.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "В остроугольном треугольнике ABC L, H и M являются точками\n     пересечения биссектрис, высот и медиан соответственно, а O — центром\n     описанной окружности. Обозначим через X , Y и Z точки пересечения\n     прямых AL, BL и CL с окружностью соответственно. Пусть N — точка\n     на прямой OL, такая, что прямые M N и HL параллельны. Докажите, что\n     N является точкой пересечения медиан треугольника XY Z .",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Для положительных чисел x1 , x2 , … , xn (n ≥ 1) выполняется следующее\n     равенство 1+1x1 + 1+1x2 + … + 1+1xn = 1. Докажите, что x1 ⋅ x2 ⋅ … ⋅ xn ≥ (n −",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

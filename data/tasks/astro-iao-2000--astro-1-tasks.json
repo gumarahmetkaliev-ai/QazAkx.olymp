@@ -1,0 +1,52 @@
+{
+ "setId": "astro-iao-2000--astro-1-tasks",
+ "olympiadId": "astro-iao-2000",
+ "title": "Астрономия → IAO (международная) → 2000",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/iao/2000/astro-1-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T18:09:54.124Z",
+ "quality": {
+  "tasks": 2,
+  "parts": 2,
+  "withPoints": 2,
+  "withReference": 0,
+  "withQuestion": 2,
+  "estimatedPoints": 2
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "As you know, the most widely used calendar in the middle centuries was Julian. Just now most countries use\nthe Gregorian calendar and the difference between Julian and Gregorian calendars is 13 days: for the same\ndays dates in the Julian calendar fall behind the dates in the Gregorian calendar by 13. Last time the dates in\nthese calendars coincided were in the 3rd century.\nCalculate in what century such a difference will be 1 year and the 22 nd of October (for example) in\nGregorian calendar will coincide with the 22nd of October in the Julian once again.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Two stars have the same apparent magnitude and are of the same spectral type. One is twice as far away as\nthe other. What is the relative size of the two stars?\n\nGroup B.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

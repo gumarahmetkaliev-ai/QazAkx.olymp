@@ -1,0 +1,112 @@
+{
+ "setId": "astro-ioaa-2011--astro-5-tasks",
+ "olympiadId": "astro-ioaa-2011",
+ "title": "Астрономия → IOAA (международная) → 2011 → Все классы",
+ "materialLabel": "5 кл · 5 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/ioaa/2011/astro-5-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T18:02:26.157Z",
+ "quality": {
+  "tasks": 6,
+  "parts": 6,
+  "withPoints": 6,
+  "withReference": 0,
+  "withQuestion": 6,
+  "estimatedPoints": 6
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "There are 2 questions, each worth 25 points. You have 80 minutes to solve them, of\n   which :\n\n            (a) 20 minutes for reading the question and preparing for the observations,\n\n            (b) 40 minutes to perform all the observations in the planetarium\n                (20 minutes for each questions),\n\n            (c) 20 minutes for calculations and finishing your work.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Additional time is allowed to move to and from the planetarium.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Along with the questions you will be given a map of the sky, for use with both questions.\n   The map is for epoch J 2000.0, using a polar projection with a linear scale in declination,\n   and covers stars down to about 5th magnitude. You will also be given paper for working\n   and notes, writing implements, a pencil sharpener and an eraser.\n\n    Please take everything from the desk in the first room with you to the planetarium dome,\n    as you will be going to a different room afterwards to finish your work.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "At your place in the dome you will find a torch and clipboard. Please leave these two\n   items behind for the next contestant.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "Only answers given in the appropriate places on the question sheet and on the map of the\n   sky will be assessed. The additional worksheets will not be assessed.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "Clearly mark every page with your code number.\n\n                                 About the questions\n\nIn Question 1 :",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

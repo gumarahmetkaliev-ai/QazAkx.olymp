@@ -5,6 +5,7 @@
  *   npm run sync-chemistry                 – обновить список PDF на всех страницах (быстро, без скачивания)
  *   npm run sync-chemistry -- --subject=biology   – то же для биологии (npm run sync-biology)
  *   npm run sync-chemistry -- --download   – + скачать PDF в public/olympiads/chemistry/...
+ *   ... --crawl                            – обойти сайт и найти новые страницы
  *   ... --stage=oblast --year=2023         – только часть каталога
  *
  * Результат:
@@ -65,9 +66,9 @@ function extractPdfLinks(html, pageUrl) {
   return links;
 }
 
-function listPages() {
+function listPages(extra = []) {
   const legacy = JSON.parse(fs.readFileSync(path.join(ROOT, "olympiads.json"), "utf8"));
-  const pages = new Set();
+  const pages = new Set(extra);
   for (const e of legacy) {
     if (e.subject_en === SUBJECT && String(e.sourcePage || "").startsWith(PAGE_ORIGIN)) pages.add(e.sourcePage);
   }
@@ -84,6 +85,30 @@ function listPages() {
   });
 }
 
+/** Обход сайта: /<предмет> → этапы → годы → классы; собираем все страницы раздела */
+async function crawlPages() {
+  const start = `${PAGE_ORIGIN}/${SUBJECT}`;
+  const seen = new Set([start]);
+  let frontier = [start];
+  for (let depth = 0; depth < 5 && frontier.length; depth++) {
+    const next = [];
+    await runPool(frontier, async (url) => {
+      let html;
+      try { html = await fetchWithRetry(url); } catch { return; }
+      const re = new RegExp(`href=["'](?:${PAGE_ORIGIN})?(/${SUBJECT}/[^"'#?]+)["']`, "g");
+      let m;
+      while ((m = re.exec(html)) !== null) {
+        const abs = PAGE_ORIGIN + m[1].replace(/\/+$/, "");
+        if (!seen.has(abs) && abs.length > url.length - 1) { seen.add(abs); next.push(abs); }
+      }
+    });
+    frontier = next;
+    process.stdout.write(`\rОбход сайта: глубина ${depth + 1}, страниц ${seen.size}      `);
+  }
+  console.log("");
+  return [...seen];
+}
+
 async function runPool(items, worker) {
   let index = 0;
   const runners = Array.from({ length: CONCURRENCY }, async () => {
@@ -98,7 +123,7 @@ async function runPool(items, worker) {
 async function main() {
   const prev = fs.existsSync(SOURCES_PATH) ? JSON.parse(fs.readFileSync(SOURCES_PATH, "utf8")) : { pages: {}, urls: {} };
   const out = { updatedAt: new Date().toISOString(), pages: { ...prev.pages }, urls: { ...prev.urls } };
-  const pages = listPages();
+  const pages = listPages(args.crawl ? await crawlPages() : []);
   console.log(`Страниц для обработки: ${pages.length}`);
 
   let failed = 0;

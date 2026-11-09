@@ -1,0 +1,105 @@
+{
+ "setId": "math-imo-2019--math-tasks",
+ "olympiadId": "math-imo-2019",
+ "title": "Математика → IMO (международная) → 2019",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/2019/math-tasks.pdf",
+ "solutionFile": "olympiads/math/s/imo/2019/math-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:28.711Z",
+ "quality": {
+  "tasks": 6,
+  "parts": 6,
+  "withPoints": 6,
+  "withReference": 6,
+  "withQuestion": 6,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Let Z be the set of integers. Determine all functions f : Z → Z such that, for all\nintegers a and b,\n                              f (2a) + 2f (b) = f (f (a + b)).",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "A1.     Let Z be the set of integers. Determine all functions f : Z Ñ Z such that, for all\nintegers a and b,\n                                 f p2aq ` 2f pbq “ f pf pa ` bqq.\n                                                                                          (South Africa)"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "In triangle ABC, point A1 lies on side BC and point B1 lies on side AC. Let P and Q\nbe points on segments AA1 and BB1 , respectively, such that P Q is parallel to AB. Let P1 be a point\non line P B1 , such that B1 lies strictly between P and P1 , and ∠P P1 C = ∠BAC. Similarly, let Q1\nbe a point on line QA1 , such that A1 lies strictly between Q and Q1 , and ∠CQ1 Q = ∠CBA.\nProve that points P , Q, P1 , and Q1 are concyclic.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "G3.    In triangle ABC, let A1 and B1 be two points on sides BC and AC, and let P and Q\nbe two points on segments AA1 and BB1 , respectively, so that line P Q is parallel to AB. On\nray P B1 , beyond B1 , let P1 be a point so that =P P1 C “ =BAC. Similarly, on ray QA1 ,\nbeyond A1 , let Q1 be a point so that =CQ1 Q “ =CBA. Show that points P , Q, P1 , and Q1\nare concyclic.\n                                                                                    (Ukraine)"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "A social network has 2019 users, some pairs of whom are friends. Whenever user A\nis friends with user B, user B is also friends with user A. Events of the following kind may happen\nrepeatedly, one at a time:\n\n     Three users A, B, and C such that A is friends with both B and C, but B and C are\n     not friends, change their friendship statuses such that B and C are now friends, but A is\n     no longer friends with B, and no longer friends with C. All other friendship statuses are\n     unchanged.\n\nInitially, 1010 users have 1009 friends each, and 1009 users have 1010 friends each. Prove that there\nexists a sequence of such events after which each user is friends with at most one other user.\n\nLanguage: English                                                      Time: 4 hours and 30 minutes\n                                                                       Each problem is worth 7 points\n\n                                                 English (eng), day 2\n\n                                                                                Wednesday, July 17, 2019",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "C5.     On a certain social network, there are 2019 users, some pairs of which are friends,\nwhere friendship is a symmetric relation. Initially, there are 1010 people with 1009 friends each\nand 1009 people with 1010 friends each. However, the friendships are rather unstable, so events\nof the following kind may happen repeatedly, one at a time:\n      Let A, B, and C be people such that A is friends with both B and C, but B and C\n      are not friends; then B and C become friends, but A is no longer friends with them.\n   Prove that, regardless of the initial friendships, there exists a sequence of such events after\nwhich each user is friends with at most one other user.\n                                                                                        (Croatia)\n\nShortlisted problems                                                                            7"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача 4",
+   "statement": "Find all pairs (k, n) of positive integers such that\n\n                            k! = (2n − 1)(2n − 2)(2n − 4) · · · (2n − 2n−1 ).",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "N1.        Find all pairs pm, nq of positive integers satisfying the equation\n\n                           p2n ´ 1qp2n ´ 2qp2n ´ 4q ¨ ¨ ¨ p2n ´ 2n´1 q “ m!                          p1q\n\n                                                                                           (El Salvador)\n\nAnswer: The only such pairs are p1, 1q and p3, 2q.\n\nCommon remarks. In all solutions, for any prime p and positive integer N, we will denote\nby vp pNq the exponent of the largest power of p that divides N. The left-hand side of p1q will\nbe denoted by Ln ; that is, Ln “ p2n ´ 1qp2n ´ 2qp2n ´ 4q ¨ ¨ ¨ p2n ´ 2n´1 q.\n\nSolution 1. We will get an upper bound on n from the speed at which v2 pLn q grows.\n\n     From\n\n       Ln “ p2n ´ 1qp2n ´ 2q ¨ ¨ ¨ p2n ´ 2n´1 q “ 21`2`¨¨¨`pn´1q p2n ´ 1qp2n´1 ´ 1q ¨ ¨ ¨ p21 ´ 1q\n\nwe read\n                                                           npn ´ 1q\n                            v2 pLn q “ 1 ` 2 ` ¨ ¨ ¨ ` pn ´ 1q “    .\n                                                              2\nOn the other hand, v2 pm!q is expressed by the Legendre formula as\n                                                      8 Y\n                                                      ÿ   m]\n                                          v2 pm!q “                  .\n                                                      i“1\n                                                                2i\n\nAs usual, by omitting the ﬂoor functions,\n                                                     8\n                                                     ÿ m\n                                         v2 pm!q ă              “ m.\n                                                     i“1\n                                                           2i\n\nThus, Ln “ m! implies the inequality\n\n                                             npn ´ 1q\n                                                      ă m.                                           p2q\n                                                2\n\n     In order to obtain an opposite estimate, observe that\n                                                                                   2\n                       Ln “ p2n ´ 1qp2n ´ 2q ¨ ¨ ¨ p2n ´ 2n´1 q ă p2n qn “ 2n .\n\nWe claim that                            ˆ            ˙\n                                    n2    npn ´ 1q\n                                2 ă                     ! for n ě 6.                                  p3q\n                                              2\n                                                                    `        ˘\nFor n “ 6 the estimate p3q is true because 26 ă 6.9 ¨ 1010 and npn´1q\n                                                2\n                                                                         2\n                                                                               ! “ 15! ą 1.3 ¨ 1012 .\n   For n ě 7 we prove p3q by the following inequalities:\n                  ˆ          ˙\n                    npn ´ 1q                           npn ´ 1q            npn´1q\n                               ! “ 15! ¨ 16 ¨ 17 ¨ ¨ ¨          ą 236 ¨ 16 2 ´15\n                       2                                  2\n                                                           2                   2\n                                   “ 22npn´1q´24 “ 2n ¨ 2npn´2q´24 ą 2n .\n\nShortlisted problems – solutions                                                                    85\n\n   Putting together p2q and p3q, for n ě 6 we get a contradiction, since\n                                        ˆ          ˙\n                                   n2     npn ´ 1q\n                           Ln ă 2 ă                  ! ă m! “ Ln .\n                                             2\n\nHence n ě 6 is not possible.\n   Checking manually the cases n ď 5 we ﬁnd\n\n                      L1 “ 1 “ 1!,    L2 “ 6 “ 3!,     5! ă L3 “ 168 ă 6!,\n                  7! ă L4 “ 20 160 ă 8!   and      10! ă L5 “ 9 999 360 ă 11!.\n\nSo, there are two solutions:                                  (\n                                       pm, nq P p1, 1q, p3, 2q .\n\nSolution 2. Like in the previous solution, the cases n “ 1, 2, 3, 4 are checked manually. We\nwill exclude n ě 5 by considering the exponents of 3 and 31 in p1q.\n   For odd primes p and distinct integers a, b, coprime to p, with p | a ´ b, the Lifting The\nExponent lemma asserts that\n\n                                   vp pak ´ bk q “ vp pa ´ bq ` vp pkq.\n\nNotice that 3 divides 2k ´ 1 if only if k is even; moreover, by the Lifting The Exponent lemma\nwe have\n                         v3 p22k ´ 1q “ v3 p4k ´ 1q “ 1 ` v3 pkq “ v3 p3kq.\nHence,                                      ÿ                       ÿ\n                               v3 pLn q “          v3 p4k ´ 1q “             v3 p3kq.\n                                            2kďn                   kďt n\n                                                                       2\n                                                                         u\n                                                                                            `       ˘\nNotice that the last expression is precisely the exponent of 3 in the prime factorisation of 3t n2 u !.\nTherefore\n                                                        ˆ´        ˙\n                                                           X n \\¯\n                                 v3 pm!q “ v3 pLn q “ v3 3 2 !\n                                        Z ^           Z ^\n                                         n              n\n                                      3      ďmď3         ` 2.                                     (4)\n                                         2              2\n\n   Suppose that n ě 5. Note that every ﬁfth factor in Ln is divisible by 31 “ 25 ´ 1, and hence\nwe have v31 pLn q ě t n5 u. Then\n\n                   n    Yn]                          ÿ8 Y\n                                                           m] ÿ m\n                                                                  8\n                                                                           m\n                      ď     ď v31 pLn q “ v31 pm!q “         k\n                                                               ă        k\n                                                                          “ .                      p5q\n                   10    5                           k“1\n                                                          31     k“1\n                                                                     31    30\n\nBy combining p4q and p5q,\n                                                          3n\n                                             3n ă m ď        `2\n                                                           2\nso n ă 34 which is inconsistent with the inequality n ě 5.\n\nComment 1. There are many combinations of the ideas above; for example combining p2q and p4q\nalso provides n ă 5. Obviously, considering the exponents of any two primes in p1q, or considering one\nprime and the magnitude orders lead to an upper bound on n and m.\n\n86                                                                 Bath — UK, 11th–22nd July 2019\n\nComment 2. This problem has a connection to group theory. Indeed, the left-hand side is the\norder of the group GLn pF2 q of invertible n-by-n matrices with entries modulo 2, while the right-hand\nside is the order of the symmetric group Sm on m elements. The result thus shows that the only\npossible isomorphisms between these groups are GL1 pF2 q – S1 and GL2 pF2 q – S3 , and there are in\nfact isomorphisms in both cases. In general, GLn pF2 q is a simple group for n ě 3, as it is isomorphic\nto P SLn pF2 q.\n    There is also a near-solution of interest: the left-hand side for n “ 4 is half of the right-hand side\nwhen m “ 8; this turns out to correspond to an isomorphism GL4 pF2 q – A8 with the alternating group\non eight elements.\n    However, while this indicates that the problem is a useful one, knowing group theory is of no use\nin solving it!\n\nShortlisted problems – solutions                                                                      87"
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача 5",
+   "statement": "The Bank of Bath issues coins with an H on one side and a T on the other. Harry has\nn of these coins arranged in a line from left to right. He repeatedly performs the following operation:\nif there are exactly k > 0 coins showing H, then he turns over the k th coin from the left; otherwise,\nall coins show T and he stops. For example, if n = 3 the process starting with the configuration\nT HT would be T HT → HHT → HT T → T T T , which stops after three operations.\n\n (a) Show that, for each initial configuration, Harry stops after a finite number of operations.\n\n (b) For each initial configuration C, let L(C) be the number of operations before Harry stops. For\n     example, L(T HT ) = 3 and L(T T T ) = 0. Determine the average value of L(C) over all 2n\n     possible initial configurations C.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "C3.     Let n be a positive integer. Harry has n coins lined up on his desk, each showing\nheads or tails. He repeatedly does the following operation: if there are k coins showing heads\nand k ą 0, then he ﬂips the k th coin over; otherwise he stops the process. (For example, the\nprocess starting with T HT would be T HT Ñ HHT Ñ HT T Ñ T T T , which takes three\nsteps.)\n    Letting C denote the initial conﬁguration (a sequence of n H’s and T ’s), write ℓpCq for the\nnumber of steps needed before all coins show T . Show that this number ℓpCq is ﬁnite, and\ndetermine its average value over all 2n possible initial conﬁgurations C.\n                                                                                         (USA)"
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача 6",
+   "statement": "Let I be the incentre of acute triangle ABC with AB 6= AC. The incircle ω of ABC is\ntangent to sides BC, CA, and AB at D, E, and F , respectively. The line through D perpendicular\nto EF meets ω again at R. Line AR meets ω again at P . The circumcircles of triangles P CE\nand P BF meet again at Q.\nProve that lines DI and P Q meet on the line through A perpendicular to AI.\n\nLanguage: English                                                        Time: 4 hours and 30 minutes\n                                                                         Each problem is worth 7 points",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "G7.   The incircle ω of acute-angled scalene triangle ABC has centre I and meets sides BC,\nCA, and AB at D, E, and F , respectively. The line through D perpendicular to EF meets ω\nagain at R. Line AR meets ω again at P . The circumcircles of triangles P CE and P BF meet\nagain at Q ‰ P . Prove that lines DI and P Q meet on the external bisector of angle BAC.\n                                                                                        (India)"
+    }
+   ]
+  }
+ ]
+}

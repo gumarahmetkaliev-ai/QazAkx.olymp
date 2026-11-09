@@ -1,0 +1,63 @@
+{
+ "setId": "math-egmo-2021--math-1-tasks",
+ "olympiadId": "math-egmo-2021",
+ "title": "Математика → EGMO → 2021",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/egmo/2021/math-1-tasks.pdf",
+ "solutionFile": "olympiads/math/s/egmo/2021/math-sol.pdf",
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:27.179Z",
+ "quality": {
+  "tasks": 3,
+  "parts": 3,
+  "withPoints": 3,
+  "withReference": 3,
+  "withQuestion": 3,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "Число 2021 — сказочное. Если для положительного целого m какой-либо элемент из\nнабора {m, 2m + 1, 3m} является сказочным, то и все элементы набора являются сказочными.\nСледует ли из этого, что число 20212021 является сказочным?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "According to Anna, the number 2021 is fantabulous. She states that if any element of the\nset {𝑚, 2𝑚 + 1, 3𝑚 } is fantabulous for a positive integer 𝑚, then they are all fantabulous. Is the number\n20212021 fantabulous?\n\n                                                                         (Australia, Angelo Di Pasquale)\nAnswer: Yes\n\nSolution 1.\n    Consider the sequence of positive integers 𝑚, 3𝑚, 6𝑚 + 1, 12𝑚 + 3, 4𝑚 + 1, 2𝑚. Since each number\nin the sequence is fantabulous if and only if the next one is, we deduce that 𝑚 is fantabulous if and only\nif 2𝑚 is fantabulous.\n    Combined with the fact that 𝑚 is fantabulous if and only if 2𝑚 + 1 is fantabulous, this implies that\n                                              𝑚\n𝑚 > 1 is fantabulous if and only if 𝑓(𝑚 ) = [ ] is fantabulous. We can apply 𝑓 sufficiently many times\n                                               2\nto any positive integer 𝑛 to conclude that 𝑛 is fantabulous if and only if 1 is fantabulous. Therefore, the\nfact that 2021 is fantabulous implies that 1 is fantabulous, which in turn implies that 20212021 is\nfantabulous.\n\nSolution 2.\n   Let 𝑚 > 1 be a fantabulous number. Note that at least one of the following four cases must hold.\n\n        ∎ Case 1. The number 𝑚 is odd;\n        We have 𝑚 = 2𝑎 + 1 for some positive integer 𝑎, so 𝑎 < 𝑚 is also fantabulous.\n\n        ∎ Case 2. The number 𝑚 is a multiple of 3;\n        We have 𝑚 = 3𝑎 for some positive integer 𝑎, so 𝑎 < 𝑚 is also fantabulous.\n\n        ∎ Case 3. The number 𝑚 is 4 modulo 6;\n        We have 𝑚 = 6𝑎 − 2 for some positive integer 𝑎. We have the sequence of fantabulous\n        numbers\n                                     (6𝑎 − 2) → (12𝑎 − 3) → (4𝑎 − 1) ,\n        so 4𝑎 − 1 < 𝑚 is also fantabulous.\n\n        ∎ Case 4. The number 𝑚 is 2 modulo 6;\n        We have 𝑚 = 6𝑎 + 2 for some positive integer 𝑎. We have the sequence of fantabulous\n        numbers\n                 (6𝑎 + 2) → (12𝑎 + 5) → (36𝑎 + 15) → (18𝑎 + 7) → (9𝑎 + 3) → (3𝑎 + 1),\n        so 3𝑎 + 1 < 𝑚 is also fantabulous.\n\n    In all cases, we see that there is another fantabulous number less than 𝑚. Since 2021 is fantabulous,\nit follows that 1 is fantabulous.\n    Observe that a number 𝑚 is not fantabulous if and only if all of the elements of the set\n{𝑚, 2𝑚 + 1, 3𝑚} are not fantabulous. So, the argument above shows that if there exists a positive\ninteger that is not fantabulous, then 1 would not be fantabulous either. This is a contradiction, so all\npositive integers are fantabulous and, in particular, 20212021 is fantabulous.\n\nSolution 3.\n   The following transformations show that 𝑎 is fantabulous if and only if 3𝑎, 3𝑎 + 1 or 3𝑎 + 2 are\nfantabulous.\n       𝑎 → 3𝑎\n       𝑎 → 2𝑎 + 1 → 6𝑎 + 3 → 3𝑎 + 1\n       𝑎 → 2𝑎 + 1 → 4𝑎 + 3 → 12𝑎 + 9 → 36𝑎 + 27 → 18𝑎 + 13 → 9𝑎 + 6 → 3𝑎 + 2\n                                                                 𝑎\nThis implies that 𝑎 ≥ 3 is fantabulous if and only if 𝑓 (𝑎) = [ ] is fantabulous. We can use this to\n                                                                 3\ndeduce that 1 and 2 are fantabulous from the fact that 2021 is fantabulous in the following way:\n                            2021 → 673 → 224 → 74 → 24 → 8 → 2 → 5 → 1\n   We can apply 𝑓 sufficiently many times to any positive integer 𝑛 to arrive at the number 1 or 2. It\nfollows that every positive integer is fantabulous, so 20212021 is fantabulous."
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Найдите все функции f : Q → Q такие, что равенство\n\n                                 f (xf (x) + y) = f (y) + x2\n\nвыполняется для всех рациональных чисел x и y.\n\nНапомним, что Q — это множество рациональных чисел.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "Find all functions 𝑓: ℚ → ℚ such that the equation\n\n                                     𝑓(𝑥𝑓 (𝑥) + 𝑦) = 𝑓(𝑦) + 𝑥 2\nholds for all rational numbers 𝑥 and 𝑦.\nHere, ℚ denotes the set of rational numbers.\n                                                                                  (Slovakia, Patrik Bak)\n\nAnswer: 𝑓(𝑥) = 𝑥 and 𝑓(𝑥) = −𝑥.\n\nSolution. Denote the equation from the statement by (1). Let 𝑥𝑓 (𝑥) = 𝐴 and 𝑥 2 = 𝐵. The equation\n(1) is of the form\n                                           𝑓(𝐴 + 𝑦) = 𝑓(𝑦) + 𝐵\nAlso, if we put 𝑦 → −𝐴 + 𝑦, we have 𝑓 (𝐴 − 𝐴 + 𝑦) = 𝑓 (−𝐴 + 𝑦) + 𝐵. Therefore\n                                          𝑓(−𝐴 + 𝑦) = 𝑓(𝑦) − 𝐵\nWe can easily show that for any integer 𝑛 we even have\n                                         𝑓(𝑛𝐴 + 𝑦) = 𝑓(𝑦) + 𝑛𝐵                                (2)\nIndeed, it’s trivially true for 𝑛 = 0 and if this holds true for some integer 𝑛, then\n      𝑓((𝑛 + 1)𝐴 + 𝑦) = 𝑓 (𝐴 + 𝑦 + 𝑛𝐴) = 𝑓(𝑛𝑦 + 𝐴) + 𝐵 = 𝑓(𝑦) + 𝑛𝐵 + 𝐵 = 𝑓 (𝑦) + (𝑛 + 1)𝐵\nand\n    𝑓 ((𝑛 − 1) 𝐴 + 𝑦) = 𝑓(−𝐴 + 𝑛𝐴 + 𝑦) = 𝑓 (𝑛𝐴 + 𝑦) − 𝐵 = 𝑓 (𝑦) + 𝑛𝐵 − 𝐵 = 𝑓(𝑦) + (𝑛 − 1)𝐵.\nSo, equation (2) follows from the induction on 𝑛.\nNow we can say that for any integer 𝑘 it holds\n                                    𝑓 (𝑛𝑥𝑓(𝑥) + 𝑦) = 𝑓 (𝑦) + 𝑛𝑥 2                              (3)\n                             2                                    2\nIf 𝑦 is given, then 𝑓(𝑦) + 𝑛𝑥 can be any rational number, since 𝑛𝑥 can be any rational number. If it\n                 𝑝                                                   1\nis supposed to be , where 𝑞 ≠ 0, then we may take 𝑛 = 𝑝𝑞, and 𝑥 = . Therefore 𝑓 is surjective on ℚ.\n                 𝑞                                                   𝑞\nSo there’s a rational number 𝑐 such that 𝑓(𝑐) = 0. Be putting 𝑥 = 𝑐 into (1) we immediately get 𝑐 = 0,\ni.e. 𝑓(0) = 0. Therefore, 𝑓(𝑥) = 0 if and only if 𝑥 = 0.\nFor any integer 𝑛 and for any rational 𝑥, 𝑦 it holds\n                     𝑓 (𝑛2 𝑥𝑓(𝑥) + 𝑦) = 𝑓 (𝑦) + 𝑛2 𝑥 2 = 𝑓(𝑦) + (𝑛𝑥) 2 = 𝑓(𝑛𝑥𝑓(𝑛𝑥) + 𝑦)            (4)\nAfter taking 𝑦 = −𝑛𝑥𝑓(𝑛𝑥) in (4), the right-hand side becomes 0, therefore\n                                       𝑛2 𝑥𝑓(𝑥) − 𝑛𝑥𝑓(𝑛𝑥) = 0.\nThis simplifies into 𝑛𝑓(𝑥) = 𝑓(𝑛𝑥) for 𝑥 ≠ 0, but it also holds for 𝑥 = 0. Therefore, for any rational\n             𝑝\nnumber 𝑥 = we have,\n             𝑞\n                                                                 1\n                           𝑝            1          1       𝑓 (𝑞 ∙ ) 𝑝\n                                                                 𝑞\n               𝑓(𝑥) = 𝑓 ( ) = 𝑓 (𝑝 ∙ ) = 𝑝 ∙ 𝑓 ( ) = 𝑝 ∙            = ∙ 𝑓(1) = 𝑥𝑓(1)\n                           𝑞            𝑞          𝑝          𝑞       𝑞\n               ( )\nSo, we have 𝑓 𝑥 = 𝑘𝑥, for some rational number 𝑘. Let’s put this answer in (1) and we get\n𝑘 (𝑥𝑘𝑥 + 𝑦) = 𝑘𝑦 + 𝑥 2 , thus 𝑘 2 = 1. Therefore 𝑓(𝑥) = 𝑥 and 𝑓 (𝑥) = −𝑥 are solutions."
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача 3",
+   "statement": "Пусть ABC — треугольник с тупым углом при вершине A. Пусть E и F — точки\nпересечения внешней биссектрисы угла A с высотами треугольника ABC, проведёнными из вер-\nшин B и C соответственно. Точки M и N выбраны на отрезках EC и F B соответственно так,\nчто ∠EM A = ∠BCA и ∠AN F = ∠ABC. Докажите, что точки E, F , N и M лежат на одной\nокружности.\n\nLanguage: Русский                                             Время работы: 4 часа 30 минут\n                                                       Каждая задача оценивается из 7 баллов\n\nЧтобы олимпиада была честной и доставила всем удовольствие, пожалуйста, не упо-\nминайте и не пишите ничего про задачи в интернете и любых социальных сетях до\n15:00 13 апреля по московскому времени.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "reference": "Let 𝐴𝐵𝐶 be a triangle with an obtuse angle at 𝐴. Let 𝐸 and 𝐹 be the intersections of the\nexternal bisector of angle 𝐴 with the altitudes of ABC through 𝐵 and 𝐶 respectively. Let 𝑀 and 𝑁 be\nthe points on the segments 𝐸𝐶 and 𝐹𝐵 respectively such that ∠𝐸𝑀𝐴 = ∠𝐵𝐶𝐴 and ∠𝐴𝑁𝐹 = ∠𝐴𝐵𝐶.\nProve that the points 𝐸, 𝐹, 𝑁, 𝑀 lie on a circle.\n\n                                                                            (Ukraine, Anton Trygub)\n\nSolution 1.\n\n   The first solution is based on the main Lemma. We present this Lemma with two different proofs.\n\n   Lemma: Let 𝐴𝐵𝐶 be an acute triangle with 𝐴𝐵 = 𝐵𝐶. Let 𝑃 be any point on 𝐴𝐶. Line passing through\n𝑃 perpendicular to 𝐴𝐵, intersects ray 𝐵𝐶 in point 𝑇. If the line 𝐴𝑇 intersects the circumscribed circle\nof the triangle 𝐴𝐵𝐶 the second time at point 𝐾, then ∠𝐴𝐾𝑃 = ∠𝐴𝐵𝑃.\n\n                                    Proof 1:\n                                    Let 𝐻 be the orthocenter of the triangle 𝐴𝐵𝑃. Then\n                                               ∠𝐵𝐻𝑃 = 1800 − ∠𝐵𝐴𝐶 = 1800 − ∠𝐵𝐶𝑃.\n                                 So 𝐵𝐻𝑃𝐶 is cyclic. Then we get\n                                                     𝑇𝐾 ∙ 𝑇𝐴 = 𝑇𝐶 ∙ 𝑇𝐵 = 𝑇𝑃 ∙ 𝑇𝐻.\n                                 So, 𝐴𝐻𝑃𝐾 is also cyclic. But then\n                                                    ∠𝐴𝐾𝑃 = 1800 − ∠𝐴𝐻𝑃 = ∠𝐴𝐵𝑃.\n\n   Proof 2:\n    Consider the symmetric points 𝐵′ and 𝐶′ of 𝐵 and 𝐶,\nrespectively, with respect to the line 𝑃𝑇. It is clear that\n                 TC ′ ∙ 𝑇𝐵′ = 𝑇𝐶 ∙ 𝑇𝐵 = 𝑇𝐾 ∙ 𝑇𝐴.\nSo 𝐵′𝐶′𝐾𝐴 is cyclic. Also, because of the symmetry we have\n                   ∠𝑃𝐶 ′ 𝐵′ = ∠𝑃𝐶𝐵 = ∠𝑃𝐴𝐵.\nSo 𝐵′𝐶′𝑃𝐴 is also cyclic. Therefore, the points 𝐵′ , 𝐶 ′ , 𝐾, 𝑃 and 𝐴\nall lie on the common circle. Because of this fact and because of\nthe symmetry again we have\n                   ∠𝑃𝐾𝐴 = ∠𝑃𝐵′ 𝐴 = ∠𝑃𝐵𝐴.\nSo, lemma is proved and now return to the problem.\n   Let 𝐻 be intersection point of the altitudes at 𝐵 and 𝐶. Denote by 𝑀′ and 𝑁′ the intersection points\nof the circumcircle of the triangle 𝐻𝐸𝐹 with the segments 𝐸𝐶 and 𝐹𝐵, respectively. We are going to\nshow that 𝑀 = 𝑀′ and 𝑁 = 𝑁′ and it will prove the points 𝐸, 𝐹, 𝑁, 𝑀 lie on a common circle.\n\n    Of course, 𝐴 is an orthocenter of the triangle 𝐵𝐶𝐻.\nTherefore      ∠𝐵𝐻𝐴 = ∠𝐵𝐶𝐴, ∠𝐶𝐻𝐴 = ∠𝐶𝐵𝐴             and\n∠𝐻𝐵𝐴 = ∠𝐻𝐶𝐴. Thus\n ∠𝐻𝐸𝐹 = ∠𝐻𝐵𝐴 + ∠𝐸𝐴𝐵 = ∠𝐻𝐶𝐴 + ∠𝐹𝐴𝐶 = ∠𝐻𝐹𝐸.\nSo, the triangle 𝐻𝐸𝐹 is isosceles, 𝐻𝐸 = 𝐻𝐹.\n  By using lemma, we get\n             ∠𝐴𝑀′ 𝐸 = ∠𝐴𝐻𝐸 = ∠𝐴𝐶𝐵,\nand\n             ∠𝐴𝑁 ′ 𝐹 = ∠𝐴𝐻𝐹 = ∠𝐴𝐵𝐶.\nTherefore 𝑀 = 𝑀′ and 𝑁 = 𝑁′ and we are done.\n\nSolution 2.\n   Let 𝑋, 𝑌 be projections of 𝐵 on 𝐴𝐶, and 𝐶 on 𝐴𝐵, respectively. Let 𝜔 be circumcircle of 𝐵𝑋𝑌𝐶. Let 𝑍\nbe intersection of 𝐸𝐶 and 𝜔 and 𝐷 be projection of 𝐸 on 𝐵𝐴.\n                     ∠𝑀𝐴𝐶 = ∠𝐴𝑀𝐸 − ∠𝑀𝐶𝐴 = ∠𝑋𝐶𝐵 − ∠𝑋𝐶𝐸 = ∠𝑍𝐶𝐵 = ∠𝑍𝑋𝐵\nSince 𝐵𝑋𝑌𝐶 is cyclic ∠𝐴𝐶𝑌 = ∠𝑋𝐵𝐴, and since\n𝐷𝐸𝑋𝐴 is cyclic\n            ∠𝐸𝑋𝐷 = ∠𝐸𝐴𝐷 = ∠𝐹𝐴𝐶.\nTherefore, we get that the quadrangles 𝐵𝑍𝑋𝐷 and\n𝐶𝑀𝐴𝐹 are similar. Hence ∠𝐹𝑀𝐶 = ∠𝐷𝑍𝐵. Since\n𝑍𝐸𝐷𝐵 is cyclic,\n            ∠𝐷𝑍𝐵 = ∠𝐷𝐸𝐵 = ∠𝑋𝐴𝐵.\nThus ∠𝐹𝑀𝐶 = ∠𝑋𝐴𝐵. Similarly, ∠𝐸𝑁𝐵 = ∠𝑌𝐴𝐶.\nWe get that ∠𝐹𝑀𝐶 = ∠𝐸𝑁𝐵 and it implies that\nthe points 𝐸, 𝐹, 𝑁, 𝑀 lie on a circle."
+    }
+   ]
+  }
+ ]
+}

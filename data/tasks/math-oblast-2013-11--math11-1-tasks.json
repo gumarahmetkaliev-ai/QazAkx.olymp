@@ -1,0 +1,52 @@
+{
+ "setId": "math-oblast-2013-11--math11-1-tasks",
+ "olympiadId": "math-oblast-2013-11",
+ "title": "Математика → Областная → 2013 → 11 класс",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/oblast/2013/11/math11-1-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T17:49:33.809Z",
+ "quality": {
+  "tasks": 2,
+  "parts": 2,
+  "withPoints": 2,
+  "withReference": 0,
+  "withQuestion": 2,
+  "estimatedPoints": 2
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача 1",
+   "statement": "В треугольнике ABC три чевианы AA1 , BB1 , CC1 пересекаются в точке P\n     внутри треугольника. Обозначим через Sa , Sb , Sc площади треугольников\n     AB1 C1 , BC1 A1 , CA1 B1 соответственно. Докажите, что площадь\n     треугольника A1 B1 C1 является корнем уравнения\n\n                          x3 + (Sa + Sb + Sc )x2 − 4Sa Sb Sc = 0.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача 2",
+   "statement": "Докажите, что ни при каком натуральном n число (14 + 12 + 1)(24 + 22 +",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

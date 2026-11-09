@@ -1,0 +1,37 @@
+{
+ "setId": "astro-iao-2014--astro-2-tasks",
+ "olympiadId": "astro-iao-2014",
+ "title": "Астрономия → IAO (международная) → 2014",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/astronomy/s/iao/2014/astro-2-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T18:21:44.674Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "АСТРОНОМИЧЕСКОЕ\n                       ОБЩЕСТВО\n                                                              EURO–ASIAN\n                                                         ASTRONOMICAL SOCIETY                            Round Obs \n\n                                                                                                        Group                \n               XIХ Международная астрономическая олимпиада\n                   XIХ International Astronomy Olympiad\n                                                                                                        язык\n                Бишкек – Чолпон-Ата     12–21. X. 2014      B i s hke k – C ho l po n - A t a\n                                                                                                      language\n                                                                                                                          English\n                                                                       Code of participant                           код участника\n     Observational round. Questions.\n               Clear sky\n\nObservations by the naked eye\n\n9.    Assess the color of the stars and mark accordingly it with a “X”:\n                                 White            Blue                Yellow                         Red\n                   UMi\n                   And\n                   Ari\n                   Cyg\n                   Tau\n\n                                                                                                        Answer:\n10. What is the angular distance between  Cas and the\n    north celestial pole?\n\n11. Specify direction to the points of intersection of the\n    ecliptic and the equator.                                                                           Answer:\n       List the names of the constellations (in Latin) in\n       which these points are located.\n\nObservations with telescope\n                                                                                                        Answer:\n12.    Point your telescope to the M45. Show to the\n       examiner. Classify the object as one of the following:\n       open cluster (OC), a globular cluster (GC), an\n       emission nebula (EN) and planetary nebula (PN).\n\n13.    Point your telescope to the binary star π Pegasus                                                Answer:\n       using 10 mm eyepiece and star map as a guide.\n       Estimate the distance between the stars in arc\n       minutes.\n\nThe maximum total time for all tasks is 20 minutes.\n\n        Киргизия, Бишкек – Чолпон-Ата             2014                    B i s h ke k – C h o l p o n - A t a , K y r g y z s t a n\n\n           АСТРОНОМИЧЕСКОЕ\n               ОБЩЕСТВО\n\n       XIХ Международная астрономическая олимпиа\n\n           XIХ International Astronomy Olympiad\n\n        Бишкек – Чолпон-Ата     12–21. X. 2014\n\n Наблюдательный тур.\n     Чистое небо\n\nКиргизия, Бишкек – Чолпон-Ата             2014\n\n      EURO–ASIAN\n ASTRONOMICAL SOCIETY\n                                                 Round Obs \n\n                                                Group                \nда\n                                                язык\n                                              language\n                                                                 Русский\n                                                язык\n    B i s hke k – C ho l po n - A t a\n                                              language\n                                                                 English\n\n                   Observational round.\n                        Clear sky\n\n                  B i s h ke k – C h o l p o n - A t a , K y r g y z s t a n",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}
