@@ -8,7 +8,7 @@
  "solutionFile": "olympiads/biology/oblast/2024/10/bio-1-sol.pdf",
  "generatedBy": "test-parser",
  "type": "test",
- "generatedAt": "2026-11-09T13:44:03.025Z",
+ "generatedAt": "2026-11-09T13:49:36.737Z",
  "quality": {
   "tasks": 8,
   "parts": 80,
@@ -2611,7 +2611,7 @@
      ],
      "multi": false,
      "answer": "A",
-     "topic": "bio-systematics",
+     "topic": "bio-ecology",
      "reference": "Правильный ответ: A"
     },
     {

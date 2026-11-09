@@ -8,7 +8,7 @@
  "solutionFile": "olympiads/biology/national/2023/9/bio-2-sol.pdf",
  "generatedBy": "test-parser",
  "type": "test",
- "generatedAt": "2026-11-09T13:44:10.820Z",
+ "generatedAt": "2026-11-09T13:49:44.377Z",
  "quality": {
   "tasks": 2,
   "parts": 13,
@@ -57,8 +57,8 @@
       "E"
      ],
      "multi": false,
-     "answer": "C",
-     "reference": "Правильный ответ: C"
+     "answer": "B",
+     "reference": "Правильный ответ: B"
     },
     {
      "id": "q3",
@@ -108,8 +108,8 @@
       "E"
      ],
      "multi": false,
-     "answer": "C",
-     "reference": "Правильный ответ: C"
+     "answer": "B",
+     "reference": "Правильный ответ: B"
     },
     {
      "id": "q6",
@@ -125,8 +125,8 @@
       "E"
      ],
      "multi": false,
-     "answer": "C",
-     "reference": "Правильный ответ: C"
+     "answer": "B",
+     "reference": "Правильный ответ: B"
     },
     {
      "id": "q7",

@@ -8,7 +8,7 @@
  "solutionFile": "olympiads/biology/belbo/2017/10/bio10-sol.pdf",
  "generatedBy": "test-parser",
  "type": "test",
- "generatedAt": "2026-11-09T13:44:43.373Z",
+ "generatedAt": "2026-11-09T13:50:16.277Z",
  "quality": {
   "tasks": 7,
   "parts": 65,
@@ -363,7 +363,6 @@
      ],
      "multi": false,
      "answer": "C",
-     "topic": "bio-systematics",
      "reference": "Правильный ответ: C"
     }
    ]

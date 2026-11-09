@@ -107,7 +107,8 @@ console.log("format tests: OK");
 // Тесты с ключом (биология)
 {
   const { parseAnswerKey, parseTestSet, testToTasks } = require("../lib/test-parser");
-  assert.deepStrictEqual(parseAnswerKey(" 1 D\n 2 B\n10.A\n11) Б\n12 – A, C"), { 1: "D", 2: "B", 10: "A", 11: "B", 12: "AC" });
+  assert.deepStrictEqual(parseAnswerKey(" 1 D\n 2 B\n10.A\n12 – A, C"), { 1: "D", 2: "B", 10: "A", 12: "AC" });
+  assert.deepStrictEqual(parseAnswerKey("1 Б\n2 В\n3 Г"), { 1: "B", 2: "C", 3: "D" }, "русский алфавит вариантов");
   assert.deepStrictEqual(parseAnswerKey("1 2 3 4 5\nC B A A Е"), { 1: "C", 2: "B", 3: "A", 4: "A", 5: "E" });
   const tasks = Array.from({ length: 12 }, (_, i) => `${i + 1}. Вопрос про фотосинтез №${i + 1}?\nA) один\nB) два\nC) три\nD) четыре`).join("\n");
   const key = Array.from({ length: 12 }, (_, i) => `${i + 1} ${"ABCD"[i % 4]}`).join("\n");

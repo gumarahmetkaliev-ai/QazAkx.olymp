@@ -8,7 +8,7 @@
  "solutionFile": "olympiads/biology/region/2024/11/bio-sol.pdf",
  "generatedBy": "test-parser",
  "type": "test",
- "generatedAt": "2026-11-09T13:44:02.919Z",
+ "generatedAt": "2026-11-09T13:49:36.630Z",
  "quality": {
   "tasks": 6,
   "parts": 60,
@@ -1096,7 +1096,6 @@
      ],
      "multi": false,
      "answer": "C",
-     "topic": "bio-systematics",
      "reference": "Правильный ответ: C"
     },
     {

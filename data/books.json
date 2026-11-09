@@ -8563,7 +8563,6 @@
 "p": 523,
 "lvl": 1,
 "ch": "SECTION C Hydrogen Ion Regulation",
-"topic": "bio-systematics",
 "to": 524
 },
 {
@@ -15354,7 +15353,6 @@
 "p": 22,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 27
 },
 {
@@ -15362,7 +15360,6 @@
 "p": 28,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 30
 },
 {
@@ -15370,7 +15367,6 @@
 "p": 31,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 31
 },
 {
@@ -15386,7 +15382,6 @@
 "p": 33,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 43
 },
 {
@@ -15394,7 +15389,6 @@
 "p": 44,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 48
 },
 {
@@ -15448,7 +15442,6 @@
 "p": 88,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 89
 },
 {
@@ -15456,7 +15449,6 @@
 "p": 90,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 98
 },
 {
@@ -15464,7 +15456,6 @@
 "p": 99,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 106
 },
 {
@@ -15525,7 +15516,6 @@
 "p": 161,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 161
 },
 {
@@ -15540,7 +15530,6 @@
 "p": 162,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 164
 },
 {
@@ -15664,7 +15653,6 @@
 "p": 280,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 286
 },
 {
@@ -15672,7 +15660,6 @@
 "p": 287,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 287
 },
 {
@@ -15751,8 +15738,7 @@
 "t": "ПОДКЛАСС ЗВЕРИ (ТHERIA)",
 "p": 417,
 "lvl": 0,
-"ch": null,
-"topic": "bio-systematics"
+"ch": null
 },
 {
 "t": "Надотряд Сумчатые (Metatheria)",
@@ -15767,7 +15753,6 @@
 "p": 419,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 433
 },
 {
@@ -15826,7 +15811,6 @@
 "p": 40,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 64
 },
 {
@@ -15865,7 +15849,6 @@
 "p": 61,
 "lvl": 1,
 "ch": "Тип Саркомастигофоры (Sarcomastigophora)",
-"topic": "bio-systematics",
 "to": 63
 },
 {
@@ -15873,7 +15856,6 @@
 "p": 64,
 "lvl": 1,
 "ch": "Тип Саркомастигофоры (Sarcomastigophora)",
-"topic": "bio-systematics",
 "to": 64
 },
 {
@@ -15881,7 +15863,6 @@
 "p": 65,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 76
 },
 {
@@ -15889,7 +15870,6 @@
 "p": 67,
 "lvl": 1,
 "ch": "Тип Апикомплексы (Apicomplexa)",
-"topic": "bio-systematics",
 "to": 76
 },
 {
@@ -15897,7 +15877,6 @@
 "p": 77,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 78
 },
 {
@@ -15905,22 +15884,19 @@
 "p": 79,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 79
 },
 {
 "t": "Тип Асцетоспоридии (Ascetospora)",
 "p": 80,
 "lvl": 0,
-"ch": null,
-"topic": "bio-systematics"
+"ch": null
 },
 {
 "t": "Тип Лабиринтулы (Labyrinthomorpha)",
 "p": 80,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 80
 },
 {
@@ -15928,7 +15904,6 @@
 "p": 81,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 90
 },
 {
@@ -15980,7 +15955,6 @@
 "p": 106,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 107
 },
 {
@@ -16038,7 +16012,7 @@
 "p": 122,
 "lvl": 1,
 "ch": "Тип Кишечнополостные (Coelenterata)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 135
 },
 {
@@ -16046,7 +16020,7 @@
 "p": 136,
 "lvl": 1,
 "ch": "Тип Кишечнополостные (Coelenterata)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 140
 },
 {
@@ -16054,7 +16028,7 @@
 "p": 141,
 "lvl": 1,
 "ch": "Тип Кишечнополостные (Coelenterata)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 149
 },
 {
@@ -16078,7 +16052,6 @@
 "p": 152,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 158
 },
 {
@@ -16130,7 +16103,7 @@
 "p": 172,
 "lvl": 1,
 "ch": "Тип Плоские черви (Plathelminthes)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 183
 },
 {
@@ -16138,7 +16111,7 @@
 "p": 184,
 "lvl": 1,
 "ch": "Тип Плоские черви (Plathelminthes)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 187
 },
 {
@@ -16206,7 +16179,7 @@
 "p": 207,
 "lvl": 1,
 "ch": "Тип Круглые, или Первичнополостные черви (Nemathelminthes)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 207
 },
 {
@@ -16214,7 +16187,7 @@
 "p": 208,
 "lvl": 1,
 "ch": "Тип Круглые, или Первичнополостные черви (Nemathelminthes)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 222
 },
 {
@@ -16222,7 +16195,7 @@
 "p": 223,
 "lvl": 1,
 "ch": "Тип Круглые, или Первичнополостные черви (Nemathelminthes)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 226
 },
 {
@@ -16230,7 +16203,7 @@
 "p": 227,
 "lvl": 1,
 "ch": "Тип Круглые, или Первичнополостные черви (Nemathelminthes)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 227
 },
 {
@@ -16238,7 +16211,7 @@
 "p": 228,
 "lvl": 1,
 "ch": "Тип Круглые, или Первичнополостные черви (Nemathelminthes)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 228
 },
 {
@@ -16246,7 +16219,7 @@
 "p": 229,
 "lvl": 1,
 "ch": "Тип Круглые, или Первичнополостные черви (Nemathelminthes)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 230
 },
 {
@@ -16254,7 +16227,7 @@
 "p": 231,
 "lvl": 1,
 "ch": "Тип Круглые, или Первичнополостные черви (Nemathelminthes)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 231
 },
 {
@@ -16277,7 +16250,6 @@
 "p": 239,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 239
 },
 {
@@ -16291,8 +16263,7 @@
 "t": "Надтип Трохофорные (Trochozoa)",
 "p": 241,
 "lvl": 0,
-"ch": null,
-"topic": "bio-systematics"
+"ch": null
 },
 {
 "t": "Тип Кольчатые черви (Annelida)",
@@ -16307,7 +16278,7 @@
 "p": 243,
 "lvl": 1,
 "ch": "Тип Кольчатые черви (Annelida)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 243
 },
 {
@@ -16315,7 +16286,7 @@
 "p": 244,
 "lvl": 1,
 "ch": "Тип Кольчатые черви (Annelida)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 257
 },
 {
@@ -16323,7 +16294,7 @@
 "p": 258,
 "lvl": 1,
 "ch": "Тип Кольчатые черви (Annelida)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 263
 },
 {
@@ -16331,7 +16302,7 @@
 "p": 264,
 "lvl": 1,
 "ch": "Тип Кольчатые черви (Annelida)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 267
 },
 {
@@ -16339,7 +16310,7 @@
 "p": 268,
 "lvl": 1,
 "ch": "Тип Кольчатые черви (Annelida)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 269
 },
 {
@@ -16347,7 +16318,7 @@
 "p": 270,
 "lvl": 1,
 "ch": "Тип Кольчатые черви (Annelida)",
-"topic": "bio-systematics"
+"topic": "bio-animal-anatomy"
 },
 {
 "t": "Филогения и экологическая радиация кольчатых червей",
@@ -16383,7 +16354,7 @@
 "p": 279,
 "lvl": 1,
 "ch": "Тип Моллюски (Mollusca)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 282
 },
 {
@@ -16391,7 +16362,7 @@
 "p": 283,
 "lvl": 1,
 "ch": "Тип Моллюски (Mollusca)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 284
 },
 {
@@ -16407,7 +16378,7 @@
 "p": 286,
 "lvl": 1,
 "ch": "Тип Моллюски (Mollusca)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 287
 },
 {
@@ -16415,7 +16386,7 @@
 "p": 288,
 "lvl": 1,
 "ch": "Тип Моллюски (Mollusca)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 303
 },
 {
@@ -16423,7 +16394,7 @@
 "p": 304,
 "lvl": 1,
 "ch": "Тип Моллюски (Mollusca)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 320
 },
 {
@@ -16431,7 +16402,7 @@
 "p": 321,
 "lvl": 1,
 "ch": "Тип Моллюски (Mollusca)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 321
 },
 {
@@ -16439,7 +16410,7 @@
 "p": 322,
 "lvl": 1,
 "ch": "Тип Моллюски (Mollusca)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 336
 },
 {
@@ -16477,7 +16448,7 @@
 "p": 345,
 "lvl": 1,
 "ch": "Тип Членистоногие (Arthropoda)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 347
 },
 {
@@ -16492,7 +16463,7 @@
 "p": 348,
 "lvl": 1,
 "ch": "Тип Членистоногие (Arthropoda)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 360
 },
 {
@@ -16500,7 +16471,7 @@
 "p": 361,
 "lvl": 1,
 "ch": "Тип Членистоногие (Arthropoda)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 364
 },
 {
@@ -16508,7 +16479,7 @@
 "p": 365,
 "lvl": 1,
 "ch": "Тип Членистоногие (Arthropoda)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 365
 },
 {
@@ -16516,7 +16487,7 @@
 "p": 366,
 "lvl": 1,
 "ch": "Тип Членистоногие (Arthropoda)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 371
 },
 {
@@ -16524,7 +16495,7 @@
 "p": 372,
 "lvl": 1,
 "ch": "Тип Членистоногие (Arthropoda)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 373
 },
 {
@@ -16532,7 +16503,7 @@
 "p": 374,
 "lvl": 1,
 "ch": "Тип Членистоногие (Arthropoda)",
-"topic": "bio-systematics",
+"topic": "bio-animal-anatomy",
 "to": 382
 },
 {
@@ -16547,7 +16518,6 @@
 "p": 387,
 "lvl": 1,
 "ch": "Темы для обсуждения",
-"topic": "bio-systematics",
 "to": 388
 },
 {
@@ -16555,7 +16525,6 @@
 "p": 389,
 "lvl": 1,
 "ch": "Темы для обсуждения",
-"topic": "bio-systematics",
 "to": 390
 },
 {
@@ -16563,7 +16532,6 @@
 "p": 391,
 "lvl": 1,
 "ch": "Темы для обсуждения",
-"topic": "bio-systematics",
 "to": 407
 },
 {
@@ -16602,7 +16570,6 @@
 "p": 415,
 "lvl": 1,
 "ch": "Темы для обсуждения",
-"topic": "bio-systematics",
 "to": 415
 },
 {
@@ -16610,7 +16577,6 @@
 "p": 416,
 "lvl": 1,
 "ch": "Темы для обсуждения",
-"topic": "bio-systematics",
 "to": 416
 },
 {
@@ -16618,7 +16584,6 @@
 "p": 417,
 "lvl": 1,
 "ch": "Темы для обсуждения",
-"topic": "bio-systematics",
 "to": 419
 },
 {
@@ -16626,7 +16591,6 @@
 "p": 420,
 "lvl": 1,
 "ch": "Темы для обсуждения",
-"topic": "bio-systematics",
 "to": 422
 },
 {
@@ -16711,7 +16675,6 @@
 "p": 531,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 533
 },
 {
@@ -16727,7 +16690,6 @@
 "p": 538,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 538
 },
 {
@@ -16735,7 +16697,6 @@
 "p": 539,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 559
 },
 {
@@ -16750,7 +16711,6 @@
 "p": 554,
 "lvl": 1,
 "ch": "Тип Иглокожие (Echinodermata)",
-"topic": "bio-systematics",
 "to": 554
 },
 {
@@ -16765,7 +16725,6 @@
 "p": 555,
 "lvl": 1,
 "ch": "Тип Иглокожие (Echinodermata)",
-"topic": "bio-systematics",
 "to": 555
 },
 {
@@ -16773,7 +16732,6 @@
 "p": 556,
 "lvl": 1,
 "ch": "Тип Иглокожие (Echinodermata)",
-"topic": "bio-systematics",
 "to": 556
 },
 {
@@ -16781,7 +16739,6 @@
 "p": 557,
 "lvl": 1,
 "ch": "Тип Иглокожие (Echinodermata)",
-"topic": "bio-systematics",
 "to": 557
 },
 {
@@ -16789,7 +16746,6 @@
 "p": 558,
 "lvl": 1,
 "ch": "Тип Иглокожие (Echinodermata)",
-"topic": "bio-systematics",
 "to": 559
 },
 {
@@ -16811,7 +16767,6 @@
 "p": 562,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 563
 },
 {
@@ -16819,7 +16774,6 @@
 "p": 564,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 569
 },
 {
@@ -16827,7 +16781,6 @@
 "p": 565,
 "lvl": 1,
 "ch": "Тип Щупальцевые (Tentaculata)",
-"topic": "bio-systematics",
 "to": 566
 },
 {
@@ -16835,7 +16788,6 @@
 "p": 567,
 "lvl": 1,
 "ch": "Тип Щупальцевые (Tentaculata)",
-"topic": "bio-systematics",
 "to": 569
 },
 {
@@ -16843,7 +16795,6 @@
 "p": 570,
 "lvl": 0,
 "ch": null,
-"topic": "bio-systematics",
 "to": 571
 },
 {
