@@ -8,7 +8,7 @@
  "solutionFile": null,
  "noSolution": true,
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:41.927Z",
+ "generatedAt": "2026-11-09T19:30:10.764Z",
  "quality": {
   "tasks": 3,
   "parts": 3,
@@ -20,7 +20,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "Find all integers a, b, c with 1 < a < b < c such that (a − 1)(b −…",
    "statement": "Find all integers a, b, c with 1 < a < b < c such that\n\n                (a − 1)(b − 1)(c − 1)       is a divisor of abc − 1.",
    "total": 7,
    "parts": [
@@ -35,7 +35,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "Let R denote the set of all real numbers. Find all functions f : R →…",
    "statement": "Let R denote the set of all real numbers. Find all functions f : R → R\n   such that\n                  ³          ´\n                f x2 + f (y) = y + (f (x))2          for all x, y ∈ R.",
    "total": 7,
    "parts": [
@@ -50,7 +50,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "Consider nine points in space, no four of which are coplanar. Each…",
    "statement": "Consider nine points in space, no four of which are coplanar. Each pair\n   of points is joined by an edge (that is, a line segment) and each edge is\n   either colored blue or red or left uncolored. Find the smallest value of\n   n such that whenever exactly n edges are colored, the set of colored\n   edges necessarily contains a triangle all of whose edges have the same\n   color.\n\n           33rd International Mathematical Olympiad\n              Second Day - Moscow - July 15, 1992\n                     Time Limit: 4 21 hours",
    "total": 7,
    "parts": [

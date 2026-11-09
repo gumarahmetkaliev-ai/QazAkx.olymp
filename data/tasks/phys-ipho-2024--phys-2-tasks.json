@@ -7,7 +7,7 @@
  "tasksFile": "olympiads/physics/s/IPhO/2024/phys-2-tasks.pdf",
  "solutionFile": "olympiads/physics/s/IPhO/2024/phys-2-sol.pdf",
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T18:21:27.022Z",
+ "generatedAt": "2026-11-09T19:30:17.450Z",
  "quality": {
   "tasks": 7,
   "parts": 7,
@@ -19,7 +19,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "Do not touch and activate the buttons on the equipment before it is…",
    "statement": "Do not touch and activate the buttons on the equipment before it is asked you to do so.\n                                    I",
    "total": 7,
    "parts": [
@@ -34,7 +34,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "You do not need to do anything regarding the setup. Take care not to…",
    "statement": "You do not need to do anything regarding the setup. Take care not to disturb the setup and not\n                                 AT\n\n   to disconnect any wires.",
    "total": 7,
    "parts": [
@@ -49,7 +49,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "Don’t move the setup during the experiment. EG",
    "statement": "Don’t move the setup during the experiment.\n                         EG",
    "total": 7,
    "parts": [
@@ -64,7 +64,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "If the message “Turn off Heater1” appears on the monitor, immediately…",
    "statement": "If the message “Turn off Heater1” appears on the monitor, immediately turn off Heater no. 1.",
    "total": 7,
    "parts": [
@@ -79,7 +79,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "Turning on the heaters will increase the tempereture, so it will take…",
    "statement": "Turning on the heaters will increase the tempereture, so it will take extra time for the system to\n               EL\n\n     reach its steady state, make sure that you do not turn on a heater unnecessarily.",
    "total": 7,
    "parts": [
@@ -94,7 +94,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "Errors need to be calculated and reported whenever the ± sign is…",
    "statement": "Errors need to be calculated and reported whenever the ± sign is present in the answer sheet.",
    "total": 7,
    "parts": [
@@ -109,7 +109,7 @@
   },
   {
    "number": 7,
-   "title": "Задача 7",
+   "title": "Regression, (denoted by reg in the formula below and shown as r on…",
    "statement": "Regression, (denoted by reg in the formula below and shown as r on the calculator), is a number\n         D\n\n     between 1 and -1 showing how much the data can be fitted to a line. If |reg| = 1 it means that\n     the data are completely on a line.\nWe can use the following formula to calculate the uncertainty of the slope b :\n                                                     1         1\n                                    Δb = b√               (         2\n                                                                        − 1)\n                                                  (n−2)       reg\n\nin which n is the number of data points.\n\nThe Equipment\n\nIPhO 2024                                                                                Page 3 of 21\nExperiment, English (Official)\n\nPoints: 20                                                                                Time: 5.0 Hours",
    "total": 7,
    "parts": [

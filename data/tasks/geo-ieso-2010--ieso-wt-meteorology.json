@@ -1,0 +1,202 @@
+{
+ "setId": "geo-ieso-2010--ieso-wt-meteorology",
+ "olympiadId": "geo-ieso-2010",
+ "title": "География → IESO (науки о Земле) → 2010",
+ "materialLabel": "Ieso wt meteorology",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/ieso/2010/ieso-wt-meteorology.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:25:54.444Z",
+ "quality": {
+  "tasks": 12,
+  "parts": 12,
+  "withPoints": 12,
+  "withReference": 0,
+  "withQuestion": 12,
+  "estimatedPoints": 12
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Please write your name and nationality in English on the cover page.",
+   "statement": "Please write your name and nationality in English on the cover page.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "The time allocated for this examination is three hours.",
+   "statement": "The time allocated for this examination is three hours.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Please write your answer legibly. Illegible answers will be counted…",
+   "statement": "Please write your answer legibly. Illegible answers will be counted as\n       incorrect.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Please keep your answers short and focus on the key points.",
+   "statement": "Please keep your answers short and focus on the key points.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Please write your answers only in this test booklet. a. Encircle or…",
+   "statement": "Please write your answers only in this test booklet.\n          a. Encircle or mark the answer of your choice.\n          b. Write essay-type answers where indicated by the question, and\n          c. Use extra paper provided by the committee for calculation.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "You may answer the questions in English, your native language, or a…",
+   "statement": "You may answer the questions in English, your native language, or a\n       combination of both.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Read the entire question group carefully before starting to answer.…",
+   "statement": "Read the entire question group carefully before starting to answer. Each\n       question has a point value assigned, for example, (1 pt).",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "For some questions, you will be asked to provide answers on the…",
+   "statement": "For some questions, you will be asked to provide answers on the figures.\n       Please do so carefully.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "8",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Any inappropriate examination behaviour will result in your removal.…",
+   "statement": "Any inappropriate examination behaviour will result in your removal.\n\n                                                                      Page 1 of 9\n\n                                METEOROLOGY",
+   "total": 7,
+   "parts": [
+    {
+     "id": "9",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Greenhouse gases are transparent to visual radiation and not…",
+   "statement": "Greenhouse gases are transparent to visual radiation and not transparent to infrared\n   radiation. Sequence the gases according to their radiative forcings, starting from the\n   largest impact. (6 points)\n    (a) CO2, CH4, H2O, NO2\n    (b) H2O, CH4, CO2, NO2\n    (c) H2O, CO2, CH4, NO2\n    (d) CO2, H2O, NO2, CH4\n    (e) None is true.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "10",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "When you attempt to predict the weather for the next 25 minutes by…",
+   "statement": "When you attempt to predict the weather for the next 25 minutes by assuming that\n   conditions in general will not change during that time, you would employ (3 points)\n    (a) persistence forecasting\n    (b) statistical forecasting.\n    (c) historical forecasting.\n    (d) numerical forecasting.\n    (e) synoptic forecasting.\n\n                                                                             Page 8 of 9",
+   "total": 7,
+   "parts": [
+    {
+     "id": "11",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Look at figure 9. Figure 9. Ceilometer for essay question 40 It is a…",
+   "statement": "Look at figure 9.\n\n                          Figure 9. Ceilometer for essay question 40\n\n    It is a ceilometer, the device to measure the elevation of cloud ceiling. It consists of\n    a projector and detector. The projector has two lamps that each emit a focused\n    beam through a shutter. The focusing mirrors and lamps rotate, so the beams are\n    transmitted as pulses, shining at an angle onto the base of the cloud. The detector\n    responds electronically to a series of pulses at the predetermined frequency. The\n    height of the cloud base is calculated trigonometrically from angles of the\n    transmitted and reflected beams and the known distance between the projector and\n    the detector. A ceilometer can measure cloud bases up to 3000 m during the day\n    and up to about 6000 m at night.\n\n    If the distance b between the projector and the detector of a ceilometer is fixed at 20\n    m and the angle α between the transmitted beam and the reflected beam onto a\n    cloud is 0.5 deg, calculate the distance d to the base of the cloud.\n(12 points)\n\n                                                                                Page 9 of 9",
+   "total": 7,
+   "parts": [
+    {
+     "id": "12",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "setId": "math-imo-1966--math-tasks",
+ "olympiadId": "math-imo-1966",
+ "title": "Математика → IMO (международная) → 1966",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1966/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T19:30:11.461Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Eighth International Olympiad, 1966\n1966/1.\nIn a mathematical contest, three problems, A, B, C were posed. Among the\nparticipants there were 25 students who solved at least one problem each.\nOf all the contestants who did not solve problem A, the number who solved\nB was twice the number who solved C. The number of students who solved\nonly problem A was one more than the number of students who solved A\nand at least one other problem. Of all students who solved just one problem,\nhalf did not solve problem A. How many students solved only problem B?\n\n1966/2.\nLet a, b, c be the lengths of the sides of a triangle, and α, β, γ, respectively,\nthe angles opposite these sides. Prove that if\n                                   γ\n                        a + b = tan (a tan α + b tan β),\n                                   2\nthe triangle is isosceles.\n\n1966/3.\nProve: The sum of the distances of the vertices of a regular tetrahedron from\nthe center of its circumscribed sphere is less than the sum of the distances of\nthese vertices from any other point in space.\n\n1966/4.\nProve that for every natural number n, and for every real number x 6=\nkπ/2t (t = 0, 1, ..., n; k any integer)\n                  1      1              1\n                     +       + ··· +      n\n                                             = cot x − cot 2n x.\n               sin 2x sin 4x         sin 2 x\n1966/5.\nSolve the system of equations\n\n                      |a1 − a2 | x2    + |a1 − a3 | x3 + |a1 − a4 | x4 = 1\n       |a2 − a1 | x1                   + |a2 − a3 | x3 + |a2 − a3 | x3 = 1\n       |a3 − a1 | x1 + |a3 − a2 | x2                                   =1\n       |a4 − a1 | x1 + |a4 − a2 | x2   + |a4 − a3 | x3                 =1\n\nwhere a1 , a2 , a3 , a4 are four different real numbers.\n\n1966/6.\nIn the interior of sides BC, CA, AB of triangle ABC, any points K, L, M,\nrespectively, are selected. Prove that the area of at least one of the triangles\nAM L, BKM, CLK is less than or equal to one quarter of the area of triangle\nABC.",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

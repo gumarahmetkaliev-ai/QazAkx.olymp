@@ -1,0 +1,52 @@
+{
+ "setId": "phys-beyondolymp-3--jun-kz",
+ "olympiadId": "phys-beyondolymp-3",
+ "title": "Физика → BeyondOlympiad → 3",
+ "materialLabel": "Jun на казахском",
+ "lang": "kz",
+ "tasksFile": "olympiads/physics/s/beyondolymp/3/jun_kz.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:40:23.201Z",
+ "quality": {
+  "tasks": 2,
+  "parts": 2,
+  "withPoints": 2,
+  "withReference": 0,
+  "withQuestion": 2,
+  "estimatedPoints": 2
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "ÂÀÕ ñèïàòòàìàñûí àíû©òàó ³øií Ñàíæàð ©´ðàñòûðóû ©àæåò òiçáåêòi­/òiç-…",
+   "statement": "ÂÀÕ ñèïàòòàìàñûí àíû©òàó ³øií Ñàíæàð ©´ðàñòûðóû ©àæåò òiçáåêòi­/òiç-\n    áåêòåðäi­ ñûçáàñûí ñûçû­ûç\n\nÝêñïåðèìåíòòiê òóðäû àÿ©òà¡àííàí ñî­ Ñàíæàð ©àðà æºøiêòi àøûï ê°ðäi. Îë iøêi\nêåäåðãiñi æî© òîê ê°çiíåí, èäåàëäû äèîäòàí æºíå åêi áiðäåé ðåçèñòîðäàí ò´ðàòûíû\næºíå ñóðåòòå ê°ðñåòiëãåí ñõåìà¡à æèíàë¡àíû àíû©òàëäû. àðà æºøiêòåãi ÝÊ\nê°çiíû­ âîëüòàæû ξ0 = 2 Â, ðåçèñòîðëàðäû­ êåäåðãiñi R = 2 Îì",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "àðà æºøiêòi­ −3 Â-òàí +3 Â-©à äåéií äèàïàçîíûíäà ÂÀÕ-ñû­ ñûçû­ûç.…",
+   "statement": "àðà æºøiêòi­ −3 Â-òàí +3 Â-©à äåéií äèàïàçîíûíäà ÂÀÕ-ñû­ ñûçû­ûç.\n\n                                    bc-pf.org                                 4",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

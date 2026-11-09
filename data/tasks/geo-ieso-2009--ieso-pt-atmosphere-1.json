@@ -1,0 +1,127 @@
+{
+ "setId": "geo-ieso-2009--ieso-pt-atmosphere-1",
+ "olympiadId": "geo-ieso-2009",
+ "title": "География → IESO (науки о Земле) → 2009",
+ "materialLabel": "Ieso pt atmosphere 1",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/ieso/2009/ieso-pt-atmosphere-1.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:25:54.605Z",
+ "quality": {
+  "tasks": 7,
+  "parts": 7,
+  "withPoints": 7,
+  "withReference": 0,
+  "withQuestion": 7,
+  "estimatedPoints": 7
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Please write your name and nationality in English on the cover page.",
+   "statement": "Please write your name and nationality in English on the cover\n   page.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "The time allocated for this examination is 40 minutes.",
+   "statement": "The time allocated for this examination is 40 minutes.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Please write your answers legibly. Illegible answers will be counted…",
+   "statement": "Please write your answers legibly. Illegible answers will be\n   counted as incorrect.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "You may respond to questions either in English, your native language,…",
+   "statement": "You may respond to questions either in English, your native\n   language, or a combination of both.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Read the entire question group carefully before starting to answer.…",
+   "statement": "Read the entire question group carefully before starting to answer.\n   Each question has a point value assigned, for example, (1 pt).",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "For Problem 5, show all the calculations for the answers on the…",
+   "statement": "For Problem 5, show all the calculations for the answers on the\n   question paper.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Any inappropriate examination behavior will result in your withdrawal…",
+   "statement": "Any inappropriate examination behavior will result in your\n   withdrawal from the IESO.\n\n                    Display of Satellite and Radar Loops.\n              An example of satellite-picture loop is shown below.\n\n                An example of radar-picture loop is shown below.\n\nThe radar picture above is observed by the Wufenshan radar station in northeastern\n                                     Taiwan.\n\n                    Click here to start the Practical Test\n\n                                          Practical Test (Part I)\n\n   Purpose: To understand the precipitation and wind patterns in different weather\n                   conditions using satellite and radar pictures.\n\nBelow are three infrared satellite pictures associated with the same three weather\nconditions (cold front, typhoon, and monsoon flow of southwesterly wind).\n\n (A)                  30。N                (H)\n                                          (B)               30。N                       (I)\n                                                                                       (C)                 30。N\n\n             120。E                130。E            120。E                 130。E\n                                                                                             120。E                     130。E\n                                                           20。N                                           20。N\n                     20。N\n\nThe radar echo occurs when the electromagnetic wave emitted by a weather radar is\nreflected by raindrops. Stronger radar echo or reflectivity usually corresponds to\nlarger raindrops. Below are three horizontal radar reflectivity maps associated with\nthree weather conditions which include cold front, typhoon, and monsoon flow of\nsouthwesterly wind. The intensity of radar refractivity or echo (Z; in units of dBZ) is\nindicated by the color scale below and the range rings are for radius of 75 km and 150\nkm. The location of the radar site is indicated by the triangle symbol.\n\n       (D)                                (E)                                    (F)\n                                 150                               150                                           150\n\n                            75                             75                                        75\n\nUsing Doppler radars, we can also detect the raindrop motion along the radar beam (or\nradial) direction based on the Doppler-shift effect. To be specific, the radial velocity\ndetected by a Doppler radar is negative if raindrops move toward the radar; on the other\nhand, the radial velocity detected by a Doppler radar is positive if raindrops move away\nfrom the radar.\n\nThe relationship between true velocity and radar-detected radial velocity is shown in the\nfollowing picture. The true velocity is indicated by the green arrow. The positive (negative)\nradial velocity detected by the radar is indicated by the red (blue) arrow.\n\nBelow are three radar-observed radial velocity maps associated with the same three\nweather conditions (cold front, typhoon, and monsoon flow of southwesterly wind).\nThe value of radial velocity (Vr; in units of m s-1) detected by the radar is also indicated by\nthe color bar.\n\n     (G)                                       (H)\n                                 150                                          150\n\n                          75                                           75\n\n           Click here for the bigger Fig.(G)         Click here for the bigger Fig.(H)   Click here for the bigger Fig.(I)\n\nPlease answer the following questions:",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

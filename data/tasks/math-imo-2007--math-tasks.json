@@ -7,7 +7,7 @@
  "tasksFile": "olympiads/math/s/imo/2007/math-tasks.pdf",
  "solutionFile": "olympiads/math/s/imo/2007/math-sol.pdf",
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:38.563Z",
+ "generatedAt": "2026-11-09T19:30:07.649Z",
  "quality": {
   "tasks": 6,
   "parts": 6,
@@ -19,7 +19,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "Real numbers a1 , a2 , . . . , an are given. For each i (1 ≤ i ≤ n)…",
    "statement": "Real numbers a1 , a2 , . . . , an are given. For each i (1 ≤ i ≤ n) define\n\n                     di = max{aj : 1 ≤ j ≤ i} − min{aj : i ≤ j ≤ n}\n\nand let\n                                d = max{di : 1 ≤ i ≤ n}.\n\n (a) Prove that, for any real numbers x1 ≤ x2 ≤ · · · ≤ xn ,\n\n                                                     d\n                        max{|xi − ai | : 1 ≤ i ≤ n} ≥ .             (∗)\n                                                     2\n\n (b) Show that there are real numbers x1 ≤ x2 ≤ · · · ≤ xn such that equality holds\n     in (∗).",
    "total": 7,
    "parts": [
@@ -33,7 +33,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "Consider five points A, B, C, D and E such that ABCD is a…",
    "statement": "Consider five points A, B, C, D and E such that ABCD is a parallelogram\nand BCED is a cyclic quadrilateral. Let ` be a line passing through A. Suppose that\n` intersects the interior of the segment DC at F and intersects line BC at G. Suppose\nalso that EF = EG = EC. Prove that ` is the bisector of angle DAB.",
    "total": 7,
    "parts": [
@@ -47,7 +47,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "In a mathematical competition some competitors are friends.…",
    "statement": "In a mathematical competition some competitors are friends. Friendship\nis always mutual. Call a group of competitors a clique if each two of them are friends. (In\nparticular, any group of fewer than two competitors is a clique.) The number of members\nof a clique is called its size.\n    Given that, in this competition, the largest size of a clique is even, prove that the\ncompetitors can be arranged in two rooms such that the largest size of a clique contained\nin one room is the same as the largest size of a clique contained in the other room.\n\n                                                       Time allowed: 4 hours 30 minutes\n                                                         Each problem is worth 7 points\n\n                                                                           Language: English\n\n                                       July 26, 2007",
    "total": 7,
    "parts": [
@@ -61,7 +61,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "In triangle ABC the bisector of angle BCA intersects the circumcircle…",
    "statement": "In triangle ABC the bisector of angle BCA intersects the circumcircle\nagain at R, the perpendicular bisector of BC at P , and the perpendicular bisector of AC\nat Q. The midpoint of BC is K and the midpoint of AC is L. Prove that the triangles\nRP K and RQL have the same area.",
    "total": 7,
    "parts": [
@@ -75,7 +75,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "Let a and b be positive integers. Show that if 4ab − 1 divides (4a2 −…",
    "statement": "Let a and b be positive integers. Show that if 4ab − 1 divides (4a2 − 1)2 ,\nthen a = b.",
    "total": 7,
    "parts": [
@@ -89,7 +89,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "Let n be a positive integer. Consider S = {(x, y, z) : x, y, z ∈ {0,…",
    "statement": "Let n be a positive integer. Consider\n\n                 S = {(x, y, z) : x, y, z ∈ {0, 1, . . . , n}, x + y + z > 0}\n\nas a set of (n + 1)3 − 1 points in three-dimensional space. Determine the smallest possible\nnumber of planes, the union of which contains S but does not include (0, 0, 0).\n\n                                                         Time allowed: 4 hours 30 minutes\n                                                           Each problem is worth 7 points",
    "total": 7,
    "parts": [

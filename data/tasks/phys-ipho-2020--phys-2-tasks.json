@@ -7,7 +7,7 @@
  "tasksFile": "olympiads/physics/s/IPhO/2020/phys-2-tasks.pdf",
  "solutionFile": "olympiads/physics/s/IPhO/2020/phys-2-sol.pdf",
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T18:37:08.084Z",
+ "generatedAt": "2026-11-09T19:30:40.263Z",
  "quality": {
   "tasks": 21,
   "parts": 21,
@@ -19,7 +19,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "Multimeter",
    "statement": "Multimeter",
    "total": 7,
    "parts": [
@@ -34,7 +34,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "Photodiode with magnet",
    "statement": "Photodiode with magnet",
    "total": 7,
    "parts": [
@@ -49,7 +49,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "Battery",
    "statement": "Battery",
    "total": 7,
    "parts": [
@@ -64,7 +64,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "Resistors 10 kOhm and 200 kOhm",
    "statement": "Resistors 10 kOhm and 200 kOhm",
    "total": 7,
    "parts": [
@@ -79,7 +79,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "Splicing Connectors (4 pcs.)",
    "statement": "Splicing Connectors (4 pcs.)",
    "total": 7,
    "parts": [
@@ -94,7 +94,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "Battery holder",
    "statement": "Battery holder",
    "total": 7,
    "parts": [
@@ -109,7 +109,7 @@
   },
   {
    "number": 7,
-   "title": "Задача 7",
+   "title": "Red laser (wavelength 𝜆 = 630 nm)",
    "statement": "Red laser (wavelength 𝜆 = 630 nm)",
    "total": 7,
    "parts": [
@@ -124,7 +124,7 @@
   },
   {
    "number": 8,
-   "title": "Задача 8",
+   "title": "Laser stand",
    "statement": "Laser stand",
    "total": 7,
    "parts": [
@@ -139,7 +139,7 @@
   },
   {
    "number": 9,
-   "title": "Задача 9",
+   "title": "Needle",
    "statement": "Needle",
    "total": 7,
    "parts": [
@@ -154,7 +154,7 @@
   },
   {
    "number": 10,
-   "title": "Задача 10",
+   "title": "Masking tape",
    "statement": "Masking tape",
    "total": 7,
    "parts": [
@@ -169,7 +169,7 @@
   },
   {
    "number": 11,
-   "title": "Задача 11",
+   "title": "Screwdriver",
    "statement": "Screwdriver",
    "total": 7,
    "parts": [
@@ -184,7 +184,7 @@
   },
   {
    "number": 12,
-   "title": "Задача 12",
+   "title": "Ruler",
    "statement": "Ruler",
    "total": 7,
    "parts": [
@@ -199,7 +199,7 @@
   },
   {
    "number": 13,
-   "title": "Задача 13",
+   "title": "Large clips (2 pcs.)",
    "statement": "Large clips (2 pcs.)",
    "total": 7,
    "parts": [
@@ -214,7 +214,7 @@
   },
   {
    "number": 14,
-   "title": "Задача 14",
+   "title": "Tape Measure",
    "statement": "Tape Measure",
    "total": 7,
    "parts": [
@@ -229,7 +229,7 @@
   },
   {
    "number": 15,
-   "title": "Задача 15",
+   "title": "Slides (\"Diffraction grating\", \"Unit cell\", \"Plane group\", \"Molecular…",
    "statement": "Slides (\"Diffraction grating\", \"Unit cell\", \"Plane group\", \"Molecular replacement\") with samples\n\n                                                                         Q1-12\nExperiment\n\n                                                                                            English (Oﬃcial)",
    "total": 7,
    "parts": [
@@ -244,7 +244,7 @@
   },
   {
    "number": 16,
-   "title": "Задача 16",
+   "title": "Film for reducing laser intensity",
    "statement": "Film for reducing laser intensity",
    "total": 7,
    "parts": [
@@ -259,7 +259,7 @@
   },
   {
    "number": 17,
-   "title": "Задача 17",
+   "title": "Small clips (4 pcs.)",
    "statement": "Small clips (4 pcs.)",
    "total": 7,
    "parts": [
@@ -274,7 +274,7 @@
   },
   {
    "number": 18,
-   "title": "Задача 18",
+   "title": "Slide holder (needs to be assembled)",
    "statement": "Slide holder (needs to be assembled)",
    "total": 7,
    "parts": [
@@ -289,7 +289,7 @@
   },
   {
    "number": 19,
-   "title": "Задача 19",
+   "title": "Graph paper",
    "statement": "Graph paper",
    "total": 7,
    "parts": [
@@ -304,7 +304,7 @@
   },
   {
    "number": 20,
-   "title": "Задача 20",
+   "title": "Cardboard",
    "statement": "Cardboard",
    "total": 7,
    "parts": [
@@ -319,7 +319,7 @@
   },
   {
    "number": 21,
-   "title": "Задача 21",
+   "title": "Tablet with magnetic layer Samples Figure 15: Place and illuminate…",
    "statement": "Tablet with magnetic layer\n\nSamples\n\n                            Figure 15: Place and illuminate the samples as shown.\n\nSamples should be illuminated with a laser as follows. Position the sample so that the caption (slide title\nin English) is on top of the slide and reads from left to right. In this case, the laser should be in front of\nthe slide, and the screen for observing should be behind the slide (Fig. 15).\n\nIntensity detector\n\n                                  Figure 16: Items of the intensity detector.\n\nTo measure intensities, use a photodiode connected to a voltmeter, resistor and battery according to the\ncircuit shown in Fig. 17. In such a circuit, the current through the diode is proportional to the intensity\nof the incident light.\nPay attention to the polarity of the connection. On the battery block, the red wire is positive. By default,\nuse a 10 kΩ resistor, in case the measured intensities are very small – use a 200 kΩ resistor.\nTo use the connectors (ﬁg. 18), do the following. Lift the lever up, insert the wire into the connector,\nlower the lever. All three connector points are electrically connected to each other.\n\n                                                                       Q1-13\nExperiment\n\n                                                                                          English (Oﬃcial)\n\n          Figure 17: Intensity detector circuit. Pay attention to the polarity of the connection.\n\n     Figure 18: Scheme of splicing connector. All three connector points are electrically connected\n     to each other.\n\nLaser\n\nMount the laser in the stand 8. Use a large clip to ﬁx the laser on. If you need to make the laser beam\nnarrower, then seal the laser hole with masking tape and make a hole in it with a needle. If you want to\nreduce the intensity of the laser – use a darkening ﬁlm. Figure 19 is for your reference about that.\n!WARNING! Direct exposure to the laser beam is hazardous to the eyes. Do not point the laser beam at\nyourself or other people. If you don't use the laser – turn it off.\n!WARNING! A sharp needle is dangerous: you can get hurt! Use it carefully. When not in use, put the\nneedle in the protective cover.\n\n     Figure 19: Laser is kept switched on using large clip. To reduce beam size use sticky tape and\n     a needle. Darkening ﬁlm in a holder (large clip) to reduce laser intensity.",
    "total": 7,
    "parts": [

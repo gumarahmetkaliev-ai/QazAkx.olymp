@@ -1,0 +1,97 @@
+{
+ "setId": "geo-ieso-2007--ieso-combined",
+ "olympiadId": "geo-ieso-2007",
+ "title": "География → IESO (науки о Земле) → 2007",
+ "materialLabel": "Ieso combined",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/ieso/2007/ieso-combined.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:25:54.955Z",
+ "quality": {
+  "tasks": 5,
+  "parts": 5,
+  "withPoints": 5,
+  "withReference": 0,
+  "withQuestion": 5,
+  "estimatedPoints": 5
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Name a colorless transparent mineral in granite. (2 pts)",
+   "statement": "Name a colorless transparent mineral in granite. (2 pts)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Which of the following is/are possible economic values of granite?…",
+   "statement": "Which of the following is/are possible economic values of granite? Circle one or more than one\n  option. (2 pts)\n\n    A. petroleum                                           B. diamond\n    C. fertilizer                                                  D. cement\n    E. construction materials",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "When granite is metamorphosed, which rock is produced? (2 pts)",
+   "statement": "When granite is metamorphosed, which rock is produced? (2 pts)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Give three physical/chemical factors of metamorphism. (6 pts)",
+   "statement": "Give three physical/chemical factors of metamorphism. (6 pts)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Which of the following is/are associated with the formation of…",
+   "statement": "Which of the following is/are associated with the formation of granite. Circle one or more than\n  one option. (3 pts)\n\n         A. faulting                      B. volcanic eruption\n         C. intrusion of magma         D. relatively deep in the crust\n         E. slow cooling of magma\n\nII. The following diagram shows the variations in the length of day during the Phanerozoic based on\n  data gathered from corals, stromatolites, bivalves and other invertebrates. The dashed line shows the\n  gradual decrease in the number of days in a year with time; this corresponds to 2 milliseconds per\n  century. [15 pts]",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

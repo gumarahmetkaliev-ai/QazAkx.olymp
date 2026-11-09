@@ -1,0 +1,262 @@
+{
+ "setId": "geo-ieso-2011--ieso-wt-compiled",
+ "olympiadId": "geo-ieso-2011",
+ "title": "География → IESO (науки о Земле) → 2011",
+ "materialLabel": "Ieso wt compiled",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/ieso/2011/ieso-wt-compiled.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:25:54.174Z",
+ "quality": {
+  "tasks": 16,
+  "parts": 16,
+  "withPoints": 16,
+  "withReference": 0,
+  "withQuestion": 16,
+  "estimatedPoints": 16
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Please write your name and nationality in English on the cover page.",
+   "statement": "Please write your name and nationality in English on the cover\npage.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "The time allocated for this examination is four hours.",
+   "statement": "The time allocated for this examination is four hours.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Please write your answers legibly. Illegible answers will be counted…",
+   "statement": "Please write your answers legibly. Illegible answers will be\ncounted as\nincorrect.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Please keep your answers short and focus on the key points.",
+   "statement": "Please keep your answers short and focus on the key points.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "You may respond to questions either in English, your native language,…",
+   "statement": "You may respond to questions either in English, your native\nlanguage,\nor a combination of both.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Read the entire question group carefully before starting to answer.…",
+   "statement": "Read the entire question group carefully before starting to\nanswer.\nEach question has a point value assigned, for example, (1 pt).",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "For some questions, you will be asked to provide your answers on the…",
+   "statement": "For some questions, you will be asked to provide your answers\non the\nfigures. Please do so carefully.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Any inappropriate examination behaviour will result in your…",
+   "statement": "Any inappropriate examination behaviour will result in your\nwithdrawal\nfrom the IESO.\n\n                                  Geosphere Test with answers\nIESO 2011\n\nGEOSPHERE written test IESO 2011\nName__________________________\nCountry ________________________",
+   "total": 7,
+   "parts": [
+    {
+     "id": "8",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Which one of the following minerals is used as a gem in jewelry, is…",
+   "statement": "Which one of the following minerals is used as a gem in jewelry, is used as an\nindustrial abrasive, is a silicate, and has an isometric mineral symmetry. Circle the best\nanswer above._/0,5 pt.\n\na.   quartz         b.   biotite    c.   Hornblende       d.     rutile    e.   garnet\nf.   orthoclase     g.   calcite    h.   halite           i.     beryl     j.   diamond\nk.   basalt         l.   gabbro     m.   andesite         n.     granite   o.   rhyolite\np.   shale          q.   marble     r.   slate            s.     chalk     t.   chert",
+   "total": 7,
+   "parts": [
+    {
+     "id": "9",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "The following stratigraphic sections show two cross sections which…",
+   "statement": "The following stratigraphic sections show two cross sections which are located near\n    each other. Symbols a and a’ represent an igneous rock and b to e represent\n    sedimentary rocks. Answer the following question. _/0,5 pt\n\n                                                       Which rock is older, a or a’? _______",
+   "total": 7,
+   "parts": [
+    {
+     "id": "10",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "The precipitation of which of the following minerals is regulated by…",
+   "statement": "The precipitation of which of the following minerals is regulated by the concentration\nof CO2 in the solution?                         _/0,5 pt.\n\n                                               5\n\na) halite;    b) gypsum;     c) apatite;   d) calcite;     e) opal;   f) barytes.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "11",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "title": "The following table shows explanation of rocks and their formation…",
+   "statement": "The following table shows explanation of rocks and their formation environment.\nChoose the one that has the correct relationship between formation environment and rock\ntype. _/1 pt\n\n       Rock\n                         Macroscopic observation               Formation environment\n       name\n    1 Limeston            Sand size grains, spherical to   In the crust several km below the\n             e           elliptical grain shape, bedded                              surface\n    2 Granite                    Fine grained, foliated,    In the crust where magma cools\n                           occurrence of light and dark                               slowly\n                                         grains together\n    3        Basalt     Coarse to very coarse grained,                    Mid-oceanic ridge\n                              dark color, occurrence of\n                                                vesicles\n    4   Sandst         Medium grained, parallel                           River or beach\n           one         laminae or cross bedded\n    5    Gneiss       Alternating dark and light bands,       Contact zone between magma\n                                foliated, coarse grained        and surrounding rocks near\n                                                                                   surface\n\n                                                                  Correct answer: _________",
+   "total": 7,
+   "parts": [
+    {
+     "id": "12",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 13,
+   "title": "The following picture shows an outcrop of Paleozoic age deposited in…",
+   "statement": "The following picture shows an outcrop of Paleozoic age deposited in the ocean. The\nstrata largely consist of sand and shale layers. Answer the questions. _/1,5 pt (0,5 x 3)\n\n(1) Which layer is sandstone and shale respectively in A and B?\n    Shale: _______________Sandstone: ___________\n(2) What is the depositional process of layer A and B?\n    ______ is deposited by settling from suspension whereas ______ is deposited by\n    turbidity current.\n(3) Can you expect to find trilobite fossil from this outcrop? Yes/no Answers:_____\n\n                                                6\n\n            Geosphere Test with answers\nIESO 2011\n\n                        7",
+   "total": 7,
+   "parts": [
+    {
+     "id": "13",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 14,
+   "title": "The figure below is the stratigraphic section and paleomagnetic…",
+   "statement": "The figure below is the stratigraphic section and paleomagnetic inclination in some\narea assuming the rocks were deposited from 180 million years to the present without\ndeformation. The paleomagnetic inclination of rock in each layer is shown within a circle.\nThe arrows indicate the direction of paleo-magnetization at the time of rock formation.\n\nCalculate the average (south to north) velocity of the continent as it moved from position\nB to position E. Here, we assume that the latitude difference of one degree (1°) is equal to\n110 km, and we suppose that paleomagnetic inclination is equal to twice the paleo-\nlatitude. _/1 pt\n\nA) 2.3 cm/yr\nB) 4.4 cm/yr\nC) 8.8 cm/yr\nD) 9.7 cm/yr\n\n                                             8\n\n                               Geosphere Test with answers\nIESO 2011",
+   "total": 7,
+   "parts": [
+    {
+     "id": "14",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 15,
+   "title": "The figure below shows the soil texture of samples from five farms…",
+   "statement": "The figure below shows the soil texture of samples from five farms (A~E). The soil\nof which farm has the highest permeability? _/1 pt.\n(A) Farm A            (B) Farm B\n(C) Farm C            (D) Farm D\n(E)                                                                              Farm\nE\n\n                                           9",
+   "total": 7,
+   "parts": [
+    {
+     "id": "15",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 16,
+   "title": "Which type of fault is shown in the geological map below? _/0,5 pt.…",
+   "statement": "Which type of fault is shown in the geological map below? _/0,5 pt.\n              a. normal\n              b. inverse\n              c. vertical\n              d. obtuse\n\n                                          10\n\n                                Geosphere Test with answers\nIESO 2011\n\n17a. Examine the map above. Which of the choices best describes the type of tectonic\nstructures shown.  _/1 pt.\n\na) two anticlines with an intervening syncline\nb) two synclines with an intervening anticline\nc) a salt dome\nd) flat stratigraphy\n\n17b. Reconstruct the stratigraphy of the region shown above choosing among the\nfollowing stratigraphic columns. _/0,5 pt.\n\n                                            11\n\n12\n\n                                     Geosphere Test with answers\nIESO 2011\n\n18. Trace fossils are the remnants of the activities of ancient animals. According to\nthe patterns of trace fossils, geologists can infer the substrate condition,\nsedimentation rate, water flow energy, and paleoenvironment. Figure 9 is a trace\nfossil found in sandstone showing how an organism utilized the limited resource\nwith high efficiency. What is the most likely environment to find this kind of trace\nfossil? _/1 pt.\n\n         (A)inter tidal flat (B) rivers or lakes (C) mountains (D) deep marine\n\n     9a. Trace fossil on sandstone. Scale bar is 1 cm     9b. Close up view of Fig. 9a. Each divide on the\n                                                                         scale bar on the bottom is 1 mm.\n                                                 Fig. 9\n\n                                                   13\n\n19. A student used a portable Global Positioning System (GPS) to record the coordinates\nof his positions. The signal and the receiving conditions were good during the\nmeasurement. After the student entering the coordinates he got into GoogleEarth, he\nnoticed that the position drawn in GoogleEarth (GPS data) shifted hundred of meters\naway from the true location (True Loc). However, the relative positions among different\nlocations measured in the same day were correct. Which of the following factors is the\nmost likely cause of this problem? _/0,5 pt.\n\n(A) influence by the ionosphere\n(B) malfunction of the GPS\n(C) sheltered from the buildings\n(D) different coordinate systems\n\n                                          14\n\n                              Geosphere Test with answers\nIESO 2011\n\n20. The baby mammoth fossil shown below was found in Siberia in 1977. The\nfossilization process it underwent is known as: _/0,5 pt.\n\na) carbonification\nb) cryo-conservation\nc) inclusion in amber\nd) permineralization\ne) pyritization\nf) silicification\n\n                                          15\n\n21.    This fossil shown above is:                    _/0,5 pt.\n\na) shark (chondrycthyan)\nb) a bony fish (osteichthyan)\nc) an amphibian (salamander)\nd) a reptile (ichthyosaur)\ne) a bird (penguin)\nf) a mammal (cetacean)\n\n22. Match all of the rock features/sedimentary structures on the left with all possible\ndepositional environment found on the right.\n_/1,5 pt.        (0,25 x 6)\n\nRock feature/Sedimentary structure                           Depositional\nenvironment\n\n1 ___coal and siltstone with plant remains                   a. shallow ephemeral lake\n\n2 ___stromatolites and intraclastic limestone                b. quiet marine deep water\n\n3 ___laminated evaporites                                    c. delta swamp\n\n4 ___mud cracks                                              d. peri-glacial lake\n\n5 ___varves                                                  e. lagoon in arid climate\n\n6 ___thin-bedded shales                                      f. carbonate tidal flat\n\n23. Consider seismic waves which propagate at 4.5 km/s in the Earth crust.\na) What are the wavelengths associated to periods of T=0.1s, 1s and 100 s? _/0,5 pt.\n(a)    250m,           2.5 km                   and   250 km.\n(b)    450m,                    4.5 km                and 450 km.\n(c)    150m,           4.5 km                   and   500 m.\n(d)    750m,           7.5 km                   and   750 km.\n\n                                             16\n\nIESO 2011\n\nb) What are the periods and\n100km ? _/ 1 pt.\nperiods:\n(e)    0.00444 s,     4.4 s\n(f)    0.00034 s,    0.22 s\n(g)    0.00006 s,    0.06 s\n(h)    0.00022 s,    0.22 s\n\nfrequencies:\n(i)    4500 Hz,      4.5 Hz\n(j)    34 Hz,        24 Hz\n(k)    1200 Hz,      1.2 Hz\n(l)    22 Hz,        2.2 Hz\n\n    Geosphere Test with answers\n\nthe frequencies associated to wavelengths of 1m, 1km,\n (0,5 x 2)\n\n         and     444.4 s.\n         and     24.6 s.\n         and     60.0 s.\n                 and 22.2 s.\n\n         and     0.045 Hz.\n         and     44 Hz.\n         and     0.012 Hz.\n         and     220 Hz.\n\n                17\n\n24. The figure above shows the observed seismogram at some earthquake observatory.\nHere, the velocity of P wave (Vp) and S wave (Vs) is 7km/sec and 4km/s, respectively.\n_/1,5 pt (0,5 x 3)\n(a) How far the observatory is located from epicenter?\n(b) What time the earthquake occurred?\n(c) What time the first S wave arrive at the place 4000 km far from epicenter?\n\na)\n(__) 3150 km\n(__) 3920 km\n(__) 4140 km\n\nb)\n(__) 2 h: 51 min: 40 sec;\n(__) 2 h: 40 min: 33 sec;\n(__) 3 h: 03 min: 22 sec.\n\nc)\n(__) 2 h: 55 min: 20 sec;\n(__) 3 h: 22 min: 15 sec;\n(__) 3 h: 08 min: 20 sec.\n\n25. Volcanic eruption in a mid ocean ridge leads to matter and energy transformation\nbetween the following earth systems (choose the most complete option): _/1 pt\n\n   a. From geosphere to atmosphere.\n   b. From hydrosphere to geosphere.\n   c. From geosphere to hydrosphere and then to biosphere.\n   d. Only from geosphere to hydrosphere.\n\n                                          18\n\n                                 Geosphere Test with answers\nIESO 2011\n\n26.     Indicate the type of magma characteristically erupted at the following plate\ntectonics volcanic environments (the same magma type can occur in more than one\nenvironment). The choices are: Andesite, Basalt, Obsidian, and Rhyolite\n_/ 1,5 pt. (0,5 x 3)\n\n·   MidOceanic ridge\n·   Island arc\n·   Withinplate – Hot spots\n\n27. Mark three of the following phenomena that are precursors of impending volcanic\neruptions. _/ 0,5 pt.\n\na. Landslides\nb. Anomalous seismicity\nc. Heavy rains\nd. Increase of temperature and chemical changes in fumarolic gases\ne. Strong winds\nf. Ground uplift\n\n                                             19\n\n28. Looking closely at the figure representing the eruptive behavior of magmas\ndepending on their chemical composition and their dissolved gas content. 0,5 pt.\n\n a Basic and de-gassed magma\n b Basic magma rich in glass\n c Acid magma rich in glass\n d Acid and de-gassed magma\n\nFigure A shows eruptive behavior from which type of magma?_______\n\nFigure B shows eruptive behavior from which type of magma?_______\n\nFigure C shows eruptive behavior from which type of magma?_______\n\nFigure D shows eruptive behavior from which type of magma?_______\n\n                                         20\n\n                                 Geosphere Test with answers\nIESO 2011\n\n29.     Michelangelo Buonarroti (1475-1564) was one of the greatest sculptors of the\nRenaissance. In this historical period, several discoveries and innovations in the field of\nart, science, and technology were made. Michelangelo carved his statues from the\n“Carrara marble” a very fine metamorphic rock characterized by a uniform white color,\ncoming from quarries near the town of Carrara (Italy).\n\nWhich two of the following features are NOT associated with the formation of a marble?\n_/1 pt.\na) Marbles are formed by recrystallization of feldspars found in sandstones.\nb) Marbles have a hardness of 6-7 on the Mohs scale of mineral hardness.\nc) Marble is a metamorphic rock composed primarily of calcium\n   carbonate (CaCO3).\nd) The color of marble depends on the presence of mineral impurities\n   (such as clay, iron oxides etc)\ne) Marble is a rock resulting from metamorphism of sedimentary\n   carbonate rocks, such as limestone or dolomite rock.\nf) Marble is a non-foliated metamorphic rock with a crystalline\n   structure.\n\n30. How is called this geological phenomenon? _/0.5 pt.\n\na)     Volcanic chimney\nb)     meteor impact crater\nc)     rockfalls\nd)     sinkhole\n\n                                             21\n\n22\n\n                                Geosphere Test with answers\nIESO 2011\n\n31. The north – south trending Gulf of Aqaba is located along the south part of the Dead\nSea and the Arava Rift valley. It is 15 km wide and active rift since the early Miocene.\nThe rift valley is the north part of the Syrian-African tectonic system.\n5000 BP, 3 meters, above sea level, 5000 years old marine terraces were found 3 meters\nabove sea level along the east and the west margins of the gulf. These terraces are\ncontinuously mapped for several kilometers with a constant elevation. These terraces may\nrepresent: _/1 pt.\n\nA.     More warm climate comparing to the Late Pleistocene climate\nB.     Colder climate comparing to the recent climate\nC.     Tectonic uplifting\nD.     Remnants to high tide event\n\n                                            23\n\n32. Tsunami waves can be generated by several natural phenomena. One of the most\nfrequent cause are large subduction zone earthquakes, generated at the interface between\ntwo lithospheric converging plates where one of the two subduces beneath the other.\nCentral Mediterranean tectonics is dominated by the slow relative converging motion of\nthe African and European Plates. Italy sits on the converging plate margin, and its\nvolcanic and seismic activity are related to this first order phenomena. In the central\nMediterranean area subduction is continuously going on under Calabria in Southern Italy,\nand to the east under the island of Crete. Here, large subduction zone earthquakes\noccurred in historical times, such as in the A.D. 365 M 8+ earthquake, and generated\nwidespread devastating tsunami waves that hit the coasts of North Africa, mainland\nGreece and Southern Italy.\nEarthquake generated tsunamis are produced by the coseismic displacement of the sea\nbottom. The speed of a tsunami is directly correlated to the depth of the sea, i.e. it moves\nfaster in deep waters and slow in shallower waters.\nEarly warning systems are fundamental for mitigating the tsunami hazard along the\ncoasts, and are based on models of tsunami generating and of propagation.\n\nSupposing that at 06:30 am UTC a large subduction zone earthquake hits the south-\nwestern coast of Crete, and knowing:",
+   "total": 7,
+   "parts": [
+    {
+     "id": "16",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

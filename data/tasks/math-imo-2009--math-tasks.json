@@ -7,7 +7,7 @@
  "tasksFile": "olympiads/math/s/imo/2009/math-tasks.pdf",
  "solutionFile": "olympiads/math/s/imo/2009/math-sol.pdf",
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:37.583Z",
+ "generatedAt": "2026-11-09T19:30:06.619Z",
  "quality": {
   "tasks": 6,
   "parts": 6,
@@ -19,7 +19,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "Let n be a positive integer and let a1 , . . . , ak (k ≥ 2) be…",
    "statement": "Let n be a positive integer and let a1 , . . . , ak (k ≥ 2) be distinct integers in the set\n{1, . . . , n} such that n divides ai (ai+1 −1) for i = 1, . . . , k −1. Prove that n does not divide ak (a1 −1).",
    "total": 7,
    "parts": [
@@ -33,7 +33,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "Let ABC be a triangle with circumcentre O. The points P and Q are…",
    "statement": "Let ABC be a triangle with circumcentre O. The points P and Q are interior points\nof the sides CA and AB, respectively. Let K, L and M be the midpoints of the segments BP , CQ\nand P Q, respectively, and let Γ be the circle passing through K, L and M . Suppose that the line\nP Q is tangent to the circle Γ. Prove that OP = OQ.",
    "total": 7,
    "parts": [
@@ -47,7 +47,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "Suppose that s1 , s2 , s3 , . . . is a strictly increasing sequence…",
    "statement": "Suppose that s1 , s2 , s3 , . . . is a strictly increasing sequence of positive integers such\nthat the subsequences\n\n                             ss1 , ss2 , ss3 , . . .   and   ss1 +1 , ss2 +1 , ss3 +1 , . . .\n\nare both arithmetic progressions. Prove that the sequence s1 , s2 , s3 , . . . is itself an arithmetic pro-\ngression.\n\nLanguage: English                                                                    Time: 4 hours and 30 minutes\n                                                                                     Each problem is worth 7 points\n\n                                                                         Language:        English\n\n                                                                                            Day:      2\n\n                                                                                Thursday, July 16, 2009",
    "total": 7,
    "parts": [
@@ -61,7 +61,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "Let ABC be a triangle with AB = AC. The angle bisectors of 6 CAB and…",
    "statement": "Let ABC be a triangle with AB = AC. The angle bisectors of 6 CAB and 6 ABC\nmeet the sides BC and CA at D and E, respectively. Let K be the incentre of triangle ADC.\nSuppose that 6 BEK = 45◦ . Find all possible values of 6 CAB.",
    "total": 7,
    "parts": [
@@ -75,7 +75,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "Determine all functions f from the set of positive integers to the…",
    "statement": "Determine all functions f from the set of positive integers to the set of positive integers\nsuch that, for all positive integers a and b, there exists a non-degenerate triangle with sides of lengths\n\n                                     a, f (b) and f (b + f (a) − 1).\n\n(A triangle is non-degenerate if its vertices are not collinear.)",
    "total": 7,
    "parts": [
@@ -89,7 +89,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "Let a1 , a2 , . . . , an be distinct positive integers and let M be a…",
    "statement": "Let a1 , a2 , . . . , an be distinct positive integers and let M be a set of n − 1 positive\nintegers not containing s = a1 + a2 + · · · + an . A grasshopper is to jump along the real axis, starting\nat the point 0 and making n jumps to the right with lengths a1 , a2 , . . . , an in some order. Prove that\nthe order can be chosen in such a way that the grasshopper never lands on any point in M .\n\nLanguage: English                                                        Time: 4 hours and 30 minutes\n                                                                         Each problem is worth 7 points",
    "total": 7,
    "parts": [

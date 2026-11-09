@@ -8,7 +8,7 @@
  "solutionFile": null,
  "noSolution": true,
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:42.025Z",
+ "generatedAt": "2026-11-09T19:30:10.853Z",
  "quality": {
   "tasks": 6,
   "parts": 6,
@@ -20,7 +20,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "Prove that the set {1, 2, . . . , 1989} can be expressed as the…",
    "statement": "Prove that the set {1, 2, . . . , 1989} can be expressed as the disjoint union of\n   subsets Ai (i = 1, 2, . . . , 117) such that:\n\n    (i) Each Ai contains 17 elements;\n   (ii) The sum of all the elements in each Ai is the same.",
    "total": 7,
    "parts": [
@@ -35,7 +35,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "In an acute-angled triangle ABC the internal bisector of angle A…",
    "statement": "In an acute-angled triangle ABC the internal bisector of angle A meets the\n   circumcircle of the triangle again at A1 . Points B1 and C1 are defined similarly.\n   Let A0 be the point of intersection of the line AA1 with the external bisectors\n   of angles B and C. Points B0 and C0 are defined similarly. Prove that:\n\n    (i) The area of the triangle A0 B0 C0 is twice the area of the hexagon AC1 BA1 CB1 .\n   (ii) The area of the triangle A0 B0 C0 is at least four times the area of the\n        triangle ABC.",
    "total": 7,
    "parts": [
@@ -50,7 +50,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "Let n and k be positive integers and let S be a set of n points in…",
    "statement": "Let n and k be positive integers and let S be a set of n points in the plane such\n   that\n\n    (i) No three points of S are collinear, and\n   (ii) For any point P of S there are at least k points of S equidistant from P .\n\n   Prove that:\n                                          1 √\n                                     k<     + 2n.\n                                          2\n\n                 30th International Mathematical Olympiad\n                             Braunschweig, Germany\n                                         Day II",
    "total": 7,
    "parts": [
@@ -65,7 +65,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "Let ABCD be a convex quadrilateral such that the sides AB, AD, BC…",
    "statement": "Let ABCD be a convex quadrilateral such that the sides AB, AD, BC satisfy\n   AB = AD + BC. There exists a point P inside the quadrilateral at a distance\n   h from the line CD such that AP = h + AD and BP = h + BC. Show that:\n                                     1   1     1\n                                    √ ≥√    +√    .\n                                      h  AD    BC",
    "total": 7,
    "parts": [
@@ -80,7 +80,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "Prove that for each positive integer n there exist n consecutive…",
    "statement": "Prove that for each positive integer n there exist n consecutive positive integers\n   none of which is an integral power of a prime number.",
    "total": 7,
    "parts": [
@@ -95,7 +95,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "A permutation (x1 , x2 , . . . , xm ) of the set {1, 2, . . . , 2n},…",
    "statement": "A permutation (x1 , x2 , . . . , xm ) of the set {1, 2, . . . , 2n}, where n is a positive\n   integer, is said to have property P if |xi − xi+1 | = n for at least one i in\n   {1, 2, . . . , 2n − 1}. Show that, for each n, there are more permutations with\n   property P than without.",
    "total": 7,
    "parts": [

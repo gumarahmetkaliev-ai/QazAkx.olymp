@@ -1,0 +1,37 @@
+{
+ "setId": "math-imo-1963--math-tasks",
+ "olympiadId": "math-imo-1963",
+ "title": "Математика → IMO (международная) → 1963",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1963/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T19:30:11.536Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Fifth International Olympiad, 1963\n1963/1.\nFind all real roots of the equation\n                             q           √\n                               x2 − p + 2 x2 − 1 = x,\n\nwhere p is a real parameter.\n\n1963/2.\nPoint A and segment BC are given. Determine the locus of points in space\nwhich are vertices of right angles with one side passing through A, and the\nother side intersecting the segment BC.\n\n1963/3.\nIn an n-gon all of whose interior angles are equal, the lengths of consecutive\nsides satisfy the relation\n\n                                 a1 ≥ a2 ≥ · · · ≥ an .\n\nProve that a1 = a2 = · · · = an .\n\n1963/4.\nFind all solutions x1 , x2 , x3 , x4 , x5 of the system\n\n                                  x5 + x2    =   yx1\n                                  x1 + x3    =   yx2\n                                  x2 + x4    =   yx3\n                                  x3 + x5    =   yx4\n                                  x4 + x1    =   yx5 ,\n\nwhere y is a parameter.\n\n1963/5.\nProve that cos π7 − cos 2π\n                         7\n                           + cos 3π\n                                  7\n                                    = 12 .\n\n1963/6.\nFive students, A, B, C, D, E, took part in a contest. One prediction was that\nthe contestants would finish in the order ABCDE. This prediction was very\npoor. In fact no contestant finished in the position predicted, and no two\ncontestants predicted to finish consecutively actually did so. A second pre-\ndiction had the contestants finishing in the order DAECB. This prediction\nwas better. Exactly two of the contestants finished in the places predicted,\nand two disjoint pairs of students predicted to finish consecutively actually\ndid so. Determine the order in which the contestants finished.",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

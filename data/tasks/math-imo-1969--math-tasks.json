@@ -1,0 +1,37 @@
+{
+ "setId": "math-imo-1969--math-tasks",
+ "olympiadId": "math-imo-1969",
+ "title": "Математика → IMO (международная) → 1969",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1969/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T19:30:11.389Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Eleventh International Olympiad, 1969\n1969/1.\nProve that there are infinitely many natural numbers a with the following\nproperty: the number z = n4 + a is not prime for any natura1 number n.\n\n1969/2.\nLet a1 , a2 , · · · , an be real constants, x a real variable, and\n\n                                           1              1\n             f (x) = cos(a1 + x) +           cos(a2 + x) + cos(a3 + x)\n                                           2              4\n                                    1\n                         +··· +           cos(an + x).\n                                   2n−1\nGiven that f (x1 ) = f (x2 ) = 0, prove that x2 − x1 = mπ for some integer m.\n\n1969/3.\nFor each value of k = 1, 2, 3, 4, 5, find necessary and sufficient conditions on\nthe number a > 0 so that there exists a tetrahedron with k edges of length\na, and the remaining 6 − k edges of length 1.\n\n1969/4.\nA semicircular arc γ is drawn on AB as diameter. C is a point on γ other\nthan A and B, and D is the foot of the perpendicular from C to AB. We\nconsider three circles, γ1 , γ2 , γ3 , all tangent to the line AB. Of these, γ1 is\ninscribed in ∆ABC, while γ2 and γ3 are both tangent to CD and to γ, one on\neach side of CD. Prove that γ1 , γ2 and γ3 have a second tangent in common.\n\n1969/5.\nGiven n > 4 points³ in ´the plane such that no three are collinear. Prove that\nthere are at least n−3\n                     2\n                          convex quadrilaterals whose vertices are four of the\ngiven points.\n\n1969/6.\nProve that for all real numbers x1 , x2 , y1 , y2 , z1 , z2 , with x1 > 0, x2 > 0, x1 y1 −\nz12 > 0, x2 y2 − z22 > 0, the inequality\n                           8                          1          1\n                                             2 ≤            +\n           (x1 + x2 ) (y1 + y2 ) − (z1 + z2 )    x1 y1 − z1 x2 y2 − z22\n                                                          2\n\nis satisfied. Give necessary and sufficient conditions for equality.",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

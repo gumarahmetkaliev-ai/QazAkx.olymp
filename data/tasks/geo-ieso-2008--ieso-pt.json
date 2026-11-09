@@ -1,0 +1,97 @@
+{
+ "setId": "geo-ieso-2008--ieso-pt",
+ "olympiadId": "geo-ieso-2008",
+ "title": "География → IESO (науки о Земле) → 2008",
+ "materialLabel": "Ieso pt",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/ieso/2008/ieso-pt.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:25:54.842Z",
+ "quality": {
+  "tasks": 5,
+  "parts": 5,
+  "withPoints": 5,
+  "withReference": 0,
+  "withQuestion": 5,
+  "estimatedPoints": 5
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Use the following figure to answer the questions below (1.8 pts…",
+   "statement": "Use the following figure to answer the questions below (1.8 pts total, 0.6 pt each).\n\n                  I                          II\n\n    (a) Calculate the percent increase in CO2 from 1970 to 2004. (0.6 pt)\n\n    (b) Estimate in ppm the annual range of CO2 variation. (0.6 pt)\n\n    (c) In addition to CO2, list two other greenhouse gases produced by human activities. (0.6 pt)\n\nIESO 2008 Practical Test                                                                      2",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Use the three images of clouds to complete the chart below (2.7 pts…",
+   "statement": "Use the three images of clouds to complete the chart below (2.7 pts total, 0.3 pt each).\n\n                               A                       B                       C\nName of cloud type\n\nH2O form (liquid,\nice, vapor)\n\nAltitude of cloud\n(low, medium, high)\n\n                        Location is in high elevation mountain range\n\nIESO 2008 Practical Test                                                  3\n\n                           Location is in the tropics near sea level\n\n                                    Location is in tropics at sea level\n\nIESO 2008 Practical Test                                                                           4",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "The position marked A is used in answering the following question…",
+   "statement": "The position marked A is used in answering the following question (2.5 pts total):\n\nThe equation below describes the balanced flow at location A in this 500 hPa chart:\n\n                      V2           1 ΔP\n                          + fV = −\n                       R           ρ Δn\n                      (1.) (2.)     (3.)\n\nWhere V is the wind speed, f is the Coriolis parameter, ∆P is the pressure difference in a\ndistance ∆n, n is normal to the horizontal velocity vector and pointing to left hand side of the\nwind direction, and R is the radius of curvature of trajectory.\n\na) Explain the physical meaning of each term in the equation.\n\n   (1.) ________________________________________________(0.5 pt)\n\n   (2.) ________________________________________________(0.5 pt)\n\n   (3.) _______________________________________________(0.5 pt)\n\nb) On the figure above, show the direction of term(2) and term(3) at the position A.      (1 pt)\n\nIESO 2008 Practical Test                                                                       5",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "The following figure shows a schematic diagram of sea surface height…",
+   "statement": "The following figure shows a schematic diagram of sea surface height in the North Pacific\n   Ocean. [ 9 pts/3 Æ3 pts total]\n\n                                                                                 N\n\n     A         B\nC                                                                              D\n\n (a) Which station shows higher sea surface height between A and B? [1 pt]\n\n (b) Show sea surface current vectors corresponding to the above sea surface height pattern. Draw the\n     vectors on the figure above. [3 pts]\n\n (c) Continued from question (b), what are the two dominant forces responsible for the currents? [1 pt]\n\n (d) Also continued from question (b), explain the main cause of the asymmetrical circulation [2 pts]\n\n IESO 2008 Practical Test                                                                       6\n\n  (e) Draw temperature contours for the vertical section across the line CD in the blank figure below\n      [2 pts]\n\n                                                                                  N\n\n        A        B\n   C                                                                             D\n\nDepth\n\nIESO 2008 Practical Test                                                                      7",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "This set of questions tries to show the Kepler’s third law using the…",
+   "statement": "This set of questions tries to show the Kepler’s third law using the images of Uranus and its\n   moons. Figure (1) shows the images of Uranus taken by Hubble Space Telescope in 1997,\n   and the time interval between left and right images was 90 minutes. There are 8 moons\n   revolving around Uranus as seen in the images.\n\n                                  Figure (1) The images of Uranus\n\n     In order to figure out the motion of these 8 moons, the two images in Figure (1) were\n     overlapped and combined to form a single image shown in Figure (2). Assume that the\n     orbits of the 8 moons are circular and lying on the same plane with the same inclination\n     angle. (Note: you are observing the plane of the circular orbits from an angle so that they\n     appear as ellipses.) Using a ruler, a protractor and a compass, measure the radius of each\n     orbit (R) in mm and estimate the period of revolution (T) of each orbit in hours. Note that\n     the periods of all 8 moons are less than 24 hours. The procedure below described by steps\n     a) to g) on the next page was used to find the information that is in Table 1. Use the same\n     procedure to complete Table 1. (3 pts total)\n\nIESO 2008 Practical Test                                                                            8\n\n                                 Figure (2) The motion of Uranus’ moons\n\n    a) Find the center of Uranus and mark it as the origin of an x and y axis.\n    b) Find the observed elliptical orbit of Portia using its track in figure (2).\n    c) Draw the approximate elliptical orbit on figure (2).\n         Note: Keep the center of ellipse at origin.\n    d) Draw the circular orbit from the observed ellipse orbit found in steps b) and c).\n        Note: Keep the length of the semi major axis in the ellipse to be the same as the radius\n        of the circular orbit.\n    e) Find the first and the second positions (90 minutes apart) of Portia at the circular orbit\n        you drew.\n        Note: Draw perpendicular lines from the y axis, passing through Portia’s two images in\n        figure (2). Find two points on the circular orbit by intersecting these two perpendicular\n        lines with the circular orbits.\n    f) Find the angular difference between the two points in the circular orbit.\n         Note: Draw two lines from the origin to the two points you found in step e).\n\nIESO 2008 Practical Test                                                                   9\n\n    g) Calculate the orbital period in hours.\n        Note: The two images were taken 90 minutes apart.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

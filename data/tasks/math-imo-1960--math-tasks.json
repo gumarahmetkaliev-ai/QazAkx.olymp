@@ -1,0 +1,37 @@
+{
+ "setId": "math-imo-1960--math-tasks",
+ "olympiadId": "math-imo-1960",
+ "title": "Математика → IMO (международная) → 1960",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1960/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T19:30:11.607Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Second International Olympiad, 1960\n1960/1.\nDetermine all three-digit numbers N having the property that N is divisible\nby 11, and N/11 is equal to the sum of the squares of the digits of N.\n1960/2.\nFor what values of the variable x does the following inequality hold:\n                               4x2\n                              √         < 2x + 9?\n                          (1 − 1 + 2x)2\n1960/3.\nIn a given right triangle ABC, the hypotenuse BC, of length a, is divided\ninto n equal parts (n an odd integer). Let α be the acute angle subtending,\nfrom A, that segment which contains the midpoint of the hypotenuse. Let h\nbe the length of the altitude to the hypotenuse of the triangle. Prove:\n                                        4nh\n                             tan α = 2         .\n                                      (n − 1)a\n1960/4.\nConstruct triangle ABC, given ha , hb (the altitudes from A and B) and ma ,\nthe median from vertex A.\n1960/5.\nConsider the cube ABCDA0 B 0 C 0 D0 (with face ABCD directly above face\nA0 B 0 C 0 D0 ).\n(a) Find the locus of the midpoints of segments XY, where X is any point\nof AC and Y is any point of B 0 D0 .\n(b) Find the locus of points Z which lie on the segments XY of part (a) with\nZY = 2XZ.\n1960/6.\nConsider a cone of revolution with an inscribed sphere tangent to the base\nof the cone. A cylinder is circumscribed about this sphere so\nthat one of its bases lies in the base of the cone. Let V1 be the volume of the\ncone and V2 the volume of the cylinder.\n(a) Prove that V1 6= V2 .\n(b) Find the smallest number k for which V1 = kV2 , for this case, construct\nthe angle subtended by a diameter of the base of the cone at the vertex of\nthe cone.\n\n1960/7.\nAn isosceles trapezoid with bases a and c and altitude h is given.\n(a) On the axis of symmetry of this trapezoid, find all points P such that\nboth legs of the trapezoid subtend right angles at P.\n(b) Calculate the distance of P from either base.\n(c) Determine under what conditions such points P actually exist. (Discuss\nvarious cases that might arise.)",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

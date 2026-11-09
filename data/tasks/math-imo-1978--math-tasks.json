@@ -1,0 +1,37 @@
+{
+ "setId": "math-imo-1978--math-tasks",
+ "olympiadId": "math-imo-1978",
+ "title": "Математика → IMO (международная) → 1978",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1978/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T19:30:11.151Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Twentieth International Olympiad, 1978\n1978/1. m and n are natural numbers with 1 ≤ m < n. In their decimal\nrepresentations, the last three digits of 1978m are equal, respectively, to the\nlast three digits of 1978n . Find m and n such that m + n has its least value.\n1978/2. P is a given point inside a given sphere. Three mutually perpendic-\nular rays from P intersect the sphere at points U, V, and W ; Q denotes the\nvertex diagonally opposite to P in the parallelepiped determined by P U, P V,\nand P W. Find the locus of Q for all such triads of rays from P\n1978/3. The set of all positive integers is the union of two disjoint subsets\n{f (1), f (2), ..., f (n), ...}, {g(1), g(2), ..., g(n), ...}, where\n\n                       f (1) < f (2) < · · · < f (n) < · · · ,\n\n                       g(1) < g(2) < · · · < g(n) < · · · ,\nand\n                       g(n) = f (f (n)) + 1for all n ≥ 1.\nDetermine f (240).\n1978/4. In triangle ABC, AB = AC. A circle is tangent internally to the\ncircumcircle of triangle ABC and also to sides AB, AC at P, Q, respectively.\nProve that the midpoint of segment P Q is the center of the incircle of triangle\nABC.\n1978/5. Let {ak }(k = 1, 2, 3, ..., n, ...) be a sequence of distinct positive\nintegers. Prove that for all natural numbers n,\n                                 n\n                                 X               n\n                                                 X\n                                   ak              1\n                                         2\n                                             ≥           .\n                                 k=1 k           k=1 k\n\n1978/6. An international society has its members from six different countries.\nThe list of members contains 1978 names, numbered 1, 2, ..., 1978. Prove that\nthere is at least one member whose number is the sum of the numbers of two\nmembers from his own country, or twice as large as the number of one member\nfrom his own country.",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

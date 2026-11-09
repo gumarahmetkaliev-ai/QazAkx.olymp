@@ -7,7 +7,7 @@
  "tasksFile": "olympiads/physics/s/IPhO/2023/phys-2-tasks.pdf",
  "solutionFile": "olympiads/physics/s/IPhO/2023/phys-2-sol.pdf",
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T18:21:34.853Z",
+ "generatedAt": "2026-11-09T19:30:25.167Z",
  "quality": {
   "tasks": 17,
   "parts": 17,
@@ -19,7 +19,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "Mounting base: Note: magnet unit on the base creates the…",
    "statement": "Mounting base:\n     Note: magnet unit on the base creates the height-independent uniform radial magnetic fields war-\n     ranted near the center of the magnet pair to within ±3 mm in height.",
    "total": 7,
    "parts": [
@@ -34,7 +34,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "(Oscillator) support",
    "statement": "(Oscillator) support",
    "total": 7,
    "parts": [
@@ -49,7 +49,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "Thumbscrews [2]: Note: Remove 2 and 3 from 1 in the as-received…",
    "statement": "Thumbscrews [2]:\n     Note: Remove 2 and 3 from 1 in the as-received package for use.",
    "total": 7,
    "parts": [
@@ -64,7 +64,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "Shim (washer) [6] Q1-2 Experiment English (Official)",
    "statement": "Shim (washer) [6]\n\n                                                                              Q1-2\nExperiment\n\n                                                                                         English (Official)",
    "total": 7,
    "parts": [
@@ -79,7 +79,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "Cylindrical oscillator",
    "statement": "Cylindrical oscillator",
    "total": 7,
    "parts": [
@@ -94,7 +94,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "Rubber bands [6]",
    "statement": "Rubber bands [6]",
    "total": 7,
    "parts": [
@@ -109,7 +109,7 @@
   },
   {
    "number": 7,
-   "title": "Задача 7",
+   "title": "Markers [2]",
    "statement": "Markers [2]",
    "total": 7,
    "parts": [
@@ -124,7 +124,7 @@
   },
   {
    "number": 8,
-   "title": "Задача 8",
+   "title": "Weights [5]",
    "statement": "Weights [5]",
    "total": 7,
    "parts": [
@@ -139,7 +139,7 @@
   },
   {
    "number": 9,
-   "title": "Задача 9",
+   "title": "Tweezers",
    "statement": "Tweezers",
    "total": 7,
    "parts": [
@@ -154,7 +154,7 @@
   },
   {
    "number": 10,
-   "title": "Задача 10",
+   "title": "Mirror",
    "statement": "Mirror",
    "total": 7,
    "parts": [
@@ -169,7 +169,7 @@
   },
   {
    "number": 11,
-   "title": "Задача 11",
+   "title": "Riser block",
    "statement": "Riser block",
    "total": 7,
    "parts": [
@@ -184,7 +184,7 @@
   },
   {
    "number": 12,
-   "title": "Задача 12",
+   "title": "Power supply (PS): DC or AC mode is toggled on. In the DC mode, it…",
    "statement": "Power supply (PS):\n     DC or AC mode is toggled on.\n     In the DC mode, it works as the constant-current source. Turn the knob labeled “DC Vol” to adjust\n     the current. The magnitude of current is obtained from the voltage between “DCmon” and “DC\n     GND” using the conversion factor 1.00 A/V.\n     In the AC mode, it functions as the voltage source with a fixed amplitude. Turn the “AC Vol“ to adjust\n     the voltage. The AC current is obtained from the AC voltage between “ACmon” and “AC GND” using\n     the conversion factor 0.106 A/V. The frequency (Freq.) is tunable by using the “Coarse” and “Fine”\n     tuning knobs.",
    "total": 7,
    "parts": [
@@ -199,7 +199,7 @@
   },
   {
    "number": 13,
-   "title": "Задача 13",
+   "title": "Battery holders [2]",
    "statement": "Battery holders [2]",
    "total": 7,
    "parts": [
@@ -214,7 +214,7 @@
   },
   {
    "number": 14,
-   "title": "Задача 14",
+   "title": "Batteries [8]",
    "statement": "Batteries [8]",
    "total": 7,
    "parts": [
@@ -229,7 +229,7 @@
   },
   {
    "number": 15,
-   "title": "Задача 15",
+   "title": "U-shaped crimp terminal wires [2]",
    "statement": "U-shaped crimp terminal wires [2]",
    "total": 7,
    "parts": [
@@ -244,7 +244,7 @@
   },
   {
    "number": 16,
-   "title": "Задача 16",
+   "title": "Alligator clip wires [2]",
    "statement": "Alligator clip wires [2]",
    "total": 7,
    "parts": [
@@ -259,7 +259,7 @@
   },
   {
    "number": 17,
-   "title": "Задача 17",
+   "title": "Digital multimeter (DMM): Turn the knob to select an appropriate…",
    "statement": "Digital multimeter (DMM):\n     Turn the knob to select an appropriate measurement mode, \"DCV\", \"ACV\", and \"Hz\". Note that the\n     displayed value of the AC voltage indicates the root mean square (RMS) value, i.e., the effective\n     value.\n\nModeling the system\n\nFigure 2 is a simplified model of the experimental setup. It is essentially a driven mass-on-spring oscil-\nlator.\n\n                                  Figure 2: Harmonic oscillator model.\n\n                                                                             Q1-3\nExperiment\n\n                                                                                        English (Official)\n\nThe relevant parameters are:\n   • 𝑀 : mass of the (cylindrical) oscillator\n   • 𝑚: mass per weight\n   • 𝑁 : the number of weights\n   • 𝑔: acceleration due to gravity\n   • 𝑘: effective spring constant pertaining to the vertical motion\n   • 𝑧: oscillator height (or displacement)\n   • 𝑧e : oscillator height at which a force balance without gravitational and electromagnetic forces is\n     established.\n   • 𝐵(𝐵′ ): magnetic field applied to the main (control) coil\n   • 𝐿(𝐿′ ): length of the conducting wire of the main (control) coil\n   • 𝐼(𝐼 ′ ): current flowing through the main (control) coil\n   • 𝛼: positive coefficient of drag force\nThe equation of motion is given by\n\n                              d2 𝑧                                                 d𝑧\n                  (𝑀 + 𝑁 𝑚)        = −(𝑀 + 𝑁 𝑚)𝑔 − 𝑘(𝑧 − 𝑧e ) + 𝐵𝐿𝐼 + 𝐵′ 𝐿′ 𝐼 ′ − 𝛼 .                  (1)\n                              d𝑡2                                                  d𝑡\n\nInstallation of the oscillator",
    "total": 7,
    "parts": [

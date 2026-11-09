@@ -1,0 +1,37 @@
+{
+ "setId": "math-imo-1979--math-tasks",
+ "olympiadId": "math-imo-1979",
+ "title": "Математика → IMO (международная) → 1979",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1979/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T19:30:11.121Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Twenty-first International Olympiad, 1979\n1979/1. Let p and q be natural numbers such that\n                  p      1 1 1         1    1\n                    = 1 − + − + ··· −     +     .\n                  q      2 3 4        1318 1319\nProve that p is divisible by 1979.\n1979/2. A prism with pentagons A1 A2 A3 A4 A5 and B1 B2 B3 B4 B5 as top and\nbottom faces is given. Each side of the two pentagons and each of the line-\nsegments Ai Bj for all i, j = 1, ..., 5, is colored either red or green. Every\ntriangle whose vertices are vertices of the prism and whose sides have all\nbeen colored has two sides of a different color. Show that all 10 sides of the\ntop and bottom faces are the same color.\n1979/3. Two circles in a plane intersect. Let A be one of the points of\nintersection. Starting simultaneously from A two points move with constant\nspeeds, each point travelling along its own circle in the same sense. The two\npoints return to A simultaneously after one revolution. Prove that there is\na fixed point P in the plane such that, at any time, the distances from P to\nthe moving points are equal.\n1979/4. Given a plane π, a point P in this plane and a point Q not in π,\nfind all points R in π such that the ratio (QP + P A)/QR is a maximum.\n1979/5. Find all real numbers a for which there exist non-negative real\nnumbers x1 , x2 , x3 , x4 , x5 satisfying the relations\n                  5\n                  X                5\n                                   X                     5\n                                                         X\n                        kxk = a,         k 3 xk = a2 ,         k 5 xk = a 3 .\n                  k=1              k=1                   k=1\n\n1979/6. Let A and E be opposite vertices of a regular octagon. A frog starts\njumping at vertex A. From any vertex of the octagon except E, it may jump\nto either of the two adjacent vertices. When it reaches vertex E, the frog\nstops and stays there.. Let an be the number of distinct paths of exactly n\njumps ending at E. Prove that a2n−1 = 0,\n                             1\n                     a2n = √ (xn−1 − y n−1 ), n = 1, 2, 3, · · · ,\n                              2\n                 √                 √\nwhere x = 2 + 2 and y = 2 − 2.\nNote. A path of n jumps is a sequence of vertices (P0 , ..., Pn ) such that\n(i) P0 = A, Pn = E;\n(ii) for every i, 0 ≤ i ≤ n − 1, Pi is distinct from E;\n(iii) for every i, 0 ≤ i ≤ n − 1, Pi and Pi+1 are adjacent.",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

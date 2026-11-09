@@ -1,0 +1,37 @@
+{
+ "setId": "geo-ieso-2010--ieso-wt-geophysics",
+ "olympiadId": "geo-ieso-2010",
+ "title": "География → IESO (науки о Земле) → 2010",
+ "materialLabel": "Ieso wt geophysics",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/ieso/2010/ieso-wt-geophysics.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T19:25:54.317Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "21. Gravitational acceleration, g, at the surface of the earth can be formulated as\n           M\n    g =G     2\n               where G = 6.673 x 10-11 N.m2/kg2, M = 5.98 x 1024 kg and r = the\n           r\n   distance from the Earth’s surface to its centre. If the gravity, g, at the mean sea\n   level (R = 6371 km) is 9.83 m/s2 and the gravity value depends on elevation,\n   h, gravity value decreases with increasing elevation as per the formula _____ .\n   (Note: 1 cm/s2 = 1 gal). Write the calculation procedure. (2 points)\n\n                                                                          Page 2 of 6\n\n22. The mathematical formula for seismic refraction in 2-layer systems shows that\n   the travel time of seismic waves, t, is dependant on its propagation distance, x.\n                                                                  Table 1. Seismic\n                                                                  Refraction Data\n                         2h1 (V22 − V12 )1/ 2 x\n                    t=                       +                    x (m)    t (ms)\n                               V2 V1           V2\n                                                                    2          4\n   where       t is the travel time of seismic waves (second)       4         10\n                                                                    6         12\n               h1 is the thickness of 1st layer                     8         19\n               x is the distance of seismic wave                    10        24\n   propagation                                                      12        27\n                                                                    14        30\n               V1 is the seismic velocity in 1st layer              16        31\n                                                nd\n               V2 is the seismic velocity in 2 layer                18        32\n   The seismic velocity of layers, V1 and V2, and the               20        34\n                                                                    22        36\n   thickness of layer, h, are constant. The seismic refraction      24        39\n                                                                     st     nd\n   data are given in Table 1. Determine the seismic velocity of the 1 and 2\n   layers, V1 and V2, respectively (2 points)\n     - Write the calculation procedure. (2 points)\n     - Calculate h1 (1 point)\n\n                                                                        Page 3 of 6\n\n23. Tthe number of earthquake events (N) and their magnitude (M) are related as\n   follows:\n\n                                      log N = a – b M\n\n   The graph associated with the\n   above equation is shown in                                   Padang’s earthquake\n\n   Figure     1   for   such     an\n                                                                     b=1\n   earthquake which occurred at\n   Padang, West Sumatra. The\n   parameter a is a constant\n   representing the number of\n                                                                                      M\n   earthquakes     which       have\n                                         Figure 1. The graph of number (N) of earthquakes\n   magnitude higher than 1 on the           versus its magnitude (M) of Padang’s event.\n\n   Richter scale. Similarly, b is a value that represents the ratio of the number of\n   small to big eartquakes. If the value of b is 1, determine the ratio of the\n   number of earthquakes (with magnitude 5) to the number of earthquakes (with\n   magnitude 7) on the Richter scale (2 points).\n\n                                                                              Page 4 of 6\n\n24.     An earthquake was recorded at four seismic stations in Central Java,\n      Indonesia. Figure 2 shows the locations of the seismic stations: AE2 (7.7 S;\n      109.5 E), AG2 (7.6 S; 110.0 E), BH2 (7.5 S; 110.4 E), and AK4 (8.2 S; 110.9\n      E). Figure 3 displays the seismograms recorded at the seismic stations. If the\n      average longitudinal (P) wave velocity, Vp, is 6.4 km/s and the average\n      transversal (S) wave velocity, Vs, is 3.7 km/s, determine the epicenter of the\n      earthquake. Write the calculation procedure and draw your graphical solution\n      in Figure 2. (1 degree = 111 km). (5 points)\n\n                                                                        Page 5 of 6\n\nA Google Earth Map of Central Java, Indonesia\n\nFigure 2. Location of the seismic stations AE2, AG2, BH2, and AK4 which recorded the earthquake.\n\n                                                                                                   Page 6 of 6\n\n            P                             S\nAE2\n             P                                 S\nAG2\n                            P                                         S\nBH2\n            25. Figures 4 and 5 show total intensity of geomagnetic field and its inclination\n                                                                S field vector (direction\n                          P Draw in the following figure total magnetic\n                maps in 2005.\n\nAK4             and magnitude of intensity) measured at Equador and Yogyakarta.\n\n     Seismograms from stations AE2, AG2, BH2, and AK4\n\nFigure 3. Seismograms of the earthquake recorded at seismic stations AE2, AG2, BH2, and\n        AK4.\n\n                                                                                  Page 7 of 6",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

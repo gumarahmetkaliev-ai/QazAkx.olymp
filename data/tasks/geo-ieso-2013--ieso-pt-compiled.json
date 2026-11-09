@@ -1,0 +1,187 @@
+{
+ "setId": "geo-ieso-2013--ieso-pt-compiled",
+ "olympiadId": "geo-ieso-2013",
+ "title": "География → IESO (науки о Земле) → 2013",
+ "materialLabel": "Ieso pt compiled",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/ieso/2013/ieso-pt-compiled.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:25:53.742Z",
+ "quality": {
+  "tasks": 11,
+  "parts": 11,
+  "withPoints": 11,
+  "withReference": 0,
+  "withQuestion": 11,
+  "estimatedPoints": 11
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Please write your student code on the cover page as well as on the…",
+   "statement": "Please write your student code on the cover page as well as on the top right of\n      every page of answer sheet / calculations sheets.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Please write your answers legibly. Illegible answers will be counted…",
+   "statement": "Please write your answers legibly. Illegible answers will be counted as incorrect.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Please write your final answers in appropriate boxes in the main…",
+   "statement": "Please write your final answers in appropriate boxes in the main answer sheet.\n      For numerical questions, show the calculations on blank calculation sheets\n      provided.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "For numerical questions, you may attempt part of the answer even if…",
+   "statement": "For numerical questions, you may attempt part of the answer even if you don't\n      know the final result. There will be stepwise marking.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "You can get as many calculations sheets as you want. Just raise your…",
+   "statement": "You can get as many calculations sheets as you want. Just raise your hand to ask\n      for extra sheets. The volunteers will bring extra sheets to your table.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Write question number clearly at the top of the calculations sheet.",
+   "statement": "Write question number clearly at the top of the calculations sheet.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Read the entire question group carefully before starting to answer.…",
+   "statement": "Read the entire question group carefully before starting to answer. Each question\n      has a point value assigned and indicated on the right hand side of the question.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Any inappropriate examination behaviour will result in your…",
+   "statement": "Any inappropriate examination behaviour will result in your withdrawal from the\n      IESO.\n\nMysore, India, September 11 – 19, 2013                          Practical Test - Astronomy\n\n7th International Earth Science Olympiad                                       Student Code:\n\n         1. Construct a Sundial for Mysore (Latitude = +12 o 16' N, Longitude = 77o 33'E). You can\n            ignore corrections due to equation of time.\n            Materials given: a square plastic board of size of 40 cm x 40 cm, a 1 metre long metal\n            rod, 2 nut bolts, a 30 cm scale and marker pens to make Sundial markings on the\n            plasticboard. Use the following procedure.\n         To make a simple Sundial, you should make the shadow of the rod fall in the equatorial\n            plane. For this, push the rod through the hole at the centre of the board.\n         Now put this device on a flat surface such that it rests on a board edge and one end of the\n            rod. The board should be exactly perpendicular to the rod. For this, fix the nut bolts on\n            the rod on both the sides of the board. The other end of rod should be pointing towards\n            the north celestial pole. Write your student code on the plastic board. Show this\n            arrangement to the examiner.                                                    (1 point)\n            (a) Measure length of the rod from the end towards the North Celestial Pole to the board\n                and write on the answer sheet. Mark North facing and South facing sides of the\n                board with letters N and S respectively.                                   (3 points)\n            (b) Mark lines showing the direction of the shadow of the rod on the board for the\n                winter solstice day. Make markings for every 2 hours.                       (4 points)\n            (c) Mark the similar lines for summer solstice day.                             (3 points)\n            (d) Where do you expect the shadow of the rod will be seen on the equinox days? Write\n                answer as N (North side) / S (South side) / B (both sides) / X (neither side).(1 point)\n\n         2. You are given a sky map which shows sky for 24 hours x 120 degrees. You are also given\n            a list of all constellations with their IAU designations. Assume that today is the date of\n            closing ceremony i.e. 19th September 2013 and you are told that it is a full moon day.\n                                                                                   (2 points each)\n            (a) Mark the Celestial Equator on the map at appropriate place. Denote it with letter 'Q'.\n            (b) Mark the Ecliptic (apparent path of the Sun over one year) on the map at appropriate\n                 place. Denote it with letter 'E'.\n            (c) Mark the Sun's position on the map for the noon of given day. Denote it with letter\n                 'S'.\n            (d) Mark the Moon's position on the map for the noon of given day. Denote it with letter\n                 'M'.\n            (e) Write the three letter IAU code of the constellation you will observe on the zenith at\n                 the time of Moonrise. Mark the position of the zenith on the map as 'Z'.\n            (f) Write the three letter IAU code of the constellation you will observe on the nadir at\n                 the time of Moonrise. Mark the position of the nadir on the map as 'N'.\n\nMysore, India, September 11 – 19, 2013                                     Practical Test - Astronomy\n\n7th International Earth Science Olympiad                                      Student Code:\n\n         3. Picture 1 shows star trails captured by an Astronomy Olympiad student.\n            (a) Identify constellation(s) in the picture. Write the three letter IAU code of the\n                constellation(s) in your answer sheet. There are more than one constellations / parts\n                of constellations visible in the picture. Identify as many as you can.      (4 points)\n            (b) Write the letters from the following table, corresponding to the stars, if they are\n                present in the picture.                                                    (2 points)\n         A.      Deneb                        D.      Dubhe                      G.    Denebola\n         B.      Rigel                        E.      Algol                      H.    Mizar\n         C.      Spica                        F.      Regulus                    I.    Betelgeuse\n            (c) Let us assume that stars numbered as 1 and 2 have nearly the same Right Ascension\n                (R.A.) Find exposure time of the photograph. (4 points)\n\nPicture 1: Photo Credit: Mr. Chiraag Juwekar. Taken on 25/03/2012\n\nMysore, India, September 11 – 19, 2013                                     Practical Test - Astronomy\n\n7th International Earth Science Olympiad\n\n                                List of Constellations wi\n\n No.     Constellation    Code       No.   Constellation\n  1    Andromeda          And         31 Cygnus\n  2    Antlia             Ant         32 Delphinus\n  3    Apus               Aps         33 Dorado\n  4    Aquarius           Aqr         34 Draco\n  5    Aquila             Aql         35 Equuleus\n  6    Ara                Ara         36 Eridanus\n  7    Aries              Ari         37 Fornax\n  8    Auriga             Aur         38 Gemini\n  9    Bootes             Boo         39 Grus\n 10    Caelum             Cae         40 Hercules\n 11    Camelopardalis     Cam         41 Horologium\n 12    Cancer             Cnc         42 Hydra\n 13    Canes Venatici     CVn         43 Hydrus\n 14    Canis Major        CMa         44 Indus\n 15    Canis Minor        CMi         45 Lacerta\n 16    Capricornus        Cap         46 Leo\n 17    Carina             Car         47 Leo Minor\n 18    Cassiopeia         Cas         48 Lepus\n 19    Centaurus          Cen         49 Libra\n 20    Cepheus            Cep         50 Lupus\n 21    Cetus              Cet         51 Lynx\n 22    Chamaleon          Cha         52 Lyra\n 23    Circinus           Cir         53 Mensa\n 24    Columba            Col         54 Microscopium\n 25    Coma Berenices     Com         55 Monoceros\n 26    Corona Australis   CrA         56 Musca\n 27    Corona Borealis    CrB         57 Norma\n 28    Corvus             Crv         58 Octans\n 29    Crater             Crt         59 Ophiucus\n 30    Crux               Cru\n\nMysore, India, September 11 – 19, 2013\n\n                   Student Code:\n\nth IAU Codes\n\n  Code    No.      Constellation    Code\n  Cyg      60 Orion                  Ori\n  Del      61 Pavo                   Pav\n  Dor      62 Pegasus                Peg\n  Dra      63 Perseus                Per\n  Equ      64 Phoenix                Phe\n  Eri      65 Pictor                 Pic\n  For      66 Pisces                 Psc\n  Gem      67 Pisces Austrinus       PsA\n  Gru      68 Puppis                 Pup\n  Her      69 Pyxis                  Pyx\n  Hor      70 Reticulum              Ret\n  Hya      71 Sagitta                Sge\n  Hyi      72 Sagittarius            Sgr\n  Ind      73 Scorpius               Sco\n  Lac      74 Sculptor               Scl\n  Leo      75 Scutum                 Sct\n  LMi      76 Serpens                Ser\n  Lep      77 Sextans                Sex\n  Lib      78 Taurus                 Tau\n  Lup      79 Telescopium            Tel\n  Lyn      80 Triangulum             Tri\n  Lyr      81 Triangulum Australe    TrA\n  Men      82 Tucana                 Tuc\n  Mic      83 Ursa Major            UMa\n  Mon      84 Ursa Minor             UMi\n  Mus      85 Vela                   Vel\n  Nor      86 Virgo                  Vir\n  Oct      87 Volans                 Vol\n  Oph      88 Vulpecula              Vul\n\n                Practical Test - Astronomy\n\n7th International Earth Science Olympiad                                         Student Code:\n\n       This is colour inverted copy of the central part of the picture in the question paper.\n\n                                         Practical Test\n                                   Astronomy Answer Sheet",
+   "total": 7,
+   "parts": [
+    {
+     "id": "8",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Vesicular structure",
+   "statement": "Vesicular structure",
+   "total": 7,
+   "parts": [
+    {
+     "id": "9",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Minerals cannot be seen with the naked eye",
+   "statement": "Minerals cannot be seen with the naked eye",
+   "total": 7,
+   "parts": [
+    {
+     "id": "10",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Glassy texture 2. What conclusion(s) can you draw about the formation…",
+   "statement": "Glassy texture\n\n2. What conclusion(s) can you draw about the formation of this rock sample? (You may choose more\nthan 1 answer).\n\n    a) This rock formed in a shallow marine environment.\n\n    b) This rock formed in an open sea environment.\n\n    c) This rock formed in a deep sea environment.\n\n    d) Sedimentation in an oversaturated environment.\n\n    e) Sedimentation in a cave environment.\n\n    f)   This rock formed in a lake environment.\n\n    g) This rock formed in a river environment.\n\n    h) This rock formed in a dune environment.\n\n    i)   This rock formed in an (igneous) plutonic environment.\n\n    j)   This rock formed in an (igneous) volcanic environment.\n\nMysore, India, September 11-19, 2013                                      (Practical Test Geosphere)\n\n7th International Earth Science Olympiad                                               Student Code\n\n   k) This rock underwent regional metamorphism.\n\n   l)   This rock underwent contact metamorphism.\n\n3. What observation/ principle helped you draw the conclusion? (You may choose more than 1\nanswer).\n\n   a) The principle of original horizontality.\n\n   b) The principle of “the present is the key to the past”.\n\n   c) The principle of superposition.\n\n   d) The size of a mineral crystal in an igneous rock is dependent on the rate of cooling.\n\n   e) Slow cooling of magma occurs when the surrounding temperature is relatively high.\n\n   f)   Fast cooling of magma occurs when the surrounding temperature is relatively low.\n\n   g) The temperature is relatively high at deeper levels of the crust.\n\n   h) The temperature is relatively low towards the surface of the crust.\n\n   i)   The pressure is relatively high deep in the crust.\n\n   j)   Linear minerals grow with a parallel orientation under conditions of high pressure.\n\n   k) Rocks can behave elastically under conditions of high pressure and high temperature.\n\n   l)   The roundness of a grain is a result of both the distance of transport and hardness of the\n        mineral.\n\n   m) Cross bedding structure is a result of sedimentation by moving air (wind) or water.\n\n   n) Sedimentation in a river environment leads to all the layers inclined in the same direction\n      and the thickness of the layers is on the order of a few tens of centimeters.\n\n   o) Sedimentation in a wind environment leads to inclination of the layers in different directions\n      and the thickness of the layers is on the order of meters.\n\n4. Which processes are directly relevant to the formation of the sample? (You may choose more\nthan 1 answer).\n\n   a) Sedimentation\n\n   b) Uplift\n\n   c) Erosion\n\n   d) Weathering\n\nMysore, India, September 11-19, 2013                                       (Practical Test Geosphere)\n\n7th International Earth Science Olympiad                                              Student Code\n\n   e) Burial\n\n   f)   Lithification\n\n   g) Melting\n\n   h) Slow crystallization\n\n   i)   Fast crystallization\n\n   j)   Regional metamorphism\n\n   k) Contact metamorphism\n\n5. Which of the following Earth Systems are involved in the formation and exposure of the rock?.\n(Note: Choose only ONE response, which represents all the systems that DIRECTLY influenced the\nformation AND exposure of the sample).\n\n   a) Geosphere and Atmosphere.\n\n   b) Geosphere and Hydrosphere.\n\n   c) Geosphere and Biosphere.\n\n   d) Hydrosphere and Atmosphere.\n\n   e) Hydrosphere and Biosphere.\n\n   f)   Atmosphere and Biosphere.\n\n   g) Geosphere and Atmosphere and Hydrosphere.\n\n   h) Geosphere and Atmosphere and Biosphere.\n\n   i)   Geosphere and Hydrosphere and Biosphere.\n\n   j)   Hydrosphere and Atmosphere and Biosphere.\n\n   k) Geosphere and Atmosphere and Hydrosphere and Biosphere.\n\nLocation 2:",
+   "total": 7,
+   "parts": [
+    {
+     "id": "11",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

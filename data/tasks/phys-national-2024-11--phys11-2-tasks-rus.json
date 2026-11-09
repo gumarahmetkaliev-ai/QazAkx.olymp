@@ -7,7 +7,7 @@
  "tasksFile": "olympiads/physics/national/2024/11/phys11-2-tasks-rus.pdf",
  "solutionFile": "olympiads/physics/national/2024/11/phys11-2-sol-rus.pdf",
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T18:21:25.626Z",
+ "generatedAt": "2026-11-09T19:30:15.931Z",
  "quality": {
   "tasks": 4,
   "parts": 4,
@@ -19,7 +19,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "Определите количество граней призмы.",
    "statement": "Определите количество граней призмы.",
    "total": 7,
    "parts": [
@@ -34,7 +34,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "Определите координаты вертикальных ребёр.",
    "statement": "Определите координаты вертикальных ребёр.",
    "total": 7,
    "parts": [
@@ -49,7 +49,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "Определите углы при рёбрах.",
    "statement": "Определите углы при рёбрах.",
    "total": 7,
    "parts": [
@@ -64,7 +64,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "После установления формы обьекта определите его показатель…",
    "statement": "После установления формы обьекта определите его показатель преломления.\n\nУказание:",
    "total": 7,
    "parts": [

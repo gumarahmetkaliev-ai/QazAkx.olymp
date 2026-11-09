@@ -7,7 +7,7 @@
  "tasksFile": "olympiads/math/s/imo/2005/math-tasks.pdf",
  "solutionFile": "olympiads/math/s/imo/2005/math-sol.pdf",
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:39.429Z",
+ "generatedAt": "2026-11-09T19:30:08.423Z",
  "quality": {
   "tasks": 6,
   "parts": 6,
@@ -19,7 +19,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "Six points are chosen on the sides of an equilateral triangle ABC: A1…",
    "statement": "Six points are chosen on the sides of an equilateral triangle\nABC: A1 , A2 on BC, B1 , B2 on CA and C1 , C2 on AB, such that they are\nthe vertices of a convex hexagon A1 A2 B1 B2 C1 C2 with equal side lengths.\nProve that the lines A1 B2 , B1 C2 and C1 A2 are concurrent.",
    "total": 7,
    "parts": [
@@ -34,7 +34,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "Let a1 , a2 , . . . be a sequence of integers with infinitely many…",
    "statement": "Let a1 , a2 , . . . be a sequence of integers with infinitely many\npositive and negative terms. Suppose that for every positive integer n the\nnumbers a1 , a2 , . . . , an leave n different remainders upon division by n.\nProve that every integer occurs exactly once in the sequence a1 , a2 , . . ..",
    "total": 7,
    "parts": [
@@ -49,7 +49,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "Let x, y, z be three positive reals such that xyz ≥ 1. Prove that x5…",
    "statement": "Let x, y, z be three positive reals such that xyz ≥ 1. Prove\nthat\n             x5 − x2         y5 − y2         z5 − z2\n           5     2     2\n                         + 2     5    2\n                                        + 2             ≥ 0.\n          x +y +z          x +y +z         x + y2 + z5",
    "total": 7,
    "parts": [
@@ -64,7 +64,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "Determine all positive integers relatively prime to all the terms of…",
    "statement": "Determine all positive integers relatively prime to all the terms\nof the infinite sequence\n\n                       an = 2n + 3n + 6n − 1, n ≥ 1.",
    "total": 7,
    "parts": [
@@ -79,7 +79,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "Let ABCD be a fixed convex quadrilateral with BC = DA and BC not…",
    "statement": "Let ABCD be a fixed convex quadrilateral with BC = DA\nand BC not parallel with DA. Let two variable points E and F lie of the\nsides BC and DA, respectively and satisfy BE = DF . The lines AC and\nBD meet at P , the lines BD and EF meet at Q, the lines EF and AC meet\nat R.\nProve that the circumcircles of the triangles P QR, as E and F vary, have a\ncommon point other than P .",
    "total": 7,
    "parts": [
@@ -94,7 +94,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "In a mathematical competition, in which 6 problems were posed to the…",
    "statement": "In a mathematical competition, in which 6 problems were\nposed to the participants, every two of these problems were solved by more\nthan 25 of the contestants. Moreover, no contestant solved all the 6 problems.\nShow that there are at least 2 contestants who solved exactly 5 problems\neach.\n\n                                      1",
    "total": 7,
    "parts": [

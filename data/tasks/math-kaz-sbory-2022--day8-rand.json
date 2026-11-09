@@ -1,0 +1,82 @@
+{
+ "setId": "math-kaz-sbory-2022--day8-rand",
+ "olympiadId": "math-kaz-sbory-2022",
+ "title": "Математика → Сборы сборной РК → 2022",
+ "materialLabel": "Day8 rand",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/kaz_sbory/2022/day8-Rand.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:29:55.378Z",
+ "quality": {
+  "tasks": 4,
+  "parts": 4,
+  "withPoints": 4,
+  "withReference": 0,
+  "withQuestion": 4,
+  "estimatedPoints": 4
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Пусть через f (n), n ∈ N ⩾ 2 обозначен наибольший простой делитель…",
+   "statement": "Пусть через f (n), n ∈ N ⩾ 2 обозначен наибольший простой делитель числа n. Докажите,\nчто существует бесконечно много k ∈ N удовлетворяющие условию\n\n                                     f (k + 2) > f (k + 1) > f (k).",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Доказать, что для любого n ∈ N верно 2n d(1) d(2) d(n) < + + ... + ,…",
+   "statement": "Доказать, что для любого n ∈ N верно\n\n                                  2n   d(1) d(2)           d(n)\n                                     <      +      + ... +      ,\n                                   3     1     2            n\n   где d(k) наибольший нечетный делитель числа k .",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Решить в целых числах x2 + 5 = y 3 . (задача банан но надо показать…",
+   "statement": "Решить в целых числах\n\n                                             x2 + 5 = y 3 .\n   (задача банан но надо показать технику, не надо стрелять базукой по мухе!!!)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Доказать, что если числа a, b, c при каждом значении n ∈ N…",
+   "statement": "Доказать, что если числа a, b, c при каждом значении n ∈ N удовлетворяют равенству\n[na] + [nb] = [nc], то хотя бы одно из чисел a, b является целым.([x]− целая часть числа x)\n\n                                                   1",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

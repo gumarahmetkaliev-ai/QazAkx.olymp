@@ -1,0 +1,37 @@
+{
+ "setId": "math-imo-1974--math-tasks",
+ "olympiadId": "math-imo-1974",
+ "title": "Математика → IMO (международная) → 1974",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1974/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T19:30:11.252Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Sixteenth International Olympiad, 1974\n1974/1.\nThree players A, B and C play the following game: On each of three cards\nan integer is written. These three numbers p, q, r satisfy 0 < p < q < r. The\nthree cards are shuffled and one is dealt to each player. Each then receives\nthe number of counters indicated by the card he holds. Then the cards are\nshuffled again; the counters remain with the players.\nThis process (shuffling, dealing, giving out counters) takes place for at least\ntwo rounds. After the last round, A has 20 counters in all, B has 10 and C\nhas 9. At the last round B received r counters. Who received q counters on\nthe first round?\n\n1974/2.\nIn the triangle ABC, prove that there is a point D on side AB such that CD\nis the geometric mean of AD and DB if and only if\n                                                       C\n                                sin A sin B ≤ sin2       .\n                                                       2\n1974/3.                            ³      ´\n                           Pn          2n+1\nProve that the number        k=0       2k+1\n                                              23k is not divisible by 5 for any integer\nn ≥ 0.\n\n1974/4.\nConsider decompositions of an 8 × 8 chessboard into p non-overlapping rect-\nangles subject to the following conditions:\n(i) Each rectangle has as many white squares as black squares.\n(ii) If ai is the number of white squares in the i-th rectangle, then a1 < a2 <\n· · · < ap . Find the maximum value of p for which such a decomposition is\npossible. For this value of p, determine all possible sequences a1 , a2 , · · · , ap .\n\n1974/5.\nDetermine all possible values of\n                     a     b     c     d\n              S=        +     +     +\n                   a+b+d a+b+c b+c+d a+c+d\nwhere a, b, c, d are arbitrary positive numbers.\n\n1974/6.\nLet P be a non-constant polynomial with integer coefficients. If n(P ) is\nthe number of distinct integers k such that (P (k))2 = 1, prove that n(P ) −\ndeg(P ) ≤ 2, where deg(P ) denotes the degree of the polynomial P.",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

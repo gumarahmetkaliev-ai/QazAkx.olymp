@@ -1,0 +1,322 @@
+{
+ "setId": "geo-ieso-2010--ieso-wt-geology",
+ "olympiadId": "geo-ieso-2010",
+ "title": "География → IESO (науки о Земле) → 2010",
+ "materialLabel": "Ieso wt geology",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/ieso/2010/ieso-wt-geology.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:25:54.287Z",
+ "quality": {
+  "tasks": 20,
+  "parts": 20,
+  "withPoints": 20,
+  "withReference": 0,
+  "withQuestion": 20,
+  "estimatedPoints": 20
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "The law of superposition explains that (1 point) a. The lower stratum…",
+   "statement": "The law of superposition explains that                                      (1 point)\n        a. The lower stratum is older than the upper stratum.\n        b. The lower stratum is younger than the upper stratum.\n        c. If there is a disturbance, the lower stratum is older than the upper stratum.\n        d. If there is no disturbance, the lower stratum is older than the upper stratum.\n        e. The stratum is characterized by fossil content.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "If we stand along a strike-slip fault, and if the left hand side…",
+   "statement": "If we stand along a strike-slip fault, and if the left hand side block has moved towards\n  us,      (1 point)\n      we call this a______________\n        a. Dextral strike-slip fault\n        b. Sinistral strike-slip fault\n        c. Normal fault\n        d. Thrust fault\n        e. Oblique fault.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "The last mineral to form in the Bowen’s Reaction Series is…",
+   "statement": "The last mineral to form in the Bowen’s Reaction Series is ____________. (1 point)\n        a. Olivine\n        b. Quartz\n        c. Orthoclase\n        d. Biotite\n        e. Pyroxene.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Which fossil is usually found in Permo-Carboniferous rocks? (2…",
+   "statement": "Which fossil is usually found in Permo-Carboniferous rocks?                 (2 points)\n        a. Homo erectus\n        b. Mastodont\n        c. Eohippus\n        d. Nummulites\n        e. Fusulina",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "The Mohorovicic discontinuity is characterized by ______________. (2…",
+   "statement": "The Mohorovicic discontinuity is characterized by ______________.           (2 points)\n        a. A change in seismic wave velocity\n        b. High temperature\n        c. Elevated gravity\n        d. Rayleigh wave attenuation\n        e. High pressure",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "___________ is an ore mineral of aluminum. (2 points) a. Bauxite b.…",
+   "statement": "___________ is an ore mineral of aluminum.                                  (2 points)\n       a. Bauxite\n       b. Garnierite\n       c. Pyrite\n       d. Chalcocite\n       e. Chalcopyrite",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "When did Pangea the supercontinent break up into Gondwana (2 points)…",
+   "statement": "When did Pangea the supercontinent break up into Gondwana (2 points)\n         and Lauratia continents?\n\n         a.   Silurian period\n         b.   Cambrian period\n         c.   Triassic period\n         d.   Oligocene epoch\n         e.   Eocene epoch",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Which of the following is a character of river valley in its early…",
+   "statement": "Which of the following is a character of river valley in its early stage?         (2 points)\n         a. Alluvial fans\n         b. U-shaped cross section\n         c. V-shaped cross section\n         d. Flood plain\n         e. Meander",
+   "total": 7,
+   "parts": [
+    {
+     "id": "8",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "www.pifik.org picasaweb.google.com www.bewareofdarwinistfalsehoods.com…",
+   "statement": "www.pifik.org           picasaweb.google.com   www.bewareofdarwinistfalsehoods.com\n\n      The figure above shows several invertebrate fossils. The names of                    (2 points)\n             the fossils are:\n                 a. 1=Ammonite 2= Blastoidea          3=Trilobite\n                 b. 1= Blastoidea 2= Ammonite          3= Trilobite\n                 c. 1= Trilobite   2= Ammonite        3=Blastoidea\n                 d. 1=Trilobite    2= Blastoidea      3= Ammonite\n                 e. 1= Blastoidea 2= Trilobite        3= Ammonite",
+   "total": 7,
+   "parts": [
+    {
+     "id": "9",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Which of the following is not the landslide? (2 points) a. Rockfall…",
+   "statement": "Which of the following is not the landslide?                           (2 points)\n         a. Rockfall\n         b. Debris fall\n         c. Subsidence\n         d. Sliding\n         e. Mudflow",
+   "total": 7,
+   "parts": [
+    {
+     "id": "10",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "In stratigraphy, the grouping of sedimentary rocks based on (2…",
+   "statement": "In stratigraphy, the grouping of sedimentary rocks based on                        (2 points)\n        their fossil content is called ______________.\n         a. Lithostratigraphy\n         b. Chronostratigraphy\n         c. Geochronology\n         d. Biostratigraphy\n         e. Sequence stratigraphy",
+   "total": 7,
+   "parts": [
+    {
+     "id": "11",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "title": "The unconformity between the older igneous/metamorphic rocks and (1…",
+   "statement": "The unconformity between the older igneous/metamorphic rocks and                       (1 point)\n\n          the younger sedimentary rock is called ___________________.\n            a. Angular unconformity\n            b. Nonconformity\n            c. Paraconformity\n            d. Hiatus\n            e. Disconformity",
+   "total": 7,
+   "parts": [
+    {
+     "id": "12",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 13,
+   "title": "The Himalayan mountain started rising since the ____________. (1…",
+   "statement": "The Himalayan mountain started rising since the ____________.           (1 point)\n         a. Pleistocene\n         b. Miocene\n         c. Jurassic\n         d. Eocene\n         e. Pliocene",
+   "total": 7,
+   "parts": [
+    {
+     "id": "13",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Conglomerate is a sedimentary rock that consists of ____________. (1…",
+   "statement": "Conglomerate is a sedimentary rock that consists of ____________.   (1 point)\n           a. Round grains of size more than 2 mm\n           b. Round grains of size less than 2 mm\n           c. Angular grains less than 2 mm\n           d. Angular grains more than 2 mm\n           e. Round or angular grains cemented by SiO2 or CaCO3.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "14",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Based on the geologic cross-section given below, (3 points) the…",
+   "statement": "Based on the geologic cross-section given below,                 (3 points)\n       the chronology of the geologic events is:\n\n           a.      Conglomerate - Shale – sandstone – limestone – unconformity – fault –\n                granite\n           b.      Granite – fault – unconformity – limestone – sandstone – shale –\n                conglomerate\n           c.      Shale – granite – sandstone – unconformity – fault – limestone –\n                conglomerate\n           d.      Shale – sandstone – fault – limestone – unconformity – conglomerate –\n                granite\n           e.      Shale – fault – sandstone – limestone – unconformity – conglomerate –\n                granite",
+   "total": 7,
+   "parts": [
+    {
+     "id": "15",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 16,
+   "title": "Limestone consists of calcium carbonate minerals. The most abundant…",
+   "statement": "Limestone consists of calcium carbonate minerals. The most abundant calcium\ncarbonate mineral is ________________.                                      (2 points)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "16",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 17,
+   "title": "Two major minerals in granite are _________________ and…",
+   "statement": "Two major minerals in granite are _________________ and ___________________.\n                                                   (2 points)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "17",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 18,
+   "title": "If we have a fault where the hanging wall has relatively moved down…",
+   "statement": "If we have a fault where the hanging wall has relatively moved down compared to the foot\n     wall,       (1 point)\n         we call this fault a __________.\n            a. Dextral strike-slip fault\n            b. Sinistral strike-slip fault\n            c. Normal fault\n            d. Thrust fault\n            e. Oblique fault",
+   "total": 7,
+   "parts": [
+    {
+     "id": "18",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 19,
+   "title": "According to the V rule, the stratum (in darker grey color) in the…",
+   "statement": "According to the V rule, the stratum (in darker grey color) in the figure below strikes in\n   ________ direction and dips in the _____________ direction. (2 points)\n\n                                     N\n\n                                      m",
+   "total": 7,
+   "parts": [
+    {
+     "id": "19",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 20,
+   "title": "If you make a geologic section along the true dip in the figure given…",
+   "statement": "If you make a geologic section along the true dip in the figure given above, the cross\n    section should run in __________________ direction and the thickness of the stratum is\n    _________ m. (2 points)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "20",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "setId": "math-imo-1977--math-tasks",
+ "olympiadId": "math-imo-1977",
+ "title": "Математика → IMO (международная) → 1977",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1977/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T19:30:11.174Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Nineteenth International Mathematical Olympiad,\n1977\n1977/1.\nEquilateral triangles ABK, BCL, CDM, DAN are constructed inside the\nsquare ABCD. Prove that the midpoints of the four segments KL, LM, M N, N K\nand the midpoints of the eight segments AKBK, BL, CL, CM, DM, DN, AN\nare the twelve vertices of a regular dodecagon.\n1977/2.\nIn a finite sequence of real numbers the sum of any seven successive terms is\nnegative, and the sum of any eleven successive terms is positive. Determine\nthe maximum number of terms in the sequence.\n1977/3.\nLet n be a given integer > 2, and let Vn be the set of integers 1 + kn, where\nk = 1, 2, .... A number m ∈ Vn is called indecomposable in Vn if there do not\nexist numbers p, q ∈ Vn such that pq = m. Prove that there exists a number\nr ∈ Vn that can be expressed as the product of elements indecomposable in\nVn in more than one way. (Products which differ only in the order of their\nfactors will be considered the same.)\n1977/4.\nFour real constants a, b, A, B are given, and\n               f (θ) = 1 − a cos θ − b sin θ − A cos 2θ − B sin 2θ.\nProve that if f (θ) ≥ 0 for all real θ, then\n                         a2 + b2 ≤ 2 and A2 + B 2 ≤ 1.\n1977/5.\nLet a and b be positive integers. When a2 +b2 is divided by a+b, the quotient\nis q and the remainder is r. Find all pairs (a, b) such that q 2 + r = 1977.\n1977/6.\nLet f (n) be a function defined on the set of all positive integers and having\nall its values in the same set. Prove that if\n                              f (n + 1) > f (f (n))\nfor each positive integer n, then\n                             f (n) = n for each n.",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

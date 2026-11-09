@@ -7,7 +7,7 @@
  "tasksFile": "olympiads/math/s/imo/2010/math-tasks.pdf",
  "solutionFile": "olympiads/math/s/imo/2010/math-sol.pdf",
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:36.668Z",
+ "generatedAt": "2026-11-09T19:30:05.834Z",
  "quality": {
   "tasks": 6,
   "parts": 6,
@@ -19,7 +19,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "Determine all functions f : R → R such that the equality Ä ä ö ù f…",
    "statement": "Determine all functions f : R → R such that the equality\n                                              Ä   ä        ö   ù\n                                          f bxcy = f (x) f (y)\n\nholds for all x, y ∈ R. (Here bzc denotes the greatest integer less than or equal to z.)",
    "total": 7,
    "parts": [
@@ -33,7 +33,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "Let I be the incentre of triangle ABC and let Γ be its circumcircle.…",
    "statement": "Let I be the incentre of triangle ABC and let Γ be its circumcircle. Let the line AI\n                                                    ˙ and F a point on the side BC such that\nintersect Γ again at D. Let E be a point on the arc BDC\n\n                                        ∠BAF = ∠CAE < 21 ∠BAC.\n\nFinally, let G be the midpoint of the segment IF . Prove that the lines DG and EI intersect on Γ.",
    "total": 7,
    "parts": [
@@ -47,7 +47,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "Let N be the set of positive integers. Determine all functions g : N…",
    "statement": "Let N be the set of positive integers. Determine all functions g : N → N such that\n                                          Ä           äÄ         ä\n                                           g(m) + n m + g(n)\n\nis a perfect square for all m, n ∈ N.\n\nLanguage: English                                                      Time: 4 hours and 30 minutes\n                                                                       Each problem is worth 7 points\n\n                                                                            Language: English\n\n                                                                                              Day: 2\n\n                                                                                  Thursday, July 8, 2010",
    "total": 7,
    "parts": [
@@ -61,7 +61,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "Let P be a point inside the triangle ABC. The lines AP , BP and CP…",
    "statement": "Let P be a point inside the triangle ABC. The lines AP , BP and CP intersect the\ncircumcircle Γ of triangle ABC again at the points K, L and M respectively. The tangent to Γ at C\nintersects the line AB at S. Suppose that SC = SP . Prove that M K = M L.",
    "total": 7,
    "parts": [
@@ -75,7 +75,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "In each of six boxes B1 , B2 , B3 , B4 , B5 , B6 there is initially…",
    "statement": "In each of six boxes B1 , B2 , B3 , B4 , B5 , B6 there is initially one coin. There are two\ntypes of operation allowed:\n\n  Type 1: Choose a nonempty box Bj with 1 ≤ j ≤ 5. Remove one coin from Bj and add two\n          coins to Bj+1 .\n  Type 2: Choose a nonempty box Bk with 1 ≤ k ≤ 4. Remove one coin from Bk and exchange\n          the contents of (possibly empty) boxes Bk+1 and Bk+2 .\n\nDetermine whether there is a finite sequence of such operations that results in boxes B1 , B2 , B3 , B4 , B5\n                                                      2010                      c     c\nbeing empty and box B6 containing exactly 20102010         coins. (Note that ab = a(b ) .)",
    "total": 7,
    "parts": [
@@ -89,7 +89,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "Let a1 , a2 , a3 , . . . be a sequence of positive real numbers.…",
    "statement": "Let a1 , a2 , a3 , . . . be a sequence of positive real numbers. Suppose that for some\npositive integer s, we have\n                                 an = max{ak + an−k | 1 ≤ k ≤ n − 1}\nfor all n > s. Prove that there exist positive integers ` and N , with ` ≤ s and such that an = a` +an−`\nfor all n ≥ N .\n\nLanguage: English                                                         Time: 4 hours and 30 minutes\n                                                                          Each problem is worth 7 points",
    "total": 7,
    "parts": [

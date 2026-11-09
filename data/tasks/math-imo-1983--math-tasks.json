@@ -1,0 +1,37 @@
+{
+ "setId": "math-imo-1983--math-tasks",
+ "olympiadId": "math-imo-1983",
+ "title": "Математика → IMO (международная) → 1983",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1983/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T19:30:11.031Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Twenty-fourth International Olympiad, 1983\n1983/1. Find all functions f defined on the set of positive real numbers which\ntake positive real values and satisfy the conditions:\n(i) f (xf (y)) = yf (x) for all positive x, y;\n(ii) f (x) → 0 as x → ∞.\n1983/2. Let A be one of the two distinct points of intersection of two unequal\ncoplanar circles C1 and C2 with centers O1 and O2 , respectively. One of the\ncommon tangents to the circles touches C1 at P1 and C2 at P2 , while the\nother touches C1 at Q1 and C2 at Q2 . Let M1 be the midpoint of P1 Q1 ,and\nM2 be the midpoint of P2 Q2 . Prove that 6 O1 AO2 = 6 M1 AM2 .\n1983/3. Let a, b and c be positive integers, no two of which have a common\ndivisor greater than 1. Show that 2abc − ab − bc − ca is the largest integer\nwhich cannot be expressed in the form xbc + yca + zab,where x, y and z are\nnon-negative integers.\n1983/4. Let ABC be an equilateral triangle and E the set of all points\ncontained in the three segments AB, BC and CA (including A, B and C).\nDetermine whether, for every partition of E into two disjoint subsets, at least\none of the two subsets contains the vertices of a right-angled triangle. Justify\nyour answer.\n1983/5. Is it possible to choose 1983 distinct positive integers, all less than\nor equal to 105 , no three of which are consecutive terms of an arithmetic\nprogression? Justify your answer.\n1983/6. Let a, b and c be the lengths of the sides of a triangle. Prove that\n\n                   a2 b(a − b) + b2 c(b − c) + c2 a(c − a) ≥ 0.\n\nDetermine when equality occurs.",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

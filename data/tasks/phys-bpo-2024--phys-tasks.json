@@ -7,7 +7,7 @@
  "tasksFile": "olympiads/physics/s/BPO/2024/phys-tasks.pdf",
  "solutionFile": "olympiads/physics/s/BPO/2024/phys-sol.pdf",
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T18:21:27.541Z",
+ "generatedAt": "2026-11-09T19:30:18.007Z",
  "quality": {
   "tasks": 4,
   "parts": 4,
@@ -19,7 +19,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "(25 points) A) A tennis ball with the mass 𝑚2 sits on top of a…",
    "statement": "(25 points)\nA) A tennis ball with the mass 𝑚2 sits on top of a basketball with the\n   mass 𝑚1 . The bottom of the basketball is a height ℎ above the\n   ground, and the bottom of the tennis ball is at a height ℎ + 𝑑 above\n   the ground (see the first figure). The balls are dropped to the ground.\n   To what height does the tennis ball bounce?\nNote: Work in the approximation where 𝑚1 is much larger than 𝑚2\nand assume that the balls bounce elastically.\nB) Now consider 𝑛 balls, B1,⋯, Bn, having masses 𝑚1 , 𝑚2 ,⋯, 𝑚𝑛 (with\n   𝑚1 ≫ 𝑚2 ≫ ⋯ ≫ 𝑚𝑛 ), sitting in a vertical stack (see the second\n   figure). The bottom of B1 is at a height ℎ above the ground, and\n   the bottom of Bn is a height ℎ + 𝑙 above the ground. The balls are\n   dropped. In terms of 𝑛, to what height does the top ball bounce?\n   If ℎ = 1.0 m, what is the minimum number of balls needed for the\n   top one to bounce to a height of at least 1.0 km? The same\n   question, if the top ball is to reach the Earth’s escape speed?\nNote: Work in the approximation where 𝑚1 is much larger than 𝑚2 ,\nwhich is much larger than 𝑚3 , etc., and assume that the balls bounce\nelastically. Ignore wind resistance, etc., and assume that 𝑙 is negligible.\nData: 𝑙 is not very large, 𝑅𝐸𝑎𝑟𝑡ℎ = 6.4 ∙ 106 m, 𝑔 = 9.8 m/s 2, .",
    "total": 7,
    "parts": [
@@ -34,7 +34,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "(25 points) A quarter of a circle connects the vertical and the…",
    "statement": "(25 points)\nA quarter of a circle connects the vertical and the horizontal parts of\na track. The radius of circular arc is 𝑅 = 20 cm. A ball of unknown\nmass 𝑚 slides on the track with no friction. The ball is connected\n(through a slit along the track) with a stretched spring, as is shown\nin the figure. The length of the unstretched spring is 𝐿0 = 0.20 m,\nand the spring constant is 𝑘 = 100 N/m.\nThe sliding ball starts with zero initial speed from a point that is\n𝛼 = 45° above the horizontal line when viewed from the centre of\nthe arc, i.e. starts from point A, as is shown in the figure. The ball\nreaches the maximum speed at the angle 𝛽 = 34° below the\nhorizontal line, at point B, as is shown in the figure (𝑔 = 9.81 m/s 2). Derive the mathematical\nexpression and calculate the numerical value for:\na. (3 points) the length of the spring when the ball is at the starting position, at point A;\nb. (1 point) the elongation of the spring when the ball is at the starting position at point A;\nc. (4 points) the length of the spring when the ball is at the position of maximal speed, at point B;\nd. (1 point) the elongation of the spring when the ball is at the of maximal speed, at point B;\ne. (2 points) the magnitude of the spring force when the ball has maximal speed, at point B;\nf. (2 points) the acceleration component of the ball, tangential to the track at point B;\ng. (5 points) the mass of the ball;\nh. (4 points) the maximum speed of the ball (at point B);\ni. (3 points) the speed of the ball at point C.\n\n                                                                                                   1/4\n\n                      BPO6 Problems                     20-24 June 2024. Montenegro",
    "total": 7,
    "parts": [
@@ -49,7 +49,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "(25 points) A point-like ball of mass 𝑚 = 1.0 g is charged with an…",
    "statement": "(25 points)\nA point-like ball of mass 𝑚 = 1.0 g is charged with an\namount of positive charge 𝑞 = 1.0 nC. It is suspended by a\nnon-conducting thread of length 𝑙 = 0.50 m. The mass of\nthe thread is negligible. The ball rotates around a vertical\naxis in a circular path, the thread making an angle 𝛼 = 30°\nwith the vertical axis, as shown in figure.\nAn additional positive point-like charge 𝑄 = 2.0 nC can be\nplaced on the vertical axis in three different positions. In\nthe figure those positions are marked with the letters A, B\nand C. The distance AB is equal with the distance BC.\nThe friction forces in the system can be neglected. The\ngravitational acceleration in the system is 𝑔 = 9.8 m/s2 .\nA. (9 points) When the additional charge is at point A:\n   a) (1 point) Draw the free body diagram for the\n         rotating ball.\n   b) (2 points) Using the diagram write the equations of\n         motion for the ball.\n   c) (2 points) Derive the expression and calculate the\n         numerical value for the tension force in the thread.\n   d) (2 points) Assuming that the circular motion is\n         uniform, derive the formula for the speed of the\n         ball.\n   e) (2 points) Derive the expression and calculate the period of rotation of the ball.\nB. (8 points) Solve the tasks a, b, c, d and e when the charge 𝑄 is at point B.\nC. (8 points) Solve the tasks a, b, c, d and e when the charge 𝑄 is at point C.",
    "total": 7,
    "parts": [
@@ -64,7 +64,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "(25 points) 1. Description of the experiment A long plastic spring,…",
    "statement": "(25 points)\n1. Description of the experiment\nA long plastic spring, the so called “slinky”, of mass 𝑀 = 72.3 g, is\ncomposed of 𝑁 = 108 identical circular turns. The slinky is positioned\non a horizontal support, so that part of it is hanging freely, as depicted in\nFigure 1. After the spring oscillations damp completely, the length ℓ of\nthe suspended part is measured as a function of the number 𝑛 of hanging\nturns (𝑛 < 𝑁; see the figure). The experimental data for ℓ at different 𝑛\nare recorded in the Table at the end of the text.\n2. Tasks\nA. (2 points) From a theoretical viewpoint, the dependence of ℓ on 𝑛 is\ngiven by a quadratic function:\n                               ℓ = 𝐴𝑛 + 𝐵𝑛2                       (1)\nwhere A and B are constants characterizing the spring. Define a set of variables 𝑥 and 𝑦, which\nlinearize equation (1), i.e. transform it to a linear dependence.\nB. (10 points) Determine constants A and B in equation (1) by means of a graphical analysis. Any\nauxiliary data, necessary for plotting the graph, must be recorded in the empty cells of Table 1.\nUse the graph paper to draw your graph. Attach the last page of the text (containing the table)\nto your solution!\n\n                                                                                            2/4\n\n                     BPO6 Problems                    20-24 June 2024. Montenegro\n\nC. (5 points) Equation (1) can be derived under the assumptions that each single turn of the slinky\nis equivalent to a spring of stiffness 𝑘s (known also as “spring constant” or “coefficient of\nelasticity”) and length ℓs in the undeformed state. Perform a theoretical analysis and express\nconstants A and B in equation (1) in terms of 𝑘s and ℓs . Neglect the deformation of a given single\nturn by its own weight.\nD. (3 points) Calculate 𝑘s and ℓs .\nE. (5 points) Calculate the length L of whole slinky in the undeformed state, and its stiffness K.\nUseful information:\n    1. The acceleration due to gravity is 𝑔 = 9.81 m⁄s 2 .\n    2. Depending on the methodology of your solution, the following relation may be of use:\n                                                     𝑛(𝑛 + 1)\n                                    1 + 2 + ⋯+ 𝑛 =\n                                                        2\n\n                                                                                              3/4\n\n                   BPO6 Problems               20-24 June 2024. Montenegro\n\nAttach this page to your solutions!\n                                       Table\n             𝑛                  ℓ⁄cm\n    5                    1.5\n    10                   3.9\n    15                   7.6\n    20                   12.9\n    25                   18.3\n    30                   25.0\n    35                   33.4\n    40                   42.8\n    45                   53.2\n    50                   64.6\n\n                                                                       4/4",
    "total": 7,
    "parts": [

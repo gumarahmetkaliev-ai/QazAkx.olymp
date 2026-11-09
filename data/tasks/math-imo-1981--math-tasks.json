@@ -1,0 +1,37 @@
+{
+ "setId": "math-imo-1981--math-tasks",
+ "olympiadId": "math-imo-1981",
+ "title": "Математика → IMO (международная) → 1981",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1981/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T19:30:11.092Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Twenty-second International Olympiad, 1981\n1981/1. P is a point inside a given triangle ABC.D, E, F are the feet of the\nperpendiculars from P to the lines BC, CA, AB respectively. Find all P for\nwhich\n                                 BC     CA AB\n                                      +      +\n                                 PD PE PF\nis least.\n1981/2. Let 1 ≤ r ≤ n and consider all subsets of r elements of the set\n{1, 2, ..., n}. Each of these subsets has a smallest member. Let F (n, r) denote\nthe arithmetic mean of these smallest numbers; prove that\n                                            n+1\n                               F (n, r) =       .\n                                            r+1\n1981/3. Determine the maximum value of m3 +n3 ,where m and n are integers\nsatisfying m, n ∈ {1, 2, ..., 1981} and (n2 − mn − m2 )2 = 1.\n1981/4. (a) For which values of n > 2 is there a set of n consecutive positive\nintegers such that the largest number in the set is a divisor of the least\ncommon multiple of the remaining n − 1 numbers?\n(b) For which values of n > 2 is there exactly one set having the stated\nproperty?\n1981/5. Three congruent circles have a common point O and lie inside a\ngiven triangle. Each circle touches a pair of sides of the triangle. Prove\nthat the incenter and the circumcenter of the triangle and the point O are\ncollinear.\n1981/6. The function f (x, y) satisfies\n(1) f (0, y) = y + 1,\n(2)f (x + 1, 0) = f (x, 1),\n(3) f (x + 1, y + 1) = f (x, f (x + 1, y)),\nfor all non-negative integers x, y. Determine f (4, 1981).",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

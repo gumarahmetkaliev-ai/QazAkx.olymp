@@ -7,7 +7,7 @@
  "tasksFile": "olympiads/math/oblast/2024/11/math11-1-tasks.pdf",
  "solutionFile": "olympiads/math/oblast/2024/11/math11-1-sol.pdf",
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:22.956Z",
+ "generatedAt": "2026-11-09T19:29:51.141Z",
  "quality": {
   "tasks": 3,
   "parts": 3,
@@ -19,7 +19,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "Найдите все функции f : N → N такие, что fm (n) = fm−n (m) при всех…",
    "statement": "Найдите все функции f : N → N такие, что fm (n) = fm−n (m) при всех\nнатуральных m ≥ n ≥ 2024. (N — множество натуральных чисел, f0 (k) = k и\nfl (k) = f (fl−1 (k)) при всех целых l ≥ 1.)",
    "total": 7,
    "parts": [
@@ -33,7 +33,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "Натуральные числа x, y, t таковы, что x2 + 257 = y t и 2 ≤ t ≤ 48.…",
    "statement": "Натуральные числа x, y, t таковы, что x2 + 257 = y t и 2 ≤ t ≤ 48. Докажите,\nчто число t — простое.",
    "total": 7,
    "parts": [
@@ -47,7 +47,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "В треугольнике ABC проведены биссектрисы AL, BM, CN и высоты AD, BE,…",
    "statement": "В треугольнике ABC проведены биссектрисы AL, BM, CN и высоты\nAD, BE, CF . Докажите, что если площадь треугольника DEF больше площади\nтреугольника LM N , то треугольник ABC тупоугольный.",
    "total": 7,
    "parts": [

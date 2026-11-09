@@ -7,7 +7,7 @@
  "tasksFile": "olympiads/math/s/imo/2008/math-tasks.pdf",
  "solutionFile": "olympiads/math/s/imo/2008/math-sol.pdf",
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:38.010Z",
+ "generatedAt": "2026-11-09T19:30:07.117Z",
  "quality": {
   "tasks": 6,
   "parts": 6,
@@ -19,7 +19,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "An acute-angled triangle ABC has orthocentre H. The circle passing…",
    "statement": "An acute-angled triangle ABC has orthocentre H. The circle passing through H with\ncentre the midpoint of BC intersects the line BC at A1 and A2 . Similarly, the circle passing through\nH with centre the midpoint of CA intersects the line CA at B1 and B2 , and the circle passing through\nH with centre the midpoint of AB intersects the line AB at C1 and C2 . Show that A1 , A2 , B1 , B2 ,\nC1 , C2 lie on a circle.",
    "total": 7,
    "parts": [
@@ -33,7 +33,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "(a) Prove that x2 y2 z2 + + ≥1 (x − 1)2 (y − 1)2 (z − 1)2 for all…",
    "statement": "(a) Prove that\n\n                                    x2         y2         z2\n                                          +          +          ≥1\n                                 (x − 1)2   (y − 1)2   (z − 1)2\n\nfor all real numbers x, y, z, each different from 1, and satisfying xyz = 1.\n\n(b) Prove that equality holds above for infinitely many triples of rational numbers x, y, z, each\ndifferent from 1, and satisfying xyz = 1.\n\n                                                                                   2",
    "total": 7,
    "parts": [
@@ -47,7 +47,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "Prove that there exist √ infinitely many positive integers n such…",
    "statement": "Prove that there exist √ infinitely many positive integers n such that n + 1 has a prime\ndivisor which is greater than 2n + 2n.\n\nLanguage: English                                                      Time: 4 hours and 30 minutes\n                                                                       Each problem is worth 7 points\n\n                               Language: English                           Day: 2\n\n                49th INTERNATIONAL MATHEMATICAL OLYMPIAD\n                        MADRID (SPAIN), JULY 10-22, 2008\n\n                                                                                          Thursday, July 17, 2008",
    "total": 7,
    "parts": [
@@ -61,7 +61,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "Find all functions f : (0, ∞) → (0, ∞) (so, f is a function from the…",
    "statement": "Find all functions f : (0, ∞) → (0, ∞) (so, f is a function from the positive real\nnumbers to the positive real numbers) such that\n                                     \u0010        \u00112     \u0010          \u00112\n                                         f (w)     + f (x)               w 2 + x2\n                                                                     =\n                                          f (y 2 ) + f (z 2 )            y2 + z2\n\nfor all positive real numbers w, x, y, z, satisfying wx = yz.",
    "total": 7,
    "parts": [
@@ -75,7 +75,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "Let n and k be positive integers with k ≥ n and k − n an even number.…",
    "statement": "Let n and k be positive integers with k ≥ n and k − n an even number. Let 2n lamps\nlabelled 1, 2, . . . , 2n be given, each of which can be either on or off. Initially all the lamps are off.\nWe consider sequences of steps: at each step one of the lamps is switched (from on to off or from off\nto on).\n    Let N be the number of such sequences consisting of k steps and resulting in the state where\nlamps 1 through n are all on, and lamps n + 1 through 2n are all off.\n    Let M be the number of such sequences consisting of k steps, resulting in the state where lamps\n1 through n are all on, and lamps n + 1 through 2n are all off, but where none of the lamps n + 1\nthrough 2n is ever switched on.\n    Determine the ratio N/M .",
    "total": 7,
    "parts": [
@@ -89,7 +89,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "Let ABCD be a convex quadrilateral with |BA| 6= |BC|. Denote the…",
    "statement": "Let ABCD be a convex quadrilateral with |BA| 6= |BC|. Denote the incircles of\ntriangles ABC and ADC by ω1 and ω2 respectively. Suppose that there exists a circle ω tangent to\nthe ray BA beyond A and to the ray BC beyond C, which is also tangent to the lines AD and CD.\nProve that the common external tangents of ω1 and ω2 intersect on ω.\n\nLanguage: English                                                                   Time: 4 hours and 30 minutes\n                                                                                    Each problem is worth 7 points",
    "total": 7,
    "parts": [

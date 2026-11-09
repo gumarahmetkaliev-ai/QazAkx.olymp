@@ -1,0 +1,37 @@
+{
+ "setId": "math-imo-1971--math-tasks",
+ "olympiadId": "math-imo-1971",
+ "title": "Математика → IMO (международная) → 1971",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1971/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T19:30:11.332Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Thirteenth International Olympiad, 1971\n1971/1.\nProve that the following assertion is true for n = 3 and n = 5, and that it is\nfalse for every other natural number n > 2 :\nIf a1 , a2 , ..., an are arbitrary real numbers, then\n(a1 − a2 )(a1 − a3 ) · · · (a1 − an ) + (a2 − a1 )(a2 − a3 ) · · · (a2 − an )\n+ · · · + (an − a1 )(an − a2 ) · · · (an − an−1 ) ≥ 0\n1971/2.\nConsider a convex polyhedron P1 with nine vertices A1 A2 , ..., A9 ; let Pi be\nthe polyhedron obtained from P1 by a translation that moves vertex A1 to\nAi (i = 2, 3, ..., 9). Prove that at least two of the polyhedra P1 , P2 , ..., P9 have\nan interior point in common.\n1971/3.\nProve that the set of integers of the form 2k − 3(k = 2, 3, ...) contains an\ninfinite subset in which every two members are relatively prime.\n1971/4.\nAll the faces of tetrahedron ABCD are acute-angled triangles. We consider\nall closed polygonal paths of the form XY ZT X defined as follows: X is a\npoint on edge AB distinct from A and B; similarly, Y, Z, T are interior points\nof edges BCCD, DA, respectively. Prove:\n(a) If 6 DAB + 6 BCD 6= 6 CDA + 6 ABC, then among the polygonal paths,\nthere is none of minimal length.\n(b) If 6 DAB + 6 BCD = 6 CDA + 6 ABC, then there are infinitely many\nshortest polygonal paths, their common length being 2AC sin(α/2), where\nα = 6 BAC + 6 CAD + 6 DAB.\n1971/5.\nProve that for every natural number m, there exists a finite set S of points\nin a plane with the following property: For every point A in S, there are\nexactly m points in S which are at unit distance from A.\n1971/6.\nLet A = (aij )(i, j = 1, 2, ..., n) be a square matrix whose elements are non-\nnegative integers. Suppose that whenever an element aij = 0, the sum of the\nelements in the ith row and the jth column is ≥ n. Prove that the sum of\nall the elements of the matrix is ≥ n2 /2.",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

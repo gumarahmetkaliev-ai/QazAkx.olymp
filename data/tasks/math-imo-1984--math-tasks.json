@@ -1,0 +1,37 @@
+{
+ "setId": "math-imo-1984--math-tasks",
+ "olympiadId": "math-imo-1984",
+ "title": "Математика → IMO (международная) → 1984",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1984/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T19:30:11.002Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Twenty-fifth International Olympiad, 1984\n1984/1. Prove that 0 ≤ yz + zx + xy − 2xyz ≤ 7/27, where x, y and z are\nnon-negative real numbers for which x + y + z = 1.\n1984/2. Find one pair of positive integers a and b such that:\n(i) ab(a + b) is not divisible by 7;\n(ii) (a + b)7 − a7 − b7 is divisible by 77 .\nJustify your answer.\n1984/3. In the plane two different points O and A are given. For each\npoint X of the plane, other than O, denote by a(X) the measure of the angle\nbetween OA and OX in radians, counterclockwise from OA(0 ≤ a(X) < 2π).\nLet C(X) be the circle with center O and radius of length OX + a(X)/OX.\nEach point of the plane is colored by one of a finite number of colors. Prove\nthat there exists a point Y for which a(Y ) > 0 such that its color appears\non the circumference of the circle C(Y ).\n1984/4. Let ABCD be a convex quadrilateral such that the line CD is a\ntangent to the circle on AB as diameter. Prove that the line AB is a tangent\nto the circle on CD as diameter if and only if the lines BC and AD are\nparallel.\n1984/5. Let d be the sum of the lengths of all the diagonals of a plane convex\npolygon with n vertices (n > 3), and let p be its perimeter. Prove that\n                                     · ¸·        ¸\n                            2d   n          n+1\n                       n−3<    <                − 2,\n                             p   2           2\n\nwhere [x] denotes the greatest integer not exceeding x.\n1984/6. Let a, b, c and d be odd integers such that 0 < a < b < c < d and\nad = bc. Prove that if a + d = 2k and b + c = 2m for some integers k and m,\nthen a = 1.",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

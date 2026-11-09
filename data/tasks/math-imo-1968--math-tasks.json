@@ -1,0 +1,37 @@
+{
+ "setId": "math-imo-1968--math-tasks",
+ "olympiadId": "math-imo-1968",
+ "title": "Математика → IMO (международная) → 1968",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1968/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T19:30:11.412Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Tenth International Olympiad, 1968\n1968/1.\nProve that there is one and only one triangle whose side lengths are consec-\nutive integers, and one of whose angles is twice as large as another.\n1968/2.\nFind all natural numbers x such that the product of their digits (in decimal\nnotation) is equal to x2 − 10x − 22.\n1968/3.\nConsider the system of equations\n\n                             ax21 + bx1 + c = x2\n                             ax22 + bx2 + c = x3\n                                              ···\n                           2\n                         axn−1 + bxn−1 + c = xn\n                             ax2n + bxn + c = x1 ,\nwith unknowns x1 , x2 , · · · , xn , where a, b, c are real and a 6= 0. Let ∆ =\n(b − 1)2 − 4ac. Prove that for this system\n(a) if ∆ < 0, there is no solution,\n(b) if ∆ = 0, there is exactly one solution,\n(c) if ∆ > 0, there is more than one solution.\n1968/4.\nProve that in every tetrahedron there is a vertex such that the three edges\nmeeting there have lengths which are the sides of a triangle.\n1968/5.\nLet f be a real-valued function defined for all real numbers x such that, for\nsome positive constant a, the equation\n                                    1 q\n                       f (x + a) = + f (x) − [f (x)]2\n                                    2\nholds for all x.\n(a) Prove that the function f is periodic (i.e., there exists a positive number\nb such that f (x + b) = f (x) for all x).\n(b) For a = 1, give an example of a non-constant function with the required\nproperties.\n\n1968/6.\nFor every natural number n, evaluate the sum\n         ∞\n           \"        #    ·     ¸   ·      ¸        \"       #\n         X   n + 2k       n+1   n+2         n + 2k\n                        =     +     + ··· +        + ···\n         k=0   2k+1        2     4           2k+1\n\n(The symbol [x] denotes the greatest integer not exceeding x.)",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

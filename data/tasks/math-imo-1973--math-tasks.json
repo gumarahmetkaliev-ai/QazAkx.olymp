@@ -1,0 +1,37 @@
+{
+ "setId": "math-imo-1973--math-tasks",
+ "olympiadId": "math-imo-1973",
+ "title": "Математика → IMO (международная) → 1973",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1973/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T19:30:11.280Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Fifteenth International Olympiad, 1973\n1973/1.\n                              −−→ −−→      −−→\nPoint O lies on line g; OP1 , OP2 , ..., OPn are unit vectors such that points\nP1 , P2 , ..., Pn all lie in a plane containing g and on one side of g. Prove that\nif n is odd,                  ¯−−→ −−→\n                              ¯                    −−→¯¯\n                              ¯OP1 + OP2 + · · · + OPn ¯ ≥ 1\n       ¯−−→¯                                    −−→\n       ¯       ¯\nHere ¯OM ¯ denotes the length of vector OM .\n\n1973/2.\nDetermine whether or not there exists a finite set M of points in space not\nlying in the same plane such that, for any two points A and B of M, one can\nselect two other points C and D of M so that lines AB and CD are parallel\nand not coincident.\n1973/3.\nLet a and b be real numbers for which the equation\n                          x4 + ax3 + bx2 + ax + 1 = 0\nhas at least one real solution. For all such pairs (a, b), find the minimum\nvalue of a2 + b2 .\n1973/4.\nA soldier needs to check on the presence of mines in a region having the\nshape of an equilateral triangle. The radius of action of his detector is equal\nto half the altitude of the triangle. The soldier leaves from one vertex of the\ntriangle. What path shouid he follow in order to travel the least possible\ndistance and still accomplish his mission?\n1973/5.\nG is a set of non-constant functions of the real variable x of the form\n                   f (x) = ax + b, a and b are real numbers,\nand G has the following properties:\n(a) If f and g are in G, then g ◦ f is in G; here (g ◦ f )(x) = g[f (x)].\n(b) If f is in G, then its inverse f −1 is in G; here the inverse of f (x) = ax + b\nis f −1 (x) = (x − b)/a.\n(c) For every f in G, there exists a real number xf such that f (xf ) = xf .\nProve that there exists a real number k such that f (k) = k for all f in G.\n\n1973/6.\nLet a1 , a2 , ..., an be n positive numbers, and let q be a given real number such\nthat 0 < q < 1. Find n numbers b1 , b2 , ..., bn for which\n(a) ak < bk for k = 1, 2, · · · , n,\n(b) q < bk+1\n           bk\n                  < 1q for k = 1, 2, ..., n − 1,\n(c) b1 + b2 + · · · + bn < 1+q1−q\n                                  (a1 + a2 + · · · + an ).",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

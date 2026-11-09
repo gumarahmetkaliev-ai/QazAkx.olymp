@@ -1,0 +1,37 @@
+{
+ "setId": "math-imo-1975--math-tasks",
+ "olympiadId": "math-imo-1975",
+ "title": "Математика → IMO (международная) → 1975",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1975/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T19:30:11.228Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Seventeenth International Olympiad, 1975\n1975/1.\nLet xi , yi (i = 1, 2, ..., n) be real numbers such that\n\n                    x1 ≥ x2 ≥ · · · ≥ xn and y1 ≥ y2 ≥ · · · ≥ yn .\n\nProve that, if z1 , z2 , · · · , zn is any permutation of y1 , y2 , · · · , yn , then\n                              n\n                              X                    n\n                                                   X\n                                            2\n                                    (xi − yi ) ≤         (xi − zi )2 .\n                              i=1                  i=1\n\n1975/2.\nLet a1 , a2 , a3, · · · be an infinite increasing sequence of positive integers. Prove\nthat for every p ≥ 1 there are infinitely many am which can be written in\nthe form\n                                       am = xap + yaq\nwith x, y positive integers and q > p.\n\n1975/3.\nOn the sides of an arbitrary triangle ABC, triangles ABR, BCP, CAQ are\nconstructed externally with 6 CBP = 6 CAQ = 45◦ , 6 BCP = 6 ACQ =\n30◦ , 6 ABR = 6 BAR = 15◦ . Prove that 6 QRP = 90◦ and QR = RP.\n\n1975/4.\nWhen 44444444 is written in decimal notation, the sum of its digits is A. Let\nB be the sum of the digits of A. Find the sum of the digits of B. (A and B\nare written in decimal notation.)\n\n1975/5.\nDetermine, with proof, whether or not one can find 1975 points on the cir-\ncumference of a circle with unit radius such that the distance between any\ntwo of them is a rational number.\n\n1975/6.\nFind all polynomials P, in two variables, with the following properties:\n(i) for a positive integer n and all real t, x, y\n\n                                    P (tx, ty) = tn P (x, y)\n\n(that is, P is homogeneous of degree n),\n(ii) for all real a, b, c,\n\n                      P (b + c, a) + P (c + a, b) + P (a + b, c) = 0,\n\n(iii) P (1, 0) = 1.",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

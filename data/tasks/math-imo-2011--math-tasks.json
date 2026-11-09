@@ -7,7 +7,7 @@
  "tasksFile": "olympiads/math/s/imo/2011/math-tasks.pdf",
  "solutionFile": "olympiads/math/s/imo/2011/math-sol.pdf",
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:36.078Z",
+ "generatedAt": "2026-11-09T19:30:05.198Z",
  "quality": {
   "tasks": 6,
   "parts": 6,
@@ -19,7 +19,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "Given any set A = {a1 , a2 , a3 , a4 } of four distinct positive…",
    "statement": "Given any set A = {a1 , a2 , a3 , a4 } of four distinct positive integers, we denote the sum\na1 + a2 + a3 + a4 by sA . Let nA denote the number of pairs (i, j) with 1 ≤ i < j ≤ 4 for which ai + aj\ndivides sA . Find all sets A of four distinct positive integers which achieve the largest possible value\nof nA .",
    "total": 7,
    "parts": [
@@ -33,7 +33,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "Let S be a finite set of at least two points in the plane. Assume…",
    "statement": "Let S be a finite set of at least two points in the plane. Assume that no three points\nof S are collinear. A windmill is a process that starts with a line ` going through a single point\nP ∈ S. The line rotates clockwise about the pivot P until the first time that the line meets some\nother point belonging to S. This point, Q, takes over as the new pivot, and the line now rotates\nclockwise about Q, until it next meets a point of S. This process continues indefinitely.\nShow that we can choose a point P in S and a line ` going through P such that the resulting windmill\nuses each point of S as a pivot infinitely many times.",
    "total": 7,
    "parts": [
@@ -47,7 +47,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "Let f : R → R be a real-valued function defined on the set of real…",
    "statement": "Let f : R → R be a real-valued function defined on the set of real numbers that\nsatisfies\n                            f (x + y) ≤ yf (x) + f (f (x))\nfor all real numbers x and y. Prove that f (x) = 0 for all x ≤ 0.\n\nLanguage: English                                                      Time: 4 hours and 30 minutes\n                                                                       Each problem is worth 7 points\n\n                                                                           Language:            English\n\n                                                                                                    Day:   2\n\n                                                                               Tuesday, July 19, 2011",
    "total": 7,
    "parts": [
@@ -61,7 +61,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "Let n > 0 be an integer. We are given a balance and n weights of…",
    "statement": "Let n > 0 be an integer. We are given a balance and n weights of weight 20 ,\n2 , . . . , 2 . We are to place each of the n weights on the balance, one after another, in such a\n 1      n−1\n\nway that the right pan is never heavier than the left pan. At each step we choose one of the weights\nthat has not yet been placed on the balance, and place it on either the left pan or the right pan,\nuntil all of the weights have been placed.\nDetermine the number of ways in which this can be done.",
    "total": 7,
    "parts": [
@@ -75,7 +75,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "Let f be a function from the set of integers to the set of positive…",
    "statement": "Let f be a function from the set of integers to the set of positive integers. Suppose\nthat, for any two integers m and n, the di\u001berence f (m) − f (n) is divisible by f (m − n). Prove that,\nfor all integers m and n with f (m) ≤ f (n), the number f (n) is divisible by f (m).",
    "total": 7,
    "parts": [
@@ -89,7 +89,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "Let ABC be an acute triangle with circumcircle Γ. Let ` be a tangent…",
    "statement": "Let ABC be an acute triangle with circumcircle Γ. Let ` be a tangent line to Γ, and\nlet `a , `b and `c be the lines obtained by re\u001decting ` in the lines BC , CA and AB , respectively. Show\nthat the circumcircle of the triangle determined by the lines `a , `b and `c is tangent to the circle Γ.\n\nLanguage: English                                                      Time: 4 hours and 30 minutes\n\n                                                                       Each problem is worth 7 points",
    "total": 7,
    "parts": [

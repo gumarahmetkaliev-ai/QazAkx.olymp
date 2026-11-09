@@ -1,0 +1,142 @@
+{
+ "setId": "geo-ieso-2010--ieso-wt-astronomy",
+ "olympiadId": "geo-ieso-2010",
+ "title": "География → IESO (науки о Земле) → 2010",
+ "materialLabel": "Ieso wt astronomy",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/ieso/2010/ieso-wt-astronomy.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:25:54.255Z",
+ "quality": {
+  "tasks": 8,
+  "parts": 8,
+  "withPoints": 8,
+  "withReference": 0,
+  "withQuestion": 8,
+  "estimatedPoints": 8
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Suppose you see a new planet in the night sky. Based on observations,…",
+   "statement": "Suppose you see a new planet in the night sky. Based on observations, you find that the\n  planet is close to the Sun, with maximum elongation of 30 degrees. Given that the maximum\n  elongations of Venus and Mercury are 46 and 23 degrees respectively, you can conclude that :\na. the orbit of the planet is closer to the Sun than that of Mercury\nb. the orbit of the planet is located between those of Mercury and Venus\nc. the orbit of the planet is located between those of Venus and Earth\nd. the position of the planet can not be determined from the given data\ne. all the answers above are incorrect\n[1 point]",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "For an astronaut who is standing on the surface of the Moon facing…",
+   "statement": "For an astronaut who is standing on the surface of the Moon facing the Earth, which one of\nthe following statements is correct?\n\na. The Earth will always appear as a full disk\n\nb. The length of one day and one night is equal to the synodic period of the Moon seen by an\nobserver on the Earth\n\nc. The length of the day is half of the sidereal period of the Moon orbiting the Earth\n\nd. The duration between Earth rise and Earth set is the same as the duration between New Moon\nand Full Moon on the Earth\n\ne. The surface of the Earth facing the Moon is always the same so that only one side of the Earth\nis visible from the Moon\n\n[1.5 points]",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "How would the length of the solar day change if the direction of the…",
+   "statement": "How would the length of the solar day change if the direction of the Earth’s rotation is\nsuddenly reversed while maintaining the direction of revolution?\n\na.      It would be 4 minutes longer than before\nb.      It would be 4 minutes shorter than before\nc.      It would be 8 minutes longer than before\nd.      It would be 8 minutes shorter than before\ne.      It would not change, but remains the same as before\n[1.5 points]",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "According to stellar evolution theory, the Sun will evolve into the…",
+   "statement": "According to stellar evolution theory, the Sun will evolve into the red giant stage in a few\nbillion years. How would the average temperature on the surface of the Earth change compared\nto the present temperature, in the time when the Sun becomes a red giant with a radius of\n1.12×107 km and its temperature drops to 2900 K ? Assume that the current radius of the Sun is\n7×105 km, its surface temperature is 5800 K and neglect the possible change of the albedo of the\nEarth.\n\na. Becomes four times the present temperature\n\nb. Becomes twice the present temperature\n\nc. Becomes half the present temperature\n\nd. Becomes a quarter of the present temperature\n\ne. No change\n\n[2 points]",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "The parallax of a star measured on the Earth is 0.05 arc-seconds.…",
+   "statement": "The parallax of a star measured on the Earth is 0.05 arc-seconds. Determine its parallax if we\nmeasure it from Jupiter (heliocentric distance of Jupiter is 5.2 AU).\na.     1.00 arc- seconds\nb.     0.52 arc- seconds\nc.     0.33 arc- seconds\nd.     0.26 arc- seconds\ne.     0.15 arc- seconds\n[1.5 points]",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "If the mass of the Sun increases by two times its present value, and…",
+   "statement": "If the mass of the Sun increases by two times its present value, and the planets remain in their\n     present orbits, then the Earth’s period of revolution will be about:\na.      423 days\nb.      365 days\nc.      321 days\nd.      258 days\ne.      147 days\n[1.5 points]",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "If the perihelion of comet Halley is 8.9× 1010 meters and its period…",
+   "statement": "If the perihelion of comet Halley is 8.9× 1010 meters and its period is 76 years, then the\neccentricity of Halley is:\na.      0.567\nb.      0.667\nc.      0.767\nd.      0.867\ne.      0.967\n[1.5 points]",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "A particular spectral line of a star is observed at 4999 Å. According…",
+   "statement": "A particular spectral line of a star is observed at 4999 Å. According to laboratory\n    experiments, this spectral line should appear at 5000 Å. What is the velocity of this star\n    relative to the observer?\n\n     a. 60 km/s approaching the observer\n     b. 60 km/s receding the observer\n     c. 75 km/s approaching the observer\n     d. 75 km/s receding the observer\n     e. The star does not move relative to the observer\n     [1.5 points]\n\nB. Essay",
+   "total": 7,
+   "parts": [
+    {
+     "id": "8",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

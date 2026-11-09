@@ -7,7 +7,7 @@
  "tasksFile": "olympiads/math/s/imo/2003/math-tasks.pdf",
  "solutionFile": "olympiads/math/s/imo/2003/math-sol.pdf",
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:40.413Z",
+ "generatedAt": "2026-11-09T19:30:09.264Z",
  "quality": {
   "tasks": 6,
   "parts": 6,
@@ -19,7 +19,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "S is the set {1, 2, 3, . . . , 1000000}. Show that for any subset A…",
    "statement": "S is the set {1, 2, 3, . . . , 1000000}. Show that for any subset A\nof S with 101 elements we can find 100 distinct elements xi of S, such that\nthe sets {a + xi |a ∈ A} are all pairwise disjoint.\n                                                                           2",
    "total": 7,
    "parts": [
@@ -34,7 +34,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "Find all pairs (m, n) of positive integers such that 2mn2m−n3 +1 is a…",
    "statement": "Find all pairs (m, n) of positive integers such that 2mn2m−n3 +1\nis a positive integer.",
    "total": 7,
    "parts": [
@@ -49,7 +49,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "A convex hexagon has the property √that for any pair of opposite…",
    "statement": "A convex hexagon has the property  √that for any pair of opposite\nsides the distance between their midpoints is 3/2 times the sum of their\nlengths Show that all the hexagon’s angles are equal.",
    "total": 7,
    "parts": [
@@ -64,7 +64,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "ABCD is cyclic. The feet of the perpendicular from D to the lines AB,…",
    "statement": "ABCD is cyclic. The feet of the perpendicular from D to the\nlines AB, BC, CA are P, Q, R respectively. Show that the angle bisectors of\nABC and CDA meet on the line AC iff RP = RQ.",
    "total": 7,
    "parts": [
@@ -79,7 +79,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "Given n > 2 and reals x1 ≤ x2 ≤ · · · ≤ xn , show that ( i,j |xi − xj…",
    "statement": "Given n > 2 and reals x1 ≤ x2 ≤ · · · ≤ xn , show that\n( i,j |xi − xj |)2 ≤ 32 (n2 − 1) i,j (xi − xj )2 . Show that we have equality iff\n P                              P\n\nthe sequence is an arithmetic progression.",
    "total": 7,
    "parts": [
@@ -94,7 +94,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "Show that for each prime p, there exists a prime q such that np − p…",
    "statement": "Show that for each prime p, there exists a prime q such that\nnp − p is not divisible by q for any positive integer n.\n\n                                       1",
    "total": 7,
    "parts": [

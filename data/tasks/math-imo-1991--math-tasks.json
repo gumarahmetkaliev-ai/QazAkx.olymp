@@ -8,7 +8,7 @@
  "solutionFile": null,
  "noSolution": true,
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:41.962Z",
+ "generatedAt": "2026-11-09T19:30:10.796Z",
  "quality": {
   "tasks": 3,
   "parts": 3,
@@ -20,7 +20,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "Given a triangle ABC, let I be the center of its inscribed circle.…",
    "statement": "Given a triangle ABC, let I be the center of its inscribed circle.\n   The internal bisectors of the angles A, B, C meet the opposite sides in\n   A0 , B 0 , C 0 respectively. Prove that\n                         1    AI · BI · CI     8\n                           <   0     0     0\n                                             ≤    .\n                         4   AA · BB · CC      27",
    "total": 7,
    "parts": [
@@ -35,7 +35,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "Let n > 6 be an integer and a1 , a2 , . . . , ak be all the natural…",
    "statement": "Let n > 6 be an integer and a1 , a2 , . . . , ak be all the natural numbers\n   less than n and relatively prime to n. If\n\n                   a2 − a1 = a3 − a2 = · · · = ak − ak−1 > 0,\n\n   prove that n must be either a prime number or a power of 2.",
    "total": 7,
    "parts": [
@@ -50,7 +50,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "Let S = {1, 2, 3, . . . , 280}. Find the smallest integer n such that…",
    "statement": "Let S = {1, 2, 3, . . . , 280}. Find the smallest integer n such that each n-\n   element subset of S contains five numbers which are pairwise relatively\n   prime.\n\n                    Second Day    July 18, 1991\n                       Time Limit: 4 12 hours",
    "total": 7,
    "parts": [

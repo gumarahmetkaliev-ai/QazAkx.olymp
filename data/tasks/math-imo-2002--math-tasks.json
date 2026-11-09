@@ -7,7 +7,7 @@
  "tasksFile": "olympiads/math/s/imo/2002/math-tasks.pdf",
  "solutionFile": "olympiads/math/s/imo/2002/math-sol.pdf",
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:40.808Z",
+ "generatedAt": "2026-11-09T19:30:09.628Z",
  "quality": {
   "tasks": 6,
   "parts": 6,
@@ -19,7 +19,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "S is the set of all (h, k) with h, k non-negative integers such that…",
    "statement": "S is the set of all (h, k) with h, k non-negative integers such\nthat h + k < n. Each element of S is colored red or blue, so that if (h, k)\nis red and h0 ≤ h, k 0 ≤ k, then (h0 , k 0 ) is also red. A type 1 subset of S has\nn blue elements with different first member and a type 2 subset of S has n\nblue elements with different second member. Show that there are the same\nnumber of type 1 and type 2 subsets.",
    "total": 7,
    "parts": [
@@ -34,7 +34,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "BC is a diameter of a circle center O. A is any point on the circle…",
    "statement": "BC is a diameter of a circle center O. A is any point on\nthe circle with 6 AOC > 60o . EF is the chord which is the perpendicular\nbisector of AO. D is the midpoint of the minor arc AB. The line through\nO parallel to AD meets AC at J. Show that J is the incenter of triangle\nCEF .",
    "total": 7,
    "parts": [
@@ -49,7 +49,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "Find all pairs of integers m > 2, n > 2 such that there are…",
    "statement": "Find all pairs of integers m > 2, n > 2 such that there are\ninfinitely many positive integers k for which k n + k 2 − 1 divides k m + k − 1.",
    "total": 7,
    "parts": [
@@ -64,7 +64,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "The positive divisors of the integer n > 1 are d1 < d2 < . . . < dk ,…",
    "statement": "The positive divisors of the integer n > 1 are d1 < d2 < . . . <\ndk , so that d1 = 1, dk = n. Let d = d1 d2 + d2 d3 + · · · + dk−1 dk . Show that\nd < n2 and find all n for which d divides n2 .",
    "total": 7,
    "parts": [
@@ -79,7 +79,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "Find all real-valued functions on the reals such that (f (x) + f…",
    "statement": "Find all real-valued functions on the reals such that (f (x) +\nf (y))((f (u) + f (v)) = f (xu − yv) + f (xv + yu) for all x, y, u, v.",
    "total": 7,
    "parts": [
@@ -94,7 +94,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "n > 2 circles of radius 1 are drawn in the plane so that no line…",
    "statement": "n > 2 circles of radius 1 are drawn in the plane so that no line\nmeets more than two of the circles. Their centers are O1 , O2 , · · · , On . Show\nthat i<j 1/Oi Oj ≤ (n − 1)π/4.\n    P\n\n                                        1",
    "total": 7,
    "parts": [

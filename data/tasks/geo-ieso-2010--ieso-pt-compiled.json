@@ -1,0 +1,277 @@
+{
+ "setId": "geo-ieso-2010--ieso-pt-compiled",
+ "olympiadId": "geo-ieso-2010",
+ "title": "География → IESO (науки о Земле) → 2010",
+ "materialLabel": "Ieso pt compiled",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/ieso/2010/ieso-pt-compiled.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:25:54.224Z",
+ "quality": {
+  "tasks": 17,
+  "parts": 17,
+  "withPoints": 17,
+  "withReference": 0,
+  "withQuestion": 17,
+  "estimatedPoints": 17
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Mark by names or numbers (1, 2 and 3) on the printed sky map, the…",
+   "statement": "Mark by names or numbers (1, 2 and 3) on the printed sky map, the\npositions of the bright stars as listed below (15 minutes)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Vega (Alpha Lyra) (RA: 18h 36m 56.336s; Dec: +380 47’ 01.290”)",
+   "statement": "Vega (Alpha Lyra)\n      (RA: 18h 36m 56.336s; Dec: +380 47’ 01.290”)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Arcturus (Alpha Bootis) (RA: 14h 15m 39.672s; Dec: +190 10’ 56.67”)…",
+   "statement": "Arcturus (Alpha Bootis)\n      (RA: 14h 15m 39.672s; Dec: +190 10’ 56.67”)\n   (total point for three stars 40)\n\n2. Draw the ecliptic line in the map and identify the position of Mars\n   (10 for ecliptic and 10 for Mars)\n3. Calculate the hour angle of Jupiter (RA: 23h 56m 32s; Dec: -02006’59”) in\n      the sky at 8.00 PM local time. (coordinates of the location : South 07\n      55’.0144, East 110 34’.344 )\n   (20)(5 minutes)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Point the telescope to the direction of Jupiter (RA: 23h 56m 32s;…",
+   "statement": "Point the telescope to the direction of Jupiter (RA: 23h 56m 32s; Dec: -\n   02006’59”) and show to the jury (coordinates of the location : South 07\n   55’.0144, East 110 34’.344 )\n     (20)\n\nPractical Test – Atmosphere\n\n     Meteorological observation is the basis of atmospheric science. Such observations are made for a\n     variety of reasons. Observations made primarily for providing information for weather forecasts are\n     termed ‘synoptic’.\n     Synoptic observations are more frequent and more detailed, and are encoded for immediate\n     transmission to forecasting centres.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Read the entire question carefully before answering.",
+   "statement": "Read the entire question carefully before answering.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Please handover the competed practical test sheet to member of the…",
+   "statement": "Please handover the competed practical test sheet to member of the organizing\n   committee at the location.\n\n                                                                                  1\n\nPRACTICAL TEST FOR IESO 2010\nDLINGO AREA, BANTUL REGENCY, YOGYAKARTA, INDONESIA\nWednesday, September 22, 2010\n\nPROBLEM SETS\n\nLocation 1 (4 minutes):                                                          8 points",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Identify the geological structure at this Location by careful…",
+   "statement": "Identify the geological structure at this Location by careful observation.\n      a. Normal fault\n      b. Dextral strike-slip fault\n      c. Sheared joint\n      d. Thrust fault\n      e. Oblique fault",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "By using your compass, please measure the direction of dip of the…",
+   "statement": "By using your compass, please measure the direction of dip of the plane of the geological\n      structure identified in Question 7.\n      a. Northeast\n      b. Southwest\n      c. Southeast\n      d. Northwest\n      e. West",
+   "total": 7,
+   "parts": [
+    {
+     "id": "8",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "The strike/dip angle of the bedding plane is about (Note: acceptable…",
+   "statement": "The strike/dip angle of the bedding plane is about (Note: acceptable error is ±5º)\n      a. N 15º E/45º\n      b. N 50º W/45º\n      c. N 75º E/15º\n      d. N 60º W/45º\n      e. N 45º E/15º\n\n                                                                                             4\n\nLocation 4 (3 minutes):                                                 6 points",
+   "total": 7,
+   "parts": [
+    {
+     "id": "9",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Sedimentary structures identified in the rock marked by arrows ‘A’,…",
+   "statement": "Sedimentary structures identified in the rock marked by arrows ‘A’, ‘B’, and ‘C’.\n       a. A = Scouring               B = ripple mark              C = lenticular bedding\n       b. A = Cast                   B = lamination               C = Cross bedding\n       c. A = Convolute bedding B = lamination                    C = flame structure\n       d. A = Flame structure        B = lenticular bedding       C = burrow\n       e. A = Ripple mark            B = lenticular bedding       C = convolute bedding\n\n                                                                                           5\n\nLocation 5 (3 minutes):                                                          6 points",
+   "total": 7,
+   "parts": [
+    {
+     "id": "10",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Please observe the sedimentary structure present in the marked area…",
+   "statement": "Please observe the sedimentary structure present in the marked area and its vicinity, and\n       identify it.\n       a. Ripple mark\n       b. Cross bedding\n       c. Flame structure\n       d. Convolute bedding\n       e. Slump structure\n\n                                                                                              6\n\nLocation 6 (4 minutes):                                                        8 points",
+   "total": 7,
+   "parts": [
+    {
+     "id": "11",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "title": "The rock at this Location is predominantly composed of the following…",
+   "statement": "The rock at this Location is predominantly composed of the following rock fragments\n       a. Andesite and dacite\n       b. Dacite and granite\n       c. Basalt and syenite\n       d. Diorite and gabbro\n       e. Rhyolite and basalt",
+   "total": 7,
+   "parts": [
+    {
+     "id": "12",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Please identify the rock type at this Location. a. Intrusive breccia…",
+   "statement": "Please identify the rock type at this Location.\n       a. Intrusive breccia\n       b. Fault breccia\n       c. Volcanic breccia\n       d. Agglomerate\n       e. Brecciated igneous rock\n\n                                                                                             7\n\nLocation 7 (3 minutes):                                                           6 points",
+   "total": 7,
+   "parts": [
+    {
+     "id": "13",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Three types of rock fragment identified in the rock at this location…",
+   "statement": "Three types of rock fragment identified in the rock at this location are\n       a. Marl, tuff and lignite\n       b. Tuff, claystone and charcoal\n       c. Limestone, tuff and coal\n       d. Tuff, lapilli and lignite\n       e. Tuff, chalk and charcoal\n\n                                                                                             8\n\nLocation 8 (6 minutes):                                                            12 points",
+   "total": 7,
+   "parts": [
+    {
+     "id": "14",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Two main rock fragment types observed in the rock at this Location…",
+   "statement": "Two main rock fragment types observed in the rock at this Location include\n       a. Tuff and lignite\n       b. Tuff and charcoal\n       c. Chalk and coal\n       d. Tuff and peat\n       e. Limestone and charcoal",
+   "total": 7,
+   "parts": [
+    {
+     "id": "15",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 16,
+   "title": "Please observe the marked area on the outcrop and identify the rock…",
+   "statement": "Please observe the marked area on the outcrop and identify the rock type.\n       a. Agglomerate\n       b. Volcanic siltstone\n       c. Tuff-enriched siltstone\n       d. Coarse-grained sandstone\n       e. Pumice breccia",
+   "total": 7,
+   "parts": [
+    {
+     "id": "16",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 17,
+   "title": "On the basis of the orientation measurement of rock fragments, the…",
+   "statement": "On the basis of the orientation measurement of rock fragments, the paleocurrent direction\n       in the formation of this sedimentary rock was\n       a. Westward\n       b. Northward\n       c. Southeastward\n       d. Southwestward\n       e. Northeastward\n\n                                                                                               9\n\nLABORATORY TEST FOR IESO 2010\nWednesday, September 22, 2010\n\nINSTRUCTIONS:",
+   "total": 7,
+   "parts": [
+    {
+     "id": "17",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

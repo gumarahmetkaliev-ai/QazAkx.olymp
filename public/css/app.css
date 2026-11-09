@@ -372,3 +372,8 @@ section.cf-block { padding: 0; }
   .auth-perks li:nth-child(n + 3) { display: none; }
   .auth-main { padding: 24px; }
 }
+@media (max-width: 480px) {
+  .brand span, .brand small { display: none; }
+  .nav a { padding: 6px 7px; font-size: 0.84rem; }
+  .topbar-inner { gap: 6px; }
+}

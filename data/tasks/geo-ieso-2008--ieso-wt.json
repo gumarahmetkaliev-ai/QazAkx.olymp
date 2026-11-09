@@ -1,0 +1,367 @@
+{
+ "setId": "geo-ieso-2008--ieso-wt",
+ "olympiadId": "geo-ieso-2008",
+ "title": "География → IESO (науки о Земле) → 2008",
+ "materialLabel": "Ieso wt",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/ieso/2008/ieso-wt.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:25:54.901Z",
+ "quality": {
+  "tasks": 23,
+  "parts": 23,
+  "withPoints": 23,
+  "withReference": 0,
+  "withQuestion": 23,
+  "estimatedPoints": 23
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Label each contour line in the topographic map below with the correct…",
+   "statement": "Label each contour line in the topographic map below with the correct elevation using a\n   contour interval of 50 meters. (6 pts)\n\nAnswer questions 2-4 in the table below. Based on the features of rocks described in the right\ncolumn of the table, answer the questions in the left column.\n\n                 Questions                                        Features",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "By which process was the rock formed? (5 pts) Sizes of crystals from…",
+   "statement": "By which process was the rock\n      formed?\n        (5 pts)                     Sizes of crystals from 1 to 5 mm; less than\n   Ans:                             10 % of dark minerals; mainly composed of\n                                    quartz, feldspar, and muscovite.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "By which type of metamorphism was the rock formed? (5 pts) Ans:…",
+   "statement": "By which type of metamorphism was\n      the rock formed? (5 pts)\n   Ans:                                 Grains larger than 1 mm; alternating layers of\n                                        light and dark minerals; light minerals are\n                                        plagioclase, feldspar, and quartz, and dark\n                                        minerals are biotite and hornblende.\n\n                                                Individual grains are too small to be",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Name the specific rock. (5 pts) identified without magnification;…",
+   "statement": "Name the specific rock. (5 pts)\n                                                identified without magnification; composed\n   Ans:\n                                                predominantly of Ca-rich plagioclase and\n                                                pyroxene with small amounts of olivine;\n                                                black, dense and massive.\n\nIESO 2008 Written Test                                                                          2",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Describe three different ways in which minerals are formed. (9 pts)",
+   "statement": "Describe three different ways in which minerals are formed. (9 pts)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "The following figure and table show a vertical profile of air…",
+   "statement": "The following figure and table show a vertical profile of air temperature and dew point\n   measured by radiosonde. The air parcel is lifted mechanically from the ground and a\n   cloud forms.\n   When unsaturated air rises adiabatically, the temperature of air parcel decreases at a rate\n   of 10 °C/km and the dew point of air parcel decreases at a rate of 2 °C/km. Assume that\n   the saturated lapse rate is 6 °C/km. During the rising process, there is no exchange of heat\n   between the air parcel and the environment.\n\n                                                                                          Dew\n                                                                Height    Temperature\n                                                                                          point\n                                                                 (km)        (°C)\n                                                                                          (°C)\n                                                                   0            34         18\n\n                                                                  1.5           22         11\n                                                                   3            10          2\n                                                                  5.5          -10         -22\n                                                                   7           -22         -30\n                                                                   9           -38         -50\n                                                                  10.5         -50         -55\n\n   Answer the following questions (12 pts in total).\n   a) Before the air parcel begins to rise, is it saturated or unsaturated? (2 pts)\n\nIESO 2008 Written Test                                                                       3\n\n     b) Calculate the height of cloud base. (3 pts)\n\n     c) Calculate the height where the air parcel starts to rise on its own. (3 pts)\n\n     d) Is the air parcel in question c) stable or unstable? (1 pt)\n\n     e) Calculate the dew point of the rising air parcel at 5 km (3 pts)?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Which of the following processes ABSORBS the greatest amount of…",
+   "statement": "Which of the following processes ABSORBS the greatest amount of latent heat?\n      Circle the letter of the correct answer. (2 pts)\n\n      a. Freezing\n      b. Evaporation\n      c. Condensation\n      d. Melting",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Which of the following statements is FALSE? Circle the letter of the…",
+   "statement": "Which of the following statements is FALSE? Circle the letter of the correct answer.\n      (2 pts).\n\n      a. Salt particles make good condensation nuclei.\n      b. The vapor pressure is higher over water than over ice.\n      c. The typical raindrop is about 2 millimeters in diameter.\n      d. Cloud droplets freeze once the temperature drops below 0oC.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "8",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Where are many of the world’s desert regions located? Circle the…",
+   "statement": "Where are many of the world’s desert regions located? Circle the letter of the correct\n      answer. (2 pts)\n\n      a. On the east coast of most continents\n      b. Just north or south of the equator\n      c. In the west coast regions along the Tropics of Capricorn and Cancer\n      d. At 60o North and 60o South\n\nIESO 2008 Written Test                                                                       4",
+   "total": 7,
+   "parts": [
+    {
+     "id": "9",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Which of the following reasons explains why ice crystals develop much…",
+   "statement": "Which of the following reasons explains why ice crystals develop much faster than\n    liquid water drops in the upper and middle levels of thunderstorms? Circle the letter of\n    the correct answer (2 pts)\n\n     a. Electrical currents within thunderstorm allow the building of water vapor on ice\n        crystals more rapidly than on liquid water drops.\n     b. When temperatures drop below freezing, condensation of water vapor into liquid\n        water does not take place. The water vapor can, however, build on ice crystals due\n        to deposition.\n     c. It is because the vapor pressure of ice is less than that over water. This produces a\n        vapor pressure gradient between liquid and frozen water that causes water vapor to\n        move from liquid water drops towards ice crystals.\n     d. This is due to the turbulent motion of the air. Condensation rates in liquid water slow\n        with increasing wind speed.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "10",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Which combination of conditions characterizes the Coriolis effect on…",
+   "statement": "Which combination of conditions characterizes the Coriolis effect on moving particles?\n    Circle the letter of the correct answer (2 pts)\n\n     a. zero effect along the equator, increasing effect away from the equator\n     b. highest effect along the equator, decreasing effect away from the equator\n     c. latitudinal position has no influence on Coriolis effect",
+   "total": 7,
+   "parts": [
+    {
+     "id": "11",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Name three major factors that cause cloud dispersal. (3 pts) IESO…",
+   "statement": "Name three major factors that cause cloud dispersal. (3 pts)\n\nIESO 2008 Written Test                                                                      5",
+   "total": 7,
+   "parts": [
+    {
+     "id": "12",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 13,
+   "title": "The following figure shows satellite-observed near-sea surface wind…",
+   "statement": "The following figure shows satellite-observed near-sea surface wind vectors over a cloud\n    image in the Northwest Pacific Ocean during a typhoon as shown in Figure (a). The\n    colors of the arrows show the magnitude of wind field from 2 to 20 m/s. Instruments\n    called ARGO floats, shown in Figure (b), automatically measure vertical profiles of\n    temperature and salinity at the stations A, B, and C. The large black arrow stands for the\n    direction of the typhoon’s movement. [7 pts in total]\n\n                 Korea\n\nTaiwan\n\n(a) At which location is the wind stronger?   A or B?    [1 pt]\n\n(b) Explain your answer for question (a). [ 2 pts]\n\n  IESO 2008 Written Test                                                                     6\n\n(c)   If the following profile shows the temperature at Station C near the typhoon center, draw\n      a new temperature profile once the typhoon passes Station C. [ 2 pts]\n\n(d)   Describe a process that is responsible for your answer in question (c). [ 2 pts]\n\nIESO 2008 Written Test                                                                 7",
+   "total": 7,
+   "parts": [
+    {
+     "id": "13",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 14,
+   "title": "The following figure shows oceanic topography. An earthquake occurs…",
+   "statement": "The following figure shows oceanic topography. An earthquake occurs at Station B\n  (15.25oN, 140oE) at 1:50 A.M. Estimate the arrival time of the tsunami at Station A\n  (15.25oN, 122oE). [3 pts in total]\n      To avoid difficulty in the calculation, the bathymetry between stations A and B is\n  shown by red dashed lines in the second figure. (sin15.25°=0.26, cos15.25°=0.96,\n  gravitational acceleration g ≈ 10 m/s2, the earth radius R = 6400 km). Assume Station A\n  and Station B are in the same time zone.\n\n                           A                    B\n\n        A\n\n                                     Real Bathymetry\n                                     Averaged Bathymetry\n\n                                                                B\n\nIESO 2008 Written Test                                                                  8",
+   "total": 7,
+   "parts": [
+    {
+     "id": "14",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 15,
+   "title": "A recent partial lunar eclipse was observed during the night of…",
+   "statement": "A recent partial lunar eclipse was observed during the night of August 16th, 2008. The\n    composite images were recorded during the eclipse from Athens, Greece, showing a\n    large part of the umbra (dark part of the earth's shadow). An angular diameter of the\n    lunar image is 31′. You may need a ruler, a compass, and a calculator to answer the\n    questions below. (5 pts in total)\n\n   a) Using this picture, calculate an approximate angular diameter of the umbra. Show\n      how you obtained your answer by drawing on the figure above.\n      (2 pts)\n\n   b) Using the sidereal period of the Moon (about 27.5 days) and the distance between the\n      Earth and the Moon (about 380,000 km), calculate the approximate duration time of\n      this lunar eclipse. (3 pts)\n\nIESO 2008 Written Test                                                                      9",
+   "total": 7,
+   "parts": [
+    {
+     "id": "15",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 16,
+   "title": "An icy body in an elliptical orbit around the sun is observed from…",
+   "statement": "An icy body in an elliptical orbit around the sun is observed from Earth. At perihelion it\n    has a distance to the sun of 40 AU, an albedo of 0.6 and a magnitude of 20. At aphelion\n    it has a distance to the sun of 60 AU and an albedo of 0.7. What magnitude do you\n    expect the icy body to have at aphelion? Draw a diagram and show all calculations.\n    (4 pts)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "16",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 17,
+   "title": "Sean is in Manila and driving his car to the north at noon. He has…",
+   "statement": "Sean is in Manila and driving his car to the north at noon. He has trouble seeing the car\n    moving in front of him because the sun's rays are reflected from the back window glass\n    and the glare is in his eyes. The back window glass of the car A forms an angle with the\n    ground of 52° 18′as shown in the picture below. The arrow AB is parallel to the ground. .\n    (6 pts in total)\n\nIESO 2008 Written Test                                                                        10\n\n   a) In this situation, what is the altitude of the sun? (2 pts)\n\n   b) The latitude of Manila is 14° 36′ N. What is the declination of the sun on this date.\n      (2 pts)\n\n   c) Estimate the dates when this situation occurs. (2 pts)\n\nIESO 2008 Written Test                                                                      11",
+   "total": 7,
+   "parts": [
+    {
+     "id": "17",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 18,
+   "title": "The Orionid meteor shower radiant can be found in RA 6h 20m and Dec…",
+   "statement": "The Orionid meteor shower radiant can be found in RA 6h 20m and Dec +16° as\n    indicated in the map below: (5 pts in total)\n\n   a) If the sun is at RA 13h 45m and Dec -10° 45', at what time will the radiant transit?\n      Assume that both the equation of time and the standard correction due to latitude are\n      equal to zero. (3 pts)\n\n   b) At what latitude should an observer be for the radiant to pass exactly at his/her zenith?\n      (2 pts)\n\nIESO 2008 Written Test                                                                      12\n\nQuestions 19-21 are a set of questions. Consider a hypothetical earth that has the same\nvolume and mass as our real earth, but has a spherical shape with an interior made of\nhomogeneous material.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "18",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 19,
+   "title": "Which of the following statements about the estimated gravity and the…",
+   "statement": "Which of the following statements about the estimated gravity and the radius at the poles\n    of the two earths is correct ? (2 pts)\n\n     a. The gravity and radius are larger on the real earth.\n     b. The gravity and radius are larger on the hypothetical earth.\n     c. The gravity is larger on the real earth, and the radius is larger on the hypothetical\n        earth.\n     d. The gravity is smaller on the real earth, and the radius is larger on the hypothetical\n        earth.\n     e. The gravity is larger on the real earth, and the radius is smaller on the hypothetical\n        earth.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "19",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 20,
+   "title": "Which of the following statements about the densities of surface…",
+   "statement": "Which of the following statements about the densities of surface rocks of the two earths is\n    correct ? (2 pts)\n      a. Surface rocks of the real earth have the larger density.\n      b. Surface rocks of the real earth have the smaller density.\n      c. Surface rocks of the real earth have the same density as that of the hypothetical\n          earth.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "20",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 21,
+   "title": "Sketch the directions of gravity and magnetic fields at the northern…",
+   "statement": "Sketch the directions of gravity and magnetic fields at the northern pole and equator of\n    the real earth. (3 pts)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "21",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 22,
+   "title": "The figure below is the vertical component of waveform recorded at…",
+   "statement": "The figure below is the vertical component of waveform recorded at one seismic station.\n    The arrival times of several waves are indicated by arrows. (6 pts in total)\n\n          X         Y     Z\n\nIESO 2008 Written Test                                                               13\n\n(a) Which letter above most likely respresents the S wave,     X, Y or Z?   (1 pt)\n\n(b) According to the Z onset time and the later waveform, which graph represents the\n    relationship between the period and velocity? (2 pts)\n\n(c) List three different possible causes of earthquakes. (3 pts)\n\nIESO 2008 Written Test                                                                  14",
+   "total": 7,
+   "parts": [
+    {
+     "id": "22",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 23,
+   "title": "Using your knowledge of plate tectonic theory and the map below,…",
+   "statement": "Using your knowledge of plate tectonic theory and the map below, briefly describe the\n    movement of tectonic plates that may have caused the Sichuan earthquake in China on\n    May 12, 2008. (The white star indicates the epicenter and arrows show the direction and\n    relative speed of ground movement) (2 pts)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "23",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

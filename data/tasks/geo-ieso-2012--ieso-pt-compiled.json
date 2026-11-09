@@ -1,0 +1,277 @@
+{
+ "setId": "geo-ieso-2012--ieso-pt-compiled",
+ "olympiadId": "geo-ieso-2012",
+ "title": "География → IESO (науки о Земле) → 2012",
+ "materialLabel": "Ieso pt compiled",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/ieso/2012/ieso-pt-compiled.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:25:53.925Z",
+ "quality": {
+  "tasks": 17,
+  "parts": 17,
+  "withPoints": 17,
+  "withReference": 0,
+  "withQuestion": 17,
+  "estimatedPoints": 17
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Modelling an inversion Material • salted water (300g of salt per…",
+   "statement": "Modelling an inversion\nMaterial\n   • salted water (300g of salt per litre) at 5°C\n   • hot fresh water at 50°C\n   • tall beaker\n   • plastic film (useful for pouring hot water gently on top of cold salted\n       water without mixing it ; you get rid of the film gently after that)\n   • colour Tepid fresh water filled in small bottle at room temperature.\n   • a metal wire attached to the flask : useful for pushing down the small\n       bottle at the bottom of the beaker.\n\nI) Pour cold, salted water in the beaker up to mid-height\n\nII) Cover the water with the plastic sheet\n\nIII) Pour gently hot fresh water on the top of the filmed layer\n of salted water, in order to avoid mixing the two water masses.\n\nIV) Pull gently the film, avoiding turbulence.\n\nV) Put the small bottle filled with colored tepid water at the bottom of the beaker (using the\nwire) ; incline the opening of the bottle so as to let the colored water go out gently.\n\nQuestions\n\n1.1) Indicate which drawing best describes what you observe in your beaker ( 5 points)\nAns. (        )\n\n         A                          B                         C                         D\n\n            1.2) Please indicate the relative densities of the 3 water masses\n                (HF : hot and fresh, CS : cold and salted, TF : Colour Tepid fresh) : ( 2 points)\n                Ans. (      )\n\n            A)    density CS > density HF > density TF\n            B)    density HF > density CS > density TF\n            C)    density TF > density CS > density HF\n            D)    density CS > density TF > density HF\n\n            2) Inversion in a valley\n            Inversion can be a problem when there is pollution. Let’s consider a valley with a polluting\n            factory in winter.\n                   2.1) Associate each time of the day /weather condition below with one of the vertical\n                   profiles of temperature A, B, and C in the small box ( 3 points)\n\n 900 hPa\n\n 950 hPa\n\n 1000 hPa\n\n                                                   At the end of a                      At the end of a\n             At the end of a                       clear night                          sunny day\n             cloudy night\n\n     Pressure\n\n                                       A                                   B                                    C\n\n900 hPa\n950 hPa\n1000 hPa\n\n                                   Temperature                         Temperature                        Temperature\n\n                   2.2) Draw the limit of the polluted layer on the valley profile above (if any) ( 2 points)\n\n3) Zonda (Foehn) wind\n\nAn emagram (Skew T Log-P-diagram in the US) is a thermodynamic diagram which allows\nto predict how the state of a parcel of air changes when the parcel moves up or down. You\nmay kindly note that in those diagrams, isotherms (solid brown lines) are skewed towards the\nright at 45°, so you must read temperature obliquely! Pressure/altitude is on the vertical axis.\n\nWe are going to apply it to the study of a famous Argentinian wind, blowing from the Andes :\nZonda wind.\n\nLet’s consider a parcel of humid air arriving from the Pacific Ocean in Chile. At the altitude\nof 200 meters, air pressure is 1000 hPa. The temperature of this parcel of air is then 15°C\n(A point) and its mixing ratio (water content) is 6 g of water per kg of air.\n\n       3.1) Plot this point (A point) on the emagram. Plot the dew point (DA) at this altitude\n       and indicate the dew point temperature. (1 point)\n\n       Ans.\n\nWest winds push this parcel of air up the Chilean slopes of the Andes. We will consider that\nthis move is adiabatic: the parcel of air does not exchange heat with the surrounding air and\ncools just because its pressure decrease.\nAt some point, the air parcel will reach saturation and rain will start(B point).\n\n       3.2) Plot the point B up to which the rain starts (saturation) on the emagram and draw\n       the path between A and B. (1 point)\n\nNow saturated air continue to move up the slope, until the summit of an Andean mountain\npass, at 2500 m (750 hPa).(C point)\n\n       3.3) Plot the point C giving the state of the parcel of air at 750 hPa, and draw the path\n       between B and C. ( 2 points)\n\n Now the parcel will go down the argentinian slope of the Andes, until it arrives at\nthe altitude of 200 m (1000 hPa).(D point)\n\n       3.4) Plot the point D giving the state of the parcel of air at 1000 hPa, and draw the path\n       between C and D. Indicate the temperature and mixing ratio of the air in D.( 2 points)\n\n       Ans.\n\n       3.5) Choose how to describe the perception of the Zonda wind in Argentina (1 point)\n\n       (A) warm and humid\n       (B) cold and humid\n       (C) warm and dry\n       (D) cold and dry.\n\n       Ans.\n\nEmagram (Skew-T Log P)\n\nIESO 2012 practical TEST Geosphere\nName_____________________________                Nationality\n__________________________",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Name the rocks in trays A, B and C and show where (X, Y and Z in the…",
+   "statement": "Name the rocks in trays A, B and C and show where (X, Y and Z in the diagram)\nthey occur in terms of plate tectonics (12 pts).\nA- Granite\nB- Obsidian\nC- Pumice.\n\nhttp://www.platetectonics.com/book/page_12.asp",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Name the sedimentary rock in tray D. What is the environmental…",
+   "statement": "Name the sedimentary rock in tray D. What is the environmental significance of its\ncolour? (6 pts)\nA: Shale/ black shale; Anoxic/reducing environment",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Name the rock in tray E (among the choice of answers provided), and…",
+   "statement": "Name the rock in tray E (among the choice of answers provided), and identify the\nfossil present in it.(6 pts)\n  a. mudstone- b. limestone c. sandstone d. dolomite;          Plant fossil",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Name the rock in tray F.(5pts) A: schist/ amphibolite schist For…",
+   "statement": "Name the rock in tray F.(5pts)\nA: schist/ amphibolite schist\nFor question numbers 6-8: Name the minerals and mention their diagnostic property\n(one property per mineral is enough).",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Quartz; hardness, lustre, no cleavage, fractures (5 pts)",
+   "statement": "Quartz; hardness, lustre, no cleavage, fractures (5 pts)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Muscovite (mica); cleavage, sheety, flaky, hardness (5 pts)",
+   "statement": "Muscovite (mica); cleavage, sheety, flaky, hardness (5 pts)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Talc; hardness (4 pts)",
+   "statement": "Talc; hardness (4 pts)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "8",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Please measure the strike and dip of a plane assigned. (10 pts)",
+   "statement": "Please measure the strike and dip of a plane assigned. (10 pts)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "9",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Please measure the strike and dip of a plane assigned.(10 pts)",
+   "statement": "Please measure the strike and dip of a plane assigned.(10 pts)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "10",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Name the rock used at the flag mast. Name the two primary mineral…",
+   "statement": "Name the rock used at the flag mast. Name the two primary mineral constituents\nin it.(6 pts)\nPink granite/ granite; quartz and feldspar",
+   "total": 7,
+   "parts": [
+    {
+     "id": "11",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Name the rock used for the step in the hall. What rock was it…",
+   "statement": "Name the rock used for the step in the hall. What rock was it originally? (6 pts)\nMarble; limestone",
+   "total": 7,
+   "parts": [
+    {
+     "id": "12",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 13,
+   "title": "What would you call the long feature in the rock? Name the dominant…",
+   "statement": "What would you call the long feature in the rock? Name the dominant mineral\nconstituent in this feature. (6 pts)\nVein; feldspar",
+   "total": 7,
+   "parts": [
+    {
+     "id": "13",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Identify the structure you see in the encircled area. (3 pts) Fault/…",
+   "statement": "Identify the structure you see in the encircled area. (3 pts)\nFault/ microfault.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "14",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Choose the correct chronological sequence of events represented in…",
+   "statement": "Choose the correct chronological sequence of events represented in the map.\n\na) Ａ-B-C-E-F-G-I-J-D-H\nb) D-A-I-G-F-J-C-H-E-B\nc) I-J-D_B-C-A_E-G-F-H\nd) B-E-F-G-I-A- H-C-J -D",
+   "total": 7,
+   "parts": [
+    {
+     "id": "15",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 16,
+   "title": "Match the following: a) Inclined beds i) straight line outcrop…",
+   "statement": "Match the following:\na) Inclined beds     i) straight line outcrop intersecting topographic contours\n\nb) horizontal beds   ii) straight line outcrop parallel to topographic contours\n\nc) vertical beds     iii) outcrop intersecting topographic contours\n\n                     iv) outcrop parallel to topographic contours",
+   "total": 7,
+   "parts": [
+    {
+     "id": "16",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 17,
+   "title": "",
+   "statement": "",
+   "total": 7,
+   "parts": [
+    {
+     "id": "17",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

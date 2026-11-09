@@ -1,0 +1,37 @@
+{
+ "setId": "math-imo-1959--math-tasks",
+ "olympiadId": "math-imo-1959",
+ "title": "Математика → IMO (международная) → 1959",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1959/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T19:30:11.631Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "First International Olympiad, 1959\n1959/1.\nProve that the fraction 21n+4\n                        14n+3\n                              is irreducible for every natural number n.\n\n1959/2.\nFor what real values of x is\n                 q       √         q   √\n                   (x + 2x − 1) + (x − 2x − 1) = A,\n                √\ngiven (a) A = 2, (b) A = 1, (c) A = 2, where only non-negative real\nnumbers are admitted for square roots?\n\n1959/3.\nLet a, b, c be real numbers. Consider the quadratic equation in cos x :\n\n                          a cos2 x + b cos x + c = 0.\n\nUsing the numbers a, b, c, form a quadratic equation in cos 2x, whose roots\nare the same as those of the original equation. Compare the equations in\ncos x and cos 2x for a = 4, b = 2, c = −1.\n\n1959/4.\nConstruct a right triangle with given hypotenuse c such that the median\ndrawn to the hypotenuse is the geometric mean of the two legs of the triangle.\n\n1959/5.\nAn arbitrary point M is selected in the interior of the segment AB. The\nsquares AM CD and M BEF are constructed on the same side of AB, with\nthe segments AM and M B as their respective bases. The circles circum-\nscribed about these squares, with centers P and Q, intersect at M and also\nat another point N. Let N 0 denote the point of intersection of the straight\nlines AF and BC.\n(a) Prove that the points N and N 0 coincide.\n(b) Prove that the straight lines M N pass through a fixed point S indepen-\ndent of the choice of M.\n(c) Find the locus of the midpoints of the segments P Q as M varies between\nA and B.\n\n1959/6.\nTwo planes, P and Q, intersect along the line p. The point A is given in the\nplane P, and the point C in the plane Q; neither of these points lies on the\nstraight line p. Construct an isosceles trapezoid ABCD (with AB parallel to\nCD) in which a circle can be inscribed, and with vertices B and D lying in\nthe planes P and Q respectively.",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

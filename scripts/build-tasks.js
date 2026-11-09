@@ -45,7 +45,7 @@ function loadEnv() {
   }
 }
 
-// Сканы без текстового слоя распознаём через tesseract (rus+kaz+eng), результат кешируем в .cache/ocr
+// Сканы без текстового слоя распознаём через tesseract (rus+kaz+eng), первые 30 страниц; кеш — .cache/ocr
 const OCR_DIR = path.join(ROOT, ".cache", "ocr");
 let hasTesseract = null;
 function ocrPdf(file) {
@@ -62,7 +62,7 @@ function ocrPdf(file) {
   if (fs.existsSync(cacheFile)) return fs.readFileSync(cacheFile, "utf8");
   const tmp = fs.mkdtempSync(path.join(require("os").tmpdir(), "ocr-"));
   try {
-    execFileSync("pdftoppm", ["-r", "300", "-gray", "-png", file, path.join(tmp, "p")], { stdio: "ignore" });
+    execFileSync("pdftoppm", ["-r", "300", "-gray", "-png", "-l", "30", file, path.join(tmp, "p")], { stdio: "ignore" });
     const langs = /kaz|qaz/i.test(file) ? "kaz+rus+eng" : "rus+eng";
     const pages = fs.readdirSync(tmp).filter((f) => f.endsWith(".png")).sort();
     const text = pages
@@ -215,6 +215,21 @@ function score(tasks) {
   return (q.withReference * 2 + q.parts + q.tasks) * blob;
 }
 
+/** Единственный пункт задачи, а в схеме оценивания «Всего N» — берём N как максимум */
+function fixTotals(tasks) {
+  for (const t of tasks || []) {
+    if (t.parts.length !== 1) continue;
+    const m = String(t.parts[0].reference || "").match(/(?:Всего|Итого|Барлығы|Total)\s*[:\-]?\s*(\d{1,3}(?:[.,]\d)?)\s*(?:балл|ұпай|points?)?\s*$/im);
+    if (!m) continue;
+    const n = Number(m[1].replace(",", "."));
+    if (n > 0 && n <= 100 && n !== t.parts[0].points) {
+      t.parts[0].points = n;
+      delete t.parts[0].pointsEstimated;
+      t.total = n;
+    }
+  }
+}
+
 /** Физика, математика, информатика, астрономия, география */
 function parseNewSubject(tasksText, solText, olymp, mat) {
   const lt = linearize(tasksText).text;
@@ -233,6 +248,7 @@ function parseNewSubject(tasksText, solText, olymp, mat) {
     { tasks: numbered, generatedBy: "numbered-parser" },
   ];
   variants.sort((a, b) => score(b.tasks) - score(a.tasks));
+  fixTotals(variants[0].tasks);
   return variants[0];
 }
 

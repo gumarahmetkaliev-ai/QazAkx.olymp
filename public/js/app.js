@@ -171,7 +171,7 @@
       body = bioTopics
         .map((t) => {
           const rows = [];
-          for (const b of books) {
+          for (const b of [...books].sort((x, y) => (x.lang === "ru" ? 0 : 1) - (y.lang === "ru" ? 0 : 1))) {
             const secs = b.sections.filter((x) => x.topic === t.id);
             if (!secs.length) continue;
             // главы целиком, если есть; иначе первые параграфы

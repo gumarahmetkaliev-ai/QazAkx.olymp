@@ -1,0 +1,112 @@
+{
+ "setId": "geo-ieso-2010--ieso-wt-oceanography",
+ "olympiadId": "geo-ieso-2010",
+ "title": "География → IESO (науки о Земле) → 2010",
+ "materialLabel": "Ieso wt oceanography",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/ieso/2010/ieso-wt-oceanography.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:25:54.476Z",
+ "quality": {
+  "tasks": 6,
+  "parts": 6,
+  "withPoints": 6,
+  "withReference": 0,
+  "withQuestion": 6,
+  "estimatedPoints": 6
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "What causes ocean layering? (10pnt) a. Polar ice caps b. Currents c.…",
+   "statement": "What causes ocean layering? (10pnt)\n     a. Polar ice caps\n     b. Currents\n     c. Density differences\n     d. Waves\n     e. Evaporation and precipitation",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "The oceans can absorb a large amount of solar energy without…",
+   "statement": "The oceans can absorb a large amount of solar energy without significant increases in\n     temperature. This is primarily because ….. (10 pnt)\n     a. there is a huge volume of sea water.\n     b. the evaporation latent heat of water is relativly small.\n     c. the sea surface does not reflect the incoming heat.\n     d. the Heat capacity of sea water is relativly high\n     e. the large amount of salt in sea water.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Which is the best statement about concentration of O2 in the…",
+   "statement": "Which is the best statement about concentration of O2 in the seawater? (10 pnt)\n     a. The concentration of O2 in the surface layer is higher than in deeper layers.\n     b. The concentration of O2 during winter is higher than during the summer.\n     c. The concentration of O2 in the high latitude areas is higher than in tropical areas.\n     d. Answer (a) and (b) are correct.\n     e. Answer (a),(b), and (c) are correct.\n\n                                                                                     Page 1 of 3",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "The ocean budget depends on evaporation and precipitation. These…",
+   "statement": "The ocean budget depends on evaporation and precipitation. These effects influence\n                  surface salinity. Based on this figure, explain why salinity in tropical waters is lower than\n                  sub tropical waters. (20pnt)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Match the corresponding currents listed below by letter to the…",
+   "statement": "Match the corresponding currents listed below by letter to the correct location on the\n                  following map. (20 pnt)\n\n                                   (A)       Alaska current\n                                   (B)       Peru current\n                                   (C)       North Atlantic current\n                                   (D)       Brazil current\n                                   (E)       Falkland current\n\nLabrador current\n\n North. Pasific\n    current\n\n   California\n    current\n\nNorth. Equatorial.\n     Current",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Equatorial. Counter West Wind drift South Equatorial. West Australian…",
+   "statement": "Equatorial. Counter   West Wind drift              South Equatorial.   West Australian   East Australian current\n                           Current                                            Current            Current\n\n                                                                                                                         Page 2 of 3\n\n6. Recently it has been discovered that floating trash is concentrating in specific areas of\n   the oceans. These areas are located in the gyres or areas of circulating currents. (See\n   map above #55) The plastic trash is estimated to remain concentrated in these areas for\n   many hundreds of years into the future before it breaks down photo-chemically. One\n   gyre has an “Island of trash” twice the size of the state of Texas.\n\n  The picture below is a sketch of a gyre.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "setId": "geo-ieso-2009--ieso-pt-astronomy",
+ "olympiadId": "geo-ieso-2009",
+ "title": "География → IESO (науки о Земле) → 2009",
+ "materialLabel": "Ieso pt astronomy",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/ieso/2009/ieso-pt-astronomy.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:25:54.516Z",
+ "quality": {
+  "tasks": 3,
+  "parts": 3,
+  "withPoints": 3,
+  "withReference": 0,
+  "withQuestion": 3,
+  "estimatedPoints": 3
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "The rotation of the Sun There are sunspots on the solar surface. They…",
+   "statement": "The rotation of the Sun\n There are sunspots on the solar surface. They can be used to calculate the rate of the solar rotation,\n based on a sunspot’s motion on the surface. The following figure shows the sunspots during June\n 30 - July 6, 2006 taken from the SOHO satellite images (listed in the following table). The\n longitude is marked on the solar disc.\n\n           Date      Time(h:m)      Date     Time(h:m)\n           6/30         17:36       7/04        18:05\n           7/01         19:02       7/05        17:36\n           7/02         17:36       7/06        20:12\n           7/03         17:36\n\n                                               4 / 11\n\n                                      3rd IESO Practical Test\n\n(1) Let’s set June 30, 00:00 to be day 0.000, i.e. Δt = 0.000 for June 30, 00:00. Record Δt in\n    Table 1. (0.6 pts)\n\n(2) Measure the longitude of the sunspot for each date marked, and record in Table 1. (1.2 pts)\n\n                                            Table 1\n        Time        Δt(days)    Longitude          Time        Δt(days)        Longitude\n      6/30 17:36     0.733        -42.2°       7/04 18:05\n      7/01 19:02                               7/05 17:36\n      7/02 17:36                               7/06 20:12\n      7/03 17:36\n\n(3) Using the data in Table 1, plot longitude (in degrees) vs. time (in days) on the\n    graph paper – on the next page. (4.2 pts)\n(4) Draw a line of best fit on the graph.\n    (i) Calculate the slope of the line of best fit (straight line). (2 pts)\n    Answer:\n    (ii) Calculate the rotation period of the Sun. (2 pts)\n    Answer:\n    Note: Include the correct unit in both answers.\n\n                                                5 / 11\n\n3rd IESO Practical Test\n\n        6 / 11\n\n                                      3rd IESO Practical Test",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Telescope operations Go to the telescopes that are already set up and…",
+   "statement": "Telescope operations\n\n    Go to the telescopes that are already set up and look for the specification of the telescope and\n    two eyepieces.\n\n    (1) Complete the following Table. (1.2 pt)\n\n                   Telescope                                    Eyepieces\n\n    Aperture                         cm          Type      Focal length      Magnification\n\n    Focal length                    mm                               mm\n\n    Focal ratio (f/)                                                 mm\n\n    ** A judge will grade how you operate the telescope.\n\n   (2) Step-by-step operation (3.8 pts)\n\n   (3) Observing the Sun (3 pts)\n\n         Warning: You must not look at the Sun through a telescope or a finder\n                  scope without the solar filter! Otherwise it will cause severe\n                  damage to your eyes or permanent blindness.\n         If it is rainy or cloudy, find any distant building, then adjust the telescope to point to\n         the distant building, and adjust the focus to see it clearly.\n\n    (4) Taking a photo of the Sun (2 pts)\n\nWhen you have finished the above procedure, raise your hand, and the judge will let you return to\nyour seat.\n\n                                                 7 / 11\n\n                                      3rd IESO Practical Test",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Calculating the Earth’s precession The Earth rotates as a top and…",
+   "statement": "Calculating the Earth’s precession\n\n    The Earth rotates as a top and Earth’s axis of\n    rotation traces out a cone with an angle shown in\n    Figure 1. That means the Earth’s axis is moving\n    along a circle. This is called precession. The\n    celestial pole rotates about the fixed pole of the\n    ecliptic with a circle of radius about 23.5° and a\n    period of about 25,800 years.\n\n                                                                           Figure 1\n\n   Figure 2 (and a transparent sheet) is the region near Polaris. Figure 3 and Figure 4 are the star\n   tracks around Polaris on the nights of March 10, 1980 and May 20, 2009, respectively.\n\n                                                                                      Star B\n\n                 Star A\n\n                                            Figure 2\n\n                                               8 / 11\n\n               3rd IESO Practical Test\n\nFigure 3 The region of Polaris\n                        9 / 11 at March 10, 1980.\n\n                               3rd IESO Practical Test\n\n                      Figure 4 The region of Polaris at May 20, 2009.\n\n(1) Determine the position of the North Celestial Pole and mark it on\n\n     (i) March 10, 1980 (Figure 3) (2 pts)\n     (ii) May 20, 2009 (Figure 4) (2pts)\n\n(2) Overlap the transparent sheet (Figure 2) with Figure 3, and mark the position of the\n    North Celestial Pole determined in Figure 3 on the transparent sheet using a marker\n    pen. (1 pt)\n\n(3) Overlap the transparent sheet (Figure 2) with Figure 4, and mark the position of the\n    North Celestial Pole determined in Figure 4 on the transparent sheet using a marker\n    pen. (1 pt)\n\n(4) Measure the interval, Δx, between the positions of the North Celestial Pole in 1980\n    and 2009 on the transparent sheet.\n\n     (i) Δx = (           ) mm (1 pt)\n\n     (ii) Use theΔx to calculate the Earth’s precession (           ) mm/year. (1 pt)\n     [show your calculation]\n\n                                         10 / 11\n\n                                3rd IESO Practical Test\n\n(5) The angular separation of star A and star B in Figure 2 (or transparent sheet) is 6195″.\n\n     Use this information to calculate the scale of Figure 2, (            ) arcsec/mm.\n     (1 pt)\n     [show your calculation]\n\n(6) Use your results from the previous questions to calculate the Earth’s precession,\n    (           ) arcsec/year. (1 pt)\n      [show your calculation]\n\n                                        11 / 11",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

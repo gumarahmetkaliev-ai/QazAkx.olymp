@@ -1,0 +1,67 @@
+{
+ "setId": "phys-beyondolymp-2--jun-ru",
+ "olympiadId": "phys-beyondolymp-2",
+ "title": "Физика → BeyondOlympiad → 2",
+ "materialLabel": "Jun",
+ "lang": "ru",
+ "tasksFile": "olympiads/physics/s/beyondolymp/2/jun_ru.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:40:23.304Z",
+ "quality": {
+  "tasks": 3,
+  "parts": 3,
+  "withPoints": 3,
+  "withReference": 0,
+  "withQuestion": 3,
+  "estimatedPoints": 3
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "×åìó äîëæíî áûòü ðàâíî ñîïðîòèâëåíèå Rx , ÷òîáû ñîïðîòèâëåíèå ìåæäó…",
+   "statement": "×åìó äîëæíî áûòü ðàâíî ñîïðîòèâëåíèå Rx , ÷òîáû ñîïðîòèâëåíèå ìåæäó òî÷-\n   êàìè A è B ðàâíÿëîñü Rx ? (2.5 áàëëà)\n\nÁåñêîíå÷íûå öåïè \u0016 êîíöåïöèÿ â çàäà÷àõ, êîòîðàÿ ðàññìàòðèâàåò öåïè, ñîñòîÿùèå\nèç áåñêîíå÷íîãî êîëè÷åñòâà ïîâòîðÿþùèõñÿ çâåíüåâ, è èìåííî ïîâòîðåíèå çâåíüåâ\näåëàåò çàäà÷è ñ áåñêîíå÷íûìè öåïÿìè ðåøàåìûìè.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "×åìó ðàâíî ñîïðîòèâëåíèå öåïè íà ðèñóíêå âûøå, åñëè ñîïðîòèâëåíèÿ R è…",
+   "statement": "×åìó ðàâíî ñîïðîòèâëåíèå öåïè íà ðèñóíêå âûøå, åñëè ñîïðîòèâëåíèÿ R è r\n   èçâåñòíû? (4 áàëëà)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Íàéäèòå ñîïðîòèâëåíèå áîëåå ñëîæíîé öåïè, ïðåäñòàâëåííîé íèæå, åñëè…",
+   "statement": "Íàéäèòå ñîïðîòèâëåíèå áîëåå ñëîæíîé öåïè, ïðåäñòàâëåííîé íèæå, åñëè âñå\n   ðåçèñòîðû îäèíàêîâûå è èìåþò ñîïðîòèâëåíèå R (2.5 áàëëà)\n\n                                   bc-pf.org                                5",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

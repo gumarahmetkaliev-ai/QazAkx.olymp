@@ -1,0 +1,52 @@
+{
+ "setId": "phys-beyondolymp-3--jun-ru",
+ "olympiadId": "phys-beyondolymp-3",
+ "title": "Физика → BeyondOlympiad → 3",
+ "materialLabel": "Jun",
+ "lang": "ru",
+ "tasksFile": "olympiads/physics/s/beyondolymp/3/jun_ru.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:40:23.170Z",
+ "quality": {
+  "tasks": 2,
+  "parts": 2,
+  "withPoints": 2,
+  "withReference": 0,
+  "withQuestion": 2,
+  "estimatedPoints": 2
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Íàðèñóéòå ñõåìó öåïè/öåïåé, êîòîðûé Ñàíæàð ñîáåð¼ò ÷òîáû îïðåäåëèòü…",
+   "statement": "Íàðèñóéòå ñõåìó öåïè/öåïåé, êîòîðûé Ñàíæàð ñîáåð¼ò ÷òîáû îïðåäåëèòü âîëüò-\n    àìïåðíóþ õàðàêòåðèñòèêó.\n\nÏîñëå çàâåðøåíèÿ ýêñïåðèìåíòàëüíîãî òóðà, Ñàíæàð ðåøèë ðàçîáðàòü ×¼ðíûé\nßùèê. Îêàçàëîñü, ÷òî îí ñîñòîèò èç èñòî÷íèêà òîêà ñ ïðåíåáðåæèìî ìàëûì âíóò-\nðåííèì ñîïðîòèâëåíèåì, èäåàëüíîãî äèîäà è äâóõ îäèíàêîâûõ ðåçèñòîðîâ, è ñî-\náðàí â ñõåìó, ïîêàçàííóþ íà ðèñóíêå. ÝÄÑ èñòî÷íèêà âíóòðè ×¼ðíîãî ßùèêà\nξ0 = 2 Â, ðåçèñòîðû èìåþò ñîïðîòèâëåíèå R = 2 Îì.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Èçîáðàçèòå âîëüò-àìïåðíóþ õàðàêòåðèñòèêó ×¼ðíîãî ßùèêà â äèàïàçîíå îò…",
+   "statement": "Èçîáðàçèòå âîëüò-àìïåðíóþ õàðàêòåðèñòèêó ×¼ðíîãî ßùèêà â äèàïàçîíå îò\n    −3Â äî +3Â\n\n                                   bc-pf.org                                4",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

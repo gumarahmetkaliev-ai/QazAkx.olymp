@@ -1,0 +1,37 @@
+{
+ "setId": "math-imo-1961--math-tasks",
+ "olympiadId": "math-imo-1961",
+ "title": "Математика → IMO (международная) → 1961",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1961/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T19:30:11.584Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Third International Olympiad, 1961\n1961/1.\nSolve the system of equations:\n\n                                x+y+z = a\n                              x + y 2 + z 2 = b2\n                               2\n\n                                       xy = z 2\n\nwhere a and b are constants. Give the conditions that a and b must satisfy\nso that x, y, z (the solutions of the system) are distinct positive numbers.\n\n1961/2.                                                                      √\nLet a, b, c be the sides of a triangle, and T its area. Prove: a2 +b2 +c2 ≥ 4 3T.\nIn what case does equality hold?\n\n1961/3.\nSolve the equation cosn x − sinn x = 1, where n is a natural number.\n\n1961/4.\nConsider triangle P1 P2 P3 and a point P within the triangle. Lines P1 P, P2 P, P3 P\nintersect the opposite sides in points Q1 , Q2 , Q3 respectively. Prove that, of\nthe numbers\n                               P1 P P2 P P3 P\n                                    ,     ,\n                               P Q1 P Q2 P Q 3\nat least one is ≤ 2 and at least one is ≥ 2.\n\n1961/5.\nConstruct triangle ABC if AC = b, AB = c and 6 AM B = ω, where M is\nthe midpoint of segment BC and ω < 90◦ . Prove that a\nsolution exists if and only if\n                                        ω\n                                b tan     ≤ c < b.\n                                        2\nIn what case does the equality hold?\n\n1961/6.\nConsider a plane ε and three non-collinear points A, B, C on the same side of\nε; suppose the plane determined by these three points is not parallel to ε. In\nplane a take three arbitrary points A0 , B 0 , C 0 . Let L, M, N be the midpoints\nof segments AA0 , BB 0 , CC 0 ; let G be the centroid of triangle LM N. (We will\nnot consider positions of the points A0 , B 0 , C 0 such that the points L, M, N\ndo not form a triangle.) What is the locus of point G as A0 , B 0 , C 0 range\nindependently over the plane ε?",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

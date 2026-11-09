@@ -8,7 +8,7 @@
  "solutionFile": null,
  "noSolution": true,
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:41.994Z",
+ "generatedAt": "2026-11-09T19:30:10.826Z",
  "quality": {
   "tasks": 6,
   "parts": 6,
@@ -20,7 +20,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "Chords AB and CD of a circle intersect at a point E inside the…",
    "statement": "Chords AB and CD of a circle intersect at a point E inside the circle. Let M\n   be an interior point of the segment EB. The tangent line at E to the circle\n   through D, E, and M intersects the lines BC and AC at F and G, respectively.\n   If\n                                     AM\n                                          = t,\n                                     AB\n   find\n                                        EG\n                                        EF\n   in terms of t.",
    "total": 7,
    "parts": [
@@ -35,7 +35,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "Let n ≥ 3 and consider a set E of 2n − 1 distinct points on a circle.…",
    "statement": "Let n ≥ 3 and consider a set E of 2n − 1 distinct points on a circle. Suppose\n   that exactly k of these points are to be colored black. Such a coloring is “good”\n   if there is at least one pair of black points such that the interior of one of the\n   arcs between them contains exactly n points from E. Find the smallest value\n   of k so that every such coloring of k points of E is good.",
    "total": 7,
    "parts": [
@@ -50,7 +50,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "Determine all integers n > 1 such that 2n + 1 n2 is an integer. 31st…",
    "statement": "Determine all integers n > 1 such that\n                                         2n + 1\n                                           n2\n   is an integer.\n\n                31st International Mathematical Olympiad\n                                 Beijing, China\n                                      Day II\n                                  July 13, 1990",
    "total": 7,
    "parts": [
@@ -65,7 +65,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "Let Q+ be the set of positive rational numbers. Construct a function…",
    "statement": "Let Q+ be the set of positive rational numbers. Construct a function f : Q+ →\n   Q+ such that\n                                                f (x)\n                                   f (xf (y)) =\n                                                  y\n   for all x, y in Q+ .",
    "total": 7,
    "parts": [
@@ -80,7 +80,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "Given an initial integer n0 > 1, two players, A and B, choose…",
    "statement": "Given an initial integer n0 > 1, two players, A and B, choose integers n1 , n2 ,\n   n3 , . . . alternately according to the following rules:\n   Knowing n2k , A chooses any integer n2k+1 such that\n\n                                   n2k ≤ n2k+1 ≤ n22k .\n\n   Knowing n2k+1 , B chooses any integer n2k+2 such that\n                                           n2k+1\n                                           n2k+2\n   is a prime raised to a positive integer power.\n   Player A wins the game by choosing the number 1990; player B wins by choosing\n   the number 1. For which n0 does:\n\n   (a) A have a winning strategy?\n   (b) B have a winning strategy?\n    (c) Neither player have a winning strategy?",
    "total": 7,
    "parts": [
@@ -95,7 +95,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "Prove that there exists a convex 1990-gon with the following two…",
    "statement": "Prove that there exists a convex 1990-gon with the following two properties:\n\n   (a) All angles are equal.\n   (b) The lengths of the 1990 sides are the numbers 12 , 22 , 32 , . . . , 19902 in some\n       order.",
    "total": 7,
    "parts": [

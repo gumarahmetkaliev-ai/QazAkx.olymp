@@ -1,0 +1,146 @@
+{
+ "setId": "chem-icho-1999-and-older--icho-1-5",
+ "olympiadId": "chem-icho-1999-and-older",
+ "title": "Химия → IChO (международная) → 1999-and-older → 6-10 класс",
+ "materialLabel": "Icho 1 5",
+ "lang": "ru",
+ "tasksFile": "olympiads/chemistry/s/icho/1999-and-older/icho-1-5.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T19:24:49.216Z",
+ "quality": {
+  "tasks": 6,
+  "parts": 10,
+  "withPoints": 10,
+  "withReference": 0,
+  "withQuestion": 10,
+  "estimatedPoints": 10
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задача №1",
+   "weight": null,
+   "total": 10,
+   "statement": "A mixture of two solid elements with a mass of 1.52 g was treated with an excess of\n                                               3\nhydrochloric acid. A volume of 0.896 dm of a gas was liberated in this process and 0.56 g of\na residue remained which was undissolved in the excess of the acid.\n     In another experiment, 1.52 g of the same mixture were allowed to react with an\n                                                                               3\nexcess of a 10 % sodium hydroxide solution. In this case 0.896 dm of a gas were also\nevolved but 0.96 g of an undissolved residue remained.\n     In the third experiment, 1.52 g of the initial mixture were heated to a high temperature\nwithout access of the air. In this way a compound was formed which was totally soluble in\n                                      3\nhydrochloric acid and 0.448 dm of an unknown gas were released. All the gas obtained was\nintroduced into a one litre closed vessel filled with oxygen. After the reaction of the unknown\ngas with oxygen the pressure in the vessel decreased by approximately ten times (T =\nconst).\n\nProblem:\n1.1 Write chemical equations for the above reactions and prove their correctness by\n     calculations.\n     In solving the problem consider that the volumes of gases were measured at STP and\n     round up the relative atomic masses to whole numbers.\n\nSOLUTION\n1.1 a)     Reaction with hydrochloric acid:\n                                                                           3\n           1.52 g – 0.56 g = 0.96 g of a metal reacted and 0.896 dm of hydrogen (0.04 mol)\n           were formed.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1               35\n\n                                 TH\n\n                                                            0.96\n            combining mass of the metal: 11.2 ×                  = 12 g\n                                                           0.896\n\n           Possible solutions:\n              Relative\n                              Oxidation            Element        Satisfying?\n            atomic mass\n                               number\n            of the metal\n                 12                     I             C               No\n\n                 24                    II             Mg             Yes\n\n                 36                    III            Cl              No\n\n           Reaction: Mg + 2 HCl → MgCl2 + H2\n\n     b)    Reaction with sodium hydroxide:\n                                                                            3\n           1.52 g – 0.96 g = 0.56 g of an element reacted, 0.896 dm (0.04 mol) of hydrogen\n           were formed.\n                                                            0.56\n            combining mass of the metal: 11.2 ×                  =7g\n                                                           0.896\n           Possible solutions:\n              Relative\n            atomic mass       Oxidation            Element        Satisfying?\n               of the          number\n              element\n                 7                      I             Li              No\n\n                 14                    II             N               No\n\n                 21                    III            Ne              No\n\n                 28                    IV             Si             Yes\n\n           Reaction: Si + 2 NaOH + H2O → Na2SiO3 + 2 H2\n\n     c)    Combining of both elements:\n           0.96 g Mg + 0.56 g Si = 1.52 g of silicide MgxSiy\n                       0.96 g                                  0.56 g\n            w (Mg) =          = 0.63                w (Si) =          = 0.37\n                       1.52 g                                  1.52 g\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1          36\n\n                                      TH\n\n                    0.63 0.37\n            x:y =       :     = 2 :1\n                     24   28\n           silicide: Mg2Si\n\n     d)    Reaction of the silicide with acid:\n           Mg2Si + 4 HCl → 2 MgCl2 + SiH4\n                                 1.52 g\n            n(Mg 2 Si) =                   = 0.02 mol\n                               76 g mol −1\n\n                                0.448 dm 3\n            n(SiH 4 ) =                        = 0.02 mol\n\n     e)    Reaction of silane with oxygen:\n           SiH4 + 2 O2 → SiO2 + 2 H2O\n                          3\n           V = 1 dm\n                                                                       n2\n           On the assumption that T = const:                    p2 =      p1\n                                                                       n1\n\n                            1 dm 3\n            n1 (O 2 ) =                  = 0.0446 mol\n\n           Consumption of oxygen in the reaction:                 n(O2) = 0.04 mol\n           The remainder of oxygen in the closed vessel:\n           n2(O2) = 0.0446 mol – 0.04 mol = 0.0046 mol\n                   0.0046 mol\n            p2 =              × p1 ≈ 0.1 p1\n                   0.0446 mol\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1        37\n\n                                 TH",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 10,
+     "question": "Write chemical equations for the above reactions and prove their correctness by calculations. In solving the problem consider that the volumes of gases were measured at STP and round up the relative atomic masses to whole numbers.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "(Practical)",
+   "weight": null,
+   "total": 10,
+   "statement": "A mixture of metallic iron with freshly prepared iron (II) and iron (III) oxides was\nheated in a closed vessel in the atmosphere of hydrogen. An amount of 4.72 g of the\nmixture when reacted, yields 3.92 g of iron and 0.90 g of water.\n     When the same amount of the mixture was allowed to react with an excess of a\ncopper(II) sulphate solution, 4.96 g of a solid mixture were obtained.\n\n2.1 Calculate the amount of 7.3 % hydrochloric acid (ρ = 1.03 g cm-3) which is needed for a\n     total dissolution of 4.72 g of the starting mixture.\n2.2 What volume of a gas at STP is released?\n     Ar(O) = 16; Ar(S) = 32; Ar(Cl) = 35.5; Ar(Fe) = 56; Ar(Cu) = 64\n\nSOLUTION\n2.1 a)      Reduction by hydrogen:\n            FeO + H2 → Fe + H2O\n            n(Fe) = n(FeO);           n(H2O) = n(FeO)\n\n            Fe2O3 + 3 H2 → 2 Fe + 3 H2O\n            n(Fe) = 2 n(Fe2O3);         n(H2O) = 3 n(Fe2O3)\n            The mass of iron after reduction: 3.92 g\n            The total amount of substance of iron after reduction:\n                                                     3.92 g\n            n(Fe) + n(FeO) + 2 n(Fe 2 O 3 ) =                  = 0.07 mol         (1)\n                                                   56 g mol −1\n     b)     Reaction with copper(II) sulphate:\n            Fe + CuSO4 → Cu + FeSO4\n            Increase of the mass: 4.96 g – 4.72 g = 0.24 g\n            After reaction of 1 mol Fe, an increase of the molar mass would be:\n                                            -1          -1         -1\n            M(Cu) – M(Fe) = 64 g mol – 56 g mol = 8 g mol\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1           38\n\n                                 TH\n\n           Amount of substance of iron in the mixture:\n                       0.24 g\n            n(Fe) =              = 0.03 mol                             (2)\n                      8 g mol −1\n     c)    Formation of water after reduction:\n           0.90 g H2O, i.e. 0.05 mol\n           0.05 mol = n(Fe) + 3 n(Fe2O3)                                (3)\n           By solving equations (1), (2), and (3):\n           n(FeO) = 0.02 mol\n           n(Fe2O3) = 0.01 mol\n     d)    Consumption of acid:\n           Fe + 2 HCl → FeCl2 + H2\n           FeO + 2 HCl → FeCl2 + H2O\n           Fe2O3 + 6 HCl → 2 FeCl2 + 3 H2O\n           n(HCl) = 2 n(Fe) + 2 n(FeO) + 6 n(Fe2O3) =\n                   = 0.06 mol + 0.04 mol + 0.06 mol = 0.16 mol\n           A part of iron reacts according to the equation:\n           Fe + 2 FeCl3 → 3 FeCl2\n           n(Fe) = 0.5 × n(FeCl3) = n(Fe2O3)\n           n(Fe) = 0.01 mol\n           It means that the consumption of acid decreases by 0.02 mol.\n           The total consumption of acid: n(HCl) = 0.14 mol\n                          nM    0.14 mol × 36.5 g mol −1\n           V (7.3% HCl) =     =                    −3\n                                                         = 68 cm 3\n                          w ρ    0.073 × 1.03 g cm\n2.2 Volume of hydrogen:\n     Fe + 2 HCl → FeCl2 + H2\n     Iron in the mixture: 0.03 mol\n     Iron reacted with FeCl3: 0.01 mol\n     Iron reacted with acid: 0.02 mol\n                                                        3\n     Hence, 0.02 mol of hydrogen, i.e. 0.448 dm of hydrogen are formed.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1   39\n\n                                     TH",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 5,
+     "question": "Calculate the amount of 7.3 % hydrochloric acid (ρ = 1.03 g cm-3) which is needed for a total dissolution of 4.72 g of the starting mixture.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.2",
+     "points": 5,
+     "question": "What volume of a gas at STP is released? Ar(O) = 16; Ar(S) = 32; Ar(Cl) = 35.5; Ar(Fe) = 56; Ar(Cu) = 64",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача №3",
+   "weight": null,
+   "total": 10,
+   "statement": "3                                                                         3\n        A 10 cm sample of an unknown gaseous hydrocarbon was mixed with 70 cm of\noxygen and the mixture was set on fire by means of an electric spark. When the reaction\nwas over and water vapours were liquefied, the final volume of gases decreased to 65\n    3\ncm . This mixture then reacted with a potassium hydroxide solution and the volume of\n                               3\ngases decreased to 45 cm .\nProblem:\n        What is the molecular formula of the unknown hydrocarbon if volumes of gases were\nmeasured at standard temperature and pressure (STP) conditions?\n\nSOLUTION\n        The unknown gaseous hydrocarbon has the general formula: CxHy\n                        0.010 dm 3      0.010\n        n(C x H y ) =         3    −1\n                                      =       mol\n                      22.4 dm mol        22.4\nBalance of oxygen:\n                                                3        0.070\n-       Before the reaction:             70 cm , i. e.         mol\n                                                          22.4\n                                                3        0.045\n-       After the reaction:              45 cm , i. e.         mol\n                                                          22.4\n                                          0.025\nConsumed in the reaction:                       mol of O2\n                                           22.4\n\nAccording to the equation:\n              y               y\nCxHy + (x +     ) O2 = x CO2 + H2O\n              4               2\n           0.020                                   0.020\nHence,           mol of O2 reacted with carbon and       mol of CO2 was formed\n            22.4                                    22.4\n(C + O2 = CO2),\n0.005                                                          0.010\n      mol O2 combined with hydrogen and                              mol of water was obtained\n 22.4                                                           22.4\n(2 H2 + O2 = 2 H2O).\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1                  15\n\n                                 ND\n\n                     0.020\n3 n(C) = n(CO2) =          mol\n                      22.4\n                     0.020\nn(H2) = 2 n(H2O) =         mol\n                      22.4\nx : y = n(C) : n(H2) = 0.020 : 0.020 = 1 : 1\nFrom the possible solutions C2H2, C3H3, C4H4, C5H5.only C2H2 satisfies to the conditions\ngiven in the task, i. e. the unknown hydrocarbon is acetylene.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1        16\n\n                                   ND",
+   "parts": [
+    {
+     "id": "3.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача №4",
+   "weight": null,
+   "total": 10,
+   "statement": "When solutions of two unknown substances are mixed together in stoichiometric ratio,\n1.25 g of a precipitate are formed which contain a salt of a bivalent metal M. The precipitate\nwhen heated to 1100 °C is decomposed to 0.70 g of a solid metal oxide MO and another\ngaseous oxide. After evaporation of the filtrate, a dry residue with a mass of 2.0 g remains\nwhich yields two products by thermal decomposition at 215 °C: a gaseous oxide and 0.90 g\n                                                                            3\nof water vapour. The total volume of the gaseous mixture is 1.68 dm (at STP).\n\nProblem:\n\n4.1 Determine the unknown compounds and write chemical equations for the above\n     mentioned reactions.\n\nSOLUTION\n4.1 a)     Dry residue: 2.0 g\n           H2O: 0.90 g, i. e. 0.05 mol\n           Gaseous oxide AxOy: 1.1 g\n                             1.68 dm 3\n            n(mixture ) =                           = 0.075 mol\n           n(AxOy) = n(mixture) – n(H2O) = 0.025 mol\n                              1 .1 g\n            M(A xO y ) =              = 44 g mol −1\n                            0.025 mol\n           x M(A) = M(AxOy) – y M(O)\n           Solution 1:\n                                                                                 -1       -1\n           If x = 1 and y = 1, then M(A) = M(AxOy) – M(O) = (44 – 16) g mol = 28 g mol\n           A = Si. It does not satisfy the requirements of the task.\n           Solution 2:\n                                                           -1\n           If x = 2 and y = 1 then M(A) = 14 g mol\n           A = N and the gaseous oxide is N2O.\n\n           Solution 3:\n                                                           -1\n           If x = 1 and y = 2 then M(A) = 12 g mol\n           A = C and the gaseous oxide is CO2.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1              55\n\n                                  TH\n\n           Solution 2 is correct, since it is known that gaseous N2O is formed by thermal\n           decomposition of NH4NO3. This conclusion is supported by the following\n           calculation:\n                                         2.0 g\n            M (dry residue) =                    = 80 g mol-1 = M (NH4NO3 )\n                                       0.025 mol\n           Reaction of the thermal decomposition:\n           NH4NO3 → N2O + 2 H2O\n\n     b)    The precipitation reaction can be described by the following equation:\n           M(NO3)2 + (NH4)2B → MB + 2 NH4NO3\n                         1.25 g\n            M (MB) =              = 100 g mol −1\n                       0.0125 mol\n                         0.70 g\n            M (MO) =              = 56 g mol −1\n                       0.0125 mol\n                                                              -1\n           M(M) = M(MO) – M(O) = 56 – 16 = 40 g mol\n\n           M = Ca\n\n           Since\n           - the decomposition temperature of the precipitate is 1100 °C,\n           - the product of thermal decomposition is CaO,\n                                                                   -1\n           - the molar mass of the precipitate is 100 g mol ,\n           - the precipitate is CaCO3.\n\n           Reaction:\n           Ca(NO3)2 + (NH4)2CO3 → CaCO3 + 2 NH4NO3\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1         56\n\n                                 TH",
+   "parts": [
+    {
+     "id": "4.1",
+     "points": 10,
+     "question": "Determine the unknown compounds and write chemical equations for the above mentioned reactions.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача №5",
+   "weight": null,
+   "total": 10,
+   "statement": "An amount of 20 g of cooper (II) oxide was treated with a stoichiometric amount of a\nwarm 20% sulphuric acid solution to produce a solution of copper (II) sulphate.\n\nProblem:\n     How many grams of crystalline copper(II) sulphate (CuSO4 . 5 H2O) have crystallised\nwhen the solution is cooled to 20 °C?\nRelative atomic masses: Ar(Cu) = 63.5; Ar(S) = 32; Ar(O) = 16; Ar(H) = 1\n                           o\nSolubility of CuSO4 at 20 C: s = 20.9 g of CuSO4 in 100 g of H2O.\n\nSOLUTION\n\nCuO + H2SO4 → CuSO4 + H2O\n\n            m(CuO)       20 g\nn(CuO) =            =              = 0.2516 g\n            M (CuO)   79.5 g mol-1\n\nn(H2SO4) = n(CuSO4) = 0.2516 mol\n\nMass of the CuSO4 solution obtained by the reaction:\nm(solution CuSO4) = m(CuO) + m(solution H2SO4) =\n                                 n(H2SO 4 ) × M (H2SO 4 )          0.2516 mol × 98 g mol-1\n               = m(CuO) +                                 = 20 g +\n                                      w (H2SO4 )                           0.20\nm(solution CuSO4) = 143.28 g\nMass fraction of CuSO4:\na)   in the solution obtained:\n                         m(CuSO4 )          n(CuSO 4 ) × M (CuSO 4 )\n      w (CuSO4 ) =                        =                          = 0.28\n                      m(solution CuSO 4 )     m(solution CuSO4 )\n                                               o\nb)   in saturated solution of CuSO4 at 20 C:\n                       20.9 g\n      w (CuSO 4 ) =           = 0.173\n                      120.9 g\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1                30\n\n                                RD\n\nc)   in crystalline CuSO4 . 5 H2O:\n                         M (CuSO 4 )\n      w (CuSO 4 ) =                       = 0.639\n                      M (CuSO 4 . 5 H2 O)\n     Mass balance equation for CuSO4:\n     0.28 m = 0.639 m1 + 0.173 m2\n     m - mass of the CuSO4 solution obtained by the reaction at a higher temperature.\n     m1 - mass of the crystalline CuSO4 . 5H2O.\n                                                              o\n     m2 - mass of the saturated solution of CuSO4 at 20 C.\n\n     0.28 × 143.28 = 0.639 m1 + 0.173 × (143.28 - m1)\n      m1 = 32.9 g\n     The yield of the crystallisation is 32.9 g of CuSO4 . 5H2O.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1           31\n\n                                 RD",
+   "parts": [
+    {
+     "id": "5.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача №6",
+   "weight": null,
+   "total": 10,
+   "statement": "A gaseous mixture containing two neighbour hydrocarbons of the same homologous\n                                                                                         3\nseries was 14.4 times as dense as hydrogen. This mixture with a volume of 16.8 dm was\nhydrated and 350 g of the solution were obtained when the products of hydration were\nabsorbed in water. Ten grams of this solution were taken and heated in the presence of\n                                                         3\nsilver(I) oxide which was prepared from 70 cm of a 1 N silver(I) nitrate solution. Unreacted\nAg2O was dissolved in an aqueous ammonia solution and a residual precipitate was filtered\noff. The filtrate was acidified with nitric acid and addition of an excess of sodium bromide to\nit resulted in 9.4 g of a precipitate.\n      When the mixture of the hydrocarbons that remained unreacted, was mixed with a\n50 % excess of hydrogen and transmitted above a heated Pt-catalyst, its resulting volume\n                        3\ndecreased to 11.2 dm . Volumes of gases were measured in STP conditions.\n\n6.1 What hydrocarbons were in the starting mixture?\n6.2 Write chemical equations for the above mentioned reactions.\n6.3 Calculate the composition of the starting mixture in % by volume.\n6.4 How much (in %) of each hydrocarbon was hydrated?\n\nSOLUTION\n6.1 Mr = 2 ×14.4 = 28.8\n      When reactivity of the hydrocarbons and the value of Mr are taken into consideration\n      then the mixture can only by formed from CH ≡ CH (Mr = 26) and CH3 –CH ≡ CH (Mr =\n      40)\n\n6.2 (1)      CH ≡ CH + H2O → CH3CHO\n      (2)    CH3C ≡ CH + H2O → CH3COCH3\n      (3)    2 AgNO3 + 2 NH3 + 2 H2O → Ag2O + 2 NH4NO3\n      (4)    CH3CHO + Ag2O → CH3COOH + 2 Ag\n      (5)    Ag2O + 4 NH3 + H2O → 2 [Ag(NH3)2]OH\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1                58\n\n                                 TH\n\n     (6)     CH3COOH + NH3 → CH3COONH4\n     (7)     [Ag(NH3)2]OH + 3 HNO3 → AgNO3 + 2 NH4NO3 + H2O\n     (8)     CH3COONH4 + HNO3 → NH4NO3 + CH3COOH\n     (9)     NH3 + HNO3 → NH4NO3\n     (10)    AgNO3 + NaBr → AgBr + NaNO3\n     (11)    CH ≡ CH + 2 H2 → CH3 – CH3\n     (12)    CH3C ≡ CH + 2 H2 → CH3 – CH2 – CH3\n\n6.3 According to (11) and (12) and regarding the excess of hydrogen, amounts of\n     substances before catalytic hydrogenation are as follows:\n                      11.2 dm 3\n      n(mixture ) =             = 5.6 dm 3 , i. e. 0.25 mol\n                          2\n      26 x + 40 (0.25 – x) = 28.8 × 0.25\n     x = 0.2\n     n(C2H2) = 0.2 mol\n     n(C3H4) = 0.05 mol\n     Before hydration:\n                        16.8 dm3\n      n(mixture) =                   = 0.75 mol\n                      22.4 dm3 mol-1\n                                                × 0.07 dm = 0.070 mol\n                                           -3           3\n     n(AgNO3) = c V = 1 mol dm\n     According to (3):\n     n(Ag2O) = 0.035 mol\n                       9. 4 g\n      n( AgBr ) =                = 0.05 mol\n                    188 g mol −1\n     According to (10), (7) and (5):\n     unreacted:         n(Ag2O) = 0.025 mol\n     reacted:           n(Ag2O) = 0.035 – 0.025 = 0.010 mol\n     Due to dilution, reacted amounts of substances are as follows:\n     n(CH3CHO) = n(C2H2) = 0.35 mol\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1   59\n\n                                 TH\n\n                      hydration             hydrogenation          total\n         C2H2         0.35 mol                 0.20 mol          0.55 mol\n         C3H4         0.15 mol                 0.05 mol          0.20 mol\n                                                               ∑ = 0.75 mol\n\n                      0.55 mol\n      vol. % C2H2 =            × 100 = 73.3\n                      0.75 mol\n\n                      0.20 mol\n      vol. % C3H4 =            × 100 = 26.7\n                      0.75 mol\n\n6.4\n                      0.35 mol\n      vol. % C2H2 =            × 100 = 63.64\n                      0.55 mol\n                      0.15 mol\n      vol. % C3H4 =            × 100 = 75.0\n                      0.20 mol\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1   60\n\n                                 TH",
+   "parts": [
+    {
+     "id": "6.1",
+     "points": 2.5,
+     "question": "What hydrocarbons were in the starting mixture?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.2",
+     "points": 2.5,
+     "question": "Write chemical equations for the above mentioned reactions.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.3",
+     "points": 2.5,
+     "question": "Calculate the composition of the starting mixture in % by volume.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.4",
+     "points": 2.5,
+     "question": "How much (in %) of each hydrocarbon was hydrated?",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

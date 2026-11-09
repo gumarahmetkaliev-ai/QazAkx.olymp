@@ -1,0 +1,37 @@
+{
+ "setId": "math-imo-1985--math-tasks",
+ "olympiadId": "math-imo-1985",
+ "title": "Математика → IMO (международная) → 1985",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1985/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T19:30:10.973Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Twenty-sixth International Olympiad, 1985\n1985/1. A circle has center on the side AB of the cyclic quadrilateral ABCD.\nThe other three sides are tangent to the circle. Prove that AD + BC = AB.\n1985/2. Let n and k be given relatively prime natural numbers, k < n. Each\nnumber in the set M = {1, 2, ..., n − 1} is colored either blue or white. It is\ngiven that\n(i) for each i ∈ M, both i and n − i have the same color;\n(ii) for each i ∈ M, i 6= k, both i and |i − k| have the same color. Prove that\nall numbers in M must have the same color.\n1985/3. For any polynomial P (x) = a0 + a1 x + · · · + ak xk with integer\ncoefficients, the number of coefficients which are odd is denoted by w(P ).\nFor i = 0, 1, ..., let Qi (x) = (1 + x)i . Prove that if i1 i2 , ..., in are integers such\nthat 0 ≤ i1 < i2 < · · · < in , then\n\n                         w(Qi1 + Qi2 , + + Qin ) ≥ w(Qi1 ).\n\n1985/4. Given a set M of 1985 distinct positive integers, none of which has\na prime divisor greater than 26. Prove that M contains at least one subset\nof four distinct elements whose product is the fourth power of an integer.\n1985/5. A circle with center O passes through the vertices A and C of triangle\nABC and intersects the segments AB and BC again at distinct points K and\nN, respectively. The circumscribed circles of the triangles ABC and EBN\nintersect at exactly two distinct points B and M. Prove that angle OM B is\na right angle.\n1985/6. For every real number x1 , construct the sequence x1 , x2 , ... by setting\n                                    µ         ¶\n                                            1\n                       xn+1 = xn xn +         for each n ≥ 1.\n                                            n\nProve that there exists exactly one value of x1 for which\n\n                                  0 < xn < xn+1 < 1\n\nfor every n.",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

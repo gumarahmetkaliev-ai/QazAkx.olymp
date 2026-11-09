@@ -1,0 +1,82 @@
+{
+ "setId": "math-kaz-sbory-2022--day6-2-rand",
+ "olympiadId": "math-kaz-sbory-2022",
+ "title": "Математика → Сборы сборной РК → 2022",
+ "materialLabel": "Day6 2 rand",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/kaz_sbory/2022/day6-2-Rand.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:29:55.353Z",
+ "quality": {
+  "tasks": 4,
+  "parts": 4,
+  "withPoints": 4,
+  "withReference": 0,
+  "withQuestion": 4,
+  "estimatedPoints": 4
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Докажите равенство π 2π (n − 1)π n sin · sin · ... sin = n−1 n n n 2…",
+   "statement": "Докажите равенство\n\n                                        π       2π           (n − 1)π    n\n                                  sin     · sin    · ... sin          = n−1\n                                        n        n              n      2\n   где n ∈ N ⩾ 2.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Пусть an = 1, a ̸= 1, n ∈ N ⩾ 2 . Докажите, что 1 1 1 (1 − a)(1 − a2…",
+   "statement": "Пусть an = 1, a ̸= 1, n ∈ N ⩾ 2 . Докажите, что\n\n                       1     1             1       (1 − a)(1 − a2 )...(1 − an−1 ) − 1\n                          +       + ...          =                                    .\n                     1 − a 1 − a2       1 − an−1                   2",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Докажите, что x5 + 2117x4 + 1217x3 + 1127x2 + 1172x + 5. неразложим в…",
+   "statement": "Докажите, что\n\n                              x5 + 2117x4 + 1217x3 + 1127x2 + 1172x + 5.\n   неразложим в Q.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Пусть a, b, c действительные положительные числа и abc+a+c = b.…",
+   "statement": "Пусть a, b, c действительные положительные числа и abc+a+c = b. Найдите максимальное\nзначение выражения\n                                            2      2       3\n                                                −       +        .\n                                          1 + a2 1 + b 2 1 + c 2\n\n                                                       1",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

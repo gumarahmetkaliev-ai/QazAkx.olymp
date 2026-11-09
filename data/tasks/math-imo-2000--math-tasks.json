@@ -8,7 +8,7 @@
  "solutionFile": null,
  "noSolution": true,
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:41.504Z",
+ "generatedAt": "2026-11-09T19:30:10.345Z",
  "quality": {
   "tasks": 6,
   "parts": 6,
@@ -20,7 +20,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "AB is tangent to the circles CAM N and N M BD. M lies between C and D…",
    "statement": "AB is tangent to the circles CAM N and N M BD. M lies\nbetween C and D on the line CD, and CD is parallel to AB. The chords\nN A and CM meet at P ; the chords N B and M D meet at Q. The rays CA\nand DB meet at E. Prove that P E = QE.",
    "total": 7,
    "parts": [
@@ -35,7 +35,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "A, B, C are positive reals with product 1. Prove that (A − 1 + 1 1 1…",
    "statement": "A, B, C are positive reals with product 1. Prove that (A − 1 +\n1           1           1\nB )(B − 1 + C )(C − 1 + A ) ≤ 1.",
    "total": 7,
    "parts": [
@@ -50,7 +50,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "k is a positive real. N is an integer greater than 1. N points are…",
    "statement": "k is a positive real. N is an integer greater than 1. N points\nare placed on a line, not all coincident. A move is carried out as follows.\nPick any two points A and B which are not coincident. Suppose that A lies\nto the right of B. Replace B by another point B 0 to the right of A such that\nAB 0 = kBA. For what values of k can we move the points arbitrarily far to\nthe right by repeated moves?",
    "total": 7,
    "parts": [
@@ -65,7 +65,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "100 cards are numbered 1 to 100 (each card different) and placed in 3…",
    "statement": "100 cards are numbered 1 to 100 (each card different) and\nplaced in 3 boxes (at least one card in each box). How many ways can this\nbe done so that if two boxes are selected and a card is taken from each, then\nthe knowledge of their sum alone is always sufficient to identify the third\nbox?",
    "total": 7,
    "parts": [
@@ -80,7 +80,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "Can we find N divisible by just 2000 different primes, so that N…",
    "statement": "Can we find N divisible by just 2000 different primes, so that\nN divides 2N + 1? [N may be divisible by a prime power.]",
    "total": 7,
    "parts": [
@@ -95,7 +95,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "A1 A2 A3 is an acute-angled triangle. The foot of the altitude from…",
    "statement": "A1 A2 A3 is an acute-angled triangle. The foot of the altitude\nfrom Ai is Ki and the incircle touches the side opposite Ai at Li . The line\nK1 K2 is reflected in the line L1 L2 . Similarly, the line K2 K3 is reflected in\nL2 L3 and K3 K1 is reflected in L3 L1 . Show that the three new lines form a\ntriangle with vertices on the incircle.\n\n                                       1",
    "total": 7,
    "parts": [

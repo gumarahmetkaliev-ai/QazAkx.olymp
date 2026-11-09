@@ -1,0 +1,37 @@
+{
+ "setId": "math-imo-1965--math-tasks",
+ "olympiadId": "math-imo-1965",
+ "title": "Математика → IMO (международная) → 1965",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1965/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T19:30:11.485Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Seventh Internatioaal Olympiad, 1965\n1965/1.\nDetermine all values x in the interval 0 ≤ x ≤ 2π which satisfy the inequality\n                           ¯√             √          ¯   √\n                2 cos x ≤ ¯¯ 1 + sin 2x − 1 − sin 2x¯¯ ≤ 2.\n\n1965/2.\nConsider the system of equations\n\n                         a11 x1 + a12 x2 + a13 x3 = 0\n                         a21 x1 + a22 x2 + a23 x3 = 0\n                         a31 x1 + a32 x2 + a33 x3 = 0\n\nwith unknowns x1 , x2 , x3 . The coefficients satisfy the conditions:\n(a) a11 , a22 , a33 are positive numbers;\n(b) the remaining coefficients are negative numbers;\n(c) in each equation, the sum of the coefficients is positive.\nProve that the given system has only the solution x1 = x2 = x3 = 0.\n\n1965/3.\nGiven the tetrahedron ABCD whose edges AB and CD have lengths a and\nb respectively. The distance between the skew lines AB and CD is d, and\nthe angle between them is ω. Tetrahedron ABCD is divided into two solids\nby plane ε, parallel to lines AB and CD. The ratio of the distances of ε from\nAB and CD is equal to k. Compute the ratio of the volumes of the two solids\nobtained.\n\n1965/4.\nFind all sets of four real numbers x1 , x2 , x3 , x4 such that the sum of any one\nand the product of the other three is equal to 2.\n\n1965/5.\nConsider ∆OAB with acute angle AOB. Through a point M 6= O perpendic-\nulars are drawn to OA and OB, the feet of which are P and Q respectively.\nThe point of intersection of the altitudes of ∆OP Q is H. What is the locus\nof H if M is permitted to range over (a) the side AB, (b) the interior of\n∆OAB?\n\n1965/6.\nIn a plane a set of n points (n ≥ 3) is given. Each pair of points is connected\nby a segment. Let d be the length of the longest of these segments. We define\na diameter of the set to be any connecting segment of length d. Prove that\nthe number of diameters of the given set is at most n.",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

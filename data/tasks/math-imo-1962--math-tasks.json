@@ -1,0 +1,37 @@
+{
+ "setId": "math-imo-1962--math-tasks",
+ "olympiadId": "math-imo-1962",
+ "title": "Математика → IMO (международная) → 1962",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1962/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T19:30:11.559Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Fourth International Olympiad, 1962\n1962/1.\nFind the smallest natural number n which has the following properties:\n(a) Its decimal representation has 6 as the last digit.\n(b) If the last digit 6 is erased and placed in front of the remaining digits,\nthe resulting number is four times as large as the original number n.\n\n1962/2.\nDetermine all real numbers x which satisfy the inequality:\n                            √            √       1\n                                3−x−         x+1> .\n                                                 2\n1962/3.\nConsider the cube ABCDA0 B 0 C 0 D0 (ABCD and A0 B 0 C 0 D0 are the upper and\nlower bases, respectively, and edges AA0 , BB 0 , CC 0 , DD0 are parallel). The\npoint X moves at constant speed along the perimeter of the square ABCD\nin the direction ABCDA, and the point Y moves at the same rate along\nthe perimeter of the square B 0 C 0 CB in the direction B 0 C 0 CBB 0 . Points X\nand Y begin their motion at the same instant from the starting positions A\nand B 0 , respectively. Determine and draw the locus of the midpoints of the\nsegments XY.\n\n1962/4.\nSolve the equation cos2 x + cos2 2x + cos2 3x = 1.\n\n1962/5.\nOn the circle K there are given three distinct points A, B, C. Construct (using\nonly straightedge and compasses) a fourth point D on K such that a circle\ncan be inscribed in the quadrilateral thus obtained.\n\n1962/6.\nConsider an isosceles triangle. Let r be the radius of its circumscribed circle\nand ρ the radius of its inscribed circle. Prove that the distance d between\nthe centers of these two circles is\n                                     q\n                                d=    r(r − 2ρ).\n\n1962/7.\n\nThe tetrahedron SABC has the following property: there exist five spheres,\neach tangent to the edges SA, SB, SC, BCCA, AB, or to their extensions.\n(a) Prove that the tetrahedron SABC is regular.\n(b) Prove conversely that for every regular tetrahedron five such spheres\nexist.",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

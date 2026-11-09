@@ -1,0 +1,37 @@
+{
+ "setId": "geo-ieso-2016--ieso-pt-geology-b",
+ "olympiadId": "geo-ieso-2016",
+ "title": "География → IESO (науки о Земле) → 2016",
+ "materialLabel": "Ieso pt geology b",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/ieso/2016/ieso-pt-geology-b.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T19:25:53.149Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Practical Geo Field evaluation – Site B (Katsurabata)\n                               :Student number                                         :Name\n\n                                           :Team                                       :Group\n\nStop 1\nField kit​: Hand lens\nTime limit​: 8 min.\nExplore the rock exposed at this site. Read the following questions (B1 and B 2), and circle\none letter that corresponds to the correct answer.\n\nB 1. What is the most appropriate rock type at this site?\n\n    a) Sedimentary rock\n    b) Volcanic rock\n    c) Plutonic rock\n    d) Metamorphic rock\n\nB 2.What is the most appropriate name of the rock at this site?\n\n         g) Basalt                                       a) Limestone\n         h) Chert                                        b) Tuff\n         i)   Mudstone                                   c) Obsidian\n         j)   Gabbro                                     d) Sandstone\n         k) Gneiss                                       e) Schist\n         l)   Granite                                    f) Rhyolite\n\nStop 2\nField kit​: Clinometer\nTime limit​: 8 min.\nExplore the plane marked by red tape at this site. Read the following questions (B 3 and B 4),\nand circle one letter that corresponds to the correct answer.\n\nB 3. What is the name of the dominant plane at this site?\n    a) Bedding plane\n\n                                                1\n\nb) Joint plane\nc) Unconformity plane\n     d) Cleavage plane\n\n                         Please turn over\n\n                             2\n\nB 4. Measure the dip and strike of the rock surface marked, and circle one letter that\ncorresponds to the most appropriate symbol of the dip and strike.\n\nStop 3\n\nField kit​: Hand lens\nTime limit​: 8 min.\nExplore the rock exposed at this site. Read the following questions (B 5 and B 6), and circle\none letter that corresponds to the correct answer.\n\nB 5. What is the most appropriate rock type at this site?\n\n    a) Sedimentary rock\n    b) Volcanic rock\n    c) Plutonic rock\n    d) Metamorphic rock\n\nB 6. What is the most appropriate name of the rock​ ​at this site?\n         g) Basalt                                       a) Limestone\n         h) Chert                                        b) Tuff\n         i)   Mudstone                                   c) Obsidian\n         j)   Gabbro                                     d) Sandstone\n         k) Gneiss                                       e) Schist\n         l)   Granite                                    f) Rhyolite\n\n                                                3\n\n4",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

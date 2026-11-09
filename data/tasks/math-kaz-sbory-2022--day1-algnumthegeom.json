@@ -1,0 +1,82 @@
+{
+ "setId": "math-kaz-sbory-2022--day1-algnumthegeom",
+ "olympiadId": "math-kaz-sbory-2022",
+ "title": "Математика → Сборы сборной РК → 2022",
+ "materialLabel": "Day1 algnumthegeom",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/kaz_sbory/2022/day1-AlgNumTheGeom.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:29:55.260Z",
+ "quality": {
+  "tasks": 4,
+  "parts": 4,
+  "withPoints": 4,
+  "withReference": 0,
+  "withQuestion": 4,
+  "estimatedPoints": 4
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Найдите все положительные t такие, что [t] 0.9t = , t − [t] где [x]−…",
+   "statement": "Найдите все положительные t такие, что\n\n                                                               [t]\n                                                    0.9t =           ,\n                                                             t − [t]\n   где [x]− целая часть числа x.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Для различных неотрицательных a, b, c докажите, что \u0012 \u0013 1 1 1 (ab +…",
+   "statement": "Для различных неотрицательных a, b, c докажите, что\n                                      \u0012                            \u0013\n                                           1        1        1\n                       (ab + bc + ca)           +        +           ⩾ 4.\n                                        (a − b)2 (b − c)2 (c − a)2",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Существуют ли целые числа x, y, не делящиеся на 5 такие, что x2 + 19y…",
+   "statement": "Существуют ли целые числа x, y, не делящиеся на 5 такие, что\n\n                                             x2 + 19y 2 = 198 · 102023 ?",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Пусть pi − i-ое простое число. Докажите, что √ √ √ √ 2020 p1 −1 p1 ·…",
+   "statement": "Пусть pi − i-ое простое число. Докажите, что\n                                   √           √          √                √       2020\n                              p1 −1\n                                       p1 · p2 −1 p2 · p3 −1 p3 · ... · pk −1 pk >      ,\n                                                                                    3\n   где pk ⩽ 2020 < pk+1\n\n                                                    Геометрия",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

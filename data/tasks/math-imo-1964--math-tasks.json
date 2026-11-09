@@ -1,0 +1,37 @@
+{
+ "setId": "math-imo-1964--math-tasks",
+ "olympiadId": "math-imo-1964",
+ "title": "Математика → IMO (международная) → 1964",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1964/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T19:30:11.508Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Sixth International Olympiad, 1964\n1964/1.\n(a) Find all positive integers n for which 2n − 1 is divisible by 7.\n(b) Prove that there is no positive integer n for which 2n + 1 is divisible by\n7.\n\n1964/2.\nSuppose a, b, c are the sides of a triangle. Prove that\n\n             a2 (b + c − a) + b2 (c + a − b) + c2 (a + b − c) ≤ 3abc.\n\n1964/3.\nA circle is inscribed in triangle ABC with sides a, b, c. Tangents to the circle\nparallel to the sides of the triangle are constructed. Each of these tangents\ncuts off a triangle from ∆ABC. In each of these triangles, a circle is inscribed.\nFind the sum of the areas of all four inscribed circles (in terms of a, b, c).\n\n1964/4.\nSeventeen people correspond by mail with one another - each one with all\nthe rest. In their letters only three different topics are discussed. Each pair\nof correspondents deals with only one of these topics. Prove that there are\nat least three people who write to each other about the same topic.\n\n1964/5.\nSuppose five points in a plane are situated so that no two of the straight lines\njoining them are parallel, perpendicular, or coincident. From each point per-\npendiculars are drawn to all the lines joining the other four points. Determine\nthe maximum number of intersections that these perpendiculars can have.\n\n1964/6.\nIn tetrahedron ABCD, vertex D is connected with D0 the centroid of ∆ABC.\nLines parallel to DD0 are drawn through A, B and C. These lines intersect the\nplanes BCD, CAD and ABD in points A1 , B1 and C1 , respectively. Prove\nthat the volume of ABCD is one third the volume of A1 B1 C1 D0 . Is the result\ntrue if point D0 is selected anywhere within ∆ABC?",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

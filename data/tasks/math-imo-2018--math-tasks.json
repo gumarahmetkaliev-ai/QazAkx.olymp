@@ -7,7 +7,7 @@
  "tasksFile": "olympiads/math/s/imo/2018/math-tasks.pdf",
  "solutionFile": "olympiads/math/s/imo/2018/math-sol.pdf",
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:29.599Z",
+ "generatedAt": "2026-11-09T19:29:58.921Z",
  "quality": {
   "tasks": 6,
   "parts": 6,
@@ -19,7 +19,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "Let Γ be the circumcircle of acute-angled triangle ABC. Points D and…",
    "statement": "Let Γ be the circumcircle of acute-angled triangle ABC. Points D and E lie on\nsegments AB and AC, respectively, such that AD = AE. The perpendicular bisectors of BD and\nCE intersect the minor arcs AB and AC of Γ at points F and G, respectively. Prove that the lines\nDE and F G are parallel (or are the same line).",
    "total": 7,
    "parts": [
@@ -33,7 +33,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "Find all integers n ≥ 3 for which there exist real numbers a1 , a2 ,…",
    "statement": "Find all integers n ≥ 3 for which there exist real numbers a1 , a2 , . . . , an+2 , such that\nan+1 = a1 and an+2 = a2 , and\n                                      ai ai+1 + 1 = ai+2\nfor i = 1, 2, . . . , n.",
    "total": 7,
    "parts": [
@@ -47,7 +47,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "An anti-Pascal triangle is an equilateral triangular array of numbers…",
    "statement": "An anti-Pascal triangle is an equilateral triangular array of numbers such that, except\nfor the numbers in the bottom row, each number is the absolute value of the difference of the two\nnumbers immediately below it. For example, the following array is an anti-Pascal triangle with four\nrows which contains every integer from 1 to 10.\n\n                                                        4\n                                                    2       6\n                                                5       7        1\n                                            8       3       10       9\n\nDoes there exist an anti-Pascal triangle with 2018 rows which contains every integer from 1 to\n1 + 2 + · · · + 2018?\n\nLanguage: English                                                          Time: 4 hours and 30 minutes\n                                                                           Each problem is worth 7 points\n\n                                               English (eng), day 2\n\n                                                                             Tuesday, July 10, 2018",
    "total": 7,
    "parts": [
@@ -61,7 +61,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "A site is any point (x, y) in the plane such that x and y are both…",
    "statement": "A site is any point (x, y) in the plane such that x and y are both positive integers less\nthan or equal to 20.\n   Initially, each of the 400 sites is unoccupied. Amy and Ben take turns placing stones with Amy\ngoing first. On her turn, Amy places a new red stone on an√unoccupied site such that the distance\nbetween any two sites occupied by red stones is not equal to 5. On his turn, Ben places a new blue\nstone on any unoccupied site. (A site occupied by a blue stone is allowed to be at any distance from\nany other occupied site.) They stop as soon as a player cannot place a stone.\n   Find the greatest K such that Amy can ensure that she places at least K red stones, no matter\nhow Ben places his blue stones.",
    "total": 7,
    "parts": [
@@ -75,7 +75,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "Let a1 , a2 , . . . be an infinite sequence of positive integers.…",
    "statement": "Let a1 , a2 , . . . be an infinite sequence of positive integers. Suppose that there is an\ninteger N > 1 such that, for each n ≥ N , the number\n                                     a1 a2         an−1 an\n                                       +   + ··· +     +\n                                     a2 a3          an   a1\nis an integer. Prove that there is a positive integer M such that am = am+1 for all m ≥ M .",
    "total": 7,
    "parts": [
@@ -89,7 +89,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "A convex quadrilateral ABCD satisfies AB · CD = BC · DA. Point X lies…",
    "statement": "A convex quadrilateral ABCD satisfies AB · CD = BC · DA. Point X lies inside\nABCD so that\n                     ∠XAB = ∠XCD and ∠XBC = ∠XDA.\nProve that ∠BXA + ∠DXC = 180◦ .\n\nLanguage: English                                                     Time: 4 hours and 30 minutes\n                                                                      Each problem is worth 7 points",
    "total": 7,
    "parts": [

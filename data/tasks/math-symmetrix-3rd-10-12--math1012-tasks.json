@@ -7,7 +7,7 @@
  "tasksFile": "olympiads/math/symmetrix/3rd/10-12/math1012-tasks.pdf",
  "solutionFile": "olympiads/math/symmetrix/3rd/10-12/math1012-sol.pdf",
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:43.140Z",
+ "generatedAt": "2026-11-09T19:30:11.963Z",
  "quality": {
   "tasks": 6,
   "parts": 6,
@@ -19,7 +19,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "Даны две окружности ω1 и ω2 пересекающиеся в точках X и Y . Пусть `1…",
    "statement": "Даны две окружности ω1 и ω2 пересекающиеся в точках X и Y . Пусть `1 –\nэто прямая, которая проходит через центр ω1 и пересекает ω2 в точках P и Q,\nи `2 – это прямая, которая проходит через центр ω2 и пересекает ω1 в точках\nS и R, Докажите, что если точки P, Q, R и S лежат на одной окружности,\nто центр этой окружности находится на прямой XY .",
    "total": 7,
    "parts": [
@@ -34,7 +34,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "Пусть n – положительное целое число. Найдите размер наибольшего под-…",
    "statement": "Пусть n – положительное целое число. Найдите размер наибольшего под-\nмножества множества {−n, −n + 1, . . . , n − 1, n} не содержащее таких трёх\nэлементов a, b, c (не обязательно различных), что a + b + c = 0.",
    "total": 7,
    "parts": [
@@ -49,7 +49,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "Мы определяем многоугольник шахматной доски как многоугольник, сто-…",
    "statement": "Мы определяем многоугольник шахматной доски как многоугольник, сто-\nроны которого расположены вдоль линий вида x = a или y = b, где a и b – це-\nлые числа. Эти линии делят внутренность на единичные квадраты, которые\nпопеременно окрашиваются в серый и белый цвета, так что соседние квад-\nраты имеют разные цвета. Чтобы выложить многоугольник на шахматной\nдоске с помощью домино, нужно точно покрыть многоугольник неперекры-\nвающимися прямоугольниками размером 1 × 2. Наконец, стильная мозаика –\nэто та, которая позволяет избежать двух конфигураций домино, показанных\nслева внизу. Показаны две мозаики прямоугольника размером 3 × 4; первый\nвыполнен стильно, а второй – нет, из-за вертикальных домино в правом верх-\nнем углу.\n\nа) Докажите, что если многоугольник шахматной доски можно разложить с\nпомощью домино, то это можно сделать стильно.\nб) Докажите, что такая стильная мозаика уникальна.\n\nThird Symmetrix Contest: Senior League",
    "total": 7,
    "parts": [
@@ -64,7 +64,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "Given circles ω1 and ω2 intersecting at points X and Y , let `1 be a…",
    "statement": "Given circles ω1 and ω2 intersecting at points X and Y , let `1 be a line through\nthe center of ω1 intersecting ω2 at points P and Q and let `2 be a line through\nthe center of ω2 intersecting ω1 at points R and S. Prove that if P, Q, R and S\nlie on a circle then the center of this circle lies on line XY .",
    "total": 7,
    "parts": [
@@ -79,7 +79,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "Let n be a positive integer. Determine the size of the largest subset…",
    "statement": "Let n be a positive integer. Determine the size of the largest subset of {−n, −n+\n1, . . . , n − 1, n} which does not contain three elements a, b, c (not necessarily\ndistinct) satisfying a + b + c = 0.",
    "total": 7,
    "parts": [
@@ -94,7 +94,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "We define a chessboard polygon to be a polygon whose sides are…",
    "statement": "We define a chessboard polygon to be a polygon whose sides are situated along\nlines of the form x = a or y = b, where a and b are integers. These lines divide\nthe interior into unit squares, which are shaded alternately grey and white so that\nadjacent squares have different colors. To tile a chessboard polygon by dominoes\nis to exactly cover the polygon by non-overlapping 1 × 2 rectangles. Finally, a\ntasteful tiling is one which avoids the two configurations of dominoes shown on\nthe left below. Two tilings of a 3 × 4 rectangle are shown; the first one is tasteful,\nwhile the second is not, due to the vertical dominoes in the upper right corner.\n\na) Prove that if a chessboard polygon can be tiled by dominoes, then it can be\ndone so tastefully.\nb) Prove that such a tasteful tiling is unique.",
    "total": 7,
    "parts": [

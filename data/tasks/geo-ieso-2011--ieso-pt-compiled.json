@@ -1,0 +1,142 @@
+{
+ "setId": "geo-ieso-2011--ieso-pt-compiled",
+ "olympiadId": "geo-ieso-2011",
+ "title": "География → IESO (науки о Земле) → 2011",
+ "materialLabel": "Ieso pt compiled",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/ieso/2011/ieso-pt-compiled.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:25:54.092Z",
+ "quality": {
+  "tasks": 8,
+  "parts": 8,
+  "withPoints": 8,
+  "withReference": 0,
+  "withQuestion": 8,
+  "estimatedPoints": 8
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "What is the attitude (strike, dip direction, angle of dip at…",
+   "statement": "What is the attitude (strike, dip direction, angle of\ndip at clockwise measurement) of the exposed\nsurface A : (3pt)\n\n       1. 110° - 20° - 65°\n       2. 340° - 250° - 65°\n       3. 20° - 110° - 25°\n       4. 170° - 80° - 25°\n       5. 250° - 340° - 25°\n       6. 110° - 20° - 65°\n       7. 200° - 290° - 65°\n       8. 20° - 110° - 65°\n       9. 110° - 200° - 25°\n       10. 200° - 290° - 25°",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "On the surfaces (A, B, C, D) what geological features can you…",
+   "statement": "On the surfaces (A, B, C, D) what geological features can you identify (one or more answers may\nbe correct): (0,5 points for each right answer)\n\n       1.   wawe ripple marks\n       2.   groove casts\n       3.   flute casts\n       4.   tectonic lineation\n       5.   stylolites\n       6.   fossil traces\n       7.   tool marks\n       8.   fossil shells\n\n     Geological map of Friuli Venezia Giulia – SIMPLIFIED LEGENDA stop 7b\n\nImportant note:\n\nIt’s possible to assume that the litological formation in the Slovenian\n\nside of the hydrographic basin of river Isonzo (called Soca in Slovenia) are the same\nfound\n\nin the Italian side.\n\nQuaternary covers\n\n26\n\n25\n\n24\n\n23\n\nCenozoic sequence\n\n19 b : sandstone and shale\n\n19 a: sandstone, breccias and shale\n\n18: limestone\n\nMesozoic sequence\n\n17 c: limestone\n\n16 c: limestone\n\n16 b: limestone\n\n15 a: limestone\n\n14: limestone\n\n13 c: dolomite rock\n\n13 a: dolomite rock\n\n12 c: dolomite rock and limestone\n\n9: dolomite rock and limestone\n\n                 GEOLOGICAL MAP OF LOMBARDIA - SIMPLIFIED LEGENDA stop 7a\n\nImportant note: during past glacial periods, alpine glaciers transported and accumulated\nsediments to form morains in the pedemontane zone of Alps.\nSince the end of the last glaciation, river Oglio carries to site X sediments already deposited by\nalpine glaciers in the past in the pedemontane zone, south of lake Iseo.\n\nQuaternary covers\n\n1\n\n4\n5\n\n7\n\n8\n\nIgneous rocks\n\n9: granite\n\n10: diorite\n\n11: diorite and gabbro\n\n13: rhyolite\n\n16: granite\n\n17: diorite and gabbro\n\nSedimentary covers:\ndifferent types of limestone, sandstone,\ndolomite rock and shale\n19b\n\n22a 22b\n\n23\n24\n\n25\n26\n27a\n28\n29\n30\n31a\n32a\n33a\n34\n35\n37a\n39\n41a\n43a\n44\n45\n46b\n\nCrystalline rocks\n48: gneiss\n49: schist and phyllite\n50: quartzite\n\nCrystalline rocks\n\n64: gneiss\n\n65: schist and phyllite\n\n66: schist\n\n67: gneiss\n\nSTOP 7       25’\n\n      Practical test 2011 – Comparison of sediments and hydrographic basins\n\nEquipment:\n\n   • Geological map 1 (Friuli Venezia Giulia), with a simplified legenda\n\n   • Geological map 2 (Lombardia), with a simplified legenda\n\n   • Pebble samples A and B\n\n   • Sand samples 1 and 2\n\n   • Stereomicroscope\n\n   • Dilute hydrochloric acid.\n\nExercises:\n\n   • Two geological maps are provided (1 and 2)\n\n   • Two pebble samples ( A and B ) are provided\n\n   • On each map, two sites (X and Y) along the river are shown. Pebbles and sand\n     samples have been collected from these locations.\n\n   • In site X pebbles from the Oglio hydrographic basin have been collected.\n\n   • In site Y pebbles from the Isonzo hydrographic basin have been collected.\n\n   1) Recognize the rock types of the pebbles, by completing the following table (it’s\n      possible to use the diluted HCl solution):                           (1,5 points)\n\nChoose among: limestone, sandstone, dolomite rock, diorite, gneiss/micaschist\n\nNumber of pebble                  Rock type\n\n       A1\n\n       A2\n\n       A3\n\n       B1\n\n       B2\n\n       B3\n\n2) Match correctly the pebble samples with the geological maps.\n\n                                                                   (1,25 points)\n\n  Pebble sample          Geological map\n                         number ……….\n            A\n\n  Pebble sample          Geological map\n                         number ………\n            B\n\n3) Observe carefully the two sand samples (1 and 2) at the stereomicroscope.\n   Which minerals are present in each sample? You could tick more than one option.\n\n                                                                       (1 point)\n\n                     Calcite      Quartz      Quartz very    Biotite\n                     present     abundant        rare        present\n\n   Sand sample\n   1\n\n   Sand sample\n   2\n\n4) Which of the two sand sample comes from site X and which from site Y ?\n\n                                                                  (1,25 points)\n\n  Sand sample            Site ……….\n\n            1\n\n  Sand sample            Site ………\n\n            2\n\nStop 8, 15’\nName_________________ Country____________\nIn this test you are expected to recognize the minerals of the rock,\nestimate their abundance and classify the rock based on the\nStrekeisen diagram.\nFill all tables and Strekeisen plot. Report the name of the rock.\n\nCharacters of the rock forming minerals (not all are present in the\nrock):\nPlagioclase: White milky appearance, anhedral to subhedral\n          (elongate prismatic habit), sometimes twinning and\n          cleavage detectable.\nQuartz: Colourless to greyish, is the most transparent, often\n          anhedral interstitial, conchoidal fractures, no cleavage.\nBiotite: Black-dark brown, vitreous lustre, thin cleavage system,\n          hexagonal euhedral sections are in general subequant..\nPyroxene:      Black, prismatic elongated, cleavage parallel to the\n          elongation.\nOlivine: Green, dark green, prismatic subequant, no cleavage.\nOxides: Equant, fine grained, black metallic lustre.\nTourmaline: Strongly elongated to acicular habit, light brown to\n          greenish.\nK-Feldspar: Orange to reddish, forms large crystals, anhedral to\n          subhedral, sometimes twinning and cleavage detectable.\n\nIn the following table select the minerals you recognize on the\nselected areas of the pillar, then indicate the amount of each phase.\nMinerals not recognized must be indicated as 0%. To evaluate the\namount of each mineral phase use the reference grids in the next\npage. Note that indicating the amount of minor phases as <10%\nmeans total is not expected to be 100%.\n\n              0       <10%       10%       20%       30%       40%\nTourmali\nne\nK-\nfeldspar\n\nOlivine\nOxides\nQuartz\nPyroxene\nBiotite\nPlagiocla\nse\n\nReference grids\n\nIn order to define the rock you must recalculate the relative amount\nof Q, A and P\n\n                    Estimated      Recalc to 100\n                      value\nQ (Quartz)\nA (K-feldspar)\nP (Plagioclase)\nSum Q+A+P                            Sum =100\n\nPlot in Q-A-P by colouring the compositional field\nYou can use the triangular plot aside to help in\nfinding the correct position\n\nThe observed rock is: ________________________________\n\nScore:\n\nPlot in the right field: 4 points\n\nPlot in the fields adjacent to the correct one: 1 points\n\n                                  STOP 9, 20’ Records from the past\n                                                           - Instruction sheet -\nBackground information\nTo help to make climate forecasts for the future, it is useful to study past climate. The field of science which aims to gain better\ninsight into past climate on Earth and the mechanisms that are causing climate change is called palaeoclimatology.\n\nThe floors of oceans and lakes are covered with various layers of mud-like sediments, which contain fossils. One type of fossil\nfrom lake or ocean sediments that is often used by palaeoclimatologists is diatoms. Each kind of diatom has a different shape\nof its skeleton. This difference is used to identify the various fossil types of diatom.\n\nIn addition to this, every species grows optimally under a certain temperature called the optimal temperature (To), so the\npresence of a certain species can provide some clues about the climate at the time when the individuals were still alive.\n\nScientists can determine the temperature at the time of formation, which is called the balanced average temperature (Tm), by\napplying the following formula:\n\nAim\nReconstructing a climate history by analyzing the types of diatoms from a sediment core.\n\nMaterials\n10 Petri dishes that correspond to sediment samples from different parts of a sediment core. The depth and age are indicated on\neach Petri dish. (BP years= years Before Present)\n                                       Sample      Age (BP        Depth (cm)\n                                       number        years)\n                                              1              1000              5\n                                              2              2000             10\n                                              3              3000             15\n                                              4              4000             20\n                                              5              5000             25\n                                              6              6000             30\n                                              7              7000             35\n                                              8              8000             40\n                                              9              9000             45\n                                             10              10000            50\nEach Petri dish contains 12 pink, green, yellow and purple beads. Each color represents a specific type of diatom that survives\nbest in certain temperatures (= optimal temperature, To).\n                                          Type of diatom            To (°C)\n                                                    pink                      20\n                                                   yellow                     15\n                                                    green                     10\n                                                    purple                    5\nProcedure\n    1.   Color the attached diagram (on the worksheet) according to the diatom composition found in each Petri dish. Count\n         the amount of beads of each color found in each Petri dish and color the circles accordingly. From the bottom\n         (horizontal axis) to the top of each column of circles, color first the pink ones, then the yellow ones, the green ones,\n         and the purple ones.\n    2.   Draw a line above the top set of pink dots ; this will give you a line with the age on the X-axis and the number of\n         diatoms per type on the Y-axis.\n    3.   Calculate the balanced average temperature (Tm) for depths at 1000 years BP, 4000 years BP and 7000 years BP . Fill\n         the “Table of the Tm values” and answer the question according to the instructions provided.\n\nThis activity has been adapted for IESO2011 from the original version titled “Experiment from the Past” published by International Polar\nFoundation http://www.educapoles.org/                                                                                       (1 of 3 )\n\n                                         Records from the past (2,4pt)\n                                                       − Worksheet , Diagram -\n\n                                                        Table of Tm values\n Age (years BP)                                                                                                                Tm (°C)\n                       npink * T0,pink nyellow * T0,yellow ngreen * T0,green npurple * T0,purple ntotal\n       1000\n       4000\n       7000\n\nThis activity has been adapted for IESO2011 from the original version titled “Experiment from the Past” published by International Polar\nFoundation http://www.educapoles.org/                                                                                       (2 of 3 )\n\nAnalysis of the results",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "3 points In your opinion which of the following sentences explain…",
+   "statement": "3 points\nIn your opinion which of the following sentences explain better the role played by the\nsmoke inside the jars (mark ONE of the following answers)\n      a) Warm up the air inside the jar further\n      b) Warm up the water inside the jar further\n      c) Give tiny particles that provide surfaces on which water vapor can condense\n      d) Give tiny and warm particles that increase the difference in temperature\n         between air and water. This affects the condensation positively.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "4 points In the atmosphere which one of the following processes, in…",
+   "statement": "4 points\nIn the atmosphere which one of the following processes, in your opinion and most\nlikely, emits substances that could play the same role of the smoke you use in this\nlab? (mark no more then TWO of the following answers)\n       a) The erosion of a river\n       b) A volcanic eruption\n       c) The respiration of living organisms\n       d) Fossils fuels burning\n       e) An earthquake",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "4 points Which of the following situations, in your opinion, is more…",
+   "statement": "4 points\nWhich of the following situations, in your opinion, is more suitable for fog\nformation? (mark ONE of the following answers)\n      a) Close to a shoreline there is an upwelling of a deep and cold ocean current.\n         Here the water meets warm air coming from the inland area covered with\n         forest\n      b) An hilly area has no vegetation cover since is quite arid, ther are only rock\n\n         outcrops facing south forming very warm air masses meeting cool ones\n         coming from the adjacent peaks\n      c) A very wide area is covered with snow in the mid of winter season. Here\n         cold air masses meet slightly cool ones coming from an adjacent and dense\n         woods",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "2 points One of the conditions that helps the formation of fog is the…",
+   "statement": "2 points\nOne of the conditions that helps the formation of fog is the ice presence that\ndecreases the temperature of air inside the jar. Which one of the following conditions\ncould lead to the formation of fog? (mark ONE of the following answers)\n      a) increasing of air pressure inside the jar\n      b) decreasing of air pressure inside the jar\n      c) An increase or decrease of the air pressure inside the jar leads to fog\n         formation\n      d) An increase of the pressure coupled with heating of the air inside the jar",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "2 points Which one of the following substances of the atmosphere does…",
+   "statement": "2 points\nWhich one of the following substances of the atmosphere does NOT act as\ncondensation nucleus? (mark ONE of the following answers)\n     a) marine aerosol made by waves\n     b) carbon dioxide\n     c) particles lifted during a sand storm\n     d) particles emitted during a forest fire",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "2 points Mark on the following graph two points that represent the…",
+   "statement": "2 points\nMark on the following graph two points that represent the conditions of the water\ninside the two jars (mark the point 1=cold jar; mark the point 2=warm jar).\n\n                                            IESO 2011\n                                       PRACTICAL TEST\n                                         “Oceanography”\n                               Temperature and Depth Measurements\n                                      - Instruction sheet -\n\nDuring this practical test you will measure the temperature of water at different depths at a sampling\nsite. With the data collected, you will construct a thermal profile and conduct an investigation based\non the data.\nYou will use thermometers fastened at fixed distances along a line called “mooring rope” ending\nwith a weight. The upper end will be fixed to the boat. This system is called “mooring system”.\nDuring scientific measurements, it is generally fixed to a floating buoy.\nThe thermometers are actually micro-data-loggers that measure and record temperature data at\ndesired time intervals. This operation is called a “mission”. The data loggers and the computers\nhave already been configured for this mission.\n\nMaterials\n     Temperature micro-data-loggers (thermochron iButton, Dallas-Maxim model DS1921G)\n     Data-logger/PC cabling system (named LinkUSB)\n     Computer with drivers and software already installed (named OneWireViewer)\n\nProcedure\n   • PAY SPECIAL ATTENTION TO SAFETY INSTRUCTIONS\n   • Preparation phase. Using the hardware and software provided, you have to program all the\n      data loggers in order to start your “mission” with the following characteristics:\n           Measurement rate: 1 min.\n           Format of temperature data: °C.\n           Alarm: off\n   • Start the “mission” of each data logger.\n   • Preparation of the mooring line. Put the data loggers inside the chambers. Tightly close\n      the chamber with a suitable o-ring using the given keys. Then fix the thermochrons at the\n      following depths: sea floor, +10m above sea floor (asf), +20m asf, +30m asf.\n   • Measurement. Put the mooring line in the water following the instructions from the staff of\n      the boat. Pay special attention to them!\n   • Leave the mooring line in the water for at least 10 minutes.\n   • Carefully raise the mooring line. Collect all the data from the loggers following the\n      instructions provided by the student staff. For each data logger you have to choose (among\n      all the collected values) a single value of temperature that, in your opinion, is representative\n      of the temperature of the water at that depth where the thermometer was placed.\n   • Go to the worksheet and answer the questions.\n\n                                  IESO 2011\n                             PRACTICAL TEST\n                              “Oceanography”\n                     Temperature and Depth Measurements\n      NAME____________________ ____________________ country ________________\n\n                                          - Worksheet –",
+   "total": 7,
+   "parts": [
+    {
+     "id": "8",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

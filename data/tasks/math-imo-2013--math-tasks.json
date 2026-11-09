@@ -7,7 +7,7 @@
  "tasksFile": "olympiads/math/s/imo/2013/math-tasks.pdf",
  "solutionFile": "olympiads/math/s/imo/2013/math-sol.pdf",
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:34.435Z",
+ "generatedAt": "2026-11-09T19:30:03.781Z",
  "quality": {
   "tasks": 6,
   "parts": 6,
@@ -19,7 +19,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "Prove that for any pair of positive integers k and n, there exist k…",
    "statement": "Prove that for any pair of positive integers k and n, there exist k positive integers\nm1 , m2 , . . . , mk (not necessarily different) such that\n\n                                   2k − 1\n                                               \u0012        \u0013\u0012       \u0013 \u0012         \u0013\n                                                      1       1           1\n                              1+            = 1+           1+     ··· 1 +      .\n                                      n              m1       m2          mk",
    "total": 7,
    "parts": [
@@ -33,7 +33,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "A configuration of 4027 points in the plane is called Colombian if it…",
    "statement": "A configuration of 4027 points in the plane is called Colombian if it consists of 2013 red\npoints and 2014 blue points, and no three of the points of the configuration are collinear. By drawing\nsome lines, the plane is divided into several regions. An arrangement of lines is good for a Colombian\nconfiguration if the following two conditions are satisfied:\n\n   • no line passes through any point of the configuration;\n\n   • no region contains points of both colours.\n\nFind the least value of k such that for any Colombian configuration of 4027 points, there is a good\narrangement of k lines.",
    "total": 7,
    "parts": [
@@ -47,7 +47,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "Let the excircle of triangle ABC opposite the vertex A be tangent to…",
    "statement": "Let the excircle of triangle ABC opposite the vertex A be tangent to the side BC at the\npoint A1 . Define the points B1 on CA and C1 on AB analogously, using the excircles opposite B and\nC, respectively. Suppose that the circumcentre of triangle A1 B1 C1 lies on the circumcircle of triangle\nABC. Prove that triangle ABC is right-angled.\n\n    The excircle of triangle ABC opposite the vertex A is the circle that is tangent to the line segment\nBC, to the ray AB beyond B, and to the ray AC beyond C. The excircles opposite B and C are similarly\ndefined.\n\nLanguage: English                                                       Time: 4 hours and 30 minutes\n                                                                        Each problem is worth 7 points\n\n                                                                           Language: English\n                                                                                                Day: 2\n\n                                                                                Wednesday, July 24, 2013",
    "total": 7,
    "parts": [
@@ -61,7 +61,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "Let ABC be an acute-angled triangle with orthocentre H, and let W be…",
    "statement": "Let ABC be an acute-angled triangle with orthocentre H, and let W be a point on the\nside BC, lying strictly between B and C. The points M and N are the feet of the altitudes from B and\nC, respectively. Denote by ω1 the circumcircle of BW N , and let X be the point on ω1 such that W X\nis a diameter of ω1 . Analogously, denote by ω2 the circumcircle of CW M , and let Y be the point on ω2\nsuch that W Y is a diameter of ω2 . Prove that X, Y and H are collinear.",
    "total": 7,
    "parts": [
@@ -75,7 +75,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "Let Q>0 be the set of positive rational numbers. Let f : Q>0 → R be a…",
    "statement": "Let Q>0 be the set of positive rational numbers. Let f : Q>0 → R be a function satisfying\nthe following three conditions:\n\n  (i) for all x, y ∈ Q>0 , we have f (x)f (y) ≥ f (xy);\n\n (ii) for all x, y ∈ Q>0 , we have f (x + y) ≥ f (x) + f (y);\n\n(iii) there exists a rational number a > 1 such that f (a) = a.\n\nProve that f (x) = x for all x ∈ Q>0 .",
    "total": 7,
    "parts": [
@@ -89,7 +89,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "Let n ≥ 3 be an integer, and consider a circle with n + 1 equally…",
    "statement": "Let n ≥ 3 be an integer, and consider a circle with n + 1 equally spaced points marked\non it. Consider all labellings of these points with the numbers 0, 1, . . . , n such that each label is used\nexactly once; two such labellings are considered to be the same if one can be obtained from the other\nby a rotation of the circle. A labelling is called beautiful if, for any four labels a < b < c < d with\na + d = b + c, the chord joining the points labelled a and d does not intersect the chord joining the\npoints labelled b and c.\n   Let M be the number of beautiful labellings, and let N be the number of ordered pairs (x, y) of\npositive integers such that x + y ≤ n and gcd(x, y) = 1. Prove that\n\n                                                M = N + 1.\n\nLanguage: English                                                          Time: 4 hours and 30 minutes\n                                                                           Each problem is worth 7 points",
    "total": 7,
    "parts": [

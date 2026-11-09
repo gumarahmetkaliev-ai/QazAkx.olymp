@@ -1,0 +1,52 @@
+{
+ "setId": "geo-ieso-2016--ieso-pt-meteorology",
+ "olympiadId": "geo-ieso-2016",
+ "title": "География → IESO (науки о Земле) → 2016",
+ "materialLabel": "Ieso pt meteorology",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/ieso/2016/ieso-pt-meteorology.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:25:53.179Z",
+ "quality": {
+  "tasks": 2,
+  "parts": 2,
+  "withPoints": 2,
+  "withReference": 0,
+  "withQuestion": 2,
+  "estimatedPoints": 2
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "The ratio of reflected radiation at a particular surface is called…",
+   "statement": "The ratio of reflected radiation at a particular surface is called albedo.\n1-1. Calculate the albedo of the asphalt at Point A.\n1-2. Calculate the albedo of the grass at Point B.\n1-3 Choose the answer which is least likely to explain the difference between the\n    measurements at Points A and B.\n\n   a. Color of the surface\n   b. Hardness of the ground\n   c. Roughness of the surface\n   d. Wetness of the surface",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "2-1. Calculate infrared energy emitted by the asphalt at Point A by…",
+   "statement": "2-1. Calculate infrared energy emitted by the asphalt at Point A by assuming that the\nasphalt is a black body. The infrared energy may be obtained by following the Stefan-\nBoltzmann law.\nσ(273.15 + t)​4\nHere, σ is 5.67 ×10​-8 (W/m​2 K​-4​), and t is temperature in degree Celsius. The answer\nshould be rounded off to the first decimal place. The unit is W/m​2​.\n\n2-2 Calculate infrared energy emitted by the grass at Point B.\n\n2-3 Choose the answer which is least likely to explain the difference in the\nmeasurements of infrared radiation at Points A and B.\n\n   a. Color of the surface\n   b. Wetness of the surface\n   c. Transpiration from the grass\n   d. Density of oxygen near the surface produced by the grass",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

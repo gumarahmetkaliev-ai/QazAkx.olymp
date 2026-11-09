@@ -7,7 +7,7 @@
  "tasksFile": "olympiads/math/s/imo/2006/math-tasks.pdf",
  "solutionFile": "olympiads/math/s/imo/2006/math-sol.pdf",
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:39.117Z",
+ "generatedAt": "2026-11-09T19:30:08.116Z",
  "quality": {
   "tasks": 6,
   "parts": 6,
@@ -19,7 +19,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "Let ABC be a triangle with incentre I. A point P in the interior of…",
    "statement": "Let ABC be a triangle with incentre I. A point P in the interior of the\ntriangle satisfies\n                   6 P BA + 6 P CA = 6 P BC + 6 P CB.\n\nShow that AP ≥ AI, and that equality holds if and only if P = I.",
    "total": 7,
    "parts": [
@@ -33,7 +33,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "Let P be a regular 2006-gon. A diagonal of P is called good if its…",
    "statement": "Let P be a regular 2006-gon. A diagonal of P is called good if its endpoints\ndivide the boundary of P into two parts, each composed of an odd number of sides of P .\nThe sides of P are also called good .\n   Suppose P has been dissected into triangles by 2003 diagonals, no two of which have\na common point in the interior of P . Find the maximum number of isosceles triangles\nhaving two good sides that could appear in such a configuration.",
    "total": 7,
    "parts": [
@@ -47,7 +47,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "Determine the least real number M such that the inequality ab(a2 − b2…",
    "statement": "Determine the least real number M such that the inequality\n\n               ab(a2 − b2 ) + bc(b2 − c2 ) + ca(c2 − a2 ) ≤ M (a2 + b2 + c2 )2\n\nholds for all real numbers a, b and c.\n\n                                                        Time allowed: 4 hours 30 minutes\n                                                          Each problem is worth 7 points\n\n                                                                                                 day: 2\n\n                                                              language: English\n\n                                        13 July 2006",
    "total": 7,
    "parts": [
@@ -61,7 +61,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "Determine all pairs (x, y) of integers such that 1 + 2x + 22x+1 = y 2…",
    "statement": "Determine all pairs (x, y) of integers such that\n\n                                    1 + 2x + 22x+1 = y 2 .",
    "total": 7,
    "parts": [
@@ -75,7 +75,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "Let P (x) be a polynomial of degree n > 1 with integer coefficients…",
    "statement": "Let P (x) be a polynomial of degree n > 1 with integer coefficients and let\nk be a positive integer. Consider the polynomial Q(x) = P (P (. . . P (P (x)) . . .)), where P\noccurs k times. Prove that there are at most n integers t such that Q(t) = t.",
    "total": 7,
    "parts": [
@@ -89,7 +89,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "Assign to each side b of a convex polygon P the maximum area of a…",
    "statement": "Assign to each side b of a convex polygon P the maximum area of a triangle\nthat has b as a side and is contained in P . Show that the sum of the areas assigned to\nthe sides of P is at least twice the area of P .\n\n                                                         Time allowed: 4 hours 30 minutes\n                                                           Each problem is worth 7 points",
    "total": 7,
    "parts": [

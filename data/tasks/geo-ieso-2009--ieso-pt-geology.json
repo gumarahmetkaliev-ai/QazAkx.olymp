@@ -1,0 +1,277 @@
+{
+ "setId": "geo-ieso-2009--ieso-pt-geology",
+ "olympiadId": "geo-ieso-2009",
+ "title": "География → IESO (науки о Земле) → 2009",
+ "materialLabel": "Ieso pt geology",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/ieso/2009/ieso-pt-geology.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:25:54.693Z",
+ "quality": {
+  "tasks": 17,
+  "parts": 17,
+  "withPoints": 17,
+  "withReference": 0,
+  "withQuestion": 17,
+  "estimatedPoints": 17
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Please follow the instructors’ instruction when traveling between…",
+   "statement": "Please follow the instructors’ instruction when traveling between stops\n   for your and others safety. The rocks will be slippery and potentially\n   dangerous. Please move with caution. Absolute No Running!\n   Absolute No Reading while Walking!",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "You will be visiting a geological sanctuary. We urge you not to…",
+   "statement": "You will be visiting a geological sanctuary. We urge you not to\n   damage or take away geological material during your field\n   investigations",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "In this practical test, you will be a geologist and a geographer…",
+   "statement": "In this practical test, you will be a geologist and a geographer studying\n   a small area.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "There are six stops (1 to 6).The sequence of visit to the six stops…",
+   "statement": "There are six stops (1 to 6).The sequence of visit to the six stops is not\n   important, as long as all six sites are visited.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "You will have 15 minutes at each site for making your observations.",
+   "statement": "You will have 15 minutes at each site for making your observations.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Please record your observations and answers on your test sheets.",
+   "statement": "Please record your observations and answers on your test sheets.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "No discussion among students.",
+   "statement": "No discussion among students.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Please keep your test sheets carefully. If you lose any of them,…",
+   "statement": "Please keep your test sheets carefully. If you lose any of them, there\n   will be no score will be granted for that section.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "8",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Hard hats are provided at STOPs 4 and 6 because possible injury.…",
+   "statement": "Hard hats are provided at STOPs 4 and 6 because possible injury.\n   Please wear a hard hat at these stops and return it later.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "9",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Please read questions 1 and 2 first. Do not answer them until you…",
+   "statement": "Please read questions 1 and 2 first. Do not answer them until you\n    have visited all six stops. You will need to get a whole picture of\n    this area to understand the geology and structure of the area.\n\n                                   3 / 13\n\n                              3rd IESO Practical Test",
+   "total": 7,
+   "parts": [
+    {
+     "id": "10",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "At STOP4, you see a fallen rock. Identify what direction was “up” at…",
+   "statement": "At STOP4, you see a fallen rock. Identify what direction was “up” at the time of\n    formation of the rock. (2 pts)\n    Answer:",
+   "total": 7,
+   "parts": [
+    {
+     "id": "11",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Please identify the type of fallen rock at this location. (1 pt) (A)…",
+   "statement": "Please identify the type of fallen rock at this location. (1 pt)\n    (A) granite           (B) limestone         (C) pillow lava\n    (D) sandstone         (E) shale\n    Answer:\n\n                                           9 / 13\n\n                               3rd IESO Practical Test\n\n                                     STOP 5",
+   "total": 7,
+   "parts": [
+    {
+     "id": "12",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 13,
+   "title": "What is the sedimentary structure within the red frame at STOP 5? (1…",
+   "statement": "What is the sedimentary structure within the red frame at STOP 5? (1 pt)\n    (A) ripple mark           (B) fold                  (C) slump structure\n    (D) load structure        (E) flame structure\n    Answer:",
+   "total": 7,
+   "parts": [
+    {
+     "id": "13",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Based on the sedimentary structure you identified in the previous…",
+   "statement": "Based on the sedimentary structure you identified in the previous question, what is\n    the most likely flow direction of water during formation? (2 pts)\n    Answer:",
+   "total": 7,
+   "parts": [
+    {
+     "id": "14",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 15,
+   "title": "There are five surfaces in this outcrop labeled c to g. Please…",
+   "statement": "There are five surfaces in this outcrop labeled c to g. Please identify each\n    surface and circle the correct options below. (2.5 pts)\n\n       Surface       bedding plane      fault plane      joint plane      fold axial plane\n       number\n\n          c          bedding plane      fault plane      joint plane      fold axial plane\n          d          bedding plane      fault plane      joint plane      fold axial plane\n          e          bedding plane      fault plane      joint plane      fold axial plane\n          f          bedding plane      fault plane      joint plane      fold axial plane\n          g          bedding plane      fault plane      joint plane      fold axial plane\n\n                                        10 / 13\n\n                                3rd IESO Practical Test\n\n                                     STOP 6\n      This stretch of coast is characterized by sea cliff, sea notch, wave abrasion\nplatform (also known as shore platform) and some micro landforms. The figure below\n(not to scale) shows a cross section from the ridge of the headland to the sea though it\nis not quite completed yet. Its location is indicated by the arrows on the ground.\nBetween the cliff toe and sea water, five segments can be readily identified (noted as\nsegments a-e).\n      Please walk along the cross section before answering the following questions.\nBe cautious on wet and slippery ground.\n\n                                                                                SL\n\n                       e               d             c           b          a\n\n                                       Figure",
+   "total": 7,
+   "parts": [
+    {
+     "id": "15",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 16,
+   "title": "Sketch the segments b and e to complete the cross section. (2 pts)…",
+   "statement": "Sketch the segments b and e to complete the cross section. (2 pts)\n\nPlease make use of observations within thirty meters on either side of the section line.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "16",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 17,
+   "title": "What major processes contributed to the landform development here?…",
+   "statement": "What major processes contributed to the landform development here? Check off\n    or tick the four correct answers in the following list. (2 pts)\n\n    □ uplift                                   □ subsidence\n    □ frost action                             □ wave erosion\n    □ salt weathering                          □ slope failure\n    □ fluvial erosion\n\n                                           11 / 13\n\n                       3rd IESO Practical Test\n\n        Caption for the map on the last page\n\n                  This is not a question!\n\nTopographic map of the Bitou Cape region in Taipei County, northeast\nTaiwan. The latitudinal-longitudinal coordinates on the map are in the\nTaiwan Grid position format (TM2) coordinate system.\n\n                               12 / 13\n\n                        3rd IESO Practical Test\n                                Map\n          342000   342300                   342600\n\n2780300\n\n2780000\n\n2779700\n\n2779400\n\n279100\n\n          342000   342300                   342600\n\n                                13 / 13\n\n                   342900   342200\n\n                                     2780300\n\n                                     2780000\n\n                                     2779700\n              0\n\n         0         V\n             IV\n\n                                     2779400\n0        0\n\n    II       III\n0\n\n    I\n\n                                     279100\n                   342900   342200",
+   "total": 7,
+   "parts": [
+    {
+     "id": "17",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

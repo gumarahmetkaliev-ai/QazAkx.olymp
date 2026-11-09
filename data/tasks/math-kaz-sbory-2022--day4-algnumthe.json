@@ -1,0 +1,82 @@
+{
+ "setId": "math-kaz-sbory-2022--day4-algnumthe",
+ "olympiadId": "math-kaz-sbory-2022",
+ "title": "Математика → Сборы сборной РК → 2022",
+ "materialLabel": "Day4 algnumthe",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/kaz_sbory/2022/day4-AlgNumThe.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:29:55.290Z",
+ "quality": {
+  "tasks": 4,
+  "parts": 4,
+  "withPoints": 4,
+  "withReference": 0,
+  "withQuestion": 4,
+  "estimatedPoints": 4
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Найдите все функции f : N ∪ {0} → R, которые при всех n, k ∈ N ∪ {0}…",
+   "statement": "Найдите все функции f : N ∪ {0} → R, которые при всех n, k ∈ N ∪ {0} (k ⩾ n)\nудовлетворяют равенству\n                           2f (n)f (n + k) − 2f (k − n) = 3f (n)f (k),\n   и существует неотрицательное целое число t такое, что f (t) = 1.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Найдите все функции f : N ∪ {0} → R, которые при всех n ∈ N ∪ {0}…",
+   "statement": "Найдите все функции f : N ∪ {0} → R, которые при всех n ∈ N ∪ {0} удовлетворяют\nравенству\n                             f (n + 1) − 2f (n) + f (n − 1) = n + 1,\n   и f (1) = 1, f (2) = 0.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Найдите все функции f, g : R → R, которые удовлетворяют неравенству…",
+   "statement": "Найдите все функции f, g : R → R, которые удовлетворяют неравенству\n\n                                |f (y) − f (x) − g(x)(y − x)| ⩽ 117|y − x|117 .",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Пусть pi , i−тое простое число. Пусть n ln p −1 √ √ √ √ = an , 1 p1 ·…",
+   "statement": "Пусть pi , i−тое простое число. Пусть\n                                                            n\n                                ln p −1\n                                     √             √            √                √ = an ,\n                                   1      p1 ·   p −1\n                                                  2     p2 · p3 −1 p3 · ... · pk −1 pk\n   где pk ⩽ n < pk+1 . Оказалось, что начиная с некоторого l верно следующие неравенство\n\n                                                 tat > a1 + a2 + ... + at\nгде t ⩾ l. Тогда докажите, что верно\n\n                                           lnp1 + lnp2 + ... + lnpk < n\n   начиная с l.\n\n                                                        Разнобой",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

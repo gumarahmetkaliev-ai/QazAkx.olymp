@@ -1,0 +1,509 @@
+{
+ "setId": "chem-icho-1999-and-older--icho-21-25",
+ "olympiadId": "chem-icho-1999-and-older",
+ "title": "Химия → IChO (международная) → 1999-and-older → 6-10 класс",
+ "materialLabel": "Icho 21 25",
+ "lang": "ru",
+ "tasksFile": "olympiads/chemistry/s/icho/1999-and-older/icho-21-25.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T19:24:50.301Z",
+ "quality": {
+  "tasks": 9,
+  "parts": 58,
+  "withPoints": 58,
+  "withReference": 0,
+  "withQuestion": 58,
+  "estimatedPoints": 58
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "(Practical)",
+   "weight": null,
+   "total": 9,
+   "statement": "PHOSPHORIC ACID\n      The elemental phosphorus is present in the nature as phosphate in a complex\nmineral apatite. This mineral contains, in addition to phosphate, silica and the following\n          2+                                  –\nions: Ca , CO32- , SO2-     2-\n                     4 , SiO3 , and F .\n\n      Let us assume that this mineral is a mixture of tricalcium phosphate, Ca3(PO4)2,\ncalcium sulphate, calcium fluoride, calcium carbonate and silica.\n      For uses as fertilizer the calcium bis(dihydrogenphosphate), Ca(H2PO4)2, which is\nsoluble in water, has been prepared. For this purpose, apatite is treated with a mixture of\nphosphoric and sulphuric acid. At the same time this operation eliminates the majority of\nimpurities.\n      The elemental analysis of an apatite gave the following results in which, except of\nfluorine, the elemental composition is expressed as if the elements were in the form of\noxides:\n\n                                 CaO         P 2O 5    SiO2       F        SO3   CO2\n\n               % by mass         47.3        28.4       3.4       3.4      3.5   6.1\n\n      Operation 1 - A sample of m0 of this mineral is treated with 50.0 cm3 of a solution\n                            -3                                    -3\ncontaining 0.500 mol dm phosphoric and 0.100 mol dm sulphuric acids. The mixture is\ncompletely dehydrated by heating up to about 70 °C avoiding temperature rising above\n90 °C. This operation is carried out under the hood since toxic gaseous substances are\nemitted. The dry residue is ground and weighed; m1 is the mass of the residue obtained.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2          431\n\n                                  ND\n\nIn these conditions only dihydrogenphosphate, Ca(H2PO4)2, is formed while silica and\nsilicate do not react.\n\n                                                                         3\n      Operation 2 - 1.00 g of this residue is treated with 50.0 cm of water at 40 °C, then\nfiltered, dried and weighed. The mass of the residue obtained is m2. This new residue is\nmainly containing gypsum, CaSO4 ⋅2 H2O, whose solubility can be considered as constant\n                                                           -3\nbetween 20 °C and 50 °C and is equal to 2.3 g dm                .\n1.1 Write the balanced equations for the reactions that are involved.\n1.2 From what mass of apatite should one start if all the reactions are stoichiometric?\n\n      Starting with m0 of obtained apatite, m1 = 5.49 g of residue are obtained.\n1.3 What mass should theoretically be obtained?\n1.4 This result is due to the presence of products that are not expected to be found in\n      the residue. Give two of them that under these experimental conditions can plausibly\n      account for the data.\n\n      Traditionally, in industry the analysis and the yield are expressed as percentage of\noxide. The phosphorous content is expressed as if it were P2O5.\n      If n2 is the amount of a soluble product obtained, n1 the amount of a substance\nadded as acid, n0 the amount of apatite added, the yield is:\n                  n 2 100\n      r exp =\n                n1 + n 0\n      m2 = 0.144 g of residue is obtained on the filter.\n1.5 Calculate rexp.\n1.6 The experimental yield is over 100 %. Calculate a value of r nearer to the real yield.\n\nRelative atomic masses of P: 31; Ca: 40; O: 16; H: 1; F: 19; C: 12; Si: 28;\n                              S: 32.\n                    HSO-4    HF                H3PO4        H2PO-4      HPO2-\nValues of pK:          2-\n                          =2    =3                    =2           =7        4\n                                                                               = 12\n                    SO 4     F-                H2PO-4       HPO2-\n                                                                4\n                                                                           3-\n                                                                         PO4\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2             432\n\n                                 ND\n\nSOLUTION\n1.1 Ca3(PO4)2 + 4 H3PO4 → Ca(H2PO4)2 + 2 HF\n      CaCO3 + 2 H3PO4 → Ca(H2PO4)2 + CO2↑ + H2O\n      Ca3(PO4)2 + 2 H2SO4 + 4 H2O → 2 CaSO4 + 2 H2O + Ca(H2PO4)2\n      CaF2 + H2SO4 + 2 H2O → CaSO4 ⋅ 2 H2O + 2 HF↑\n      CaCO3 + H2SO4 + H2O → CaSO4 ⋅ 2 H2O + CO2↑\n                                 0.284          -3\n1.2 1 g of apatite contains            = 2.00×10 mol of Ca3(PO4)2\n                                  142\n      0.034           -3\n             = 0.89×10 mol of CaF2\n      2 + 19\n      0.061          -3\n            = 1.39×10 mol of CaCO3\n       44\n      0.035          -3\n            = 0.44×10 mol of CaSO4\n        80\n      0.473 3 × 0.284 0.034 0.061 0.035\n           −         −     −     −\n                                                 -4\n                                        = 2.72×10 mol CaO that remain.\n        56     142     38    44    80\n      The amount of H3PO4 needed to react with 1 g of apatite is equal to n(H3PO4) =\n                                                                       -3\n      4 n(Ca3(PO4)2 + 2 n(CaF2) + 2 n(CaCO3) = 12.56×10 mol.\n             3                                     -3\n      50 cm of the acid contains 25×10                  mol of H3PO4, therefore 25 / 12.56 = 1.99 g\n      apatite is needed to neutralize the H3PO4 present.\n      The amount of H2SO4 needed to react with 1 g of apatite can be calculated in the\n      same way:\n                                                                                 -3             3\n      n(H2SO4) = 2 n(Ca3(PO4)2) + n(CaF2) + n(CaCO3) = 6.28×10                        mol. 50 cm of the\n                              -3\n      acid contains 5.00×10 mol of sulphuric acid. Therefore 5 / 6.28 = 0.80 g of apatite is\n      needed to neutralize the H2SO4.\n      The total amount of apatite is m0 = 1.99 + 0.80 = 2.79 g\n\n1.3 Formation of Ca(H2PO4)2:\n      1.99 g of apatite needed to neutralize the H3PO4 contains 1.9 × 2.00×10\n                                                                                               -3\n                                                                                                    mol of\n      Ca3(PO4)2, thus 3 × 2 × 2×10\n                                            -3              -2\n                                                 = 1.2×10        mol of dihydrogen phosphate is being\n      formed.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                         433\n\n                                    ND\n\n      From CaF2, 1.99 × 0.89 = 1.80 mol and from CaCO3, 1.99 × 1.39 = 2.77 mol of\n      Ca(H2PO4)2 are formed.\n      0.8 g of apatite that reacts with 50 cm of the sulphuric acid yields 2 × 0.8×10\n                                                        3                                -3\n                                                                                              =\n             -3\n      1.6×10 mol of Ca(H2PO4)2.\n                                          -3\n      m(Ca(H2PO4)2 = 18.07×10 mol = 4.230 g\n\n                                                                       -3\n      Formation of gypsum: n(CaSO4) = n(H2SO4) = 5.00×10 mol ≙ 0.86 g\n\n      The amount of CaSO4 that was already present in 1 g of apatite and yielded gypsum\n                         × 172 = 0.075 g. There remain also 0.034 g of silica, and thus the\n                    -3\n      is 0.434×10\n      theoretical mass of the residue should be:\n      mth = 4.230 + 0.86 + (0.0753 + 0.034) × 2.79 = 5.39 g\n\n1.4 The difference of 0.1 g may be due to water and unreacted CaF2 in the residue.\n\n1.5 The second reaction is intended to dissolve Ca(H2PO4)2, while all the other products\n      remain on the filter.\n      According to the yielded residue of 0.144 g, 1 g of residue contains 1 – 0.144 =\n      = 0.856 g of soluble product. If it were all Ca(H2PO4)2 it would correspond to\n                                    -3                                            -3\n      0.856 / 234 = 3.66×10 mol. For 5.49 g of residue it is 0.0201×10 mol of soluble\n      product (n2). The amount of acid used is 0.500 / 20 = 0.025 mol H3PO4 (equals\n      0.0125 mol P2O5) and 0.005 mol H2SO4. The amount of Ca3(PO4)2 in 2.79 g apatite\n      is 0.00558 mol (equals 0.00558 mol P2O5). So, rexp = 100 × [0.0201/(0.0125 +\n      0.00558)] = 111 %\n                     3\n      Since 50 cm water dissolve 0.115 g of gypsum, the real quantity of Ca(H2PO4)2 is\n      0.856 – 0.115 = 0.741 mol, so that the real yield gives: rexp = 100 × [0.0174/(0.0125 +\n      0.00558)] = 96 %.\n\n1.6 The theoretical value for rexp is: rexp = 100 × [4.23/234 / (0.0125 + 0.00558)] = 100 %,\n      so this calculation makes sense.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2            434\n\n                                          ND",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 1.5,
+     "question": "Write the balanced equations for the reactions that are involved.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.2",
+     "points": 1.5,
+     "question": "From what mass of apatite should one start if all the reactions are stoichiometric? Starting with m0 of obtained apatite, m1 = 5.49 g of residue are obtained.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.3",
+     "points": 1.5,
+     "question": "What mass should theoretically be obtained?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.4",
+     "points": 1.5,
+     "question": "This result is due to the presence of products that are not expected to be found in the residue. Give two of them that under these experimental conditions can plausibly account for the data. Traditionally, in industry the analysis and the yield are expressed as percentage of",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.5",
+     "points": 1.5,
+     "question": "Calculate rexp.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.6",
+     "points": 1.5,
+     "question": "The experimental yield is over 100 %. Calculate a value of r nearer to the real yield.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "(Practical)",
+   "weight": null,
+   "total": 9,
+   "statement": "2+\nDetermination of the formation (stability) constants of the complex ions [Cu(NH3)4]            and\n             2+\n[Zn(NH3)4]\n\nTwo dry beakers with copper and zinc electrodes,\nthree bottles with aqueous solutions of CuSO4, ZnSO4 and NH3, respectively,\none beaker with strips of filter paper for making a salt bridge,\none beaker with an aqueous solution of KNO3,\nthree pipettes for delivering CuSO4, ZnSO4 and NH3 solutions,\ndigital voltmeter for the EMF measurements,\nred and blue leads (conductors) for connecting cell electrodes to the digital voltmeter,\nrubber pipette filler,\nappropriately marked glass stirring rods.\n\na)    Procedure for setting up the Daniell cell:\n                                                                                3\n1.    Into the dry beakers containing Cu and Zn electrodes deliver 20 cm of CuSO4 and\n                  3                                                             2+               2+\n      20 cm of ZnSO4 using marked pipettes in order to get Cu/Cu                     and Zn/Zn\n      half-cells.\n2.    Wet the filter paper strip with KNO3 solution. The strip should only be moisten with\n      the solution. Then place the strip ends into the CuSO4 and ZnSO4 solutions.\n3.    Connect the leads to the electrodes (red to Cu electrode and blue to Zn electrode).\n      a)\n\n                                                            voltameter\n\n                                                            KNO3\n                                                            bridge\n\n                                                   Fig. 1\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                  490\n\n                                   RD\n\nb)    Procedure for the EMF measurement of the Daniell cell (EA):\n      Put the appropriately marked glass rods (red - Cu, blue - Zn) into the CuSO4 and\nZnSO4 solutions. Having stirred the solutions gently with the rods, the rods should be left\nin the solutions throughout the course of the experiment. Start the EMF measurement of\nthe cell by connecting the red lead to the voltmeter terminal (HI) and the blue one to the\nnegative terminal (LO). If the EMF value changes by no more than 0.001 V, record the\nEMF (EA).\n\nc)    Procedure for the EMF measurement of the cell (EB) after the addition of the\n                                                              2+\n      complexing agent (NH3 solution) into the Cu/Cu               half-cell:\n\n                                                 Fig. 2\n                      3\n      Pipette 20 cm of aqueous NH3 solution into the CuSO4 solution. Stir the solution\nwith a glass rod gently until it becomes a clear dark blue. Leave the rod in the solution.\nMeasure and record the new EMF (EB), in the way described in part b).\n\n                                                                      elektrolyte bridge\n\n                                                  Fig. 3\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2              491\n\n                                  RD\n\nd)     Procedure for the EMF measurement of the cell (EC) after the addition of the\n                                                                     2+\n       complexing agent (NH3 solution) to the Zn/Zn                       half-cell:\n\n                                       2+                                                   3\n       Leave the Cu/[Cu(NH3)4]              half-cell unchanged. Add 20 cm of NH3 solution to the\nZnSO4 half-cell. Carry out the EMF measurement of the cell in the way described in part\nb). Write down the result (EC).\n\nTheoretical considerations:\n                               -1           -1\nGas constant R = 8.314 J K mol\n                                                 -1\nFaraday constant F = 96 487 C mol\n\ni)     The concentrations of CuSO4, ZnSO4 and NH3 aqueous solutions written on the\n                                                      -1\n       bottles are expressed in mol kg . Therefore they must be converted into appropriate\n                                                            -3\n       concentrations expressed in mol dm . The densities (d) of the solutions as functions\n       of temperature are respectively:\n       CuSO4:     d1 = 1.0923 (kg dm ) – 0.0002700 (kg dm K ) T\n       ZnSO4:     d2 = 1.0993 (kg dm ) – 0.0002900 (kg dm K ) T\n       NH3 :      d3 = 1.0740 (kg dm ) – 0.0002800 (kg dm K ) T\nii)    In order to convert concentrations (ci) into ionic activities (ai), we need to calculate\n       activities of the ions using the equation ai = fi*ci . The activity coefficient values, fi, of\n       the ions involved are given in the answer sheet. The activity coefficient of ammonia\n       should be assumed to be 1.\niii)   To simplify the calculations it should be assumed that after the addition of the excess\n                                                           2+      2+             2+            2+\n       of complexing agent (NH3) only Cu                     aq, Zn aq, [Cu(NH3)4] , [Zn(NH3)4]    ions exist in\n       the respective solutions.\niv)    Any diffusion potential occurring between both half-cells when the salt bridge is\n       applied may be neglected in practice.\n\n                                                                            2+             2+\n2.1 Calculate the values of the concentrations of Cu                             and Zn         ions in the Daniell cell\n       before the introduction of the complexing agent (NH3).\n                                                            o\n2.2 Calculate the standard EMF value E of your Daniell cell using the Nernst equation.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                                       492\n\n                                           RD\n                                THE 23          INTERNATIONAL CHEMISTRY OLYMPIAD, 1991\n\n                                                                        2+\n2.3 Calculate the concentrations of [Cu(NH3)4]                               and NH3 in the B type cell, i.e. after the\n                                                      2+\n      addition of NH3 to the Cu/Cu                         half-cell.\n2.4 Determine the values of the thermodynamic formation (stability) constants KB and ln\n                                      2+\n      KB for the [Cu(NH3)4] ions.\n                                                                        2+\n2.5 Calculate the concentrations of [Zn(NH3)4]                               and NH3 in the type C cell, i. e. after the\n                                                      2+\n      addition of NH3 to the Zn/Zn                         half-cell.\n2.6 Determine the values of the thermodynamic formation (stability) constant KC and ln\n                                2+\n      KC for [Zn(NH3)4] ions.\n\nSOLUTION\n                                                                                                                      3\n2.1 The mass of the solutions (kg) can be transformed to volumes of the solutions (dm )\n                                                                                                              -3\n      using the given densities. The concentrations are then given in units mol dm .\n                            RT                                            RT                       \n2.2   E =  E 0 (Cu2+ /Cu) +    ln([Cu2+ ] × fCu 2+ )  −  E 0 (Zn2+ /Zn) +    ln([Zn2+ ] × fZn2 + )  − Edif\n                            2F                                            2F                       \n      For Edif = 0 :\n\n                                      RT [Cu ] × fCu 2 +\n                                               2+\n\n      E A = E (Cu /Cu) − E (Zn /Zn) +\n                  0        2+          0\n                                         ln      2+\n\n                                      2F    [Zn2+ ] × fZn2 +\n\n      EA can be measured. All other data required are given in the text of the problem or in\n      the answer sheet.\n\n2.3 Concentrations after the addition of NH3:\n                    c (Cu2+ ) × V\n                     2+\n      [ Cu(NH ) ] =\n                       V + V1\n                   3 4\n\n                      (c (NH3 ) × V 1 ) − (4 c (Cu2+ ) × V )\n      [NH3] =\n                                    V + V1\n\n2.4 After the addition of NH3 the following complex equilibrium is established:\n           2+\n      Cu        + 4 NH3              Cu(NH3 )2+\n                                             4\n\n                         4 ] × fCu(NH )2+\n                [Cu(NH3 )2+\n      β4 =                                 3 4\n\n                [Cu ] × fCu2+ × [NH3 ]4\n                      2+\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                                      493\n\n                                 RD\n\n      Then the Nernst equation has the form:\n\n                       RT [Cu(NH3 )4 ] × fCu(NH3 )2+4\n                                    2+\n\n      E = E (Cu /Cu) =\n        '      0   2+\n                          ln\n        1\n                       2F      β 4 × [NH3 ]4\n\n                                                 RT      [Cu(NH3 )2+   4 ] × fCu(NH3 )2+\n      EB = E '1 − E2 = E (Cu /Cu) − E (Zn /Zn) +\n                         0    2+             0   2+\n                                                    ln                                4\n\n                                                 2F    [Zn2+ ] × fZn2 + × β 4 × [NH3 ]4\n\n      From the above equation β4 or lnβ4 can be calculated since EB can be measured,\n      and all other data required are given in the text of the problem or in the answer\n      sheet.\n\n2.5 and 2.6\n      The procedure in the calculation of β4 or lnβ4 for complex Zn(NH3 )2+\n                                                                         4 is analogical\n\n      as that shown in parts (2.3) and (2.4) for complex Cu(NH3 )2+\n                                                                 4 .\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2              494\n\n th\n24\n\n     9 theoretical problems\n         1 practical problem\n\n                                 TH\n\nTHE TWENTY-\n    TWENTY-FOURTH\nINTERNATIONAL\n11--\n11--22\n  --   July 1992, PITTSBURGH, UNITED STATES OF AMERICA",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 1.5,
+     "question": "Into the dry beakers containing Cu and Zn electrodes deliver 20 cm of CuSO4 and 3 2+ 2+ 20 cm of ZnSO4 using marked pipettes in order to get Cu/Cu and Zn/Zn half-cells.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.2",
+     "points": 1.5,
+     "question": "Wet the filter paper strip with KNO3 solution. The strip should only be moisten with the solution. Then place the strip ends into the CuSO4 and ZnSO4 solutions.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.3",
+     "points": 1.5,
+     "question": "Connect the leads to the electrodes (red to Cu electrode and blue to Zn electrode). a) voltameter KNO3 bridge Fig. 1",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.4",
+     "points": 1.5,
+     "question": "Determine the values of the thermodynamic formation (stability) constants KB and ln 2+ KB for the [Cu(NH3)4] ions. 2+",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.5",
+     "points": 1.5,
+     "question": "Calculate the concentrations of [Zn(NH3)4] and NH3 in the type C cell, i. e. after the 2+ addition of NH3 to the Zn/Zn half-cell.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.6",
+     "points": 1.5,
+     "question": "Determine the values of the thermodynamic formation (stability) constant KC and ln 2+ KC for [Zn(NH3)4] ions.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "(Practical)",
+   "weight": null,
+   "total": 10,
+   "statement": "The interest of this problem lies in its relevance to the risk of poisoning by carbon\nmonoxide owing to faulty or ill-adjusted heating systems. Cases of poisoning due to this\ncause are rather common. The student may be aware that the acceptable concentration of\nCO in air is ≤ 5 ppm and the maximum tolerable level is 50 ppm.\n      The following reactions occur in methane burner:\n      CH4(g) + 2 O2(g) → CO2(g) + 2 H2O(g)                           (I)\n      CH4(g) + 3/2 O2(g) → CO(g) + 2 H2O(g)                          (II)\n\n             Compound          CH4              O2        CO2       CO        H2 O\n\n                ∆H f\n                   0\n\n                     -1\n             (kJ mol )         –74.9             0      –393.5    –110.5    –241.8\n                   0\n                  S\n                 -1  -1\n             (J K mol )        186.2           205.0     213.6     197.6     188.7\n\n3.1   Calculate the equilibrium constants for both reactions at T = 1500 K assuming that\n      the values ∆H and ∆S are independent of the temperature.\n                       o            o\n\n3.2   Find the relationship between the mole numbers of oxygen and carbon monoxide at\n      equilibrium (T = 1500 K, p = 1 atm) when air is admitted into the burner in such\n      amount that the mole ratio CH4 : O2 is 1 : 2.\n      Assume the following volume composition of air: 80 % N2 and 20 % O2.\n      Make the approximation that n(CH4) ≅ 0 at equilibrium and justify it on the bases of\n      the answers to the question 3.1.\n3.3   Calculate the equilibrium mole fraction x of CO in the conditions given in the question\n      3.2. Assume that the mole fraction of CO is very small in comparison with that of\n      CO2 and consequently, the total number of moles does not appreciably vary during\n      the combustion. Justify this assumption.\n\n THE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2           531\n\n                                  TH\n\n3.4 Repeat the calculations of items 3.2 and 3.3 assuming that twice the amount of air\n      (compared to the conditions in question 3.2) is admitted into the burner (4 mol O2 : 1\n      mol CH4).\n3.5 Calculate the concentrations of CO (expressed as ppm by volume) in the fumes after\n      condensation of water vapour under the conditions of question 3.2 and 3.4,\n      assuming that the composition does not change appreciably during the cooling from\n      1500 K to room temperature and neglecting the contribution of water vapour to the\n      composition of the gas phase.\n\nSOLUTION\n      The interest of this problem lies in its relevance to the risk of poisoning by carbon\nmonoxide owing to faulty or ill-adjusted heating systems. Cases of poisoning due to this\ncause are rather common. The problem involves the calculation of equilibrium constants,\nconsideration of simultaneous equilibria and simple stoichiometric calculations.\n3.1 ∆IH = 74.9 – 393.5 – (2 × 241.8) = – 802.2 kJ mol\n          0                                                       -1\n\n      ∆IS = –186.2 – (2 × 205.0) + 213.6 + (2 × 188.7) = – 5.2 J K mol\n         0                                                                    -1        -1\n\n                   ∆IH 0 − T ∆IS 0       802.2 − 1.5 × 5.2\n      KI = exp −                   = exp                   = 4.62 ×1027\n                        RT                 8.314 × 1.5\n\n      ∆IIH = 74.9 – 110.5 – (2 × 241.8) = – 519.2 kJ mol\n          0                                                        -1\n\n      ∆IIS = – 186.2 – (1.5 × 205.0) + 197.6 + (2 × 188.7) = 81.3 J K mol\n          0                                                                        -1        -1\n\n                  519.2 − 1.5 × 81.3\n      KII = exp                      = 2.13×1022\n                     8.314 × 1.5\n\n3.2 Since KI and KII are very large, both equilibria are completely shifted to the right so\n      that nCH4 = 0.\n\n      At equilibrium: nCH4 = 0; n H2O = 2; n N2 = 8;        nCO2 + nCO = 1;\n\n      nO2 = 2 − (2 nCO2 + 1.5 nCO ) = 0.5 nCO\n\n3.3 In reaction I the total number of moles does not vary; in reaction II it changes from\n      8.5 to 9 (taking into account the presence of N2), but this change affects the total\n      number of moles only negligibly since KII << KI.\n\n THE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                    532\n\n                                            TH\n\n      Before reaction: ntot = nCH4 + nO2 + nN2 = 1 + 2 + 8 = 11\n      KII pCO pO2    xCO ( xO2 p )1/2\n         =         =\n      KI   pCO2           xCO2\n\n                  nCO2        1 − nCO    1\n      xCO2 =              =           =    since nCO << nCO2 as a consequence of KII << KI\n                  ntot          ntot    11\n\n                 K (2 / p)\n                                         2.13 ×1022 × 1.414\n      x   3/2\n                = II                 =                      = 5.93 ×10 −7\n                                           4.62 ×1027 × 11\n          CO\n                 KI   11\n\n      xCO = 7.06 ⋅10\n                              -5\n\n3.4   ntot = nCH4 + nO2 + nN2 = 1 + 4 + 16 = 21\n\n      At equilibrium: nO2 = 4 − (2 nCO2 + 1.5 nCO ) = 2 + 0.5 nCO = 2\n\n      nCO2 = 1 − nCO\n      KII xCO ( xO2 p )\n         =                 = xCO (2 / 21)1/2 × 21 = (42)1/2 xCO\n      KI       xCO2\n\n                   −1/2   KII     −1/2 2.13 ×1022\n      xCO = 42                = 42 ×              = 7.11×10 −7\n                          KI           4.62×10 27\n\n3.5 As a consequence of the condensation of water vapour, the number of moles in the\n      gaseous phase changes from 11 to 9 in case c), and from 21 to 19 in case d).\n      Therefore the mole fraction of CO changes to:\n                                     11\n      xCO = 7.06 ×10−5 ×                = 8.63 ×10−5 and to:\n                                     9\n                                     21\n      xCO = 7.11×10−7 ×                 = 7.86 ×10−7 in case 3.4\n                                     19\n      These values correspond to 86 and 0.8 ppm, respectively.\n\n THE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2               533\n\n                                  TH",
+   "parts": [
+    {
+     "id": "3.1",
+     "points": 2,
+     "question": "Calculate the equilibrium constants for both reactions at T = 1500 K assuming that the values ∆H and ∆S are independent of the temperature. o o",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.2",
+     "points": 2,
+     "question": "Find the relationship between the mole numbers of oxygen and carbon monoxide at equilibrium (T = 1500 K, p = 1 atm) when air is admitted into the burner in such amount that the mole ratio CH4 : O2 is 1 : 2. Assume the following volume composition of air: 80 % N2 and 20 % O2. Make the approximation that n(CH4) ≅ 0 at equilibrium and justify it on the bases of the answers to the question 3.1.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.3",
+     "points": 2,
+     "question": "Calculate the equilibrium mole fraction x of CO in the conditions given in the question 3.2. Assume that the mole fraction of CO is very small in comparison with that of CO2 and consequently, the total number of moles does not appreciably vary during the combustion. Justify this assumption.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.4",
+     "points": 2,
+     "question": "Repeat the calculations of items 3.2 and 3.3 assuming that twice the amount of air (compared to the conditions in question 3.2) is admitted into the burner (4 mol O2 : 1 mol CH4).",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.5",
+     "points": 2,
+     "question": "Calculate the concentrations of CO (expressed as ppm by volume) in the fumes after condensation of water vapour under the conditions of question 3.2 and 3.4, assuming that the composition does not change appreciably during the cooling from 1500 K to room temperature and neglecting the contribution of water vapour to the composition of the gas phase.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача №4",
+   "weight": null,
+   "total": 9,
+   "statement": "32\n           P labelled phosphorus pentachloride (half-life t1/2 = 14.3 days) is used to study the\n                                   +\nelectrophilic attack of a PCl4 cation on nitrogen or on oxygen.\n\n      The reaction is carried out in CCl4 and the solvent and product IV distilled off.\nSamples of III (remaining in the distillation flask), of IV (in the distillate) and samples of the\nstarting material II are hydrolyzed by heating with a strong sodium hydroxide solution. The\nphosphate ions formed are precipitated as ammonium magnesium phosphate. Purified\nsamples of the three precipitates are then dissolved by known volumes of water and the\nradioactivity measured.\n4.1 Write the balanced equations for the reaction of red phosphorus forming PCl5\n4.2 Write the reaction equations for complete hydrolysis of the compounds II and III\n      using sodium hydroxide.\n4.3 How long does it take in order to lower the initial radioactivity to 10-3 of the initial\n      value?\n4.4 Write two alternative mechanisms for the reaction of labelled PCl−4 with the anion of\n\n      I.\n4.5 After hydrolysis the precipitated ammonium magnesium phosphates show the\n      following values for radioactivity:\n      II. 2380 Bq for 128 mg of Mg(NH4)PO4\n      III. 28 Bq for 153 mg of Mg(NH4)PO4\n      IV. 2627 Bq for 142 mg of Mg(NH4)PO4\n      Using these data, what can you say about the nucleophilic centre attacked by PCl−4 ?\n\n      Data:         For H3PO4:           pK1 = 2.2;     pK2 = 7.2;   pK3 = 12.4\n      Solubility product of Mg(NH4)PO4:               pKs = 12.6\n      Equilibrium concentration of NH+4 = 0.1 mol dm\n                                                               -3\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                417\n\n                                                ST\n                                     THE 21          INTERNATIONAL CHEMISTRY OLYMPIAD, 1989\n\n4.6 Calculate the solubility for Mg(NH4)PO4 at pH equal to 10 under idealized conditions\n        (activity coefficients can be neglected).\n\nSOLUTION\n           P + 5 Cl2 → 2 PCl5\n         32                            32\n4.1 2\n\n        PCl5 + 2 OH → POCl3 + 2 Cl + H2O\n                         –                                   –\n4.2\n        POCl3 + 6 OH → PO3-4 + 3 Cl + 3 H2O\n                             –                               –\n\n        PCl5 + 8 OH → PO3-4 + 5 Cl + 4 H2O\n                         –                               –\n\n        Cl3PNPOCl2 + 11 OH → 2 PO3-4 + NH3 + 5 Cl + 4 H2O\n                                            –                                –\n\n4.3 A = A0 e-λ t             t1/2: A = 0.5 A0 ⇒ λ = ln 2 / t1/2 A = 10 A0\n                                                                                     -3\n\n               ln A ln A0             ln103\n         t =                     =           d = 142.5 d\n                   λ                    ln 2\n                                       14.3\n\n4.4\n\n              O                      Cl                                     O             Cl\n\n   Cl          P       N             P           Cl                   Cl    P    N        P    Cl   +   32POCl\n                                                                                                              3\n\n                                         (-)                                              Cl\n              Cl                     O                                      Cl\n\n                    Cl                    Cl\n                              P\n                             (+)\n                   Cl                     Cl\n                                                                 1st mechanism\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                                418\n\n                                              ST\n\n        O                        O                                   O              Cl\n\n                     (-)                                                           32\nCl      P             N          P        Cl                  Cl     P     N            P   Cl       +       POCl3\n\n       Cl                    Cl                                     Cl              Cl\n\n            Cl               Cl\n                      P\n                     (+)\n        Cl                  Cl\n\n                                                          2nd mechanism\n\n4.5 Specific activities                   Asp(II) = 18.6 Bq/mg,\n                                          Asp(III) = 0.18 Bq/mg,\n                                          Asp(IV) = 18.5 Bq/mg.\n      Because of Asp(II) ≈ Asp(IV) the first mechanism, proposed in d), is probable and\n                                      +\n      therefore it is PCl4 that attacks the O-atom.\n\n4.6 Given data: Ksp = [Mg2+][ NH+4 ][ PO3-4 ] = 10-12.6; [ NH+4 ] = 0.1;                     pH = 10; pK1 = 2.2;\n\n      pK2 = 7.2; pK3 = 12.4.\n      Exact solution:\n             2+                                +                                                 -\n      2 [Mg ] + [ NH+4 ] + [H3O ] = [ H2PO-4 ] + 2 [ HPO2-          3-\n                                                        4 ] + 3 [ PO 4 ] + [OH ]\n\n                           [PO3-    +\n                              4 ] [H ]\n          4 ] =\n      [HPO2-\n                              K3\n\n                [HPO2-    +\n                    4 ] [H ]   [PO3-4 ] [H+ ]2\n      [H2PO ] =  -\n                 4           =\n                   K2            K2 K3\n\n                             K sp\n         4 ] =\n      [PO3-\n                       [NH ] [Mg2+ ]\n                             +\n                             4\n\n                     [H+ ]2 2 [H+ ]      K\n      ⇒ 2 [Mg2+ ] =         +                                                 (\n                                     + 3  sp+ − [Mg2+ ] [NH+4 ] + [H+ ] − [OH- ]                        )\n                     K1 K 3   K3         [NH4 ]\n      etc.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                                        419\n\n                                       ST\n\n      A simpler solution:\n      At pH = 10 the main component is HPO2-\n                                          4 :\n\n                      [PO3-4 ] [H+ ]\n          4 ] =\n      [HPO2-                         = 102.4 [PO3-\n                                                4 ]\n                         K3\n\n                [HPO2-   +\n                    4 ][H ]\n      [H2PO ] =\n             -\n             4              = 10 −2.8 [HPO2-\n                                          4 ]\n                   K2\n\n                                                                   S\n                     4 ] and Ksp = [NH4 ] × S × K3 ×\n                 2+                                   +\n      S = [Mg ] [ HPO2-\n                                                                  [H+ ]\n                                                      +\n      pS = 0.5 (pKsp + pH – pK3 – p[NH4 ] = 0.5 (12.6 + 10.0 – 12.4 – 1.0) = 4.6;\n\n      S = 2.5 × 10 mol dm\n                        -5          -3\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2        420\n\n                                   ST",
+   "parts": [
+    {
+     "id": "4.1",
+     "points": 1.5,
+     "question": "Write the balanced equations for the reaction of red phosphorus forming PCl5",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.2",
+     "points": 1.5,
+     "question": "Write the reaction equations for complete hydrolysis of the compounds II and III using sodium hydroxide.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.3",
+     "points": 1.5,
+     "question": "How long does it take in order to lower the initial radioactivity to 10-3 of the initial value?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.4",
+     "points": 1.5,
+     "question": "Write two alternative mechanisms for the reaction of labelled PCl−4 with the anion of I.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.5",
+     "points": 1.5,
+     "question": "After hydrolysis the precipitated ammonium magnesium phosphates show the following values for radioactivity: II. 2380 Bq for 128 mg of Mg(NH4)PO4 III. 28 Bq for 153 mg of Mg(NH4)PO4 IV. 2627 Bq for 142 mg of Mg(NH4)PO4 Using these data, what can you say about the nucleophilic centre attacked by PCl−4 ? Data: For H3PO4: pK1 = 2.2; pK2 = 7.2; pK3 = 12.4 Solubility product of Mg(NH4)PO4: pKs = 12.6 Equilibrium concentration of NH+4 = 0.1 mol dm -3",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.6",
+     "points": 1.5,
+     "question": "Calculate the solubility for Mg(NH4)PO4 at pH equal to 10 under idealized conditions (activity coefficients can be neglected).",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача №5",
+   "weight": null,
+   "total": 9,
+   "statement": "Nitrogen dioxide NO2 is one of a number of oxides of nitrogen found in our atmosphere. It\ncan dimerize to give N2O4 (g):\n      2 NO2(g)          N2O4(g)\n5.1 With a diagram, show the bonds present in NO2(g) using the concept of resonance if\n      necessary. Nitrogen dioxide, NO2, is paramagnetic.\n5.2 Show, with bonding diagrams, how two molecules of NO2(g) combine to give a\n      molecule of N2O4 (g) which is not paramagnetic.\n5.3 At 298 K, the ∆G of formation for N2O4(g) is 98.28 kJ, whereas for NO2(g) is 51.84\n                         o\n\n      kJ. Starting with one mole of N2O4(g) at 1.0 atm and 298 K, calculate what fraction\n      will be decomposed if the total pressure is kept constant at 1.0 atm and the\n      temperature is maintained at 298 K.\n5.4 If ∆H for the reaction N2O4(g)\n           o\n                                                      2 NO2(g) is 58.03 kJ, at what temperature would\n      the fraction of N2O4 decomposed be double that calculated in part 5.3?\n5.5 The dissociation of N2O4(g) to give NO2(g) is a first order process with a specific rate\n      constant of 5.3×10 s at 298 K. Starting with an initial concentration of 0.10 M, how\n                             4    -1\n\n      many seconds would it take for 20 % of the original N2O4 to decompose?\n5.6 The association of NO2(g) to give N2O4(g) is a second-order process with a specific\n      rate constant of 9.8×10\n                                          6       3   -1 -1\n                                               dm mol s       at 298 K. Calculate the concentration\n\n      equilibrium constant, Kc, at 298 K for the reaction 2 NO2(g)                N2O4(g)\n\nSOLUTION\n5.1 The structure of NO2:\n                                              O                          O\n                                                                   (+)    ( -)\n                                 .(+N)                            . N\n\n                                              O -)\n                                               (                         O\n\n5.2 The structure of N2O4:\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                    504\n\n                                         TH\n\n                                                 O                           O                 O\n                      O                                               ( -)         (+)   (+)\n               ( -)           (+)   (+)           ( -)\n                              N                                                     N     N\n                                     N\n                                                                                                   ( -)\n                                                 O                                             O\n                      O                                                      O\n\n      (At very low temperatures there is another structure of N2O4 possible: O=N–ONO2 ,\n      nitrosyl nitrate)\n5.3 N2(g) + 2 O2(g) → N2O4(g)                        ∆G = 98.28 kJ\n                                                         o\n\n      N2(g) + 2 O2(g) → 2 NO2(g)                     ∆G = 2 × (51.84) = 103.68 kJ\n                                                         o\n\n      __________________________________________________\n      N2O4 (g) → 2 NO2 (g)                           ∆G = 5.4 kJ\n                                                         o\n\n      If x denotes the fraction of decomposed N2O4 and PT the partial pressure and X the\n      mole fraction of the corresponding species, we obtain:\n                                                                  −3 kJ mol−1 K −1 )\n      ∆G = – RT ln K;               K = e(– 5.4 kJ/ 8.314×10\n           0\n\n                                                              2\n                                                 2x \n                   (P NO2 ) (P T X NO2 )  1 + x \n                            2               2\n                                                             4 x2\n      Kp = 0.113 =            =               =            =\n                    P N2O 4     P T X N2O 4       1 − x  1− x 2\n                                                 1+ x \n                                                        \n      wherefrom x = 0.166\n\n5.4 If 2 × 0.166 = 0.332 mol N2O4 decomposes, 0.664 mol NO2 are formed, thus\n                          2\n            0.664 \n                  \n      Kp =  1.332 \n                     = 0.496\n           1 − 0.332\n             1.332\n         K       ∆H  1 1 \n      ln  2  = −     − \n          K1      R  T2 T1 \n\n          0.496       58.03 Jmol-1  1   1 \n      ln         = −           -1 -1 \n                                         −     \n          0.113      8.314 Jmol K  T2 298 K \n\n      T2 = 318 K\n\n           [N2O4 ]t\n5.5   ln            = − kt\n           [N2O4 ]0\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                             505\n\n                                  TH\n\n      ln0.80 = − (5.3 ×104 s −1 ) t\n\n      t = 4.2 × 10 s\n                    -6\n\n           k forward 9.8 ×106\n5.6   K=            =         = 1.8 ×102\n           kreverse 5.3 ×10 4\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2   506\n\n                                      TH\n                        THE 24             INTERNATIONAL CHEMISTRY OLYMPIAD, 1992",
+   "parts": [
+    {
+     "id": "5.1",
+     "points": 1.5,
+     "question": "With a diagram, show the bonds present in NO2(g) using the concept of resonance if necessary. Nitrogen dioxide, NO2, is paramagnetic.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.2",
+     "points": 1.5,
+     "question": "Show, with bonding diagrams, how two molecules of NO2(g) combine to give a molecule of N2O4 (g) which is not paramagnetic.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.3",
+     "points": 1.5,
+     "question": "At 298 K, the ∆G of formation for N2O4(g) is 98.28 kJ, whereas for NO2(g) is 51.84 o kJ. Starting with one mole of N2O4(g) at 1.0 atm and 298 K, calculate what fraction will be decomposed if the total pressure is kept constant at 1.0 atm and the temperature is maintained at 298 K.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.4",
+     "points": 1.5,
+     "question": "If ∆H for the reaction N2O4(g) o 2 NO2(g) is 58.03 kJ, at what temperature would the fraction of N2O4 decomposed be double that calculated in part 5.3?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.5",
+     "points": 1.5,
+     "question": "The dissociation of N2O4(g) to give NO2(g) is a first order process with a specific rate constant of 5.3×10 s at 298 K. Starting with an initial concentration of 0.10 M, how 4 -1 many seconds would it take for 20 % of the original N2O4 to decompose?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.6",
+     "points": 1.5,
+     "question": "The association of NO2(g) to give N2O4(g) is a second-order process with a specific rate constant of 9.8×10 6 3 -1 -1 dm mol s at 298 K. Calculate the concentration equilibrium constant, Kc, at 298 K for the reaction 2 NO2(g) N2O4(g)",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача №6",
+   "weight": null,
+   "total": 12,
+   "statement": "BIO-ORGANIC CHEMISTRY\n      The reaction of dehydrogenation of succinate to fumarate is a one step in the\ntricarboxylic Krebs cycle, catalysed by the enzyme succinic dehydrogenase. Flavine-\nadenine-dinucleotide, FAD, acts as a coenzyme. The equation of the process:\n\n                  COO-\n                                                            H        COO-\n            H           H\n                             + FAD                                              +   FADH2\n             H          H                                            H\n                                                        -OOC\n\n                  COO-\n\n              Succinate                                      Fumarate\n\n      The stereochemistry of the dehydrogenation of succinate to fumarate has been\nstudied. Consider the enzymatic reaction with the 2,3-dideuteriosuccinates related to the\nacids or obtained by catalytic deuteration (in the presence of palladium on coal) of fumaric\nand maleic acids.\n                                  H            COOH\n                                                           Maleic acid\n\n                                  H            COOH\n\n6.1 Using Fischer formulae, write down structures for all the possible stereoisomers\n      obtained by catalytic deuteration of maleic and fumaric acids. How many isomers are\n      there? Indicate those that are optically active. Establish a stereochemical relationship\n      between them (compare the isomers two by two). Using Newman projections show\n      the most stable conformation of each isomer.\n\n      The proportion of dideuterated fumarate (obtained when each of the above 2-3\ndideuterated succinates is submitted to the enzymatic reaction) is 4 % when using fumaric\nacid as starting molecule, but 48.5 % when using maleic acid.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2               448\n\n                                  ND\n\n      It is assumed that at the active site, the enzymatic dehydrogenation occurs on the\nsuccinate, in the most stable conformation as proposed in 6.1. The dehydrogenation\nstereochemistry can be syn or anti.\n6.2 On the basis of the Newman projections of the most stable conformations of each\n      isomer and the above facts, determine the percentage of dideuterated fumarate\n      formed by syn and anti dehydrogenation.\n      (Assume that the percentages of dideuterated fumarate are 0 or 50 %, respectively.)\n6.3 Show the stereochemistry of the enzymatic dehydrogenation.\n\n      In the following step of the Krebs cycle and in the presence of fumarase enzyme,\nfumarate adds on a water molecule to yield (S)-malate (also called as L-malate).\nFischer projection of (S)-malate:\n                                                        COO-\n\n                                               HO              H\n\n                                                   H           H\n\n                                                        COO-\n\n6.4 The 2,3-dideuterofumarate reacts with fumarase to (2S,3S)-2,3-dideuteromalate\n      (through addition of water). Show the stereochemical pathway of the reaction. Use\n      the schematic drawing below to answer this question.\n                                                                                         (1)\n                                                        COO-                             C\n                            D\n\n                                   C         C                                  C     C (2)\n                                       (3)   (2)                                (3)\n                                                    D\n                     -OOC                                                 C\n                            (4)\n                                                                         (4)\n\n                       2,3-dideuteriofumarate                        (2S,3S)-2,3-dideuteriomalate\n\n      The acetylcoenzyme A, CH3COSCoA reacts with glyoxylate, OHC-CO2-, in the\npresence of malate synthetase enzyme to (S)-malate.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                  449\n\n                                  ND\n\n                                                                            COO-\n                 O                                                      1\n\n                                                         + H2O    HO             H\n      CH3        C   SCoA +             OHC     COO-                         2       + CoASH\n                                                                   H             H\n                                                                             3\n\n                                                                            COO-\n                                                                        4\n\n      A similar reaction can proceed between an ester CH3COOR' (similar to the thioester\n                                                                                                 -\nCH3COSCoA) and an aldehyde R\"CHO (similar to the glyoxylate) in the presence of R'-O\nions. It leads to a β-hydroxyester.\n                                           R\"   CH     CH2    C   OR'\n\n                                                OH            O\n      -\n(R'-O enter the reaction as a base to produce an intermediate carbanion from the ester)\n6.5 Write the steps of the mechanism.\n\n      The enzymatic reaction is carried out using acetylcoenzyme A which is obtained from\nacetic acid CHDTCOOH having R-configuration.\n             T\n\n            *\n      D      C       COOH\n\n             H\n      (tritium T = 13 H , deuterium D = 12 H )\n\n      The formed (S)-malate is dehydrated (the reverse reaction of question 6.4) by an\nenzymatic reaction.\n6.6 What enzyme can be used?\n      The major product is monotritiated fumarate (79%) with 21 % untritiated fumarate.\n6.7 Write down the Fischer projections of the two possible structures of the major pro-\n      duct (S)-malate arising from the acetylcoenzyme A which has a labelled acetyl group\n      with R-configuration.\n6.8 What would be the products if the starting material has a labelled acetyl group with\n      S-configuration?\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                  450\n\n                                 ND\n\nSOLUTION\n6.1 There are three isomers. The catalytic deuteration is a syn deuteration.\n\nThe most stable conformation for succinates is the anti form, since the distance between\n                -\nthe bulky COO groups is maximal:\n\n                          I                         II                   III\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2       451\n\n                                 ND\n\nI and II are enantiomeres, II and III are a meso isomer, thus there are in total three\nisomers (two enantiomers and one meso form). Each threo and the meso form are\ndiastereomers.\n\n6.2 Considering the Newman projections of the three isomers it is clear that syn\n      elimination of I and II leads either to fumarate containing no D or to dideuterated\n      fumarate (percentage of dideuterated fumarate is thus 50 %) whereas anti\n      elimination leads to monodeuterated fumarate. Concerning the experiment 4 % of\n      dideuterated fumarate indicates that anti elimination occurs. Syn - elimination of the\n      meso-form only leads to monodeuterated fumarate, whereas anti-elimination gives\n      50 % normal and 50% dideuterated fumarate. This is in accordance with the\n      experiment where 48.5% of dideuterated fumarate are obtained after enzymatic\n      dehydrogenation of the meso isomer formed from maleic acid.\n\n6.3 The enzymatic dehydrogenation is a anti elimination as shown above.\n\n                                                                              COO-\n           T    O                                       malate\n                                                        synthetase\n                                                                      HO      C      H   + CoA   SH\n     D    C     C    SCoA    + OHC           COO-\n          H\n          A                                                            X      C      H\n\n                                                           fumarase           COO-\n\n                                        H           COO-                   (S)-malate\n\n                                      -OOC          D\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                    452\n\n                                                ND\n                                   THE 22            INTERNATIONAL CHEMISTRY OLYMPIAD, 1990\n\n6.4\n                                                                                                            (1)\n                                                         COO-                             H\n               D                                                                                             CO2-\n                                                                     H2 O       D\n                         C               C                                                 C         C\n                         (3)             (2)                        fumarate                  (3) (2)              D\n                                                 D\n        -OOC                                                                         CO2-                    OH\n                 (4)\n                                                                                    (4)\n\n                                                                                                                         CO2-\n                                                                            D                  2\n                                                                                                                             2\n                                                                                     3\n                                                                       (3S)\n                                                                                                                  3                H\n                                                                                CO2-                                    (2S)\n\nStereospecific addition, syn or anti\nSyn addition:\n                         H                 OH\n                                                          COO-                       H\n                  D                                                                                               OH\n\n                          C                C                                                  C         C\n                             (3)          (2)                                   D              (3) (2)                CO2-\n                                                     D\n         -OOC                                                                             CO2-                    D\n                   (4)\n\n                                                                                           3R            2S\nSyn addition would yield 2S, 3R or 2R, 3S\nAnti addition:\n\n                               + B                   H\n                                                                    COO-                                H                    (1)\n                                   D                                                                                               COO-\n\n                                          C              C                                                                             D\n                                                                                                              C          C\n                                           (3)           (2)                                       D              (3) (2)\n                                                                D                                                                  OH\n                   -OOC                                                                            -OOC (4)\n                                   (4)\n\n                                                                                               (2S,3S)-2,3-dideuteromalate\n                                               HO              H :B\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                                                              453\n\n                                              ND\n\n6.5\n\n                                 O                                                  O\n          (-)                              R'                    ROH + (-)                  R'\n        HO +                         O                                                  O\n\n                                                                              (-)\n                                                                          O             O\n                  O\n                                                                                                 R'\n        (-)                     R'\n                        O            +    R\"           COH           R\"\n\n                                                                              (-)\n                  (-)                                                     O             O\n              O             O\n                                                                                                 R'             (-)\n                                     R'                                                               +   R'   O\n                                O         + R'          OH           R\"\n   R\"\n\n6.6 We would have (2R) (3R) if the enzyme did not produce enantiospecific addition.\n        Thus: enantiospecific addition anti.\n\n6.7 Thus Y = T and X = H or D; then the two Fischer projections are:\n\n                    COO-                                 COO-\n                        1                                    1\n\n      HO            C           H             HO         C       H\n                        2                                    2\n\n        H           C           T                  D     C       T\n                        3                                    3\n\n                    COO-                                 COO-\n                        4                                    4\n\n6.8 Starting from an acetyl group of S configuration one obtains a configuration inversion\n        of carbon 3 for L-malate and two possible structures are:\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                                         454\n\n                                   ND\n\n                      major products                                             minor product\n              COO-                             COO-                                  COO-\n\n     HO       C       H                 HO     C      H                   HO         C      H\n\n        T     C       H                   T    C      D                D or H        C      T\n\n              COO-                             COO-                                  COO-\n\n       H            COO-                 H           COO-                  H              COO-\n\n    -OOC             H             -OOC               D                  -OOC               T\n\n             79 % non tritiated fumarate                            21 % monotritiated fumarate\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                    455\n\n                                   ND",
+   "parts": [
+    {
+     "id": "6.1",
+     "points": 1.5,
+     "question": "Using Fischer formulae, write down structures for all the possible stereoisomers obtained by catalytic deuteration of maleic and fumaric acids. How many isomers are there? Indicate those that are optically active. Establish a stereochemical relationship between them (compare the isomers two by two). Using Newman projections show the most stable conformation of each isomer. The proportion of dideuterated fumarate (obtained when each of the above 2-3",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.2",
+     "points": 1.5,
+     "question": "On the basis of the Newman projections of the most stable conformations of each isomer and the above facts, determine the percentage of dideuterated fumarate formed by syn and anti dehydrogenation. (Assume that the percentages of dideuterated fumarate are 0 or 50 %, respectively.)",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.3",
+     "points": 1.5,
+     "question": "Show the stereochemistry of the enzymatic dehydrogenation. In the following step of the Krebs cycle and in the presence of fumarase enzyme,",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.4",
+     "points": 1.5,
+     "question": "The 2,3-dideuterofumarate reacts with fumarase to (2S,3S)-2,3-dideuteromalate (through addition of water). Show the stereochemical pathway of the reaction. Use the schematic drawing below to answer this question. (1) COOC D C C C C (2) (3) (2) (3) D -OOC C (4) (4) 2,3-dideuteriofumarate (2S,3S)-2,3-dideuteriomalate The acetylcoenzyme A, CH3COSCoA reacts with glyoxylate, OHC-CO2-, in the",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.5",
+     "points": 1.5,
+     "question": "Write the steps of the mechanism. The enzymatic reaction is carried out using acetylcoenzyme A which is obtained from",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.6",
+     "points": 1.5,
+     "question": "What enzyme can be used? The major product is monotritiated fumarate (79%) with 21 % untritiated fumarate.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.7",
+     "points": 1.5,
+     "question": "Write down the Fischer projections of the two possible structures of the major product (S)-malate arising from the acetylcoenzyme A which has a labelled acetyl group with R-configuration.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.8",
+     "points": 1.5,
+     "question": "What would be the products if the starting material has a labelled acetyl group with S-configuration?",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Задача №7",
+   "weight": null,
+   "total": 9,
+   "statement": "When the fresh-water rivers that run into the Chesapeake Bay flood after heavy rains\nin the spring, the increase in fresh water in the Bay causes a decrease in the salinity in the\nareas where oysters grow. The minimum concentration of chloride ions needed in oyster\n                                                      -3\nbeds for normal growth is 8 ppm (8 mg dm ).\n      After one week of heavy rain, the following analysis is done on water from the bay.\n                 3\nTo a 50.00 cm sample of bay water a few drops of a K2CrO4 solution are added. The\n                                                  3\nsample is then titrated with 16.16 cm of a 0.00164 M AgNO3 solution. After AgNO3\nsolution has been added to the sample a bright red-orange precipitate forms.\n\n7.1 What is the molar concentration of chloride in the sample?\n7.2 Does the water contain sufficient chloride for the normal growth of oysters? Show\n      your calculation.\n7.3 Write a balanced equation for the reaction of the analyte with the titrant.\n7.4 Write a balanced net-ionic equation that describes the reaction responsible for the\n      colour change at the endpoint of the titration. Which compound produces the brick-\n      red colour?\n7.5 The concentration of chromate at the endpoint is 0.020 M. Calculate the\n      concentration of chloride ions in the solution when the red precipitate forms.\n7.6 For this titration to work most effectively, the solution being titrated must be neutral or\n      slightly basic. Write a balanced equation for the competing reaction that would occur\n      in acidic medium that would influence the observed endpoint of this titration.\n\n      Typically, a buffer is added to the solution being titrated to control the pH if the initial\nsample is acidic. Suppose the pH of the sample of bay water was 5.10, thus too acidic to\nperform the analysis accurately.\n7.7 Select a buffer from the list that would enable you to establish and maintain a pH of\n      7.20 in aqueous medium. Show the calculations which lead to your choice.\n\n                     Buffer systems                                              Ka of weak acid\n                                                                                      1.4 × 10\n                                                                                                 -4\n      1.    0.10 M lactic acid / 0.10 M sodium lactate\n                                                                                      1.8 × 10\n                                                                                                 -5\n      2.    0.10 M acetic acid / 0.10 M sodium acetate\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                         509\n\n                                  TH\n\n      3.    0.10 M sodium dihydrogen phosphate /\n                                                                                            6.2 × 10\n                                                                                                       -8\n            / 0.10 M sodium hydrogen phosphate\n                                                                                            5.6 × 10\n                                                                                                       -10\n      4.    0.10 M ammonium chloride / 0.10 M ammonia\n\n7.8 Using the selected buffer system, calculate the mass (in g) of weak acid and of\n                                                                                                                3\n      conjugated base you would need to dissolve in distilled water to prepare 500 cm of\n      a stock solution buffered at a pH of 7.2.\n                                                                           3\n7.9 The chloride concentration in another 50.00 cm                             sample of bay water was\n      determined by the Volhard method. In this method an excess of AgNO3 is added to\n                                           +\n      the sample. The excess Ag is titrated with standardized KSCN, forming a precipitate\n                                                                                                                    2+\n      of AgSCN. The endpoint is signalled by the formation of the reddish-brown FeSCN\n                                               +                                    +\n      complex that forms when Ag is depleted. If the excess Ag from the addition of\n                3                                                                             3                     -3\n      50.00 cm of 0.00129 M AgNO3 to the water sample required 27.46 cm of 1.41 10\n      M KSCN for titration, calculate the concentration of chloride in the bay water sample.\n\n                                                                                        -          -\n            In natural waters with much higher concentration of Cl , the Cl can be\n                                                                   -\ndetermined gravimetrically by precipitating the Cl as AgCl. A complicating feature of this\nmethod is the fact that AgCl is susceptible to photodecomposition as shown by the\nreaction:\n            AgCl(s) → Ag(s) + ½ Cl 2(g).\n                                                                                                            +\nFurthermore, if this photodecomposition occurs in the presence of excess Ag , the\nfollowing additional reaction occurs:\n      3 Cl2 (g) + 3 H2O + 5 Ag → 5 AgCl + ClO3 + 6 H\n                                       +                       -       +\n\n                                                                                               +\n      If 0.010 g of a 3.000 g sample of AgCl contaminated with excess Ag undergoes\nphotodecomposition by the above equations\nj)    Will the apparent weight of AgCl be too high or too low? Explain your answer\n      showing by how many grams the two values will differ.\n\n                    Ksp(AgCl) = 1.78 × 10\n                                                   -10\n      Data:\n                    Ksp(Ag2CrO4) = 1.00 × 10\n                                                         -12\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                                   510\n\n                                                               TH\n                                                    THE 24          INTERNATIONAL CHEMISTRY OLYMPIAD, 1992\n\nSOLUTION\n                  +                        –\n7.1 n(Ag ) = n(Cl )\n               0.01616 dm3 × 0.00164 mol dm−3\n                                              = 5.30×10 mol dm\n              -                                        -4      -3\n      c(Cl ) =                    3\n                         0.050 dm\n                                                                         = 5.30×10                         × 35.5 g mol\n                                                                    -3                  -4            -3                             -1                   -3\n7.2 Concentration in mg dm                                                                   mol dm                                       = 0.0188 g dm        =\n                                               -3\n      = 18.8 mg dm\n      Thus the chloride concentration is sufficiently high for normal oyster growth.\n7.3 Ag (aq) + Cl (aq) → AgCl ↓(s)\n          +                            -\n\n7.4 2 Ag (aq) + CrO4 (aq) → Ag2CrO4 ↓(s) (brick-red colour)\n                  +                                 2-\n\n                                                         + 2             2-    3                 +\n7.5 Ksp(Ag2CrO4) = [Ag ] [CrO4 ] = 4 x if x = [Ag ] ⇒\n      [Ag ] = 7.07 × 10 ; [CrO4 ] = 2 ×10\n              +                                     -6               2-            -2\n\n                      K sp ( AgCl)                        1.78 × 10 −10\n                                                                        = 2.5 × 10\n          -                                                                        -5\n      [Cl ] =                                        =               −6\n                                   Ag+                 7.07 × 10\n\n                 → Cr2O72- + H2O\n                                           +\n7.6 2 CrO2-\n         4 + 2 H\n\n      either/or\n               → HCrO-4 + H2O\n                                  +\n      CrO2-\n         4 + H\n\n7.7 A buffer system has its maximum buffer capacity when pH = pKa. So, the system 3\n      would be best since pKa = 7.2\n\n7.8 m(NaH2PO4) = 0.10 mol dm × 0.500 dm × 119.98 g mol\n                                                                          -3                 3                          -1\n                                                                                                                              = 6.0 g\n      m(Na2HPO4) = 0.10 mol dm × 0.500 dm × 141.96 g mol\n                                                                          -3                 3                          -1\n                                                                                                                                  = 7.1 g\n\n7.9 mol Ag added: n(Ag )ad = 0.05 dm × 0.00129 mol dm = 6.45×10 mol\n                          +                                +                   3                              -3                          -5\n\n      mol Ag left over: n(Ag )left = 0.02746 dm × 0.0141 mol dm = 3.87×10 mol\n                          +                                    +                             3                               -3                -5\n\n                      -\n      mol Cl in sample:\n      n(Cl ) = n(Ag )ad – n(Ag )left = (6.45×10 mol) – (3.87×10 mol) = 2.58×10 mol\n              -                        +                       +                        -5                         -5                               -5\n\n                                      2.58 × 10−5\n                                                  = 5.16×10 mol dm\n                              -                            -4      -3\n      ⇒           [Cl ] =\n                                        0.050\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                                                                            511\n\n                                  TH\n\n                          0.010 g AgCl\n                                       = 6.98 × 10 mol\n                                                  -5\nj)    n(AgCl) lost:\n                         143.35 gmol-1\n\n                                 ½ (6.98 ×10 mol) = 3.49×10 mol\n                                              -5               -5\n      n(Cl2) produced:\n                                                -5               -5\n      n(AgCl) new prod.:\n      The amount of Ag formed is equal to the amount of AgCl lost, thus\n      [Ag]formed = 6.98×10 mol × 107.9 g mol = 7.53×10 g\n                            -5                        -1              -3\n\n      The mass of the sample is equal to 3.0 g – 0.010 g + 0.00834 g + 0.00753 g =\n      = 3.006 g. Therefore the total mass of the solid (AgCl + Ag) will be too high and the\n      difference is 6 mg.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2          512\n\n                                        TH",
+   "parts": [
+    {
+     "id": "7.1",
+     "points": 1,
+     "question": "What is the molar concentration of chloride in the sample?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.2",
+     "points": 1,
+     "question": "Does the water contain sufficient chloride for the normal growth of oysters? Show your calculation.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.3",
+     "points": 1,
+     "question": "Write a balanced equation for the reaction of the analyte with the titrant.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.4",
+     "points": 1,
+     "question": "Write a balanced net-ionic equation that describes the reaction responsible for the colour change at the endpoint of the titration. Which compound produces the brickred colour?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.5",
+     "points": 1,
+     "question": "The concentration of chromate at the endpoint is 0.020 M. Calculate the concentration of chloride ions in the solution when the red precipitate forms.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.6",
+     "points": 1,
+     "question": "For this titration to work most effectively, the solution being titrated must be neutral or slightly basic. Write a balanced equation for the competing reaction that would occur in acidic medium that would influence the observed endpoint of this titration. Typically, a buffer is added to the solution being titrated to control the pH if the initial",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.7",
+     "points": 1,
+     "question": "Select a buffer from the list that would enable you to establish and maintain a pH of 7.20 in aqueous medium. Show the calculations which lead to your choice. Buffer systems Ka of weak acid 1.4 × 10 -4 1. 0.10 M lactic acid / 0.10 M sodium lactate 1.8 × 10 -5 2. 0.10 M acetic acid / 0.10 M sodium acetate",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.8",
+     "points": 1,
+     "question": "Using the selected buffer system, calculate the mass (in g) of weak acid and of 3 conjugated base you would need to dissolve in distilled water to prepare 500 cm of a stock solution buffered at a pH of 7.2. 3",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.9",
+     "points": 1,
+     "question": "The chloride concentration in another 50.00 cm sample of bay water was determined by the Volhard method. In this method an excess of AgNO3 is added to + the sample. The excess Ag is titrated with standardized KSCN, forming a precipitate 2+ of AgSCN. The endpoint is signalled by the formation of the reddish-brown FeSCN + + complex that forms when Ag is depleted. If the excess Ag from the addition of 3 3 -3 50.00 cm of 0.00129 M AgNO3 to the water sample required 27.46 cm of 1.41 10 M KSCN for titration, calculate the concentration of chloride in the bay water sample. - - In natural waters with much higher concentration of Cl , the Cl can be -",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Задача №8",
+   "weight": null,
+   "total": 12,
+   "statement": "The Pourbaix diagrams for water, nitrogen and manganese are depicted in Fig. 1.\n8.1 Write the formula of the species of nitrogen that is predominant\n      i)          in O2-rich lakes of pH ≈ 6,\n      ii)         in highly O2-depleted lakes that are strongly contaminated with acid rain\n                  (pH ≈ 3),\n8.2 Which species of manganese is predominant\n      i)          in O2-rich lakes of pH ≈ 6,\n      ii)         in highly O2-depleted lakes that are strongly contaminated with bases\n                  (pH ≈ 12)?\n8.3 People often find that clear, slightly acidic (pH ≈ 5) water drawn from wells deposits a\n      black manganese-containing solid on standing in toilet bowls.\n      i)          Write the chemical formula of the black solid?\n      ii)         Write the formula for the species of manganese found in well water while it is\n                  still underground ?\n8.4 According to Pourbaix diagrams two species of nitrogen should oxidize Mn(s) to\n             2+\n      Mn (aq).\n      i)          Write the formulas of these two nitrogen species.\n      ii)         Which of the two species of nitrogen does not oxidize Mn(s) (in practice) at\n                  room temperature ?\n8.5 According to the Poubaix diagrams, some of the chemical forms of manganese\n                                                  +\n      should oxidize NH3(aq) or NH4 (aq) to N2(g).\n      Choose in the following list the forms of Mn that should do it:\n                               2+                                            -\n      Mn, Mn(OH)2, Mn , Mn3O4, Mn2O3, MnO2, MnO2-\n                                               4 , MnO4\n\n8.6 Ammonium permanganate, NH4MnO4, is a well-known salt, but ammonium manga-\n      nate, (NH4)2MnO4, is a rarely known salt.\n      i)          Is NH4MnO4 expected to be thermodynamically stable? (YES or NO)\n      ii)         Is (NH4)2MnO4 expected to be thermodynamically stable? (YES or NO)\n      iii)        Write and balance an equation for the decomposition of NH4MnO4 to give MnO2\n                  a N2.\n      iv)         Write and balance an equation for the decomposition of (NH4)2MnO4 to give Mn\n                  a N2.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2               513\n\n                                 TH\n\n8.7 According to the Pourbaix diagrams, is it dangerous to grind together in a mortar and\n      pestle\n      i     potassium nitrate and manganese metal,\n      ii)   potassium nitrate and manganese dioxide?\n                                                 0\n8.8 The standard reduction potential, E , for the reduction of MnO-4 to MnO2 is 1.692 V.\n\n      Applying the Nernst equation calculate the reduction potential, E, for the reduction of\n      0.00100 M MnO-4 solution at a pH = 4.0.\n\nFigure 1\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2            514\n\n                                      TH\n\nSOLUTION\n\n                                       -\n8.1 i) N2                   ii) NO3\n\n8.2 i) MnO2                 ii) Mn(OH)2\n\n                                      2+\n8.3 i) MnO2,                ii) Mn\n\n              -                                     -\n8.4 NO3 and N2. In practice only NO3 would oxidize Mn, since the activation energy for\n      N2 in order to break the triple bonds is very high.\n\n8.5 Mn3O4, Mn2O3, MnO2, MnO2-      -\n                           4 , MnO 4\n\n8.6 i)            NH4MnO4: YES\n      ii)         (NH4)2MnO4: NO\n      iii)        2 NH4MnO4 → 4 H2O + 2 MnO2 + N2\n      iv)         (NH4)2MnO4 → 4 H2O + Mn + N2\n\n8.7 According to the diagrams, KNO3 is easily reduced by Mn whereas the potential of\n                                                                 -\n      MnO2 is more positive than the potential of NO3 . So a mixture of KNO3 and Mn could\n      be explosive.\n\n                  o   0.0591                0.0591      + 4\n8.8 E = E +                  log[ MnO-4 ] +        log[H ] ) =\n                         3                     3\n            = 1.692 + 0.0197 log 0.001 – 0.0788 pH = 1.633 – 0.0788 pH = 1.34 V\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2        515\n\n                                      TH",
+   "parts": [
+    {
+     "id": "8.1",
+     "points": 1.5,
+     "question": "Write the formula of the species of nitrogen that is predominant i) in O2-rich lakes of pH ≈ 6, ii) in highly O2-depleted lakes that are strongly contaminated with acid rain (pH ≈ 3),",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "8.2",
+     "points": 1.5,
+     "question": "Which species of manganese is predominant i) in O2-rich lakes of pH ≈ 6, ii) in highly O2-depleted lakes that are strongly contaminated with bases (pH ≈ 12)?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "8.3",
+     "points": 1.5,
+     "question": "People often find that clear, slightly acidic (pH ≈ 5) water drawn from wells deposits a black manganese-containing solid on standing in toilet bowls. i) Write the chemical formula of the black solid? ii) Write the formula for the species of manganese found in well water while it is still underground ?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "8.4",
+     "points": 1.5,
+     "question": "According to Pourbaix diagrams two species of nitrogen should oxidize Mn(s) to 2+ Mn (aq). i) Write the formulas of these two nitrogen species. ii) Which of the two species of nitrogen does not oxidize Mn(s) (in practice) at room temperature ?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "8.5",
+     "points": 1.5,
+     "question": "According to the Poubaix diagrams, some of the chemical forms of manganese + should oxidize NH3(aq) or NH4 (aq) to N2(g). Choose in the following list the forms of Mn that should do it: 2+ - Mn, Mn(OH)2, Mn , Mn3O4, Mn2O3, MnO2, MnO24 , MnO4",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "8.6",
+     "points": 1.5,
+     "question": "Ammonium permanganate, NH4MnO4, is a well-known salt, but ammonium manganate, (NH4)2MnO4, is a rarely known salt. i) Is NH4MnO4 expected to be thermodynamically stable? (YES or NO) ii) Is (NH4)2MnO4 expected to be thermodynamically stable? (YES or NO) iii) Write and balance an equation for the decomposition of NH4MnO4 to give MnO2 a N2. iv) Write and balance an equation for the decomposition of (NH4)2MnO4 to give Mn a N2.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "8.7",
+     "points": 1.5,
+     "question": "According to the Pourbaix diagrams, is it dangerous to grind together in a mortar and pestle i potassium nitrate and manganese metal, ii) potassium nitrate and manganese dioxide? 0",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "8.8",
+     "points": 1.5,
+     "question": "The standard reduction potential, E , for the reduction of MnO-4 to MnO2 is 1.692 V. Applying the Nernst equation calculate the reduction potential, E, for the reduction of 0.00100 M MnO-4 solution at a pH = 4.0.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Задача №9",
+   "weight": null,
+   "total": 10,
+   "statement": "Pheromones are chemicals or mixtures of certain chemicals secreted by insects and\nsome animals for communication. They bring about certain responses in another\nindividual of the same species. In the problem below you will find a number of\npheromones undergoing reactions which were used in determining their structures. In\neach case give the structure or structures of the products produced. Show geometric\n(cis/trans) isomers where appropriate (in part (9.5). You may ignore other forms of\nstereoisomerism.\n9.1          O\n                                       + NaOH\n                 O\n\n       isoamyl acetate,\n       bee alarm pheromene\n\n9.2\n                  O\n                                                          I2 / NaOH\n                                              + NaOH\n      i)\n                 2-heptanone\n                 ant alarm pheromone\n\n                     O\n                                                             NaBH4\n                                               + NaOH\n      ii)\n                                                           CH3-CH2-OH\n\n                  O\n                                                           CH3CH2MgBr       H3O+\n                                              + NaOH\n      iii)                                                 CH3-CH2-OH\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2       516\n\n                                  TH\n\n 9.3\n                                                         O3      Zn, H3O+\n         i)\n\n                   green peach -\n                   aphid pheromone\n\n                                                         O3     H 2O 2, H 3O +\n         ii)\n\n9.4\n\n       (i)\n                                         H2O/H2SO4\n\n                   OH\n\n                                       Na2Cr2O7/H2SO4\n\n       (ii)\n                 OH\n\n                                       CH3COOH, H+,\n       (iii)\n\n                  OH\n\n THE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2   517\n\n                                           TH\n\n  9.5\n         i)                                                               iv)\n                               Br2 / CCl4                                                  HBr\n                                                                                         Peroxide\n\n         ii)                                                              v)\n                               KMnO4, OH                                                 BH3, ether\n\n                                    Oxid                                                 H2O2, OH-\n\n          iii)                                                             vi)\n                                    H3O+                                                  H2 / Pt\n\nSOLUTION\n\n9.1\n                   O\n                        (-)        (+)\n          CH3-C-O             Na            and HOCH2CH2CH(CH3)2\n\n9.2     i)\n                                                     O\n                                                         (-)        (+)\n                 CHI3   and        CH3-(CH2)4-C-O              Na\n\n        ii)\n                               OH\n\n                 CH3-(CH2)4-CH-CH3\n\n        iii)\n                               OH\n\n                  CH3-(CH2)4-C-CH3\n\n                               CH2-CH3\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2                         518\n\n                                 TH\n\n9.3   i)\n\nii)\n             O                O                   O        O            O       O\n\n           HCOH          CH3CCH3              CH3CCH2CH2CCH3          HOCCH2CH2CCOH\n\n                                                                                O\n\n9.4   i)\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2         519\n\n                                 TH\n\n9.5\n\n                                         .5pt/structur\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 2   520\n\n                                     TH",
+   "parts": [
+    {
+     "id": "9.1",
+     "points": 2.5,
+     "question": "O + NaOH O",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "9.2",
+     "points": 2.5,
+     "question": "i) O (-) (+) CHI3 and CH3-(CH2)4-C-O Na ii) OH CH3-(CH2)4-CH-CH3 iii) OH CH3-(CH2)4-C-CH3 CH2-CH3",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "9.3",
+     "points": 2.5,
+     "question": "i)",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "9.4",
+     "points": 2.5,
+     "question": "i)",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

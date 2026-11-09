@@ -1,0 +1,409 @@
+{
+ "setId": "chem-icho-1999-and-older--icho-16-20",
+ "olympiadId": "chem-icho-1999-and-older",
+ "title": "Химия → IChO (международная) → 1999-and-older → 6-10 класс",
+ "materialLabel": "Icho 16 20",
+ "lang": "ru",
+ "tasksFile": "olympiads/chemistry/s/icho/1999-and-older/icho-16-20.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T19:24:49.907Z",
+ "quality": {
+  "tasks": 8,
+  "parts": 45,
+  "withPoints": 45,
+  "withReference": 0,
+  "withQuestion": 45,
+  "estimatedPoints": 45
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "(practical)",
+   "weight": null,
+   "total": 10.5,
+   "statement": "The periodic system of the elements in our three-dimensional world is based on the\nfour electron quantum numbers n = 1, 2, 3,....; l = 0, 1,....,n – 1, m = 0, ± 1, ± 2,...., ± 1;\nand s = ± 1/2. In Flatlandia, a two-dimensional world, the periodic system is thus based on\nthree electron quantum numbers: n = 1,2,3,...; ml = 0, ±1, ±2, ...., ± (n-1); and s = ±1/2\nwhere ml plays the combined role of l and ml of the three dimensional world. The following\ntasks relate to this two-dimensional world, where the chemical and physical experience\nobtained from our world is supposed to be still applicable.\n1.1 Draw the first four periods of the Flatlandian periodic table of the elements. Number\n     them according to their nuclear charge. Use the atomic numbers (Z) as symbols of\n     the specific element. Write the electron configuration for each element.\n1.2 Draw the hybrid orbitals of the elements with n = 2. Which element is the basis for\n     the organic chemistry in Flatlandia? Find the Flatlandian analogous for ethane,\n     ethene and cyclohexane. What kind of aromatic ring compounds are possible?\n1.3 Which rules in Flatlandia correspond to the octet and the 18-electron rules in the\n     three dimensional world?\n1.4 Predict graphically the trends in the first ionization energies of the Flatlandian\n     elements with n = 2. Show graphically how the electronegativities of the elements\n     increase in the Flatlandian periodic table.\n1.5 Draw the molecular orbital energy diagrams of the neutral homonuclear diatomic\n     molecules of the elements with n = 2. Which of these molecules are stable in\n     Flatlandia?\n1.6 Consider simple binary compounds of the elements (n = 2) with Z = 1. Draw their\n     Lewis structure, predict their geometries and propose analogues for them in the\n     three dimensional world.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1              384\n\n                                         TH\n\n1.7 Consider elements with n ≤ 3. Propose an analogue and write the chemical symbol\n       from our world for each of these Flatlandian elements. On the basis of this chemical\n       and physical analogue predict which two-dimensional elements are solid, liquid or\n       gaseous at normal pressure and temperature.\n\nSOLUTION\n1.1 In the two dimensional world and the electron quantum numbers given, we obtain the\n       following Flatlandian periodic table:\n\n 1                                                                                                                      2\n 1s1                                                                                                                    1s2\n\n 3            4                                                               5               6            7            8\n [ ]2s1       [ ]2s2                                                          [ ]2s2 2p1 [ ]2s2 2p2 [ ]2s2 2p3 [ ]2s2 2p4\n\n 9            10                                                              11              12           13           14\n [ ]3s1       [ ]3s2                                                          [ ]3s2 3p1 [ ]3s2 3p2 [ ]3s2 3p3 [ ]3s2 3p4\n 15           16           17           18           19          20           21              22           23           24\n                                                                              [ ]4s2 3d4      [ ]4s2 3d4   [ ]4s2 3d4   [ ]4s2 3d4\n [ ]4s1       [ ]4s2       [ ]4s2 3d1   [ ]4s2 3d2   [ ]4s23d3   [ ]4s2 3d4       4p1             4p2          4p3          4p4\n\n          1            2\n1.2 sp and sp hybrid orbitals are possible:\n\n                                                      sp1                               sp2\n\n       The element of life is the element with Z = 5. The corresponding compounds of\n       ethane, ethene and cyclohexane are:\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1                                                 385\n\n                                   TH\n\n                          1                       1\n             C2H6              5              5           C2H4            1        5      5   1\n\n                          1                       1\n\n                                                                    1\n\n                                                      1             5          1\n                                                             5           5\n                              C6H12\n                                                             5           5\n                                                      1             5          1\n\n                                                                    1\n\n     Aromatic ring compounds are not possible since there are no electron orbitals left\n                                                  2\n     that may overlap in the case of sp .\n\n1.3 The Octet rule is changed to a Sextet rule, the 18-electron rule corresponds to a 10-\n     electron rule.\n\n1.4 The ionization energies and the trends in electronegativity\n\nE\n                                                                 Electronegativity increase\n\n         3      4     5        6          7\n                                   Element\n\n1.5 The molecular orbital diagram of the homonuclear X2 molecules:\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1                     386\n\n                                      TH\n\n          The energies of                   The energies of molecular orbitals of                 The energies of\n          atomic orbitals                    homonuclear diatomic molecules                        atomic orbitals\n          of free atoms                                                                            of free atoms\n\n                   2p                                                                                   2p\n\n                   2s                                                                                    2s\n\n                                             32       42        52       62   72       82\n                                           stable              stable stable stable\n                                                    unstable                       unstable\n\n1.6 The Lewis structures and geometries:\n\n                                                                          1\nLewis              3 1                     1 4\nstructures\n                                                        1                 5                   6              7 1\n                                                                     1                  1         1\n                                                                               1\n\nGeometry        3                                 4                       5                   6           7\n\n1.7 The three-dimensional analogues of Flatlandian elements are:\n\n  1:   H, gas           5:     B or C, solid                    9:   Na, solid          13: Cl, gas\n  2:   He, gas          6:     N or O, gas                     10:   Mg, solid          14: Ar, gas\n  3:   Li, solid        7:     F, gas                          11:   Al or Si, solid\n  4:   Be, solid        8:     Ne, gas                         12:   P or S, solid\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1                                   387\n\n                                 TH",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 1.5,
+     "question": "Draw the first four periods of the Flatlandian periodic table of the elements. Number them according to their nuclear charge. Use the atomic numbers (Z) as symbols of the specific element. Write the electron configuration for each element.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.2",
+     "points": 1.5,
+     "question": "Draw the hybrid orbitals of the elements with n = 2. Which element is the basis for the organic chemistry in Flatlandia? Find the Flatlandian analogous for ethane, ethene and cyclohexane. What kind of aromatic ring compounds are possible?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.3",
+     "points": 1.5,
+     "question": "Which rules in Flatlandia correspond to the octet and the 18-electron rules in the three dimensional world?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.4",
+     "points": 1.5,
+     "question": "Predict graphically the trends in the first ionization energies of the Flatlandian elements with n = 2. Show graphically how the electronegativities of the elements increase in the Flatlandian periodic table.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.5",
+     "points": 1.5,
+     "question": "Draw the molecular orbital energy diagrams of the neutral homonuclear diatomic molecules of the elements with n = 2. Which of these molecules are stable in Flatlandia?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.6",
+     "points": 1.5,
+     "question": "Consider simple binary compounds of the elements (n = 2) with Z = 1. Draw their Lewis structure, predict their geometries and propose analogues for them in the three dimensional world.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.7",
+     "points": 1.5,
+     "question": "Consider elements with n ≤ 3. Propose an analogue and write the chemical symbol from our world for each of these Flatlandian elements. On the basis of this chemical and physical analogue predict which two-dimensional elements are solid, liquid or gaseous at normal pressure and temperature.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Задача №2",
+   "weight": null,
+   "total": 9,
+   "statement": "Upon heating of a mixture of A and fluorine (molar ratio 1 : 9, pressure approximately\n1 MPa) to 900 °C three compounds ( B, C and D) are formed. All three products are\ncrystalline solids at ambient temperature with melting points below 150 °C. The fluorine\ncontent of C is found to be 36.7 % and that of D 46.5 % (by weight). When B is treated\nwith anhydrous HOSO2F at -75 °C a compound E is formed:\n     B + HOSO2F → E + HF\n     E is a solid which is stable for weeks at 0 °C, but decomposes in days at room\ntemperature. The electron density distribution of E obtained through X-ray diffraction\nstudies is shown on two intersecting, mutually perpendicular planes (see Fig. 1).\n\nFig. 1\n\n                             z\n\n     The numbers indicated on the maps relate to the electron density in the\nneighbourhood of the atoms of E as a function of the spatial coordinates. The maxima\nfound in these maps coincide with the locations of the atoms and the values are\napproximately proportional to the number of electrons in the atom in question.\n2.1 Show where the maxima lie by drawing the contour curves around the maxima,\n     connecting points of equal electron densities. Label each maximum to show the\n     identities of the atoms in E.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1          388\n\n                                 TH\n\n2.2 When 450.0 mg of C was treated with an excess of mercury, 53.25 ml of A was\n     liberated at a pressure of 101.0 kPa and a temperature of 25 °C. Calculate the\n     relative atomic mass of A.\n2.3 Identify A, B, C, D and E.\n2.4 Use the valence-shell electron-pair repulsion theory (VSEPR) to propose\n     electron-pair geometries for B and C. Using the two electron density maps, sketch\n     the molecular geometry of E.\n\n     The original mixture was hydrolysed in water. B reacts to A while liberating oxygen\nand producing aqueous hydrogen fluoride. Hydrolysis of C leads to A and oxygen (in\nmolar ratio of 4 : 3) and yields an aqueous solution of AO3 and hydrogen fluoride. D\nhydrolyses to an aqueous solution of AO3 and hydrogen fluoride.\n2.5 Write the equations for the three hydrolysis reactions.\n2.6 Quantitative hydrolysis of a mixture of B, C and D gives 60.2 ml of gas (measured at\n     290 K and 100 kPa). The oxygen content of this gas is 40.0% (by volume). The\n     amount of AO3 dissolved in water is titrated with an aqueous 0.1 molar FeSO4\n                                                                        2+                       3+\n     solution and 36.0 ml used thereby. During the titration Fe              is oxidized to Fe        and\n     AO3 is reduced to A. Calculate the composition (% by moles) of the original mixture\n     of B, C and D.\n\nSOLUTION\n2.1 Fig. 2 shows the electron densities with maxima 52, 58, 104, and 350. Since\n     compound E is supposed to contain the atoms of fluorine, oxygen, sulphur, and A,\n     the above maxima can be assign to particular atoms as follows:\n             Maximum                        Element             Atomic number\n                 52                            O                       8\n                 58                            F                       9\n                104                            S                      16\n                350                            A                       ?\n\n     The atomic number of A is 54. Thus, the element A is xenon.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1                         389\n\n                                     TH\n\nFig. 2\n\n2.2 AFn + n/2 Hg → A + n/2 HgF2\n\n           pV 101 000 Pa × 53.25 ×10-6 m3\n         n gas =\n               =                                 = 2.17 ×10-3 mol = n(A) = n(AFn)\n           RT      8.314 J mol-1 K -1 × 298 K\n                   0.45                       -1\n      M(AFn) =           −3\n                            = 207.4 g mol = M(A) + n M(F)\n               2.17 × 10\n\n                                                207 × 0.367\n      n M(F) = 0.367 M(AFn) ⇒ n =                           = 4.0055 ⇒ AF4;\n                                                    19\n                                                                         -1\n      M (A) = M(AFn) – n M(F) = 207.4 – 76.1 = 131.3 g mol\n2.3 A: Xe               B: XeF2       C: XeF4        D: XeI6    E: XeF(OSO2F)\n2.4\n                                                                                   F\n\n                   F                                                          Xe\n                                          F                              O\n                                                     F\n                   Xe                         Xe                         S\n                                          F                      F\n                                                    F                         O\n                                                                     O\n                   F\n\n                   B                          C                          E\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1          390\n\n                                          TH\n                              THE 20           INTERNATIONAL CHEMISTRY OLYMPIAD, 1988\n\n2.5 XeF2 + H2O                → Xe + 2 HF + 0.5 O2\n      XeF4 + 2 H2O → 2/3 Xe + 4 HF + 1/3 XeO3 + 0.5 O2\n      XeF6 + 3 H2O → XeO3 + 6 HF\n\n                pV 100 000 Pa × 60.2 ×10-6 m3\n2.6   n gas =      =                            = 2.50 ×10-3 mol\n                RT   8.314 J mol-1 K -1 × 290 K\n\n      n(O2) = 0.4 × ngas = 1.00 × 10 mol\n                                                   -3\n\n      n(Xe) = 1.50 × 10 mol\n                               -3\n\n      Assume n(XeF2 )= a;                  n(XeF4 )= b;            n(XeF6 )= c\n      n(Xe) = a + 2/3 b;\n      n(O2) = 1/2 a + 1/2 b;\n      ngas = n(Xe) + n(O2) = 3/2 a + 7/6 b = 2.50 × 10 mol\n                                                                                -3\n\n      n(O2) = 1/2 a + 1/2 b = 1.00 × 10 mol\n                                                        -3\n\n      Solution of the equations:\n      a = 0.5 × 10 mol;                  b = 1.5 × 10 mol\n                         -3                             -3\n\n                  + XeO3 + 3 H2O → 6 Fe\n             2+                                          3+                 -\n      6 Fe                                                    + 6 OH + Xe\n      n(XeO3) = 1/6 n(Fe ) = 1/6 [c(Fe ) V(Fe )] = 1/6 × 0.100 × 36.0 × 10 mol =\n                                    2+                  2+           2+                        -3\n\n                                           = 6.00 × 10 mol = 1/3 b + c\n                                                              -4\n\n                    -3              -3            -4\n      c = 0.6 10 - 0.5 10 = 1 10\n                                                             0.5 × 10 mol (23.8 %)\n                                                                           -3\n      molar composition:                 XeF2:\n                                                             1.5 × 10 mol (71.4 %)\n                                                                           -3\n                                         XeF4:\n                                                             1 × 10 mol\n                                                                      -4\n                                         XeF6:                                       (4.8 %)\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1                       391\n\n                                  TH",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 1.5,
+     "question": "Show where the maxima lie by drawing the contour curves around the maxima, connecting points of equal electron densities. Label each maximum to show the identities of the atoms in E.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.2",
+     "points": 1.5,
+     "question": "When 450.0 mg of C was treated with an excess of mercury, 53.25 ml of A was liberated at a pressure of 101.0 kPa and a temperature of 25 °C. Calculate the relative atomic mass of A.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.3",
+     "points": 1.5,
+     "question": "Identify A, B, C, D and E.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.4",
+     "points": 1.5,
+     "question": "Use the valence-shell electron-pair repulsion theory (VSEPR) to propose electron-pair geometries for B and C. Using the two electron density maps, sketch the molecular geometry of E. The original mixture was hydrolysed in water. B reacts to A while liberating oxygen",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.5",
+     "points": 1.5,
+     "question": "Write the equations for the three hydrolysis reactions.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "2.6",
+     "points": 1.5,
+     "question": "Quantitative hydrolysis of a mixture of B, C and D gives 60.2 ml of gas (measured at 290 K and 100 kPa). The oxygen content of this gas is 40.0% (by volume). The amount of AO3 dissolved in water is titrated with an aqueous 0.1 molar FeSO4 2+ 3+ solution and 36.0 ml used thereby. During the titration Fe is oxidized to Fe and AO3 is reduced to A. Calculate the composition (% by moles) of the original mixture of B, C and D.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Задача №3",
+   "weight": null,
+   "total": 10,
+   "statement": "3\n       A typical family car has four cylinders with a total cylinder volume of 1600 cm and a\nfuel consumption of 7.0 l per 100 km when driving at a speed of 90 km/h. During one\nsecond each cylinder goes through 25 burn cycles and consumes 0.4 g of fuel. Assume\nthat fuel consists of 2,2,4-trimethylpentane, C8H18. The compression ratio of the cylinder is\n1:8.\n                                                      3\n3.1 Calculate the air intake of the engine (m /s). The gasified fuel and air are introduced\n       into the cylinder when its volume is largest until the pressure is 101.0 kPa.\n       Temperature of both incoming air and fuel are 100 °C. Air contains 21.0 % (by\n       volume) of O2 and 79.0 % of N2. It is assumed that 10.0 % of the carbon forms CO\n       upon combustion and that nitrogen remains inert.\n3.2 The gasified fuel and the air are compressed until the volume in the cylinder is at its\n       smallest and then ignited. Calculate the composition (% by volume) and the\n       temperature of the exhaust gases immediately after the combustion (exhaust gases\n       have not yet started to expand). The following data is given:\n\n              Compound                             ∆Hf (kJ/mol)        Cp (J/mol K)\n\n              O2(g)                                       0.0              29.36\n              N2(g)                                       0.0              29.13\n              CO(g)                                   -110.53              29.14\n              CO2(g)                                  -395.51              37.11\n              H2O(g)                                  -241.82              33.58\n              2,2,4-trimethylpentane                  -187.82\n\n3.3 Calculate the final temperature of the leaving gases assuming that the piston has\n       moved to expand the gases to the maximum volume of the cylinder and that the final\n       gas pressure in the cylinder is 200 kPa.\n3.4 To convert CO(g) into CO2(g) the exhaust gases are led through a bed of catalysts\n       with the following work function:\n                                          T\n       n(CO) 1  n(CO)            −\n                                     T0\n              = k            v e\n       n(CO 2) 4  n(CO 2 ) 1\n\n       where [n(CO) / n(CO2)]1 is the molar ratio before the catalyst, v is the flow rate in\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1                  392\n\n                                 TH\n\n     mol/s and T the temperature of the gases entering the catalyst (the same as the\n     temperature of the leaving exhaust gases). T0 is a reference temperature (373 K)\n     and k is equal to 3.141 s/mol. Calculate the composition (% by volume) of the\n     exhaust gases leaving the catalyst.\n\nSOLUTION\n3.1 Mr(C8H18) = 114.0,\n     Cylinder volume (V0) = 4.00 × 10 m , p0 = 101 000 Nm , T0 = 373 K\n                                             -4   3                     -2\n\n     Considering one cylinder during one burn cycle one obtains (f = fuel):\n                                            nf = 1.4004 × 10 mol\n                                                             -4\n     mf = 0.400 / 25 g = 0.0160g,\n     (mf = mass of fuel, nf = amount of substance of fuel)\n     nG = nf + nA = p0V0 / (RT0) = 0.0130 mol\n     (nG = number of moles of gases, nA = moles of air)\n     ⇒     nA = 0.0129 mol\n     ⇒     Air intake of one cylinder during 25 burn cycles:\n           VA = 25 nA R T0 / p0 = 9.902 ×10 m /s\n                                                  -3   3\n\n                                                                                            3\n     ⇒     The air intake of the whole engine is therefore: Vtotal = 4 VA = 0.0396 m /s\n\n3.2 The composition of the exhaust gases of one cylinder during one burn cycle is\n     considered:\n     before:      nO2 = 0.21 nA = 2.709 mmol\n\n                  nN2 = 0.79 nA = 10.191 mmol\n\n     0.1 x C8H18 + 8.5 O2 → 8 CO + 9 H2O                      (10% C)\n     0.9 x C8H18 + 12.5 O2 → 8 CO2 + 9 H2O                    (90% C)\n           C8H18 + 12.1 O2 → 0.8 CO + 7.2 CO2 + 9 H2O\n\n     Amounts of substances (in mol) before and after combustion:\n\n                    C8H18                 O2               CO              CO2             H2O\n                 1.404 ×10            2.709 × 10\n                           -4                    -3\n      before                                                0               0               0\n                                      10.10 × 10       1.123 × 10      10.11 × 10      12.63 × 10\n                                                 -4               -4              -4              -4\n      after           0\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1                     393\n\n                                      TH\n\n     The composition of the gas after combustion is therefore:\n\n       Componen               N2                O2                 CO           CO2            H2O     Total\n           t\n       mol × 10\n                4\n                             101.91            10.10              1.12         10.11        12.63      135.87\n          %                   75.0              7.4                0.8          7.5          9.3        100\n\n     From thermodynamics the relation between the enthalpy and temperature change is\n     given by\n               T 2 i=k          i=k\n      ∆H = ∫ ∑c pi ni dT = ∑c pi n i (T 2 −T 1 )\n               T 1 i=1          i=1\n\n     ∆H = nf [0.8 ∆Hf(CO) + 7.2 ∆Hf(CO2) + 9 ∆Hf(H2O) - ∆Hf(C8H18)] = – 0.6914 kJ\n     This yields to: 691.4 = 0.4097 (T2 – 373) and T2 = 2 060 °C\n\n3.3 The final temperature of the leaving gases from one cylinder:\n     p2 = 200 000 Pa, V0 = 4.00 × 10 m ,\n                                                      -4   3\n\n     nG = moles of exhaust gases in one cylinder = 0.01359 mol\n               p2 V0\n     T2 =            = 708 K\n               nG R\n\n3.4 The flow from all four cylinders is given: v = 4 × 25 × nG = 1.359 mol/s, so that\n\n      n(CO)                   1.12 × 104              708\n             = 0.25 × 3.141 ×             × 1.359 × e 373 = 0.01772\n      n(CO)2                  10.11× 10 4\n\n     During catalysis:                       CO +                0.5 O2        →         CO2\n     moles × 10 (4 cylinders):\n                         4\n\n     initial                                4.48                40.40                   40.44\n     final                                 4.48 - x            40.40 - 0.5 x           40.44 + x\n\n     0.01772 (40.44 + x) = 4.48 + x                        ⇒      x = 3.70\n     Thus, the composition of the gas after the catalyst is:\n\n       Component               N2               O2                  CO           CO2            H2O     Total\n        mol × 10\n                 4\n                             407.64         40.40 - 0.5x          4.48 - x     40.44 + x       50.52   541.63\n                                               38.55               0.78         44.14\n                %            75.26             7.12               0.15           8.14           9.33    100\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1                                  394\n\n                                       TH",
+   "parts": [
+    {
+     "id": "3.1",
+     "points": 2.5,
+     "question": "Calculate the air intake of the engine (m /s). The gasified fuel and air are introduced into the cylinder when its volume is largest until the pressure is 101.0 kPa. Temperature of both incoming air and fuel are 100 °C. Air contains 21.0 % (by volume) of O2 and 79.0 % of N2. It is assumed that 10.0 % of the carbon forms CO upon combustion and that nitrogen remains inert.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.2",
+     "points": 2.5,
+     "question": "The gasified fuel and the air are compressed until the volume in the cylinder is at its smallest and then ignited. Calculate the composition (% by volume) and the temperature of the exhaust gases immediately after the combustion (exhaust gases have not yet started to expand). The following data is given: Compound ∆Hf (kJ/mol) Cp (J/mol K) O2(g) 0.0 29.36 N2(g) 0.0 29.13 CO(g) -110.53 29.14 CO2(g) -395.51 37.11 H2O(g) -241.82 33.58 2,2,4-trimethylpentane -187.82",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.3",
+     "points": 2.5,
+     "question": "Calculate the final temperature of the leaving gases assuming that the piston has moved to expand the gases to the maximum volume of the cylinder and that the final gas pressure in the cylinder is 200 kPa.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.4",
+     "points": 2.5,
+     "question": "To convert CO(g) into CO2(g) the exhaust gases are led through a bed of catalysts with the following work function: T n(CO) 1  n(CO)  − T0 = k  v e n(CO 2) 4  n(CO 2 ) 1 where [n(CO) / n(CO2)]1 is the molar ratio before the catalyst, v is the flow rate in",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Задача №4",
+   "weight": null,
+   "total": 10,
+   "statement": "Chloride ions are analytically determined by precipitating them with silver nitrate. The\nprecipitate is undergoing decomposition in presence of light and forms elemental silver\nand chlorine. In aqueous solution the latter disproportionates to chlorate(V) and chloride.\nWith excess of silver ions, the chloride ions formed are precipitated whereas chlorate(V)\nions are not.\n\n4.1 Write the balanced equations of the reactions mentioned above.\n4.2 The gravimetric determination yielded a precipitate of which 12 % by mass was\n     decomposed by light. Determine the size and direction of the error caused by this\n     decomposition.\n4.3 Consider a solution containing two weak acids HA and HL, 0.020 molar and 0.010\n     molar solutions, respectively. The acid constants are 1 × 10 for HA and 1 × 10 for\n                                                                               -4        -7\n\n     HL. Calculate the pH of the solution.\n4.4 M forms a complex ML with the acid H2L with the formation constant K1. The solution\n     contains another metal ion N that forms a complex NHL with the acid H2L. Determine\n                                                                                     +\n     the conditional equilibrium constant, K'1 for the complex ML in terms of [H ] and K\n     values.\n               [ML]\n     K1 =\n              [M][L]\n               [ML]\n     K 1′ =\n              [M′][L′]\n    [M'] = total concentration of M not bound in ML\n    [L'] = the sum of the concentrations of all species containing L except ML\n\n    In addition to K1, the acid constants Ka1 and Ka2 of H2L as well as the formation\n    constant KNHL of NHL are known.\n                 [NHL]\n    K NHL =\n               [N] [L] [H+]\n                                                                        +\n    You may assume that the equilibrium concentration [H ] and [N] are known, too.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1             395\n\n                                               TH\n                                 THE 20             INTERNATIONAL CHEMISTRY OLYMPIAD, 1988\n\nSOLUTION\n4.1 Ag + Cl → AgCl ↓\n          +      -\n\n     2 AgCl → 2 Ag + Cl2\n     3 Cl2 + 3 H2O → ClO3− + 5 Cl + 6 H\n                                                             -        +\n\n     Total:\n     6 AgCl + 3 H2O → 6 Ag + ClO3− + 5 Cl + 6 H\n                                                                          -   +\n                                                                                      or\n\n     3 Cl2 + 5 Ag + 3 H2O → ClO3− + 5 AgCl + 6 H\n                         +                                                        +\n\n4.2 From 100 g AgCl 12 g decompose and 88 g remain. 12 g equals 0.0837 mol and\n     therefore, 0.04185 mol Cl2 are liberated. Out of that (12 × 107.9) / 143.3 = 9.03 g Ag\n     remain in the precipitate. 5/6 × 0.837 mol AgCl are newly formed (= 10.0 g), so that\n     the total mass of precipitate (A) yields:\n     A = 88 g + 9.03 g + 10.0 g = 107.03 g; relative error = 7.03 %\n\n          +          -       -             -\n4.3 [H ] = [A ] + [L ] + [OH ]\n                     -                              -3\n     [HA] + [A ] = 0.02 mol dm pK(HA) = pH + p[A-] -p[HA] = 4\n                  -                                 -3\n     [HL] + [L ] = 0.01 mol dm pK(HL) = pH + p[L-] - p[HL] = 7\n     For problems like these, where no formal algebraic solution is found, only\n     simplifications lead to a good approximation of the desired result, e.g.\n\n                 +           -                                                               -   -   -\n     1.       [H ] = [A ] (since HA is a much stronger acid than HL then [A ] » [L ] + [OH ])\n                 + 2               +\n              [H ] + K(HA)[H ] – K(HA)0.02 = 0\n              [H ] = 1.365 × 10 mol dm\n                +                              -3                -3\n\n              pH = 2.865\n\n     2.       Linear combination of the equations\n                                       [HA]           [HL]\n              [H+] = K(HA )               −\n                                             = K (HL)        ;\n                                        [A ]           [L− ]\n                                        -\n              [HA] = 0.02 – [A ];\n                                       -\n              [HL] = 0.01 – [L ];\n                 +           -     -                     -\n              [H ] = [A ] + [L ] + [OH ]\n              yields:\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1                            396\n\n                                         TH\n                               THE 20         INTERNATIONAL CHEMISTRY OLYMPIAD, 1988\n\n                        0.02 × K (HA)\n           [A] =\n                         [H+] + K (HA)\n                        0.01 × K (HL)\n               [L] =\n                         [H+] + K (HL)\n\n                        0.02 × K (HA) 0.01× K (HL) K w\n               [H+] =                +             +\n                        [H+] + K (HA) [H+] + K (HL) [H+]\n\n      The equation above can only be solved by numerical approximation methods. The\nresult is pH = 2.865. We see that it is not necessary to consider all equations.\nSimplifications can be made here without loss of accuracy. Obviously it is quite difficult to\nsee the effects of a simplification - but being aware of the fact that already the so-called\nexact solution is not really an exact one (e.g. activities are not being considered), simple\nassumption often lead to a very accurate result.\n4.4\n                              [ML]                             K 1 [L]\n      K 1′ =                                     =\n                [M] ([L] + [HL] + [NHL] + [H2L])   ([L] + [HL] + [NHL] + [H2L])\n\n                 [H L]\n      [HL] = K a1 2\n                [H]\n\n                [L] [H]\n      [HL] =\n                  K a2\n\n                 [HL] K a1 K a2 [H2L]\n      [L] = K a2     =         2\n               [H]         [H]\n\n      [NHL] = K NHL [N] [L] [H]\n\n                           K1\n      K 1′ =\n                  [H]  [H]2            \n               1+ K + K K + KNHL [N][H]\n                    a1 a1   a2         \n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1            397\n\n                                 TH",
+   "parts": [
+    {
+     "id": "4.1",
+     "points": 2.5,
+     "question": "Write the balanced equations of the reactions mentioned above.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.2",
+     "points": 2.5,
+     "question": "The gravimetric determination yielded a precipitate of which 12 % by mass was decomposed by light. Determine the size and direction of the error caused by this decomposition.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.3",
+     "points": 2.5,
+     "question": "Consider a solution containing two weak acids HA and HL, 0.020 molar and 0.010 molar solutions, respectively. The acid constants are 1 × 10 for HA and 1 × 10 for -4 -7 HL. Calculate the pH of the solution.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "4.4",
+     "points": 2.5,
+     "question": "M forms a complex ML with the acid H2L with the formation constant K1. The solution contains another metal ion N that forms a complex NHL with the acid H2L. Determine + the conditional equilibrium constant, K'1 for the complex ML in terms of [H ] and K values. [ML] K1 = [M][L] [ML] K 1′ = [M′][L′] [M'] = total concentration of M not bound in ML [L'] = the sum of the concentrations of all species containing L except ML In addition to K1, the acid constants Ka1 and Ka2 of H2L as well as the formation constant KNHL of NHL are known. [NHL] K NHL = [N] [L] [H+] + You may assume that the equilibrium concentration [H ] and [N] are known, too.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Задача №5",
+   "weight": null,
+   "total": 10.5,
+   "statement": "5.1 What ratio of primary / secondary / tertiary products can statistically be expected in\n     the high temperature chlorination of methyl butane? Assume that the reaction rate of\n     the substitution is equal for all C-H bonds.\n5.2 Which of the following alcohols: pentan-1-ol, pentan-2-ol and 2-methyl-butan-2-ol\n     react with the following reagents listed below?\n     1) cold, concentrated sulphuric acid; 2) CrO3 / H2SO4; 3 ) ZnCl2 / HCl; 4) I2 / Na-\n     OH\n5.3 Which of the following aldohexose structures are:\n     1) enantiomer pairs, 2) diastereomer pairs?\n\n             CHO                       CHO                  CHO                 CHO\n\n                  OH        HO                       HO                             OH\n       HO                   HO                                  OH                  OH\n                  OH                       OH         HO                 HO\n\n                  OH                       OH        HO                  HO\n\n             CH2OH                    CH2OH                 CH2OH               CH2OH\n\n              A                        B                    C                   D\n\n5.4 Two hydrocarbon compounds of the same molecular formula, C4H8, easily react with\n     hydrogen in the presence of a platinum catalyst. During ozonolysis only ethanal (ace-\n                                                        1\n     taldehyde) is formed in both cases. The H-NMR spectra of the two compounds\n     show two types of protons in a ratio of 3 to 1. Draw the structures of the described\n     compounds.\n5.5 Select the components of the group listed below that can be obtained during\n     complete hydrolysis of lecithin (a phospholipid): serine, phosphoric acid, sphin-\n     gosine, choline, glycerol, myo-inositol, phosphatidic acid and fatty acids).\n5.6 Which of the following carboxylic acid can be formed in the tricarboxylic acid cycle\n     (Krebs' citric acid cycle):\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1            374\n\n                                   TH\n\n      maleic acid (cis-butenedioic acid), mandelic acid (a-hydroxy-phenylethanoic acid),\n      malic acid (2-hydroxy-butanedioic acid), tricarb-allylic acid (propane-1,2,3-tricarbo-\n      xylic acid), oxalacetic acid (2-oxo-butanedioic acid), keto-glutaric acid (2-oxo-penta-\n      nedioic acid), fumaric acid (trans-butenedioic acid) and acetoacetic acid (3-oxo-buta-\n      noic acid).\n                                                                             +\n5.7 To which structures is the nicotinamide moiety (part) of NAD converted during the\n      uptake of hydrogen to form NADH (A, B or C)?\n\nSOLUTION\n5.1 The ratio of primary, secondary and tertiary products will be 9 : 2 : 1.\n5.2 1-Pentanol reacts with 1) cold conc. sulphuric acid (elimination) and with 2)\n      CrO3/H2SO4 (oxidation).\n       2-Pentanol reacts with 1) under elimination, with 2) under oxidation, with 3) under\n      reduction and     with 4) (haloform oxidation).\n      2-Methyl-2-butanol reacts with 1) under elimination and with 3) under reduction.\n5.3 a/c and b/d are enantiomers, a/b, a/d, b/c and c/d are diastereomers.\n5.4\n                    CH3                    CH3      CH3              H\n\n                          C         C                     C      C\n                    H                      H         H               CH3\n\n                          cis-2-butén                    trans-2-butén\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1            375\n\n                                 TH\n\n5.5 Glycerol, choline, phosphoric acid and fatty acids can be found during complete\n     hydrolysis of lecithin.\n5.6 maleic acid, oxalacetic acid, ketoglutaric acid, fumaric acid\n5.7 c) is correct since the NAD+ is converted into NADH/H+\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1   376\n\n                                 TH",
+   "parts": [
+    {
+     "id": "5.1",
+     "points": 1.5,
+     "question": "What ratio of primary / secondary / tertiary products can statistically be expected in the high temperature chlorination of methyl butane? Assume that the reaction rate of the substitution is equal for all C-H bonds.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.2",
+     "points": 1.5,
+     "question": "Which of the following alcohols: pentan-1-ol, pentan-2-ol and 2-methyl-butan-2-ol react with the following reagents listed below? 1) cold, concentrated sulphuric acid; 2) CrO3 / H2SO4; 3 ) ZnCl2 / HCl; 4) I2 / NaOH",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.3",
+     "points": 1.5,
+     "question": "Which of the following aldohexose structures are: 1) enantiomer pairs, 2) diastereomer pairs? CHO CHO CHO CHO OH HO HO OH HO HO OH OH OH OH HO HO OH OH HO HO CH2OH CH2OH CH2OH CH2OH A B C D",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.4",
+     "points": 1.5,
+     "question": "Two hydrocarbon compounds of the same molecular formula, C4H8, easily react with hydrogen in the presence of a platinum catalyst. During ozonolysis only ethanal (ace1 taldehyde) is formed in both cases. The H-NMR spectra of the two compounds show two types of protons in a ratio of 3 to 1. Draw the structures of the described compounds.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.5",
+     "points": 1.5,
+     "question": "Select the components of the group listed below that can be obtained during complete hydrolysis of lecithin (a phospholipid): serine, phosphoric acid, sphingosine, choline, glycerol, myo-inositol, phosphatidic acid and fatty acids).",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.6",
+     "points": 1.5,
+     "question": "Which of the following carboxylic acid can be formed in the tricarboxylic acid cycle (Krebs' citric acid cycle):",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.7",
+     "points": 1.5,
+     "question": "To which structures is the nicotinamide moiety (part) of NAD converted during the uptake of hydrogen to form NADH (A, B or C)?",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задача №6",
+   "weight": null,
+   "total": 10,
+   "statement": "In recombinant DNA technology specific endonucleases can recognize and hydrolyse\nthe phosphoric ester bound in each of both strands. Cla I for example hydrolyses the bond\nbetween two nucleotides in the sequence:\n                                           5'-pApT│ pCpGpApT- 3'\n6.1 Give the base sequence of the complementary strand in the 5' - 3' direction and\n     indicate with arrows the location where the hydrolysis by Cla I would occur.\n                                                                                        5\n6.2 How often on average will this sequence occur in one strand of DNA molecule of 10\n     base pairs? You can assume that the four bases occur equally often and that they\n     randomly distribute in the two chains.\n\n     Taq I hydrolyses a long double strand DNA molecule into fragments which are on\naverage 256 base pairs long. The 3' end of these fragments treated by cleavage turns out\nto be a thymine(T)- and the 5' end a cytosine(C) -end.\n6.3 How long is the sequence recognized by Taq I?\n6.4 Give the two possible base sequences (in the direction 5' - 3') which form the\n     recognition pattern for Taq I (must obviously have some symmetry).\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIAD, Volume 1         354\n\n                                  TH\n\n     The    DNA     of   a   phage         which    occurs   as   a   close   circle   contains   only\n5'-pApTpCpGpApT-3' sequence in each of the two strands. After treatment with ClaI\nequilibrium is established: circular DNA               linear DNA.\n6.5 Give a schematic drawing of the circular and linear molecules. Indicate the bases\n     adjacent to the cleaning site in both strands. Indicate also the 3' and 5' ends.\n\n     In Fig. 1 the percentage of linear DNA is given as a function of temperature,\nmeasured in a solution of 0.15 M NaCl buffered with citrate at pH = 6.5. With Taq I as\ncleavage enzyme, the same curve is obtained.\n6.6 Is the reaction as written endothermic or exothermic? Explain your answer.\n6.7 Show, considering the information given, which of the two base sequences of the\n     answer to 6.4 is the correct one.\n6.8 What would look the curve for Taq I like if the recognition pattern would have been\n     the other possibility of d)?\n\n     A large DNA molecule is cut into fragments with the aid of Cla I. One fragment is\nisolated, purified and mixed in the ratio of 1:1 with phage DNA which was also cleaved\nwith Cla I. Thereby recombinant molecules can be formed through the reaction:\n     phage-DNA + fragment DNA                      recombinant-DNA\n6.9 Would the enthalpy of this reaction be positive, negative or about zero? Explain your\n     answer.\n6.10 Which combination of temperature, DNA concentration and ionic strength (high or\n     low in each case) will give the maximum percentage of recombinant molecules?\n\nSOLUTION\n6.1 5' - pTpApGpCpT \\pC\n6.2 The probability of the sequence given is (1/4)6 = 1/4096. Thus, this specific sequence\n     may occur in the DNA 105/4096 = 24.4 times on average\n6.3 The sequence recognized by Taq I is 2 base pairs, that is 4 bases.\n6.4 The sequence is 5' - pTpCpGpA - 3' or 5' - pGpApTpC - 3'\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIAD, Volume 1                      355\n\n                                 TH\n\n6.5\n\n6.6 The reaction is endothermic. The reaction has a positive enthalpy, since the\n      hydrogen bonds between the bases G and C in the complementary strands are\n      broken.\n6.7 The two relations show the same dependence on temperature. Therefore, the\n      enthalpy of the two reactions is roughly the same. Then the interaction of the double\n      helix must be identical and therefore we must choose TCGA for the first recognition\n      sequence of question 6.4. The cleavage in the two cases mentioned in d) occurs as\n      follows:\n\n      Cla I:5' - pApT│pCpGpApT - 3'\n      3' - pTpApGpCp│TpA - 5'\n\n      Taq I:     5' - pT│pCpGpA - 3'\n      3' - pApGpCp│T - 5'\n\n6.8 The following curve would be obtained:\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIAD, Volume 1           356\n\n                                 TH\n\n6.9 ∆H is negative.\n6.10 Low temperature, low DNA concentration and high ionic strength will give the\n     maximum percentage of recombinant molecules.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIAD, Volume 1   357\n\n                                 TH",
+   "parts": [
+    {
+     "id": "6.1",
+     "points": 1,
+     "question": "Give the base sequence of the complementary strand in the 5' - 3' direction and indicate with arrows the location where the hydrolysis by Cla I would occur. 5",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.2",
+     "points": 1,
+     "question": "How often on average will this sequence occur in one strand of DNA molecule of 10 base pairs? You can assume that the four bases occur equally often and that they randomly distribute in the two chains. Taq I hydrolyses a long double strand DNA molecule into fragments which are on",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.3",
+     "points": 1,
+     "question": "How long is the sequence recognized by Taq I?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.4",
+     "points": 1,
+     "question": "Give the two possible base sequences (in the direction 5' - 3') which form the recognition pattern for Taq I (must obviously have some symmetry).",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.5",
+     "points": 1,
+     "question": "Give a schematic drawing of the circular and linear molecules. Indicate the bases adjacent to the cleaning site in both strands. Indicate also the 3' and 5' ends. In Fig. 1 the percentage of linear DNA is given as a function of temperature,",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.6",
+     "points": 1,
+     "question": "Is the reaction as written endothermic or exothermic? Explain your answer.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.7",
+     "points": 1,
+     "question": "Show, considering the information given, which of the two base sequences of the answer to 6.4 is the correct one.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.8",
+     "points": 1,
+     "question": "What would look the curve for Taq I like if the recognition pattern would have been the other possibility of d)? A large DNA molecule is cut into fragments with the aid of Cla I. One fragment is",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.9",
+     "points": 1,
+     "question": "Would the enthalpy of this reaction be positive, negative or about zero? Explain your answer.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.10",
+     "points": 1,
+     "question": "Which combination of temperature, DNA concentration and ionic strength (high or low in each case) will give the maximum percentage of recombinant molecules?",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Задача №7",
+   "weight": null,
+   "total": 10,
+   "statement": "-1\n     The equilibrium constant of the reaction A(g) + 2 B(g) _ 2 C(g) is Kp = 10.0 MPa . The\nstarting materials are supplied at 25 °C and heated to 100 °C where complete equilibration\ntakes place. Below 100 °C the reaction\nrate is negligibly small. The whole process\n                                                      Fig. 1\nis executed continuously in a stationary\n                                                                               top product,\nstate. The boiling points at 0.1 MPa of A,                                     liquid at\n                                                                               at boiling\nB, and C are 40 °C, 80 °C, and 60 °C,                                          point\n\nrespectively. The three compounds have\n                                                -1\nthe same heat of evaporation: q J mol .\nThe heat capacities of A, B, and C may be\nneglected. A schematic diagram of a distil-\n                                                                               bottom\nlation is shown below (Fig. 1).                                                product,\n                                                                               liquid at\n     The total heat used at each of the                                        at boiling\n                                                                               point\n                                  -1\ntwo distillations is 3q J mol          (of the top\nproduct). Apart from distillation columns\n(each with its own evaporator and condenser) the pieces of apparatus shown of Fig. 2 are\navailable.\n\n                                      R\n\n                              reactor                    heater / evaporator\n\n                         Fig. 2\n\n                                            cooler / condenser\n\n7.1 Draw a flow diagram of the process in which all flows are given (flow sheet) and in\n     which the starting materials are used as efficiently as possible using as few pieces of\n     apparatus as possible.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIAD, Volume 1                     358\n\n                                      TH\n\n7.2 Express the equilibrium constant in terms of the degree of conversion and of total\n         pressure for the case that the feed to the reactor is stoichiometric. What is the value\n         of the degree of conversion when total pressure is 0.100 MPa?\n                                                                                         -1\n7.3 Number all flows. Calculate the composition of each flow in mol s                         for a rate of\n         production of 1 mole of C per second under the conditions of part b.\n7.4 In what respect can the reaction conditions influence the composition of the mixture\n         that leaves the reactor? (Refer to question b.)\n7.5 The process requires energy. For the conditions of b explain where energy should be\n         supplied in the flow diagram drawn in part a. Derive an expression for the total\n         energy needed.\n\nSOLUTION\n\n7.1 In order to minimize the pieces of apparatus, the liquids A and B should evaporate\n         together. For complete consumption of the starting materials, A and B are\n         recirculated as feed for the reactor. The scheme of figure depicts the solution.\n\n                        s3                                                                      s10\n\nA s1\n\n              s5\n                                                                                    s9\n                   s7                         R                      s8\n                                           100 °C\n              s6\n    s2\nB\n                        s4\n\n                                             system boundary\n\n7.2 A + 2 B →                2C\n     1-x       2(1-x)        2x\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIAD, Volume 1                           359\n\n                                                     TH\n                                      THE 18              INTERNATIONAL CHEMISTRY OLYMPIAD, 1986\n\n     In total 3-x mol gases are present after conversion. Supposing that the input of A is a\n     mol (S5) and the input of B b mol (S6) we can write for the equilibrium:\n                   2\n                  pC\n     Kp=                   = 10.0\n             p A × pB\n                       2\n\n     If x mol of A are converted, S8 contains (a - x) mol of A, (b – 2x) mol of B and 2 x mol\n     of C. Therefore S8 contains (a - x) + (9 b – 2x) + 2x = (a + b - x) moles and we can\n     write for the partial pressures of A and B:\n               a-x                                    b - 2x                            2x\n      pA =            P                   pB =                P              pC =\n             a + b -x                                a + b -x                        a + b-x\n     Therefore the equilibrium can be written as\n\n                   (2x )2                           a+b- x\n      Kp=                                 2\n                                              ×            = 10\n             (a - x) (b - 2x)                         P\n                                                               2         2           3     2        2   2   2   3\n7.3 For P = 0.10 we obtain: 4x a + 4x b - 4x = ab - 4abx + 4ax - xb + 4x b - 4x and\n     wherefrom:\n     0 = ab - 4abx - xb and since b ≠ 0:\n              2                           2\n                                                                               0 = ab - 4ax - bx\n                                                                    -1                         -1\n     With a total inflow of 0.5 mol s A (S1) and 1 mol s B (S2), the amount of C leaving\n                                                               -1\n     the reactor (S10) is 1 mol s . So 2x = 1 and x = 0.5. The relation between a and b\n     can be written as: a = b / (2b - 4). Since the feed is stoichiometric a : b = 1 : 2. This\n     leads to b = 3 and a = 1.5.\n     All flows (mol/s) can be calculated now:\n                                -1\n     s1 = 0.5 mol s A\n                           -1\n     s2 = 1 mol s B\n                                                     -1\n     s3 = 1.5 - 0.5 = 1 mol s A\n                                               -1\n     s4 = 3 - 1 = 2 mol s A\n                                          -1\n     s5 = a = 1.5 mol s A\n                                     -1\n     s6 = b = 3 mol s B\n                                -1                             -1\n     s7 = 1.5 mol s A + 3 mol s B\n                           -1                             -1                    -1\n     s8 = 1 mol s A + 2 mol s B + 1 mol s C\n     s10 = 1 mol C\n     s91 = 2 mol B + 1 mol C;                                  s92 = 1 mol A + 1 mol C\n7.4 By increasing the pressure, the equilibrium is pushed towards the side with the\n     smallest number of molecules that means to the right side. Another possibility is\n     changing the ratio of the feed. i. e. a : b. According to a = b / (2 b - 4), b will be larger\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIAD, Volume 1                                        360\n\n                                 TH\n\n     if a decreases and vice versa. Because the net enthalpy change is 0, temperature\n     has no effect.\n7.5 Energy must be supplied for heating the evaporator and for the two distillation\n     columns. The total energy consumed of the flow in scheme can be calculated as\n     follows:\n     Q1 = q*S7 + 3q*S3 + 3q*S10 = 10.5 q\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIAD, Volume 1     361\n\n                                 TH\n\nIntroduction:\nThe experimental assignment consists of the synthesis and subsequently, the analysis of\namminenickel(II) chloride: NiClx(NH3)y.\nThe synthesis proceeds in three steps:\na) Preparation of a solution of nickel nitrate from nickel and concentrated nitric acid\n   (green solution), time required about 20 min.\nb) Preparation of amminenickel(II) nitrate (blue crystals)\nc) Preparation of amminenickel(II) chloride (blue-violet crystals)\n   The analysis encompasses the determination of the percentages of the three\n   components (ammonia, nickel and chlorine) of the salt, according to the instructions\n   given in 2.",
+   "parts": [
+    {
+     "id": "7.1",
+     "points": 2,
+     "question": "Draw a flow diagram of the process in which all flows are given (flow sheet) and in which the starting materials are used as efficiently as possible using as few pieces of apparatus as possible.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.2",
+     "points": 2,
+     "question": "Express the equilibrium constant in terms of the degree of conversion and of total pressure for the case that the feed to the reactor is stoichiometric. What is the value of the degree of conversion when total pressure is 0.100 MPa? -1",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.3",
+     "points": 2,
+     "question": "Number all flows. Calculate the composition of each flow in mol s for a rate of production of 1 mole of C per second under the conditions of part b.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.4",
+     "points": 2,
+     "question": "In what respect can the reaction conditions influence the composition of the mixture that leaves the reactor? (Refer to question b.)",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "7.5",
+     "points": 2,
+     "question": "The process requires energy. For the conditions of b explain where energy should be supplied in the flow diagram drawn in part a. Derive an expression for the total energy needed.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Задача №8",
+   "weight": null,
+   "total": 10,
+   "statement": "The following reaction scheme represents part of anaerobic degradation of\nsaccharides, i.e. the glycolysis, involving equilibrium constants K1 and K2:\n\n      glucose-1-phosphate              glucose-6-phosphate      K1 = 19\n\n      glucose-6-phosphate              fructose-6-phosphate    K2 = 0.50\n\n8.1 Give the structural formulae for all the three reactants (compounds) that are mutually\n       interconverted,    i.e.    α-D-glucose-1-phosphate,         α-D-glucose-6-phosphate      and\n       α-D-fructose-6-phosphate.\n8.2 In the beginning of the reaction the reaction mixture contained 1 mmol of\n       glucose-6-phosphate.            Calculate    the    amounts        of    glucose-6-phosphate,\n       glucose-1-phosphate and fructose-6-phosphate in the mixture at equilibrium. (As the\n       reaction take place in a constant volume, the ratio of the amounts of substances\n       equals that of their concentrations.)\n\nSOLUTION\n8.1\n                  α-D-glucose-1-phosphate\n\n                  α-D-glucose-6-phosphate\n\n                  α-D-fructose-6-phosphate\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1                   336\n\n                                    TH\n\n8.2 It holds for the equilibrium constant of the successive reactions, that\n      Fru-6-P\n              = 19 × 0.5 = 9.5                              (i)\n      Glc-1-P\n     If y mmoles of Glc-6-phosphate are converted into the same number of\n     Glc-1-phosphate and another x mmoles of Glc-6-phosphate are converted into the\n     same number of mmoles of Fru-6-phosphate, then (1 − x − y) mmoles of\n     Glc-6-phosphate remain in the reaction mixture at equilibrium. It follows from\n     relationship (i) that\n     Glc-1-phosphate = y                   x/y = 9.5\n     Fru-6-phosphate = x                   x = 9.5 y\n     After substituting,\n     Glc-6-phosphate = 1 − x − y = 1 − 10.5y,\n     it is possible to write for the reaction mixture at equilibrium that\n      Glc-6-P   1 − 10.5y\n              =           = 19                  1 − 10.5y = 19 y\n      Glc-1-P       y\n                                               y = 1/29.5 = 0.034 mmoles Glc-1-phoshate\n     It is further calculated that\n      x = 9.5y = 9.5 × 0.034 or 9.5/29.5 = 0.322 mmoles of Fru-6-phosphate\n      1 − x − y = 1 − 0.322 − 0.034 = 0.644 mmoles of Glc-6-phosphate\n     At equilibrium the reaction mixture contains 0.034 mmoles Glc-1-phosphate, 0.644\n     mmoles Glc-6-phosphate and 0.322 mmoles Fru-6-phosphate.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 1             337\n\n                                  TH",
+   "parts": [
+    {
+     "id": "8.1",
+     "points": 5,
+     "question": "Give the structural formulae for all the three reactants (compounds) that are mutually interconverted, i.e. α-D-glucose-1-phosphate, α-D-glucose-6-phosphate and α-D-fructose-6-phosphate.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "8.2",
+     "points": 5,
+     "question": "In the beginning of the reaction the reaction mixture contained 1 mmol of glucose-6-phosphate. Calculate the amounts of glucose-6-phosphate, glucose-1-phosphate and fructose-6-phosphate in the mixture at equilibrium. (As the reaction take place in a constant volume, the ratio of the amounts of substances equals that of their concentrations.)",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

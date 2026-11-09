@@ -1,0 +1,37 @@
+{
+ "setId": "math-imo-1970--math-tasks",
+ "olympiadId": "math-imo-1970",
+ "title": "Математика → IMO (международная) → 1970",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/math/s/imo/1970/math-tasks.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T19:30:11.362Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Twelfth International Olympiad, 1970\n1970/1.\nLet M be a point on the side AB of ∆ABC. Let r1 , r2 and r be the radii\nof the inscribed circles of triangles AM C, BM C and ABC. Let q1 , q2 and q\nbe the radii of the escribed circles of the same triangles that lie in the angle\nACB. Prove that\n                                  r1 r2      r\n                                      ·   = .\n                                  q1 q2      q\n1970/2.\nLet a, b and n be integers greater than 1, and let a and b be the bases of\ntwo number systems. An−1 and An are numbers in the system with base a,\nand Bn−1 and Bn are numbers in the system with base b; these are related as\nfollows:\n                 An = xn xn−1 · · · x0 , An−1 = xn−1 xn−2 · · · x0 ,\n                 Bn = xn xn−1 · · · x0 , Bn−1 = xn−1 xn−2 · · · x0 ,\n                 xn 6= 0, xn−1 6= 0.\nProve:\n                        An−1   Bn−1\n                             <      if and only if a > b.\n                         An     Bn\n1970/3.\nThe real numbers a0 , a1 , ..., an , ... satisfy the condition:\n                        1 = a0 ≤ a1 ≤ a2 ≤ · · · ≤ an ≤ · · · .\nThe numbers b1 , b2 , ..., bn , ... are defined by\n                                    n µ\n                                    X                ¶\n                                             ak−1         1\n                             bn =         1−             √ .\n                                    k=1       ak          ak\n(a) Prove that 0 ≤ bn < 2 for all n.\n(b) Given c with 0 ≤ c < 2, prove that there exist numbers a0 , a1 , ... with\nthe above properties such that bn > c for large enough n.\n1970/4.\nFind the set of all positive integers n with the property that the set {n, n +\n1, n + 2, n + 3, n + 4, n + 5} can be partitioned into two sets such that the\nproduct of the numbers in one set equals the product of the numbers in the\nother set.\n\n1970/5.\nIn the tetrahedron ABCD, angle BDC is a right angle. Suppose that the\nfoot H of the perpendicular from D to the plane ABC is the intersection of\nthe altitudes of ∆ABC. Prove that\n\n               (AB + BC + CA)2 ≤ 6(AD2 + BD2 + CD2 ).\n\nFor what tetrahedra does equality hold?\n\n1970/6.\nIn a plane there are 100 points, no three of which are collinear. Consider all\npossible triangles having these points as vertices. Prove that no more than\n70% of these triangles are acute-angled.",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

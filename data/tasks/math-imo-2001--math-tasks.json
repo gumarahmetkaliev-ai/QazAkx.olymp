@@ -7,7 +7,7 @@
  "tasksFile": "olympiads/math/s/imo/2001/math-tasks.pdf",
  "solutionFile": "olympiads/math/s/imo/2001/math-sol.pdf",
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:41.294Z",
+ "generatedAt": "2026-11-09T19:30:10.129Z",
  "quality": {
   "tasks": 6,
   "parts": 6,
@@ -19,7 +19,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "Let ABC be an acute-angled triangle with circumcentre O . Let P on BC…",
    "statement": "Let ABC be an acute-angled triangle with circumcentre O . Let P on BC be the foot of the altitude from A.\n\n  Suppose that \u0001BCA \u0002 \u0001ABC \u0003 30\u0001 .\n\n  Prove that \u0001CAB \u0003 \u0001COP \u0004 90\u0001 .",
    "total": 7,
    "parts": [
@@ -34,7 +34,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "Prove that a b c \u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0002\u0005\u0005 \u0003 \u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005…",
    "statement": "Prove that\n\n                     a                                   b                                   c\n                     \u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0002\u0005\u0005 \u0003 \u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\n       \u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\n        \u0001\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002                              \u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0002\u0005\u0005 \u0003 \u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\n                                            \u0001\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002                              \u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0005\u0002\u0005\u0005\u0005 \u0002 1\n                                                                                \u0001\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\u0002\n             a2 \u0003 8\u0006b\u0006c                          b2 \u0003 8\u0006c\u0006a                          c2 \u0003 8\u0006a\u0006b\n  for all positive real numbers a, b and c .",
    "total": 7,
    "parts": [
@@ -49,7 +49,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "Twenty-one girls and twenty-one boys took part in a mathematical…",
    "statement": "Twenty-one girls and twenty-one boys took part in a mathematical contest.\n\n             • Each contestant solved at most six problems.\n             • For each girl and each boy, at least one problem was solved by both of them.\n  Prove that there was a problem that was solved by at least three girls and at least three boys.",
    "total": 7,
    "parts": [
@@ -64,7 +64,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "Let n be an odd integer greater than 1, and let k1 , k2 , …, kn be…",
    "statement": "Let n be an odd integer greater than 1, and let k1 , k2 , …, kn be given integers. For each of the n\u0007 permutations\n  a \b \u0003a1 , a2 , …, an \u0004 of 1, 2, …, n , let\n\n                         n\n       S\u0006\u0003a\u0004 \b \u0005 ki \u0006ai .\n                       i\b1\n\n  Prove that there are two permutations b and c, b                                          c, such that n \u0007 is a divisor of S\u0003b\u0004   S\u0003c\u0004.\n\n                                                                                          http://imo.wolfram.com/\n\n2                                                                                                 IMO 2001 Competition Problems",
    "total": 7,
    "parts": [
@@ -79,7 +79,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "In a triangle ABC , let AP bisect \u0001BAC , with P on BC , and let BQ…",
    "statement": "In a triangle ABC , let AP bisect \u0001BAC , with P on BC , and let BQ bisect \u0001ABC , with Q on CA.\n\n      It is known that \u0001BAC \b 60\u0001 and that AB \u0003 BP \b AQ \u0003 QB.\n\n      What are the possible angles of triangle ABC ?",
    "total": 7,
    "parts": [
@@ -94,7 +94,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "Let a, b, c, d be integers with a b c d 0. Suppose that a\u0006c \u0003 b\u0006d \b…",
    "statement": "Let a, b, c, d be integers with a    b   c   d   0. Suppose that\n\n           a\u0006c \u0003 b\u0006d \b \u0003b \u0003 d \u0003 a          c\u0004\u0006\u0003b \u0003 d   a \u0003 c\u0004.\n      Prove that a\u0006b \u0003 c\u0006d is not prime.\n\n                                                          http://imo.wolfram.com/",
    "total": 7,
    "parts": [

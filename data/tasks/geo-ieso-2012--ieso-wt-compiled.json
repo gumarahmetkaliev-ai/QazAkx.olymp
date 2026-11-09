@@ -1,0 +1,292 @@
+{
+ "setId": "geo-ieso-2012--ieso-wt-compiled",
+ "olympiadId": "geo-ieso-2012",
+ "title": "География → IESO (науки о Земле) → 2012",
+ "materialLabel": "Ieso wt compiled",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/ieso/2012/ieso-wt-compiled.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:25:54.014Z",
+ "quality": {
+  "tasks": 18,
+  "parts": 18,
+  "withPoints": 18,
+  "withReference": 0,
+  "withQuestion": 18,
+  "estimatedPoints": 18
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "The duration of spring and summer in the southern hemisphere is 178.7…",
+   "statement": "The duration of spring and summer in the southern hemisphere is 178.7 days, whilst the\n   duration of autumn and winter is 186.5 days (the opposite is valid for the northern\n   hemisphere). This apparently strange fact is related to: (1.pt)\n  (A) The magnetic field of the Sun affects the velocity of the Earth when it approaches the\n     perihelion\n  (B) The fact that the Earth changes its velocity in accordance to Kepler’s Second Law\n  (C) The precession of the Earth\n  (D) The Earth is in its perihelion in July",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "If you were at the North Pole, Polaris would be ... (1.pt) (A) at…",
+   "statement": "If you were at the North Pole, Polaris would be ... (1.pt)\n  (A) at your zenith\n  (B) at your northern horizon\n  (C) below the horizon\n  (D) It depends on the time of day",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "The magnifying power of a (refracting) telescope can be calculated…",
+   "statement": "The magnifying power of a (refracting) telescope can be calculated ...(1.pt)\n  (A) using sophisticated computer simulations\n  (B) from the focal lengths of the two lenses\n  (C) from the diameters of the two lens\n  (D) from the price of the telescope",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "For similar tidal amplitudes in different geographic locations, the…",
+   "statement": "For similar tidal amplitudes in different geographic locations, the surface of beach covered\n   by the water during each tidal cycle is related to: (1.pt)\n  (A) The absolute value of low tide above mean sea level\n  (B) The slope of the beach\n  (C) The influence of local winds on the tide\n  (D) The influence of the local temperature",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Right ascension is the sky's equivalent to the Earth's ... (1.pt) (A)…",
+   "statement": "Right ascension is the sky's equivalent to the Earth's ... (1.pt)\n  (A) Latitude\n  (B) Longitude\n  (C) Altitude\n  (D) Meridian",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Azimuth is the ___?(1.pt) (A) angle, measured in degrees, above the…",
+   "statement": "Azimuth is the ___?(1.pt)\n  (A) angle, measured in degrees, above the nearest horizon\n  (B) horizontal direction (angle) or bearing of an object in the sky\n  (C) point in the sky (on the \"celestial sphere\") directly overhead\n  (D) great circle on the celestial sphere that passes through your zenith and also through both\n     celestial poles",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "If your latitude is 30 , what is the most southerly declination of a…",
+   "statement": "If your latitude is 30 , what is the most southerly declination of a star to be circumpolar?\n   (2.pt)\n  (A) +90\n  (B) +60\n  (C) +30\n  (D) -30",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "The amount of light that a telescope can collect is limited by the…",
+   "statement": "The amount of light that a telescope can collect is limited by the telescope's ...(1.pt)\n  (A) chromatic aberration\n  (B) focal point\n  (C) aperture\n  (D) eyepiece",
+   "total": 7,
+   "parts": [
+    {
+     "id": "8",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "What is the correct term for the time taken for any object in the…",
+   "statement": "What is the correct term for the time taken for any object in the Solar System (such as the\n   Moon) to return to the same position relative to the Sun as seen from Earth? (1.pt)\n  (A) year\n  (B) solar time\n  (C) sidereal period\n  (D) synodic period",
+   "total": 7,
+   "parts": [
+    {
+     "id": "9",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "The color of a star is mainly due to its ...(1.pt) (A) surface…",
+   "statement": "The color of a star is mainly due to its ...(1.pt)\n  (A) surface temperature\n  (B) composition\n  (C) distance\n  (D) twinkling",
+   "total": 7,
+   "parts": [
+    {
+     "id": "10",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "A superior planet can be seen to retrograde when it is near ...(1.pt)…",
+   "statement": "A superior planet can be seen to retrograde when it is near ...(1.pt)\n  (A) conjunction\n  (B) quadrature\n  (C) opposition\n  (D) the Moon",
+   "total": 7,
+   "parts": [
+    {
+     "id": "11",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "title": "When a planet is less than one astronomical unit (AU) from Earth AND…",
+   "statement": "When a planet is less than one astronomical unit (AU) from Earth AND shares the same\n  AR as the Sun, that planet must be ...(1.pt)\n  (A) Venus\n  (B) Mercury\n  (C) at superior conjunction\n  (D) at inferior conjunction",
+   "total": 7,
+   "parts": [
+    {
+     "id": "12",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 13,
+   "title": "An inferior planet at its greatest eastern elongation is best seen…",
+   "statement": "An inferior planet at its greatest eastern elongation is best seen ...(2.pt)\n  (A) around midnight\n  (B) around noon\n  (C) just after sunset\n  (D) just before sunrise",
+   "total": 7,
+   "parts": [
+    {
+     "id": "13",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Two optical telescopes A & B are used to observe the same celestial…",
+   "statement": "Two optical telescopes A & B are used to observe the same celestial object. (Assume both\n  have the same transmission rate.)\n\n         telescope             A               B\n\n         diameter            25 cm          100 cm\n\n    To obtain the same number of photons, what would be the exposure of telescope A to have the\n    same amount of photons obtained by telescope B? (2.pt)\n  (A) 4 times\n  (B) 8 times\n  (C) 16 times\n  (D) 32 times",
+   "total": 7,
+   "parts": [
+    {
+     "id": "14",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 15,
+   "title": "The star Alpha Centauri is approximately 4.0x1013 km away from Earth.…",
+   "statement": "The star Alpha Centauri is approximately 4.0x1013 km away from Earth. If Alpha Centauri\n  moves closer like the Moon (about 4.0 x105 km away), about how much brighter is Alpha\n  Centauri than before? (2.pt)\n  (A) 108 times\n  (B) 1012 times\n  (C) 1016 times\n  (D) 1024 times",
+   "total": 7,
+   "parts": [
+    {
+     "id": "15",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 16,
+   "title": "If the Sun set below your western horizon about 6 hours ago, and the…",
+   "statement": "If the Sun set below your western horizon about 6 hours ago, and the Moon is barely\n  visible on the eastern horizon. Which phase of the Moon would this be? (2.pt)\n  (A) Full Moon\n  (B) First Quarter\n  (C) New Moon\n  (D) Third Quarter",
+   "total": 7,
+   "parts": [
+    {
+     "id": "16",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 17,
+   "title": "If we have our own aircraft and want to fly directly from Albany,…",
+   "statement": "If we have our own aircraft and want to fly directly from Albany, Australia (35º1’ South,\n  117º53’ East) to Olavarria (36º52’South, 60º5’ West), with shortest distance, we will pass\n  through the following region: (2.pt)\n  (A) Antarctic\n  (B) South Africa\n  (C) Hawaii\n  (D) New Zealand",
+   "total": 7,
+   "parts": [
+    {
+     "id": "17",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 18,
+   "title": "Dating impact craters From time to time, the planets are struck by…",
+   "statement": "Dating impact craters\n    From time to time, the planets are struck by bodies coming from the space. The impact of\n    these bodies on Mercury’s surface results in circular structures known as an impact\n    craters. The superimposing relationships between craters provide a useful tool for relative\n    dating of these structures. Please carefully analyze the photo below. Which of the options\n    below is the correct sequence from oldest to youngest? : (2.pt)\n\n                            B\n      A                         C\n\n  (A) A - B - C\n  (B) A - C - B\n  (C) B - A - C\n  (D) B - C - A\n\nIESO 2012 Written TEST Atmosphere\n\nName_____________________________               Nationality _________________________",
+   "total": 7,
+   "parts": [
+    {
+     "id": "18",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

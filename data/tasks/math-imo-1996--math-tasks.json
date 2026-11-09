@@ -8,7 +8,7 @@
  "solutionFile": null,
  "noSolution": true,
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:41.802Z",
+ "generatedAt": "2026-11-09T19:30:10.638Z",
  "quality": {
   "tasks": 3,
   "parts": 3,
@@ -20,7 +20,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "We are given a positive integer r and a rectangular board ABCD with…",
    "statement": "We are given a positive integer r and a rectangular board ABCD with\n   dimensions |AB| = 20, |BC| = 12. The rectangle is divided into a grid\n   of 20 × 12 unit squares. The following moves are permitted on the\n   board: one can move from one square to another\n                                               √      only if the distance\n   between the centers of the two squares is r. The task is to find a\n   sequence of moves leading from the square with A as a vertex to the\n   square with B as a vertex.\n\n   (a) Show that the task cannot be done if r is divisible by 2 or 3.\n   (b) Prove that the task is possible when r = 73.\n    (c) Can the task be done when r = 97?",
    "total": 7,
    "parts": [
@@ -35,7 +35,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "Let P be a point inside triangle ABC such that 6 AP B − 6 ACB = 6 AP…",
    "statement": "Let P be a point inside triangle ABC such that\n\n                    6   AP B − 6 ACB = 6 AP C − 6 ABC.\n\n  Let D, E be the incenters of triangles AP B, AP C, respectively. Show\n  that AP, BD, CE meet at a point.",
    "total": 7,
    "parts": [
@@ -50,7 +50,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "Let S denote the set of nonnegative integers. Find all functions f…",
    "statement": "Let S denote the set of nonnegative integers. Find all functions f from\n   S to itself such that\n\n               f (m + f (n)) = f (f (m)) + f (n)   ∀m, n ∈ S.\n\n          37th International Mathematical Olympiad\n                            Mumbai, India\n                  Day II        9 a.m. - 1:30 p.m.\n                             July 11, 1996",
    "total": 7,
    "parts": [

@@ -7,7 +7,7 @@
  "tasksFile": "olympiads/math/s/imo/2020/math-tasks.pdf",
  "solutionFile": "olympiads/math/s/imo/2020/math-sol.pdf",
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:27.470Z",
+ "generatedAt": "2026-11-09T19:29:56.765Z",
  "quality": {
   "tasks": 6,
   "parts": 6,
@@ -19,7 +19,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "Consider the convex quadrilateral ABCD. The point P is in the…",
    "statement": "Consider the convex quadrilateral ABCD. The point P is in the interior of ABCD.\nThe following ratio equalities hold:\n\n                 ∠P AD : ∠P BA : ∠DP A = 1 : 2 : 3 = ∠CBP : ∠BAP : ∠BP C.\nProve that the following three lines meet in a point: the internal bisectors of angles ∠ADP and\n∠P CB and the perpendicular bisector of segment AB.",
    "total": 7,
    "parts": [
@@ -33,7 +33,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "The real numbers a, b, c, d are such that a ≥ b ≥ c ≥ d > 0 and a + b…",
    "statement": "The real numbers a, b, c, d are such that a ≥ b ≥ c ≥ d > 0 and a + b + c + d = 1.\nProve that\n                                 (a + 2b + 3c + 4d) aa bb cc dd < 1.",
    "total": 7,
    "parts": [
@@ -47,7 +47,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "There are 4n pebbles of weights 1, 2, 3, . . . , 4n. Each pebble is…",
    "statement": "There are 4n pebbles of weights 1, 2, 3, . . . , 4n. Each pebble is coloured in one of n\ncolours and there are four pebbles of each colour. Show that we can arrange the pebbles into two\npiles so that the following two conditions are both satisfied:\n\n  • The total weights of both piles are the same.\n\n  • Each pile contains two pebbles of each colour.\n\nLanguage: English                                                      Time: 4 hours and 30 minutes.\n                                                                       Each problem is worth 7 points.\n\n                                                               English (eng), day 2\n\n                                                                          Tuesday, 22. September 2020",
    "total": 7,
    "parts": [
@@ -61,7 +61,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "There is an integer n > 1. There are n2 stations on a slope of a…",
    "statement": "There is an integer n > 1. There are n2 stations on a slope of a mountain, all at\ndifferent altitudes. Each of two cable car companies, A and B, operates k cable cars; each cable\ncar provides a transfer from one of the stations to a higher one (with no intermediate stops). The\nk cable cars of A have k different starting points and k different finishing points, and a cable car\nwhich starts higher also finishes higher. The same conditions hold for B. We say that two stations\nare linked by a company if one can start from the lower station and reach the higher one by using\none or more cars of that company (no other movements between stations are allowed).\n    Determine the smallest positive integer k for which one can guarantee that there are two stations\nthat are linked by both companies.",
    "total": 7,
    "parts": [
@@ -75,7 +75,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "A deck of n > 1 cards is given. A positive integer is written on each…",
    "statement": "A deck of n > 1 cards is given. A positive integer is written on each card. The deck\nhas the property that the arithmetic mean of the numbers on each pair of cards is also the geometric\nmean of the numbers on some collection of one or more cards.\n   For which n does it follow that the numbers on the cards are all equal?",
    "total": 7,
    "parts": [
@@ -89,7 +89,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "Prove that there exists a positive constant c such that the following…",
    "statement": "Prove that there exists a positive constant c such that the following statement is true:\n    Consider an integer n > 1, and a set S of n points in the plane such that the distance between\nany two different points in S is at least 1. It follows that there is a line ℓ separating S such that the\ndistance from any point of S to ℓ is at least cn−1/3 .\n    (A line ℓ separates a set of points S if some segment joining two points in S crosses ℓ.)\n\nNote. Weaker results with cn−1/3 replaced by cn−α may be awarded points depending on the value\nof the constant α > 1/3.\n\nLanguage: English                                                      Time: 4 hours and 30 minutes.\n                                                                       Each problem is worth 7 points.",
    "total": 7,
    "parts": [

@@ -7,7 +7,7 @@
  "tasksFile": "olympiads/math/s/imo/2014/math-tasks.pdf",
  "solutionFile": "olympiads/math/s/imo/2014/math-sol.pdf",
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:33.655Z",
+ "generatedAt": "2026-11-09T19:30:03.136Z",
  "quality": {
   "tasks": 6,
   "parts": 6,
@@ -19,7 +19,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "Let a0 < a1 < a2 < · · · be an in\u001cnite sequence of positive integers.…",
    "statement": "Let a0 < a1 < a2 < · · · be an in\u001cnite sequence of positive integers. Prove that there\nexists a unique integer n ≥ 1 such that\n                                         a0 + a1 + · · · + an\n                                  an <                        ≤ an+1 .\n                                                 n",
    "total": 7,
    "parts": [
@@ -33,7 +33,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "Let n ≥ 2 be an integer. Consider an n × n chessboard consisting of…",
    "statement": "Let n ≥ 2 be an integer. Consider an n × n chessboard consisting of n2 unit squares.\nA con\u001cguration of n rooks on this board is peaceful if every row and every column contains exactly\none rook. Find the greatest positive integer k such that, for each peaceful con\u001cguration of n rooks,\nthere is a k × k square which does not contain a rook on any of its k 2 unit squares.",
    "total": 7,
    "parts": [
@@ -47,7 +47,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "Convex quadrilateral ABCD has ∠ABC = ∠CDA = 90◦ . Point H is the foot…",
    "statement": "Convex quadrilateral ABCD has ∠ABC = ∠CDA = 90◦ . Point H is the foot of the\nperpendicular from A to BD. Points S and T lie on sides AB and AD, respectively, such that H\nlies inside triangle SCT and\n\n                        ∠CHS − ∠CSB = 90◦ ,          ∠T HC − ∠DT C = 90◦ .\n\nProve that line BD is tangent to the circumcircle of triangle T SH .\n\nLanguage: English                                                        Time: 4 hours and 30 minutes\n\n                                                                         Each problem is worth 7 points\n\n                                                                                Language: English\n                                                                                                      Day: 2\n\n                                                                               Wednesday, July 9, 2014",
    "total": 7,
    "parts": [
@@ -61,7 +61,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "Points P and Q lie on side BC of acute-angled triangle ABC so that ∠P…",
    "statement": "Points P and Q lie on side BC of acute-angled triangle ABC so that ∠P AB = ∠BCA\nand ∠CAQ = ∠ABC . Points M and N lie on lines AP and AQ, respectively, such that P is the\nmidpoint of AM , and Q is the midpoint of AN . Prove that lines BM and CN intersect on the\ncircumcircle of triangle ABC .",
    "total": 7,
    "parts": [
@@ -75,7 +75,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "For each positive integer n, the Bank of Cape Town issues coins of…",
    "statement": "For each positive integer n, the Bank of Cape Town issues coins of denomination n1 .\nGiven a \u001cnite collection of such coins (of not necessarily di\u001berent denominations) with total value at\nmost 99 + 21 , prove that it is possible to split this collection into 100 or fewer groups, such that each\ngroup has total value at most 1.",
    "total": 7,
    "parts": [
@@ -89,7 +89,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "A set of lines in the plane is in general position if no two are…",
    "statement": "A set of lines in the plane is in general position if no two are parallel and no three\npass through the same point. A set of lines in general position cuts the plane into regions, some of\nwhich have \u001cnite area; we call these its \u001cnite regions. Prove that√for all su\u001eciently large n, in any\nset of n lines in general position it is possible to colour at least n of the lines blue in such a way\nthat none of its \u001cnite regions has a completely blue boundary.\n                      √               √\nNote: Results with     n replaced by c n will be awarded points depending on the value of the\nconstant c.\n\nLanguage: English                                                        Time: 4 hours and 30 minutes\n                                                                         Each problem is worth 7 points",
    "total": 7,
    "parts": [

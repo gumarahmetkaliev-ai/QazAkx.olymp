@@ -1,0 +1,37 @@
+{
+ "setId": "geo-ieso-2016--ieso-pt-geology-a",
+ "olympiadId": "geo-ieso-2016",
+ "title": "География → IESO (науки о Земле) → 2016",
+ "materialLabel": "Ieso pt geology a",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/ieso/2016/ieso-pt-geology-a.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "whole-document",
+ "generatedAt": "2026-11-09T19:25:53.119Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 0,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Задания тура",
+   "statement": "Practical Geo Field evaluation – Site A (Yanaidani)\n                                :Student number                                            :Name\n\n                                            :Team                                          :Group\n\nField kit​: Hand lens\nTime limit​: 10 min.\nStrata in the exposure are divided into the lower and upper units. At the basal part of the\nupper unit, there is a fossiliferous bed (a bed with dense aggregation of fossils).​ ​Read the\nfollowing questions (A1 to A5), and circle one letter that corresponds to the correct answer.\n\nA​ ​1. Observe the rock exposure from a distance. What can you conclude?\n    a) It is a sedimentary rock\n    b) It is a plutonic rock\n    c) It is a volcanic rock\n    d) It is a metamorphic rock\n\nA 2. What is the most appropriate rock name of the lower unit?\n\n       g) Basalt                                         a)   Limestone\n       h) Chert                                          b)   Tuff\n       i)     Mudstone                                   c)   Obsidian\n       j)     Gabbro                                     d)   Sandstone\n       k) Gneiss                                         e)   Schist\n       l)     Granite                                    f)   Rhyolite\n\nA 3. What is the most appropriate rock name of the upper unit?\n\n       g) Basalt                                         a)   Limestone\n       h) Chert                                          b)   Tuff\n       i)     Mudstone                                   c)   Obsidian\n       j)     Gabbro                                     d)   Sandstone\n       k) Gneiss                                         e)   Schist\n       l)     Granite                                    f)   Rhyolite\n\nA 4. What is the most appropriate stratigraphic relationship between the lower unit and the\nupper unit?\n\n                                                 1\n\n    a) Conformity\n    b) Unconformity\n    c) Intrusion\n    d) Fault\n\n                                       Please turn over\n\nA 5. To what group are the dominant fossils in the fossiliferous bed related?\n    a) Bivalves (scallops and clams)\n    b) Brachiopods​ ​(Spirifer)\n    c) Ammonites\n    d) Corals\n\n                                               2",
+   "total": 10,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "points": 10,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

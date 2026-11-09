@@ -7,7 +7,7 @@
  "tasksFile": "olympiads/physics/s/IPhO/2017/phys-2-tasks.pdf",
  "solutionFile": "olympiads/physics/s/IPhO/2017/phys-2-sol.pdf",
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T18:42:05.243Z",
+ "generatedAt": "2026-11-09T19:30:51.766Z",
  "quality": {
   "tasks": 15,
   "parts": 15,
@@ -19,7 +19,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "",
    "statement": "",
    "total": 7,
    "parts": [
@@ -34,7 +34,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "page 1 of 8 Experiment English (Official) E1",
    "statement": "page 1 of 8\n\nExperiment\nEnglish (Official)\n                                       E1",
    "total": 7,
    "parts": [
@@ -49,7 +49,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "",
    "statement": "",
    "total": 7,
    "parts": [
@@ -64,7 +64,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "",
    "statement": "",
    "total": 7,
    "parts": [
@@ -79,7 +79,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "",
    "statement": "",
    "total": 7,
    "parts": [
@@ -94,7 +94,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "",
    "statement": "",
    "total": 7,
    "parts": [
@@ -109,7 +109,7 @@
   },
   {
    "number": 7,
-   "title": "Задача 7",
+   "title": "",
    "statement": "",
    "total": 7,
    "parts": [
@@ -124,7 +124,7 @@
   },
   {
    "number": 8,
-   "title": "Задача 8",
+   "title": "page 2 of 8 Experiment English (Official) E1",
    "statement": "page 2 of 8\n\nExperiment\nEnglish (Official)\n                                   E1",
    "total": 7,
    "parts": [
@@ -139,7 +139,7 @@
   },
   {
    "number": 9,
-   "title": "Задача 9",
+   "title": "",
    "statement": "",
    "total": 7,
    "parts": [
@@ -154,7 +154,7 @@
   },
   {
    "number": 10,
-   "title": "Задача 10",
+   "title": "",
    "statement": "",
    "total": 7,
    "parts": [
@@ -169,7 +169,7 @@
   },
   {
    "number": 11,
-   "title": "Задача 11",
+   "title": "",
    "statement": "",
    "total": 7,
    "parts": [
@@ -184,7 +184,7 @@
   },
   {
    "number": 12,
-   "title": "Задача 12",
+   "title": "",
    "statement": "",
    "total": 7,
    "parts": [
@@ -199,7 +199,7 @@
   },
   {
    "number": 13,
-   "title": "Задача 13",
+   "title": "page 3 of 8 Experiment English (Official) E1 page 4 of 8 Experiment…",
    "statement": "page 3 of 8\n\nExperiment\nEnglish (Official)\n                                   E1\n\n                     page 4 of 8\n\nExperiment\nEnglish (Official)\n\n          δ\n\n      Z0 Z      d\n\n                     d\n\n                                    E1\n\n              ξ                 Y\n                       dn/dY\n\n          ξZ\nYi = Z 0 +d+Z\n          i 0\n\n         Z0\n\n  ( dY )i = Zd\n    dn            δi\n\n                  page 5 of 8\n\nExperiment\nEnglish (Official)\n\n                          Z Z0\n\n        C0\n\n                 Z d Z 0 ξi        δi    i\n\n                                        t\n        δi                              Z d\n\n                        ( dY ) i\n                          dn\n                 Yi\n\n                                                E1\n\n                  Z Z0\n\n                         C0                C0\n\n              t\n\n                              Z d Z0 ξ i\n    Z0\n\npage 6 of 8\n\nExperiment\nEnglish (Official)\n                                                                                E1\n\n                     t                       Z d             Z0\n                                                      ( dY ) i\n                                                        dn\n                                                                  Yi   t\n\n        Determine the Yi at ( dY )i maximum obtained from question A3. Assign\n                              dn\n\n        this Yi as h .\n\n                                        page 7 of 8\n\nExperiment\nEnglish (Official)\n\n      C C0 D t h\n                                  Yi\n   (dn/dC)\n                       (dn/dY)i\n\n                  f ( dY\n                      dn\n                         )   g (Y)\n\n              t\n\n         dn\n         dY\n\n                                                            E1\n\n ( dY )i = ( dC ) ( dY )i\n   dn          dn        dC\n\n                         (h− Yi ) 2\n\n( dY )i ≈ 2√ πDt e\n  dC        Co     −        4Dt\n\n                                                  (dn/dY)\n\n  Yi\n\n                    f ( dY\n                        dn\n                           )              g (Y)\n\n          D\n\n                                      D               C\n\n              page 8 of 8\n\nExperiment\nEnglish (Official)\n                                    E2\n\n                     page 1 of 11\n\nExperiment\nEnglish (Official)\n                                            E2\n\n                         x\n          y                                  y0\n                         z\n\n                     z\n\n                             page 2 of 11\n\nExperiment\nEnglish (Official)\n                                                 E2\n\n                               M\n\n                                χ\n\n                                             χ\n\n                     Q                  μA\n\n                         page 3 of 11\n\nExperiment\nEnglish (Official)\n                                    E2",
    "total": 7,
    "parts": [
@@ -214,7 +214,7 @@
   },
   {
    "number": 14,
-   "title": "Задача 14",
+   "title": "",
    "statement": "",
    "total": 7,
    "parts": [
@@ -229,7 +229,7 @@
   },
   {
    "number": 15,
-   "title": "Задача 15",
+   "title": "",
    "statement": "",
    "total": 7,
    "parts": [

@@ -8,7 +8,7 @@
  "solutionFile": null,
  "noSolution": true,
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:41.832Z",
+ "generatedAt": "2026-11-09T19:30:10.671Z",
  "quality": {
   "tasks": 3,
   "parts": 3,
@@ -20,7 +20,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "Let A, B, C, D be four distinct points on a line, in that order. The…",
    "statement": "Let A, B, C, D be four distinct points on a line, in that order. The\n   circles with diameters AC and BD intersect at X and Y . The line XY\n   meets BC at Z. Let P be a point on the line XY other than Z. The\n   line CP intersects the circle with diameter AC at C and M , and the\n   line BP intersects the circle with diameter BD at B and N . Prove\n   that the lines AM, DN, XY are concurrent.",
    "total": 7,
    "parts": [
@@ -35,7 +35,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "Let a, b, c be positive real numbers such that abc = 1. Prove that 1…",
    "statement": "Let a, b, c be positive real numbers such that abc = 1. Prove that\n                        1                1                1         3\n                                 +                +                ≥ .\n                    a3 (b + c)       b3 (c + a)       c3 (a + b)    2",
    "total": 7,
    "parts": [
@@ -50,7 +50,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "Determine all integers n > 3 for which there exist n points A1 , . .…",
    "statement": "Determine all integers n > 3 for which there exist n points A1 , . . . , An\n   in the plane, no three collinear, and real numbers r1 , . . . , rn such that\n   for 1 ≤ i < j < k ≤ n, the area of 4Ai Aj Ak is ri + rj + rk .\n\n           36th International Mathematical Olympiad\n              Second Day - Toronto - July 20, 1995\n                     Time Limit: 4 12 hours",
    "total": 7,
    "parts": [

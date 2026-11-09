@@ -1,0 +1,232 @@
+{
+ "setId": "geo-ieso-2015--ieso-wt-compiled",
+ "olympiadId": "geo-ieso-2015",
+ "title": "География → IESO (науки о Земле) → 2015",
+ "materialLabel": "Ieso wt compiled",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/ieso/2015/ieso-wt-compiled.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:25:53.353Z",
+ "quality": {
+  "tasks": 14,
+  "parts": 14,
+  "withPoints": 14,
+  "withReference": 0,
+  "withQuestion": 14,
+  "estimatedPoints": 14
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "The rock unit in the picture below consists of rounded grains ranging…",
+   "statement": "The rock unit in the picture below consists of rounded grains ranging in size from\nsand to small pebbles.\nIn which sedimentary environment did this rock form? (Correct answer = 1 point)\n\n                                                                         30 cm\n\n   a.   Dune\n   b.   River\n   c.   Lake\n   d.   Beach",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "The surface wind is a result of the balance between the pressure…",
+   "statement": "The surface wind is a result of the balance between the pressure gradient force,\nCoriolis force, and frictional force. If the surface wind blows from west to east in the\nNorthern Hemisphere, in which direction would the pressure gradient force point?\n(Correct answer = 1 point)\n\n   a) Northeast\n   b) Southeast\n   c) Southwest\n   d) Northwest",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Choose the correct description for the evidence that the Earth’s…",
+   "statement": "Choose the correct description for the evidence that the Earth’s outer core is liquid.\n(Correct answer = 1 point)\n   a) In some places, the first arriving seismic waves are refracted waves instead of\n      direct waves.\n   b) There is a seismic shadow zone.\n   c) S-waves do not reach the opposite side of an epicenter.\n   d) Weak P-waves are detected in the P-wave shadow zone.\n\n                                            1",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "The figure below shows the global mean surface temperature anomaly…",
+   "statement": "The figure below shows the global mean surface temperature anomaly and the 5-\nyear running mean. The green bars show uncertainty estimates. The Earth’s\ntemperature has remained relatively constant for the past 15 years. Which one of the\nfollowing options would possibly cause this warming slowdown (or warming pause)?\n(Correct answer = 1 point)\n\n   a) Amount of cirrus cloud cover and an increase in the amount of water vapor\n   b) Concentration of tropospheric ozone has increased\n   c) An increase in the number of sunspots\n   d) The frequency of La Nina events has increased.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "According to the Big Bang theory, approximately how many years ago…",
+   "statement": "According to the Big Bang theory, approximately how many years ago was the\nuniverse at a very high density state and then expanded? (Correct answer = 0.5 point)\n   a) 130 x 106\n   b) 1.3 x 109\n   c) 13.8 x 109\n   d) 138 x 109",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Which of the following statements is correct and only related to the…",
+   "statement": "Which of the following statements is correct and only related to the study of\nseismic waves that pass through the Earth and based on rock rheology characteristics\n(the response of rock to stress)? (Correct answer = 1 point)\n   a) The asthenosphere lies entirely within the mantle and behaves in a semi-fluid\n      (plastic) manner on which the lithosphere slips.\n   b) The theory of plate tectonics states that the crust is segmented into several\n      pieces of a spherical jigsaw puzzle.\n   c) The crust and the outermost mantle comprise the asthenosphere that behaves\n      plastically.\n   d) The crust and mantle define a plate that moves relative to one another by\n      floating on and gliding over the liquid outer core.\n\n                                          2",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "The figures below represent two different types of cyclones. Which of…",
+   "statement": "The figures below represent two different types of cyclones.\nWhich of the statements below is correct?\n(Correct answer = 1 point)\n\n                       Figure 1                       Figure 2\n\n   a) Fig. 1 cyclone forms over cold tropical water.\n   b) Fig. 2 cyclone gains energy from condensation.\n   c) Fig. 1 cyclone is caused by upper air convergence.\n   d) Fig. 2 cyclone has boundaries separating air masses of different temperatures.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Which of the statements below describe the interaction among CaCO3,…",
+   "statement": "Which of the statements below describe the interaction among CaCO3, CO2 and\nH2O?\n(EACH correct answer = 1 point; EACH wrong answer = -1 point)\n   a) The formation of limestone.\n   b) The dissolution of limestone.\n   c) The interaction between atmosphere and geosphere.\n   d) The interaction among biosphere, hydrosphere and geosphere.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "8",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "How many years ago did the solar system form due to the gravitational…",
+   "statement": "How many years ago did the solar system form due to the gravitational collapse of\na giant interstellar molecular cloud? (Correct answer = 0.5 point)\n\n   a) 46 x 106\n   b) 460 x 106\n   e) 4.6 x 109\n   f) 46 x 109",
+   "total": 7,
+   "parts": [
+    {
+     "id": "9",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "If a massive formation of stalactites takes place in caves, which of…",
+   "statement": "If a massive formation of stalactites takes place in caves, which of the statements\nbelow describe the outcome?\n(EACH correct answer = 1 point; EACH wrong answer = -1 point)\n    a) Accelerate the present climate change.\n    b) Slow down the present climate change.\n    c) Accelerate the precipitation rate of limestone in the ocean.\n    d) Slow down the precipitation rate of limestone in the ocean.\n\n                                          3",
+   "total": 7,
+   "parts": [
+    {
+     "id": "10",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "The figure below shows the annual mean of solar (shortwave) and…",
+   "statement": "The figure below shows the annual mean of solar (shortwave) and terrestrial\n(long-wave) radiation. In the tropics, incoming solar radiation exceeds the outgoing\nterrestrial radiation and, hence, a surplus of energy exists. The reverse holds good for\nthe high latitudes. Thus, tropical surplus heat should be transferred towards the poles\nto balance the energy budget.\nWhich one of the following statements does NOT reduce the latitudinal energy\nimbalance? (Correct answer = 1 point)\n\n   a) Hurricanes (typhoons) move poleward.\n   b) Cold currents flow towards the equator\n   c) Atmospheric circulation in the mid-latitudes\n   d) Cyclones develop in mid-latitudes",
+   "total": 7,
+   "parts": [
+    {
+     "id": "11",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "title": "For a given gas, a decrease in temperature increases its solubility…",
+   "statement": "For a given gas, a decrease in temperature increases its solubility in water.\nHow will global warming influence the carbonate rocks on Earth?\nChoose the correct statement below. (Correct answer = 1 point)\n   a) It will only increase the dissolution of limestone.\n   b) It will increase the dissolution of all the carbonate rocks.\n   c) It will have no effect on the dissolution or formation of carbonate rocks.\n   d) It will increase the formation of carbonate rocks.\n\n                                            4",
+   "total": 7,
+   "parts": [
+    {
+     "id": "12",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 13,
+   "title": "The figure below shows the distribution of the Hawaiian and Emperor…",
+   "statement": "The figure below shows the distribution of the Hawaiian and Emperor chains with\nthe geological age of volcanic rocks (unit: 106 years).\nWhat is the velocity of the Pacific plate movement at present on the basis of this\ndistribution? Choose the correct statement from the list below:\n(Correct answer = 1 point)\n\n     a) 6 cm/year\n     b) 60 cm/year\n     c) 3 cm/year\n     d) 30 cm/year",
+   "total": 7,
+   "parts": [
+    {
+     "id": "13",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Which of the statements below describe the outcome of the increase of…",
+   "statement": "Which of the statements below describe the outcome of the increase of CO2 in the\natmosphere? (EACH correct answer = 1 point; EACH wrong answer = -1 point))\n\n   a) A decrease in the formation of CaCO3 in the oceans.\n   b) The formation of CaCO3 in the oceans.\n   c) Acidification of the oceans.\n   d) An increase in the growth of coral reefs.\n\n                                         5\n\n15 –16.The following paragraph (concerning sunspots) contains numbered blanks.\nPlease match the numbered blanks with the correct letters from the word bank\nprovided below. (Correct answer = 0.5 point)\nA sunspot is a relatively colder part on the sun's surface. The number of sunspots\ntypically changes with a periodicity of (15) years; solar activity is (16) when there are\nmany sunspots.\n\nWord bank:\n(a) 11 (b) 110 (c) 1100      (d) low (e) high     (f) constant\n\n                    Blank number in         The matching letter\n                     the paragraph          from the word bank\n                           15\n                           16\n\n17. How many times bigger is the diameter of the Sun compared to that of the Earth?\n(Correct answer = 0.5 point):\n    a) About 100 times\n    b) About 1,000 times\n    c) About 10,000 times\n    d) About 100,000 times\n\n18. Both the figures below show medium-grained sandstone.\nFigure (1) shows horizontal lamination and Figure (2) shows ripple cross-lamination\nChoose the correct answer that explains these sedimentary structures?\n(Correct answer = 1 point).\n\n        1                                          2\n\n   a) The water depth to form sedimentary structure (2) is deeper than that to form\n      sedimentary structure (1).\n   b) Sedimentary structure (2) is formed in a delta.\n   c) Sedimentary structure (1) is formed by the settling of grains in water.\n   d) Sedimentary structure (1) requires water flow of a higher velocity when\n      compared to that needed for sedimentary structure (2).\n\n                                            6\n\n19. The following figure shows the inferred changes in the concentration of\natmospheric carbon dioxide and temperature during the past 160,000 years.\nChoose the correct answers to explain the geologic processes related to this figure.\n(EACH correct answer = 1 point; EACH wrong answer = -1 point)\n\na) The high concentration of atmospheric CO2 at present is mainly caused by global\n   warming.\nb) Ocean acidification is expected and already recorded at present due to an increase\n   of atmospheric CO2.\nc) Development of glaciers in polar regions is expected when the atmospheric CO2\n   concentration is below 220 ppm.\nd) Dissolution of limestone exposed on continents is thought to have occurred more\n   effectively 20,000 years ago than 120,000 years ago.\n\n                                         7\n\n20. Diagrams A and B show the development pattern of sequences in a coast-to-\ncontinental shelf setting.\nChoose the correct answer to explain the balance between the rate of sea level rise and\nthe rate of sediment supply to the sea to form the sequences in (A) and (B).\n(Choose the correct answer = 1 point)\n\n   a) In section A: rate of sea level rise = rate of sediment supply\n      In section B: rate of sea level rise < rate of sediment supply\n\n   b) In section A: rate of sea level rise > rate of sediment supply\n      In section B: rate of sea level rise = rate of sediment supply\n\n   c) In section A: rate of sea level rise > rate of sediment supply\n      In section B: rate of sea level rise < rate of sediment supply\n   d) In section A: rate of sea level rise < rate of sediment supply\n      In section B: rate of sea level rise >rate of sediment supply\n\n21. The Sun produces nuclear fusion by converting _______.\n(Correct answer = 0.5 point)\n    a) Helium to Hydrogen,\n    b) Hydrogen to Lithium,\n    c) Helium to Carbon,\n    d) Hydrogen to Helium\n\n                                              8\n\n22. A hydrograph shows the rate of flow (discharge) versus time past a specific point\nin a river. The unit cms is cubic meters per second.\nFigure (a) is a hydrograph showing the typical lag between the time when most of the\nrainfall occurs and the time when the stream floods. \"A\" in the hydrographs below\nrepresents a factor which influences lag time.\nIn Figure (b) there is a decrease in lag time with the same amount of rainfall as in\nfigure (a). What is the correct reason for this decrease?\n(Correct answer = 1 point).\n\n   a) Construction of upstream retention ponds\n   b) Storm\n   c) Urbanization\n   d) Restoration of catchment forestation\n\n                                          9\n\n23. Which of the statements below correctly describes the outcome of the formation\nof limestone and chalk? (Correct answer = 1 point)\n   a) An increase in the amount of CO2 in the hydrosphere and in the atmosphere.\n   b) An increase in the amount of CO2 in the atmosphere only.\n   c) A decrease in the amount of CO2 in the atmosphere and in the hydrosphere.\n   d) A decrease in the amount of CO2 in the hydrosphere only.\n\n24. The green line in the graph below presents the chlorophyll content (water depth-\nwise) in the Gulf of Aqaba (latitude 29o). Which of the items below is related to the\nhigh amount of chlorophyll at shallow depth (~ 100 m)?\n(Correct answer = 1 point)\n\n                                     PO4\n\n           0,0   0,1       0,2         0,3     0,4        0,5       0,6\n       0\n\n   100\n\n   200\n\n   300\n\n   400\n\n   500\n\n   600\n\n   700\n (m)\n           0     1     2         3         4   5          6     7\n                                 NO3\n\n   a) The concentration of CO2 in the atmosphere\n   b) The sun light and water\n   c) The salinity of the water\n   d) The amount of nitrate and phosphate\n\n25. Which of the options below do NOT reflect the interrelationships between the\nearth systems in the formation of limestone and chalk?\n(EACH correct answer = 1 point; EACH wrong answer = -1 point)\n   a) Geosphere, atmosphere, hydrosphere and biosphere.\n   b) Only the geosphere, atmosphere and hydrosphere.\n   c) Only the biosphere, hydrosphere and geosphere.\n   d) Only the biosphere, atmosphere and geosphere.\n\n                                                     10\n\n26. What is the average surface temperature of the Sun? (Correct answer = 0.5 point)\n   a) 3750°C\n   b) 4750°C\n   c) 5750°C\n   d) 6750°C\n   e) 7750°C\n\n27 – 40. The following paragraph (concerning our solar system) contains numbered\nblanks. Please match the numbered blanks with the correct letters from the word bank\nprovided below. (Each correct answer = 0.5 point)\nThe four inner planets - Mercury, Venus, Earth and Mars - are called (27), which are\nmade up of (28) and (29). The four outer planets are (30).\nJupiter and Saturn, are (31), and are mainly composed of (32) and (33). Uranus and\nNeptune are (34), and are mainly composed of (35), (36) and (37).\nSmaller objects also exist in the Solar System, mostly between (38) and (39), which is\ncalled (40).\n                                      Word bank:\n                         a) Rock            m) Ice giants\n                         b) Ice giant       n) Scattered disc\n                         c) Methane         o) Water\n                         d) Mars            p) Venus\n                         e) Neptune         r) Saturn\n                         f) Kuiper belt     s) Ammonia\n                         g) Metal           t) Earth\n                         h) Hydrogen        u) Uranus\n                         i) Helium          v) Gas giants\n                         j) Giant planets   w) Asteroid belt\n                         k) Mercury         x) Rocky planets\n                         l) Jupiter         y) Planetesimals\n\n                    Blank number in        The matching letter\n                     the paragraph         from the word bank\n                           27\n                           28\n                           29\n                           30\n                           31\n                           32\n                           33\n                           34\n                           35\n                           36\n                           37\n                           38\n                           39\n                           40\n\n                                          11\n\n41. Which of the options below is the correct order of the size of carbon reservoirs on\nEarth? (Correct answer = 1 point).\n   a) Atmosphere (the largest).\n      Biosphere\n      Hydrosphere\n      Geosphere (the smallest)\n   b) Atmosphere (the largest).\n      Biosphere\n      Geosphere\n      Hydrosphere (the smallest)\n   c) Biosphere (the largest).\n      Atmosphere\n      Geosphere\n      Hydrosphere (the smallest)\n   d) Geosphere (the largest).\n      Atmosphere\n      Biosphere\n      Hydrosphere (the smallest)\n   e) Geosphere (the largest).\n      Hydrosphere\n      Biosphere\n      Atmosphere (the smallest)\n\n42. Which of the following statements is true about the conditions under which\ncarbonate sedimentation occurs in oceans? (Correct answer = 1 point).\n   a) The formation of carbonate sediments is promoted through respiration of\n      living organisms.\n  b) Carbonate sedimentation is relatively high in oceans with conditions for rapid\n     photosynthesis.\n  c) Oceanic carbonate sediments are primarily derived from the erosion of\n     limestone deposits in continents.\n  d)   Carbonate sedimentation is relatively high in warmer oceans.\n\n                                          12\n\n43. Which of the pathways (1-7 in the diagram below) cannot occur in nature?\n(Correct answer = 1 point)\n\n   a) 1\n   b) 2\n   c) 3\n   d) 4\n   e) 5\n   f) 6\n   g) 7\n\n44. While walking in a mountain range, you find a fossil reef in a limestone layer.\nWhat might you conclude based on this field observation?\n(Correct answer = 1 point)\n\n   a) It is most likely that this area was an ancient deep ocean floor.\n   b) It is most likely that this area was a continental shelf located in an area with\n      rather warm water.\n   c) It is most likely that this area was a continental shelf located in a rather cold\n      area.\n   d) It is most likely that this area was a former continental slope beneath which\n      detrital sediments have been accumulating.\n\n                                           13\n\n45 - 47. In the photograph below, the darker units are metamorphic rocks with some\nigneous intrusions and the lighter unit consists of limestone, dolomite, chalk and chert.\nQuestion numbers 45, 46 and 47 are related to this photograph.\n\n.\n45. Which of the structures below is most likely the reason for this appearance of the\nrocks units? (Correct answer = 1 point)\n    a) Syncline\n    b) Anticline\n    c) Horst\n    d) Graben\n46. What are the geologic processes that took place in the area? Choose the correct\nanswers. (EACH correct answer = 1 point, EACH wrong answer = -1 point)\n    a) Sedimentation\n    b) Metamorphism\n    c) Volcanic eruptions\n    d) Magmatic intrusions\n    e) Erosion\n    f) Chemical weathering\n    g) Lithification\n    h) Melting\n    i) Burial\n    j) Uplift\n47. Which of the sequences given below best describes the order of the geological\nprocesses that took place in the area? (Correct answer = 1 point)\n    a) Metamorphism, erosion, magmatic intrusions, sedimentation, erosion.\n    b) Metamorphism, magmatic intrusions, erosion, sedimentation, erosion.\n    c) Metamorphism, sedimentation, magmatic intrusions, erosion.\n    d) Metamorphism, magmatic intrusions, volcanic eruptions, sedimentation,\n       erosion.\n\n                                           14\n\n48. The graph below depicts the changes of atmospheric CO2 concentration and the pH of\n the Pacific Ocean water. The measurements were made in Hawaii from 1990 to 2008.\nBased on the graph, mark the correct statements in the list below.\n(EACH correct answer = 1 point; EACH wrong answer = -1 point)\n\n  a) When the pH increases, CO2 is released from the ocean to the atmosphere.\n  b) Global warming causes an increase in atmospheric CO2 concentration and the\n     ocean water becomes more acidic.\n  c) When atmospheric CO2 concentration increases, CO2 gets into the ocean and the\n     ocean water becomes more acidic.\n  d) If only the atmospheric CO2 concentration was increasing and the oceanic pH\n     was constant, global warming would be more rapid.\n  e) If only atmospheric CO2 concentration was increasing and the oceanic pH was\n     constant, global warming would be slower.\n  f) An increase in oceanic CO2 concentration can affect coral reefs.\n  g) The annual variation of the atmospheric CO2 concentration is a result of\n     biological activity.\n  h) The common explanation for the increase of atmospheric CO2 concentration is\n     human activity, mostly fossil fuel burning and forest fires.\n  i) The atmospheric CO2 data shown represent only the changes in the Pacific\n     Ocean.\n\n                                        15\n\n49. What is the dated age of the rocks in which the first evidence of life forms\nappeared? (Correct answer = 0.5 point):\n\n   a) Approximately 380 x 106 years ago.\n   b) Approximately 550 x 106 years ago.\n   c) Approximately 3.8 x 109 years ago.\n   d) Approximately 4.6 x 109 years ago.\n\n50. Which of the statements below correctly describe the change in the CO2\n  concentration in the primitive atmosphere of the Archaean Earth?\n (EACH correct answer = 1 point; EACH wrong answer = -1 point):\n\n   a) Increased following the appearance of life on earth.\n   b) Decreased following the appearance of photosynthetic organisms.\n   c) Decreased following the formation of calcium carbonate by living organisms.\n   d) Increased following the formation of calcium carbonate by living organisms.\n   e) Decreased following the weathering of igneous minerals.\n   f) Increased following the weathering of igneous minerals.\n\n51 - 52. The following paragraph (concerning the Sun) contains numbered blanks.\nPlease match the numbered blanks with the correct letters from the word bank\nprovided below. (Correct answer = 0.5 point)\n\nThe Sun ejects charged particles, referred to as (51), with the speed of several (52) of\nkm/s\n\nWord bank:\n  a) Corona\n  b) Solar wind\n  c) Solar flare\n  d) Tens\n  e) Hundreds\n  f) Thousands\n  g) Ten thousands\n\n                    Blank number in        The matching letter\n                     the paragraph         from the word bank\n                           51\n                           52\n\n                                           16\n\n53 – 56.The following paragraph contains numbered blanks. Please match the\nnumbered blanks with the correct letters from the word bank provided below. (Correct\nanswer = 0.5 point)\n\nFossils of (53), which derive energy through (54), existed in the ocean and produced\n(55). This created (56) in the Archaean oceans.\n\nWord bank:\n  a) Cyanobacteria\n  b) Burgess Shale\n  c) Oxygen\n  d) Brachiopoda\n  e) Zooplankton\n  f) Nickel ore\n  g) Photosynthesis\n  h) Trilobites\n  i) Uranium ore\n  j) Stromatolites\n  k) Nitrogen\n  l) Banded Iron Formation\n  m) Crinoids\n\n                   Blank number in        The matching letter\n                    the paragraph         from the word bank\n                          53\n                          54\n                          55\n                          56\n\n57. Which of the statements below correctly describe the tendency of weathering of\nfeldspars? (EACH correct answer = 1 point; EACH wrong answer = -1 point)\n   a) Decreases the amount of CO2 in the atmosphere.\n   b) Increases the amount of CO2 in the atmosphere.\n   c) Enhances the acidification of the oceans.\n   d) Limits the acidification of the oceans.\n   e) Increases the formation of calcium carbonate.\n   f) Decreases the formation of calcium carbonate.\n\n                                         17\n\n58 – 59. The cross section below represents terraces in a desert. The terraces were\ndated and their ages are presented in the figure.\nQuestion numbers 58 and 59 are related to this diagram.\n\n58. What is the rate of deposition in the older terrace? (Correct answer = 1 point)\n       a) One meter in 1000 years.\n       b) One meter in 100 years.\n       c) One meter in 300 years.\n       d) Three meters in 1000 years.\n\n59. What can be the reasons for the incision of the valley? Choose the correct\nanswers. (EACH correct answer = 1 point; EACH wrong answer = -1 point)\n      a) Change in the base level.\n      b) Climate became drier.\n      c) Climate became wet.\n      d) Changes in the drainage basin over time.\n\n                                           18\n\n60 – 67.The following paragraph (concerning the Earth’s early evolution) contains\nnumbered blanks. Please match the numbered blanks with the correct letters from the\nword bank provided below. (Correct answer = 0.5 point)\nThe Earth formed (60) years ago by accretion from the solar nebula. The early Earth\nwas (61) from the surface to the core and heavy (62) sunk, leading to the formation of\nthe (63). The surface was covered with a (64) and volcanic outgassing created the\nprimordial atmosphere with (65) oxygen.\nThen Earth cooled and formed a crust, with the ocean at the surface. This is the\nbeginning of the (66) age, which occupies the (67) span of time in the Earth's history.\n\nWord bank:\n                  a) hydrogen           l) iron\n                  b) oxygen             m) mantle\n                  c) reductive          n) core\n                  d) nitrogen           o) magma ocean\n                  e) water              p) set of plates\n                  f) 460 x 106          q) plenty of\n                  g) 4.6 x 109          r) no\n                  h) 46 x 109           s) smallest\n                  i) solid              t) largest\n                  j) molten             u) Cambrian\n                  k) silicon            v) Precambrian\n\n                   Blank number in       The matching letter\n                    the paragraph        from the word bank\n                          60\n                          61\n                          62\n                          63\n                          64\n                          65\n                          66\n                          67\n\n                                         19",
+   "total": 7,
+   "parts": [
+    {
+     "id": "14",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

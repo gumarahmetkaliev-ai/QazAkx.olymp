@@ -8,7 +8,7 @@
  "solutionFile": null,
  "noSolution": true,
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:41.772Z",
+ "generatedAt": "2026-11-09T19:30:10.609Z",
  "quality": {
   "tasks": 6,
   "parts": 6,
@@ -20,7 +20,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "In the plane the points with integer coordinates are the vertices of…",
    "statement": "In the plane the points with integer coordinates are the vertices of unit squares.\n   The squares are colored alternately black and white (as on a chessboard).\n    For any pair of positive integers m and n, consider a right-angled triangle whose\n    vertices have integer coordinates and whose legs, of lengths m and n, lie along\n    edges of the squares.\n    Let S1 be the total area of the black part of the triangle and S2 be the total\n    area of the white part. Let\n\n                                      f (m, n) = |S1 − S2 |.\n\n    (a) Calculate f (m, n) for all positive integers m and n which are either both\n        even or both odd.\n    (b) Prove that f (m, n) ≤ 21 max{m, n} for all m and n.\n    (c) Show that there is no constant C such that f (m, n) < C for all m and n.",
    "total": 7,
    "parts": [
@@ -35,7 +35,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "The angle at A is the smallest angle of triangle ABC. The points B…",
    "statement": "The angle at A is the smallest angle of triangle ABC. The points B and C\n   divide the circumcircle of the triangle into two arcs. Let U be an interior point\n   of the arc between B and C which does not contain A. The perpendicular\n   bisectors of AB and AC meet the line AU at V and W , respectively. The lines\n   BV and CW meet at T . Show that\n\n                                          AU = T B + T C.",
    "total": 7,
    "parts": [
@@ -50,7 +50,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "Let x1 , x2 , . . . , xn be real numbers satisfying the conditions…",
    "statement": "Let x1 , x2 , . . . , xn be real numbers satisfying the conditions\n\n                                    |x1 + x2 + · · · + xn | = 1\n\n    and\n                                 n+1\n                                |xi | ≤      i = 1, 2, . . . , n.\n                                   2\n    Show that there exists a permutation y1 , y2 , . . . , yn of x1 , x2 , . . . , xn such that\n                                                              n+1\n                                |y1 + 2y2 + · · · + nyn | ≤       .\n                                                               2\n\n                38th International Mathematical Olympiad\n                            Mar del Plata, Argentina\n                                         Day II\n                                   July 25, 1997",
    "total": 7,
    "parts": [
@@ -65,7 +65,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "An n × n matrix whose entries come from the set S = {1, 2, . . . , 2n…",
    "statement": "An n × n matrix whose entries come from the set S = {1, 2, . . . , 2n − 1} is\n   called a silver matrix if, for each i = 1, 2, . . . , n, the ith row and the ith column\n   together contain all elements of S. Show that\n\n    (a) there is no silver matrix for n = 1997;\n    (b) silver matrices exist for infinitely many values of n.",
    "total": 7,
    "parts": [
@@ -80,7 +80,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "Find all pairs (a, b) of integers a, b ≥ 1 that satisfy the equation…",
    "statement": "Find all pairs (a, b) of integers a, b ≥ 1 that satisfy the equation\n                                            2\n                                          ab = ba .",
    "total": 7,
    "parts": [
@@ -95,7 +95,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "For each positive integer n , let f (n) denote the number of ways of…",
    "statement": "For each positive integer n , let f (n) denote the number of ways of representing\n   n as a sum of powers of 2 with nonnegative integer exponents. Representations\n   which differ only in the ordering of their summands are considered to be the\n   same. For instance, f (4) = 4, because the number 4 can be represented in the\n   following four ways:\n\n                             4; 2 + 2; 2 + 1 + 1; 1 + 1 + 1 + 1.\n\n    Prove that, for any integer n ≥ 3,\n                                     2                  2\n                                   2n /4 < f (2n ) < 2n /2 .",
    "total": 7,
    "parts": [

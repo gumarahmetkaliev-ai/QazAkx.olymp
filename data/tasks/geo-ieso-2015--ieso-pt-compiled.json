@@ -1,0 +1,127 @@
+{
+ "setId": "geo-ieso-2015--ieso-pt-compiled",
+ "olympiadId": "geo-ieso-2015",
+ "title": "География → IESO (науки о Земле) → 2015",
+ "materialLabel": "Ieso pt compiled",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/ieso/2015/ieso-pt-compiled.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:25:53.285Z",
+ "quality": {
+  "tasks": 7,
+  "parts": 7,
+  "withPoints": 7,
+  "withReference": 0,
+  "withQuestion": 7,
+  "estimatedPoints": 7
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Measure the air (dry and wet) temperatures in two places: under the…",
+   "statement": "Measure the air (dry and wet) temperatures in two places: under the sun and in the\nshadow. Try to choose places with the same land-use type.\n       A) temperature in sunny place        dry: ___________ wet:___________\n       B) temperature in shaded place       dry: ___________ wet:___________",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Where should the relative humidity be higher? (5 points) (a) In the…",
+   "statement": "Where should the relative humidity be higher?                      (5 points)\n   (a) In the sunny place\n   (b) In the shaded place\n   (c) Similar in both places.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Using the given table, what is the relative humidity (percentage) in…",
+   "statement": "Using the given table, what is the relative humidity (percentage) in both sites?\n       A) relative humidity in the sunny place: ___________ (%)             (2 points)\n       B) relative humidity in the shaded place: __________ (%)             (2 points)\n\n  Table to estimate relative humidity (%) using the wet bulb temperature (axis Y) and the difference\n  between the dry and wet bulb temperatures (axis X).\n\n                            Dry bulb temperature minus wet bulb temperature\nWet bulb temperature (oC)\n\nName: _______________________________________ Country: ________________________\n\n                                               Practical 3\n                      Plate Tectonics Theory: The Dance of the Continents\n\nInstruction:\nPlease return the maps and the answer sheet.\n\nYou are provided with a set of five paleogeographic maps of Australia and a map.\n\nYou are going to establish the path of movement of Australia during a certain geological period by\ndrawing its position on the map (provided to you) at different times. For this, you will:\n\n   -   Draw, for each age, the position of Australia on the map provided using the outline of\n       Australia. Assume, for simplicity, that the longitude of the centre of Australia is the same all\n       through the geological period.                                          (5 points)\n   -   Write the age for each position.\n   -   Draw arrows to indicate the path of movement of Australia.                (4 points)\n\nChoose the sentence which best describes the movement of Australia during the whole period.\n(Correct answer = 1 point)\n\n   a) Australia did not move during the geological period.\n   b) Australia moved southward, then northward during the geological period without rotating.\n   c) Australia moved northward, then southward during the geological period without rotating.\n   d) Australia moved northward, then southward during the geological period and rotated mostly\n      clockwise.\n   e) Australia moved northward, then southward during the geological period and rotated mostly\n      counter-clockwise.\n   f) Australia moved southward, then northward during the geological period and rotated mostly\n      clock-wise.\n   g) Australia moved southward, then northward during the geological period and rotated mostly\n      counter-clockwise.\n\nFor the three periods indicated in the table below, what could have been the climate in the center of\nAustralia? (1 point x 3 = 3 points)\n\nEarly Cretaceous   ( a ) Temperate\n(120 Ma)           ( b ) Polar\n                   ( c ) Arid\n                   ( d ) Semi-arid\n                   ( e ) Equatorial\nLate Devonian      ( a ) Temperate\n(365 Ma)           ( b ) Polar\n                   ( c ) Arid\n                   ( d ) Semi-arid\n                   ( e ) Equatorial\nEarly-Mid Devonian ( a ) Temperate\n(400 to 380 Ma)    ( b ) Polar\n                   ( c ) Arid\n                   ( d ) Semi-arid\n                   ( e ) Equatorial\n\nName: _______________________________________ Country:______________\n                                                                       Duration: 45 minutes\n                                         Practical 04\n                                     Geo Field evaluation\nField kit: hammer, hydrochloric acid, knife\n\nNote: THE ROCKS AT STOPS 1 AND 2 MAY CONTAIN ONE OR MORE\nMINERALS.\n\nStop 1",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Which mineral/s listed below is/are most likely the constituent/s of…",
+   "statement": "Which mineral/s listed below is/are most likely the constituent/s of this rock at Stop\n2?                                                                            (5 points)\n\n         a. Calcite\n         b. Magnetite\n         c. Quartz\n         d. Clay\n         e. Garnet\n         f. Orthoclase\n         g. Olivine\n         h. Halite\n\n                                           2",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "What is the age relationship between the rock at Stop 1 and the rock…",
+   "statement": "What is the age relationship between the rock at Stop 1 and the rock at Stop 2?\n     (10 points)\n     a) The rock at Stop 1 is younger.\n     b) The rock at Stop 1 is older.\n     c) Both rocks are of the same age.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Which of the processes of the rock cycle listed below is demonstrated…",
+   "statement": "Which of the processes of the rock cycle listed below is demonstrated by the rocks\n     at Stops 1 and 2?\n\n     Mark ALL the possible processes.\n\n     Note: Each correct answer = 1 point; Each wrong answer = -1 point\n\n         a. melting\n         b. slow cooling\n         c. eruption\n         d. intrusion\n         e. fast cooling\n         f. slow cooling followed by fast cooling\n         g. uplift\n         h. erosion\n         i. transportation\n         j. sedimentation\n         k. lithification\n         l. burial\n         m. regional metamorphism\n         n. contact metamorphism",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Chronologically arrange ONLY those processes that you marked above…",
+   "statement": "Chronologically arrange ONLY those processes that you marked above from the\n     oldest to the youngest. Write the English letter corresponding to the process above the\n     arrow.\n     (Note: some process/es could appear twice.)\n     (1 point for each correctly arranged process)\n\n          a\nOldest                                                                                 Youngest\n\n                                               3\n\n         8. Answer the following question based on what you have explored here and what\n         you have seen. Which of the schemes listed below best summarizes the interactions of\n         the earth systems? (10 points)\n\na         Biosphere                 Geosphere              Hydrosphere           Atmosphere\n                                                           e\n\n               Atmosphere            Hydrosphere\nb\n\n                        Geosphere                         Biosphere\n\n c                     Atmosphere                   Hydrosphere\n\n                                        Geosphere\n\n                                        Biosphere\n\n     d                                     Hydrosphere\n                      Atmosphere\n\n                            Biosphere                             Geosphere\n\n                                                    4\n\nName: _________________________________________ Country: ___________________\n                                           Practical 06\nAstronomy\n\nMeasure the Earth rotation speed\nIn front of you there is a table with a hole. The sun light passes through the hole and hits a sheet\nof paper on the ground. After some time the sun light spot will move a certain distant “h”.\n“H” gives the apparent movement of the sun in the sky.\n“d’ stands for the table height.\n“D” stands for distance between Earth and Sun, which is 1,5 x 1011 m. As you may notice the\ndistance between Earth and Sun is much larger than the table height so you could approximate\nthe situation to the following diagram)\n\n                                          H\n\n               D\n\n                 d\n\n                                              h\n\nOn the given sheet are marked the two positions of the sun light spots with a 10 minute interval.\nMeasure this distance “h”. (1 point)\nCalculate “H” from the given data (show the procedures).                      (2 points)\nCalculate the apparent linear speed of the sun in km/s (show the procedures).      (2 points)\n\nCalculate, using your data, the angular speed of Earth rotation (degrees/min) (show the\nprocedures).                                                       (2 points)",
+   "total": 7,
+   "parts": [
+    {
+     "id": "7",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

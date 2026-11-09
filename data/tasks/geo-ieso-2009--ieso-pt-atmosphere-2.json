@@ -1,0 +1,112 @@
+{
+ "setId": "geo-ieso-2009--ieso-pt-atmosphere-2",
+ "olympiadId": "geo-ieso-2009",
+ "title": "География → IESO (науки о Земле) → 2009",
+ "materialLabel": "Ieso pt atmosphere 2",
+ "lang": "ru",
+ "tasksFile": "olympiads/geography/s/ieso/2009/ieso-pt-atmosphere-2.pdf",
+ "solutionFile": null,
+ "noSolution": true,
+ "generatedBy": "numbered-parser",
+ "generatedAt": "2026-11-09T19:25:54.645Z",
+ "quality": {
+  "tasks": 6,
+  "parts": 6,
+  "withPoints": 6,
+  "withReference": 0,
+  "withQuestion": 6,
+  "estimatedPoints": 6
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "(exercise): (20 pts) Please repeat steps 1 to 3 three times and…",
+   "statement": "(exercise): (20 pts)\n     Please repeat steps 1 to 3 three times and complete the table below (Table 1). Then,\ncalculate the mean values of T and Tw, and use them to determine the web-bulb depression D\n(where D = T − Tw). Please use °C for all units, and take the readings to one decimal place. (2\npts each reading of T and Tw, 4 pts for D)\n\nAnswer:                Table 1: Result of psychrometer measurements (all in °C).\n                       First reading      Second reading     Third reading         Mean\n       T\n       Tw\n       D",
+   "total": 7,
+   "parts": [
+    {
+     "id": "1",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "(6 pts) From your measurements, it should be clear that Tw < T (i.e.,…",
+   "statement": "(6 pts)\n     From your measurements, it should be clear that Tw < T (i.e., D > 0). Which of the\nfollowing processes do you think is responsible for this result?\n     (A) Freezing            (B) Condensation                (C) Deposition\n     (D) Melting             (E) Evaporation                 (F) Sublimation\n\nAnswer:\n\n[Task B] Find the saturation vapor pressure (es) at Tw and calculate the actual vapor\n         pressure (e).\n\n     Humidity is measured by the vapor pressure (e) which is the partial pressure of water\nvapor in the air. The value of e (in hPa, where 1 hPa = 100 Pa) can be determined from the\nfollowing equation:\n     e = esw − γ D ,                                                         Equation (1)\n\nwhere esw is the saturation vapor pressure (in hPa) at web-bulb temperature Tw, D is the\nwet-bulb depression (in °C), and γ is a constant at 0.66 hPa K−1 at sea level.\n\n                                                5/8\n\n                                          3rd IESO Practical Test",
+   "total": 7,
+   "parts": [
+    {
+     "id": "2",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "(6 pts) Please find esw from Table 2, and calculate the actual vapor…",
+   "statement": "(6 pts)\n     Please find esw from Table 2, and calculate the actual vapor pressure (e) using Equation\n(1). Note that the saturation vapor pressure (es) is only a function of temperature, as shown in\nTable 2. Show your method and calculations clearly. Please include units in your calculation,\nand give your answer to one digit below the decimal (1 decimal place).\n\nAnswer:\n\n   Table 2: Saturation vapor pressure over water (from Smithsonian Meteorological Tables)\n* Example of how to read Table 2: For instance, to find out the saturation vapor pressure at 17.3°C, go to the\n   row labeled “17” and the column labeled “.3”, so es = 19.74 hPa.\n\n                                                      6/8\n\n                                                       3rd IESO Practical Test",
+   "total": 7,
+   "parts": [
+    {
+     "id": "3",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "(6 pts) Assume that point A represents the initial state and point B…",
+   "statement": "(6 pts)\n      Assume that point A represents the initial state and point B represents the final state of\nthe cooling process of the air measured by the wet-bulb thermometer. In Fig. 3 below, please\nplot the locations of points A and B with crosses (x). Then, draw an arrow connecting them to\nindicate the cooling process. Please label both points and the direction of the arrow clearly.\n\n                                               60\n                                                      Curve of saturation\n                                               55 −\n\n                                               50 −\n                        Vapor pressure (hPa)\n\n                                               45 −\n\n                                               40 −\n\n                                               35 −\n\n                                               30 −\n\n                                               25 −\n\n                                               20 −\n\n                                               15 −\n\n                                               10 −          ⊥              ⊥\n                                                10          20         30        40\n                                                           Temperature (°C)\n\n          Figure 3: The cooling process of air measured by the wet-bulb thermometer.\n\n[Task C] Convert the humidity into mixing ratio (r) and relative humidity (RH).\n\n     Several other variables can also indicate atmospheric humidity, such as mixing ratio (r)\nand relative humidity (RH). You will need to use the information provided below to calculate\nr and RH. Show your method and calculations as clearly as possible. Include all appropriate\nunits.",
+   "total": 7,
+   "parts": [
+    {
+     "id": "4",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "(6 pts) The mixing ratio (r) is the ratio of the mass of water vapor…",
+   "statement": "(6 pts)\n     The mixing ratio (r) is the ratio of the mass of water vapor to that of dry air. It is\ntherefore dimensionless. The relationship between r and vapor pressure (e) is:\n           εe\n     r=                                                                       Equation (2)\n          p−e\nwhere p is 1013.25 hPa, and ε is the ratio of the molecular weight of water vapor to that of dry\nair (ε = 0.622). In the space below, please calculate r and express it in units of g kg−1 (grams\nper kilogram). Give your answer to one digit below decimal (1 decimal place).\n\nAnswer:\n\n                                                                 7/8\n\n                                    3rd IESO Practical Test",
+   "total": 7,
+   "parts": [
+    {
+     "id": "5",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "(6 pts) The relative humidity (RH) is the ratio of actual vapor…",
+   "statement": "(6 pts)\n    The relative humidity (RH) is the ratio of actual vapor pressure (e) to the saturation\nvapor pressure at the actual temperature (es). It is expressed as a percentage (%) and\n            e\n     RH = × 100 % .                                                      Equation (3)\n           es\nIn the space below, please use Equation (3) to calculate RH (in %), and give your answer to\none digit below decimal (1 decimal place).\nAnswer:\n\n                                             8/8",
+   "total": 7,
+   "parts": [
+    {
+     "id": "6",
+     "question": "Приведите полное решение (с доказательством или выводом).",
+     "points": 7,
+     "pointsEstimated": true,
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

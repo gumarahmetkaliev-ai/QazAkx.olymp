@@ -7,7 +7,7 @@
  "tasksFile": "olympiads/math/s/imo/2019/math-tasks.pdf",
  "solutionFile": "olympiads/math/s/imo/2019/math-sol.pdf",
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:28.711Z",
+ "generatedAt": "2026-11-09T19:29:58.050Z",
  "quality": {
   "tasks": 6,
   "parts": 6,
@@ -19,7 +19,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "Let Z be the set of integers. Determine all functions f : Z → Z such…",
    "statement": "Let Z be the set of integers. Determine all functions f : Z → Z such that, for all\nintegers a and b,\n                              f (2a) + 2f (b) = f (f (a + b)).",
    "total": 7,
    "parts": [
@@ -33,7 +33,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "In triangle ABC, point A1 lies on side BC and point B1 lies on side…",
    "statement": "In triangle ABC, point A1 lies on side BC and point B1 lies on side AC. Let P and Q\nbe points on segments AA1 and BB1 , respectively, such that P Q is parallel to AB. Let P1 be a point\non line P B1 , such that B1 lies strictly between P and P1 , and ∠P P1 C = ∠BAC. Similarly, let Q1\nbe a point on line QA1 , such that A1 lies strictly between Q and Q1 , and ∠CQ1 Q = ∠CBA.\nProve that points P , Q, P1 , and Q1 are concyclic.",
    "total": 7,
    "parts": [
@@ -47,7 +47,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "A social network has 2019 users, some pairs of whom are friends.…",
    "statement": "A social network has 2019 users, some pairs of whom are friends. Whenever user A\nis friends with user B, user B is also friends with user A. Events of the following kind may happen\nrepeatedly, one at a time:\n\n     Three users A, B, and C such that A is friends with both B and C, but B and C are\n     not friends, change their friendship statuses such that B and C are now friends, but A is\n     no longer friends with B, and no longer friends with C. All other friendship statuses are\n     unchanged.\n\nInitially, 1010 users have 1009 friends each, and 1009 users have 1010 friends each. Prove that there\nexists a sequence of such events after which each user is friends with at most one other user.\n\nLanguage: English                                                      Time: 4 hours and 30 minutes\n                                                                       Each problem is worth 7 points\n\n                                                 English (eng), day 2\n\n                                                                                Wednesday, July 17, 2019",
    "total": 7,
    "parts": [
@@ -61,7 +61,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "Find all pairs (k, n) of positive integers such that k! = (2n − 1)(2n…",
    "statement": "Find all pairs (k, n) of positive integers such that\n\n                            k! = (2n − 1)(2n − 2)(2n − 4) · · · (2n − 2n−1 ).",
    "total": 7,
    "parts": [
@@ -75,7 +75,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "The Bank of Bath issues coins with an H on one side and a T on the…",
    "statement": "The Bank of Bath issues coins with an H on one side and a T on the other. Harry has\nn of these coins arranged in a line from left to right. He repeatedly performs the following operation:\nif there are exactly k > 0 coins showing H, then he turns over the k th coin from the left; otherwise,\nall coins show T and he stops. For example, if n = 3 the process starting with the configuration\nT HT would be T HT → HHT → HT T → T T T , which stops after three operations.\n\n (a) Show that, for each initial configuration, Harry stops after a finite number of operations.\n\n (b) For each initial configuration C, let L(C) be the number of operations before Harry stops. For\n     example, L(T HT ) = 3 and L(T T T ) = 0. Determine the average value of L(C) over all 2n\n     possible initial configurations C.",
    "total": 7,
    "parts": [
@@ -89,7 +89,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "Let I be the incentre of acute triangle ABC with AB 6= AC. The…",
    "statement": "Let I be the incentre of acute triangle ABC with AB 6= AC. The incircle ω of ABC is\ntangent to sides BC, CA, and AB at D, E, and F , respectively. The line through D perpendicular\nto EF meets ω again at R. Line AR meets ω again at P . The circumcircles of triangles P CE\nand P BF meet again at Q.\nProve that lines DI and P Q meet on the line through A perpendicular to AI.\n\nLanguage: English                                                        Time: 4 hours and 30 minutes\n                                                                         Each problem is worth 7 points",
    "total": 7,
    "parts": [

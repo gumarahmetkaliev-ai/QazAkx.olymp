@@ -8,7 +8,7 @@
  "solutionFile": null,
  "noSolution": true,
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:41.708Z",
+ "generatedAt": "2026-11-09T19:30:10.554Z",
  "quality": {
   "tasks": 6,
   "parts": 6,
@@ -20,7 +20,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "Determine all finite sets S of at least three points in the plane…",
    "statement": "Determine all finite sets S of at least three points in the plane which satisfy the\n   following condition:\n\n         for any two distinct points A and B in S, the perpendicular bisector\n         of the line segment AB is an axis of symmetry for S.",
    "total": 7,
    "parts": [
@@ -35,7 +35,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "Let n be a fixed integer, with n ≥ 2. (a) Determine the least…",
    "statement": "Let n be a fixed integer, with n ≥ 2.\n\n         (a) Determine the least constant C such that the inequality\n                                                             Ã            !4\n                            X                                    X\n                                    xi xj (x2i + x2j ) ≤ C           xi\n                          1≤i<j≤n                            1≤i≤n\n\n         holds for all real numbers x1 , · · · , xn ≥ 0.\n\n         (b) For this constant C, determine when equality holds.",
    "total": 7,
    "parts": [
@@ -50,7 +50,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "Consider an n × n square board, where n is a fixed even positive…",
    "statement": "Consider an n × n square board, where n is a fixed even positive integer. The\n   board is divided into n2 unit squares. We say that two different squares on the\n   board are adjacent if they have a common side.\n   N unit squares on the board are marked in such a way that every square (marked\n   or unmarked) on the board is adjacent to at least one marked square.\n   Determine the smallest possible value of N .\n\n               40th International Mathematical Olympiad\n                                    Bucharest\n                                      Day II\n                                  July 17, 1999",
    "total": 7,
    "parts": [
@@ -65,7 +65,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "Determine all pairs (n, p) of positive integers such that p is a…",
    "statement": "Determine all pairs (n, p) of positive integers such that\n\n        p is a prime,\n        n not exceeded 2p, and\n        (p − 1)n + 1 is divisible by np−1 .",
    "total": 7,
    "parts": [
@@ -80,7 +80,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "Two circles G1 and G2 are contained inside the circle G, and are…",
    "statement": "Two circles G1 and G2 are contained inside the circle G, and are tangent to G\n   at the distinct points M and N , respectively. G1 passes through the center of\n   G2 . The line passing through the two points of intersection of G1 and G2 meets\n   G at A and B. The lines M A and M B meet G1 at C and D, respectively.\n   Prove that CD is tangent to G2 .",
    "total": 7,
    "parts": [
@@ -95,7 +95,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "Determine all functions f : R −→ R such that f (x − f (y)) = f (f…",
    "statement": "Determine all functions f : R −→ R such that\n\n        f (x − f (y)) = f (f (y)) + xf (y) + f (x) − 1\n\n   for all real numbers x, y.",
    "total": 7,
    "parts": [

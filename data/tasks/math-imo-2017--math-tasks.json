@@ -7,7 +7,7 @@
  "tasksFile": "olympiads/math/s/imo/2017/math-tasks.pdf",
  "solutionFile": "olympiads/math/s/imo/2017/math-sol.pdf",
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:30.521Z",
+ "generatedAt": "2026-11-09T19:30:00.083Z",
  "quality": {
   "tasks": 6,
   "parts": 6,
@@ -19,7 +19,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "For each integer a0 > 1, define the sequence a0 , a1 , a2 , . . . by:…",
    "statement": "For each integer a0 > 1, define the sequence a0 , a1 , a2 , . . . by:\n                         \u001a √          √\n                              an    if an is an integer,\n                 an+1 =                                      for each n ⩾ 0.\n                            an + 3 otherwise,\n\nDetermine all values of a0 for which there is a number A such that an = A for infinitely many values\nof n.",
    "total": 7,
    "parts": [
@@ -33,7 +33,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "Let R be the set of real numbers. Determine all functions f : R → R…",
    "statement": "Let R be the set of real numbers. Determine all functions f : R → R such that, for\nall real numbers x and y,\n                             f (f (x)f (y)) + f (x + y) = f (xy).",
    "total": 7,
    "parts": [
@@ -47,7 +47,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "A hunter and an invisible rabbit play a game in the Euclidean plane.…",
    "statement": "A hunter and an invisible rabbit play a game in the Euclidean plane. The rabbit’s\nstarting point, A0 , and the hunter’s starting point, B0 , are the same. After n − 1 rounds of the game,\nthe rabbit is at point An−1 and the hunter is at point Bn−1 . In the nth round of the game, three\nthings occur in order.\n\n  (i) The rabbit moves invisibly to a point An such that the distance between An−1 and An is\n      exactly 1.\n\n (ii) A tracking device reports a point Pn to the hunter. The only guarantee provided by the tracking\n      device to the hunter is that the distance between Pn and An is at most 1.\n\n(iii) The hunter moves visibly to a point Bn such that the distance between Bn−1 and Bn is\n      exactly 1.\n\n   Is it always possible, no matter how the rabbit moves, and no matter what points are reported\nby the tracking device, for the hunter to choose her moves so that after 109 rounds she can ensure\nthat the distance between her and the rabbit is at most 100?\n\nLanguage: English                                                       Time: 4 hours and 30 minutes\n                                                                        Each problem is worth 7 points\n\n                                                   English (eng), day 2\n\n                                                                                  Wednesday, July 19, 2017",
    "total": 7,
    "parts": [
@@ -61,7 +61,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "Let R and S be different points on a circle Ω such that RS is not a…",
    "statement": "Let R and S be different points on a circle Ω such that RS is not a diameter. Let `\nbe the tangent line to Ω at R. Point T is such that S is the midpoint of the line segment RT . Point\nJ is chosen on the shorter arc RS of Ω so that the circumcircle Γ of triangle JST intersects ` at two\ndistinct points. Let A be the common point of Γ and ` that is closer to R. Line AJ meets Ω again\nat K. Prove that the line KT is tangent to Γ.",
    "total": 7,
    "parts": [
@@ -75,7 +75,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "An integer N ⩾ 2 is given. A collection of N (N + 1) soccer players,…",
    "statement": "An integer N ⩾ 2 is given. A collection of N (N + 1) soccer players, no two of whom\nare of the same height, stand in a row. Sir Alex wants to remove N (N − 1) players from this row\nleaving a new row of 2N players in which the following N conditions hold:\n\n (1) no one stands between the two tallest players,\n\n (2) no one stands between the third and fourth tallest players,\n    ..\n     .\n\n(N ) no one stands between the two shortest players.\n\nShow that this is always possible.",
    "total": 7,
    "parts": [
@@ -89,7 +89,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "An ordered pair (x, y) of integers is a primitive point if the…",
    "statement": "An ordered pair (x, y) of integers is a primitive point if the greatest common divisor\nof x and y is 1. Given a finite set S of primitive points, prove that there exist a positive integer n\nand integers a0 , a1 , . . . , an such that, for each (x, y) in S, we have:\n\n                     a0 xn + a1 xn−1 y + a2 xn−2 y 2 + · · · + an−1 xy n−1 + an y n = 1.\n\nLanguage: English                                                           Time: 4 hours and 30 minutes\n                                                                            Each problem is worth 7 points",
    "total": 7,
    "parts": [

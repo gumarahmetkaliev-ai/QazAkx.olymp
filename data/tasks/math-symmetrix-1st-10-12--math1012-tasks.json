@@ -7,7 +7,7 @@
  "tasksFile": "olympiads/math/symmetrix/1st/10-12/math1012-tasks.pdf",
  "solutionFile": "olympiads/math/symmetrix/1st/10-12/math1012-sol.pdf",
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:49:43.378Z",
+ "generatedAt": "2026-11-09T19:30:12.167Z",
  "quality": {
   "tasks": 3,
   "parts": 3,
@@ -19,7 +19,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "Prove that for every positive integer n there exists an n-digit…",
    "statement": "Prove that for every positive integer n there exists an n-digit number divisible by 5n all of\nwhose digits are odd.",
    "total": 7,
    "parts": [
@@ -34,7 +34,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "A convex polygon P in the plane is dissected into smaller convex…",
    "statement": "A convex polygon P in the plane is dissected into smaller convex polygons by drawing all of\nits diagonals. The lengths of all sides and all diagonals of the polygon P are rational numbers.\nProve that the lengths of all sides of all polygons in the dissection are also rational numbers.",
    "total": 7,
    "parts": [
@@ -49,7 +49,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "Let n 6= 0. For every sequence of integers A = a0 , a1 , a2 , . . . ,…",
    "statement": "Let n 6= 0. For every sequence of integers\n\n                                         A = a0 , a1 , a2 , . . . , an\n\nsatisfying 0 ≤ ai ≤ i, for i = 0, . . . , n, define another sequence\n\n                                 t(A) = t(a0 ), t(a1 ), t(a2 ), . . . , t(an )\n\nby setting t(ai ) to be the number of terms in the sequence A that precede the term ai and are\ndifferent from ai . Show that, starting from any sequence A as above, fewer than n applications\nof the transformation t lead to a sequence B such that t(B) = B.",
    "total": 7,
    "parts": [
