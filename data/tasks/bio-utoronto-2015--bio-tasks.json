@@ -1,0 +1,2019 @@
+{
+ "setId": "bio-utoronto-2015--bio-tasks",
+ "olympiadId": "bio-utoronto-2015",
+ "title": "Биология → U of Toronto → 2015",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/utoronto/2015/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/utoronto/2015/bio-sol.pdf",
+ "generatedBy": "test-parser",
+ "type": "test",
+ "generatedAt": "2026-11-09T13:44:51.630Z",
+ "quality": {
+  "tasks": 5,
+  "parts": 50,
+  "withPoints": 50,
+  "withReference": 50,
+  "withQuestion": 50,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Тест: вопросы 1–10",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q1",
+     "kind": "choice",
+     "points": 1,
+     "question": "1. Which of the following structures is NOT found in BOTH plant and animal cells?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Nucleus"
+      },
+      {
+       "key": "B",
+       "text": "Mitochondria"
+      },
+      {
+       "key": "C",
+       "text": "Thylakoid membrane"
+      },
+      {
+       "key": "D",
+       "text": "Golgi apparatus"
+      },
+      {
+       "key": "E",
+       "text": "Endoplasmic reticulum"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q2",
+     "kind": "choice",
+     "points": 1,
+     "question": "2. When a living human red blood cell is placed in pure fresh water the cell will swell and burst. What is the reason for this?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Water molecules move from higher to lower concentration of dissolved particles."
+      },
+      {
+       "key": "B",
+       "text": "The cell membrane dissolves in water."
+      },
+      {
+       "key": "C",
+       "text": "Cells lose stability outside the human body."
+      },
+      {
+       "key": "D",
+       "text": "Water molecules move from higher to lower concentration of water."
+      },
+      {
+       "key": "E",
+       "text": "Water is actively transported into the cell because it is a hypotonic solution."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q3",
+     "kind": "choice",
+     "points": 1,
+     "question": "3. Julia is late for school one morning. She eats some yogurt directly from a new container, and then puts the remaining yogurt (in the container) back into the fridge. The next day she finds that the surface of the yogurt is no longer smooth but has broken into several liquefied products. The enzymes from her saliva, via the spoon, have continued digesting the yogurt. What will happen over time?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The reaction will continue since the enzyme is not consumed by the reaction."
+      },
+      {
+       "key": "B",
+       "text": "The reaction will soon stop because the amount of saliva is small, and she would have to add more saliva to continue the degradation."
+      },
+      {
+       "key": "C",
+       "text": "The reaction will continue until half of the substrate is digested and then stop because the concentrations of substrate and product will be equal."
+      },
+      {
+       "key": "D",
+       "text": "The reaction will reverse and the surface of the yogurt in the container will become smooth again."
+      },
+      {
+       "key": "E",
+       "text": "The reaction will stop because the enzyme will be denatured in the refrigerator."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q4",
+     "kind": "choice",
+     "points": 1,
+     "question": "4. In the figure here, two columns of water are separated by a semipermeable membrane through which only water molecules can pass. Side 1 contains coloured dye and water; Side 2 contains only pure water. What will happen after time passes?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Water will leave Side 1 and enter Side 2."
+      },
+      {
+       "key": "B",
+       "text": "Water will leave Side 2 and enter Side 1."
+      },
+      {
+       "key": "C",
+       "text": "Dye will leave Side 1 and enter Side 2."
+      },
+      {
+       "key": "D",
+       "text": "Water will leave Side 2 and enter Side 1; dye will leave Side 1 and enter Side 2."
+      },
+      {
+       "key": "E",
+       "text": "Water will leave Side 1 and enter Side 2; dye will leave Side 1 and enter Side 2."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q5",
+     "kind": "choice",
+     "points": 1,
+     "question": "5. What will occur if an animal cell’s membrane is pierced?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The membrane will tear."
+      },
+      {
+       "key": "B",
+       "text": "The membrane will reseal."
+      },
+      {
+       "key": "C",
+       "text": "The membrane will be denatured."
+      },
+      {
+       "key": "D",
+       "text": "The membrane will expand."
+      },
+      {
+       "key": "E",
+       "text": "The membrane will unfold."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q6",
+     "kind": "choice",
+     "points": 1,
+     "question": "6. You are studying the effects of temperature on the rate of a particular enzyme-catalyzed reaction. When you increase the temperature from 30° to 50°C, what effect will this have on the rate of the reaction?",
+     "options": [
+      {
+       "key": "A",
+       "text": "It will increase."
+      },
+      {
+       "key": "B",
+       "text": "It will decrease."
+      },
+      {
+       "key": "C",
+       "text": "It will stay the same."
+      },
+      {
+       "key": "D",
+       "text": "It will increase and then decrease."
+      },
+      {
+       "key": "E",
+       "text": "More information about the enzyme is needed to predict the effect(s). © 2015 University of Toronto U of T National Biology Competition / 3"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q7",
+     "kind": "choice",
+     "points": 1,
+     "question": "7. Consider a gene, ABC, which codes for an enzyme involved in the metabolism of sugars. There are two known alleles of this gene, ABC1 and ABC2. Which statement correctly describes the relationship between the ABC gene and the ABC1 and ABC2 alleles?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The gene is a sequence of amino acids and the alleles are a very similar sequence of amino acids."
+      },
+      {
+       "key": "B",
+       "text": "The gene is a trait and the alleles are a sequence of amino acids."
+      },
+      {
+       "key": "C",
+       "text": "The gene is a trait and the alleles are a nucleotide sequence."
+      },
+      {
+       "key": "D",
+       "text": "The gene is a nucleotide sequence and the alleles are a sequence of amino acids."
+      },
+      {
+       "key": "E",
+       "text": "Both the gene and the alleles are a nucleotide sequence."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q8",
+     "kind": "choice",
+     "points": 1,
+     "question": "8. Which structure in a eukaryotic cell originated from a prokaryotic cell?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Endoplasmic reticulum"
+      },
+      {
+       "key": "B",
+       "text": "Golgi apparatus"
+      },
+      {
+       "key": "C",
+       "text": "Mitochondrion"
+      },
+      {
+       "key": "D",
+       "text": "Lysosome"
+      },
+      {
+       "key": "E",
+       "text": "Nucleus"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q9",
+     "kind": "choice",
+     "points": 1,
+     "question": "9. The average beak size within populations of finches on the Galapagos Islands fluctuates annually in response to the availability of seeds. When only large seeds are available, the average beak size in a population is large; when only smaller seeds are available, the average beak size in a population is small. Which statement about the relationship between seed size and beak size is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The fluctuation in seed size results in changes in beak size so that finches can eat the available seeds."
+      },
+      {
+       "key": "B",
+       "text": "The fluctuation in seed size causes emigration of finches with beak sizes that cannot handle the seeds and immigration of finches with beak sizes that can handle the seeds."
+      },
+      {
+       "key": "C",
+       "text": "The fluctuation in seed size causes all finches to produce offspring with a beak size that can handle the seeds."
+      },
+      {
+       "key": "D",
+       "text": "The fluctuation in seed size results in differences in the number of offspring produced by finches with beaks of different sizes."
+      },
+      {
+       "key": "E",
+       "text": "The fluctuation in seed size causes a mutation in the finch population that changes beak size, resulting in finches that can eat the available seeds."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q10",
+     "kind": "choice",
+     "points": 1,
+     "question": "10. A small protein completely unfolds in a solution containing a high concentration of urea and becomes entirely inactive. Upon removal of the urea, the protein returns to being completely active. What principle of protein structure is illustrated by this example?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The protein is a catalyst, and so is not used up in the reaction with urea."
+      },
+      {
+       "key": "B",
+       "text": "The formation of disulfide bonds is required for tertiary structure."
+      },
+      {
+       "key": "C",
+       "text": "The tertiary structure is dictated by the primary structure."
+      },
+      {
+       "key": "D",
+       "text": "The formation of tertiary structure follows a positive co-operative pathway."
+      },
+      {
+       "key": "E",
+       "text": "The changes to both entropy and enthalpy are positive with respect to tertiary structure formation."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Тест: вопросы 11–20",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q11",
+     "kind": "choice",
+     "points": 1,
+     "question": "11. A researcher has discovered an organism with cells that contain a previously undescribed organelle. She conducts tests on the isolated organelle to see if it is involved in major metabolic reactions. She incubates these organelles in a solution containing a known amount of the molecules listed in the table below. She records the change in the amount of each molecule from time = 0 to time = 1, and the results are shown here. Based on the results, which metabolic process is taking place in this organelle?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Citric acid (Krebs) cycle"
+      },
+      {
+       "key": "B",
+       "text": "Glycolysis"
+      },
+      {
+       "key": "C",
+       "text": "Electron transport chain and oxidative phosphorylation"
+      },
+      {
+       "key": "D",
+       "text": "Light-dependent reactions of photosynthesis"
+      },
+      {
+       "key": "E",
+       "text": "Calvin cycle © 2015 University of Toronto U of T National Biology Competition / 4"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q12",
+     "kind": "choice",
+     "points": 1,
+     "question": "12. What level of taxonomic organization contains both fungi and plants?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Class"
+      },
+      {
+       "key": "B",
+       "text": "Order"
+      },
+      {
+       "key": "C",
+       "text": "Phylum"
+      },
+      {
+       "key": "D",
+       "text": "Kingdom"
+      },
+      {
+       "key": "E",
+       "text": "Domain"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q13",
+     "kind": "choice",
+     "points": 1,
+     "question": "13. Which statement about the partial pressure of oxygen (O2) in the dead space of the trachea at the end of exhalation is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "It is higher than the partial pressure of O2 in the external atmosphere."
+      },
+      {
+       "key": "B",
+       "text": "It is the same as the partial pressure of O2 in the external atmosphere."
+      },
+      {
+       "key": "C",
+       "text": "It is lower than the partial pressure of O2 in the external atmosphere."
+      },
+      {
+       "key": "D",
+       "text": "It is lower than the partial pressure of O2 in the lungs."
+      },
+      {
+       "key": "E",
+       "text": "It is higher than the partial pressure of O2 in the external atmosphere and lower than that of the lungs."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q14",
+     "kind": "choice",
+     "points": 1,
+     "question": "14. Consider the three double stranded DNA molecules below. You slowly heat a solution containing all three molecules, causing them to disassociate and become single stranded. In which order will they disassociate (first to last)? Molecule 1: Molecule 2: Molecule 3: 5’ GCGGGCCAGCCCGAG 3’ 5’ ATTATAAAATATTTA 3’ 5’ GCGGGCCTATTTAGA 3’ 3’ CGCCCGGTCGGGCTC 5’ 3’ TAATATTTTATAAAT 5’ 3’ CGCCCGGATAAATCT 5’",
+     "options": [
+      {
+       "key": "A",
+       "text": "Molecule 1 then 2 then 3"
+      },
+      {
+       "key": "B",
+       "text": "Molecule 1 then 3 then 2"
+      },
+      {
+       "key": "C",
+       "text": "Molecule 2 then 3 then 1"
+      },
+      {
+       "key": "D",
+       "text": "Molecule 2 then 1 then 3"
+      },
+      {
+       "key": "E",
+       "text": "Molecule 3 then 2 then 1"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q15",
+     "kind": "choice",
+     "points": 1,
+     "question": "15. The pulmonary artery takes _____________ blood from the _____________ to the _____________.",
+     "options": [
+      {
+       "key": "A",
+       "text": "oxygenated; heart; body"
+      },
+      {
+       "key": "B",
+       "text": "oxygenated; heart; lungs"
+      },
+      {
+       "key": "C",
+       "text": "deoxygenated; lungs; heart"
+      },
+      {
+       "key": "D",
+       "text": "oxygenated; lungs; heart"
+      },
+      {
+       "key": "E",
+       "text": "deoxygenated; heart; lungs"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q16",
+     "kind": "choice",
+     "points": 1,
+     "question": "16. Which statement about a skin cell from a woman and a skin cell from her son is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "25% of the mother’s nuclear DNA sequences are found in the son’s skin cell."
+      },
+      {
+       "key": "B",
+       "text": "50% of the mother’s nuclear DNA sequences are found in the son’s skin cell."
+      },
+      {
+       "key": "C",
+       "text": "75% of the mother’s nuclear DNA sequences are found in the son’s skin cell."
+      },
+      {
+       "key": "D",
+       "text": "100% of the mother’s nuclear DNA sequences are found in the son’s skin cell."
+      },
+      {
+       "key": "E",
+       "text": "The amount of the mother’s nuclear DNA sequences found in the son’s skin cell depends on which chromosomes the son inherited from his mother."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q17",
+     "kind": "choice",
+     "points": 1,
+     "question": "17. Parietal cells of the stomach release hydrochloric acid (HCl) to aid in digestion. Why are parietal cells themselves not digested by HCl?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The H+ and Cl- ions are released separately, and only form HCl once they are in the lumen of the stomach."
+      },
+      {
+       "key": "B",
+       "text": "Parietal cells contain inhibitory enzymes that inactivate the HCl, preventing proteolysis."
+      },
+      {
+       "key": "C",
+       "text": "Mucous secreted by cells in the gastric pit prevents the HCl from accessing the parietal cells."
+      },
+      {
+       "key": "D",
+       "text": "HCl has to be activated by pepsinogen, which is released by chief (peptic) cells."
+      },
+      {
+       "key": "E",
+       "text": "Bicarbonate (HCO3-) ions inside of the parietal cells neutralize the HCl. © 2015 University of Toronto U of T National Biology Competition / 5"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": true,
+     "answer": "AC",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: AC"
+    },
+    {
+     "id": "q18",
+     "kind": "choice",
+     "points": 1,
+     "question": "18. The hydrolysis of sucrose to glucose and fructose is exergonic. However, if you dissolve sucrose in water and keep the solution overnight at room temperature, there is no detectable conversion to glucose and fructose. Why?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The change in free energy of the reaction is positive."
+      },
+      {
+       "key": "B",
+       "text": "The change in free energy of the reaction is negative."
+      },
+      {
+       "key": "C",
+       "text": "The activation energy of the reaction is high."
+      },
+      {
+       "key": "D",
+       "text": "This is a condensation reaction, which is thermodynamically unfavourable."
+      },
+      {
+       "key": "E",
+       "text": "The free energy of the products is higher than the free energy of the reactant."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q19",
+     "kind": "choice",
+     "points": 1,
+     "question": "19. Over the last century, the population sizes of many animal and plant species have been rapidly declining due to human activities. Given this information, which evolutionary mechanism would most likely be affected by this change?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Natural selection"
+      },
+      {
+       "key": "B",
+       "text": "Genetic drift"
+      },
+      {
+       "key": "C",
+       "text": "Artificial selection"
+      },
+      {
+       "key": "D",
+       "text": "Gene flow"
+      },
+      {
+       "key": "E",
+       "text": "Mutation"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q20",
+     "kind": "choice",
+     "points": 1,
+     "question": "20. You are studying the transport of a charged molecule (called chasenate) by three different types of cells. You want to determine which cell type uses active transport to take up the molecule. Each cell type is placed in media containing a high concentration of chasenate. The ratio of concentration of chasenate inside of the cell to concentration of chasenate outside of the cell is measured over time and the results are shown in the graph here. Which cell type(s) are most likely to be using active transport to take up chasenate?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Cell type 1"
+      },
+      {
+       "key": "B",
+       "text": "Cell type 2"
+      },
+      {
+       "key": "C",
+       "text": "Cell type 3"
+      },
+      {
+       "key": "D",
+       "text": "Cell types 1 and 2"
+      },
+      {
+       "key": "E",
+       "text": "Cell types 2 and 3"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Тест: вопросы 21–30",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q21",
+     "kind": "choice",
+     "points": 1,
+     "question": "21. Carbonic acid and sodium bicarbonate (sodium hydrogen carbonate) act as buffers in the blood. When a small amount of acid is added to this buffer, the H+ ions are used up as they combine with the bicarbonate ions. What happens as a result?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The pH of the blood increases."
+      },
+      {
+       "key": "B",
+       "text": "The pH of the blood does not change."
+      },
+      {
+       "key": "C",
+       "text": "The pH of the blood decreases."
+      },
+      {
+       "key": "D",
+       "text": "Carbonic acid breaks down."
+      },
+      {
+       "key": "E",
+       "text": "Sodium hydrogen carbonate is formed."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q22",
+     "kind": "choice",
+     "points": 1,
+     "question": "22. Bruce has hypothyroidism, a condition in which the thyroid gland is not producing adequate amounts of thyroxin (T4) and triiodothyronine (T3). Bruce also has low levels of circulating thyroid-stimulating hormone (TSH) and high levels of circulating thyrotropin-releasing hormone (TRH). What is the cause of Bruce’s hypothyroidism?",
+     "options": [
+      {
+       "key": "A",
+       "text": "TSH receptors on the follicular cells of his thyroid gland are not functioning."
+      },
+      {
+       "key": "B",
+       "text": "The sodium/iodide symporters on the follicular cells of his thyroid gland are not functioning."
+      },
+      {
+       "key": "C",
+       "text": "Iodine absorption by his gastrointestinal tract has been reduced."
+      },
+      {
+       "key": "D",
+       "text": "There is a lack of production and/or release of TSH from the pituitary gland."
+      },
+      {
+       "key": "E",
+       "text": "There is a lack of production and/or release of TRH from the hypothalamus. © 2015 University of Toronto U of T National Biology Competition / 6"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q23",
+     "kind": "choice",
+     "points": 1,
+     "question": "23. In some cases of diabetes in humans, glucose is metabolized to sorbitol. The enzyme sorbitol dehydrogenase then converts sorbitol into fructose by the reaction shown here. What type of reaction is this?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Hydration"
+      },
+      {
+       "key": "B",
+       "text": "Hydrogenation"
+      },
+      {
+       "key": "C",
+       "text": "Oxidation/reduction"
+      },
+      {
+       "key": "D",
+       "text": "Condensation"
+      },
+      {
+       "key": "E",
+       "text": "Hydrolysis"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q24",
+     "kind": "choice",
+     "points": 1,
+     "question": "24. A mutation occurs in a liver cell of a dog before the dog reproduces. When it reproduces, how many of the puppies are expected to have the mutation?",
+     "options": [
+      {
+       "key": "A",
+       "text": "All of the puppies will have the mutation."
+      },
+      {
+       "key": "B",
+       "text": "Half of the puppies will have the mutation."
+      },
+      {
+       "key": "C",
+       "text": "It depends which chromosomes the puppies inherit."
+      },
+      {
+       "key": "D",
+       "text": "It depends if the mutation is dominant or recessive."
+      },
+      {
+       "key": "E",
+       "text": "None of the puppies will inherit the mutation."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q25",
+     "kind": "choice",
+     "points": 1,
+     "question": "25. Upon implanting into the uterine wall, a blastocyst signals the release of human chorionic gonadotropin (hCG). What is the function of hCG?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Maintain the corpus luteum, thus maintaining elevated levels of circulating progesterone and estrogen."
+      },
+      {
+       "key": "B",
+       "text": "Maintain elevated levels of progesterone and estrogen by stimulating the pituitary gland."
+      },
+      {
+       "key": "C",
+       "text": "Eliminate the corpus luteum, thus maintaining elevated levels of circulating luteinizing hormone."
+      },
+      {
+       "key": "D",
+       "text": "Eliminate the corpus luteum, thus maintaining elevated levels of circulating progesterone."
+      },
+      {
+       "key": "E",
+       "text": "Maintain the corpus luteum, thus maintaining elevated levels of circulating luteinizing hormone."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q26",
+     "kind": "choice",
+     "points": 1,
+     "question": "26. The electron carriers NADH and FADH2 each donate electrons to the electron transport chain (ETC). Which statement best explains why FADH2 generates fewer ATP than NADH does?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Each molecule of FADH2 donates fewer electrons to the ETC than NADH does."
+      },
+      {
+       "key": "B",
+       "text": "FADH2 is only used to donate electrons when the cell has used up all of its NADH."
+      },
+      {
+       "key": "C",
+       "text": "The citric acid (Krebs) cycle generates more NADH than FADH2."
+      },
+      {
+       "key": "D",
+       "text": "For each molecule of glucose oxidized, equal numbers of FADH2 and NADH are produced."
+      },
+      {
+       "key": "E",
+       "text": "There is a lower reduction potential associated with FADH2 than NADH."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q27",
+     "kind": "choice",
+     "points": 1,
+     "question": "27. Natural selection acts ___________ on the phenotype and ___________ on the genotype.",
+     "options": [
+      {
+       "key": "A",
+       "text": "directly; directly"
+      },
+      {
+       "key": "B",
+       "text": "directly; indirectly"
+      },
+      {
+       "key": "C",
+       "text": "indirectly; indirectly"
+      },
+      {
+       "key": "D",
+       "text": "indirectly; directly"
+      },
+      {
+       "key": "E",
+       "text": "indirectly; not at all"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q28",
+     "kind": "choice",
+     "points": 1,
+     "question": "28. Violet eats an entire bag of gummy bear candies, which are high in glucose. How could a glucose molecule from a gummy bear provide the energy used to do work in Violet’s cells?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The glucose molecule is digested into simpler molecules, which have more energy."
+      },
+      {
+       "key": "B",
+       "text": "The glucose molecule is converted into ATP (adenosine triphosphate)."
+      },
+      {
+       "key": "C",
+       "text": "The atoms of the glucose molecule are turned into energy."
+      },
+      {
+       "key": "D",
+       "text": "The energy within the glucose molecule is used to form molecules such as ATP."
+      },
+      {
+       "key": "E",
+       "text": "The energy of the glucose molecule is transferred to CO2 and H2O. © 2015 University of Toronto U of T National Biology Competition / 7"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q29",
+     "kind": "choice",
+     "points": 1,
+     "question": "29. Which of the following is the definition of evolution used by evolutionary biologists?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Genetic change in a population or taxon over time."
+      },
+      {
+       "key": "B",
+       "text": "Survival of the fittest individuals in a population."
+      },
+      {
+       "key": "C",
+       "text": "Change in appearance within an individual’s lifetime."
+      },
+      {
+       "key": "D",
+       "text": "Increasing complexity of organisms over time."
+      },
+      {
+       "key": "E",
+       "text": "Adaptation of an organism to its environment."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q30",
+     "kind": "choice",
+     "points": 1,
+     "question": "30. How does water get to the leaves of a tall tree?",
+     "options": [
+      {
+       "key": "A",
+       "text": "It is pushed up from the roots to the leaves via a metabolically active pump in root cells."
+      },
+      {
+       "key": "B",
+       "text": "It is pulled up from the roots by negative pressure generated by the evaporation of water from the leaves."
+      },
+      {
+       "key": "C",
+       "text": "It is actively transported from cell to cell."
+      },
+      {
+       "key": "D",
+       "text": "It enters the leaves through open stomata."
+      },
+      {
+       "key": "E",
+       "text": "It is transported through phloem tissues."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: B"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Тест: вопросы 31–40",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q31",
+     "kind": "choice",
+     "points": 1,
+     "question": "31. Alcohol reduces the secretion of anti-diuretic hormone (ADH, also known as vasopressin). What happens when ADH levels are lowered?",
+     "options": [
+      {
+       "key": "A",
+       "text": "There will be an increased volume of dilute urine produced."
+      },
+      {
+       "key": "B",
+       "text": "There will be an increased volume of concentrated urine produced."
+      },
+      {
+       "key": "C",
+       "text": "There will be a decreased volume of dilute urine produced."
+      },
+      {
+       "key": "D",
+       "text": "There will be a decreased volume of concentrated urine produced."
+      },
+      {
+       "key": "E",
+       "text": "There will be an increased volume of urine whose concentration is unchanged."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q32",
+     "kind": "choice",
+     "points": 1,
+     "question": "32. How does the second law of thermodynamics apply to living organisms?",
+     "options": [
+      {
+       "key": "A",
+       "text": "As energy transformations occur, free energy increases and unusable energy decreases."
+      },
+      {
+       "key": "B",
+       "text": "Reactions occur only with an input of energy."
+      },
+      {
+       "key": "C",
+       "text": "The potential energy of ATP is converted to kinetic energy such as muscle contractions."
+      },
+      {
+       "key": "D",
+       "text": "To maintain order, life requires a constant input of energy."
+      },
+      {
+       "key": "E",
+       "text": "The complexity of living organisms is in disagreement with the second law of thermodynamics."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q33",
+     "kind": "choice",
+     "points": 1,
+     "question": "33. Which of the following is the strongest evidence for a shared evolutionary history between whales and fish?",
+     "options": [
+      {
+       "key": "A",
+       "text": "They occupy aquatic habitats."
+      },
+      {
+       "key": "B",
+       "text": "They have a streamlined body shape."
+      },
+      {
+       "key": "C",
+       "text": "They first appeared in the fossil record at about the same time."
+      },
+      {
+       "key": "D",
+       "text": "They can be top predators in marine food webs."
+      },
+      {
+       "key": "E",
+       "text": "They have a backbone that protects the nerve cord."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q34",
+     "kind": "choice",
+     "points": 1,
+     "question": "34. Consider two versions of a gene: the wild-type (normal), and a mutant version which contains a 100 base-pair insertion within the first intron of the gene. DNA was extracted from a homozygous wild-type (WT) cell, and a homozygous mutant (M) cell, and polymerase chain reaction (PCR) was used to amplify the entire gene sequence. The PCR products were separated using agarose gel electrophoresis (the gel separates DNA fragments based on nucleotide length). The arrow indicates the direction of movement of DNA through the gel. Which gel below correctly shows the expected PCR products?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Gel A"
+      },
+      {
+       "key": "B",
+       "text": "Gel B"
+      },
+      {
+       "key": "C",
+       "text": "Gel C"
+      },
+      {
+       "key": "D",
+       "text": "Gel D"
+      },
+      {
+       "key": "E",
+       "text": "Gel E © 2015 University of Toronto U of T National Biology Competition / 8"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q35",
+     "kind": "choice",
+     "points": 1,
+     "question": "35. A cell cycle consists of:",
+     "options": [
+      {
+       "key": "A",
+       "text": "mitosis and meiosis."
+      },
+      {
+       "key": "B",
+       "text": "G1, the S phase, and G2."
+      },
+      {
+       "key": "C",
+       "text": "prophase, metaphase, anaphase, and telophase."
+      },
+      {
+       "key": "D",
+       "text": "interphase and mitosis."
+      },
+      {
+       "key": "E",
+       "text": "meiosis and fertilization."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-cell-cycle",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q36",
+     "kind": "choice",
+     "points": 1,
+     "question": "36. What type of organism can convert nitrogen gas into chemical form (ammonia) that can then be used by other organisms?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Bacteria"
+      },
+      {
+       "key": "B",
+       "text": "Plants"
+      },
+      {
+       "key": "C",
+       "text": "Green algae"
+      },
+      {
+       "key": "D",
+       "text": "Fungi"
+      },
+      {
+       "key": "E",
+       "text": "Protists"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q37",
+     "kind": "choice",
+     "points": 1,
+     "question": "37. The product of the CAL gene is a transcription factor called CAL. CAL regulates transcription of another gene, ATH, by binding to the promoter of ATH. What type of mutation in the CAL gene is most likely to result in a CAL protein that has reduced binding affinity for the ATH promoter?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A deletion of the promoter."
+      },
+      {
+       "key": "B",
+       "text": "A single nucleotide substitution in an exon, resulting in no change to the amino acid sequence."
+      },
+      {
+       "key": "C",
+       "text": "The deletion of three nucleotides within an intron."
+      },
+      {
+       "key": "D",
+       "text": "A deletion of 50 nucleotides after exon 3."
+      },
+      {
+       "key": "E",
+       "text": "An insertion of three nucleotides at the start of exon 3, adding a new stop codon."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q38",
+     "kind": "choice",
+     "points": 1,
+     "question": "38. The figure shows chromosomes that have replicated in a cell that will soon undergo meiosis. The alleles of three genes, A, B, and C, are labelled (the black ovals are centromeres). Which of the following gamete genotypes would be the LEAST frequent product after meiosis?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A1 B2 C1"
+      },
+      {
+       "key": "B",
+       "text": "A1 B1 C1"
+      },
+      {
+       "key": "C",
+       "text": "A1 B2 C2"
+      },
+      {
+       "key": "D",
+       "text": "A2 B1 C1"
+      },
+      {
+       "key": "E",
+       "text": "A2 B1 C2"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q39",
+     "kind": "choice",
+     "points": 1,
+     "question": "39. Nutrients are cycled between the abiotic (non-living) and biotic (living) components of an ecosystem. Which organisms can both take up and release carbon in an ecosystem?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Insects"
+      },
+      {
+       "key": "B",
+       "text": "Fungi"
+      },
+      {
+       "key": "C",
+       "text": "Vertebrates"
+      },
+      {
+       "key": "D",
+       "text": "Plants"
+      },
+      {
+       "key": "E",
+       "text": "None of the above, as carbon cycling is complex and requires multiple species interactions."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q40",
+     "kind": "choice",
+     "points": 1,
+     "question": "40. During an asthma attack in humans, the muscles around the main passageway into the lungs (bronchi) contract, resulting in narrowing of the bronchi. In order to breathe in the same volume of air in a single breath as one would normally (that is, when not having an asthma attack) which of the following must occur?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Raising of the diaphragm higher into the chest cavity."
+      },
+      {
+       "key": "B",
+       "text": "Increase the number of contractions of the diaphragm that occur in a one-minute interval."
+      },
+      {
+       "key": "C",
+       "text": "Relaxing of the external intercostal muscles."
+      },
+      {
+       "key": "D",
+       "text": "Lowering of the diaphragm into the abdominal cavity."
+      },
+      {
+       "key": "E",
+       "text": "Contracting of the internal intercostal muscles. © 2015 University of Toronto U of T National Biology Competition / 9"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Тест: вопросы 41–50",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q41",
+     "kind": "choice",
+     "points": 1,
+     "question": "41. In mice, tail shape is controlled by a single gene. You cross a mouse with a bent tail with/to a mouse with a straight tail. Half of their offspring have bent tails and half have straight tails (regardless of gender). What conclusion based on these results is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Bent tail is dominant to straight tail."
+      },
+      {
+       "key": "B",
+       "text": "Straight tail is dominant to bent tail."
+      },
+      {
+       "key": "C",
+       "text": "One parent mouse is heterozygous, the other is homozygous."
+      },
+      {
+       "key": "D",
+       "text": "Both parent mice are heterozygous."
+      },
+      {
+       "key": "E",
+       "text": "Neither bent tail nor straight tail are dominant."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q42",
+     "kind": "choice",
+     "points": 1,
+     "question": "42. What is the best manipulation to undertake to achieve the goal of increasing the carrying capacity of a population of native (wild) plants in a given area (for example, a grassland habitat)?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Increase the availability of nutrients."
+      },
+      {
+       "key": "B",
+       "text": "Increase the number of herbivores."
+      },
+      {
+       "key": "C",
+       "text": "Increase the intensity of competition among plant species."
+      },
+      {
+       "key": "D",
+       "text": "Increase the amount of disruptive human activity."
+      },
+      {
+       "key": "E",
+       "text": "Increase the number of carnivorous tertiary consumers."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q43",
+     "kind": "choice",
+     "points": 1,
+     "question": "43. Which statement about competition between two species is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Competition always results in the extinction of one species."
+      },
+      {
+       "key": "B",
+       "text": "Competition always occurs between generalist species."
+      },
+      {
+       "key": "C",
+       "text": "Competition always reduces the population size of at least one species."
+      },
+      {
+       "key": "D",
+       "text": "Competition always causes one species to adapt to a new resource."
+      },
+      {
+       "key": "E",
+       "text": "Competition always creates new ecological niches for both species."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-ecology",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q44",
+     "kind": "choice",
+     "points": 1,
+     "question": "44. Intestinal bacteria are necessary for plant-eating animals to digest:",
+     "options": [
+      {
+       "key": "A",
+       "text": "lipids."
+      },
+      {
+       "key": "B",
+       "text": "nitrogen."
+      },
+      {
+       "key": "C",
+       "text": "carbon dioxide."
+      },
+      {
+       "key": "D",
+       "text": "cellulose."
+      },
+      {
+       "key": "E",
+       "text": "proteins."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q45",
+     "kind": "choice",
+     "points": 1,
+     "question": "45. The membrane potential of a neuron is determined by the movement of ions across the membrane. The likelihood of a neuron firing an action potential depends on whether the membrane becomes depolarized to the action potential threshold for that neuron. Which scenario would most likely result in the neuron reaching the threshold for generating an action potential?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Net inward movement of Cl-."
+      },
+      {
+       "key": "B",
+       "text": "Net outward movement of Cl-."
+      },
+      {
+       "key": "C",
+       "text": "Net outward movement of Na+."
+      },
+      {
+       "key": "D",
+       "text": "A combination of a net outward movement of Na+ and a net inward movement of Cl-."
+      },
+      {
+       "key": "E",
+       "text": "A combination of a net outward movement of Na+ and a net outward movement of Cl-."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q46",
+     "kind": "choice",
+     "points": 1,
+     "question": "46. During translation, what would happen if an anticodon that differs at all nucleotide positions successfully binds to a codon of an mRNA?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The amino acid will not be added to the protein."
+      },
+      {
+       "key": "B",
+       "text": "No protein would be made."
+      },
+      {
+       "key": "C",
+       "text": "The protein would still be made, but at lower amounts."
+      },
+      {
+       "key": "D",
+       "text": "The protein would be unaffected."
+      },
+      {
+       "key": "E",
+       "text": "The wrong amino acid will be added to the protein. © 2015 University of Toronto U of T National Biology Competition / 10"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q47",
+     "kind": "choice",
+     "points": 1,
+     "question": "47. Tuna are apex predators that are currently overfished by humans. Which statement correctly describes a consequence of this human activity for the abundance of organisms in the food chain shown here?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Zooplankton will decrease."
+      },
+      {
+       "key": "B",
+       "text": "Phytoplankton will decrease."
+      },
+      {
+       "key": "C",
+       "text": "Sardines will decrease."
+      },
+      {
+       "key": "D",
+       "text": "All three species (phytoplankton, zooplankton, sardines) will decrease."
+      },
+      {
+       "key": "E",
+       "text": "All three species (phytoplankton, zooplankton, sardines) will increase."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-ecology",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q48",
+     "kind": "choice",
+     "points": 1,
+     "question": "48. If a flowering plant (an angiosperm) fails to produce gibberellin what is most likely to happen?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Fruit will not ripen."
+      },
+      {
+       "key": "B",
+       "text": "The plant will be short in overall height."
+      },
+      {
+       "key": "C",
+       "text": "Its tolerance to drought will be reduced."
+      },
+      {
+       "key": "D",
+       "text": "Lateral growth will stop, such as no side branches off of the main stem."
+      },
+      {
+       "key": "E",
+       "text": "Leaves will not be shed in the fall months."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q49",
+     "kind": "choice",
+     "points": 1,
+     "question": "49. A sequence of DNA is shown below. Hypothetically, if either strand could be transcribed, in what direction will the RNA polymerase move?",
+     "options": [
+      {
+       "key": "A",
+       "text": "From left to right on both strands."
+      },
+      {
+       "key": "B",
+       "text": "From right to left on both strands."
+      },
+      {
+       "key": "C",
+       "text": "From left to right on the upper strand, and from right to left on the lower strand."
+      },
+      {
+       "key": "D",
+       "text": "From right to left on the upper strand, and left to right on the lower strand."
+      },
+      {
+       "key": "E",
+       "text": "It will bind to both strands but will be unable to move because of spatial interference."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q50",
+     "kind": "choice",
+     "points": 1,
+     "question": "50. Ebola virus disease (EVD), formerly known as Ebola hemorrhagic fever, is a severe, often fatal illness in humans. Which statement about Ebola is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The virus is transmitted to humans from wild animals."
+      },
+      {
+       "key": "B",
+       "text": "Ebola spreads from human to human by inhaling the airborne virus."
+      },
+      {
+       "key": "C",
+       "text": "The first EVD outbreaks occurred in remote villages in Africa; the most recent outbreak in West Africa involves major urban as well as rural areas."
+      },
+      {
+       "key": "D",
+       "text": "There is as yet no proven treatment available for EVD."
+      },
+      {
+       "key": "E",
+       "text": "There are currently no licensed Ebola vaccines but potential candidates are undergoing evaluation. End of exam. • Thank you for participating in the 2015 National Biology Competition. • Competition results, including scholarship information, certificates, and cash prizes, will be received by your school in late May. • Honour rolls of the top students and schools, the names of the students eligible for a competition scholarship, and the exam questions with answers will be posted on the competition’s website in late May: biocomp.utoronto.ca © 2015 University of Toronto"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: B"
+    }
+   ]
+  }
+ ]
+}

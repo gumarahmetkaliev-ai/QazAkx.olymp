@@ -1,0 +1,37 @@
+{
+ "setId": "bio-utoronto-2000--bio-tasks",
+ "olympiadId": "bio-utoronto-2000",
+ "title": "Биология → U of Toronto → 2000",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/utoronto/2000/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/utoronto/2000/bio-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T13:45:16.707Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 1,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "University of Toronto",
+   "weight": null,
+   "total": 10,
+   "statement": "National Biology Competition\n\n               2000 Examination\n                  Answer Key\n\n1. d       2. a      3. c     4. e     5. d\n6. b       7. b      8. a     9. c     10. e\n\n11. c      12. e     13. a    14. e    15. b\n\n16. e      17. d     18. a    19. e    20. c\n\n21. c      22. d     23. e    24. e    25. b\n\n26. b      27. c     28. e    29. d    30. a\n\n31. b      32. a     33. e    34. d    35. c\n\n36. a      37. c     38. d    39. b    40. d\n\n41. d      42. d     43. b    44. b    45. d\n\n46. e      47. a     48. c    49. a    50. b",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 10,
+     "question": "d 2. a 3. c 4. e 5. d",
+     "reference": "1.   Today there are many different breeds of dogs. What mechanism is responsible for most of this\n     variation?\n\n     a.   Inbreeding\n     b.   Genetic drift\n     c.   Natural selection\n     d.   Artificial selection\n     e.   Gene flow",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

@@ -305,3 +305,21 @@ section.cf-block { padding: 0; }
   .levels { grid-template-columns: repeat(2, 1fr); }
   .olymp-right { max-width: 50%; }
 }
+
+/* ── Тестовые вопросы */
+.choices { display: flex; flex-direction: column; gap: 6px; margin-top: 6px; }
+.choice-btn { display: flex; align-items: flex-start; gap: 10px; text-align: left; padding: 9px 12px; border-radius: 9px; border: 1px solid var(--line-2); background: var(--panel-2); cursor: pointer; color: var(--text); }
+.choice-btn b { min-width: 18px; color: var(--muted); }
+.choice-btn:hover { border-color: var(--accent); }
+.choice-btn.on { border-color: var(--accent); background: var(--accent-bg); }
+.choice-btn.on b { color: var(--accent-2); }
+.choices:not(:has(.choice-btn span)) { flex-direction: row; flex-wrap: wrap; }
+.choice-verdict { margin-top: 8px; padding: 8px 12px; border-radius: 8px; font-size: 0.9rem; }
+.choice-verdict.correct { background: var(--good-bg); color: var(--good); }
+.choice-verdict.wrong { background: var(--bad-bg); color: var(--bad); }
+.choice-verdict.empty { background: var(--panel-2); color: var(--muted); }
+
+/* ── Книги в «Что повторить» */
+.books { display: flex; flex-direction: column; gap: 8px; margin-top: 8px; }
+.book { display: flex; gap: 10px; align-items: flex-start; font-size: 0.9rem; line-height: 1.35; }
+.book-icon { flex-shrink: 0; }

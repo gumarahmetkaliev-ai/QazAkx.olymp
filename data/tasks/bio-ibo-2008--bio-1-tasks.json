@@ -1,0 +1,471 @@
+{
+ "setId": "bio-ibo-2008--bio-1-tasks",
+ "olympiadId": "bio-ibo-2008",
+ "title": "Биология → IBO (международная) → 2008",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/ibo/2008/bio-1-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/ibo/2008/bio-1-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T13:45:09.815Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 63,
+  "withPoints": 63,
+  "withReference": 0,
+  "withQuestion": 63,
+  "estimatedPoints": 63
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "экспериментального      скрещивания     таких     растений         гороха",
+   "weight": null,
+   "total": 63,
+   "statement": "представлены ниже в виде таблицы:\n\n               Фенотип семян               Количество\n\n               Желтые гладкие                  32\n\n               Желтые морщинистые              28\n\n               Зеленые гладкие                 12\n\n               Зеленые морщинистые              9\n\n      Какими наиболее вероятно были родительские генотипы:\n\na. YyRr и Yyrr\n\nb. Yyrr и YyRR\n\nc. YyRr и YyRr\n\nd. YyRR и yyRr\n\n                                     45\n\nINDIA\n\n44. (1 балл) В популяции число гетерозигот в 6 раз превышает число\n\n    рецессивных гомозигот. Какой будет частота рецессивного аллеля?\n\na. 1/3\n\nb. 1/4\n\nc. 1/2\n\nd. 1/6\n\n                                     46\n\nINDIA\n\n45. (1 балл) Если к популяции, в которой известны частоты генотипов в\n\n          нескольких поколениях, применить уравнение Харди-я Вайнберга, то что\n\n          из следующего можно заключить?\n\n     I.       Происходила ли эволюция в популяции.\n\n     II.      Направление эволюции, в случае если она происходила.\n\n     III.     Причина эволюции, если она происходила.\n\na.                                 Только I и II\n\nb.                                 Только I и III\n\nc.                                 Только II и III\n\nd.                                 I, II и III\n\n                                           47\n\nINDIA\n\n46. (1 балл) Отходы рудников часто содержат такие высокие концентрации\n\n    токсических металлов (например, меди, свинца), что большинство\n\n    растений неспособно расти на них. Однако, исследование показало,\n\n    что определенные травы из окружающей незагрязненной среды\n\n    расселяются на таких грудах отходов. Эти растения приобрели\n\n    устойчивость к токсическим металлам, в то время как их способность к\n\n    росту на незагрязненной почве снизилась. Поскольку травы опыляются\n\n    ветром, происходило скрещивание между растениями устойчивой и\n\n    неустойчивой популяций. Со временем менее устойчивые растения в\n\n    популяции на загрязненной территории, и более устойчивые растения\n\n    в популяции на незагрязненной территории, вымерли. Этот процесс\n\n    указывает на:\n\na. движущий (направляющий) отбор.\n\nb. эффект бутылочного горлышка.\n\nc. симпатрическое видообразование.\n\nd. дизруптивный (разрывающий) отбор.\n\n                                     48\n\nINDIA\n\n47. (1 балл) Одно из генетических заболеваний относится к рецессивно-я\n\n     аутосомному типу. Особь 2 в представленной ниже родословной\n\n     является носителем этого признака. Допустив, что особи 3 и 4\n\n     являются доминантными гомозиготами, какова вероятность того, что у\n\n     особи 6 проявится это заболевание?\n\na.    1/16\n\nb.    1/32\n\nc.    1/64\n\nd.    1/128\n\n                                     49\n\nINDIA\n\n48. (1      балл)     Обратите   внимание        на    следующие     генотипы   и\n\n     соответствующие им фенотипы:\n\n     A–B–     агути\n\n     A–bb     альбинос\n\n     aaB –    черный\n\n     aabb     альбинос\n\n     Какой    биохимический      процесс       может    объяснить   возникновение\n\n     описанных выше окрасок:\n\n                      продукт гена B              продукт гена A\na.\n\n        Бесцветный                     пигмент агути черный пигмент\n\n                      продукт гена B              продукт гена A\n\nb.\n       Бесцветный                      черный пигмент пигмент агути\n\n                      продукт гена A              продукт гена B\nc.\n      Бесцветный                        пигмент агути черный пигмент\n\n                                   продукт гена B\n\nd.       Бесцветный предшественник                     черный пигмент\n\n                      продукт гена A\n\n                                           пигмент агути\n\n                                          50\n\nINDIA\n\n49. (1 балл) 90% аллелей в популяции в Rh локусе представлено ‘X’ в R’.\n\n     Альтернативной формой этого аллеля является ‘X’ в r’. Сорок детей из этой’. Сорок детей из этой\n\n     популяции посещают специальный детский сад. Вероятность того, что\n\n     все они являются Rh-я положительными, составляет:\n\na. 400,81\n\nb. 0,9940\n\nc. 400,75\n\nd. 1-я 0,8140\n\n                                               51\n\nINDIA\n\n50. (1 балл) Рассмотрите родословную и дайте ответ на следующий\n\n     вопрос.\n\n   Генетическое    родство   между    индивидуумами     1   и   2   и     между\n\n   индивидуумами 5 и 6, соответственно, составляет:\n\na. 0,5 и 0,25\n\nb. 0,25 и 0,5\n\nc. 1,0 и 0,5\n\nd. 1,0 и 0,25\n\n                                     52\n\nINDIA\n\n                           ЭКОЛОГИЯ (7 баллов)\n\n51. (1 балл) На рисунке ниже представлена типичная пирамида биомасс.\n\n     Если А представляет первичного продуцента, то E, вероятно, является:\n\na.            фотолитогетеротрофом.\n\nb.            хемоорганогетеротрофом.\n\nc.            хемолитоавтотрофом.\n\nd.            фотоорганогетеротрофом.\n\n                                     53\n\nINDIA\n\n52. (1 балл) На рисунке ниже показана сравнительная чувствительность\n\n    трех групп организмов к единичной большой дозе x-я или -я лучей,\n\n    которые воздействовали через короткие интервалы.\n\n   Три группы P, Q, R являются соответственно:\n\na. насекомыми, млекопитающими и бактериями\n\nb. млекопитающими, бактериями и насекомыми\n\nc. бактериями, млекопитающими и насекомыми\n\nd. млекопитающими, насекомыми и бактериями\n\n                                     54\n\nINDIA\n\n53.      (1 балл) Сено прокипятили в воде и раствор затем охладили. Затем\n\n         туда    добавили   порцию   воды   из    пруда,   содержащей   только\n\n         гетеротрофные простейшие, и раствор содержали в темноте в\n\n         течение длительного времени. Что из следующего верно?\n\n      I. Будет      происходить   гетеротрофная    сукцессия   простейших    с\n\n         возрастанием общей биомассы.\n\n      II. Энергия системы максимальна в начале.\n\n      III. Будет происходить сукцессия, которая, в конечном счете, достигнет\n\n         устойчивого состояния, при котором будет поддерживаться поток\n\n         энергии.\n\n      IV. Экосистема может быть подвергнута сукцессии, но в конце все\n\n         организмы погибнут или перейдут в покоящиеся стадии.\n\na. I и III\n\nb. II и IV\n\nd. I и IV\n\n                                       55\n\nINDIA\n\n54. (1 балл) Эколог сравнивает рост травянистых растений на двух\n\n    различных участках A и B. Для сравнения популяций с этих участков,\n\n    она собрала по 30 образцов с каждого участка, затем измерила длину\n\n    корней, биомассу корней и биомассу наземных органов каждой особи.\n\n    Обобщенные результаты этих измерений представлены следующим\n\n    образом:\n\n                                                          Средняя масса\n       Место        Средняя длина      Средняя масса\n                                                            наземных\n   расположения       корня (см)          корня (г)\n                                                            органов (г)\n        Участок A      27,2 + 0,2         348,7 + 0,5       680,7 + 0,1\n\n        Участок B      13,4 + 0,3         322,4 + 0,6       708,9 + 0,2\n\n   Основываясь на представленных результатах, какие из утверждений\n\n   могут быть верными?\n\na. Наличие грунтовых вод ниже на участке В, чем на участке А.\n\nb. Продуктивность растений выше на участке А, чем на участке B.\n\nc. Наличие грунтовых вод ниже на участке А, чем на участке В.\n\nd. Наличие питательных веществ почвы ниже на участке В, чем на участке\n\n   А.\n\n                                     56\n\nINDIA\n\n55. (1 балл) В водной экосистеме общая сухая биомасса каждой из трех\n\n        групп организмов составляет:\n\n   I.                Инфузории: 1,1062 г\n\n   II.               Личинки насекомых: 0,9623 г\n\n   III.              Олигохеты (Малощетинковые): 1,005 г\n\n   Какая из представленных пищевых цепей, образованной этими видами,\n\n   является наиболее вероятной:\n\na. I  II  III\n\nb. II  I  III\n\nc. I  III  II\n\nd. III  II  I\n\ne. II  III  I\n\n                                       57\n\nINDIA\n\n56. (1      балл)                          Репродуктивный   индекс    растения    определяется   как\n\n      соотношение сухого веса его репродуктивных органов к сухому весу\n\n      его надземных тканей. На рисунке ниже представлен графически\n\n      репродуктивный индекс двух видов растений M и N, размножающихся\n\n      исключительно                            половым   путем,   в   сравнении    с   относительной\n\n      биомассой их листьев.\n                   Репродуктивный индекс\n\n    Выберите правильное объяснение.\n\na. Вид M -я  r’. Сорок детей из этой-я стратег, адаптированный к сильно поврежденной среде.\n\nb. Вид N -я  k-я стратег, адаптированный к сильно поврежденной среде.\n\nc. Вид N -я  r’. Сорок детей из этой-я стратег, растущий при благоприятных условиях окружающей\n\n    среды.\n\nd. Вид M -я  k-я  стратег, растущий при благоприятных условиях окружающей\n\n    среды.\n\n                                                            58\n\nINDIA\n\n57. (1 балл) Взаимоотношение хищник-я жертва часто рассматривается\n\n      аналогично соотношению ‘X’ в жизнь-я обед’ в экологии поведения. Какое\n\n      утверждение   наилучшим     образом    описывает     эту   аналогию   и\n\n      относительный эволюционный уровни видов жертвы и хищника в\n\n      популяции?\n\n    I. Эта аналогия указывает на тот факт, что вид жертвы служит\n\n        «обедом» для вида хищника, «жизнь» которого зависит от первого.\n\n    II. Эта аналогия указывает на тот факт, что вид жертвы, пойманной\n\n        хищником, теряет свою «жизнь», в то время как хищник, потерпевший\n\n        неудачу при поимке жертвы, теряет только «обед».\n\n    III. Вид жертвы находится обычно под большим давлением отбора\n\n        хищником и имеет склонность развиваться скорее, чем вид хищника.\n\n    IV. Вид хищника находится обычно под большим давлением отбора,\n\n        поскольку он зависит от жертвы, являющейся его пищей, и имеет\n\n        склонность развиваться скорее, чем вид жертвы.\n\na. I и III\n\nb. I и IV\n\nd. II и IV\n\n                                     59\n\nINDIA\n\n                            ЭТОЛОГИЯ (4 балла)\n\n58.    (1 балл) Животные могут использовать свой циркадный ритм для\n\n      определения направления по положению солнца. В определенном\n\n      эксперименте, проведенном в Исландии, птица, содержащаяся в\n\n      клетке, открытой сверху к небу, была натренирована искать пищу на\n\n      западной стороне клетки. Ее циркадный ритм был сдвинут в сторону\n\n      опоздания на 6 часов и после фазы смены, птица возвратилась в свою\n\n      клетку в 12 часов для реального времени. Наблюдения показали, что\n\n      она искала пищу на:\n\na. севере.\n\nb. юге.\n\nc. востоке.\n\nd. западе.\n\n                                     60\n\nINDIA\n\n59. (1 балл) Кижуч – это рыба, живущая в пресных водах Северной\n\n                                  Америки.       У    самцов   этого      вида                       имеется    две    стратегии   для\n\n                                  оплодотворения икры, отложенной самками. Самцы большего размера\n\n                                  могут успешно бороться друг с другом, но самцы меньшего размера не\n\n                                  способны к этому. Последние адаптировались к другой стратегии, а\n\n                                  именно подкрадывания, при которой они укрываются за подводными\n\n                                  камнями и быстро настигают самок и оплодотворяют икру перед тем\n\n                                  как самцы большего размера смогут сделать это. Какой из следующих\n\n                                  графиков отражает правильную стратегию?\n                                            a.                                                            b.\n\n                                                                                                                Подкрадывание\n                                                     Борьба\n\n                                                                                                                  Борьба\n\n                                            c.                                                             d.\n\n                                            Подкрадывание\n\n                                                       Подкрадывание                                             Борьба\n\n                                                         Борьба                                                       Подкрадывание\n\n                                                                          61\n\n                                         Близость к самке                                             Размер тела самца\n\nINDIA\n\n60. (1   балл)   Молодые       птенцы    смеющейся      чайки   клюют     кончик\n\n    родительского     клюва,    в   результате   чего    родители     начинают\n\n    отрыгивать    пищу.   Были      проведены    эксперименты     с   одно-я    и\n\n    трехдневными птенцами, последние воспитывались родителями. Этим\n\n    птенцам были показаны следующие модели головы родителей и\n\n    наблюдались следующие ответы:\n\n   Выберите правильное объяснение эксперимента.\n\n                                        62\n\nINDIA\n\na. Поведение клевания является фиксированной последовательностью\n\n   действий,   когда   любой   остроконечный     объект   воздействует    как\n\n   одинаково эффективный раздражитель.\n\nb. Уровень клевания у смеющейся чайки возрастает с возрастом.\n\nc. Ответ однодневных птенцов более выражен в случае, если модель\n\n   больше напоминает родителей.\n\nd. Действие клевания представляет врожденное поведение, в то время как\n\n   способность птенцов к дифференцированию является результатом\n\n   обучения.\n\n                                     63\n\nINDIA\n\n61. (1 балл) При изучении некоторых видов лягушек в их естественных\n\n    условиях ночью во время сезона спаривания, вы можете видеть хор\n\n    самцов лягушек, в котором одни особи издают звуки, а другие хранят\n\n    молчание. Дальнейшее наблюдение показало, что хранящие молчание\n\n    лягушки сидят плотно рядом с более крупными особями, издающими\n\n    звуки.\n\n   Чем можно наиболее вероятно объяснить поведение такого хора\n\n   лягушек?\n\na. Особи, не издающие звуков в данный момент, чередуют свое пение с\n\n   «пением» других лягушек и,       вероятно, будут издавать звуки в этом\n\n   сезоне позже, после того как «поющие лягушки» завершат спаривание.\n\nb. Не   издающие     звуки    лягушки    являются       близкими   генетическими\n\n   родственниками квакающих особей и не расходуют драгоценную\n\n   энергию на зов, поскольку потомство от спаривания, которого достигнут\n\n   последние, предоставит им косвенно достаточную выгоду.\n\nc. Молчащие     лягушки      определили,     что   их    зовы   недостаточны   в\n\n   привлечении самок по сравнению с таковыми квакающих особей и\n\n   лежат,     затаившись       в   ожидании        спаривания      с   самками,\n\n   приближающимися к квакающим самцам.\n\nd. Молчащие самцы лягушек выбираются в качестве партнеров теми\n\n   самками, которые используют зрение как единственный механизм для\n\n   выбора своего полового партнера.\n\n                                        64\n\nINDIA\n\n                        БИОСИСТЕМАТИКА (2 балла)\n\n62.     (1 балл) Не смотря на то, что Echidna кладет яйца, она относится к\n\n       млекопитающим, так как у нее присутствуют молочные железы. Какие\n\n       из приведенных ниже черт ехидны также являются характерными\n\n       только для класса млекопитающих?\n\n      I. Части ее тела покрыты волосами.\n      II. Наличие гипофиза и щитовидной железы.\n      III. Полное разделение малого и большого круга кровообращения в\n        четырехкамерном сердце.\n      IV. Грудная и брюшная полости тела разделены диафрагмой.\n      V. Регуляция температуры тела не зависит от окружающей\n        температуры.\n      VI. Безъядерные эритроциты.\n\na. III и VI\n\nb. I, IV и V\n\nc. Только I и IV\n\nd. I и II\n\ne. I, IV и VI\n\n                                     65\n\nINDIA\n\n63.    (1 балл) Рассмотрите предложенную вам схему эволюционного\n\n      происхождения   животных.     Соответствующие     буквы   A,   B    и   C\n\n      обозначают, соответственно:\n\n          a. позвоночный столб и череп, челюсть, пятипалые конечности.\n\n          b. хвост, сердце, зубы.\n\n          c. сердце, жабры, череп.\n\n          d. череп, клоака, печеночная система воротной вены.\n\n                   ********** КОНЕЦ ЧАСТИ А *************\n\n                                     66\n\nAll IBO examination questions are published under the following Creative Commons license:\n\nCC BY-NC-SA (Attribution-NonCommercial-ShareAlike) -\nhttps://creativecommons.org/licenses/by-nc-sa/4.0/\n\nThe exam papers can be used freely for educational purposes as long as IBO is credited and\nnew creations are licensed under identical terms. No commercial use is allowed.\n\n INDIA\n\nCountry:                                    Student Code: ____________\n___________________\n\n          19th INTERNATIONAL BIOLOGY OLYMPIAD\n\n                          13th – 20th July, 2008\n\n                              Mumbai, INDIA\n\n            Write all answers in the ANSWER SHEET.\n\n                                       1\n\nINDIA\n\n                                Dear Participants\n\n   You have a total of 2 hours for answering Part A.\n\n   The questions in Part A have only one correct answer. Mark the correct\n\n    answer with „X‟ on the Answer Sheet, which is provided separately. The\n\n    correct way of marking the cross is shown below. Use a pen or a dark pencil\n\n    to mark your answers.\n\n                  Q.        a        b       c          d    e\n                  NO.\n                   20\n\n   The answers written in the Question Paper will not be evaluated.\n\n   Mark your answers clearly. Avoid any corrections in the Answer Sheet.\n\n   NOTE: Some of the questions may be marked “Skipped” / “Deleted”. DO NOT\n\n    attempt these questions. Also, read the question completely before\n\n    attempting it as some questions may continue from one page to the next.\n\n   The maximum number of points is 63.\n\n   Your Answer Sheets will be collected at the end of the examination.\n\n                                     Good Luck!!\n\n    Country: ___________________________________\n\n    First name: _________________________________\n\n    Middle name: _______________________________\n\n    Family name: ________________________________\n\n    Student Code: _______________________________\n\n                                         2\n\nINDIA\n\n                                         PART A\n\n   CELL BIOLOGY (13 points)\n\n1. (1 point) The central dogma originally proposed by Francis Crick has seen\n\n   changes reflecting new insights obtained from time to time. Which one of the\n\n   following schematics correctly depicts our current understanding of the\n\n   replication of genetic material in various organisms and the “flow of\n\n   information” in biological systems?\n\n                                          3\n\nINDIA\n\n2. (1 point) In an experiment, mice were injected intravenously with uniformly\n\n   labeled [14C] – glucose. The molecules in the body where the 14C would be\n\n   found are:\n\na. essential amino acids and proteins.\n\nb. lipids and all vitamins.\n\nc. proteins and lipids.\n\nd. proteins and all vitamins.\n\n                                         4\n\nINDIA\n\n3. (1 point) The following schematics depict the orientation of F1FO-ATPase\n\n   along with the direction of H+-transport and ATP synthesis/hydrolysis.\n\n   Of the above schematics,\n\na. Only I is correct.\n\nb. Only II is correct.\n\nc. Only III is correct.\n\nd. Both I and III are correct.\n\n                                        5\n\nINDIA\n\n4. (1 point) A given DNA sample has 60% purines. The source of this DNA is\n\n   most likely to be:\n\na. a eukaryotic cell.\n\nb. a bacterial cell.\n\nc. a bacteriophage with double-stranded DNA.\n\nd. a bacteriophage with single-stranded DNA.\n\n                                      6\n\nINDIA\n\n5. (1 point) The stage of cell division shown in the figure below represents:\n\na. Meiotic metaphase I with n = 4\n\nb. Meiotic metaphase II with n = 4\n\nc. Meiotic metaphase II with n = 8\n\nd. Meiotic metaphase I with n = 2\n\n                                         7\n\nINDIA\n\n6. (1 point) Polymerase Chain Reaction (PCR) is a technique for rapid\n\n   amplification of DNA segments. If you are given double-stranded DNA with\n\n   appropriate forward and reverse primers as shown in the figure below, the\n\n   minimum number of cycles you will require to obtain at least one copy of the\n\n   desired fragment PQ will be:\n\n                                     P                 Q\n                             5   ’\n                                                           3’\n\n                             3’                            5’\na. 1\n\nb. 3\n\nc. 4\n\nd. 40\n\n                                         8\n\nINDIA\n\n7. (1 point) Which of the primer pairs is the correct one to amplify the gene\n\n   sequence below with PCR?\n\n   5‟-GCGTTGACGGTATCAAAACGTTAT… …TTTACCTGGTGGGCTGTTCTAATC-3‟\n\na. 5‟-GCGTTGACGGTATCA-3‟ and 5‟-TGGGCTGTTCTAATC-3‟\n\nb. 5‟-CGCAACTGCCATAGT-3‟ and 5‟-TGGGCTGTTCTAATC-3‟\n\nc. 5‟-GCGTTGACGGTATCA-3‟ and 5‟-GATTAGAACAGCCCA-3‟\n\nd. 5‟-TGATACCGTCAACGC-3‟ and 5‟-GATTAGAACAGCCCA-3‟\n\n                                         9\n\nINDIA\n\n8. (1 point) Equal concentrations of urea, ethyl urea, and dimethyl urea were\n\n   separately added to a suspension of red blood cells (RBC). The relative rates\n\n   of diffusion of these molecules into RBCs will be:\n\na. 1 > 2 > 3\n\nb. 1 > 2 = 3\n\nc. 3 > 2 > 1\n\nd. 3 = 2 > 1\n\n                                        10\n\nINDIA\n\n9. (1 point) A region of a double-stranded DNA is represented in the following\n\n   schematic and the hyphens denote sequences of unspecified lengths:\n\n      The region of DNA enclosed within the box undergoes inversion. Which\n\n      one of the following correctly depicts the above DNA after inversion?\n\n                                       11\n\nINDIA\n\n10. (1 point) A rare genetic disease is characterized by immuno-deficiency,\n\n   developmental and growth delay, and microcephaly. Suppose you extract\n\n   DNA from a patient with this syndrome and find almost equal quantities of\n\n   long and very short DNA strands, which enzyme is likely to be defective in\n\n   this patient?\n\na. DNA ligase\n\nb. Topoisomerase\n\nc. DNA polymerase\n\nd. Helicase\n\n                                       12\n\nINDIA\n\n11. (1 point) A scientist has suggested that a homolactic fermenting organism\n\n   grows anaerobically on glycerol 3-phosphate as the sole source of carbon,\n\n   exclusively using the following pathway:\n\n      However, the scientific community rejected this suggestion because:\n\na. the number of ATP molecules produced is insufficient to support growth.\n\nb. the number of NAD+ that are reduced is not same as the number of NADH\n\n   that are oxidized in the pathway.\n\nc. the carbon source is not as reduced as glucose and hence, cannot support\n\n   growth.\n\nd. the number of negative charges on lactic acid (which is being produced) is not\n\n   the same as that on glycerol 3-phosphate (which is being consumed).\n\n                                       13\n\nINDIA\n\n12. (1 point) The growth curve of a bacterial culture grown in a rich medium at\n\n   37°C is shown in Figure A. The same organism when exposed to 45°C for 30\n\n   min and then inoculated into a rich medium at 37°C, exhibited a growth curve\n\n   shown in Figure B.\n\n                   A                                 B\n\n    Turbidity\n      OD600\n\n                   Time (hours)                      Time (hours)\n\n      Which of the following statements is most likely to explain the growth\n\n      pattern in Figure B?\n\na. Heat kills the original bacterial population and the growth pattern observed is\n\n   due to a contaminating bacterial strain.\n\nb. Heat causes growth arrest at a particular stage, thereby synchronizing cells\n\n   and resulting in all cells dividing at the same time.\n\nc. Heat exposure alters surface properties of cells causing errors in turbidity\n\n   measurements.\n\nd. The increase in turbidity is not due to growth but caused by increasing lysis of\n\n   heat-treated cells with time.\n\n                                         14\n\nINDIA\n\n13. (1 point) Absorption of a drug in the gastro-intestinal tract depends on a\n\n   number of factors. Penicillin V, whose structure is shown below, is a weak\n\n   acid (pKa = 2.7). The pH in stomach is about 2.0 and that in the intestine is\n\n   7.5. Most of the drug is absorbed in the intestine.\n\n   Choose the most likely reason for this from the following statements:\n\na. The molecule of drug being hydrophobic in nature passes through gastric and\n\n   intestinal membranes to a very small extent. However, because of the much\n\n   greater surface area in the intestine, the major quantity of the drug is\n\n   absorbed here.\n\nb. The un-ionized form of the drug prevails in stomach, which slows down its\n\n   absorption. Hence, the drug gets preferentially absorbed in the intestine.\n\nc. The ionized form of the drug prevails in the intestine which hinders/slows\n\n   down its absorption. However, owing to the large surface area available in the\n\n   intestine, the drug is absorbed mainly here.\n\nd. Due to rapid churning movement and the low pH in the stomach, the drug is\n\n   completely broken down into smaller fragments, which are subsequently\n\n   absorbed in the intestine.\n\n                                         15\n\nINDIA\n\n   PLANT SCIENCES (9 points)\n\n14. (1 point) Which of the following will harm a dicotyledonous plant the most?\n\na. Removal of the central pith\n\nb. Removal of the cork\n\nc. Removal of the bark\n\nd. Removal of the cork cambium\n\n                                        16\n\nINDIA\n\n15. (1 point) The transverse sections of the leaves A and B given below\n\n   represent, respectively:\n\n                   A                                             B\n\na. a xerophyte and a mesophyte.\n\nb. a xerophyte and a floating hydrophyte.\n\nc. a floating hydrophyte and a submerged hydrophyte.\n\nd. a submerged hydrophyte and a xerophyte.\n\n                                       17\n\nINDIA\n\n16. (1 point) Certain plant species such as Red Oak (Quercus rubra) can tolerate\n\n   severe drought over a long period of time without affecting its photosynthesis.\n\n   Which of the following adaptations is likely to contribute to this ability?\n\na. Stomatal closure\n\nb. Large negative leaf water potential\n\nc. Kranz leaf anatomy\n\nd. Fibrous root system that increases root surface area\n\n                                          18\n\nINDIA\n\n17. (1 point) The net assimilation of CO2 of a plant is 0.5 moles when illuminated\n\n   during the day. The net consumption of O2 is 0.12 moles during the night.\n\n   Assuming that all the gas exchange is due to photosynthesis and respiration\n\n   of the biomass (equivalent molecular mass of 30), what is the net production\n\n   or consumption of biomass in grams during a complete 12 h day:12 h night\n\n   diurnal cycle?\n\na. 3.6 g/day\n\nb. 7.8 g/day\n\nc. 11.4 g/day\n\nd. 15.0 g/day\n\n                                        19\n\n     INDIA\n\n     18. (1 point) Choose the figure that correctly represents the photosynthetic\n\n                  efficiencies of C3 and C4 plants.\n\na.                                                                                            b.\n\n                                                 C4                                                             C4\n\n                                                      C3                                                              C3\n\n                                1%      50%           100%                                     1%      50%           100%\n                                      Sunlight                                                       Sunlight\n\n                                0°C     25°C          40°C                                     0°C      25°C         40°C\n\n c.                                                                          d.\n\n                                                                                                                C3\n                                                 C4\n\n                                                                                                                     C4\n\n                                                       C3\n\n                                                                                              1%       50%           100%\n                                1%      50%           100%\n                                                                                                     Sunlight\n                                      Sunlight\n\n                                0°C     25°C          40°C                                    0°C      25°C          40°C\n\n                                                             20\n\nINDIA\n\n19. (1 point) Plant chloroplasts are believed to have evolved from cyanobacteria-\n\n   like progenitors through endosymbiosis. Which of the following statements\n\n   support this hypothesis?\n\n   I. Chloroplasts and cyanobacteria share similar photosynthetic pigments and\n\n       thylakoid membranes.\n\n   II. Cyanobacteria exhibit an oxygenic photosynthesis.\n\n   III. Chloroplasts are maternally inherited.\n\n   IV. Chloroplasts have their own DNA and ribosomes.\n\n   V. Viable chloroplasts can be isolated from cells but cannot be cultured in\n\n       vitro.\n\n   VI. Prokaryotic genes express well in chloroplasts.\n\na. I, III, IV and V\n\nb. I, II, IV and VI\n\nc. I, II, III and V\n\nd. II, IV, V and VI\n\n                                         21\n\nINDIA\n\n20. (1 point) Powdery mildew is a plant disease caused by an ectoparasitic\n\n   fungus. The fungal infection can spread to neighboring host cells in the\n\n   following ways:\n\n                                                R\n                      Conidiophore            Conidia           Germination\n\n                                                                   Hypha S\n      Germ tube\n\n        Ascospore                                             Antheridia\n                  Q                                           Ascogonia\n\n                      Ascus\n                                         Plasmogamy\n                                         Karyogamy\n\n   The ploidy levels of the structures Q, R and S are, respectively:\n\na. 2n, n, n\n\nb. n, n, n\n\nc. 2n, n, 2n\n\nd. n, n, 2n\n\n                                        22\n\nINDIA\n\n21. (1 point) A few characteristics of photoautotrophs are tabulated below.\n\nGroup Light compensation point          Light saturation point   CO2 compensation\n\n           (klux units)                 (klux units)             point (ppm)\n\nI          1–3                          > 80                     0\n\nII         1–2                          50 – 80                  > 40\n\nIII        0.2 – 0.5                    5 – 10                   > 40\n\nIV         Data not available           1–2                      Data not available\n\n      The four groups (I –IV) represent, respectively:\n\na. I: C4 plants                             II: Sun-loving C3 plants\n\n      III: Shade-loving C3 plants           IV: Deep-sea algae\n\nb. I: Sun-loving C3 plants                  II: Shade-loving C3 plants\n\n      III: C4 plants                        IV: Bryophytes\n\nc. I: C4 plants                             II: Bryophytes\n\n      III: Sun-loving C3 plants             IV: Shade-loving C3 plants\n\nd. I: C4 plants                             II: Sun-loving C3 plants\n\n      III: Deep-sea algae                   IV: Bryophytes\n\n                                           23\n\nINDIA\n\n22. (1 point) The stem of a lily plant was placed in water tinted with red ink to\n\n   monitor the movement of water through it. Two transverse sections of stems\n\n   are given below. In which of the labeled structures would you expect the red\n\n   color?\n\n                A             B                                     C       D\n\n                                                                        E\n\na. A\nb. B\nc. C\nd. D\ne. E\n\n                                          24\n\nINDIA\n\n   ANIMAL SCIENCES (11 points)\n\n23. (1 point) A few intact skeletons of birds were found during a field trip to the\n\n   Pampas in Argentina. In all the skeletons examined, the sternum lacked a\n\n   keel bone. These skeletons most likely belonged to:\n\na. terrestrial birds capable of short and powerful flight.\n\nb. flightless aquatic birds.\n\nc. insectivorous flying birds.\n\nd. flightless terrestrial birds.\n\n                                          25\n\nINDIA\n\n24. (1 point) Which one of the following is a feature of a heterothermic\n\n   endotherm?\n\na. Its body temperature can vary, but it produces heat from its own tissues.\n\nb. Its body temperature varies because it gains most of the heat from sources\n\n   outside its body.\n\nc. Its body temperature does not vary because it produces heat from its own\n\n   tissues.\n\nd. Its body temperature does not vary even though it gains heat from sources\n\n   outside its body.\n\n                                         26\n\nINDIA\n\n25. (1 point) Which of the following will be an advantage of breathing in air over\n\n       breathing in water?\n\n    I. As air is less dense than water, less energy is required to move air over\n\n        respiratory surfaces.\n\n    II. Oxygen diffuses faster through air than it does through water.\n\n    III. The oxygen content of air is greater than that of an equal volume of water.\n\nb. Only I and III\n\nc. Only II and III\n\nd. I, II and III\n\n                                         27\n\nINDIA\n\n26. (1 point) Which characteristics would allow you to declare an organism found\n\n   on a beach as an echinoderm?\n\na. Radially symmetric adults with presence of spines and tube feet.\n\nb. Radially symmetric adults with dorsal hollow notochord.\n\nc. Exoskeleton with pharyngeal gill-slits and tube feet.\n\nd. Radially symmetric adults with mantle cavity.\n\n                                        28\n\nINDIA\n\n27. (1 point) In an individual X, the pituitary gland was found to function normally\n\n   while the adrenal glands were atrophied. In another individual Y, both the\n\n   pituitary and adrenal glands were found to be underdeveloped. If\n\n   adrenocorticotropic hormone (ACTH) is administered to these individuals as a\n\n   remedial measure, it will be effective in:\n\na. individual X alone.\n\nb. individual Y alone.\n\nc. both X and Y.\n\nd. neither X nor Y.\n\n                                         29\n\nINDIA\n\n28. (1 point) Which of the following are associated with stereoscopic vision?\n\n     I. Effect of the blind spot of one eye is cancelled by the other eye.\n\n     II. Total visual field of 360° and frontal visual field of 30°.\n\n     III. More likely to be observed in predatory birds.\n\n     IV. Centrally situated fovea that gives good visual acuity.\n\na. I, II and IV\n\nb. I, II and III\n\nc.   II, III and IV\n\nd. I, III and IV\n\n                                            30\n\nINDIA\n\n29. (1 point) The glycoside “Phloridzin” present in apple peel can block the\n\n   normal reabsorption of glucose from kidney tubules. As a result, sugar is\n\n   almost completely excreted through the urine. A mouse fed with Phloridzin\n\n   along with sodium succinate will develop:\n\na. hypoglycemia and no sugar will be detected in the urine sample.\n\nb. hyperglycemia and urine test for sugar will be positive.\n\nc. hyperglycemia and no sugar will be detected in the urine sample.\n\nd. hypoglycemia and urine test for sugar will be positive.\n\n                                        31\n\nINDIA\n\n30. (1 point) Cardiac output is defined as the amount of blood pumped by each\n\n   ventricle. It is determined by multiplying the heart rate and the stroke volume.\n\n   The stroke volume is the amount of blood ejected by each ventricle with each\n\n   beat. If the heart of a woman beats 56 times in a minute, the volume of blood\n\n   in her heart is 120 ml at the end of diastole and 76 ml at the end of systole,\n\n   what would be her cardiac output?\n\na. 10.976 L/min\n\nb. 2.464 L/min\n\nc. 6.720 L/min\n\nd. 4.256 L/min\n\n                                        32\n\nINDIA\n\n31. (1 point) A population is drinking water contaminated with a modified\n\n   bisphenol-A, which is not degraded in the body. As a result, there are\n\n   measurable levels of this compound in the blood. Which of the following\n\n   would result if the modified bisphenol-A were an oestrogen-mimicking\n\n   compound?\n\na. Males would have decreased sperm production.\n\nb. Males would have elevated levels of follicle-stimulating hormone.\n\nc. Females would have elevated levels of gonadotropin-releasing hormone.\n\nd. Males would have elevated levels of blood testosterone.\n\ne. Follicle stimulation would increase in females.\n\n                                        33\n\nINDIA\n\n32. (1 point) If a molecule of carbon dioxide released into the blood in your left\n\n   foot travels out of your nose, it must pass through all of the following\n\n   structures except the:\n\na. right atrium\n\nb. pulmonary vein\n\nc. alveolus\n\nd. bronchus\n\ne. pulmonary artery\n\n                                         34\n\n INDIA\n\n 33. (1 point) The process of artificial kidney dialysis is shown schematically using\n\n     the following symbols:\n\n        : erythrocyte            : salts\n                                                         : semi-permeable membrane\n        : urea                   : proteins\n\n     Which of the following correctly depicts the process?\n\na.                                                b.\n\nc.                                                  d.\n\n                                           35\n\nINDIA\n\n   GENETICS AND EVOLUTION (17 points)\n\n34. (1 point) A mutation results in the absence of sweat glands, a disease called\n\n   anhidrotic ectodermal dysplasia. A woman suffering from this disease has a\n\n   mosaic of skin patches lacking sweat glands. The woman is likely to be:\n\na. homozygous for an autosomal recessive mutation.\n\nb. heterozygous for an autosomal dominant mutation.\n\nc. homozygous for a X-linked recessive mutation.\n\nd. heterozygous for a X-linked recessive mutation.\n\n                                       36\n\nINDIA\n\n35. (1 point) A mink breeder allows random mating among his minks. He\n\n   discovers that, on an average, 9% of his minks have rough fur that fetches\n\n   less money when sold. So he decides to focus upon smooth fur and does not\n\n   allow minks with rough fur to mate. Rough fur is linked to an autosomal\n\n   recessive allele. What is the percentage of minks with rough fur that he will\n\n   obtain in the next generation?\n\na. 7.3\n\nb. 5.3\n\nc. 25\n\nd. 23\n\n                                        37\n\nINDIA\n\n36. (1 point) In a breed of rabbits, multiple alleles with the following dominance\n\n    relationships control coat coloration:\n\n    C (agouti) > cch (chinchilla) > ch (Himalayan) > c (albino).\n\n    An experimental cross between agouti and Himalayan produced 50% agouti\n\n    and 50% Himalayan progeny. Which of the following crosses could produce\n\n    this result?\n\n    I. Cch X chch\n\n    II. Cc X chc\n\n    III. Cch X chc\n\n    IV. Cc X chch\n\na. I, II and III\n\nb. II, III and IV\n\nc. I, III and IV\n\nd. I, II and IV\n\n                                             38\n\nINDIA\n\n37. (1 point) Alleles IA and IB present on chromosome 9 are responsible for blood\n\n     groups A and B, respectively. Blood group O results when these alleles are\n\n     either absent or not expressed. The alleles IA and IB are expressed only if the\n\n     H allele is present on chromosome 19, either in the homozygous or\n\n     heterozygous condition, where h stands for the recessive allele.\n\n     Gilbert belongs to the AB blood group. His sister Helen belongs to the A\n\n     group while their father belongs to the O group. Identify the maternal and\n\n     paternal genotypes.\n\n     Mother           Father\n\na. H/H, IA/IB         H/h, IO/IO\n\nb. H/h, IB/IO         h/h, IA/IO\n\nc.   h/h, IO/IO       h/h, IA/IO\n\nd. H/H, IA/IO         H/h, IB/IO\n\ne. h/h, IB/IO         H/h, IO/IO\n\n                                          39\n\nINDIA\n\n38. (1 point) The phenotypes of three experimental populations of plants are\n\n                     shown in the following graphs.\n\n                             Height                                       Height                        Height\n\n                              X                                            Y                              Z\n\n                     The three populations X, Y and Z represent, respectively:\n\na. F1, F2 and F3 generations\n\nb. P, F1 and F2 generations\n\nc. F2, P and F1 generations\n\nd. F3, F1 and F2 generations\n\n                                                                     40\n\nINDIA\n\n39. (1 point) In a population of mice, 40% of males showed a dominant X-linked\n\n   trait. Assuming random mating, the most frequent mating is expected\n\n   between the genotypes:\n\na. XBXb and XbY\n\nb. XBXB and XbY\n\nc. XBXb and XBY\n\nd. XbXb and XbY\n\n                                       41\n\nINDIA\n\n40. (1 point) Hunting of Northern elephant seals reduced their population size to\n\n   as few as 20 individuals at the end of the 19th century. Their population has\n\n   since rebounded to over 30,000. But their genomes still carry the marks of\n\n   this bottleneck when compared to the population of Southern elephant seals\n\n   that was not so intensely hunted. Such bottlenecks are manifested in the form\n\n   of:\n\n   I. abundance of unique mutations.\n\n   II. increased frequency of deleterious recessive alleles.\n\n   III. reduced genetic variation.\n\n   IV. increased population size.\n\nb. Only III\n\nc. I, II and IV\n\nd. II and III\n\n                                        42\n\nINDIA\n\n41. (1 point) What is true for both genetic drift and natural selection?\n\n   I. They are mechanisms of evolution.\n\n   II. They are entirely random processes.\n\n   III. They result in adaptations.\n\n   IV. They affect the genetic make-up of the population.\n\na. I and II\n\nb. I and III\n\nd. I and IV\n\n                                          43\n\nINDIA\n\n42. (1 point) The frequencies of two codominant alleles with similar fitness values\n\n   in a laboratory population of mice were 0.55 and 0.45. After 5 generations,\n\n   the values changed to 0.35 and 0.65, respectively. Which of the following\n\n   phenomena may be responsible for this observation?\n\n   I. Point mutation\n\n   II. Nonrandom mating\n\n   III. Genetic drift\n\n   IV. Selection pressure\n\na. I and IV\n\nb. II and IV\n\nc. I and III\n\nd. II and III\n\n                                        44\n\nINDIA\n\n43. (1 point) In pea plants, the allele for green color of seeds (G) is dominant\n\n   over that for yellow color (g) while the allele for round seeds (R) is dominant\n\n   over that for wrinkled seed (r). The results of an experimental cross with such\n\n   garden pea plants are tabulated below:\n\n                          Seed phenotype         Number\n\n                          Green and round        32\n\n                          Green and wrinkled     28\n\n                          Yellow and round       12\n\n                          Yellow and wrinkled 9\n\n   The parental genotypes are likely to be:\n\na. GgRr and Ggrr\n\nb. Ggrr and GgRR\n\nc. GgRr and GgRr\n\nd. GgRR and ggRr\n\n                                         45\n\nINDIA\n\n44. (1 point) A population has 6 times as many heterozygous as homozygous\n\n   recessive individuals. The frequency of the recessive allele will be:\n\na. 1/3\n\nb. 1/4\n\nc. 1/2\n\nd. 1/6\n\n                                        46\n\nINDIA\n\n45. (1 point) If you have data on genotypic frequencies for several generations of\n\n    a population and if you apply the Hardy-Weinberg equation to it, which of the\n\n    following can be deduced?\n\n    I. Whether evolution has occurred in the population.\n\n    II. The direction of evolution, if it has occurred.\n\n    III. The cause of evolution, if it has occurred.\n\nb. Only I and III\n\nc. Only II and III\n\nd. I, II and III\n\n                                           47\n\nINDIA\n\n46. (1 point) The residues of mines often contain such high concentrations of\n\n   toxic metals (e.g., copper, lead) that most plants are unable to grow on them.\n\n   However, in a particular study, certain grasses were found to spread from the\n\n   surrounding uncontaminated soil onto such waste heaps. These plants\n\n   developed resistance to the toxic metals while their ability to grow on\n\n   uncontaminated soil decreased. As grasses are wind-pollinated, breeding\n\n   between the resistant and non-resistant populations went on. But eventually,\n\n   the less resistant plants growing on contaminated soil and the more resistant\n\n   plants growing on uncontaminated soil died out. This process is indicative of:\n\na. mass extinction of species.\n\nb. bottleneck effect.\n\nc. divergent evolution.\n\nd. disruptive selection.\n\n                                        48\n\nINDIA\n\n47. (1 point) Sickle cell anemia is an autosomal recessive trait. Individual 2 in the\n\n   following pedigree is a carrier for this trait. Assuming that individuals 3 and 4\n\n   are normal homozygous, what is the probability that individual 6 will have the\n\n   disease?\n\n                           1                  2\n                                                                               : Male\n\n                         AA                Aa\n\n              3                                             4                  : Female\n\n                            5                 6\n\na. 1/16\n\nb. 1/32\n\nc. 1/64\n\nd. 1/128\n\n                                         49\n\nINDIA\n\n48. (1 point) Note the following genotypes and corresponding phenotypes:\n\n     A–B–      Agouti\n\n     A–bb      Albino\n\n     aaB –     Black\n\n     aabb      Albino\n\n     The biochemical process that can explain the above pattern is:\n\n                        product of B gene          product of A gene\na.\n\n         Colorless precursor           agouti pigment          black pigment\n\nb.                      product of B gene          product of A gene\n\n         Colorless precursor           black pigment          agouti pigment\n\nc.\n                        product of A gene          product of B gene\n\n         Colorless precursor           agouti pigment          black pigment\n\nd.                      product of B gene\n\n         Colorless precursor           black pigment\n\n             product of A gene\n\n                                             agouti pigment\n\n                                            50\n\nINDIA\n\n49. (1 point) In a population, 90% of the alleles at the Rh locus are „R‟. Another\n\n   alternative form of this allele is „r‟. Forty children from this population go to a\n\n   particular play school. The probability that all are Rh positive is:\n\na. 400.81\n\nb. 0.9940\n\nc. 400.75\n\nd. 1-0.8140\n\n                                          51\n\nINDIA\n\n50. (1 point) Study the pedigree and answer the following question.\n\n                           3            4              5        6\n      1           2\n\n                  : Male          : Female            : Dizygotic twins\n\n   The genetic relatedness between individuals 1 and 2 and between individuals\n\n   5 and 6, respectively, is:\n\na. 0.5 and 0.25\n\nb. 0.25 and 0.5\n\nc. 1.0 and 0.5\n\nd. 1.0 and 0.25\n\n                                       52\n\nINDIA\n\n   ECOLOGY (7 points)\n\n51. (1 point) A typical biomass pyramid is represented in the figure below.\n\n                                    D\n               E\n                                     C\n                                         B\n                                                           A\n\n   If A represents a primary producer, then E is likely to be a:\n\na. photo-litho-heterotroph.\n\nb. chemo-organo-heterotroph.\n\nc. chemo-litho-autotroph.\n\nd. photo-organo-heterotroph.\n\n                                             53\n\nINDIA\n\n52. (1 point) Comparative sensitivity of three groups of organisms to single large\n\n     doses of x-or -rays delivered at short intervals is shown in the figure below.\n\n                          P\n\n                                                  Q\n\n                                                                    R\n\n               102            103           104         105              106\n                                           Dose in rads\n\n     The three groups P, Q, R respectively are:\n\na. insects, mammals and bacteria\n\nb. mammals, bacteria and insects\n\nc.   bacteria, mammals and insects\n\nd. mammals, insects and bacteria\n\n                                          54\n\nINDIA\n\n53. (1 point) Hay is boiled in water and cooled. Some pond water, containing only\n\n   heterotrophic protozoa, is added to it and kept in the dark for a long time.\n\n   Which of the following are true?\n\n   I. Heterotrophic succession of protozoa will occur with increase in total\n\n       biomass.\n\n   II. The energy of the system is maximum at the beginning.\n\n   III. Succession will occur, eventually reaching a steady state in which energy\n\n       flow is maintained.\n\n   IV. The ecosystem may undergo succession but finally all organisms will die\n\n       or go into resting stages.\n\na. I and III\n\nb. II and IV\n\nd. I and IV\n\n                                        55\n\nINDIA\n\n54. (1 point) An ecologist is comparing the growth of a herbaceous plant species\n\n   growing in two different sites A and B. To compare the populations from the\n\n   two sites, she has harvested 30 individuals from each site, then measured the\n\n   root length, root biomass, and shoot biomass of each individual. A summary\n\n   of those measurements are as follows:\n\n       Location    Mean root length         Mean root              Mean shoot\n\n                          (cm)             biomass (g)             biomass (g)\n\n        Site A         27.2 + 0.2          348.7 + 0.5             680.7 + 0.1\n\n        Site B         13.4 + 0.3          322.4 + 0.6             708.9 + 0.2\n\n   Based on the data presented, which of the following statements is likely to be\n\n   true?\n\na. Soil water availability is lower in Site B than in Site A.\n\nb. Plant productivity is higher in Site A than in Site B.\n\nc. Soil water availability is lower in Site A than in Site B.\n\nd. Soil nutrient availability is lower in Site B than in Site A.\n\n                                          56\n\nINDIA\n\n55. (1 point) In an aquatic ecosystem, the total dry biomass of each of three\n\n   groups of organisms is as follows:\n\n   I. Ciliates: 1.1041 g\n\n   II. Midge larvae: 0.9845 g\n\n   III. Oligochaetes: 1.005 g\n\n   The correct food chain that they represent is:\n\na. I  II  III\n\nb. II  I  III\n\nc. I  III  II\n\nd. III  II  I\n\ne. II  III  I\n\n                                        57\n\nINDIA\n\n56. (1 point) The reproductive effort of a plant is defined as the ratio of the dry\n\n   weight of its reproductive organs to that of its above-ground tissues. The\n\n   reproductive effort of two plant species M and N, as compared to their leaf\n\n   biomass is plotted in the graph below.\n\n                                 0.5\n           Reproductive effort\n\n                                              M\n\n                                 0.1                           N\n\n                                       0\n\n                                           0.1                   0.5\n                                           Leaf biomass / total biomass\n\n   Choose the correct interpretation.\n\na. M is a r-strategist adapted to a highly disturbed habitat.\n\nb. N is a k-strategist adapted to a highly disturbed habitat.\n\nc. N is a r-strategist growing under favorable environmental conditions.\n\nd. M is a k-strategist growing under favorable environmental conditions.\n\n                                                          58\n\nINDIA\n\n57. (1 point) Prey-predator relationships are often considered analogous to a „life-\n\n   dinner‟ relationship in behavioral ecology. Which of the following statements\n\n   best describe this analogy and the relative evolutionary rates of the prey and\n\n   predator species in a population?\n\n   I. This analogy indicates the fact that the prey species serves as the „dinner‟\n\n       for the predator species, the „life‟ of which depends on the former.\n\n   II. This analogy indicates that a prey species caught by a predator loses its\n\n       „life‟ while a predator that fails to catch a prey only loses a „dinner‟.\n\n   III. The prey species is usually under greater selection pressure from its\n\n       predators and tends to evolve faster than does a predator species.\n\n   IV. The predator species is usually under greater selection pressure because\n\n       of its dependence on a prey species for food and tends to evolve faster\n\n       than does a prey species.\n\na. I and III\n\nb. I and IV\n\nd. II and IV\n\n                                           59\n\nINDIA\n\n   ETHOLOGY (4 points)\n\n58. (1 point) Animals can use their circadian clocks to determine direction from\n\n   the position of the sun. In a particular experiment conducted in Iceland, a bird,\n\n   kept in a cage open to the sky, was trained to seek food on the western side.\n\n   Its circadian rhythm was then phase-delayed by 6 hours and after phase\n\n   shifting, the bird was returned to its open cage at 12.00 noon real time. It was\n\n   observed to seek food in the:\n\na. north.\n\nb. south.\n\nc. east.\n\nd. west.\n\n                                        60\n\nINDIA\n\n59. (1 point) Coho Salmon is a fish found in the freshwater streams of North\n\n                America. The males of this species have two reproductive strategies to\n\n                fertilize the eggs laid by females. Larger males are able to fight with each\n\n                other successfully but smaller males are unable to do so. The latter adopt\n\n                another strategy, that of sneaking, in which they hide behind rocks and\n\n                quickly approach females to fertilize the eggs before the larger males are able\n\n                to do so. Which of the following graphs depicts the correct strategies?\n\na.\n                                                            b.\n                                                                 Proximity to female\n\n                                            Fighting                                                             Sneaking\n     Male body size\n\n                                                Sneaking                                                               Fighting\n\n                                 Proximity to female                                                  Male body size\n\n c.                                                          d.\n                                                                                Proximity to female\n\n                                              Sneaking                                                            Fighting\n                Male body size\n\n                                                 Fighting                                                               Sneaking\n\n                                  Proximity to female                                                  Male body size\n\n                                                                 61\n\nINDIA\n\n60. (1 point) Young laughing gull chicks peck at the tip of the parent‟s beak which,\n\n   in turn, induces the adult gull to regurgitate food. Experiments were\n\n   conducted with one-day old and three-day old chicks, the latter being reared\n\n   with their parents. These chicks were presented with the following models of\n\n   the parent head and the following responses were obtained:\n\n                                        Mean number of pecks / 30 sec\n                      Model             0      5       10     15\n\n                                          One-day old\n        Parental\n                                          Experienced\n\n              I\n\n             II\n\n            III\n\n           IV\n\n                                        62\n\nINDIA\n\n   Choose the correct interpretation of the experiment.\n\na. Pecking behavior is a fixed action pattern where any long pointed object acts\n\n   as an equally effective stimulus.\n\nb. The pecking rate of laughing gull chicks increases with age.\n\nc. The response of one-day old chicks is more pronounced when the model is\n\n   closer to that of the parent.\n\nd. Act of pecking is an innate behavior while the discriminatory capacity of the\n\n   chicks is a result of learning.\n\n                                        63\n\nINDIA\n\n61. (1 point) While studying the frogs of a certain species in their natural habitat\n\n   during the mating season, you observe a chorus of male frogs in which some\n\n   individuals are calling while others remain silent. On further observation, you\n\n   see the silent frogs are sitting closer to those that are calling.\n\n   Which of the following is most likely to explain the behavior of this chorus of\n\n   frogs?\n\na. The individuals who are not calling are staggering their calls with those of the\n\n   others and are likely to call later in the season after the latter have finished\n\n   mating.\n\nb. The silent frogs are close genetic relatives of the calling individuals and do\n\n   not expend valuable energy in calling as the matings that the latter will\n\n   receive would provide adequate indirect fitness to them.\n\nc. The silent frogs have evaluated that their calls are inadequate in attracting\n\n   females, as compared to those of the calling individuals, and lie in wait to\n\n   sneak matings with the females that approach the calling males.\n\nd. The silent frogs do not expend energy in themselves calling as the female\n\n   frogs that are attracted to the calls of the others are anyway likely to visually\n\n   inspect the closely-spaced males and then choose their mating partners.\n\n                                          64\n\nINDIA\n\n   BIOSYSTEMATICS (2 points)\n\n62. (1 point) Although Echidna lays eggs, it has been classified as a mammal\n\n   due to the presence of mammary glands. Which of the following additional\n\n   features support its inclusion in the class Mammalia?\n\n                                     Echidna\n\n   I. Hair over parts of the body.\n\n   II. Presence of pituitary and thyroid gland.\n\n   III. Complete separation of pulmonary and systemic circulation in a 4 -\n\n       chambered heart.\n\n   IV. A diaphragm separating thoracic and abdominal cavities.\n\n   V. Regulation of body temperature irrespective of ambient temperature.\n\n   VI. Enucleated red blood cells.\n\na. III and VI\n\nb. I, IV and V\n\nc. Only I and IV\n\nd. I and II\n\ne. I, IV and VI\n\n                                        65\n\nINDIA\n\n63. (1 point) Study the adjoining schematically drawn evolutionary lineage. The\n\n   derived characters A, B and C represent, respectively:\n\n                        Protochordata\n        Invertebrates\n\n                                                                                                     Mammalia\n                                                                        Amphibia\n                                             Agnatha\n\n                                                                                   Reptilia\n\n                                                                                              Aves\n                                                           Pisces\n\n                                         A             B            C\n\n                                                       TIME\n\na. vertebral column and cranium, jaw, lung.\n\nb. tail, heart, teeth.\n\nc. heart, gill, cranium.\n\nd. cranium, cloaca, hepatic portal system.\n\n                                        *************** END OF PART A ***************\n\n                                                                           66",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 1,
+     "question": "(1 point) The central dogma originally proposed by Francis Crick has seen changes reflecting new insights obtained from time to time. Which one of the following schematics correctly depicts our current understanding of the replication of genetic material in various organisms and the “flow of information” in biological systems? 3",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.2",
+     "points": 1,
+     "question": "(1 point) In an experiment, mice were injected intravenously with uniformly labeled [14C] – glucose. The molecules in the body where the 14C would be found are:",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.3",
+     "points": 1,
+     "question": "(1 point) The following schematics depict the orientation of F1FO-ATPase along with the direction of H+-transport and ATP synthesis/hydrolysis. Of the above schematics,",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.4",
+     "points": 1,
+     "question": "(1 point) A given DNA sample has 60% purines. The source of this DNA is most likely to be:",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.5",
+     "points": 1,
+     "question": "(1 point) The stage of cell division shown in the figure below represents:",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.6",
+     "points": 1,
+     "question": "(1 point) Polymerase Chain Reaction (PCR) is a technique for rapid amplification of DNA segments. If you are given double-stranded DNA with appropriate forward and reverse primers as shown in the figure below, the minimum number of cycles you will require to obtain at least one copy of the desired fragment PQ will be: P Q 5 ’ 3’ 3’ 5’",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.7",
+     "points": 1,
+     "question": "(1 point) Which of the primer pairs is the correct one to amplify the gene sequence below with PCR? 5‟-GCGTTGACGGTATCAAAACGTTAT… …TTTACCTGGTGGGCTGTTCTAATC-3‟",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.8",
+     "points": 1,
+     "question": "(1 point) Equal concentrations of urea, ethyl urea, and dimethyl urea were separately added to a suspension of red blood cells (RBC). The relative rates of diffusion of these molecules into RBCs will be:",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.9",
+     "points": 1,
+     "question": "(1 point) A region of a double-stranded DNA is represented in the following schematic and the hyphens denote sequences of unspecified lengths: The region of DNA enclosed within the box undergoes inversion. Which one of the following correctly depicts the above DNA after inversion? 11",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.10",
+     "points": 1,
+     "question": "(1 point) A rare genetic disease is characterized by immuno-deficiency, developmental and growth delay, and microcephaly. Suppose you extract DNA from a patient with this syndrome and find almost equal quantities of long and very short DNA strands, which enzyme is likely to be defective in this patient?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.11",
+     "points": 1,
+     "question": "(1 point) A scientist has suggested that a homolactic fermenting organism grows anaerobically on glycerol 3-phosphate as the sole source of carbon, exclusively using the following pathway: However, the scientific community rejected this suggestion because:",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.12",
+     "points": 1,
+     "question": "(1 point) The growth curve of a bacterial culture grown in a rich medium at 37°C is shown in Figure A. The same organism when exposed to 45°C for 30 min and then inoculated into a rich medium at 37°C, exhibited a growth curve shown in Figure B. A B Turbidity OD600 Time (hours) Time (hours) Which of the following statements is most likely to explain the growth pattern in Figure B?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.13",
+     "points": 1,
+     "question": "(1 point) Absorption of a drug in the gastro-intestinal tract depends on a number of factors. Penicillin V, whose structure is shown below, is a weak acid (pKa = 2.7). The pH in stomach is about 2.0 and that in the intestine is 7.5. Most of the drug is absorbed in the intestine. Choose the most likely reason for this from the following statements:",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.14",
+     "points": 1,
+     "question": "(1 point) Which of the following will harm a dicotyledonous plant the most?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.15",
+     "points": 1,
+     "question": "(1 point) The transverse sections of the leaves A and B given below represent, respectively: A B",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.16",
+     "points": 1,
+     "question": "(1 point) Certain plant species such as Red Oak (Quercus rubra) can tolerate severe drought over a long period of time without affecting its photosynthesis. Which of the following adaptations is likely to contribute to this ability?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.17",
+     "points": 1,
+     "question": "(1 point) The net assimilation of CO2 of a plant is 0.5 moles when illuminated during the day. The net consumption of O2 is 0.12 moles during the night. Assuming that all the gas exchange is due to photosynthesis and respiration of the biomass (equivalent molecular mass of 30), what is the net production or consumption of biomass in grams during a complete 12 h day:12 h night diurnal cycle?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.18",
+     "points": 1,
+     "question": "(1 point) Choose the figure that correctly represents the photosynthetic efficiencies of C3 and C4 plants.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.19",
+     "points": 1,
+     "question": "(1 point) Plant chloroplasts are believed to have evolved from cyanobacterialike progenitors through endosymbiosis. Which of the following statements support this hypothesis? I. Chloroplasts and cyanobacteria share similar photosynthetic pigments and thylakoid membranes. II. Cyanobacteria exhibit an oxygenic photosynthesis. III. Chloroplasts are maternally inherited. IV. Chloroplasts have their own DNA and ribosomes. V. Viable chloroplasts can be isolated from cells but cannot be cultured in vitro. VI. Prokaryotic genes express well in chloroplasts.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.20",
+     "points": 1,
+     "question": "(1 point) Powdery mildew is a plant disease caused by an ectoparasitic fungus. The fungal infection can spread to neighboring host cells in the following ways: R Conidiophore Conidia Germination Hypha S Germ tube Ascospore Antheridia Q Ascogonia Ascus Plasmogamy Karyogamy The ploidy levels of the structures Q, R and S are, respectively:",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.21",
+     "points": 1,
+     "question": "(1 point) A few characteristics of photoautotrophs are tabulated below.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.22",
+     "points": 1,
+     "question": "(1 point) The stem of a lily plant was placed in water tinted with red ink to monitor the movement of water through it. Two transverse sections of stems are given below. In which of the labeled structures would you expect the red color? A B C D E",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.23",
+     "points": 1,
+     "question": "(1 point) A few intact skeletons of birds were found during a field trip to the Pampas in Argentina. In all the skeletons examined, the sternum lacked a keel bone. These skeletons most likely belonged to:",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.24",
+     "points": 1,
+     "question": "(1 point) Which one of the following is a feature of a heterothermic endotherm?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.25",
+     "points": 1,
+     "question": "(1 point) Which of the following will be an advantage of breathing in air over breathing in water? I. As air is less dense than water, less energy is required to move air over respiratory surfaces. II. Oxygen diffuses faster through air than it does through water. III. The oxygen content of air is greater than that of an equal volume of water.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.26",
+     "points": 1,
+     "question": "(1 point) Which characteristics would allow you to declare an organism found on a beach as an echinoderm?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.27",
+     "points": 1,
+     "question": "(1 point) In an individual X, the pituitary gland was found to function normally while the adrenal glands were atrophied. In another individual Y, both the pituitary and adrenal glands were found to be underdeveloped. If adrenocorticotropic hormone (ACTH) is administered to these individuals as a remedial measure, it will be effective in:",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.28",
+     "points": 1,
+     "question": "(1 point) Which of the following are associated with stereoscopic vision? I. Effect of the blind spot of one eye is cancelled by the other eye. II. Total visual field of 360° and frontal visual field of 30°. III. More likely to be observed in predatory birds. IV. Centrally situated fovea that gives good visual acuity.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.29",
+     "points": 1,
+     "question": "(1 point) The glycoside “Phloridzin” present in apple peel can block the normal reabsorption of glucose from kidney tubules. As a result, sugar is almost completely excreted through the urine. A mouse fed with Phloridzin along with sodium succinate will develop:",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.30",
+     "points": 1,
+     "question": "(1 point) Cardiac output is defined as the amount of blood pumped by each ventricle. It is determined by multiplying the heart rate and the stroke volume. The stroke volume is the amount of blood ejected by each ventricle with each beat. If the heart of a woman beats 56 times in a minute, the volume of blood in her heart is 120 ml at the end of diastole and 76 ml at the end of systole, what would be her cardiac output?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.31",
+     "points": 1,
+     "question": "(1 point) A population is drinking water contaminated with a modified bisphenol-A, which is not degraded in the body. As a result, there are measurable levels of this compound in the blood. Which of the following would result if the modified bisphenol-A were an oestrogen-mimicking compound?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.32",
+     "points": 1,
+     "question": "(1 point) If a molecule of carbon dioxide released into the blood in your left foot travels out of your nose, it must pass through all of the following structures except the:",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.33",
+     "points": 1,
+     "question": "(1 point) The process of artificial kidney dialysis is shown schematically using the following symbols: : erythrocyte : salts : semi-permeable membrane : urea : proteins Which of the following correctly depicts the process?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.34",
+     "points": 1,
+     "question": "(1 point) A mutation results in the absence of sweat glands, a disease called anhidrotic ectodermal dysplasia. A woman suffering from this disease has a mosaic of skin patches lacking sweat glands. The woman is likely to be:",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.35",
+     "points": 1,
+     "question": "(1 point) A mink breeder allows random mating among his minks. He discovers that, on an average, 9% of his minks have rough fur that fetches less money when sold. So he decides to focus upon smooth fur and does not allow minks with rough fur to mate. Rough fur is linked to an autosomal recessive allele. What is the percentage of minks with rough fur that he will obtain in the next generation?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.36",
+     "points": 1,
+     "question": "(1 point) In a breed of rabbits, multiple alleles with the following dominance relationships control coat coloration: C (agouti) > cch (chinchilla) > ch (Himalayan) > c (albino). An experimental cross between agouti and Himalayan produced 50% agouti and 50% Himalayan progeny. Which of the following crosses could produce this result? I. Cch X chch II. Cc X chc III. Cch X chc IV. Cc X chch",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.37",
+     "points": 1,
+     "question": "(1 point) Alleles IA and IB present on chromosome 9 are responsible for blood groups A and B, respectively. Blood group O results when these alleles are either absent or not expressed. The alleles IA and IB are expressed only if the H allele is present on chromosome 19, either in the homozygous or heterozygous condition, where h stands for the recessive allele. Gilbert belongs to the AB blood group. His sister Helen belongs to the A group while their father belongs to the O group. Identify the maternal and paternal genotypes. Mother Father",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.38",
+     "points": 1,
+     "question": "(1 point) The phenotypes of three experimental populations of plants are shown in the following graphs. Height Height Height X Y Z The three populations X, Y and Z represent, respectively:",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.39",
+     "points": 1,
+     "question": "(1 point) In a population of mice, 40% of males showed a dominant X-linked trait. Assuming random mating, the most frequent mating is expected between the genotypes:",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.40",
+     "points": 1,
+     "question": "(1 point) Hunting of Northern elephant seals reduced their population size to as few as 20 individuals at the end of the 19th century. Their population has since rebounded to over 30,000. But their genomes still carry the marks of this bottleneck when compared to the population of Southern elephant seals that was not so intensely hunted. Such bottlenecks are manifested in the form of: I. abundance of unique mutations. II. increased frequency of deleterious recessive alleles. III. reduced genetic variation. IV. increased population size.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.41",
+     "points": 1,
+     "question": "(1 point) What is true for both genetic drift and natural selection? I. They are mechanisms of evolution. II. They are entirely random processes. III. They result in adaptations. IV. They affect the genetic make-up of the population.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.42",
+     "points": 1,
+     "question": "(1 point) The frequencies of two codominant alleles with similar fitness values in a laboratory population of mice were 0.55 and 0.45. After 5 generations, the values changed to 0.35 and 0.65, respectively. Which of the following phenomena may be responsible for this observation? I. Point mutation II. Nonrandom mating III. Genetic drift IV. Selection pressure",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.43",
+     "points": 1,
+     "question": "(1 point) In pea plants, the allele for green color of seeds (G) is dominant over that for yellow color (g) while the allele for round seeds (R) is dominant over that for wrinkled seed (r). The results of an experimental cross with such garden pea plants are tabulated below: Seed phenotype Number Green and round 32 Green and wrinkled 28 Yellow and round 12 Yellow and wrinkled 9 The parental genotypes are likely to be:",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.44",
+     "points": 1,
+     "question": "(1 point) A population has 6 times as many heterozygous as homozygous recessive individuals. The frequency of the recessive allele will be:",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.45",
+     "points": 1,
+     "question": "(1 point) If you have data on genotypic frequencies for several generations of a population and if you apply the Hardy-Weinberg equation to it, which of the following can be deduced? I. Whether evolution has occurred in the population. II. The direction of evolution, if it has occurred. III. The cause of evolution, if it has occurred.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.46",
+     "points": 1,
+     "question": "(1 point) The residues of mines often contain such high concentrations of toxic metals (e.g., copper, lead) that most plants are unable to grow on them. However, in a particular study, certain grasses were found to spread from the surrounding uncontaminated soil onto such waste heaps. These plants developed resistance to the toxic metals while their ability to grow on uncontaminated soil decreased. As grasses are wind-pollinated, breeding between the resistant and non-resistant populations went on. But eventually, the less resistant plants growing on contaminated soil and the more resistant plants growing on uncontaminated soil died out. This process is indicative of:",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.47",
+     "points": 1,
+     "question": "(1 point) Sickle cell anemia is an autosomal recessive trait. Individual 2 in the following pedigree is a carrier for this trait. Assuming that individuals 3 and 4 are normal homozygous, what is the probability that individual 6 will have the disease? 1 2 : Male AA Aa 3 4 : Female 5 6",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.48",
+     "points": 1,
+     "question": "(1 point) Note the following genotypes and corresponding phenotypes: A–B– Agouti A–bb Albino aaB – Black aabb Albino The biochemical process that can explain the above pattern is: product of B gene product of A gene",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.49",
+     "points": 1,
+     "question": "(1 point) In a population, 90% of the alleles at the Rh locus are „R‟. Another alternative form of this allele is „r‟. Forty children from this population go to a particular play school. The probability that all are Rh positive is:",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.50",
+     "points": 1,
+     "question": "(1 point) Study the pedigree and answer the following question. 3 4 5 6 1 2 : Male : Female : Dizygotic twins The genetic relatedness between individuals 1 and 2 and between individuals 5 and 6, respectively, is:",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.51",
+     "points": 1,
+     "question": "(1 point) A typical biomass pyramid is represented in the figure below. D E C B A If A represents a primary producer, then E is likely to be a:",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.52",
+     "points": 1,
+     "question": "(1 point) Comparative sensitivity of three groups of organisms to single large doses of x-or -rays delivered at short intervals is shown in the figure below. P Q R 102 103 104 105 106 Dose in rads The three groups P, Q, R respectively are:",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.53",
+     "points": 1,
+     "question": "(1 point) Hay is boiled in water and cooled. Some pond water, containing only heterotrophic protozoa, is added to it and kept in the dark for a long time. Which of the following are true? I. Heterotrophic succession of protozoa will occur with increase in total biomass. II. The energy of the system is maximum at the beginning. III. Succession will occur, eventually reaching a steady state in which energy flow is maintained. IV. The ecosystem may undergo succession but finally all organisms will die or go into resting stages.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.54",
+     "points": 1,
+     "question": "(1 point) An ecologist is comparing the growth of a herbaceous plant species growing in two different sites A and B. To compare the populations from the two sites, she has harvested 30 individuals from each site, then measured the root length, root biomass, and shoot biomass of each individual. A summary of those measurements are as follows: Location Mean root length Mean root Mean shoot (cm) biomass (g) biomass (g) Site A 27.2 + 0.2 348.7 + 0.5 680.7 + 0.1 Site B 13.4 + 0.3 322.4 + 0.6 708.9 + 0.2 Based on the data presented, which of the following statements is likely to be true?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.55",
+     "points": 1,
+     "question": "(1 point) In an aquatic ecosystem, the total dry biomass of each of three groups of organisms is as follows: I. Ciliates: 1.1041 g II. Midge larvae: 0.9845 g III. Oligochaetes: 1.005 g The correct food chain that they represent is:",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.56",
+     "points": 1,
+     "question": "(1 point) The reproductive effort of a plant is defined as the ratio of the dry weight of its reproductive organs to that of its above-ground tissues. The reproductive effort of two plant species M and N, as compared to their leaf biomass is plotted in the graph below. 0.5 Reproductive effort M 0.1 N 0 0.1 0.5 Leaf biomass / total biomass Choose the correct interpretation.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.57",
+     "points": 1,
+     "question": "(1 point) Prey-predator relationships are often considered analogous to a „lifedinner‟ relationship in behavioral ecology. Which of the following statements best describe this analogy and the relative evolutionary rates of the prey and predator species in a population? I. This analogy indicates the fact that the prey species serves as the „dinner‟ for the predator species, the „life‟ of which depends on the former. II. This analogy indicates that a prey species caught by a predator loses its „life‟ while a predator that fails to catch a prey only loses a „dinner‟. III. The prey species is usually under greater selection pressure from its predators and tends to evolve faster than does a predator species. IV. The predator species is usually under greater selection pressure because of its dependence on a prey species for food and tends to evolve faster than does a prey species.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.58",
+     "points": 1,
+     "question": "(1 point) Animals can use their circadian clocks to determine direction from the position of the sun. In a particular experiment conducted in Iceland, a bird, kept in a cage open to the sky, was trained to seek food on the western side. Its circadian rhythm was then phase-delayed by 6 hours and after phase shifting, the bird was returned to its open cage at 12.00 noon real time. It was observed to seek food in the:",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.59",
+     "points": 1,
+     "question": "(1 point) Coho Salmon is a fish found in the freshwater streams of North America. The males of this species have two reproductive strategies to fertilize the eggs laid by females. Larger males are able to fight with each other successfully but smaller males are unable to do so. The latter adopt another strategy, that of sneaking, in which they hide behind rocks and quickly approach females to fertilize the eggs before the larger males are able to do so. Which of the following graphs depicts the correct strategies?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.60",
+     "points": 1,
+     "question": "(1 point) Young laughing gull chicks peck at the tip of the parent‟s beak which, in turn, induces the adult gull to regurgitate food. Experiments were conducted with one-day old and three-day old chicks, the latter being reared with their parents. These chicks were presented with the following models of the parent head and the following responses were obtained: Mean number of pecks / 30 sec Model 0 5 10 15 One-day old Parental Experienced I II III IV 62",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.61",
+     "points": 1,
+     "question": "(1 point) While studying the frogs of a certain species in their natural habitat during the mating season, you observe a chorus of male frogs in which some individuals are calling while others remain silent. On further observation, you see the silent frogs are sitting closer to those that are calling. Which of the following is most likely to explain the behavior of this chorus of frogs?",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.62",
+     "points": 1,
+     "question": "(1 point) Although Echidna lays eggs, it has been classified as a mammal due to the presence of mammary glands. Which of the following additional features support its inclusion in the class Mammalia? Echidna I. Hair over parts of the body. II. Presence of pituitary and thyroid gland. III. Complete separation of pulmonary and systemic circulation in a 4 - chambered heart. IV. A diaphragm separating thoracic and abdominal cavities. V. Regulation of body temperature irrespective of ambient temperature. VI. Enucleated red blood cells.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.63",
+     "points": 1,
+     "question": "(1 point) Study the adjoining schematically drawn evolutionary lineage. The derived characters A, B and C represent, respectively: Protochordata Invertebrates Mammalia Amphibia Agnatha Reptilia Aves Pisces A B C TIME",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

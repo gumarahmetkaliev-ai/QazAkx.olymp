@@ -1,0 +1,63 @@
+{
+ "setId": "bio-ibo-2001--bio-1-tasks",
+ "olympiadId": "bio-ibo-2001",
+ "title": "Биология → IBO (международная) → 2001",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/ibo/2001/bio-1-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/ibo/2001/bio-1-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T13:45:16.456Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 4,
+  "withPoints": 4,
+  "withReference": 4,
+  "withQuestion": 4,
+  "estimatedPoints": 4
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "problem. The reason therefore is:",
+   "weight": null,
+   "total": 10,
+   "statement": "A.     that organisms do not need very much carbon.\n                             B.     that plants can make their own carbon using water and sunlight.\n                             C.     that many nutrients come from the soil, carbon comes from the\n                                    air.\n\n                             D.     that plants are better at absorbing carbon from the soil.\n\n                             A 105. DELETED\n\n                             A 106. DELETED\n\n                             A 107. DELETED\n\n                                                                - 104 -\n\nA 108. DELETED\n\nA 109.\n1.     all autotrophic organisms are also phototrophic.\n2.     of the total light energy reaching the atmosphere, only about 1 %\n       is utilised in photosynthesis.\n3.     light intensity and quality changes vertically through a forest\n       canopy.\n4.     light intensity and quality changes vertically through a water column.\n\nWhich of the above combination of sentences is correct?\n\nA.     1,3,4.\nB.     2,3,4.\nC.     3,4.\nD.     1,2,3,4.\n\nA 110. Which of the following factors tends to be the most important factor\ncontrolling primary productivity in the oceans?\n\nA.     solar radiation.\nB.     temperature.\nC.     dissolved oxygen.\nD.     nutrients.\n\nA 111. A uniform pattern of dispersion is likely to be found in which type of\nhabitats and under what condition?\n\nA.     homogeneous distribution of essential resources, high popula-\nB.     heterogeneous distribution of essential resources, high popula-\nC.     homogeneous distribution of essential resources, low population\n       density.\nD.     heterogeneous distribution of essential resources, low popula-\n\nA 112.The cultural eutrophication of lakes often reduces the oxygen con-\ntent to a risky level. The main reason for this excessive oxygen reduction\nis:\n\nA.     the oxygen consumption of plants.\nB.     the oxygen consumption of fishes.\nC.     the oxygen consumption of decomposers.\nD.     the oxidation of nitrates and phosphates.\n\n                                  - 105 -\n\n                             A 113. “ Corals” are marine cnidarians. Those building coral reefs live in\n                             shallow and translucent water. They contain Zooxanthellae symbiotic al-\n                             gae in their endoderm. The following chemical reactions may help you:\n                             6CO2 + 6 H2O Æ C6H12O6 + 6O2\n                             Ca(HCO3)2 Æ CaCO3 + H2O + CO2\n                             Which of the four following propositions isn’t correct?\n\n                             A.       reef corals get exogenous food by several different ways (cnido-\n                                      blasts, contact digestion, angling with mucous filaments).\n                             B.       reef corals “help” their symbiotic algae by giving them amino\n                                      acids and glucose and receive from them glycerol and growth\n                                      vitamins.\n                             C.       reef corals of the euphotic zone have lost cnidoblasts and do not\n                                      need any longer because their zooxanthellae cover all their needs.\n                             D.       the carbon dioxide used for precipitating CaCO3 results from zoo-\n                                      xanthellae.\n\n                                                               - 106 -\n\n                            Biosystematics\n\nA 114. Which of the following metazoan groups is characterised by a bilat-\neral symmetry?\n\nA.     hydrozoa.\nB.     porifera.\nC.     cephalochordata.\nD.     echinodermata.\n\nA 115. DELETED\n\nA 116. Indicate which of the following cavities has a coelomic origin:\n\nA.     pulmonary cavity.\nB.     bladder cavity.\nC.     peritoneal cavity.\nD.     uterine cavity.\n\nA 117.\n I.    Odonata - Hymenoptera.\nII.    Coleoptera - Orthoptera.\nIII.   Orthoptera - Homoptera.\nIV.    Hemiptera - Coleoptera.\nV.     Lepidoptera - Mecoptera.\n\nIn which of the above insect orders do the anterior (front) and posterior\n(rear) pairs of wing have different structures and are mouthparts of the\nchewing type?\n\nA.     only II.\nB.     I and II.\nC.     only III.\nD.     IV and V.\n\nA 118. Of the following statements, mark the one, that is a characteristic\nfeature of reptiles:\n\nA.     dry skin with epidermal derivatives and cutaneous respiration.\nB.     respiration only with lungs and stable body temperature.\nC.     development includes laying of eggs and a caterpillar stage.\nD.     a respiratory system which includes trachea and lungs with a\n       faveolus.\n\n                                  - 107 -\n\n                             A 119. Mark the incorrect statement about sponges:\n\n                             A.     their skeletons consist of calcium, silicon dioxide or spongin\n                                    needles.\n                             B.     they gain food by phagocytosis.\n                             C.     all known sponges live in seas or oceans.\n                             D.     sponges can host many symbiotic species.\n\n                             A 120. To which family does a plant with the following characteristics be-\n                             long: 5 basely connate sepals, 5 free petals, many stamens, and a superior\n                             gynoecium consisting of 5 fused carpels?\n\n                             A.     Solanaceae.\n                             B.     Rosaceae.\n                             C.     Cactaceae.\n                             D.     Ranunculaceae.\n\n                             A 121. DELETED\n\n                                         Sssst...Concentration during the theoretical test\n\n                                                               - 108 -",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 2.5,
+     "question": "all autotrophic organisms are also phototrophic.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.2",
+     "points": 2.5,
+     "question": "of the total light energy reaching the atmosphere, only about 1 % is utilised in photosynthesis.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.3",
+     "points": 2.5,
+     "question": "light intensity and quality changes vertically through a forest canopy.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.4",
+     "points": 2.5,
+     "question": "light intensity and quality changes vertically through a water column.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    }
+   ],
+   "solution": "Answer Key to the Theoretical Part A\n\n                             A 001   D          A 041   A          A 081   C\n                             A 002   D          A 042   D          A 082   B\n                             A 003   B          A 043   C          A 083   A\n                             A 004   D          A 044   C          A 084   D\n                             A 005   C          A 045   D          A 085   C\n                             A 006   C          A 046   A          A 086   B\n                             A 007   D          A 047   C          A 087   A\n                             A 008   A          A 048   C          A 088   B\n                             A 009   C          A 049   D          A 089   A\n                             A 010   C          A 050   C          A 090   A\n                             A 011   A          A 051   Deleted    A 091   C\n                             A 012   D          A 052   C          A 092   B\n                             A 013   B          A 053   A          A 093   B\n                             A 014   D          A 054   D          A 094   D\n                             A 015   D          A 055   B          A 095   A\n                             A 016   D          A 056   C          A 096   Deleted\n                             A 017   C          A 057   A          A 097   B\n                             A 018   B          A 058   D          A 098   A\n                             A 019   B          A 059   C          A 099   C\n                             A 020   C          A 060   C          A 100   A\n                             A 021   A          A 061   D          A 101   Deleted\n                             A 022   D          A 062   D/D        A 102   C\n                             A 023   D          A 063   A/A        A 103   B\n                             A 024   B          A 064   D          A 104   C\n                             A 025   C          A 065   B          A 105   Deleted\n                             A 026   B          A 066   B          A 106   Deleted\n                             A 027   D          A 067   D          A 107   Deleted\n                             A 028   D          A0 68   B          A 108   Deleted\n                             A 029   A          A 069   Deleted    A 109   B\n                             A 030   D          A 070   B          A 110   D\n                             A 031   Deleted    A 071   A          A 111   C\n                             A 032   D          A 072   D          A 112   C\nBelgium, July 8 - 15, 2001\n\n                             A 033   C          A 073   C          A 113   C\n                             A 034   B          A 074   D          A 114   C\n                             A 035   D          A 075   C          A 115   Deleted\n                             A 036   C          A 076   C          A 116   C\n                             A 037   A          A 077   A          A 117   A\n                             A 038   Deleted    A 078   Deleted    A 118   D\n                             A 039   Deleted    A 079   D          A 119   C\n                             A 040   C          A 080   A          A 120   B\n                                                                   A 121   Deleted\n\n                                                        -1 -"
+  }
+ ]
+}

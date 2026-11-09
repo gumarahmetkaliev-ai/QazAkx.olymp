@@ -1,0 +1,37 @@
+{
+ "setId": "bio-utoronto-1999--bio-tasks",
+ "olympiadId": "bio-utoronto-1999",
+ "title": "Биология → U of Toronto → 1999",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/utoronto/1999/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/utoronto/1999/bio-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T13:45:16.817Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 1,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "University of Toronto",
+   "weight": null,
+   "total": 10,
+   "statement": "National Biology Competition\n\n                                             1999 Examination\n                                                Answer Key\n\n                        1. a            2. d             3. b             4. c             5. d\n                        6. d            7. b             8. e             9. a             10. c\n\n                        11. b           12. e            13. c            14. d            15. e\n\n                        16. b           17. a            18. c            19. b            20. d\n\n                        21. c           22. d            23. b            24. c            25. c\n\n                        26. a           27. d            28. b            29. b            30. e\n\n                        31. c           32. e            33. a            34. d            35. a\n\n                        36. e           37. c            38. d            39. e            40. b\n\n                        41. e           42. c            43. b            44. a            45. e\n\n                        46. a           47. d            48. b            49. b            50. d\n\nOn the original exam paper for question #41 there were two correct responses: both (a) and (e) were FALSE\nstatements. This was unintentional. If a student selected either of these responses it was recorded as a correct\nresponse.\n\nResponse (a) said \"Oogenesis begins at the onset of sexual maturity.\" This is FALSE, as oogenesis begins before\nbirth. (Spermatogenesis begins at the onset of sexual maturity.)\n\nResponse (e) said \"Oogenesis continues throughout the life of the individual.\" This too is FALSE, as oogenesis stops\nat menopause. (Spermatogenesis continues throughout the male's life.)\n\nNOTE: On the W eb version of the exam, response (a) for question #41 has been changed to be a TRUE statement;\nthus on the W eb version there is only one correct response for question #41, (e).",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "1.   Under the electron microscope, you observe a cell with three different types of large organelles, each\n     bounded by two membranes. The cell is most likely to be from:\n     a.   a plant. **\n     b.   an animal.\n     c.   a fungus.\n     d.   a bacterium.\n     e.   a virus.",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

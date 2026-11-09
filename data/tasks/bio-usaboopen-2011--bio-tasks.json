@@ -1,0 +1,1953 @@
+{
+ "setId": "bio-usaboopen-2011--bio-tasks",
+ "olympiadId": "bio-usaboopen-2011",
+ "title": "Биология → USABO — Open → 2011",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/usaboopen/2011/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/usaboopen/2011/bio-sol.pdf",
+ "generatedBy": "test-parser",
+ "type": "test",
+ "generatedAt": "2026-11-09T13:45:00.702Z",
+ "quality": {
+  "tasks": 5,
+  "parts": 50,
+  "withPoints": 50,
+  "withReference": 50,
+  "withQuestion": 50,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Тест: вопросы 1–10",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q1",
+     "kind": "choice",
+     "points": 1,
+     "question": "1. All of the following processes involve hydrogen bonding except:",
+     "options": [
+      {
+       "key": "A",
+       "text": "DNA replication"
+      },
+      {
+       "key": "B",
+       "text": "Formation of ice crystals"
+      },
+      {
+       "key": "C",
+       "text": "Binding of enzyme and substrate"
+      },
+      {
+       "key": "D",
+       "text": "Protein folding"
+      },
+      {
+       "key": "E",
+       "text": "All of the above"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q2",
+     "kind": "choice",
+     "points": 1,
+     "question": "2. Of the cellular compartments listed below, which has the lowest pH?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Mitochondrial matrix"
+      },
+      {
+       "key": "B",
+       "text": "Endoplasmic reticulum"
+      },
+      {
+       "key": "C",
+       "text": "Lysosome"
+      },
+      {
+       "key": "D",
+       "text": "Cytoplasm"
+      },
+      {
+       "key": "E",
+       "text": "Nucleus"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q3",
+     "kind": "choice",
+     "points": 1,
+     "question": "3. Listed are three statements about lipids. 1. Lipids are made up of polymers of fatty acids 2. Lipids are hydrophobic 3. Lipids that are made up of fatty acids with a high degree of saturation are more likely to be solids at room temperature Choose the most accurate statement from below:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Statements 1 and 2 are true"
+      },
+      {
+       "key": "B",
+       "text": "Statements 1 and 3 are true"
+      },
+      {
+       "key": "C",
+       "text": "Statements 2 and 3 are true"
+      },
+      {
+       "key": "D",
+       "text": "Only statement 2 is true"
+      },
+      {
+       "key": "E",
+       "text": "All three statements are true 1"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q4",
+     "kind": "choice",
+     "points": 1,
+     "question": "4. A spectrophotometer is used to measure concentrations of proteins, DNA and many other chemical compounds. Assume the input light intensity at a particular wavelength λ is I0, and the intensity of the light transmitted through the second cuvette is I1. If the concentration is doubled which of the following statements are TRUE.",
+     "options": [
+      {
+       "key": "A",
+       "text": "The percent transmission of the first sample will be two times greater than the second sample"
+      },
+      {
+       "key": "B",
+       "text": "The absorbance, Aλ, of the second sample will be twice the absorbance of the first sample"
+      },
+      {
+       "key": "C",
+       "text": "The increase in concentration will shift the wavelength of maximum absorbance to a longer wavelength"
+      },
+      {
+       "key": "D",
+       "text": "The percent transmission of the second sample will be twice the first sample"
+      },
+      {
+       "key": "E",
+       "text": "There is insufficient information to determine the correct answer"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q5",
+     "kind": "choice",
+     "points": 1,
+     "question": "5. What is the concentration of hydrogen ions at pH 5.7? (You do NOT need a calculator.)",
+     "options": [
+      {
+       "key": "A",
+       "text": "7.0 x 10-5 M H+"
+      },
+      {
+       "key": "B",
+       "text": "2.0 x 10-6 M H+"
+      },
+      {
+       "key": "C",
+       "text": "1.0 x 10-5 M H+"
+      },
+      {
+       "key": "D",
+       "text": "1.0 x 10-6 M H+"
+      },
+      {
+       "key": "E",
+       "text": "3.0 x 10-5 M H+"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q6",
+     "kind": "choice",
+     "points": 1,
+     "question": "6. Amino acids and nucleotides form complex polymers. Select ALL the statements that are TRUE (Select all that apply).",
+     "options": [
+      {
+       "key": "A",
+       "text": "Both contain peptide bonds"
+      },
+      {
+       "key": "B",
+       "text": "Both contain nitrogen"
+      },
+      {
+       "key": "C",
+       "text": "Both may form helical structures"
+      },
+      {
+       "key": "D",
+       "text": "Nucleotides and amino acids form branched polymers"
+      },
+      {
+       "key": "E",
+       "text": "Both contain phosphate groups 2"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": true,
+     "answer": "BC",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: BC"
+    },
+    {
+     "id": "q7",
+     "kind": "choice",
+     "points": 1,
+     "question": "7. A variety of different techniques are used to separate, analyze, and purify different chemical compounds. Select ALL of the following techniques that can be used to estimate the molecular weight of a protein? (Select all that apply)",
+     "options": [
+      {
+       "key": "A",
+       "text": "Isoelectric focusing."
+      },
+      {
+       "key": "B",
+       "text": "Electrophoresis."
+      },
+      {
+       "key": "C",
+       "text": "Size exclusion gel chromatography."
+      },
+      {
+       "key": "D",
+       "text": "Ion-exchange chromatography."
+      },
+      {
+       "key": "E",
+       "text": "Affinity chromatography."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": true,
+     "answer": "BC",
+     "topic": "bio-gene-regulation",
+     "reference": "Правильный ответ: BC"
+    },
+    {
+     "id": "q8",
+     "kind": "choice",
+     "points": 1,
+     "question": "8. Which of the following does not apply to the chloroplast?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Contains chlorophyll and the enzymes required for photosynthesis"
+      },
+      {
+       "key": "B",
+       "text": "Contains an internal membrane system consisting of stack-like structures called thylakoids"
+      },
+      {
+       "key": "C",
+       "text": "Bound by two membranes, the inner of which is folded into the cristae"
+      },
+      {
+       "key": "D",
+       "text": "Bound by one membrane that folds into stoma"
+      },
+      {
+       "key": "E",
+       "text": "Understood to be a product of endosymbiosis Use the following pathway to answer Questions 9 and 10. Many metabolic pathways involve multi-step reactions. Consider the following pathway, where E represents different enzymes, and A, B, C, D and F represent substrates and products of the pathway. E1 E2 E3 E4 A →B → C → D →F"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q9",
+     "kind": "choice",
+     "points": 1,
+     "question": "9. Feedback inhibition of this pathway may involve",
+     "options": [
+      {
+       "key": "A",
+       "text": "The product of the final reaction, F, interacting with and inhibiting E1"
+      },
+      {
+       "key": "B",
+       "text": "F interacting with and inhibiting product B"
+      },
+      {
+       "key": "C",
+       "text": "Product B interacting with and inhibiting E4"
+      },
+      {
+       "key": "D",
+       "text": "Product C interacting with and inhibiting E4"
+      },
+      {
+       "key": "E",
+       "text": "E3 interacting with and inhibiting E2"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q10",
+     "kind": "choice",
+     "points": 1,
+     "question": "10. In the example above, assume that D is an allosteric inhibitor of the enzyme E2. D would",
+     "options": [
+      {
+       "key": "A",
+       "text": "Compete with B for binding to the E2 active site"
+      },
+      {
+       "key": "B",
+       "text": "Compete with F for binding with E2"
+      },
+      {
+       "key": "C",
+       "text": "Bind directly to the substrate B and prevent it from entering the E2 active site"
+      },
+      {
+       "key": "D",
+       "text": "Bind E2 at a site different from the active site but change the shape of the active site so B can no longer bind"
+      },
+      {
+       "key": "E",
+       "text": "Bind E2 at the active site, change its shape and prevent B from binding the active site 3"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Тест: вопросы 11–20",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q11",
+     "kind": "choice",
+     "points": 1,
+     "question": "11. A plant cell with a solute potential of -0.8 MPa maintains a constant volume when bathed in a solution that has a solute potential of -0.25 MPa and is in an open container. From this information, one knows that:",
+     "options": [
+      {
+       "key": "A",
+       "text": "The cell has a pressure potential of +0.55 MPa"
+      },
+      {
+       "key": "B",
+       "text": "The cell has a pressure potential of +0.25 MPa"
+      },
+      {
+       "key": "C",
+       "text": "The cell has a pressure potential of +0.8 MPa"
+      },
+      {
+       "key": "D",
+       "text": "The cell has a water potential of -0.8 MPa"
+      },
+      {
+       "key": "E",
+       "text": "None of the above answers is correct"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q12",
+     "kind": "choice",
+     "points": 1,
+     "question": "12. Correctly identify the tissue types A, B, C in the image below:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Sclerenchyma, parenchyma, collenchyma"
+      },
+      {
+       "key": "B",
+       "text": "Collenchyma, parenchyma, sclerenchyma"
+      },
+      {
+       "key": "C",
+       "text": "Collenchyma, sclerenchyma, parenchyma D Parenchyma, collenchyma, sclerenchyma E Parenchyma, sclerenchyma, collenchyma"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q13",
+     "kind": "choice",
+     "points": 1,
+     "question": "13. Some of the oxygen molecules given off in the process of photosynthesis are used by the plant:",
+     "options": [
+      {
+       "key": "A",
+       "text": "To form water by combining with hydrogen stored in the vacuoles"
+      },
+      {
+       "key": "B",
+       "text": "In cellular respiration in the mitochondria"
+      },
+      {
+       "key": "C",
+       "text": "To build enzymes in the Golgi complex"
+      },
+      {
+       "key": "D",
+       "text": "In transcribing DNA in the lysosome"
+      },
+      {
+       "key": "E",
+       "text": "In membrane-bound amyloplasts to aid in the storage of starch 4"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q14",
+     "kind": "choice",
+     "points": 1,
+     "question": "14. How many root meristems do you estimate are on this plant?",
+     "options": [
+      {
+       "key": "A",
+       "text": "1"
+      },
+      {
+       "key": "B",
+       "text": "2"
+      },
+      {
+       "key": "C",
+       "text": "12"
+      },
+      {
+       "key": "D",
+       "text": "24"
+      },
+      {
+       "key": "E",
+       "text": "48"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q15",
+     "kind": "choice",
+     "points": 1,
+     "question": "15. Among flowering plants the details of the morphology of the flower were considered the most important characteristics to determine relatedness because:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Flowers are the most conspicuous part of the plant"
+      },
+      {
+       "key": "B",
+       "text": "Flower structure could easily be observed with a magnifying glass"
+      },
+      {
+       "key": "C",
+       "text": "Flower parts were the easiest to physically measure and accurately describe"
+      },
+      {
+       "key": "D",
+       "text": "Small changes in flower structure could dramatically affect the fertility of the plant"
+      },
+      {
+       "key": "E",
+       "text": "Flower size was not altered by soil properties"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q16",
+     "kind": "choice",
+     "points": 1,
+     "question": "16. The cross section (b) indicated here is a:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Root"
+      },
+      {
+       "key": "B",
+       "text": "Stem"
+      },
+      {
+       "key": "C",
+       "text": "Leaf petiole"
+      },
+      {
+       "key": "D",
+       "text": "Flower bud"
+      },
+      {
+       "key": "E",
+       "text": "None of the above 5"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q17",
+     "kind": "choice",
+     "points": 1,
+     "question": "17. Bacteria including cyanobacteria accumulate a glycogen-like polysaccharide for storing glucose. Which of the following can reasonably explain the evolution of storage polysaccharides? The common ancestor of plants and animals could synthesize:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Both amylopectin and glycogen, but plants have lost the ability of glycogen synthesis during evolution"
+      },
+      {
+       "key": "B",
+       "text": "Both amylopectin and glycogen, but animals have lost the ability of amylopectin synthesis"
+      },
+      {
+       "key": "C",
+       "text": "Amylopectin but not glycogen, and animals have acquired the ability of glycogen synthesis"
+      },
+      {
+       "key": "D",
+       "text": "Glycogen but not amylopectin, and plants have acquired the ability of amylopectin synthesis"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q18",
+     "kind": "choice",
+     "points": 1,
+     "question": "18. Suppose you are walking through a deciduous forest. You notice a dead tree that had been cut down and cut into logs that were tagged and labeled for removal from the forest three years prior. You and a friend try to move one of the smaller logs in order to build a camp fire. You find that the small log is heavy and difficult to move. The mass of the log is actually made-up mostly of:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Water from the soil"
+      },
+      {
+       "key": "B",
+       "text": "Macronutrients from the soil"
+      },
+      {
+       "key": "C",
+       "text": "Micronutrients from the soil"
+      },
+      {
+       "key": "D",
+       "text": "An invisible gas from the air"
+      },
+      {
+       "key": "E",
+       "text": "Membrane-bound cell organelles of the prokaryotes"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q19",
+     "kind": "choice",
+     "points": 1,
+     "question": "19. During starvation, steroid hormones trigger the transcription of genes for lipid metabolism in their target cells. This would be an example of control by",
+     "options": [
+      {
+       "key": "A",
+       "text": "Negative feedback"
+      },
+      {
+       "key": "B",
+       "text": "Positive feedback"
+      },
+      {
+       "key": "C",
+       "text": "Repressors"
+      },
+      {
+       "key": "D",
+       "text": "Inducers"
+      },
+      {
+       "key": "E",
+       "text": "Modulators 6"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q20",
+     "kind": "choice",
+     "points": 1,
+     "question": "20. One fifth of the cardiac output flows through the kidneys. After being filtered by the glomerulus, in what order does the filtrate pass through the following nephric structures? 1. Ascending limb of the Loop of Henle 2. Distal convoluted tubule 3. Descending limb of the Loop of Henle 4. Proximal convoluted tubule 5. Collecting duct",
+     "options": [
+      {
+       "key": "A",
+       "text": "1, 3, 4, 2, 5"
+      },
+      {
+       "key": "B",
+       "text": "2, 1, 3, 4"
+      },
+      {
+       "key": "C",
+       "text": "2, 3, 1, 4, 5"
+      },
+      {
+       "key": "D",
+       "text": "4, 1, 3, 5"
+      },
+      {
+       "key": "E",
+       "text": "4, 3, 1, 2, 5"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: E"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Тест: вопросы 21–30",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q21",
+     "kind": "choice",
+     "points": 1,
+     "question": "21. An animal experiences an acid-base imbalance in the arterial blood that results in acidosis. To increase pH toward normal, which direction would the ventilation rate be changed and what would be the corresponding change in arterial PCO2?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Ventilation rate increases, arterial PCO2 increases"
+      },
+      {
+       "key": "B",
+       "text": "Ventilation rate increases, arterial PCO2 decreases"
+      },
+      {
+       "key": "C",
+       "text": "Ventilation rate decreases, arterial PCO2 increases"
+      },
+      {
+       "key": "D",
+       "text": "Ventilation rate decreases, arterial PCO2 decreases"
+      },
+      {
+       "key": "E",
+       "text": "None of the above"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q22",
+     "kind": "choice",
+     "points": 1,
+     "question": "22. Which of the following statements about skeletal muscle is NOT correct?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The length (distance) of a single muscle contraction depends on the concentration of Ca2+ ions in the sarcoplasmic reticulum"
+      },
+      {
+       "key": "B",
+       "text": "Muscles with short sarcomeres contract faster than muscles with long sarcomeres"
+      },
+      {
+       "key": "C",
+       "text": "The velocity of muscle contractions is determined by myosin-ATPase activity"
+      },
+      {
+       "key": "D",
+       "text": "Tetanus is the effect of repeated stimulations within a very short interval"
+      },
+      {
+       "key": "E",
+       "text": "Rigor mortis (death rigidity) appears when the concentration of Ca2+ in cytoplasm is high, but ATP is lacking 7"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q23",
+     "kind": "choice",
+     "points": 1,
+     "question": "23. The completion of meiosis in males produces four spermatids, each containing (Select all that apply):",
+     "options": [
+      {
+       "key": "A",
+       "text": "23 chromosomes"
+      },
+      {
+       "key": "B",
+       "text": "23 pairs of chromosomes"
+      },
+      {
+       "key": "C",
+       "text": "Diploid number of chromosomes"
+      },
+      {
+       "key": "D",
+       "text": "Haploid number of chromosomes"
+      },
+      {
+       "key": "E",
+       "text": "None of the above"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": true,
+     "answer": "AD",
+     "topic": "bio-cell-cycle",
+     "reference": "Правильный ответ: AD"
+    },
+    {
+     "id": "q24",
+     "kind": "choice",
+     "points": 1,
+     "question": "24. A rat chewing the insulation from the wiring in your car is analogous to:",
+     "options": [
+      {
+       "key": "A",
+       "text": "The depolarization of the unmyelinated axons"
+      },
+      {
+       "key": "B",
+       "text": "The nodes of Ranvier in the PNS"
+      },
+      {
+       "key": "C",
+       "text": "Demyelination of the nervous system"
+      },
+      {
+       "key": "D",
+       "text": "Schwann cells failing to myelinate axons in the CNS"
+      },
+      {
+       "key": "E",
+       "text": "The deterioration of the brain-blood barrier"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q25",
+     "kind": "choice",
+     "points": 1,
+     "question": "25. Which of the following statement(s) is/are INCORRECT: 1. Cartilage heals slower than skin because cartilage is a deeper tissue 2. The inside lining of the intestine has a large surface area because of the presence of cilia 3. Adipose is a type of connective tissue because that is where fat is stored",
+     "options": [
+      {
+       "key": "A",
+       "text": "#1 and #2 are incorrect"
+      },
+      {
+       "key": "B",
+       "text": "#2 and #3 are incorrect"
+      },
+      {
+       "key": "C",
+       "text": "#1 and #3 are incorrect"
+      },
+      {
+       "key": "D",
+       "text": "All are correct statements"
+      },
+      {
+       "key": "E",
+       "text": "All are incorrect statements"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q26",
+     "kind": "choice",
+     "points": 1,
+     "question": "26. In the absence of active transport, the passive sodium and potassium ion fluxes across the plasma membrane are still coupled. What makes these two passive ion fluxes dependent on each other?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The potassium channels"
+      },
+      {
+       "key": "B",
+       "text": "The Na+: K+ pumping ratio"
+      },
+      {
+       "key": "C",
+       "text": "The cholesterol: phospholipid ratio in the plasma membrane"
+      },
+      {
+       "key": "D",
+       "text": "The membrane potential, Vm"
+      },
+      {
+       "key": "E",
+       "text": "The relative chemical potentials of sodium ions and potassium ions to the chemical potential of chloride ion 8"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q27",
+     "kind": "choice",
+     "points": 1,
+     "question": "27. Which of the following graphs signifies the total cross-sectional area of blood vessels in humans as the blood flows from the aorta -> arteries - > aterioles -> capillaries -> venules -> veins -> venae cavae? A. B. C. D. E.",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q28",
+     "kind": "choice",
+     "points": 1,
+     "question": "28. Polarity in the developing Drosophila embryo is determined by",
+     "options": [
+      {
+       "key": "A",
+       "text": "A protein gradient of the segmentation protein engrailed"
+      },
+      {
+       "key": "B",
+       "text": "A protein gradient of the bicoid protein expressed from maternal mRNA"
+      },
+      {
+       "key": "C",
+       "text": "A protein gradient of the gap protein hunchback"
+      },
+      {
+       "key": "D",
+       "text": "Expression of the segmentation protein engrailed throughout the embryo"
+      },
+      {
+       "key": "E",
+       "text": "Expression of the gap protein hunchback throughout the embryo 9"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q29",
+     "kind": "choice",
+     "points": 1,
+     "question": "29. Although many fish are exothermic, some fish are endothermic. Which of the following is/are most likely endothermic fish I. Bluefin tuna II. Salmon III. Great white shark",
+     "options": [
+      {
+       "key": "A",
+       "text": "II"
+      },
+      {
+       "key": "B",
+       "text": "I, II"
+      },
+      {
+       "key": "C",
+       "text": "I, III"
+      },
+      {
+       "key": "D",
+       "text": "II, III"
+      },
+      {
+       "key": "E",
+       "text": "I, II, III"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q30",
+     "kind": "choice",
+     "points": 1,
+     "question": "30. John, 45-years-old, ran his first marathon in Denver, Colorado, with a time of 3 hours and 43 minutes. Running hard at Mile-23, which statement is true?",
+     "options": [
+      {
+       "key": "A",
+       "text": "John’s abdominal muscles increased his intra-abdominal pressure, which is forcing his abdominal viscera upward against his diaphragm. His intrapulmonary pressure at Mile-23 may have decreased by 80 mmHg since the beginning of the marathon"
+      },
+      {
+       "key": "B",
+       "text": "John’s abdominal muscles decreased his intra-abdominal pressure, which is forcing his abdominal viscera upward against his diaphragm. His intrapulmonary pressure at Mile-23 may have increased by 80 mmHg since the beginning of the marathon."
+      },
+      {
+       "key": "C",
+       "text": "John’s abdominal muscles increased his intra-abdominal pressure, which is forcing his abdominal viscera upward against his diaphragm. His intrapulmonary pressure may have increased by 80 mmHg since the beginning of the marathon"
+      },
+      {
+       "key": "D",
+       "text": "John’s abdominal muscles decreased his intra-abdominal pressure, which is forcing his abdominal viscera upward against his diaphragm. His intrapulmonary pressure may have decreased by 80 mmHg since the beginning of the marathon"
+      },
+      {
+       "key": "E",
+       "text": "John’s abdominal muscles decreased his intra-abdominal pressure, which is forcing his abdominal viscera upward against his diaphragm. His intrapulmonary pressure stayed the same since the beginning of the marathon 10"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Тест: вопросы 31–40",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q31",
+     "kind": "choice",
+     "points": 1,
+     "question": "31. The Costa Rican vampire bat is often not able to acquire blood from a mammal on a given night. Wilkinson (1984) trapped bats which were not allowed to feed for a night and found that they were given regurgitated blood by certain cave-mates. Based on this knowledge, which of the following observations are essential to confirm the occurrence of reciprocal altruism in this species? Data showing that: I. Blood is exchanged only between kin II. Blood is exchanged between non-kin III. Weak bats are frequently given blood even if they cannot give it to others IV. Bats who are given blood donate it to those who have given it to them previously",
+     "options": [
+      {
+       "key": "A",
+       "text": "I, II"
+      },
+      {
+       "key": "B",
+       "text": "I, III"
+      },
+      {
+       "key": "C",
+       "text": "II, III"
+      },
+      {
+       "key": "D",
+       "text": "II, IV"
+      },
+      {
+       "key": "E",
+       "text": "III, IV"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q32",
+     "kind": "choice",
+     "points": 1,
+     "question": "32. The coefficient of relatedness between an uncle and his nephew is:",
+     "options": [
+      {
+       "key": "A",
+       "text": "0.125"
+      },
+      {
+       "key": "B",
+       "text": "0.25"
+      },
+      {
+       "key": "C",
+       "text": "0.5"
+      },
+      {
+       "key": "D",
+       "text": "1.0"
+      },
+      {
+       "key": "E",
+       "text": "cannot be determined"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q33",
+     "kind": "choice",
+     "points": 1,
+     "question": "33. Which of the following statements is incorrect regarding hemophilia, a maternally inherited sex linked trait?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A son of a normal non-carrier mother, will not be affected by hemophilia even if the father has the disease."
+      },
+      {
+       "key": "B",
+       "text": "A daughter of the same parents will be a heterozygous carrier."
+      },
+      {
+       "key": "C",
+       "text": "Males are considered to be hemizygous."
+      },
+      {
+       "key": "D",
+       "text": "If a female has a hemophilic gene on one of her chromosomes, she will not show signs of the disease."
+      },
+      {
+       "key": "E",
+       "text": "A son will be protected from the disease if neither parent shows any symptoms. 11"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q34",
+     "kind": "choice",
+     "points": 1,
+     "question": "34. What is the probability of obtaining the given genotype in the offspring AAbbCCdd from the parents AaBbCcDd x AABbCcDd (Assume independent assortment of all gene pairs)?",
+     "options": [
+      {
+       "key": "A",
+       "text": "1/64"
+      },
+      {
+       "key": "B",
+       "text": "1/128"
+      },
+      {
+       "key": "C",
+       "text": "3/128"
+      },
+      {
+       "key": "D",
+       "text": "9/256"
+      },
+      {
+       "key": "E",
+       "text": "3/256"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q35",
+     "kind": "choice",
+     "points": 1,
+     "question": "35. There are n+1 alleles at a particular locus on an autosome. The frequency of one allele is 1/2 and the frequencies of the other alleles are 1/2n. Under the assumption of Hardy-Weinberg equilibrium, what is the total frequency of heterozygotes?",
+     "options": [
+      {
+       "key": "A",
+       "text": "n-1/2n"
+      },
+      {
+       "key": "B",
+       "text": "2n-1/3n"
+      },
+      {
+       "key": "C",
+       "text": "3n-1/4n"
+      },
+      {
+       "key": "D",
+       "text": "4n-1/5n"
+      },
+      {
+       "key": "E",
+       "text": "5n-1/6n"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-popgen",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q36",
+     "kind": "choice",
+     "points": 1,
+     "question": "36. Natural selection is effective in the evolutionary processes because it:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Causes evolution."
+      },
+      {
+       "key": "B",
+       "text": "Changes allele frequencies."
+      },
+      {
+       "key": "C",
+       "text": "Changes genotype frequencies."
+      },
+      {
+       "key": "D",
+       "text": "Leads to fixation or loss of particular alleles."
+      },
+      {
+       "key": "E",
+       "text": "Increases the mean fitness of a population."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-popgen",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q37",
+     "kind": "choice",
+     "points": 1,
+     "question": "37. Which of the following populations is most likely to be close to HardyWeinberg equilibrium?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The human population of Toronto, Canada."
+      },
+      {
+       "key": "B",
+       "text": "A population of 100 fruit flies living in a habitat with little environmental fluctuation that has no other populations of fruit flies nearby."
+      },
+      {
+       "key": "C",
+       "text": "A population of 1 million fruit flies living in a habitat with little environmental fluctuation that has many other populations of fruit flies nearby."
+      },
+      {
+       "key": "D",
+       "text": "A population of 100 fruit flies living in a habitat with little environmental fluctuation that has many other populations of fruit flies nearby."
+      },
+      {
+       "key": "E",
+       "text": "A population of 1 million fruit flies living in a habitat with little environmental fluctuation that has no other populations of fruit flies nearby. 12"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-popgen",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q38",
+     "kind": "choice",
+     "points": 1,
+     "question": "38. Darwin’s Finches are a prime example of adaptive radiation. Which of the following best describes this adaptive radiation correctly?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The genetic variability that can be found among individuals of the same species"
+      },
+      {
+       "key": "B",
+       "text": "The evolutionary process by which different forms, adapted to different niches arose from a common ancestor"
+      },
+      {
+       "key": "C",
+       "text": "A sudden diversification of a group of organisms from closely related species"
+      },
+      {
+       "key": "D",
+       "text": "The evolutionary process that allows for the changes that occur within the same lineage"
+      },
+      {
+       "key": "E",
+       "text": "The evolutionary process of adaptation of species through a form of polymorphism"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q39",
+     "kind": "choice",
+     "points": 1,
+     "question": "39. A species of insect was found to have a resistance to a commonly used insecticide. Which of the following is the most likely explanation?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Stabilizing selection caused development of resistance in the insect population"
+      },
+      {
+       "key": "B",
+       "text": "The original gene pool included genes that conferred resistance to the insecticide"
+      },
+      {
+       "key": "C",
+       "text": "The insecticide stimulated development of resistance in certain individuals and this was inherited"
+      },
+      {
+       "key": "D",
+       "text": "The insecticide caused a mutation that was favorable to resistance and this was inherited"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q40",
+     "kind": "choice",
+     "points": 1,
+     "question": "40. Progressive change toward a climax in a community is called:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Evolutionary change"
+      },
+      {
+       "key": "B",
+       "text": "Succession"
+      },
+      {
+       "key": "C",
+       "text": "Energy flow"
+      },
+      {
+       "key": "D",
+       "text": "Dynamic equilibrium"
+      },
+      {
+       "key": "E",
+       "text": "None of the above"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: B"
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Тест: вопросы 41–50",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q41",
+     "kind": "choice",
+     "points": 1,
+     "question": "41. Which of the following would you expect to happen if a bacterial cell lacked restriction enzymes?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Bacteriophages could easily infect and lyse the cell"
+      },
+      {
+       "key": "B",
+       "text": "Incomplete plasmids would be the cell’s products"
+      },
+      {
+       "key": "C",
+       "text": "Replication would not be possible"
+      },
+      {
+       "key": "D",
+       "text": "The bacteria would be an obligate parasite"
+      },
+      {
+       "key": "E",
+       "text": "Both C and D 13"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q42",
+     "kind": "choice",
+     "points": 1,
+     "question": "42. Replacement of a lysine with a glycine in a protein could result in all of the following EXCEPT a:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Change in the quaternary structure of the protein"
+      },
+      {
+       "key": "B",
+       "text": "Change in the secondary structure of the protein"
+      },
+      {
+       "key": "C",
+       "text": "Loss of catalytic activity of the protein"
+      },
+      {
+       "key": "D",
+       "text": "Loss of a negatively charged side chain"
+      },
+      {
+       "key": "E",
+       "text": "Loss of the protein’s ability to interact with other proteins"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q43",
+     "kind": "choice",
+     "points": 1,
+     "question": "43. The biodiversity of a community is measured by the following:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Species richness."
+      },
+      {
+       "key": "B",
+       "text": "Relative abundance."
+      },
+      {
+       "key": "C",
+       "text": "Total biomass in a given area."
+      },
+      {
+       "key": "D",
+       "text": "Ratio of plant to animal species."
+      },
+      {
+       "key": "E",
+       "text": "Both A and B are metrics of biodiversity."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q44",
+     "kind": "choice",
+     "points": 1,
+     "question": "44. Earth’s four major terrestrial biomes are",
+     "options": [
+      {
+       "key": "A",
+       "text": "Forest, taiga, grassland, desert"
+      },
+      {
+       "key": "B",
+       "text": "Forest, grassland, tundra, desert."
+      },
+      {
+       "key": "C",
+       "text": "Forest, grassland, savanna, desert"
+      },
+      {
+       "key": "D",
+       "text": "Savanna, forest, grassland, tundra"
+      },
+      {
+       "key": "E",
+       "text": "Savanna, taiga, grassland, estuary"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-ecology",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q45",
+     "kind": "choice",
+     "points": 1,
+     "question": "45. Which two major climatic factors dictate what kind of vegetation is found on the landscape?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Temperature and latitude"
+      },
+      {
+       "key": "B",
+       "text": "Temperature and precipitation"
+      },
+      {
+       "key": "C",
+       "text": "Temperature and soil type"
+      },
+      {
+       "key": "D",
+       "text": "Precipitation and soil type"
+      },
+      {
+       "key": "E",
+       "text": "Precipitation and solar angle"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q46",
+     "kind": "choice",
+     "points": 1,
+     "question": "46. In a forest, a group consisting of all the maple trees would be considered a:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Population"
+      },
+      {
+       "key": "B",
+       "text": "Community"
+      },
+      {
+       "key": "C",
+       "text": "Ecosystem"
+      },
+      {
+       "key": "D",
+       "text": "Biome"
+      },
+      {
+       "key": "E",
+       "text": "None or all of the above 14"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q47",
+     "kind": "choice",
+     "points": 1,
+     "question": "47. Among plants, long-term survival depends mostly on competition for:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Water"
+      },
+      {
+       "key": "B",
+       "text": "Air"
+      },
+      {
+       "key": "C",
+       "text": "Minerals"
+      },
+      {
+       "key": "D",
+       "text": "Light"
+      },
+      {
+       "key": "E",
+       "text": "All or none of the above"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q48",
+     "kind": "choice",
+     "points": 1,
+     "question": "48. In the phylogenetic tree of green plants below, indicate the branch (A to E) where traits I and IV are acquired? I. Pollen II. Tracheid III. Cuticle IV. Seed V. Carpel VI. Multicellular embryo 15",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q49",
+     "kind": "choice",
+     "points": 1,
+     "question": "49. Although the armadillo has a leather coat like a reptile, it is classified as a mammal due to the presence of mammary glands. Which of the following additional features support its inclusion in the class Mammalia? Armadillo I. Hair over parts of the body. II. Presence of pituitary and thyroid gland. III. Complete separation of pulmonary and systemic circulation in a 4 - chambered heart. IV. A diaphragm separating thoracic and abdominal cavities. V. Regulation of body temperature irrespective of ambient temperature. VI. Enucleated red blood cells.",
+     "options": [
+      {
+       "key": "A",
+       "text": "III and VI"
+      },
+      {
+       "key": "B",
+       "text": "I, IV and V"
+      },
+      {
+       "key": "C",
+       "text": "I and IV"
+      },
+      {
+       "key": "D",
+       "text": "I and II, and III"
+      },
+      {
+       "key": "E",
+       "text": "I, III, IV, and VI 16"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q50",
+     "kind": "choice",
+     "points": 1,
+     "question": "50. A valid taxonomic group for the cladogram shown above would include:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Tamarin + Squirrel"
+      },
+      {
+       "key": "B",
+       "text": "Tamarin + Squirrel + Howler"
+      },
+      {
+       "key": "C",
+       "text": "Squirrel + Howler + Wooly"
+      },
+      {
+       "key": "D",
+       "text": "Wooly + Spider + Howler"
+      },
+      {
+       "key": "E",
+       "text": "All are valid groups 17"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  }
+ ]
+}

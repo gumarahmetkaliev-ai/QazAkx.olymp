@@ -1,0 +1,813 @@
+{
+ "setId": "bio-usabosf-2008--bio-tasks",
+ "olympiadId": "bio-usabosf-2008",
+ "title": "Биология → USABO — Semifinal → 2008",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/usabosf/2008/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/usabosf/2008/bio-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T13:45:10.581Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 99,
+  "withPoints": 99,
+  "withReference": 98,
+  "withQuestion": 99,
+  "estimatedPoints": 99
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "PART A",
+   "weight": null,
+   "total": 99,
+   "statement": "1. Which of the following graphs correctly displays the relationship of blood\n   flow velocity in humans as blood flows from the aorta→ arteries →\n   arterioles → capillaries → venules → veins → venae cavae?\n\nA.\n\nB.\n\nC.\n\nD.\n\nE.\n\n                                                                                         2\n\nQuestions 2 and 3 refer to the diagram shown below. The diagram illustrates\nfeedback loops. Increased or decreased stimulation is indicated by + or –.\n\n   2. Which of the following would lead to a DECREASE in activity of the\n      Anterior Pituitary gland?\n\n         A. A lack of receptors for Cortisol on the Hypothalamus.\n         B. A lack of receptors for Cortisol on the Anterior Pituitary.\n         C. Intravenous injection of a large amount of ACTH.\n         D. A tumor in the Hypothalamus causing it to secrete excess Corticotropin-\n            Releasing Hormone.\n         E. Increased sensitivity of the Anterior Pituitary to Corticotropin-Releasing\n            Hormone.\n\n   3. What would happen if the Adrenal Cortex was artificially stimulated to\n      produce large amounts of Cortisol?\n\n         A. Less Corticotropin-Releasing Hormone would be released.\n         B. More ACTH would be released.\n         C. The activity of the Hypothalamus would increase.\n         D. The activity of the Anterior Pituitary would increase.\n         E. The Hypothalamus would become insensitive to Cortisol.\n\n                                          2\n\n                                                                                     3\n\n4. When a four-cell Xenopus embryo is divided into ventral and dorsal halves,\n   the half containing the Nieuwkoop center will develop:\n\n      A. ventralized features.\n      B. as a normal embryo.\n      C. without endoderm.\n      D. only to the 8-cell stage.\n      E. dorsalized features.\n\n5. Insulin release results in all of the following physiological effects EXCEPT:\n\n      A. up-regulation of glucose transporters in liver cells.\n      B. increased fat production from glycerol and fatty acids in adipose tissue.\n      C. inhibition of glycogen phosphorylase.\n      D. activation of glycogen synthase.\n      E. decreased glycogen stores in liver cells.\n\n6. All of the following are stimulated by the sympathetic nervous system\n   EXCEPT:\n\n      A. increased heart rate.\n      B. increased secretion of the sweat glands.\n      C. dilation of the pupil.\n      D. constriction of blood vessels.\n      E. increased peristalsis in the gastrointestinal tract.\n\n7. Concentration of urine is essential to the survival of many vertebrates.\n   Which class of vertebrates would you expect does NOT use this mechanism\n   for homeostasis?\n\n      A. Aves\n      B. Lepidosauria\n      C. Mammalia\n      D. Osteichthyes\n      E. Testudines\n\n8. In the genetic pathway containing genes A, B, and C, gene A negatively\n   regulates gene B, which in turn negatively regulates gene C. If a loss-of-\n   function mutation were introduced into gene B, what would be the\n   resulting effect on the expression of gene C?\n\n      A. Decreased expression of gene C.\n      B. No effect on expression of gene C.\n      C. Changes in expression levels of gene C would be the same as those for\n         gene A.\n      D. Increased expression of gene C.\n      E. Changes in expression levels of gene C would be the same as those for\n         gene B.\n\n                                        3\n\n                                                                               4\n\n9. In terms of the MN blood group, assume there are 72 people with the\n   genotype MM, 96 people with the genotype MN, and 32 people with the\n   genotype NN. What is the frequency of the M allele?\n\n      A. 0.12\n      B. 0.32\n      C. 0.60\n      D. 0.72\n      E. 0.80\n\n10. Certain amino acids are considered essential in an animal’s diet because\n    they cannot be produced within the organism. Which of the following\n    cellular processes would be most IMMEDIATELY affected by a dietary\n    deficiency in essential amino acids?\n\n      A. Cell division\n      B. Cellular respiration\n      C. Translation of mRNA\n      D. Replication of DNA\n      E. Oxygen transport\n\n11. Both insects and vertebrates have hinged jaws. While the jaws serve the\n    same general purpose, they evolved from different structures in the two\n    groups. Such a situation is an example of:\n\n      A. punctuated equilibrium.\n      B. hybrid vigor.\n      C. homology.\n      D. divergent evolution.\n      E. convergent evolution.\n\n12. Infection with Giardia can cause degeneration of the intestinal villi.\n    Which of the following is most likely to occur following a serious Giardia\n    infection?\n\n      A. An inability to produce insulin\n      B. An increase in the rate of carbohydrate digestion\n      C. A reduction in nutrient absorption from the small intestine\n      D. A reduction in bile production and storage\n      E. An increase in blood pressure\n\n13. A person is infected by a bacterial pathogen. Which of the following\n    would be the typical physiological response to that infection?\n\n      A. B cell activation\n      B. Cytotoxic T cell activation\n      C. A decrease in body temperature\n      D. Rapid mitotic division in cells in contact with the bacterium\n      E. Release of interferon\n\n                                       4\n\n                                                                                  5\n\n14. Which of the following cell types would you expect to be abundant in ER\n    and Golgi Bodies?\n\n                     I. Adipose cells\n                     II. Islet of Langerhans cells\n                     III. Plasma B cells\n                     IV. Red blood cells\n      A. I only\n      B. III only\n      C. I and II only\n      D. II and III only\n      E. I, II, III, and IV\n\n15. How do polypeptides find their way from the site of synthesis on the\n    cytoplasmic ribosome to the place of their destination in the\n    peroxisome?\n\n      A. Without signals\n      B. By specific transport along the cytoskeleton\n      C. By specific carboxy-terminal targeting signals\n      D. By specific vesicular transport\n      E. By transport within the ER\n\n16. Which of the following combinations have only primary walls in a mature\n    plant?\n\n A       Vessels members          Meristematic cells   Parenchyma cells\n B       Collenchyma cells        Fibers               Sieve tube member\n C       Sclereids                Collenchyma cells    Sieve cells\n D       Meristematic cells       Tracheary elements   Collenchyma cells\n E       Sieve elements           Meristematic cells   Collenchyma cells\n\n17. A day in the sun will expose your skin to UV light. Which is NOT true\n    about the resulting DNA damage/repair pathway?\n\n      A. UV exposure will cause single bonded cross-linked thymine-thymine\n         dimers which severely distort the phosphate backbone.\n      B. UV exposure will cause double bonded perpendicular thymine-thymine\n         dimers which kink the phosphate backbone.\n      C. Photolyase will repair DNA damage by using energy from UV light to\n         break open thymine dimers.\n      D. During replication of damaged DNA, a single base pair deletion will be\n         found on the newly synthesized DNA strand opposite to the thymine\n         dimer site.\n      E. UV exposure only causes heritable mutation after the action of\n         nucleotide excision repair machinery.\n\n                                        5\n\n                                                                           6\n\n18. Three different genes (B, D, and W) are found on a small region of\n    chromosome 1. Each gene has two alleles. In order to determine the\n    recombination frequency between these three genes, sperm were isolated\n    from a male heterozygous for all three genes. The male had all dominant\n    alleles on his maternal copy of chromosome 1, but only recessive alleles\n    on his paternal copy of chromosome 1. Each sperm was isolated\n    individually and PCR amplified in the BDW region. The amplified\n    products were spotted on a nitrocellulose membrane and radioactive\n    allele specific probes were hybridized with the samples. The resulting\n    audioradiograph is shown below where a dark spot indicates successful\n    hybridization of the probe with the membrane.\n\n   What is the recombination frequency between B and W?\n\n      A. 1/4\n      B. 1/3\n      C. 1/2\n      D. 5/6\n      E. 1\n\n19. Which of the following is not an activity of DNA polymerase?\n\n      A. 5’ to 3’ endonuclease\n      B. 3’ to 5’ endonuclease\n      C. 5’ to 3’ exonuclease\n      D. 3’ to 5’ exonuclease\n      E. All are possible activities\n\n                                       6\n\n                                                                                          7\n\n    20. You order a degenerate probe designed from the following hemoglobin\n        protein sequence:\n\n          Trp –      Gly –       Lys –      Val –      Asn\n          TGG        GGC         AAA        GTC        AAT\n                        T          G           T         C\n                        A                      A\n                        G                      G\n\n       How many different probe sequences would be returned to you? How\n       many would be specific to your gene of interest?\n\n          A. 64 total, 5 specific to gene\n          B. 25 total, 5 specific to gene\n          C. 64 total, 1 specific to gene\n          D. 25 total, 1 specific to gene\n          E. 32 total, 1 specific to gene\n\n    21. In a laboratory, stems and roots of different plants were sectioned and\n        slides were produced. When putting the slides into a box, they became\n        mixed up. Which of the following cross sections corresponds to a primary\n        root of Magnoliopsida?\n\nA      Epidermis             Cortex               Bicollateral             Pith\n                                                   bundles\nB      Epidermis             Cortex                Pericycle          4 xylem strands\n                                                                  alternate with 4 phloem\n                                                                          strands\nC       Periderm     Secondary Phloem               Cambium           Secondary Xylem\n\nD      Epidermis             Cortex                 Pericycle        20 xylem strands\n                                                                  alternate with phloem\nE      Epidermis        Sclerenchyma         Scattered vascular         Hollow pith\n                                                  bundles\n\n    22. In the Magnoliophyta, the nutritive function for growth of the pollen\n        tube is performed by the:\n\n          A. body cell.\n          B. endosperm\n          C. megasporangium.\n          D. megagametophyte.\n          E. style.\n\n                                              7\n\n                                                                                     8\n\nQuestions 23-24 refer to the following information and figure.\nYou identify a mutant protein of transferrin. You purify both mutant and wild-\ntype transferrin from two separate bacterial cell lines. You run two SDS-PAGE\ngels with identical samples and develop one with Coomassie Blue (Safe Blue).\nYou follow a western blot and development procedure on the other gel using a\nprimary antibody to transferrin that conjugated to a fluorescent molecule.\n\n   23. What is the approximate molecular weight of mutant transferrin?\n\n         A. About 180 KDa\n         B. About 130 KDa\n         C. About 300 KDa\n         D. About 90 KDa\n         E. Impossible to determine from the information provided.\n\n   24. Which of the following reasons most likely explains why the transferrin\n       band in lane 2 is darker than the band in lane 3?\n\n         A. The mutant band in lane 3 is not transferrin.\n         B. The fluorescent compound binds more efficiently to wild-type transferrin\n            than to mutant transferrin.\n         C. Mutant transferrin has a similar, but not identical epitope to the primary\n            antibody.\n         D. You added too much fluorescent antibody in lane 2.\n         E. There is less mutant transferrin than wild-type transferrin.\n\n   25. Which taxon has the largest number of species within its\n       circumscription?\n\n         A. Liliopsida\n         B. Magnolia\n         C. Magnoliaceae\n         D. Magnoliidae\n         E. Magnoliopsida\n\n                                          8\n\n                                                                                    9\n\n26. A plant population that reproduces annually was found on a remote\n    oceanic island. Two flower-color variants are present, red and blue.\n    Flower color is known to be a monogenic trait. The frequencies of the\n    two flower colors were observed annually over a ten year period. It was\n    noted the proportion of plants with blue flowers steadily declined each\n    year. From these data, it may reasonably be concluded that:\n\n      A. the increased frequency of red-flowered plants was a result of genetic\n         drift.\n      B. migration of red-flowered plants into the population was the most likely\n         cause of the observed change.\n      C. mutation occurred more frequently in red-flowered plants than in blue-\n         flowered plants.\n      D. blue-flowered plants had a lower genetic fitness than the red-flowered\n         plants.\n      E. red-flowered plants were capable of crossing with other red-flowered\n         plants or with blue-flowered plants but blue-flowered plants could only\n         cross with other blue-flowered plants.\n\n27. Uniformatarianism is part of the intellectual foundation that Darwin\n    used to develop his theory of evolution. What was this idea?\n\n      A. Natural processes today are the same as they have always been.\n      B. All species evolved from a uniform ancestor.\n      C. All creatures have a uniform genetic code.\n      D. All natural processes change at a uniform rate over time.\n      E. All creatures have uniform rates of mutation.\n\n28. All known organisms transcribe genetic information into protein\n    molecules via the same genetic code. This finding strongly supports the\n    hypothesis that:\n\n      A. there is only one possible way to encode information in a\n         macromolecule.\n      B. the earliest macromolecules probably arose when lightning struck an\n         oxygen-free atmosphere.\n      C. all organisms are descended from a single common ancestor.\n      D. the genetic code will never be broken.\n      E. life arose at many different times in many different ways.\n\n29. Sugars are converted to sucrose and transported out of leaf cells. Some\n    of that sucrose is transported into the roots where it moves into root\n    cells. In these cells it is converted to starch by which of the following\n    organelles?\n\n      A. Peroxisomes\n      B. Lysosomes\n      C. Glyoxysomes\n      D. Mitochondria\n      E. Plastids\n\n                                      9\n\n                                                                              10\n\n30. You find a small isolated group of flowering plants, all of which have red\n    flowers. When you conduct literature research on the plant you find it\n    can produce either red or white flowers, with red being completely\n    dominant to white. You therefore conclude that the parents of the plants\n    you found could have had which of the possible genotypes for flower\n    color?\n\n      A. AA , AA\n      B. AA, Aa\n      C. Aa, Aa\n      D. AA, aa\n      E. All of the above are possible.\n\n31. Of the following statements that compare and contrast the processes of\n    mitosis and meiosis, which is (are) biologically appropriate?\n\n     A. Both mitosis and meiosis reduce ploidy by half.\n     B. Daughter cells in mitosis are generally genetically identical to parental\n        cells, whereas daughter cells in meiosis are generally different from\n        parent cells.\n     C. The primary significance of these two processes is that mitosis generally\n        results in daughter cells having the same number of chromosomes as the\n        parent cell, whereas meiosis generally reduces the chromosome number\n        by half as compared to the parent cell.\n     D. Both B and C are appropriate.\n     E. All of the above are appropriate.\n\n32. Some C4 plants have decreased photorespiration and efficient\n    photosynthesis and thus:\n\n      A. increase stomatal openings and thereby increase water loss.\n      B. decrease stomatal openings and thereby reduce water loss.\n      C. increase stomatal openings and thereby increase leaf temperature.\n      D. decrease stomatal openings the thereby reduce leaf temperature.\n      E. increase stomatal openings and thereby increase the rate of\n         transpiration.\n\n33. It is thought that in the phloem of certain plants, companion cells\n    provide metabolic energy for the transport of substances into and out of\n    the sieve tube cells. Which of the following statements would best\n    support this assumption? There is (are):\n\n      A. an abundance of rRNA in the sieve-tube members.\n      B. no plasmodesmata between sieve-tube members and companion cells.\n      C. low rates of respiration in companion cells.\n      D. an abundance of mitochondria in companion cells.\n      E. low rates of translocation at low temperatures.\n\n                                          10\n\n                                                                                     11\n\n34. Which of the following accurately describes the sigmoid growth curve\n    typical of controlled population growth restricted by density-dependent\n    factors?\n\n      A. dN/dt = rN\n      B. dN/dt = rN (K-N)/K\n      C. dN/dt = Nert\n      D. Nt = Noert\n      E. Nt = rN (K-N)/K\n\n35. Emigration rate of lemmings was 5% when the population was 10/ha.\n    After the population rises to 20 lemmings/ha, the emigration rate most\n    likely will be:\n\n      A. 0\n      B. < 1%\n      C. 5%\n      D. 10%\n      E. > 10%\n\n36. For populations that exhibit __________ population growth, maximum\n    harvesting yield is achieved when _________________.\n\n      A. exponential, population growth rate is highest\n      B. logistic, the population reaches its carrying capacity\n      C. logistic, population growth rate is highest\n      D. logistic, population growth rate is proportional to the population’s size\n      E. exponential, the population reaches its carrying capacity\n\n37. Various adaptations appeared in animals in their migration to land. In\n    the ancestor common to modern reptiles, birds and mammals, which of\n    the following traits appeared for the first time?\n\n      A. Protostomic development\n      B. Tetrapod limbs\n      C. Amniotic eggs\n      D. Lungs\n      E. True jaws\n\n38. Some populations are characterized by the presence of balanced\n    polymorphism. This condition may be maintained by all of the following\n    EXCEPT:\n\n      A. Balancing selection\n      B. Natural selection\n      C. Disruptive selection\n      D. Directional selection\n      E. Frequency-dependent selection\n\n                                       11\n\n                                                                             12\n\n39. Alleles A and a in a population conform to Hardy-Weinberg equilibrium.\n    Recessive individuals for this trait represent 16 of each 100 individuals.\n    What is the most common genotype in this population?\n\n      A. AA\n      B. Aa\n      C. aa\n      D. A\n      E. a\n\n40. Which of the following plant groups is now extinct?\n\n      A. Seed ferns\n      B. Lycopods\n      C. Horsetails\n      D. Tree ferns\n      E. Hornworts\n\n                                    12\n\n                                                                                13\n\n                              PART B\n\nFOR QUESTIONS 41-116, USING THE INFORMATION PROVIDED AND\nYOUR OWN KNOWLEDGE OF BIOLOGY, DETERMINE WHETHER THE\nSTATEMENTS ARE ACCEPTABLE (A) OR UNACCEPTABLE (B). EACH\nQUESTION WILL HAVE A VALUE OF ONE-HALF POINT.\n\nOf the following statements (41-44) concerning Sertoli cells, indicate if the\nstatement is acceptable (A) or unacceptable (B).\n\n41. They are located in the testis.\n\n42. They react to endocrine signals.\n\n43. They react to autocrine signals.\n\n44. They contain tight junctions.\n\n(Questions 45-48) The Aba family has a history of a recessive hereditary disease\nknown to be caused by a large deletion on chromosome 17. Janet Aba is a\ncarrier of the disease. She marries Joey Kea and they want to determine\nwhether or not Joey is a carrier before starting a family. Which of the following\nare acceptable screening methods the diagnostic center could employ to\ndetermine Joey’s genotype at this position (A) and which would not be an\nacceptable screening method (B)?\n\n45. UV light absorbance of DNA samples\n\n46. DNA sequencing of erythrocytes\n\n47. Gel electrophoresis on acrylamide of DNA fragments\n\n48. Direct sequencing of amplified chromosome 17 DNA\n\n(Questions 49-52) Determine whether or not each of the following is an\nacceptable statement concerning HIV. Acceptable (A) or Unacceptable (B)\n\n49. HIV binds to receptors on human leukocytes.\n\n50. The HIV genome encodes for its own reverse transcriptase.\n\n51. Death from HIV (and ultimately AIDS) is caused by progressive loss of B-cells.\n\n52. The best HIV drug targets are in the viral coat proteins, because they are the\n    least susceptible to mutation.\n\n                                        13\n\n                                                                                  14\n\n(Questions 53-56) Of the following statements, which would be acceptable (A) for\nwhy primase incorporates RNA primers onto the replicating DNA? Mark all\nunacceptable statements as B.\n\n53. DNA polymerase can only start adding nucleotides to a molecule containing a\n    2’ hydroxyl.\n\n54. RNA primers allow the DNA polymerase to bind to begin replication.\n\n55. The 2’hydroxyl of RNA functions as a signal indicating that this newly\n    synthesized region has not been proofread.\n\n56. RNA is synthesized in the 3’ to 5’ direction allowing DNA to be synthesized\n    in the 5’ to 3’ direction.\n\n(Questions 57-59) The following diagrams indicate a piece of DNA (the circular\nregion), a gene (the boxed region), and a primer set (the arrows). Which of the\nfollowing represents a PCR primer set that would completely amplify the gene?\n\n57. Set A would completely amplify the gene\n\n58. Set B would completely amplify the gene\n\n59. Set C would completely amplify the gene\n\n(Questions 60–62) Cloning by hybridization often involves finding a gene\nimplicated in a human disease by complementing the human gene with a\nhomologous yeast gene. With that in mind, which classes of genes may be\ncloned in the hybridization method? Acceptable (A) or Unacceptable (B)\n\n60. The gene responsible for sickle cell anemia.\n\n61. The gene responsible for congenital nystagmus.\n\n62. The gene responsible for phenylketonuria.\n\n                                        14\n\n                                                                                 15\n\n(Questions 63– 65) Which of the following sequences would be recognized by a\nrestriction enzyme? Acceptable (A) or Unacceptable (B)\n\n63. TATATA\n\n64. TAAAAT\n\n65. TTTAAA\n\n(Questions 66– 68) Which of the following is (are) part of RNA processing and\nsynthesis? Acceptable (A) or Unacceptable (B)\n\n66. Polyadenylation\n\n67. Transport to the nucleolus\n\n68. Catalytic function of small nuclear RNA\n\n(Questions 69–71) Which of the following is (are) necessary component(s) of an\neffective cloning vector? Acceptable (A) or Unacceptable (B)\n\n69. Multiple cloning site\n\n70. Intrinsic ligase\n\n71. An origin of replication\n\n(Questions 72–76) You perform a dissection of a pig and a chicken and discover\nthat both have four-chambered hearts. You logically and correctly assume that:\n\n72. early mammals possessed feathers.\n\n73. birds and mammals belong to the same class.\n\n74. birds and mammals are closely related in an evolutionary sense.\n\n75. birds and mammals had a common ancestor with a four-chambered heart.\n\n76. all vertebrates have four-chambered hearts.\n\n                                        15\n\n                                                                                16\n\n(Questions 77-81) Mycorrhizae: Acceptable (A) or Unacceptable (B)\n\n77. may transfer nutrients from one plant to another.\n\n78. growth depends on nutrients obtained from the plant.\n\n79. permit plants to survive in phosphorus-poor soil.\n\n80. increase the absorptive surface of plants.\n\n81. form nitrogen-fixing nodules on the roots of plants.\n\n(Questions 82-84) Certain Ecologists state that evidence supports the following\ngeneralizations: 1) producers are limited by competition for resources, 2)\nprimary consumers (herbivores) are limited by predation, and 3) secondary\nconsumers (carnivores) are limited by food. If these concepts of limiting factors\nare accepted, then you would expect to find evidence for competitive exclusion\nin which of the following trophic levels? Acceptable (A) or Unacceptable (B)\n\n82. Producer\n\n83. Herbivore\n\n84. Carnivore\n\n(Questions 85–88) Rapidly changing habitats generally are favorable to:\n\n85. small organisms.\n\n86. K-selected species.\n\n87. species which reproduce numerous times in their lives.\n\n88. organisms which practice exploitative competition.\n\n                                        16\n\n                                                                                  17\n\n(Questions 89–91) Important controls on the ultimate outcome of competition\nbetween species pairs that have recently come together include: Acceptable (A)\nor Unacceptable (B)\n\n89. the initial number of competitors in each species.\n\n90. timing of the arrival of the members of the pair.\n\n91. physical environment.\n\n(Questions 92–95) Which of the following provide(s) evidence for the\n“intentionality” of primate alarm calls? Acceptable (A) or Unacceptable (B)\n\n92. Calls are made when a predator is spotted.\n\n93. Individuals are more likely to call when their offspring are present.\n\n94. Males are more likely to call when females are present.\n\n95. Calls are made even when the individual is alone.\n\n(Questions 96–99) Which one of the following is (are) a characteristic(s) typical of\nmollusks? Acceptable (A) or Unacceptable (B)\n\n96. Mantle\n\n97. Regulative development\n\n98. Radula\n\n99. Trochophore larva\n\n(Questions 100–108) In plant systematics, three lines of evidence may be useful\nin determining relationships; xylotomical (wood anatomy), embryological and\npalynological. Match these three with the level for which they are most useful.\n\nXylotomical:\n\n100. Order\n\n101. Family\n\n102. Genus\n\nEmbryological:\n\n103. Order\n\n104. Family\n\n                                         17\n\n                                                                                18\n\n105. Genus\n\nPalynological:\n\n106. Order\n\n107. Family\n\n108. Genus\n\n(Questions 109–113) The following pedigree is representative of a family with a\nhistory of Mickey Mouse syndrome, a disease causing the affected individual to\nspeak with a high squeaky voice. Based on the pedigree shown, which of the\nfollowing are possible modes of inheritance assuming complete penetrance and\nno spontaneous mutation? Acceptable (A) or Unacceptable (B)\n\n109. Autosomal dominant\n\n110. Autosomal recessive\n\n111. X-linked dominant\n\n112. X-linked recessive\n\n113. Mitochondrial inheritance\n\n(Questions 114-116) Ammonia is produced in freshwater fish during metabolic\nprocesses. Indicate for each of the following statements which is (are) acceptable\n(A) and which is (are) unacceptable (B) explanations for why elevated ammonia\nlevels are dangerous to the organism.\n\n114. Ammonia can substitute for a potassium ion in ion-exchange mechanisms.\n\n115. Ammonia can adversely affect amino acid transport.\n\n116. Ammonia can cause a decrease in body pH which can adversely affect the\n     tertiary structure of proteins.\n\n                                        18\n\n                                                                                19\n\nFOR QUESTIONS 117-121 MARK ALL CHOICES THAT APPLY. EACH QUESTION\nHAS A POINT VALUE OF 1, BUT ALL APPROPRIATE CHOICES MUST BE\nINDICATED TO RECEIVE CREDIT.\n\nFor Questions 117-119, match the structures indicated on the diagram below\nwith their appropriate description amongst the statements that follow. Answers\nmay be used once, more than once, or not at all. Please mark ALL answers that\napply.\n\n117. Muscular contractions inside this (these) organ(s) assist in childbirth.\n\n118. Structures inside this (these) organ(s) produce estrogen in response to\n     release of LH and FSH from the pituitary gland.\n\n119. Human embryonic development occurs in which organ(s).\n\n                                         19\n\n                                                                               20\n\n120. Consider an autosomal recessive disease with an incidence of 1/10,000 in\n     the general population of 100,000. Your best friend comes to you very\n     upset because he has just taken a screening test for this disease and gotten\n     a positive result. He is convinced he is a carrier, despite having no family\n     history of the disease. You try to reassure him, but he says, \"Don't bother.\n     The Clinic said this test has 98% sensitivity and 90% specificity. With that\n     level of sensitivity, it must be correct!\" What is the chance your friend is\n     NOT a carrier?\n\n         A. 2%\n         B. 10%\n         C. 20%\n         D. 49%\n         E. 83%\n\n121. Which of the following structures or group of cells found in earthworms has\n     similar functions to the liver of vertebrates?\n\n         A. Typhlosolis\n         B. Coelomocytes\n         C. Chloragog (chloragogue, chlorogogen)\n         D. Cells that line the inner surface of the small intestine\n         E. Calcium gland cells\n\n                                        20\n\n                                                                                21\n\n                                PART C\n\n1. During the isolation of DNA, SDS may be used to dissolve the phospholipid\n   membrane of the bacterial cells. List two other functions of SDS in\n   molecular biology. (4 points)\n\n     a. _________________________________________________________\n\n     b. _________________________________________________________\n\n2.    You are studying the TRA gene in humans. The TRA gene is thought to be\n      responsible for the migration behavior observed in chimps. After many\n      weeks of cloning and isolating TRA to its coding sequence, you decide to\n      put the coding sequence into a plasmid known as pUC.16. This pUC.16\n      plasmid is known to express high levels of recombinant protein and has an\n      AmpR gene for ease of selection. The plasmid is shown below.\n\n      The version of TRA you now have is flanked on both ends by BamHI and\n      AluI cut sites and a diagram of it is given below. Assume there are no other\n      relevant cut sites in this gene. (7 points)\n\n                                                       PvuII: 5’- CAG*CTG-3’\n                                                      HindIII: 5’- A*ACGTT-3’\n                                                      BamHI: 5’-G*GATCC-3’\n                                                       EcoRI: 5’-G*AATTC-3’\n                                                         AluI: 5’-AG*CT-3’\n\n                                           21\n\n                                                                             22\n\n    a. Describe the procedure you would use to create a unique plasmid\n       that has TRA under the control of the T7 promoter. NOTE: The\n       plasmid must be functional in the capacity of a cloning vector and\n       this procedure may require multiple steps.\n\nYou successfully clone TRA and place it under the control of an inducible\npromoter pUC.16. You transform the construct into bacterial cells. You\nadd a compound that induces expression of cloned TRA and then decide to\ndetect expression levels of induced TRA.\n\n b. Of the following methods, circle those that you could use to quantify\n    mRNA expression levels of TRA. (Circle all that apply.)\n\n    1. RT-PCR\n    2. Microarray analysis\n    3. RNAi\n    4. Shot gun sequencing\n    5. Western blot analysis\n\n c. After you add your inducer, you realize that you want to restore basal\n    level expression of TRA in your cells. Which of the following methods\n    would reduce or eliminate TRA expression? (Circle all that apply.)\n\n    a. Adding TRA-specific antibodies to your cells.\n    b. Adding TRA-specific siRNA to your cells.\n    c. Adding TRA-specific repressor protein.\n    d. Removing the TRA protein\n    e. Removing the inducer\n\n                                    22\n\n                                                                             23\n\n3. Some mammals have the capability to digest cellulose. (5.5 points)\n\n      a. Compare and contrast the fore-gut and hind-gut approaches to cellulose\n         digestion employed by these mammals. Include an example of which\n         mammals use each approach.\n\n      b. Can humans digest cellulose? (Yes or No) Why or why not?\n\n                                       23\n\n                                                                                24\n\n4. There are a variety of glands in mammals. Provide a general system for\n   classifying these glands and discuss the general characteristics of each group.\n   (3 points)\n\n                                        24\n\n                                                                                25\n\n5. With flowering plants in mind answer each of the following. (6.5 points)\n\n      a. Seeds in flowering plants are dispersed in four different ways. Name\n          and briefly discuss each method of seed dispersal.\n\n      b. What is the evolutionary significance of seeds?\n\n      c. What is the evolutionary significance of the seed dispersal mechanisms?\n\n      d. Compare and contrast spores and seeds.\n\n      e. Compare the dispersal mechanisms of spores and seeds.\n\n                                        25\n\n                                                                            26\n\n6. The British ecologist H. B. D. Kettlewell conducted famous experiments\n   between 1952 and 1972 on the Peppered Moth. (6.5 points)\n\n      a. What was the original purpose of his research?\n\n      b. What was the experimental protocol that he followed?\n\n      c. What were the results that he found?\n\n      d. What were the interpretations and conclusions formed based on those\n         results?\n\n      e.   What is the modern-day interpretation of those results?\n\n                                        26\n\n                                                                              27\n\n7. A woman who is a heterozygous carrier of an X-linked recessive disease gene\n   mates with a phenotypically normal male. The disease gene has a\n   penetrance of 70%. On average, what proportion of this couple's sons will\n   be affected with the disorder? (Show your work.) (1.5 points)\n\n8. In humans, hereditary diseases are often present with no previous family\n   history of the disorder. Briefly describe three genetic situations in which\n   you would be most likely to observe a genetic disorder for which there is no\n   previous family history of the disease phenotype. (2 points)\n\n                                       27\n\n                                                                                28\n\n9. In a population an X-linked dominant disorder affects 1/100 males in the\n   population. What proportion of females would be affected with the X-linked\n   dominant disorder? (Show your work.) (2 points)\n\n10. An investigator is studying the relationship between urine osmolarity in\n    mice following consumption of 2% saline water in relation to normal tap\n    water. She discovers that there is increased osmolarity of the urine and\n    increased excretion of chloride after consumption of 2% saline water. This\n    gives rise to a second question: how are the mice able to excrete the excess\n    salt consumed while maintaining water balance? She assumes that there is\n    ADH release during saline consumption. What evidence would be required to\n    support the assumption of increased ADH release during periods of increased\n    salt consumption? (2 points)\n\n                                       28",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 1,
+     "question": "Which of the following graphs correctly displays the relationship of blood flow velocity in humans as blood flows from the aorta→ arteries → arterioles → capillaries → venules → veins → venae cavae?",
+     "reference": "1. During the isolation of DNA, SDS was used to dissolve the phospholipid\n   membrane of the bacterial cells. List two other functions of SDS in\n   molecular biology.\n\n     a. _________________________ SDS inhibits the enzyme DNAse,\n\n     b. _________________________ SDS denatures protein, or coats proteins with negative\n        charge is acceptable, too",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.2",
+     "points": 1,
+     "question": "Which of the following would lead to a DECREASE in activity of the Anterior Pituitary gland? A. A lack of receptors for Cortisol on the Hypothalamus. B. A lack of receptors for Cortisol on the Anterior Pituitary. C. Intravenous injection of a large amount of ACTH. D. A tumor in the Hypothalamus causing it to secrete excess CorticotropinReleasing Hormone. E. Increased sensitivity of the Anterior Pituitary to Corticotropin-Releasing Hormone.",
+     "reference": "2.    You are studying the TRA gene in humans. The TRA gene is thought to be\n      responsible for the migration behavior observed chimps. After many weeks\n      of cloning and finally isolating TRA to specifically only its coding sequence,\n      you decide to put the coding sequence into a plasmid known as pUC.16.\n      This pUC.16 plasmid is known to express high levels of recombinant protein\n      and has an AmpR gene for ease of selection. The plasmid is shown below.\n\n      The version of TRA you now have is flanked on both ends by BamHI and\n      AluI cut sites and a diagram of it is given below. Assume there are no other\n      relevant cut sites in this gene.\n\n                                            22\n\n                                                  PvuII: 5’- CAG*CTG-3’\n                                                 HindIII: 5’- A*ACGTT-3’\n                                                 BamHI: 5’-G*GATCC-3’\n                                                  EcoRI: 5’-G*AATTC-3’\n                                                    AluI: 5’-AG*CT-3’\n\n   a. Describe the procedure you would use to create a unique plasmid that\n      has TRA under the control of the T7 promoter. NOTE: The plasmid\n      must be functional in the capacity of a cloning vector and this\n      procedure may require multiple steps.\n\n     You can cut both the TRA insert and the plasmid with AluI there is an AluI\n     site within PvuII) and then ligate the two together.\n\n     OR\n\n     You can cut the TRA insert with BamHI and then use a exonuclease to cleave\n     the single stranded tail. The plasmid could be cut with PvuII and the two\n     blunt end could be ligated together.\n\n     OR\n\n     You can cut the TRA insert with AluI and then add a poly A/T tail to the two\n     ends. The plasmid could be cut with PvuII, extended with a polyA/T tail and\n     the resulting products could be ligated together.\n\nYou successfully clone TRA and place it under the control of an inducible\npromoter on a plasmid that you transform into bacterial cells. You add a\ncompound that induces expression of cloned TRA and then decide to detect\nexpression levels of induced TRA.\n\n   b. Of the following methods circle those that you could use to quantify\n      mRNA expression levels of TRA. (Circle all that apply.)\n\n      1. RT-PCR\n\n                                     23\n\n         2. Microarray analysis",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.3",
+     "points": 1,
+     "question": "What would happen if the Adrenal Cortex was artificially stimulated to produce large amounts of Cortisol? A. Less Corticotropin-Releasing Hormone would be released. B. More ACTH would be released. C. The activity of the Hypothalamus would increase. D. The activity of the Anterior Pituitary would increase. E. The Hypothalamus would become insensitive to Cortisol. 2 3",
+     "reference": "3. RNAi",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.4",
+     "points": 1,
+     "question": "When a four-cell Xenopus embryo is divided into ventral and dorsal halves, the half containing the Nieuwkoop center will develop: A. ventralized features. B. as a normal embryo. C. without endoderm. D. only to the 8-cell stage. E. dorsalized features.",
+     "reference": "4. Shot gun sequencing",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.5",
+     "points": 1,
+     "question": "Insulin release results in all of the following physiological effects EXCEPT: A. up-regulation of glucose transporters in liver cells. B. increased fat production from glycerol and fatty acids in adipose tissue. C. inhibition of glycogen phosphorylase. D. activation of glycogen synthase. E. decreased glycogen stores in liver cells.",
+     "reference": "5. Western blot analysis\n\n      c. After you add your inducer, you realize that you want to restore basal\n         level expression of TRA in your cells. Which of the following methods\n         would reduce or eliminate TRA expression? (Circle all that apply.)\n\n         a. Adding TRA-specific antibodies to your cells.\n         b. Adding TRA-specific siRNA to your cells.\n         c. Adding TRA-specific repressor protein.\n         d. Removing the TRA protein\n         e. Removing the inducer\n\n3. Some mammals have the capability to digest cellulose.\n\n      a. Compare and contrast the fore-gut and hind-gut approaches to cellulose\n         digestion employed by these mammals. Include an example of which\n         mammals use each approach.\n\n            Foregut –kangaroos and wallabies; eutherian ruminants, camelids,\n            peccaries, hippos, and colobine monkeys (two groups similar but\n            different in their digestion) – in general;\n            1) fermentation occurs in enlarged cardiac region of stomach, thus\n            microbial cells can be utilized in digestion in small intestine,2) less\n            dependent on the quality of protein in food, 3) toxins more easily\n            degraded, 4) highly lignified cell walls les of a problem, 5) some practice\n            rumination – stomach divided into four main parts, 6) 2 enzymes,\n            lysozyme and pancreatic ribonuclease\n\n            Hindgut – wombats and koalas: horses, zebras, elephants,\n            manatess, guinea pigs, rats, porcupines, beavers, rabbits, iguana,\n            red howler monkey – in general; 1) fermentation occurs\n            enlarged caecum or in colon, thus bacteria are lost in feces. To obtain\n            nutrients lost in feces many hindgut fermenters practice coprophagy,\n            that is they eat feces, 2) more efficient in digesting high quality foods, 3)\n            more efficient utilization of easily accessible cell contents as plants\n            degraded first enzymatically in small intestine and products directly\n            absorbed, 4) better able to digest food containing phenols and terpenes,\n            both toxic to foregut fermenters\n\n      b. Can humans digest cellulose? (Yes or No) Why or why not?\n\n                                           24\n\n                Their do not produce cellulase nor do they have cellulose-digesting organisms\n                associated with their digestive tract.\n\n4. There are a variety of glands in mammals. Provide a general system for\n   classifying these glands and discuss the general characteristics of each group.\n\n                          Can be classified according to four general schemes: 1) the nature\n                          of the product 2) the structure, 3) the manner by which the\n                          secretion is delivered to the site of action, 4) the manner of cell\n                          activity in forming the secretion. Most common: exocrine,\n                          endocrine, cytocrine, mixed or cytogenous, acellular or merocrine,\n                          holocrine, apocrine or mucous, serous\n\nExocrine–the secretion is passed directly or by ducts to the exterior surface (sweat glands) or to\nanother surface which is continuous with the external surface (intestinal glands, liver, pancreas,\nsubmaxillary gland)\n\nEndocrine–the secretion is passed into adjacent tissue or area and then into the bloodstream\ndirectly or by way of the lymphatics; these organs are usually circumscribed, highly\nvascularized, and usually have no connection to an external surface (adrenal, thyroid,\nparathyroid, islets of Langerhans, parts of the ovary and testis, anterior lobe of the hypophysis,\nintermediate lobe of the hypophysis, groups of nerve cells of the hypothalamus, and the neural\nportion of the hypophysis)\n\nParacrine - secrete products which influence the secretion of another product by a local gland or\ncell.\n\nAutocrine - secrete products which influence the secretion of another product by the same cell.\n\nMixed exocrine and endocrine glands (liver, testis, pancreas)\n\nCytocrine–passage of a secretion from one cell directly to another (melanin granules from\nmelanocytes in the connective tissue of the skin to epithelial cells of the skin)\n----------------------------------------------------------------------------------------------------------\nCytogenous (testis, perhaps spleen, lymph node, and bone marrow)–gland “secretes” cells\n\nAcellular (intestinal glands, pancreas, parotid gland)–gland secretes noncellular product\n------------------------------------------------------------------------------------------------------------\nMerocrine (sweat glands, choroid plexus)–no loss of cytoplasm. secretions of that cell dump\ndirectly into the lumen\n\nHolocrine (sebaceous glands)–gland cells undergo dissolution and are entirely extruded,\ntogether with the secretory product\n\nApocrine (mammary gland, axillary sweat gland)–only part of the cytoplasm is extruded with\nthe secretory product.\n\n                                                       25\n\n-----------------------------------------------------------------------------------------------------------\nMucous goblet cells (submaxillary glands, urethral glands)–the secretion contains mucin\n\nSerous (parotid gland, pancreas)–the secretion does not contain mucin\n\n5. Seeds in flowering plants are dispersed in four different ways.\n\n        a. Name and briefly discuss each method of seed dispersal.\n\n                          Wind, animals (carried on body or in body) , water, discharge\n                          (explosive) Discussion simplistic as terms more or less self-\n                          explanatory\n\n        b. What is the evolutionary significance of seeds?\n\n                          Maternal effect – cues from maternal plants\n                          Decreased dependence on water\n                          Protection of embryo\n                          Nourishment of embryo\n                          Dispersion\n\n        c. What is the evolutionary significance of the seed dispersal mechanisms?\n\n                          Increased possibility of cross-pollination\n                          Increased probability of survival in areas of limited resources\n                          Extended range\n                          In case of animal dispersal via ingestion, provided nutrients for\n                          developing seedlings\n\n        d. Compare and contrast spores and seeds.\n\n                          Spores gametophytic, seed contain both gametophytic and\n                          sporophytic tissues\n                          Spores produce mature gametophyte, seeds produce new\n                          sporophyte\n                          Spores produced by meiosis, seeds generally the consequence of\n                          fertilization\n                          Spores contain little or no nutritive tissue, seeds contain nutritive\n                          tissue\n\n        e. Compare the dispersal mechanisms of spores and seeds.\n\n                          Technically seed plants do not disperse their spores; rather the\n                          spores are produced within the sporophytic plant where they\n                          develop into a gametophyte or pollen grain which is dispersed.\n                          In the non-seed bearing plants, spores are dispersed in many of\n                          the same ways that seeds are; wind, water, active discharge\n\n                                                        26\n\n                   (compression, slingshot, development of specialized dispersal\n                   structures, and so on) and animals, particularly insects",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.6",
+     "points": 1,
+     "question": "All of the following are stimulated by the sympathetic nervous system EXCEPT: A. increased heart rate. B. increased secretion of the sweat glands. C. dilation of the pupil. D. constriction of blood vessels. E. increased peristalsis in the gastrointestinal tract.",
+     "reference": "6. The British ecologist H. B. D. Kettlewell conducted famous experiments\n   between 1952 and 1972 on the Peppered Moth.\n\n      a. What was the original purpose of his research?\n\n                   He was given a grant to study industrial melanism\n\n      b. What was the experimental protocol that he followed?\n\n             1) He released dark and light colored moths into an aviary to observe the\n                reaction of insectivorous birds. Noted that where the moth could be\n                camouflaged against a background they were less likely to be eaten.\n             2) He used a release recapture approach with marked moths in polluted\n                woodlands in Birmingham, England and in unpolluted rural woods at\n                Deanend Wood, Dorset, England. He released the moths directly on\n                the tree trunks (he did not pin dead moths to the tree trunks as\n                sometimes reported – that was done to make photographs; other\n                biologists doing similar experiments did use dead moths)\n\n      c. What were the results that he found?\n\n                   He recaptured 27.5 % of the melanics, but only 13.0 % of the wild-\n                   type moths in the polluted area of Birmingham. He found\n                   essentially the opposite results in Deanend Wood\n\n      d. What were the interpretations and conclusions formed based on those\n         results?\n\n                   “Birds act as selective agents, as postulated by evolutionary\n                   theory” and that industrial melanism was “the most striking\n                   evolutionary change ever actually witnessed in any organism.”\n\n      e.   What is the modern-day interpretation of those results?\n\n                   Peppered moths do not generally rest on tree trunks but remain\n                   hidden within the foliage, often on the underside of branches.\n                   The presence or absence of lichens seem to have little or no\n                   influence on the proportion of melanic to typical forms.\n                   In areas with little industrial pollution, melanics were found to\n                   reach a frequency of 80%.\n\n                                         27\n\n                    In industrial areas where typicals had decreased dramatically, a\n                    decrease in industrial pollution and the return of lichen growth on\n                    trees did not cause the typical population to increase.\n                    Therefore, decline of typical peppered moths cannot be related to\n                    the loss of lichens on tree trunks and the deposition of soot as a\n                    consequence of industrial pollution. Other factors most be\n                    involved.",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.7",
+     "points": 1,
+     "question": "Concentration of urine is essential to the survival of many vertebrates. Which class of vertebrates would you expect does NOT use this mechanism for homeostasis? A. Aves B. Lepidosauria C. Mammalia D. Osteichthyes E. Testudines",
+     "reference": "7. A woman who is a heterozygous carrier of an X-linked recessive disease gene\n   mates with a phenotypically normal male. The disease gene has a\n   penetrance of 70%. On average, what proportion of this couple's sons will\n   be affected with the disorder?\n\n      0.35",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.8",
+     "points": 1,
+     "question": "In the genetic pathway containing genes A, B, and C, gene A negatively regulates gene B, which in turn negatively regulates gene C. If a loss-offunction mutation were introduced into gene B, what would be the resulting effect on the expression of gene C? A. Decreased expression of gene C. B. No effect on expression of gene C. C. Changes in expression levels of gene C would be the same as those for gene A. D. Increased expression of gene C. E. Changes in expression levels of gene C would be the same as those for gene B. 3 4",
+     "reference": "8. In humans, hereditary diseases are often present with no previous family\n   history of the disorder. Briefly describe three genetic situations in which\n   you would be most likely to observe a genetic disorder for which there is no\n   previous family history of the disease phenotype.\n\n      Autosomal recessive diseases usually have no previous history (consanguinity may be\n      present, but usually is not for relatively common autosomal recessive disorders).\n       New mutation transmitted by one of the parents\n      Germline mosaicism in one of the parents.\n      Most chromosome abnormalities (aneuploidies, translocations, deletions, duplications)\n      have no previous family history.\n      Reduced penetrance can produce no previous history, although the penetrance would\n      have to be very low.\n      Anticipation is a possibility, although all diseases in which anticipation has been\n      observed are dominant and thus they usually do have a previous family history\n\n                                             28",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.9",
+     "points": 1,
+     "question": "In terms of the MN blood group, assume there are 72 people with the genotype MM, 96 people with the genotype MN, and 32 people with the genotype NN. What is the frequency of the M allele? A. 0.12 B. 0.32 C. 0.60 D. 0.72 E. 0.80",
+     "reference": "9. In a population an X-linked dominant disorder affects 1/100 males in the\n   population. What proportion of females would be affected with the X-linked\n   dominant disorder?\n\n      q^2 + 2pq = ~2q = 0.02 = 1/50 = 0.02",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.10",
+     "points": 1,
+     "question": "Certain amino acids are considered essential in an animal’s diet because they cannot be produced within the organism. Which of the following cellular processes would be most IMMEDIATELY affected by a dietary deficiency in essential amino acids? A. Cell division B. Cellular respiration C. Translation of mRNA D. Replication of DNA E. Oxygen transport",
+     "reference": "10. An investigator is studying the relationship between urine osmolarity in\n    mice following consumption of 2% saline water in relation to normal tap\n    water. She discovers that there is increased osmolarity of the urine and\n    increased excretion of chloride after consumption of 2% saline water. This\n    gives rise to a second question: how are the mice able to excrete the excess\n    salt consumed while maintaining water balance? She assumes that there is\n    ADH release during urine consumption. What evidence would be required to\n    support the assumption of increased ADH release during periods of increased\n    salt consumption?\n\n      Increased urine osmolarity\n      Increased solute concentration in the urine\n      Decreased urine volume\n      Urea concentration of urine less during saline consumption than during water consumption\n\n                                POSSIBLE POINT VALUES\n\n1a    = 1.5\n1b    = 1.5\n2a    = 3.0\n2b    = 2.0\n2c    = 2.0\n3a    = 3.0\n3b    = 2.5\n4     = 3.0\n5a    = 1.5\n\n                                                29\n\n5b    = 1.5\n5c    = 1.5\n5d    = 1.5\n5e    = 1.5\n6 a   = 1.5\n6b    = 1.5\n6c    = 1.5\n6d    = 1.5\n6e    = 1.5\n7     = 1.5\n8     = 2.0\n9     = 2.0\n10    = 2.0\n\n              30",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.11",
+     "points": 1,
+     "question": "Both insects and vertebrates have hinged jaws. While the jaws serve the same general purpose, they evolved from different structures in the two groups. Such a situation is an example of: A. punctuated equilibrium. B. hybrid vigor. C. homology. D. divergent evolution. E. convergent evolution.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.12",
+     "points": 1,
+     "question": "Infection with Giardia can cause degeneration of the intestinal villi. Which of the following is most likely to occur following a serious Giardia infection? A. An inability to produce insulin B. An increase in the rate of carbohydrate digestion C. A reduction in nutrient absorption from the small intestine D. A reduction in bile production and storage E. An increase in blood pressure",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.13",
+     "points": 1,
+     "question": "A person is infected by a bacterial pathogen. Which of the following would be the typical physiological response to that infection? A. B cell activation B. Cytotoxic T cell activation C. A decrease in body temperature D. Rapid mitotic division in cells in contact with the bacterium E. Release of interferon 4 5",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.14",
+     "points": 1,
+     "question": "Which of the following cell types would you expect to be abundant in ER and Golgi Bodies? I. Adipose cells II. Islet of Langerhans cells III. Plasma B cells IV. Red blood cells A. I only B. III only C. I and II only D. II and III only E. I, II, III, and IV",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.15",
+     "points": 1,
+     "question": "How do polypeptides find their way from the site of synthesis on the cytoplasmic ribosome to the place of their destination in the peroxisome? A. Without signals B. By specific transport along the cytoskeleton C. By specific carboxy-terminal targeting signals D. By specific vesicular transport E. By transport within the ER",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.16",
+     "points": 1,
+     "question": "Which of the following combinations have only primary walls in a mature plant?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.17",
+     "points": 1,
+     "question": "A day in the sun will expose your skin to UV light. Which is NOT true about the resulting DNA damage/repair pathway? A. UV exposure will cause single bonded cross-linked thymine-thymine dimers which severely distort the phosphate backbone. B. UV exposure will cause double bonded perpendicular thymine-thymine dimers which kink the phosphate backbone. C. Photolyase will repair DNA damage by using energy from UV light to break open thymine dimers. D. During replication of damaged DNA, a single base pair deletion will be found on the newly synthesized DNA strand opposite to the thymine dimer site. E. UV exposure only causes heritable mutation after the action of nucleotide excision repair machinery. 5 6",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.18",
+     "points": 1,
+     "question": "Three different genes (B, D, and W) are found on a small region of chromosome 1. Each gene has two alleles. In order to determine the recombination frequency between these three genes, sperm were isolated from a male heterozygous for all three genes. The male had all dominant alleles on his maternal copy of chromosome 1, but only recessive alleles on his paternal copy of chromosome 1. Each sperm was isolated individually and PCR amplified in the BDW region. The amplified products were spotted on a nitrocellulose membrane and radioactive allele specific probes were hybridized with the samples. The resulting audioradiograph is shown below where a dark spot indicates successful hybridization of the probe with the membrane. What is the recombination frequency between B and W? A. 1/4 B. 1/3 C. 1/2 D. 5/6 E. 1",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.19",
+     "points": 1,
+     "question": "Which of the following is not an activity of DNA polymerase? A. 5’ to 3’ endonuclease B. 3’ to 5’ endonuclease C. 5’ to 3’ exonuclease D. 3’ to 5’ exonuclease E. All are possible activities 6 7",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.20",
+     "points": 1,
+     "question": "You order a degenerate probe designed from the following hemoglobin protein sequence: Trp – Gly – Lys – Val – Asn TGG GGC AAA GTC AAT T G T C A A G G How many different probe sequences would be returned to you? How many would be specific to your gene of interest? A. 64 total, 5 specific to gene B. 25 total, 5 specific to gene C. 64 total, 1 specific to gene D. 25 total, 1 specific to gene E. 32 total, 1 specific to gene",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.21",
+     "points": 1,
+     "question": "In a laboratory, stems and roots of different plants were sectioned and slides were produced. When putting the slides into a box, they became mixed up. Which of the following cross sections corresponds to a primary root of Magnoliopsida?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.22",
+     "points": 1,
+     "question": "In the Magnoliophyta, the nutritive function for growth of the pollen tube is performed by the: A. body cell. B. endosperm C. megasporangium. D. megagametophyte. E. style. 7 8",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.23",
+     "points": 1,
+     "question": "What is the approximate molecular weight of mutant transferrin? A. About 180 KDa B. About 130 KDa C. About 300 KDa D. About 90 KDa E. Impossible to determine from the information provided.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.24",
+     "points": 1,
+     "question": "Which of the following reasons most likely explains why the transferrin band in lane 2 is darker than the band in lane 3? A. The mutant band in lane 3 is not transferrin. B. The fluorescent compound binds more efficiently to wild-type transferrin than to mutant transferrin. C. Mutant transferrin has a similar, but not identical epitope to the primary antibody. D. You added too much fluorescent antibody in lane 2. E. There is less mutant transferrin than wild-type transferrin.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.25",
+     "points": 1,
+     "question": "Which taxon has the largest number of species within its circumscription? A. Liliopsida B. Magnolia C. Magnoliaceae D. Magnoliidae E. Magnoliopsida 8 9",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.26",
+     "points": 1,
+     "question": "A plant population that reproduces annually was found on a remote oceanic island. Two flower-color variants are present, red and blue. Flower color is known to be a monogenic trait. The frequencies of the two flower colors were observed annually over a ten year period. It was noted the proportion of plants with blue flowers steadily declined each year. From these data, it may reasonably be concluded that: A. the increased frequency of red-flowered plants was a result of genetic drift. B. migration of red-flowered plants into the population was the most likely cause of the observed change. C. mutation occurred more frequently in red-flowered plants than in blueflowered plants. D. blue-flowered plants had a lower genetic fitness than the red-flowered plants. E. red-flowered plants were capable of crossing with other red-flowered plants or with blue-flowered plants but blue-flowered plants could only cross with other blue-flowered plants.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.27",
+     "points": 1,
+     "question": "Uniformatarianism is part of the intellectual foundation that Darwin used to develop his theory of evolution. What was this idea? A. Natural processes today are the same as they have always been. B. All species evolved from a uniform ancestor. C. All creatures have a uniform genetic code. D. All natural processes change at a uniform rate over time. E. All creatures have uniform rates of mutation.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.28",
+     "points": 1,
+     "question": "All known organisms transcribe genetic information into protein molecules via the same genetic code. This finding strongly supports the hypothesis that: A. there is only one possible way to encode information in a macromolecule. B. the earliest macromolecules probably arose when lightning struck an oxygen-free atmosphere. C. all organisms are descended from a single common ancestor. D. the genetic code will never be broken. E. life arose at many different times in many different ways.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.29",
+     "points": 1,
+     "question": "Sugars are converted to sucrose and transported out of leaf cells. Some of that sucrose is transported into the roots where it moves into root cells. In these cells it is converted to starch by which of the following organelles? A. Peroxisomes B. Lysosomes C. Glyoxysomes D. Mitochondria E. Plastids 9 10",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.30",
+     "points": 1,
+     "question": "You find a small isolated group of flowering plants, all of which have red flowers. When you conduct literature research on the plant you find it can produce either red or white flowers, with red being completely dominant to white. You therefore conclude that the parents of the plants you found could have had which of the possible genotypes for flower color? A. AA , AA B. AA, Aa C. Aa, Aa D. AA, aa E. All of the above are possible.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.31",
+     "points": 1,
+     "question": "Of the following statements that compare and contrast the processes of mitosis and meiosis, which is (are) biologically appropriate? A. Both mitosis and meiosis reduce ploidy by half. B. Daughter cells in mitosis are generally genetically identical to parental cells, whereas daughter cells in meiosis are generally different from parent cells. C. The primary significance of these two processes is that mitosis generally results in daughter cells having the same number of chromosomes as the parent cell, whereas meiosis generally reduces the chromosome number by half as compared to the parent cell. D. Both B and C are appropriate. E. All of the above are appropriate.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.32",
+     "points": 1,
+     "question": "Some C4 plants have decreased photorespiration and efficient photosynthesis and thus: A. increase stomatal openings and thereby increase water loss. B. decrease stomatal openings and thereby reduce water loss. C. increase stomatal openings and thereby increase leaf temperature. D. decrease stomatal openings the thereby reduce leaf temperature. E. increase stomatal openings and thereby increase the rate of transpiration.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.33",
+     "points": 1,
+     "question": "It is thought that in the phloem of certain plants, companion cells provide metabolic energy for the transport of substances into and out of the sieve tube cells. Which of the following statements would best support this assumption? There is (are): A. an abundance of rRNA in the sieve-tube members. B. no plasmodesmata between sieve-tube members and companion cells. C. low rates of respiration in companion cells. D. an abundance of mitochondria in companion cells. E. low rates of translocation at low temperatures. 10 11",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.34",
+     "points": 1,
+     "question": "Which of the following accurately describes the sigmoid growth curve typical of controlled population growth restricted by density-dependent factors? A. dN/dt = rN B. dN/dt = rN (K-N)/K C. dN/dt = Nert D. Nt = Noert E. Nt = rN (K-N)/K",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.35",
+     "points": 1,
+     "question": "Emigration rate of lemmings was 5% when the population was 10/ha. After the population rises to 20 lemmings/ha, the emigration rate most likely will be: A. 0 B. < 1% C. 5% D. 10% E. > 10%",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.36",
+     "points": 1,
+     "question": "For populations that exhibit __________ population growth, maximum harvesting yield is achieved when _________________. A. exponential, population growth rate is highest B. logistic, the population reaches its carrying capacity C. logistic, population growth rate is highest D. logistic, population growth rate is proportional to the population’s size E. exponential, the population reaches its carrying capacity",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.37",
+     "points": 1,
+     "question": "Various adaptations appeared in animals in their migration to land. In the ancestor common to modern reptiles, birds and mammals, which of the following traits appeared for the first time? A. Protostomic development B. Tetrapod limbs C. Amniotic eggs D. Lungs E. True jaws",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.38",
+     "points": 1,
+     "question": "Some populations are characterized by the presence of balanced polymorphism. This condition may be maintained by all of the following EXCEPT: A. Balancing selection B. Natural selection C. Disruptive selection D. Directional selection E. Frequency-dependent selection 11 12",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.39",
+     "points": 1,
+     "question": "Alleles A and a in a population conform to Hardy-Weinberg equilibrium. Recessive individuals for this trait represent 16 of each 100 individuals. What is the most common genotype in this population? A. AA B. Aa C. aa D. A E. a",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.40",
+     "points": 1,
+     "question": "Which of the following plant groups is now extinct? A. Seed ferns B. Lycopods C. Horsetails D. Tree ferns E. Hornworts 12 13 PART B",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.41",
+     "points": 1,
+     "question": "They are located in the testis.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.42",
+     "points": 1,
+     "question": "They react to endocrine signals.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.43",
+     "points": 1,
+     "question": "They react to autocrine signals.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.44",
+     "points": 1,
+     "question": "They contain tight junctions.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.45",
+     "points": 1,
+     "question": "UV light absorbance of DNA samples",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.46",
+     "points": 1,
+     "question": "DNA sequencing of erythrocytes",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.47",
+     "points": 1,
+     "question": "Gel electrophoresis on acrylamide of DNA fragments",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.48",
+     "points": 1,
+     "question": "Direct sequencing of amplified chromosome 17 DNA",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.49",
+     "points": 1,
+     "question": "HIV binds to receptors on human leukocytes.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.50",
+     "points": 1,
+     "question": "The HIV genome encodes for its own reverse transcriptase.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.51",
+     "points": 1,
+     "question": "Death from HIV (and ultimately AIDS) is caused by progressive loss of B-cells.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.52",
+     "points": 1,
+     "question": "The best HIV drug targets are in the viral coat proteins, because they are the least susceptible to mutation. 13 14",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.53",
+     "points": 1,
+     "question": "DNA polymerase can only start adding nucleotides to a molecule containing a 2’ hydroxyl.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.54",
+     "points": 1,
+     "question": "RNA primers allow the DNA polymerase to bind to begin replication.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.55",
+     "points": 1,
+     "question": "The 2’hydroxyl of RNA functions as a signal indicating that this newly synthesized region has not been proofread.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.56",
+     "points": 1,
+     "question": "RNA is synthesized in the 3’ to 5’ direction allowing DNA to be synthesized in the 5’ to 3’ direction.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.57",
+     "points": 1,
+     "question": "Set A would completely amplify the gene",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.58",
+     "points": 1,
+     "question": "Set B would completely amplify the gene",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.59",
+     "points": 1,
+     "question": "Set C would completely amplify the gene",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.60",
+     "points": 1,
+     "question": "The gene responsible for sickle cell anemia.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.61",
+     "points": 1,
+     "question": "The gene responsible for congenital nystagmus.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.62",
+     "points": 1,
+     "question": "The gene responsible for phenylketonuria. 14 15",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.63",
+     "points": 1,
+     "question": "TATATA",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.64",
+     "points": 1,
+     "question": "TAAAAT",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.65",
+     "points": 1,
+     "question": "TTTAAA",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.66",
+     "points": 1,
+     "question": "Polyadenylation",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.67",
+     "points": 1,
+     "question": "Transport to the nucleolus",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.68",
+     "points": 1,
+     "question": "Catalytic function of small nuclear RNA",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.69",
+     "points": 1,
+     "question": "Multiple cloning site",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.70",
+     "points": 1,
+     "question": "Intrinsic ligase",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.71",
+     "points": 1,
+     "question": "An origin of replication",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.72",
+     "points": 1,
+     "question": "early mammals possessed feathers.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.73",
+     "points": 1,
+     "question": "birds and mammals belong to the same class.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.74",
+     "points": 1,
+     "question": "birds and mammals are closely related in an evolutionary sense.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.75",
+     "points": 1,
+     "question": "birds and mammals had a common ancestor with a four-chambered heart.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.76",
+     "points": 1,
+     "question": "all vertebrates have four-chambered hearts. 15 16",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.77",
+     "points": 1,
+     "question": "may transfer nutrients from one plant to another.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.78",
+     "points": 1,
+     "question": "growth depends on nutrients obtained from the plant.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.79",
+     "points": 1,
+     "question": "permit plants to survive in phosphorus-poor soil.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.80",
+     "points": 1,
+     "question": "increase the absorptive surface of plants.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.81",
+     "points": 1,
+     "question": "form nitrogen-fixing nodules on the roots of plants.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.82",
+     "points": 1,
+     "question": "Producer",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.83",
+     "points": 1,
+     "question": "Herbivore",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.84",
+     "points": 1,
+     "question": "Carnivore",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.85",
+     "points": 1,
+     "question": "small organisms.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.86",
+     "points": 1,
+     "question": "K-selected species.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.87",
+     "points": 1,
+     "question": "species which reproduce numerous times in their lives.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.88",
+     "points": 1,
+     "question": "organisms which practice exploitative competition. 16 17",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.89",
+     "points": 1,
+     "question": "the initial number of competitors in each species.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.90",
+     "points": 1,
+     "question": "timing of the arrival of the members of the pair.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.91",
+     "points": 1,
+     "question": "physical environment.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.92",
+     "points": 1,
+     "question": "Calls are made when a predator is spotted.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.93",
+     "points": 1,
+     "question": "Individuals are more likely to call when their offspring are present.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.94",
+     "points": 1,
+     "question": "Males are more likely to call when females are present.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.95",
+     "points": 1,
+     "question": "Calls are made even when the individual is alone.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.96",
+     "points": 1,
+     "question": "Mantle",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.97",
+     "points": 1,
+     "question": "Regulative development",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.98",
+     "points": 1,
+     "question": "Radula",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.99",
+     "points": 1,
+     "question": "Trochophore larva",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    }
+   ],
+   "solution": "A. Cells from harvested fruit need oxygen, because they are alive and still\n      undergoing respiration\n   B. Cells from harvested fruit need oxygen, because they are alive and still\n      undergoing fermentation\n   C. Cells from harvested fruit need atmospheric nitrogen, because they are alive\n      and still synthesizing amino acids\n   D. Cells from harvested fruit need atmospheric nitrogen, because they are alive\n      and still synthesizing nucleic acids\n   E. Cells from harvested fruit need atmospheric nitrogen, because they are alive\n      and still undergoing respiration\n\n                          Cell\n\n2. Which of the following graphs correctly displays the relationship of blood\n   flow velocity in humans as the blood flows from the aorta -> arteries ->\n   arterioles -> capillaries -> venules -> veins -> venae cavae?\n\n   A.\n\n   B.\n\n   C.\n\n   D.\n\nQuestions 3 - 5 refer to the diagram shown below. The diagram illustrates\nfeedback loops. Increased or decreased stimulation is indicated by + or –.\n\n3. Which of the following would lead to a DECREASE in activity of the Anterior\n   Pituitary gland?\n   A. A lack of receptors for Cortisol on the Hypothalamus.\n   B. A lack of receptors for Cortisol on the Anterior Pituitary.\n   C. Intravenous injection of a large amount of ACTH.\n   D. A tumor of the Hypothalamus causing it to secrete excess Corticotropin-\n      Releasing Hormone.\n   E. Increased sensitivity of the Anterior Pituitary to Corticotropin-Releasing\n   Hormone.\n\n4. What would happen if the Adrenal Cortex was artificially stimulated to\n   produce large amounts of Cortisol?\n   A Less Corticotropin-Releasing Hormone would be released.\n   B More ACTH would be released.\n   C The activity of the Hypothalamus would increase.\n   D The activity of the Anterior Pituitary would increase.\n   E The Hypothalamus would become insensitive to Cortisol.\n\n                                        2\n\n5. A biochemical imbalance results in an increase in the amount of Cortisol\n   released by the Adrenal Cortex. This would lead to:\n   A An increase in the amount of Corticotropin-Releasing Factor.\n   B A decrease in the production of ACTH.\n   C An increase in the activity of the Anterior Pituitary.\n   D A loss of receptor activity in the Hypothalamus.\n   E An insensitivity of the receptor for cortisol on the Hypothalamus.\n\n6. Polarity in the developing Drosophila embryo is determined by:\n   A. a protein gradient of the segmentation protein engrailed\n   B. a protein gradient of the bicoid protein expressed from maternal mRNA\n   C. a protein gradient of the gap protein hunchback\n   D. expression of the segmentation protein engrailed throughout the embryo\n   E. expression of the gap protein hunchback throughout the embryo\n\n7. When a four-cell Xenopus embryo is divided into ventral and dorsal halves,\n   the half containing the Nieuwkoop center will develop:\n   A. ventralized features\n   B. as a normal embryo\n   C. without endoderm\n   D. only to the 8-cell stage\n   E. dorsalized features\n\n8. Insulin release results in all of the following physiological effects EXCEPT:\n   A. Up-regulation of glucose transporters in liver cells.\n   B. Increased fat production from glycerol and fatty acids in adipose tissue.\n   C. Inhibition of glycogen phosphorylase.\n   D. Activation of glycogen synthase.\n   E. Decreased glycogen stores in liver cells.\n\n9. All of the following are stimulated by the sympathetic nervous system\n   EXCEPT:\n   A. increased heart rate.\n   B. increase secretion of the sweat glands.\n   C. dilation of the pupil.\n   D. constriction of blood vessels\n   E. increased peristalsis in the gastrointestinal tract.\n\n                                         3\n\n10. Concentration of urine is essential to the survival of many vertebrates.\n    Which class of vertebrates would you expect does not use this mechanism for\n    homeostasis?\n    A. Aves\n    B. Lepidosauria\n    C. Mammalia\n    D. Osteichthyes\n    E. Testudines\n\n11. In the genetic pathway containing genes A, B, and C, gene A negatively\n    regulates gene B, which in turn negatively regulates gene C. If a loss-of-\n    function mutation were introduced into gene B, what would be the resulting\n    effect on the expression of gene C?\n    A. Decreased expression of gene C.\n    B. No effect on expression of gene C.\n    C. Changes in expression levels of gene C would be the same as those for gene A.\n    D. Increased expression of gene C.\n    E. Changes in expression levels of gene C would be the same as those for gene B.\n\n12. In terms of the MN blood group, assume there are 72 people with the\n    genotype MM, 96 people with the genotype MN, and 32 people with the\n    genotype NN. What is the frequency of the M allele?\n    A. 0.12\n    B. 0.32\n    C. 0.60\n    D. 0.72\n    E. 0.80\n\n13. The presence of a vertebral column is with respect to all vertebrates [first\n    term], but with respect to all chordates [second term].\n    A. homologous; analogous\n    B. primitive; derived\n    C. adaptive; maladaptiveDb. derived; primitive\n    D. analogous; homologous\n    E. analogous; derived\n\n                          Animal A & P or Genetics/Evolution???\n\n                                          4\n\n14. Certain amino acids are considered essential in an animal’s diet because they\n    cannot be produced within the organism. Which of the following cellular\n    processes would be most DIRECTLY affected by a dietary deficiency in\n    essential amino acids?\n    A. Cell division\n    B. Cellular respiration\n    C. Translation of mRNA\n    D. Replication of DNA\n    E. Oxygen transport\n\n                         Cell\n\n15. Both insects and vertebrates have hinged jaws. While the jaws serve the same\n    general purpose they evolved from different structures in the two groups.\n    Such a situation is an example of:\n    A. punctuated equilibrium.\n    B. hybrid vigor.\n    C. homology.\n    D. divergent evolution.\n    E. convergent evolution.\n\n16. Which of the following would facilitate seed dispersal by animals?\n    A. A seed producing long feather-like fibers\n    B. A seed producing thin membranous wings\n    C. A large seed having a hollow cavity in the center\n    D. A seed producing many sharp external barbs\n    E. A small, light, dry seed contained within an exploding pod\n\n17. Infection with Giardia can cause degeneration of the intestinal villi. Which\n    of the following is most likely to occur following a serious Giardia infection?\n    A. An inability to produce insulin\n    B. An increase in the rate of carbohydrate digestion\n    C. A reduction in nutrient absorption from the small intestine\n    D. A reduction in bile production and storage\n    E. An increase in blood pressure\n\n                                         5\n\n18. Which of the following cell types would you expect to be abundant in ER and\n    Golgi Bodies?\n\n                           I. Adipose cells\n                           II. Islet of Langerhans cells\n                           III. Plasma B cells\n                           IV. Red blood cells\n   A. I only\n   B. III only\n   C. I and II only\n   D. II and III only\n   E. I, II, III, and IV\n\n                              Cell\n\n19. A person is infected by a bacterial pathogen. Which of the following would be\n    the typical physiological response to that infection?\n    A. B cell activation\n    B. Cytotoxic T cell activation\n    C. A decrease in body temperature\n    D. Rapid mitotic division in cells in contact with the bacterium\n    E. Release of interferon\n\n20. How do polypeptides find their way from the site of synthesis on the\n    cytoplasmic ribosome to the place of their destination in the peroxisome?\n    A. Without signals\n    B. By specific transport along the cytoskeleton\n    C. By specific carboxy-terminal targeting signals\n    D. By specific vesicular transport\n    E. By transport within the ER\n\n                              Cell\n\n21. Which of the following combinations have only primary walls in a mature\n    plant?\n\n    A        Vessels members            Meristematic cells   Parenchyma cells\n    B        Collenchyma cells          Fibers               Sieve tube member\n    C        Sclereids                  Collenchyma cells    Sieve cells\n    D        Meristematic cells         Tracheary elements   Collenchyima cells\n    E        Sieve elements             Meristematic cells   Collenchyma cells\n\n                                              6\n\n22. A day in the sun will expose your skin to UV light. Which is not true about\n    the resulting DNA damage/repair pathway?\n\n         A. UV exposure will cause single bonded cross-linked thymine-thymine\n            dimers which severely distort the phosphate backbone.\n         B. UV exposure will cause double bonded perpendicular thymine-thymine\n            dimers which kink the phosphate backbone.\n         C. Photolyase will repair DNA damage by using energy from UV light to\n            break open thymine dimers.\n         D. During replication of damaged DNA, a single base pair deletion will be\n            found on the newly synthesized DNA strand opposite to the thymine\n            dimer site.\n\n                         Cell\n\n23. Three different genes (B, D, and W) are found on a small region of\n    chromosome 1. Each gene has two alleles. In order to determine the\n    recombination frequency between these three genes, sperm were isolated\n    from a male heterozygous for all three genes. The male had all dominant\n    alleles on his maternal copy of chromosome 1, but only recessive alleles on\n    his paternal copy of chromosome 1. Each sperm was isolated individually\n    and PCR amplified in the BDW region. The amplified products were spotted\n    on a nitrocellulose membrane and radioactive allele specific probes were\n    hybridized with the samples. The resulting audioradiograph is shown below\n    where a dark spot indicates successful hybridization of the probe with the\n    membrane.\n\n      What is the recombination frequency between B and W?\n\n         A. 1/4\n         B. 1/3\n         C. 1/2\n         D. 5/6\n\n                                         7\n\n         E. 1\n\n                            Genetics/Evolution or Cell\n\n24. Which of the following is not an activity of DNA polymerase?\n\n         A. 5’ to 3’ endonuclease\n         B. 3’ to 5’ endonuclease\n         C. 5’ to 3’ exonuclease\n         D. 3’ to 5’ exonuclease\n         E. All are possible activities\n\n                            Cell\n\n25. You order a degenerate probe designed from the following hemoglobin\n    protein sequence:\n\n         Trp –      Gly –       Lys –      Val –   Asn\n         TGG        GGC         AAA        GTC     AAT\n                       T          G           T      C\n                       A                      A\n                       G                      G\n\n      How many different probe sequences would be returned to you? How\n      many would be specific to you gene of interest?\n\n         A. 64 total, 5 specific to gene\n         B. 25 total, 5 specific to gene\n         C. 64 total, 1 specific to gene\n         D. 25 total, 1 specific to gene\n         E. 32 total, 1 specific to gene\n\n                            Cell\n\n26. You are trying to map the location of the human gene YFG. You have\n    narrowed down the location of YFG to a 2 million base pair region. To\n    further pinpoint the location of the gene, you will clone it. Which of the\n    following vectors would be the most useful for your experiment?\n\n         A. A bacterial plasmid\n         B. Bacterial artificial chromosome\n         C. Yeast artificial chromosome\n         D. Phage\n         E. They are all equally useful.\n\n                            Cell\n\n                                             8\n\n27. In a laboratory, stems and roots of different plants were sectioned and slides\n    produced. When putting the slides into a box they became mixed up. Which\n    of the following cross sections corresponds to a primary root of\n    Magnoliopsida?\n\nA    Epidermis    Cortex                 Bicollateral bundles   Pith\n\nB                 Cortex                 Pericycle              4 xylem strands alternate\n     Epidermis\n                                                                with 4 phloem strands\n\nC    Periderm     Secondary Phloem       Cambium                Secondary Xylem\n\nD    Epidermis    Cortex                 Pericycle              20 xylem strands alternate\n\n                                                                with phloem\n\nE    Epidermis    Sclerenchyma           Scattered vascular     Hollow pith\n\n                                         bundles\n\nQuestions 28-29 refer to the following information and figure.\nYou identify a mutant protein of transferrin. You purify both mutant and wild-\ntype transferrin from two separate cloned bacterial cell lines. You run two SDS\nPAGE gels with identical samples and develop one with Coomassie blue. You\nfollow a western blot and development procedure on the other gel using a\nprimary antibody to transferrin conjugated to fluorescent molecule.\n\n28. What is the approximate molecular weight of mutant transferrin?\n\n      A. About 180 KDa\n      B. About 130 KDa\n\n                                           9\n\n      C. About 300 KDa\n      D. About 90 KDa\n      E. Impossible to determine from the information provided.\n\n                          Cell\n\n29. Which of the following reasons most likely explains why the transferrin band\n    in lane 2 is darker than the band in lane 3?\n\n      A. The mutant band in lane 3 is not transferrin.\n      B. The fluorescent compound binds more efficiently to wild-type transferrin\n         than to mutant transferrin.\n      C. Mutant transferrin has a similar, but not identical epitope to the primary\n         antibody.\n      D. You added too much fluorescent antibody in lane 2.\n      E. There is less mutant transferrin than wild-type transferrin in lane 2.\n\n                          Cell\n\n30. Which taxon has the largest number of species within its circumscription?\n\n   A. Liliopsida\n   B. Magnolia\n   C. Magnoliaceae\n   D. Magnoliidae\n   E. Magnoliopsida\n\n                          Plant or Biosystematics\n\n31. A plant population that reproduces annually was found on a remote oceanic\n    island. Two flower-color variants are present, red and blue. Flower color is\n    known to be a monogenic trait. The frequencies of the two flower colors were\n    observed annually over a ten year period. It was noted the proportion of\n    plants with blue flowers steadily declined each year. From these data, it may\n    reasonably be concluded that:\n\n   A. the increased frequency of red-flowered plants was a result of genetic drift.\n   B. migration of red-flowered plants into the population was the most likely cause\n      of the observed change.\n   C. mutation occurred more frequently in red-flowered plants than in blue-flowered\n      plants.\n   D. blue-flowered plants had a lower genetic fitness than the red-flowered plants.\n   E. red-flowered plants were capable of crossing with other red-flowered plants or\n      with blue-flowered plants but blue-flowered plants could only cross with other\n      blue-flowered plants.\nSF2011\n\n                                         10\n\n32. Which of the following characteristics are shared between the Pinophyta and\n    Magnoliophyta?\n\n   A. Archegonia\n   B. Siphonogamy\n   C. Vessels\n   D. Central mother cell type of apical meristem\n   E. Short lived megagametophytes\n\n                         Plant A & P or Biosystematics\n\n33. In the Magnoliophyta the nutritive function for growth of the pollen tube is\n    performed by the:\n\n   A. Body cell\n   B. Endosperm\n   C. Megasporangium\n   D. Megagametophyte\n   E. Style\n\n34. Uniformatarianism is part of the intellectual foundation that Darwin used to\n    develop his theory of evolution. What was this idea?\n\n   A. That natural processes today are the same as they have always been\n   B. That all species evolved from a uniform ancestor.\n   C. That all creatures have a uniform genetic code.\n   D. That natural processes change at a uniform rate over time.\n   E. That all creatures have uniform rates of mutation.\n\n35. All known organisms transcribe genetic information to protein molecules via\n    the same genetic code. This finding strongly supports the hypothesis that:\n\n   A. there is only one possible way to encode information in a macromolecule.\n   B. the earliest macromolecules probably arose when lightning struck an oxygen-\n      free atmosphere.\n   C. all organisms are descended from a single common ancestor.\n   D. the genetic code will never be broken.\n   E. Life arose at many different times in many different ways.\n\n36. You find a small isolated group of flowering plants, all of which have red\n    flowers. When you conduct literature research on the plant you find it can\n\n                                         11\n\n   produce either red or white flowers, with red being completely dominant to\n   white. You therefore conclude that the parents of the plants you found could\n   have had which of the possible genotypes for flower color?\n\n   A. AA , AA\n   B. AA, Aa\n   C. Aa, Aa\n   D. AA, aa\n   E. All of the above are possible.\n\n37. Of the following statements that compare and contrast the processes of\n    mitosis and meiosis, which are biologically appropriate?\n\n   A. Both mitosis and meiosis reduce ploidy by half.\n   B. Daughter cells in mitosis are generally genetically identical to parental cells,\n      whereas daughter cells in meiosis are generally different from parent cells.\n   C. The primary significance of these two processes is that mitosis generally results\n      in daughter cells having the same number of chromosomes as the parents,\n      whereas meiosis generally reduces the chromosome number by half as\n      compared to the parent cells.???\n   D. Both B and C are appropriate.\n   E. All of the above are appropriate.\n\n                           Cell\n\n38. Sugars are converted to sucrose and transported out of leaf cells. Some of\n    that sucrose is transported into the roots where it moves into root cells.\n    There it is converted to starch by which of the following organelles?\n\n   A. Peroxisomes\n   B. Lysosomes\n   C. Glyoxisomes\n   D. Mitochodria\n   E. Plastids\n\n39. Some C4 plants have decreased photorespiration and efficient photosynthesis\n    and thus:\n\n   A. increase stomatal openings and thereby increase water loss.\n   B. decrease stomatal openings and thereby reduce water loss.\n   C. increase stomatal openings and thereby increase leaf temperature.\n   D. decrease stomatal openings the thereby reduce leaf temperature.\n   E. increase stomatal openings and thereby increase the rate of transpiration.\n\n                                          12\n\n40. It is thought that in the phloem of certain plants, companion cells provide\n    metabolic energy for the transport of substances into and out of the sieve\n    tube cells. Which of the following statements would best support this\n    assumption? There is(are):\n\n   A. an abundance of rRNA in the sieve-tube members.\n   B. no plasmodesmata between sieve-tube members and companion cells.\n   C. low rates of respiration in companion cells.\n   D. an abundance of mitochondria in companion cells.\n   E. low rates of translocation at low temperatures.\n\n41. Which of the following accurately describes the sigmoid growth curve typical\n    of controlled population growth restricted by density-dependent factors?\n\n   A. dN/dt = rN\n   B. dN/dt = rN (K-N)/K\n   C. dN/dt = Nert\n   D. Nt = Noert\n   E. Nt = rN (K-N)/K\n\n                           Ecology\n\n42. In extremely dense populations (i.e., those exceeding carrying capacity):\n\n   A. emigration must occur.\n   B. decrease in reproduction must eventually occur.\n   C. increased death rates must eventually occur.\n   D. increased predation must occur.\n   E. “natural disasters” may become more frequent and more severe.\n\n                           Ecology\n\n43. Emigration rate of lemmings was 5% when the population was 10/ha. After\n    the population rises to 20 lemmings/ha, emigration rate most likely will be:\n\n   A. 0\n   B. < 1%\n   C. 5%\n   D. 10%\n   E. > 10%\n\n                           Ecology\n\n                                         13\n\n44. For populations that exhibit __________ population growth, maximum\n    harvesting yield is achieved when _________________.\n\n   A. exponential, population growth rate is highest\n   B. logistic, the population reaches its carrying capacity\n   C. logistic, population growth rate is highest\n   D. logistic, population growth rate is proportional to the population’s size\n   E. exponential, the population reaches its carrying capacity.\n\n                          Ecology\n\n45. Various adaptations appeared in animals in their migration to land. In the\n    ancestor common to modern reptiles, birds and mammals, which of the\n    following traits appeared for the first time?\n\n   A. Protostomic development.\n   B. Tetrapod limbs\n   C. Amniotic eggs\n   D. Lungs\n   E. True jaws\n\n                          Biosystematics\n\n46. Some populations are characterized by the presence of balanced\n    polymorphism. This condition may be maintained by all of the following\n    EXCEPT:\n\n   A. Balancing selection\n   B. Natural selection\n   C. Disruptive selection\n   D. Directional selection\n   E. Frequency-dependent selection\n\n47. Alleles A and a in a population conform to Hardy-Weinberg equilibrium.\n    Recessive individuals for this trait represent 16 of each 100 individuals.\n    What is the most common genotype in this population?\n\n   A. AA\n   B. Aa\n   C. aa\n   D. A\n   E. A\n\n                                           14\n\n48. Which of the following plant groups is now extinct?\n\n   A. Seed ferns\n   B. Lycopods\n   C. Horsetails\n   D. Tree ferns\n   E. Hornworts\n\n                         Biosystematics\n\n                                       PART B\n\nFOR QUESTIONS 41-116, USING THE INFORMATION PROVIDED AND\nYOUR OWN KNOWLEDGE OF BIOLOGY, DETERMINE WHETHER THE\nSTATEMENTS ARE ACCEPTABLE (A) OR UNACCEPTABLE (B). EACH\nQUESTION WILL HAVE A VALUE OF ONE-HALF POINT.\n\nOf the following statements (41-44) concerning Sertoli cells, indicate if the\nstatement is acceptable (A) or unacceptable (B).\n\n41. They are located in the testis.                                             A\n\n42. They react to endocrine signals.                                            A\n\n43. They react to autocrine signals.                                            A\n\n44. They contain tight junctions.                                               A\n\n(Questions 45-48) The Aba family has a history of a recessive hereditary disease\nknown to be caused by a large deletion on chromosome 17. Janet Aba is a\ncarrier of the disease. She marries Joey Kea and they want to determine\nwhether or not Joey is a carrier before starting a family. Which of the following\nare acceptable screening methods the diagnostic center could employ to\ndetermine Joey’s genotype at this position (A) and which would not be an\nacceptable screening method (B)?\n\n45. UV light absorbance of DNA samples                                          B\n\n46. DNA sequencing of erythrocytes                                              B\n\n47. Gel electrophoresis on acrylamide of DNA fragments                          A\n\n48. Direct sequencing of amplified chromosome 17 DNA                            A\n\n(Questions 49-52) Determine whether or not each of the following is an\nacceptable statement concerning HIV. Acceptable (A) or Unacceptable (B)\n\n                                         15\n\n49. HIV binds to receptors on human leukocytes.                            A\n\n50. The HIV genome encodes for its own reverse transcriptase.              A\n\n51. Death from HIV (and ultimately AIDS) is caused by progressive loss of B-cells.\n                                                                            B\n52. The best HIV drug targets are in the viral coat proteins, because they are the\n    least susceptible to mutation.                                          B\n\n(Questions 53-56) Of the following statements which would be acceptable (A) for\nwhy primase incorporates RNA primers onto the replicating DNA? Mark all\nunacceptable statements as B.\n\n53. DNA polymerase can only start adding nucleotides to a molecule containing a\n    2’ hydroxyl.                                                         A\n\n54. RNA primers allow the DNA polymerase to bind to begin replication.     A\n\n55. The 2’hydroxyl of RNA functions as a signal indicating that this newly\n    synthesized region has not been proofread.                             A\n\n56. RNA is synthesized in the 3’ to 5’ direction allowing DNA to be synthesized\n    in the 5’ to 3’ direction.                                             B\n\n(Questions 57-59) The following diagrams indicate a piece of DNA (the circular\nregion), a gene (the boxed region), and a primer set (the arrows). Which of the\nfollowing represents a PCR primer set that would completely amplify the gene?\n\n57. Set A would completely amplify the gene                                A\n\n58. Set B would completely amplify the gene                                B\n\n59. Set C would completely amplify the gene                                A\n\n(Questions 60–62) Cloning by hybridization often involves finding a gene\nimplicated in a human disease by complementing the human gene with a\n\n                                        16\n\nhomologous yeast gene. With that in mind, which classes of genes may be\ncloned in the hybridization method? Acceptable (A) or Unacceptable (B)\n\n60. The gene responsible for sickle cell anemia.                           B\n\n61. The gene responsible for congenital nystagmus.                         B\n\n62. The gene responsible for phenylketonuria.                              A\n\n(Questions 63– 65) Which of the following sequences would be recognized by a\nrestriction enzyme? Acceptable (A) or Unacceptable (B)\n\n63. TATATA                                                                 A\n\n64. TAAAAT                                                                 B\n\n65. TTTAAA                                                                 A\n\n(Questions 66– 68) Which of the following is(are) part of RNA processing and\nsynthesis? Acceptable (A) or Unacceptable (B)\n\n66. Polyadenylation                                                        A\n\n67. Transport to the nucleolus                                             A\n\n68. Catalytic function of small nuclear RNA                                A\n\n(Questions 69–71) Which of the following is(are) necessary component(s) of an\neffective cloning vector? Acceptable (A) or Unacceptable (B)\n\n69. Multiple cloning site                                                  A\n\n70. Intrinsic ligase                                                       B\n\n71. An origin of replication                                               A\n\n(Questions 72–76) You perform a dissection of a pig and a chicken and discover\nthat both have four-chambered hearts. You logically and correctly assume that:\n\n72. early mammals possessed feathers.                                      B\n\n73. birds and mammals belong to the same class.                            B\n\n                                        17\n\n74. birds and mammals are closely related in an evolutionary sense.         B\n\n75. birds and mammals had a common ancestor with a four-chambered heart. B\n\n76. all vertebrates have four-chambered hearts.                             B\n\n(Questions 77-81) Mycorrhizae: Acceptable (A) or Unacceptable (B)\n\n77. may transfer nutrients from one plant to another.                       A\n\n78. growth depends on nutrients obtained from the plant.                    A\n\n79. permit plants to survive in phosphorus-poor soil.                       A\n\n80. increase the absorptive surface of plants.                              A\n\n81. form nitrogen-fixing nodules on the roots of plants.                     B\n(Questions 82-84) Certain Ecologists state that evidence supports the following\ngeneralizations: 1) producers are limited by competition for resources, 2)\nprimary consumers (herbivores) are limited by predation, and 3) secondary\nconsumers (carnivores) are limited by food. If these concepts of limiting factors\nare accepted, then you would expect to find evidence for competitive exclusion\nin which of the following trophic levels? Acceptable (A) or Unacceptable (B)\n\n82. Producer                                                                A\n\n83. Herbivore                                                               B\n\n84. Carnivore                                                               A\n\n(Questions 85–88) Rapidly changing habitats generally are favorable to:\n\n85. small organisms.                                                        A\n\n86. K-selected species.                                                     B\n\n87. species which reproduce numerous times in their lives.                  B\n\n88. organisms which practice exploitative competition.                      B\n\n(Questions 89–91) Important controls on the ultimate outcome of competition\nbetween species pairs that have recently come together include: Acceptable (A)\nor Unacceptable (B)\n\n89. the initial number of competitors in each species.                      A\n\n90. timing of the arrival of the members of the pair.                        A\n\n91. physical environment.                                                   A\n\n                                        18\n\n (Questions 92–95) Which of the following provide evidence for the\n“intentionality” of primate alarm calls? Acceptable (A) or Unacceptable (B)\n\n92. Calls are made when a predator is spotted                                 A\n\n93. Individuals are more likely to call when their offspring are present      A\n\n94. Males are more likely to call when females are present                    A\n\n95. Calls are made even when the individual is alone                          B\n\n(Questions 96–99) Which one of the following is(are) a characteristic(s) typical of\nmollusks? Acceptable (A) or Unacceptable (B)\n\n96. Mantle                                                                    A\n\n97. Regulative development                                                    B\n\n98. Radula                                                                    A\n\n99. Trochophore larva                                                         A\n\n(Questions 100–108) In plant systematics, three lines of evidence may be useful\nin determining relationships; xylotomical (wood anatomy), embryological and\npalynological. Match these three with the level for which they are most useful.\n\nXylotomical:\n\n100. Order                                                                    B\n\n101. Family                                                                   B\n\n102. Genus                                                                    A\n\nEmbryological:\n\n103. Order                                                                    A\n\n104. Family                                                                   A\n\n105. Genus                                                                    B\n\n                                        19\n\nPalynological:\n\n106. Order                                                                 B\n\n107. Family                                                                B\n\n108. Genus                                                                 A\n\n(Questions 109–113) The following pedigree is representative of a family with a\nhistory of Mickey Mouse syndrome, a disease causing the affected individual to\nspeak with a high squeaky voice. Based on the pedigree shown, which of the\nfollowing are possible modes of inheritance assuming complete penetrance?\n\n109. Autosomal dominant                                                    B\n\n110. Autosomal recessive                                                   A\n\n111. X-linked dominant                                                     B\n\n112. X-linked recessive                                                    A\n\n113. Mitochondrial inheritance                                             B\n\n(Questions 114-116) Ammonia is produced in freshwater fish during metabolic\nprocesses. Indicate for each of the following statements which is(are) acceptable\n(A) and which is(are) unacceptable (B) explanations for why elevated ammonia\nlevels are dangerous to the organism.\n\n114. Ammonia can substitute for a potassium ion in ion-exchange mechanisms.\n                                                                       A\n115. Ammonia can adversely affect amino acid transport.                A\n\n116. Ammonia can cause a decrease in body pH which can adversely affect the\n     tertiary structure of proteins.                             B\n\n                                        20\n\nFOR QUESTIONS 117-121 MARK ALL CHOICES THAT APPLY. EACH QUESTION\nHAS A POINT VALUE OF 1, BUT ALL APPROPRIATE CHOICES MUST BE\nINDICATED TO RECEIVE CREDIT.\n\nFor Questions 117-119, match the structures indicated on the diagram below\nwith their appropriate description amongst the statements that follow. Answers\nmay be used once, more than once, or not at all.\n\n117. Muscular contractions inside this (these) organ(s) assist in childbirth. E, D\n\n118. Structures inside this (these) organ(s) produce estrogen in response to\n     release of LH and FSH from the pituitary gland.\n      B\n\n                                        21\n\n119. Human embryonic development occurs in which organ(s).                 A, C, E\n\n120. Consider an autosomal recessive disease with an incidence of 1/10,000 in\n     the general population (assume you live in a city of 100,000 people). Your\n     best friend comes to you very upset, because he has just taken a screening\n     test for this disease and gotten a positive result. He is convinced he is a\n     carrier, despite having no family history of the disease. You try to reassure\n     him, but he says, \"Don't bother. The Clinic said this test has 98%\n     sensitivity and 90% specificity. With that level of sensitivity, it must be\n     correct!\" What is the chance your friend is NOT a carrier?\n\n           A. 2%\n           B. 10%\n           C. 20%\n           D. 49%\n           E. 83%\n\n121. Which of the following structures or group of cells found in earthworms has\n     similar functions to the liver of vertebrates?\n\n           A. Typhlosolis\n           B. Coelomocytes\n           C. Chloragog (chloragogue, chlorogogen)\n           D. Cells that line the inner surface of the small intestine\n           E. Calcium gland cells\n\n1. During the isolation of DNA, SDS was used to dissolve the phospholipid\n   membrane of the bacterial cells. List two other functions of SDS in\n   molecular biology.\n\n     a. _________________________ SDS inhibits the enzyme DNAse,\n\n     b. _________________________ SDS denatures protein, or coats proteins with negative\n        charge is acceptable, too\n\n2.    You are studying the TRA gene in humans. The TRA gene is thought to be\n      responsible for the migration behavior observed chimps. After many weeks\n      of cloning and finally isolating TRA to specifically only its coding sequence,\n      you decide to put the coding sequence into a plasmid known as pUC.16.\n      This pUC.16 plasmid is known to express high levels of recombinant protein\n      and has an AmpR gene for ease of selection. The plasmid is shown below.\n\n      The version of TRA you now have is flanked on both ends by BamHI and\n      AluI cut sites and a diagram of it is given below. Assume there are no other\n      relevant cut sites in this gene.\n\n                                            22\n\n                                                  PvuII: 5’- CAG*CTG-3’\n                                                 HindIII: 5’- A*ACGTT-3’\n                                                 BamHI: 5’-G*GATCC-3’\n                                                  EcoRI: 5’-G*AATTC-3’\n                                                    AluI: 5’-AG*CT-3’\n\n   a. Describe the procedure you would use to create a unique plasmid that\n      has TRA under the control of the T7 promoter. NOTE: The plasmid\n      must be functional in the capacity of a cloning vector and this\n      procedure may require multiple steps.\n\n     You can cut both the TRA insert and the plasmid with AluI there is an AluI\n     site within PvuII) and then ligate the two together.\n\n     OR\n\n     You can cut the TRA insert with BamHI and then use a exonuclease to cleave\n     the single stranded tail. The plasmid could be cut with PvuII and the two\n     blunt end could be ligated together.\n\n     OR\n\n     You can cut the TRA insert with AluI and then add a poly A/T tail to the two\n     ends. The plasmid could be cut with PvuII, extended with a polyA/T tail and\n     the resulting products could be ligated together.\n\nYou successfully clone TRA and place it under the control of an inducible\npromoter on a plasmid that you transform into bacterial cells. You add a\ncompound that induces expression of cloned TRA and then decide to detect\nexpression levels of induced TRA.\n\n   b. Of the following methods circle those that you could use to quantify\n      mRNA expression levels of TRA. (Circle all that apply.)\n\n      1. RT-PCR\n\n                                     23\n\n         2. Microarray analysis\n         3. RNAi\n         4. Shot gun sequencing\n         5. Western blot analysis\n\n      c. After you add your inducer, you realize that you want to restore basal\n         level expression of TRA in your cells. Which of the following methods\n         would reduce or eliminate TRA expression? (Circle all that apply.)\n\n         a. Adding TRA-specific antibodies to your cells.\n         b. Adding TRA-specific siRNA to your cells.\n         c. Adding TRA-specific repressor protein.\n         d. Removing the TRA protein\n         e. Removing the inducer\n\n3. Some mammals have the capability to digest cellulose.\n\n      a. Compare and contrast the fore-gut and hind-gut approaches to cellulose\n         digestion employed by these mammals. Include an example of which\n         mammals use each approach.\n\n            Foregut –kangaroos and wallabies; eutherian ruminants, camelids,\n            peccaries, hippos, and colobine monkeys (two groups similar but\n            different in their digestion) – in general;\n            1) fermentation occurs in enlarged cardiac region of stomach, thus\n            microbial cells can be utilized in digestion in small intestine,2) less\n            dependent on the quality of protein in food, 3) toxins more easily\n            degraded, 4) highly lignified cell walls les of a problem, 5) some practice\n            rumination – stomach divided into four main parts, 6) 2 enzymes,\n            lysozyme and pancreatic ribonuclease\n\n            Hindgut – wombats and koalas: horses, zebras, elephants,\n            manatess, guinea pigs, rats, porcupines, beavers, rabbits, iguana,\n            red howler monkey – in general; 1) fermentation occurs\n            enlarged caecum or in colon, thus bacteria are lost in feces. To obtain\n            nutrients lost in feces many hindgut fermenters practice coprophagy,\n            that is they eat feces, 2) more efficient in digesting high quality foods, 3)\n            more efficient utilization of easily accessible cell contents as plants\n            degraded first enzymatically in small intestine and products directly\n            absorbed, 4) better able to digest food containing phenols and terpenes,\n            both toxic to foregut fermenters\n\n      b. Can humans digest cellulose? (Yes or No) Why or why not?\n\n                                           24\n\n                Their do not produce cellulase nor do they have cellulose-digesting organisms\n                associated with their digestive tract.\n\n4. There are a variety of glands in mammals. Provide a general system for\n   classifying these glands and discuss the general characteristics of each group.\n\n                          Can be classified according to four general schemes: 1) the nature\n                          of the product 2) the structure, 3) the manner by which the\n                          secretion is delivered to the site of action, 4) the manner of cell\n                          activity in forming the secretion. Most common: exocrine,\n                          endocrine, cytocrine, mixed or cytogenous, acellular or merocrine,\n                          holocrine, apocrine or mucous, serous\n\nExocrine–the secretion is passed directly or by ducts to the exterior surface (sweat glands) or to\nanother surface which is continuous with the external surface (intestinal glands, liver, pancreas,\nsubmaxillary gland)\n\nEndocrine–the secretion is passed into adjacent tissue or area and then into the bloodstream\ndirectly or by way of the lymphatics; these organs are usually circumscribed, highly\nvascularized, and usually have no connection to an external surface (adrenal, thyroid,\nparathyroid, islets of Langerhans, parts of the ovary and testis, anterior lobe of the hypophysis,\nintermediate lobe of the hypophysis, groups of nerve cells of the hypothalamus, and the neural\nportion of the hypophysis)\n\nParacrine - secrete products which influence the secretion of another product by a local gland or\ncell.\n\nAutocrine - secrete products which influence the secretion of another product by the same cell.\n\nMixed exocrine and endocrine glands (liver, testis, pancreas)\n\nCytocrine–passage of a secretion from one cell directly to another (melanin granules from\nmelanocytes in the connective tissue of the skin to epithelial cells of the skin)\n----------------------------------------------------------------------------------------------------------\nCytogenous (testis, perhaps spleen, lymph node, and bone marrow)–gland “secretes” cells\n\nAcellular (intestinal glands, pancreas, parotid gland)–gland secretes noncellular product\n------------------------------------------------------------------------------------------------------------\nMerocrine (sweat glands, choroid plexus)–no loss of cytoplasm. secretions of that cell dump\ndirectly into the lumen\n\nHolocrine (sebaceous glands)–gland cells undergo dissolution and are entirely extruded,\ntogether with the secretory product\n\nApocrine (mammary gland, axillary sweat gland)–only part of the cytoplasm is extruded with\nthe secretory product.\n\n                                                       25\n\n-----------------------------------------------------------------------------------------------------------\nMucous goblet cells (submaxillary glands, urethral glands)–the secretion contains mucin\n\nSerous (parotid gland, pancreas)–the secretion does not contain mucin\n\n5. Seeds in flowering plants are dispersed in four different ways.\n\n        a. Name and briefly discuss each method of seed dispersal.\n\n                          Wind, animals (carried on body or in body) , water, discharge\n                          (explosive) Discussion simplistic as terms more or less self-\n                          explanatory\n\n        b. What is the evolutionary significance of seeds?\n\n                          Maternal effect – cues from maternal plants\n                          Decreased dependence on water\n                          Protection of embryo\n                          Nourishment of embryo\n                          Dispersion\n\n        c. What is the evolutionary significance of the seed dispersal mechanisms?\n\n                          Increased possibility of cross-pollination\n                          Increased probability of survival in areas of limited resources\n                          Extended range\n                          In case of animal dispersal via ingestion, provided nutrients for\n                          developing seedlings\n\n        d. Compare and contrast spores and seeds.\n\n                          Spores gametophytic, seed contain both gametophytic and\n                          sporophytic tissues\n                          Spores produce mature gametophyte, seeds produce new\n                          sporophyte\n                          Spores produced by meiosis, seeds generally the consequence of\n                          fertilization\n                          Spores contain little or no nutritive tissue, seeds contain nutritive\n                          tissue\n\n        e. Compare the dispersal mechanisms of spores and seeds.\n\n                          Technically seed plants do not disperse their spores; rather the\n                          spores are produced within the sporophytic plant where they\n                          develop into a gametophyte or pollen grain which is dispersed.\n                          In the non-seed bearing plants, spores are dispersed in many of\n                          the same ways that seeds are; wind, water, active discharge\n\n                                                        26\n\n                   (compression, slingshot, development of specialized dispersal\n                   structures, and so on) and animals, particularly insects\n\n6. The British ecologist H. B. D. Kettlewell conducted famous experiments\n   between 1952 and 1972 on the Peppered Moth.\n\n      a. What was the original purpose of his research?\n\n                   He was given a grant to study industrial melanism\n\n      b. What was the experimental protocol that he followed?\n\n             1) He released dark and light colored moths into an aviary to observe the\n                reaction of insectivorous birds. Noted that where the moth could be\n                camouflaged against a background they were less likely to be eaten.\n             2) He used a release recapture approach with marked moths in polluted\n                woodlands in Birmingham, England and in unpolluted rural woods at\n                Deanend Wood, Dorset, England. He released the moths directly on\n                the tree trunks (he did not pin dead moths to the tree trunks as\n                sometimes reported – that was done to make photographs; other\n                biologists doing similar experiments did use dead moths)\n\n      c. What were the results that he found?\n\n                   He recaptured 27.5 % of the melanics, but only 13.0 % of the wild-\n                   type moths in the polluted area of Birmingham. He found\n                   essentially the opposite results in Deanend Wood\n\n      d. What were the interpretations and conclusions formed based on those\n         results?\n\n                   “Birds act as selective agents, as postulated by evolutionary\n                   theory” and that industrial melanism was “the most striking\n                   evolutionary change ever actually witnessed in any organism.”\n\n      e.   What is the modern-day interpretation of those results?\n\n                   Peppered moths do not generally rest on tree trunks but remain\n                   hidden within the foliage, often on the underside of branches.\n                   The presence or absence of lichens seem to have little or no\n                   influence on the proportion of melanic to typical forms.\n                   In areas with little industrial pollution, melanics were found to\n                   reach a frequency of 80%.\n\n                                         27\n\n                    In industrial areas where typicals had decreased dramatically, a\n                    decrease in industrial pollution and the return of lichen growth on\n                    trees did not cause the typical population to increase.\n                    Therefore, decline of typical peppered moths cannot be related to\n                    the loss of lichens on tree trunks and the deposition of soot as a\n                    consequence of industrial pollution. Other factors most be\n                    involved.\n\n7. A woman who is a heterozygous carrier of an X-linked recessive disease gene\n   mates with a phenotypically normal male. The disease gene has a\n   penetrance of 70%. On average, what proportion of this couple's sons will\n   be affected with the disorder?\n\n      0.35\n\n8. In humans, hereditary diseases are often present with no previous family\n   history of the disorder. Briefly describe three genetic situations in which\n   you would be most likely to observe a genetic disorder for which there is no\n   previous family history of the disease phenotype.\n\n      Autosomal recessive diseases usually have no previous history (consanguinity may be\n      present, but usually is not for relatively common autosomal recessive disorders).\n       New mutation transmitted by one of the parents\n      Germline mosaicism in one of the parents.\n      Most chromosome abnormalities (aneuploidies, translocations, deletions, duplications)\n      have no previous family history.\n      Reduced penetrance can produce no previous history, although the penetrance would\n      have to be very low.\n      Anticipation is a possibility, although all diseases in which anticipation has been\n      observed are dominant and thus they usually do have a previous family history\n\n                                             28\n\n9. In a population an X-linked dominant disorder affects 1/100 males in the\n   population. What proportion of females would be affected with the X-linked\n   dominant disorder?\n\n      q^2 + 2pq = ~2q = 0.02 = 1/50 = 0.02\n\n10. An investigator is studying the relationship between urine osmolarity in\n    mice following consumption of 2% saline water in relation to normal tap\n    water. She discovers that there is increased osmolarity of the urine and\n    increased excretion of chloride after consumption of 2% saline water. This\n    gives rise to a second question: how are the mice able to excrete the excess\n    salt consumed while maintaining water balance? She assumes that there is\n    ADH release during urine consumption. What evidence would be required to\n    support the assumption of increased ADH release during periods of increased\n    salt consumption?\n\n      Increased urine osmolarity\n      Increased solute concentration in the urine\n      Decreased urine volume\n      Urea concentration of urine less during saline consumption than during water consumption\n\n                                POSSIBLE POINT VALUES\n\n1a    = 1.5\n1b    = 1.5\n2a    = 3.0\n2b    = 2.0\n2c    = 2.0\n3a    = 3.0\n3b    = 2.5\n4     = 3.0\n5a    = 1.5\n\n                                                29\n\n5b    = 1.5\n5c    = 1.5\n5d    = 1.5\n5e    = 1.5\n6 a   = 1.5\n6b    = 1.5\n6c    = 1.5\n6d    = 1.5\n6e    = 1.5\n7     = 1.5\n8     = 2.0\n9     = 2.0\n10    = 2.0\n\n              30"
+  }
+ ]
+}

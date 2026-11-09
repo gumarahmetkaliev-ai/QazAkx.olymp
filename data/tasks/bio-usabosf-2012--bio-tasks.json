@@ -1,0 +1,4207 @@
+{
+ "setId": "bio-usabosf-2012--bio-tasks",
+ "olympiadId": "bio-usabosf-2012",
+ "title": "Биология → USABO — Semifinal → 2012",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/usabosf/2012/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/usabosf/2012/bio-sol.pdf",
+ "generatedBy": "test-parser",
+ "type": "test",
+ "generatedAt": "2026-11-09T13:44:59.078Z",
+ "quality": {
+  "tasks": 12,
+  "parts": 120,
+  "withPoints": 120,
+  "withReference": 120,
+  "withQuestion": 120,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Тест: вопросы 1–10",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q1",
+     "kind": "choice",
+     "points": 1,
+     "question": "1. Which of the following amino acids has an R-group that can “shuttle” hydrogen ions?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Alanine"
+      },
+      {
+       "key": "B",
+       "text": "Leucine"
+      },
+      {
+       "key": "C",
+       "text": "Valine"
+      },
+      {
+       "key": "D",
+       "text": "Histidine"
+      },
+      {
+       "key": "E",
+       "text": "Isoleucine"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q2",
+     "kind": "choice",
+     "points": 1,
+     "question": "2. Adrian’s blood pH has been normal, but changed to 7.25. As a result, Adrian will:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Breathe more slowly and the serum carbonic acid concentration will rise"
+      },
+      {
+       "key": "B",
+       "text": "Breathe more slowly and the pH will rise"
+      },
+      {
+       "key": "C",
+       "text": "Breathe more slowly and the serum bicarbonate concentration will rise"
+      },
+      {
+       "key": "D",
+       "text": "Breathe more quickly and the serum bicarbonate concentration will rise"
+      },
+      {
+       "key": "E",
+       "text": "Breathe more quickly and the serum carbonic acid concentration will drop"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q3",
+     "kind": "choice",
+     "points": 1,
+     "question": "3. You attempt to isolate two different subunits from a protein by running a denaturing protein gel electrophoresis. To your dismay, you only find one band on the gel that corresponds roughly to the total size of the protein. What did you most likely forget to add?",
+     "options": [
+      {
+       "key": "A",
+       "text": "an oxidizing agent"
+      },
+      {
+       "key": "B",
+       "text": "a reducing agent"
+      },
+      {
+       "key": "C",
+       "text": "loading dye"
+      },
+      {
+       "key": "D",
+       "text": "polyacrylamide"
+      },
+      {
+       "key": "E",
+       "text": "SDS, a detergent 1"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-gene-regulation",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q4",
+     "kind": "choice",
+     "points": 1,
+     "question": "4. Ciprofloxacin is an antibiotic frequently prescribed for traveler’s diarrhea and urinary tract E. coli infections. It acts by binding to and interfering with bacterial topoisomerases. Which of the following is the most accurate explanation of ciprofloxacin’s mechanism of action?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Ciprofloxacin prevents the unwinding of double-stranded DNA and thus both DNA transcription and replication."
+      },
+      {
+       "key": "B",
+       "text": "Ciprofloxacin prevents the relief of supercoiling caused by unwinding of double- stranded DNA and thus DNA replication."
+      },
+      {
+       "key": "C",
+       "text": "Ciprofloxacin prevents the conversion of RNA primers to DNA and thus accurate DNA replication."
+      },
+      {
+       "key": "D",
+       "text": "Ciprofloxacin prevents replication of the lagging strand."
+      },
+      {
+       "key": "E",
+       "text": "Ciprofloxacin prevents the binding of DNA polymerases to DNA and thus both DNA transcription and replication."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q5",
+     "kind": "choice",
+     "points": 1,
+     "question": "5. Due to the widespread use of ciprofloxacin, many bacterial populations are now resistant to ciprofloxacin. You are studying a ciprofloxacin-resistant clinical isolate of E. coli. You have a hunch that this population does not harbor any plasmids. Given this information, which of the following best explains your isolate’s resistance mechanism?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Your resistant bacteria pump ciprofloxacin out of the cell and thus minimize its effect."
+      },
+      {
+       "key": "B",
+       "text": "Your resistant bacteria produce an enzyme that modifies the binding site of ciprofloxacin."
+      },
+      {
+       "key": "C",
+       "text": "Your resistant bacteria have mutant topoisomerases that have less affinity for ciprofloxacin."
+      },
+      {
+       "key": "D",
+       "text": "Your resistant bacteria produce a chemical compound that reacts with ciprofloxacin and reduces its affinity for topoisomerases."
+      },
+      {
+       "key": "E",
+       "text": "Your resistant bacteria do not require the activity of topoisomerases."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-gene-regulation",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q6",
+     "kind": "choice",
+     "points": 1,
+     "question": "6. In classical Michaelis-Menten enzyme kinetics, the two constants Vmax and Km determine the activity of an enzyme that acts on one substrate. You are studying the effects of various chemicals on these constants for your favorite enzyme, and find one molecule that increases its Km but leaves Vmax constant. Your molecule is most likely to be:",
+     "options": [
+      {
+       "key": "A",
+       "text": "a substrate analog"
+      },
+      {
+       "key": "B",
+       "text": "the enzyme’s substrate"
+      },
+      {
+       "key": "C",
+       "text": "a coenzyme that increases catalytic efficiency"
+      },
+      {
+       "key": "D",
+       "text": "an allosteric inhibitor that decreases the enzyme’s affinity for the substrate"
+      },
+      {
+       "key": "E",
+       "text": "an allosteric enhancer that increases the enzyme’s affinity for the substrate 2"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q7",
+     "kind": "choice",
+     "points": 1,
+     "question": "7. Eukaryotic transcription seems to be a wasteful process because so many proteins need to assemble on a large array of DNA sequences to initiate transcription. What might be the evolutionary advantage that allows such a complex process to be maintained throughout all eukaryotic organisms?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Since eukaryotes are larger than prokaryotes, you need a larger transcription process for initiation."
+      },
+      {
+       "key": "B",
+       "text": "There are more genes that need to be transcribed in a eukaryote than in a prokaryote."
+      },
+      {
+       "key": "C",
+       "text": "The use of large number of proteins and regulatory sequences in DNA is essential for alternative splicing in eukaryotes."
+      },
+      {
+       "key": "D",
+       "text": "The use of large numbers of proteins and regulatory sequences in DNA opens many possibilities for sophisticated gene regulation by eukaryotes."
+      },
+      {
+       "key": "E",
+       "text": "Since transcription happens in the cytoplasm, you need so many proteins to prevent it from being broken up."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q8",
+     "kind": "choice",
+     "points": 1,
+     "question": "8. All amino acids except lysine and leucine can be broken down into precursors for gluconeogenesis. What are the products produced by the breakdown of lysine and leucine that prevent them from functioning in that pathway?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Oxaloacetate and acetyl-CoA"
+      },
+      {
+       "key": "B",
+       "text": "Pyruvate and succinate"
+      },
+      {
+       "key": "C",
+       "text": "Acetyl-CoA and acetoacetate"
+      },
+      {
+       "key": "D",
+       "text": "Succinyl-CoA and acetoacetate"
+      },
+      {
+       "key": "E",
+       "text": "Acetaldehyde and pyruvate"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q9",
+     "kind": "choice",
+     "points": 1,
+     "question": "9. When a mammal ingests a carbohydrate-rich meal after a long fast, the metabolic behavior of its hepatocytes undergoes many changes. Which of the following responses would not occur after a large influx of glucose?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Dephosphorylation and activation of PFK-2"
+      },
+      {
+       "key": "B",
+       "text": "Increased glucokinase activity"
+      },
+      {
+       "key": "C",
+       "text": "Glycogen phosphorylase R → T transition"
+      },
+      {
+       "key": "D",
+       "text": "Decreased phosphoglucomutase activity"
+      },
+      {
+       "key": "E",
+       "text": "Rise in concentration of NADPH"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q10",
+     "kind": "choice",
+     "points": 1,
+     "question": "10. Which of the following is the primary interaction accounting for the majority of proteins in aqueous solution?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Salt bridges"
+      },
+      {
+       "key": "B",
+       "text": "Hydrogen bonding"
+      },
+      {
+       "key": "C",
+       "text": "Dipole-dipole"
+      },
+      {
+       "key": "D",
+       "text": "Disulfide bonds"
+      },
+      {
+       "key": "E",
+       "text": "Hydrophobic interactions 3"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: E"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Тест: вопросы 11–20",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q11",
+     "kind": "choice",
+     "points": 1,
+     "question": "11. You are given four unlabeled samples of polysaccharides and told that each contains either amylopectin, amylose, cellulose, or glycogen, (one of each). Given the following information, which sample contains which type of polysaccharide? Sample #1: Many 1-6 linkages of α-glucose monomers Sample #2: Composed of β-glucose monomers Sample #3: Many 1-4 linkages of α-glucose monomers Sample #4: Some 1-6 linkages of α-glucose monomers",
+     "options": [
+      {
+       "key": "A",
+       "text": "#1 – amylose, #2 – cellulose, #3 – amylopectin, #4 – glycogen"
+      },
+      {
+       "key": "B",
+       "text": "#1 – cellulose, #2 – glycogen, #3 – amylose, #4 – amylopectin"
+      },
+      {
+       "key": "C",
+       "text": "#1 – amylopectin, #2 – cellulose, #3 – amylopectin, #4 – glycogen"
+      },
+      {
+       "key": "D",
+       "text": "#1 – glycogen, #2 – amylopectin, #3 – cellulose, #4 – amylase"
+      },
+      {
+       "key": "E",
+       "text": "#1 – glycogen, #2 – cellulose, #3 – amylose, #4 – amylopectin 4"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q12",
+     "kind": "choice",
+     "points": 1,
+     "question": "12. You are looking for a lactose analog to induce long-term expression of a gene under the control of the lac promoter. Which of the following molecules is the most suitable choice? A. B. C. D. E.",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q13",
+     "kind": "choice",
+     "points": 1,
+     "question": "13. Which of the following statements about gravity perception is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Statoliths are specialized amyloplasts."
+      },
+      {
+       "key": "B",
+       "text": "Statoliths are found in statocytes."
+      },
+      {
+       "key": "C",
+       "text": "Gravity is sensed from the root cap acropetally through the zone of division."
+      },
+      {
+       "key": "D",
+       "text": "Columella cells sense gravity through statolith pressure on the endoplasmic reticulum"
+      },
+      {
+       "key": "E",
+       "text": "Auxin is the main hormone involved in gravity response. 5"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q14",
+     "kind": "choice",
+     "points": 1,
+     "question": "14. What characterizes a short-day plant?",
+     "options": [
+      {
+       "key": "A",
+       "text": "They flower only after a sequence of short days followed by long days."
+      },
+      {
+       "key": "B",
+       "text": "They flower only after a sequence of long days followed by short days."
+      },
+      {
+       "key": "C",
+       "text": "They flower in fall or early spring."
+      },
+      {
+       "key": "D",
+       "text": "Flowering can be induced by an interruption of a long day with a period of darkness."
+      },
+      {
+       "key": "E",
+       "text": "They need to be vernalized in order to flower."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q15",
+     "kind": "choice",
+     "points": 1,
+     "question": "15. Which of the flowing statements about flowering is true?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A long-day plant will flower when it has been stimulated to produce the correct ratio of phytochromes to cryptochromes."
+      },
+      {
+       "key": "B",
+       "text": "A long-day plant will flower when its ratio of Pr to Pfr that is greater than 1."
+      },
+      {
+       "key": "C",
+       "text": "A long-day plant will flower if its night is interrupted by a flash of red and then a flash of far-red light."
+      },
+      {
+       "key": "D",
+       "text": "A long-day plant will flower when most of its phytochromes are in the Pfr form and the days are long enough for its flowering gene to accumulate to high enough levels to induce flowering."
+      },
+      {
+       "key": "E",
+       "text": "A long-day plant requires a short night so the flowering inhibitor protein can be removed to low-enough levels to allow flowering."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q16",
+     "kind": "choice",
+     "points": 1,
+     "question": "16. A researcher’s new houseplant exhibits photoperiodism because of the presence of phytochromes. Which of the following statements about plant phytochromes is NOT true?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Each phytochrome molecule is a dimer composed of two identical subunits. Each subunit contains a photosensitive chromophore."
+      },
+      {
+       "key": "B",
+       "text": "The conformational change of Pr to Pfr is irreversible, so over the night the plant recycles the Pfr that was produced during the day and synthesizes new Pr phytochromes."
+      },
+      {
+       "key": "C",
+       "text": "When exposed to red light, Pr is converted to Pfr in the plant."
+      },
+      {
+       "key": "D",
+       "text": "Plants shaded by other plants commonly have the equilibrium of Pr to Pfr more shifted toward Pr during the day."
+      },
+      {
+       "key": "E",
+       "text": "ALL of the above are true"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q17",
+     "kind": "choice",
+     "points": 1,
+     "question": "17. Which of the following statements is TRUE about leaves in vascular plants?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Leaves are found on all species in the kingdom Plantae"
+      },
+      {
+       "key": "B",
+       "text": "Secondary (woody) growth is found in some leaves"
+      },
+      {
+       "key": "C",
+       "text": "All plants with microphylls are extinct"
+      },
+      {
+       "key": "D",
+       "text": "Megaphylls may have evolved from sporangia on the side of the stem"
+      },
+      {
+       "key": "E",
+       "text": "Microphylls may have evolved from a series of branches lying close to each other on a stem 6"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q18",
+     "kind": "choice",
+     "points": 1,
+     "question": "18. Which of the following is an accurate description of alternation of generations in vascular and nonvascular plants?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Nonvascular plants and seedless vascular plants have a dominant gametophyte"
+      },
+      {
+       "key": "B",
+       "text": "Seedless and seed-producing vascular plants have an independent gametophyte"
+      },
+      {
+       "key": "C",
+       "text": "Nonvascular plants and seedless vascular plants have dominant sporophyte"
+      },
+      {
+       "key": "D",
+       "text": "Seedless and seed-producing vascular plants have a dominant gametophyte"
+      },
+      {
+       "key": "E",
+       "text": "Seedless and seed-producing vascular plants have a reduced gametophyte"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q19",
+     "kind": "choice",
+     "points": 1,
+     "question": "19. Arrange the following five events in an order that explains the bulk flow of substances in the phloem. I. Water diffuses into the sieve tube elements II. Leaf cells produce sugar by photosynthesis III. Solutes are actively transported into sieve elements IV. Sugar is transported from cell to cell via the apoplast and/or symplast V. Sugar moves down the stem",
+     "options": [
+      {
+       "key": "A",
+       "text": "II, I, IV, III, V"
+      },
+      {
+       "key": "B",
+       "text": "I, II, III, IV, V"
+      },
+      {
+       "key": "C",
+       "text": "II, IV, III, I, V"
+      },
+      {
+       "key": "D",
+       "text": "IV, II, I, III, V"
+      },
+      {
+       "key": "E",
+       "text": "II, IV, I, III, V"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q20",
+     "kind": "choice",
+     "points": 1,
+     "question": "20. What is the relationship between pollination and fertilization in flowering plants?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Fertilization precedes pollination."
+      },
+      {
+       "key": "B",
+       "text": "Pollination easily occurs between plants of different species."
+      },
+      {
+       "key": "C",
+       "text": "Pollen is formed within megasporangia so that male and female gametes are near each other."
+      },
+      {
+       "key": "D",
+       "text": "If fertilization occurs, pollination is unnecessary."
+      },
+      {
+       "key": "E",
+       "text": "Pollination brings gametophytes together such that fertilization can occur."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: E"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Тест: вопросы 21–30",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q21",
+     "kind": "choice",
+     "points": 1,
+     "question": "21. You are growing plants hydroponically, measuring CO2 usage. The plants initially grow robustly, but soon CO2 assimilation drops. Young leaves continue to grow normally, but older leaves begin to yellow. Which of the following is the MOST likely cause for the observed changes?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The hydroponic medium lacks oxygen, causing the roots to suffocate."
+      },
+      {
+       "key": "B",
+       "text": "The plants are preparing to flower."
+      },
+      {
+       "key": "C",
+       "text": "The plants are mutants which overproduce gibberellins."
+      },
+      {
+       "key": "D",
+       "text": "The hydroponic medium lacks magnesium."
+      },
+      {
+       "key": "E",
+       "text": "The plants are not exposed to enough light. 7"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q22",
+     "kind": "choice",
+     "points": 1,
+     "question": "22. Which of the following has the greatest total cross-sectional area in the human body?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Arteries"
+      },
+      {
+       "key": "B",
+       "text": "Arterioles"
+      },
+      {
+       "key": "C",
+       "text": "Capillaries"
+      },
+      {
+       "key": "D",
+       "text": "Venules"
+      },
+      {
+       "key": "E",
+       "text": "Veins"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q23",
+     "kind": "choice",
+     "points": 1,
+     "question": "23. Which of the following is a feature of muscles that have mainly oxidative metabolism?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Have low blood supply"
+      },
+      {
+       "key": "B",
+       "text": "Store more fat"
+      },
+      {
+       "key": "C",
+       "text": "Commonly identified as fast twitch"
+      },
+      {
+       "key": "D",
+       "text": "Have few mitochondria"
+      },
+      {
+       "key": "E",
+       "text": "Susceptible to fatigue"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q24",
+     "kind": "choice",
+     "points": 1,
+     "question": "24. Place the following events related to the allergic response in order of occurrence. I. IgE antibodies bind to mast cells. II. Mast cells degranulate. III. IgE antibodies recognize and bind to allergen. IV. Allergy symptoms appear. V. IgE antibodies are produced in response to exposure to an allergen. VI. Histamine is released into the blood.",
+     "options": [
+      {
+       "key": "A",
+       "text": "VI, V, I, II, III, IV"
+      },
+      {
+       "key": "B",
+       "text": "V, II, I, III, VI, IV"
+      },
+      {
+       "key": "C",
+       "text": "V, III, I, VI, II, IV"
+      },
+      {
+       "key": "D",
+       "text": "IV, VI, V, III, I, II"
+      },
+      {
+       "key": "E",
+       "text": "V, I, III, II, VI, IV"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-immunology",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q25",
+     "kind": "choice",
+     "points": 1,
+     "question": "25. Which region of the brain is LEAST related to processing of visual signals?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Occipital lobe"
+      },
+      {
+       "key": "B",
+       "text": "Cerebellum"
+      },
+      {
+       "key": "C",
+       "text": "Hypothalamus"
+      },
+      {
+       "key": "D",
+       "text": "Optic chiasm"
+      },
+      {
+       "key": "E",
+       "text": "Lateral geniculate nuclei 8"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q26",
+     "kind": "choice",
+     "points": 1,
+     "question": "26. You compliment a friend on his recent weight loss. When you are playing video games at his house later, you notice he seems disinterested in the game and is frequently going to the kitchen to get snacks. After one too many sodas, you go to the bathroom, where you see his medicine cabinet stocked full of Rogaine (a hair loss medication), Imodium (a diarrhea medication), Viagra (an impotence medication) and Ritalin (a hyperactivity medication). Finally understanding his illness, you tell your friend he needs to see a doctor about his:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Hyperthyroidism"
+      },
+      {
+       "key": "B",
+       "text": "Type I diabetes"
+      },
+      {
+       "key": "C",
+       "text": "Hyperparathyroidism"
+      },
+      {
+       "key": "D",
+       "text": "Hypopituitarism"
+      },
+      {
+       "key": "E",
+       "text": "Hypogonadism"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q27",
+     "kind": "choice",
+     "points": 1,
+     "question": "27. When comparing the mammal’s respiratory system with the arthropod’s tracheal system, which of the following is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The mammal’s respiratory system is limited to a certain region of its body, while the tracheal system of the arthropod is throughout its body"
+      },
+      {
+       "key": "B",
+       "text": "Both systems are adaptations for living in air"
+      },
+      {
+       "key": "C",
+       "text": "Both systems have a closed circulatory system adjacent to a gas exchange surface"
+      },
+      {
+       "key": "D",
+       "text": "Both systems possess highly branched tubes"
+      },
+      {
+       "key": "E",
+       "text": "Both systems possess invaginated surfaces"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q28",
+     "kind": "choice",
+     "points": 1,
+     "question": "28. List the following Orthoptera appendage segments in order from most proximal to most distal. I. Coxa II. Femur III. Tarsus IV. Tibia V. Trochanter",
+     "options": [
+      {
+       "key": "A",
+       "text": "III, II, IV, V, I"
+      },
+      {
+       "key": "B",
+       "text": "I, II, IV, III, V"
+      },
+      {
+       "key": "C",
+       "text": "II, V, IV, III, I"
+      },
+      {
+       "key": "D",
+       "text": "V, I, II, IV, III"
+      },
+      {
+       "key": "E",
+       "text": "I, V, II, IV, III"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q29",
+     "kind": "choice",
+     "points": 1,
+     "question": "29. When stimulated, which of the following will cause an accelerated heartbeat, pupil dilation, blood pressure rise, and more blood to flow to the peripheral muscles?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Parasympathetic nervous system"
+      },
+      {
+       "key": "B",
+       "text": "Parathyroid gland"
+      },
+      {
+       "key": "C",
+       "text": "Somatic nervous system"
+      },
+      {
+       "key": "D",
+       "text": "Sympathetic nervous system"
+      },
+      {
+       "key": "E",
+       "text": "Thyroid gland 9"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q30",
+     "kind": "choice",
+     "points": 1,
+     "question": "30. Without harming the Lumbricus (earthworm) specimen, a researcher carefully removed the liquid in each body segment. Which of the following descriptions of earthworm movement would you expect to observe?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Movement by the setae only"
+      },
+      {
+       "key": "B",
+       "text": "Neither extension nor contraction"
+      },
+      {
+       "key": "C",
+       "text": "Normal contraction and extension"
+      },
+      {
+       "key": "D",
+       "text": "Normal extension, but not full contraction"
+      },
+      {
+       "key": "E",
+       "text": "Normal contraction, but not full extension"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Тест: вопросы 31–40",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q31",
+     "kind": "choice",
+     "points": 1,
+     "question": "31. A patient meets with his doctor and presents the following symptoms: low metabolic rate, goiter, and weight gain to the point of obesity. Which of the following best describes the cause of these symptoms?",
+     "options": [
+      {
+       "key": "A",
+       "text": "High body temperature"
+      },
+      {
+       "key": "B",
+       "text": "High levels of thyrotropic hormone (TSH) in the blood"
+      },
+      {
+       "key": "C",
+       "text": "High levels of thyroxin in the blood"
+      },
+      {
+       "key": "D",
+       "text": "Increased production of thyrotropic releasing hormone"
+      },
+      {
+       "key": "E",
+       "text": "Lack of sufficient iodine in the diet"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q32",
+     "kind": "choice",
+     "points": 1,
+     "question": "32. Which of the following are common precursors in hormone synthesis?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Carbohydrates, polypeptides, and steroids"
+      },
+      {
+       "key": "B",
+       "text": "Carbohydrates, fats, and polypeptides"
+      },
+      {
+       "key": "C",
+       "text": "Fats, polypeptides, and steroids"
+      },
+      {
+       "key": "D",
+       "text": "Amino acids, polypeptides, and steroids"
+      },
+      {
+       "key": "E",
+       "text": "Amino acids, fats, and minerals"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q33",
+     "kind": "choice",
+     "points": 1,
+     "question": "33. In a capillary bed if the hydrostatic pressure at the arteriole ends is 32 mm Hg and at the venule ends is 14 mm Hg with an osmotic pressure of 22 mm Hg, the net flow of fluids from the capillary bed will occur with a pressure of",
+     "options": [
+      {
+       "key": "A",
+       "text": "2 mm Hg"
+      },
+      {
+       "key": "B",
+       "text": "8 mm Hg"
+      },
+      {
+       "key": "C",
+       "text": "10 mm Hg"
+      },
+      {
+       "key": "D",
+       "text": "18 mm Hg"
+      },
+      {
+       "key": "E",
+       "text": "22 mm Hg"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q34",
+     "kind": "choice",
+     "points": 1,
+     "question": "34. Upon examination of an unknown animal, you determine the following: it has an excretory system with blind-ended tubules emerging as outgrowths in the digestive system, is terrestrial, and has an open circulatory system. You also could predict that it might have which of the following?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Book gills"
+      },
+      {
+       "key": "B",
+       "text": "Lungs"
+      },
+      {
+       "key": "C",
+       "text": "Four-chambered heart"
+      },
+      {
+       "key": "D",
+       "text": "Nephridia"
+      },
+      {
+       "key": "E",
+       "text": "Tracheal system 10"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q35",
+     "kind": "choice",
+     "points": 1,
+     "question": "35. Which of the following pH series MOST closely matches the pH series for the following solutions? blood, 10-5 M HCl, pure water*, gastric fluids, salt water * at STP ( Standard Temperature and Pressure)",
+     "options": [
+      {
+       "key": "A",
+       "text": "7.4 5.0 7.0 2.5 8.3"
+      },
+      {
+       "key": "B",
+       "text": "8.3 10.0 7.0 1.2 7.2"
+      },
+      {
+       "key": "C",
+       "text": "7.5 10.5 7.0 4.0 8.3"
+      },
+      {
+       "key": "D",
+       "text": "5.0 7.4 7.0 8.3 2.4"
+      },
+      {
+       "key": "E",
+       "text": "6.8 5.0 7.0 2.4 8.3"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q36",
+     "kind": "choice",
+     "points": 1,
+     "question": "36. While examining a small mammal’s skull, you observe that there are no canines and that the premolars and molars are flat. Which of the following characteristics would this mammal likely possess?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Lacks maltase and sucrase in its intestine"
+      },
+      {
+       "key": "B",
+       "text": "Lacks amylase in its saliva"
+      },
+      {
+       "key": "C",
+       "text": "Possesses a high concentration of pepsin in its saliva"
+      },
+      {
+       "key": "D",
+       "text": "Possesses a long large intestine"
+      },
+      {
+       "key": "E",
+       "text": "Possesses a spiral valve in its intestine"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-animal-anatomy",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q37",
+     "kind": "choice",
+     "points": 1,
+     "question": "37. Which of the following is an example of an ethological study?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The ability of wood rats to run mazes"
+      },
+      {
+       "key": "B",
+       "text": "The behavior of cows held in small barns"
+      },
+      {
+       "key": "C",
+       "text": "The effect of freezing temperature on mating in Amazonian fishes"
+      },
+      {
+       "key": "D",
+       "text": "The preference of honeybees for different flower colors"
+      },
+      {
+       "key": "E",
+       "text": "Both B and D are correct"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-ethology",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q38",
+     "kind": "choice",
+     "points": 1,
+     "question": "38. During a long period when there is no rainfall, a mountain lion may temporarily leave its usual hunting territory to drink from a farm pond. This behavior is probably due to:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Its need to find different foods to eat"
+      },
+      {
+       "key": "B",
+       "text": "A change in an abiotic factor in its environment"
+      },
+      {
+       "key": "C",
+       "text": "Its need to find a new habitat"
+      },
+      {
+       "key": "D",
+       "text": "A change in a biotic factor in its environment"
+      },
+      {
+       "key": "E",
+       "text": "The need to increase its territory 11"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-ethology",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q39",
+     "kind": "choice",
+     "points": 1,
+     "question": "39. Which of the following roles have humans NOT traditionally taken in the process of domesticating animals?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Parent in imprinting"
+      },
+      {
+       "key": "B",
+       "text": "Nature in selection"
+      },
+      {
+       "key": "C",
+       "text": "Dominant male in social organization"
+      },
+      {
+       "key": "D",
+       "text": "Landmark in spatial learning"
+      },
+      {
+       "key": "E",
+       "text": "Bottleneck effects"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q40",
+     "kind": "choice",
+     "points": 1,
+     "question": "40. The freshwater fish Apteronotus albifrons (black ghost) is found off the coast of Ecuador. Suppose there are no close relatives and you have the ability to prevent black ghosts from immigrating or emigrating from their present population and there would be no further mutations. Which of the following statements is the best description of the future of this black ghost population?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The population will deteriorate after a few generations due to excessive inbreeding"
+      },
+      {
+       "key": "B",
+       "text": "All evolution will stop immediately"
+      },
+      {
+       "key": "C",
+       "text": "The population will continue to evolve for a long time as selection acts on the variability produced by recombination"
+      },
+      {
+       "key": "D",
+       "text": "The population will stop evolving, but will continue for many generations as long as the environment remains constant"
+      },
+      {
+       "key": "E",
+       "text": "Major evolutionary changes will continue due to genetic drift"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: C"
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Тест: вопросы 41–50",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q41",
+     "kind": "choice",
+     "points": 1,
+     "question": "41. Suppose a researcher is planning to use the Dideoxy Chain-Termination method for sequencing DNA but does not add fluorescently tagged ddGTP to the incubation tube. What are his results from the sequencing?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The DNA polymerase will sense that ddGTP is missing and fail to replicate DNA according to the template strand."
+      },
+      {
+       "key": "B",
+       "text": "The spectrogram printed from the detector reading the polyacrylamide gel will be as expected because the other three dideoxynucleotides were present in the incubation tube."
+      },
+      {
+       "key": "C",
+       "text": "The DNA polymerase will make many strands of DNA of equal lengths, but none will contain fluorescently tagged G nucleotides."
+      },
+      {
+       "key": "D",
+       "text": "The spectrogram will contain gaps in its detected peaks of fluorescence where ddGTP would have terminated certain strands of DNA."
+      },
+      {
+       "key": "E",
+       "text": "The DNA polymerase will produce DNA strands of all different lengths, but some will terminate in Guanine instead of ddGTP. 12 In questions 42 to 44, you have two true-breeding strains of pea plants with white flowers. Crossing these two strains yields an F1 generation that only has purple flowers. Self-crossing these purple flowered plants yields the following ratio of progeny with purple and white flowers: 9 purple: 7 white."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q42",
+     "kind": "choice",
+     "points": 1,
+     "question": "42. How many genes in this cross are involved in determining flower color?",
+     "options": [
+      {
+       "key": "A",
+       "text": "0"
+      },
+      {
+       "key": "B",
+       "text": "1"
+      },
+      {
+       "key": "C",
+       "text": "2"
+      },
+      {
+       "key": "D",
+       "text": "3"
+      },
+      {
+       "key": "E",
+       "text": "4"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q43",
+     "kind": "choice",
+     "points": 1,
+     "question": "43. What fraction of the purple-flowered F2 progeny do you expect to produce only purple progeny when self crossed?",
+     "options": [
+      {
+       "key": "A",
+       "text": "1/9"
+      },
+      {
+       "key": "B",
+       "text": "1/4"
+      },
+      {
+       "key": "C",
+       "text": "1/3"
+      },
+      {
+       "key": "D",
+       "text": "4/9"
+      },
+      {
+       "key": "E",
+       "text": "1"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q44",
+     "kind": "choice",
+     "points": 1,
+     "question": "44. What fraction of the purple-flowered F2 progeny, when selfed, do you expect to produce the same 9:7 ratio of purple to white progeny?",
+     "options": [
+      {
+       "key": "A",
+       "text": "0"
+      },
+      {
+       "key": "B",
+       "text": "1/3"
+      },
+      {
+       "key": "C",
+       "text": "4/9"
+      },
+      {
+       "key": "D",
+       "text": "1/2"
+      },
+      {
+       "key": "E",
+       "text": "5/9"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q45",
+     "kind": "choice",
+     "points": 1,
+     "question": "45. You have two true-breeding squash strains with white flowers instead of the normal yellow flowers. When crossed, the F1 generation exhibits yellow flowers only. Your colleague makes the following hypothesis to explain this result: Each parental strain has a mutation in the same gene, the protein product of which forms a homodimer that catalyzes an important step in yellow pigment production. It happens by chance that the two distinct mutant subunits, each produced in a parental strain, can bind to each other and function normally, but not when bound with itself or the wild type subunit. What ratio of yellow-flowered to white-flowered progeny would you expect from a self-cross of the F1 generation if your colleague's hypothesis were correct?",
+     "options": [
+      {
+       "key": "A",
+       "text": "1:1"
+      },
+      {
+       "key": "B",
+       "text": "9:7"
+      },
+      {
+       "key": "C",
+       "text": "7:9"
+      },
+      {
+       "key": "D",
+       "text": "3:1"
+      },
+      {
+       "key": "E",
+       "text": "1:3 13"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q46",
+     "kind": "choice",
+     "points": 1,
+     "question": "46. The following pedigree depicts inheritance of hemophilia, an X-linked recessive disorder. The great-grandfather of the child marked with \"?\" suffered from hemophilia. Assume the great-grandmother has no past history of hemophilia, and could not have been a carrier of the disease. What is the probability that the child marked with \"?\" will be born male AND suffer from hemophilia given that that the other five children in Generation IV do not have hemophilia?",
+     "options": [
+      {
+       "key": "A",
+       "text": "1/8"
+      },
+      {
+       "key": "B",
+       "text": "1/10"
+      },
+      {
+       "key": "C",
+       "text": "1/12"
+      },
+      {
+       "key": "D",
+       "text": "1/20"
+      },
+      {
+       "key": "E",
+       "text": "1/32"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q47",
+     "kind": "choice",
+     "points": 1,
+     "question": "47. Using the following information, approximate the number of nucleotide triphosphates required to translate an mRNA molecule with a coding region (including start and stop codons, excluding untranslated regions) that is X base pairs long. I. 1 ATP is required to attach an amino acid to tRNA. II. 1 ATP is required to break myosin from actin. III. 2 GTP are required to dissociate ribosome subunits and mRNA and release a finished polypeptide. IV. 1 GTP is hydrolyzed to bind the large subunit of the ribosome to an mRNA. V. 1 GTP is produced per round of the citric acid cycle. VI. 1 GTP is required for codon recognition per each new aminoacyl-tRNA added. VII. 1 GTP is required for translocation of peptidyl-tRNAs per each cycle of elongation.",
+     "options": [
+      {
+       "key": "A",
+       "text": "X + 3"
+      },
+      {
+       "key": "B",
+       "text": "3X"
+      },
+      {
+       "key": "C",
+       "text": "3X + 3"
+      },
+      {
+       "key": "D",
+       "text": "4X/3 + 3"
+      },
+      {
+       "key": "E",
+       "text": "X/3 + 3 14"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q48",
+     "kind": "choice",
+     "points": 1,
+     "question": "48. With the movement to land from an aquatic environment, all of the following were problems facing plants EXCEPT:",
+     "options": [
+      {
+       "key": "A",
+       "text": "UV radiation"
+      },
+      {
+       "key": "B",
+       "text": "Desiccation of the embryo and zygote"
+      },
+      {
+       "key": "C",
+       "text": "Pollen production"
+      },
+      {
+       "key": "D",
+       "text": "Temperature fluctuations"
+      },
+      {
+       "key": "E",
+       "text": "Winds"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q49",
+     "kind": "choice",
+     "points": 1,
+     "question": "49. If a short-day plant flowers only when the night is at least 14 hours long, in which of the following light conditions will the plant flower? Place your response on your scantron. A. B. C. D. E. 0 2 4 6 8 10 12 14 16 18 20 22 24 Hours Key = Intense flash of red light = Intense flash of far-red light = Daylight = Night",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q50",
+     "kind": "choice",
+     "points": 1,
+     "question": "50. Cyclic and noncyclic pathways for photophosphorylation are present in most plants. If you assume that the cyclic pathway is not affected, which of the following processes would cease if the noncyclic pathway were inhibited?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Chemiosmosis in mitochondria"
+      },
+      {
+       "key": "B",
+       "text": "Active transport of Na+ across the cell membrane"
+      },
+      {
+       "key": "C",
+       "text": "Oxidation of FADre to FADox"
+      },
+      {
+       "key": "D",
+       "text": "6CO2 + 6 RuBP + 12 ATP + 12 NADPHre 12 glucose phosphate + 12 NADPHox + 12 ADP"
+      },
+      {
+       "key": "E",
+       "text": "Osmosis 15"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Тест: вопросы 51–60",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q51",
+     "kind": "choice",
+     "points": 1,
+     "question": "51. The difference between the action spectrum and the absorption spectrum of plants suggests that:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Chlorophyll is not involved in the dark reactions"
+      },
+      {
+       "key": "B",
+       "text": "Pigments other than chlorophyll are involved"
+      },
+      {
+       "key": "C",
+       "text": "Two photosystems are involved"
+      },
+      {
+       "key": "D",
+       "text": "Chlorophyll is green"
+      },
+      {
+       "key": "E",
+       "text": "Green light is not effective for photosynthesis"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q52",
+     "kind": "choice",
+     "points": 1,
+     "question": "52. Which of the following statements is NOT true about the Nitrogen Cycle?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The atmospheric reservoir of nitrogen makes up only a small amount of the total amount of the element in the Nitrogen Cycle."
+      },
+      {
+       "key": "B",
+       "text": "Most nitrogen is fixed in the root nodules in plants of the family Fabaceae."
+      },
+      {
+       "key": "C",
+       "text": "The process of returning nitrogen to inorganic forms in the soil by decomposers is called ammonification."
+      },
+      {
+       "key": "D",
+       "text": "Some species of nitrifying bacteria are responsible for converting NO2- to NO3-."
+      },
+      {
+       "key": "E",
+       "text": "ALL of the above are true."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q53",
+     "kind": "choice",
+     "points": 1,
+     "question": "53. You wish to know the population of a certain group of gorillas on your wildlife preserve. You captured and tagged 45 gorillas with a microchip and released them back into the wild. After six months, you returned and captured 64 gorillas and 8 had the tags that you have previously placed in them. Given that no births or deaths occur in the population, what is the size of the population of gorillas on your wildlife preserve?",
+     "options": [
+      {
+       "key": "A",
+       "text": "140"
+      },
+      {
+       "key": "B",
+       "text": "150"
+      },
+      {
+       "key": "C",
+       "text": "180"
+      },
+      {
+       "key": "D",
+       "text": "270"
+      },
+      {
+       "key": "E",
+       "text": "360"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q54",
+     "kind": "choice",
+     "points": 1,
+     "question": "54. You are working for a biotech company that produces a genetically engineered bacterium. The species that you are responsible for will grow until the population reaches a density of 1.2 x 106 cells/cm3. To maximize the sustainable yield of these bacteria, you should adjust the density to:",
+     "options": [
+      {
+       "key": "A",
+       "text": "1.2 x 106 cells/cm3"
+      },
+      {
+       "key": "B",
+       "text": "Between 1.2 and 2.4 106 cells/cm3"
+      },
+      {
+       "key": "C",
+       "text": "0.6 x 106 cells/cm3"
+      },
+      {
+       "key": "D",
+       "text": "1.2 x 103 cells/cm3"
+      },
+      {
+       "key": "E",
+       "text": "0.6 x 103 cells/cm3 16"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q55",
+     "kind": "choice",
+     "points": 1,
+     "question": "55. An orchid growing epiphytically on a tree is an example of:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Batesian mimicry"
+      },
+      {
+       "key": "B",
+       "text": "Inquilinism"
+      },
+      {
+       "key": "C",
+       "text": "Mutualism"
+      },
+      {
+       "key": "D",
+       "text": "Phoresy"
+      },
+      {
+       "key": "E",
+       "text": "Adventitious roots"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q56",
+     "kind": "choice",
+     "points": 1,
+     "question": "56. Which of the following is NOT a typical characteristic of a K-selected species?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Large body size"
+      },
+      {
+       "key": "B",
+       "text": "Lives in fairly stable and predictable environments"
+      },
+      {
+       "key": "C",
+       "text": "Produces few offspring"
+      },
+      {
+       "key": "D",
+       "text": "Reproduces late in life"
+      },
+      {
+       "key": "E",
+       "text": "Short life span"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-development",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q57",
+     "kind": "choice",
+     "points": 1,
+     "question": "57. Which of the following would be the most acceptable limiting factor showing a boom or bust growth curve in an Anopheles (mosquito) population?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Density-independent limitations"
+      },
+      {
+       "key": "B",
+       "text": "Density-dependent limitations"
+      },
+      {
+       "key": "C",
+       "text": "Intrinsic rate factors"
+      },
+      {
+       "key": "D",
+       "text": "S factors"
+      },
+      {
+       "key": "E",
+       "text": "Survivorship factors"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q58",
+     "kind": "choice",
+     "points": 1,
+     "question": "58. Both Annelids and Mollusks have",
+     "options": [
+      {
+       "key": "A",
+       "text": "Ciliated larvae always in their life cycles"
+      },
+      {
+       "key": "B",
+       "text": "A blastopore that develops into an anus"
+      },
+      {
+       "key": "C",
+       "text": "A coelom that develops from mesodermal pouches"
+      },
+      {
+       "key": "D",
+       "text": "Indeterminate cleavage in early development"
+      },
+      {
+       "key": "E",
+       "text": "A mesoderm that arises as a solid in-growth of cells from a cell near the blastopore"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-animal-anatomy",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q59",
+     "kind": "choice",
+     "points": 1,
+     "question": "59. Among the following animal groups, which is least related to the others?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Annelida"
+      },
+      {
+       "key": "B",
+       "text": "Aschelminthes"
+      },
+      {
+       "key": "C",
+       "text": "Arthropoda"
+      },
+      {
+       "key": "D",
+       "text": "Echinodermata"
+      },
+      {
+       "key": "E",
+       "text": "Mollusca 17"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-animal-anatomy",
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q60",
+     "kind": "choice",
+     "points": 1,
+     "question": "60. Insects typically have all of the following with the exception of:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Body divided into head, thorax, and abdomen"
+      },
+      {
+       "key": "B",
+       "text": "Compound eyes"
+      },
+      {
+       "key": "C",
+       "text": "One pair of antennae"
+      },
+      {
+       "key": "D",
+       "text": "Pincer or Fang-like chelicerae"
+      },
+      {
+       "key": "E",
+       "text": "Three pairs of legs 18 PART B"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-animal-anatomy",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Тест: вопросы 61–70",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q61",
+     "kind": "choice",
+     "points": 1,
+     "question": "61. A highly mutated protein is isolated from a line of lab rats. A number of charged amino acids are shown to have been replaced by non-polar amino acids in its polypeptide sequence when compared to the wild-type protein. Which of the following changes in the protein might have occurred as a result? I. There is a greater amount of α-helix found in the mutated protein. II. The mutated protein does not fold at all because some of the charged amino acids that were replaced were very important to the shape of the wild-type protein. III. The mutated protein has a very different quaternary structure compared to the wild-type. IV. When inserted into a cell membrane, a smaller portion of the mutated protein is found inside the lipid bilayer.",
+     "options": [
+      {
+       "key": "A",
+       "text": "I only."
+      },
+      {
+       "key": "B",
+       "text": "III only."
+      },
+      {
+       "key": "C",
+       "text": "I and III only."
+      },
+      {
+       "key": "D",
+       "text": "I, II, and IV only."
+      },
+      {
+       "key": "E",
+       "text": "I, III, and IV only. 19 Use the gel diagram below to answer Questions 62 and 63. The positively-charged electrode of the electrophoresis gel is shown at the bottom of the diagram; the negatively-charged electrode is at the top. The mixture in each well included the original DNA fragment, all four dNTPs, one type of ddNTP as labeled in the diagram, and other necessary components of the dideoxy chain-termination reaction. The results are below."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q62",
+     "kind": "choice",
+     "points": 1,
+     "question": "62. Which of the following represents the sequence of the template strand?”",
+     "options": [
+      {
+       "key": "A",
+       "text": "5'--GAAGACTAACATTCA--3'"
+      },
+      {
+       "key": "B",
+       "text": "5'-- ACTTACAATGTAGUA--3'"
+      },
+      {
+       "key": "C",
+       "text": "5'-- CTTCTGATTGTAAGT--3'"
+      },
+      {
+       "key": "D",
+       "text": "5'--ACTTACAATCAGAAG--3'"
+      },
+      {
+       "key": "E",
+       "text": "5'--TGAATGTTAGTCTTC--3' 20"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q63",
+     "kind": "choice",
+     "points": 1,
+     "question": "63. The fragment sequenced in Question 62 is a section of the coding strand of Gene X. Gene X encodes Protein P which passes through the cell membrane. The particular fragment of Gene X that you have sequenced USUALLY produces the transmembrane domain of Protein P. However in this case, there is a point mutation. Assume the reading frame is such that this fifteen-nucleotide fragment encodes five amino acids. Using the codon chart below, identify the codon that contains the mutation in the DNA gel from Question 62. Enter A, B, C, D, or E as labeled on the gel on your scantron. 21 Questions 64 to 68. Compartmentalization is a hallmark of eukaryotic cells. For each metabolic pathway, choose the intracellular compartment or organelle from the list below in which it takes place. Place your answer on your scantron.",
+     "options": [
+      {
+       "key": "A",
+       "text": "Cytosol"
+      },
+      {
+       "key": "B",
+       "text": "Mitochondrial Matrix"
+      },
+      {
+       "key": "C",
+       "text": "Mitochondrial Membranes"
+      },
+      {
+       "key": "D",
+       "text": "Peroxisomes"
+      },
+      {
+       "key": "E",
+       "text": "Endoplasmic Reticulum"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q64",
+     "kind": "choice",
+     "points": 1,
+     "question": "64. Gluconeogenesis",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q65",
+     "kind": "choice",
+     "points": 1,
+     "question": "65. -Oxidation",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q66",
+     "kind": "choice",
+     "points": 1,
+     "question": "66. Pentose Phosphate Pathway",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q67",
+     "kind": "choice",
+     "points": 1,
+     "question": "67. Glyoxylate Cycle",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q68",
+     "kind": "choice",
+     "points": 1,
+     "question": "68. Steroid Synthesis Questions 69 to 72 are linked.",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q69",
+     "kind": "choice",
+     "points": 1,
+     "question": "69. A macrophage cell notifies other cells of an immunological invader by: I. Up-regulating expression of MHC I molecules upon activation. II. Up-regulating expression of MHC II molecules upon activation. III. Interacting with the complement system. IV. Acting as an antigen presenting cell. V. Inactivating viruses through release of antibodies. VI. Decreasing enzymatic production. VII. Increased cytokine production.",
+     "options": [
+      {
+       "key": "A",
+       "text": "I, III, IV, and VI"
+      },
+      {
+       "key": "B",
+       "text": "I, IV, V, and VII"
+      },
+      {
+       "key": "C",
+       "text": "II, III, IV, and VII"
+      },
+      {
+       "key": "D",
+       "text": "II, III, IV, and V"
+      },
+      {
+       "key": "E",
+       "text": "I, II, IV, and VI 22"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q70",
+     "kind": "choice",
+     "points": 1,
+     "question": "70. A confluent layer of macrophage cells are grown in two 25 cm2 tissue culture flasks with appropriate medium containing 10% plasma serum. For the experiment all medium is removed from the flask and the cells are washed with appropriate buffers to remove all traces of serum and media. E. coli bacteria, suspended in serum free media, are then added or “fed” to the macrophages. The process of E. coli death from phagocytosis was then studied. It is necessary in a phagocytosis study to remove the serum because:",
+     "options": [
+      {
+       "key": "A",
+       "text": "The complement proteins could have independently killed the bacteria."
+      },
+      {
+       "key": "B",
+       "text": "The B cells could have independently killed the bacteria."
+      },
+      {
+       "key": "C",
+       "text": "The natural killer cells could have independently phagocitized the bacteria."
+      },
+      {
+       "key": "D",
+       "text": "Serum proteins could have inhibited the Membrane Attack Complex (MAC)."
+      },
+      {
+       "key": "E",
+       "text": "Serum proteins could have inhibited the Major Histocompatibility Complex."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: A"
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Тест: вопросы 71–80",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q71",
+     "kind": "choice",
+     "points": 1,
+     "question": "71. After 30 minutes the cells in tissue culture Flasks 1 and 2 are washed with appropriate buffers to remove all free E. coli. Serum free media is added and the flasks incubated. During incubation the macrophages and microbes are at war. Which statement is true?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The macrophage digests the E. coli through the oxidative burst."
+      },
+      {
+       "key": "B",
+       "text": "The E. coli protects itself through the oxidative burst."
+      },
+      {
+       "key": "C",
+       "text": "The oxidative burst is characterized by an increased production of hydrogen peroxide."
+      },
+      {
+       "key": "D",
+       "text": "The oxidative burst results in the formation of a membrane attack complex."
+      },
+      {
+       "key": "E",
+       "text": "A and C"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q72",
+     "kind": "choice",
+     "points": 1,
+     "question": "72. After 45 minutes, the macrophages in Flask 1 are lysed by adding ice cold water. The macrophages and water are centrifuged and the bacteria isolated from the macrophage debris. The bacteria are suspended, diluted and plated on agar. After 90 minutes, the same procedure was followed for tissue culture Flask 2 and these bacteria were plated. Bacterial Plates 1 and 2 were incubated for 24 hours. What would be your prediction of the bacterial growth on Plate 1 (45 minutes) compared to the bacterial growth on Plate 2 (90 minutes)?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Plates 1 and 2 have equal colonies"
+      },
+      {
+       "key": "B",
+       "text": "Plate 1 has no colonies"
+      },
+      {
+       "key": "C",
+       "text": "Plate 2 has no colonies"
+      },
+      {
+       "key": "D",
+       "text": "Plate 1 has more colonies than Plate 2"
+      },
+      {
+       "key": "E",
+       "text": "Plate 2 has more colonies than Plate 1 23"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q73",
+     "kind": "choice",
+     "points": 1,
+     "question": "73. A plant researcher suggested that in Brassica oleracea (Brussels sprouts), lateral bud inhibition is due to sub-optimal auxin activity. To determine if this was true, she removed the apex of a young Brussels sprout plant. Which of the following statement(s) is/are true?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Removal of the apex induced an auxin increase in the lateral buds which then grew out."
+      },
+      {
+       "key": "B",
+       "text": "Gibberellin activity decreased immediately"
+      },
+      {
+       "key": "C",
+       "text": "Gibberellin activity increased immediately"
+      },
+      {
+       "key": "D",
+       "text": "Auxin application to the cut surface of decapitated plants caused lateral bud inhibition, but did not completely prevent bud growth"
+      },
+      {
+       "key": "E",
+       "text": "The auxin content of the lateral buds on intact plants increased with time"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q74",
+     "kind": "choice",
+     "points": 1,
+     "question": "74. In angiosperms, a spore differs from a seed in a variety of ways. Given below is a list of possible differences. Which are correct? I. A spore is haploid, a seed has both haploid and diploid tissue II. A spore is diploid, a seed is haploid. III. A spore is the consequence of meiosis, a seed the consequence of fertilization. IV. A spore develops into a gametophyte, a seed develops into a new sporophyte. V. A spore develops into a sporophyte, a seed develops into a gametophyte. VI. A spore is unicellular, a seed is multicellular. VII. A spore contains little or no stored food, a seed contains stored food.",
+     "options": [
+      {
+       "key": "A",
+       "text": "II, III,V,VI, and VII only"
+      },
+      {
+       "key": "B",
+       "text": "I, III, V, VI, and VII only"
+      },
+      {
+       "key": "C",
+       "text": "I, III, V, and VI only"
+      },
+      {
+       "key": "D",
+       "text": "II, V, VI, and VII only"
+      },
+      {
+       "key": "E",
+       "text": "I, III, IV, VI, and VII only 24 Questions 75 to 80: The diagram below shows the role of soil bacteria in nitrogen nutrition in plants. Each number in the diagram corresponds to a response in Column II. On your scantron enter the response from Column II that best describes the number in the diagram indicated by Questions 75 to 80. Place your answer on your scantron. Column I Column II"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-cell-cycle",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q75",
+     "kind": "choice",
+     "points": 1,
+     "question": "75. ______ A. NO3B. NO2-",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q76",
+     "kind": "choice",
+     "points": 1,
+     "question": "76. ______ C. NO4D. N2",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q77",
+     "kind": "choice",
+     "points": 1,
+     "question": "77. ______ E. NH4+ AB. denitrifying bacteria",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q78",
+     "kind": "choice",
+     "points": 1,
+     "question": "78. ______ AC. nitrifying bacteria AD. ammonifying bacteria",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q79",
+     "kind": "choice",
+     "points": 1,
+     "question": "79. ______ AE. nitrogen-fixing bacteria",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q80",
+     "kind": "choice",
+     "points": 1,
+     "question": "80. ______",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Тест: вопросы 81–90",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q81",
+     "kind": "choice",
+     "points": 1,
+     "question": "81. Which of the following statements about lenticels is true? Choose all that apply.",
+     "options": [
+      {
+       "key": "A",
+       "text": "Lenticels are a unique feature of angiosperms."
+      },
+      {
+       "key": "B",
+       "text": "Lenticels from when a region of cork cambium grows more actively than surrounding tissue, rupturing the phellem."
+      },
+      {
+       "key": "C",
+       "text": "Lenticels form when a region of cork cambium grows more slowly than surrounding tissue, rupturing the phellem."
+      },
+      {
+       "key": "D",
+       "text": "Lenticels are found only on shoots and roots."
+      },
+      {
+       "key": "E",
+       "text": "Lenticels originate in the plant epidermis. 25"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q82",
+     "kind": "choice",
+     "points": 1,
+     "question": "82. What are some effects of antidiuretic hormone (ADH)? I. The distal tubules and collecting ducts of kidney nephrons are targeted. II. The osmolarity of the blood increases following ADH activity. III. Urine volume is increased. IV. The number of aquaporins in the collecting ducts is increased.",
+     "options": [
+      {
+       "key": "A",
+       "text": "I only"
+      },
+      {
+       "key": "B",
+       "text": "III only"
+      },
+      {
+       "key": "C",
+       "text": "I and IV only"
+      },
+      {
+       "key": "D",
+       "text": "II and III only"
+      },
+      {
+       "key": "E",
+       "text": "II, III, and IV only"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q83",
+     "kind": "choice",
+     "points": 1,
+     "question": "83. During an adult thyroidectomy the parathyroids are often removed and transplanted under the skin under the clavicle. Assume the patient takes and is responsive to all thyroid replacement medications. However, if the parathyroid transplant fails, possible physiological consequences are: I. Erratic heart rates II. Decreased vitamin D metabolism III. Increased rate of carbohydrate absorption IV. Muscle weakness and/or tetanus V. Goiter VI. Iodine deficiency",
+     "options": [
+      {
+       "key": "A",
+       "text": "I, II, and IV"
+      },
+      {
+       "key": "B",
+       "text": "I, III, and V"
+      },
+      {
+       "key": "C",
+       "text": "II, III, and V"
+      },
+      {
+       "key": "D",
+       "text": "III, V, and VI"
+      },
+      {
+       "key": "E",
+       "text": "IV, V, and VI"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q84",
+     "kind": "choice",
+     "points": 1,
+     "question": "84. Which of the following statements about the human menstrual cycle are correct? Choose all that apply.",
+     "options": [
+      {
+       "key": "A",
+       "text": "The corpus luteum is named for high concentrations of carotenoid compounds."
+      },
+      {
+       "key": "B",
+       "text": "During the follicular phase (Days 1 through 13), FSH stimulates development of a primordial follicle into a mature Graafian follicle that ruptures in ovulation."
+      },
+      {
+       "key": "C",
+       "text": "Dosage regimen for combined oral contraceptive pills typically consists of 21 pills followed by seven placebo pills; while progesterone-only pills are taken continuously without the need for a placebo."
+      },
+      {
+       "key": "D",
+       "text": "The end of menstruation marks Day 1 in the beginning of a new menstrual cycle."
+      },
+      {
+       "key": "E",
+       "text": "Without fertilization leading to embryonic production of hCG, approximately 14 days after ovulation the corpus luteum will degenerate. The resulting drop in estrogen level triggers menstruation. 26"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-development",
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q85",
+     "kind": "choice",
+     "points": 1,
+     "question": "85. Place the following events related to skeletal muscle contraction in order of occurrence. I. Ca2+ ions are released from the sarcoplasmic reticulum (SR) into the cytoplasm. II. The action potential travels across the sarcolemma and down the Ttubules. III. Sarcomeres shorten and the muscle contracts. IV. An action potential travels down the motor nerve axon. V. Cross-bridges are broken and reformed. VI. Ca2+ ions bind to troponin. VII. Ryanodine receptors between the T tubules and SR are activated. VIII. Tropomyosin is moved away from the myosin cross-bridge binding sites. IX. ACh is released at the neuromuscular junction.",
+     "options": [
+      {
+       "key": "A",
+       "text": "IV, II, IX, VII, I, VIII, V, VI, III"
+      },
+      {
+       "key": "B",
+       "text": "IX, VII, I, VI, VIII, III, II, V, IV"
+      },
+      {
+       "key": "C",
+       "text": "IV, IX, II, VII, I, VI, VIII, V, III"
+      },
+      {
+       "key": "D",
+       "text": "III, IV, I, VII, IX, VIII, VI, V, II"
+      },
+      {
+       "key": "E",
+       "text": "IX, IV, VII, II, I, VI, V, VIII, III Questions 86 to 89. Examine the chart below and indicate if the type of each characteristic indicated for all three organisms in each row is True (A) or False (B). Place your responses on your scantron. Characteristic Annelid Onychophora Arthropod"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q86",
+     "kind": "choice",
+     "points": 1,
+     "question": "86. Appendages Present Unjointed legs Jointed legs",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q87",
+     "kind": "choice",
+     "points": 1,
+     "question": "87. Nephridia Pair/segment Pair/segment None",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q88",
+     "kind": "choice",
+     "points": 1,
+     "question": "88. Circulatory system Closed Closed Open",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q89",
+     "kind": "choice",
+     "points": 1,
+     "question": "89. Tracheal system Absent Present Present 27 Questions 90 to 95: Using the selections A to D below, identify the primary ions involved in each process. Place your answer on your scantron.",
+     "options": [
+      {
+       "key": "A",
+       "text": "Ca+2"
+      },
+      {
+       "key": "B",
+       "text": "K+"
+      },
+      {
+       "key": "C",
+       "text": "Both"
+      },
+      {
+       "key": "D",
+       "text": "Neither"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q90",
+     "kind": "choice",
+     "points": 1,
+     "question": "90. Smooth muscle contraction",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Тест: вопросы 91–100",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q91",
+     "kind": "choice",
+     "points": 1,
+     "question": "91. Slow block to polyspermy",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q92",
+     "kind": "choice",
+     "points": 1,
+     "question": "92. Long-term potentiation by NMDA receptors",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q93",
+     "kind": "choice",
+     "points": 1,
+     "question": "93. Induction of the macula densa to activate RAAS",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q94",
+     "kind": "choice",
+     "points": 1,
+     "question": "94. Saliva secretion by salivary glands",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q95",
+     "kind": "choice",
+     "points": 1,
+     "question": "95. Mechnotransduction in hair cells",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q96",
+     "kind": "choice",
+     "points": 1,
+     "question": "96. Consider that some of the spinal motor nerves have axons a yard long. If you were to stimulate a resting state axon approximately halfway along its length, what would happen?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Sodium ions will pass from the outside of the axon to the inside"
+      },
+      {
+       "key": "B",
+       "text": "The sodium-potassium pump will be activated"
+      },
+      {
+       "key": "C",
+       "text": "Depolarization will be propagated to and away from the cell body"
+      },
+      {
+       "key": "D",
+       "text": "Chloride ions will pass from the outside of the axon to the inside"
+      },
+      {
+       "key": "E",
+       "text": "Chloride ions will pass from the inside of the axon to the outside"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q97",
+     "kind": "choice",
+     "points": 1,
+     "question": "97. The Thomson’s gazelle (Eudorcas thomsonii) is an herbivorous mammal that lives in the African savannah. Its primary defense against predators is its speed; even very fast predators such as the cheetah have difficulty catching a healthy gazelle. When the gazelle spots a cheetah, the gazelle leaps high into the air, a behavior known as “stotting”. Caro (1986) studied this behavior and concluded that stotting is an honest signal to the cheetah that the gazelle is fit and hard to catch. Which of the following observations would NOT be consistent with this hypothesis?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Stotting occurs when the gazelle is within sight of other gazelles"
+      },
+      {
+       "key": "B",
+       "text": "Stotting does not occur when the gazelle is not near other gazelles"
+      },
+      {
+       "key": "C",
+       "text": "Stotting gazelles are chased less often than non-stotters"
+      },
+      {
+       "key": "D",
+       "text": "Stotting is more likely to occur when the cheetah is farther away"
+      },
+      {
+       "key": "E",
+       "text": "Stotting gazelles turn their conspicuous white rump towards the cheetah 28 For Questions 98 and 99, use the information below. You are studying a newly-discovered species, H. theticus, which exhibits a behavior called “snonting.” Your observations have revealed the following:  H. theticus lives in family units consisting of a monogamous pair and their offspring. New pairs almost always settle close to the male’s parents.  Some sexually-mature individuals of H. theticus do not reproduce, instead remaining with their parents.  An isolated individual that snonts has a lower reproductive fitness than an individual that does not snont."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-animal-anatomy",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q98",
+     "kind": "choice",
+     "points": 1,
+     "question": "98. Which of the following would NOT be acceptable evidence that snonting is an altruistic behavior and is maintained in the population due to kin selection?",
+     "options": [
+      {
+       "key": "A",
+       "text": "All genetically-related individuals in a large family unit snont"
+      },
+      {
+       "key": "B",
+       "text": "The individuals who snont are all non-reproductive"
+      },
+      {
+       "key": "C",
+       "text": "Males snont more often when other males of similar age are nearby"
+      },
+      {
+       "key": "D",
+       "text": "Reproductive males engage in snonting even when they are not raising offspring"
+      },
+      {
+       "key": "E",
+       "text": "Females cease snonting when they find a mate, but begin snonting again when their offspring reach reproductive age."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-development",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q99",
+     "kind": "choice",
+     "points": 1,
+     "question": "99. Assuming that snonting is an altruistic behavior that is maintained due to kin selection, consider the following situation: A reproductive male, X, lives with his mate near his parents. His other siblings are all females and no longer live nearby. Based on your observations, you know that X is likely to produce 12 MORE offspring during his life. His parents, however, are older and will only produce 3 more offspring during their lives. One day, a situation arises where X’s parents have a 50% chance of death. However, if X snonts, his parents will survive with 100% probability. Given this information, use Hamilton's rule to predict the maximum probability of death that X can incur in this situation in order for snonting to be favored.",
+     "options": [
+      {
+       "key": "A",
+       "text": "6.25%"
+      },
+      {
+       "key": "B",
+       "text": "12.5%"
+      },
+      {
+       "key": "C",
+       "text": "25%"
+      },
+      {
+       "key": "D",
+       "text": "37.5%"
+      },
+      {
+       "key": "E",
+       "text": "50% 29"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-development",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q100",
+     "kind": "choice",
+     "points": 1,
+     "question": "100. Which of the following statements are valid reasons why rRNA sequences are frequently used to draw phylogenetic trees? Select all that apply.",
+     "options": [
+      {
+       "key": "A",
+       "text": "Because of the lethality or near-lethality of most ribosomal RNA mutations, the rRNA sequence changes very slowly and makes drawing phylogenetic trees over long spans of time possible."
+      },
+      {
+       "key": "B",
+       "text": "rRNA is more resistant to mutation and thus more reliable than most genes."
+      },
+      {
+       "key": "C",
+       "text": "rRNA sequences are highly conserved across almost all living organisms."
+      },
+      {
+       "key": "D",
+       "text": "The stem-loop structure of rRNA results in some more conserved regions that have slower mutation rates and other regions with higher mutation rates, allowing for rarer mutations that distinguish more distant phylogenetic relationships."
+      },
+      {
+       "key": "E",
+       "text": "The DNA that encodes rRNA is never duplicated or translocated, removing the challenge of distinguishing paralogous genes from homologous genes. 30 For Question 101, please use the following information. In Drosophila, Gene A controls wing development. Allele A is dominant and gives rise to normal wings. Recessive allele a causes curly wings. Gene B controls eye color. Allele B is dominant causing red eyes, while Allele b is recessive and causes white eyes. A colleague claims that these two genes are linked with a recombination frequency of 1/11. You decide to confirm this claim and cross an AaBb fly with a pure-breeding white-eyed curly-winged fly. The following offspring result: 96 white-eyed flies with normal wings 7 white-eyed flies with curly wings 6 red-eyed flies with normal wings 112 red-eyed flies with curly wings"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: null"
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Тест: вопросы 101–110",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q101",
+     "kind": "choice",
+     "points": 1,
+     "question": "101. Using the Chi-squared distribution chart below, choose whether your colleague's claim is:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Acceptable"
+      },
+      {
+       "key": "B",
+       "text": "Unacceptable"
+      },
+      {
+       "key": "C",
+       "text": "Insufficient data Degrees of Probability Freedom 0.95 0.90 0.80 0.70 0.50 0.30 0.20 0.10 0.05 0.01 0 1 0.004 0.02 0.06 0.15 0.46 1.07 1.64 2.71 3.84 6.64 10.8 2 0.10 0.21 0.45 0.71 1.39 2.41 3.22 4.60 5.99 9.21 13.8 3 0.35 0.58 1.01 1.42 2.37 3.66 4.64 6.25 7.82 11.3 16.3 4 0.71 1.06 1.65 2.20 3.36 4.88 5.99 7.78 9.49 13.3 18.5 5 1.14 1.61 3.34 3.00 4.35 6.06 7.29 9.24 11.07 15.1 20.5 6 1.63 2.20 3.07 3.83 5.35 7.23 8.56 10.64 12.59 16.8 22.5 7 2.17 2.83 3.82 4.67 6.35 8.38 9.80 12.02 14.07 18.5 24.3 8 2.73 3.49 4.59 5.53 7.34 9.52 11.03 13.36 15.51 20.1 26.1 9 3.32 4.17 5.38 6.39 8.34 10.66 12.24 14.68 16.92 21.7 27.9 10 3.94 4.86 6.18 7.27 9.34 11.78 13.44 15.99 18.31 23.2 29.6 Chi-Square Distribution Chart Degrees 2 of χ value Freedom 1 0.004 0.02 0.15 0.46 1.07 2.71 3.84 6.64 2 0.10 0.21 0.71 1.39 2.41 4.60 5.99 9.21 3 0.35 0.58 1.42 2.37 3.66 6.25 7.82 11.34 4 0.71 1.06 2.20 3.36 4.88 7.78 9.49 13.28 P value 0.95 0.90 0.70 0.50 0.30 0.10 0.05 0.01 31 For Questions 102 to 104, please refer to the following data. You isolate four mutant strains of E. coli which are different from the wild type in their metabolism of substances A, B, and C. A, B, and C form a metabolic pathway that is required for the bacteria to grow. Mutant strains and crosses between different mutant strains are plated on a minimal medium with added compounds. You observe the following results, where “+” indicates colonies are observed and “o” indicates no colonies. You discover that the mutation in Strain 1 eliminates the functionality of a subunit of a heterodimeric enzyme named M. With respect to the mutations in Strains 2, 3, and 4, select from among the following choices to answer Questions 102 to 104. Place your answer(s) on your scantron. A. A mutation inactivating a different enzyme than M, one which uses B as a substrate B. A mutation inactivating a different enzyme than M, one which uses C as a substrate C. A mutation producing an inactive membrane transport protein for substance A"
+      },
+      {
+       "key": "D",
+       "text": "A mutation affecting the same subunit of M that the mutation in strain 1 affects"
+      },
+      {
+       "key": "E",
+       "text": "A mutation affecting enzyme M, but a different subunit from that in Strain 1"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q102",
+     "kind": "choice",
+     "points": 1,
+     "question": "102. What is the most probable choice for the mutation in Strain 2?",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q103",
+     "kind": "choice",
+     "points": 1,
+     "question": "103. What is the most probable choice for the mutation in Strain 3?",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q104",
+     "kind": "choice",
+     "points": 1,
+     "question": "104. What are the TWO most probable choices for the mutation in Strain 4?",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q105",
+     "kind": "choice",
+     "points": 1,
+     "question": "105. Select the possible gene sequences for a chromosome that has crossing over between A and B at 6%, B and C at 13%, C and D at 18%, and D and B at 5%.",
+     "options": [
+      {
+       "key": "A",
+       "text": "ABDC"
+      },
+      {
+       "key": "B",
+       "text": "BADC"
+      },
+      {
+       "key": "C",
+       "text": "BACD"
+      },
+      {
+       "key": "D",
+       "text": "CABD"
+      },
+      {
+       "key": "E",
+       "text": "CBDA 32"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q106",
+     "kind": "choice",
+     "points": 1,
+     "question": "106. Consider a hypothetical gene whose active site is encoded by the gene fragment below: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 C T G G C A T G C T T C G G A A A T Which of the following mutations would be most significant to the activity of the protein encoded by the gene?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Addition of a “G” between positions 14 and 15"
+      },
+      {
+       "key": "B",
+       "text": "Deletion of “A” at position 16"
+      },
+      {
+       "key": "C",
+       "text": "Deletion of “C” at position 5"
+      },
+      {
+       "key": "D",
+       "text": "Substitution of “A” for “G” at position 14"
+      },
+      {
+       "key": "E",
+       "text": "Deletion of “A” at position 15"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q107",
+     "kind": "choice",
+     "points": 1,
+     "question": "107. The Sentinelese tribe who has brown eyes lives on the north side of Sentinel Island, a part of the Andaman Islands belonging to India. In the 60,000 years that they have lived on this island, they have rejected all contact with any other peoples. Suppose that two male adventurers from the outside world are marooned on an island with three female Sentinelese. Both explorers have brown eyes, but one explorer’s mother had blue eyes. If one assumes Hardy-Weinberg equilibrium for the eye-color alleles, about how many people would you expect to have blue eyes when the island population reaches 40,000?",
+     "options": [
+      {
+       "key": "A",
+       "text": "0"
+      },
+      {
+       "key": "B",
+       "text": "40"
+      },
+      {
+       "key": "C",
+       "text": "400"
+      },
+      {
+       "key": "D",
+       "text": "2000"
+      },
+      {
+       "key": "E",
+       "text": "4000"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-popgen",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q108",
+     "kind": "choice",
+     "points": 1,
+     "question": "108. Among U. sabo individuals, there are two rare recessive traits, nerdy and geeky, that are known to be linked with a 20% chance of recombination. Consider the pedigree below where two nerdy, geeky individuals mate with normal individuals. If their offspring mate, what is the chance the grandchild, labeled with a question mark in the pedigree, will be nerdy, but not geeky?",
+     "options": [
+      {
+       "key": "A",
+       "text": "8%"
+      },
+      {
+       "key": "B",
+       "text": "9%"
+      },
+      {
+       "key": "C",
+       "text": "10%"
+      },
+      {
+       "key": "D",
+       "text": "16%"
+      },
+      {
+       "key": "E",
+       "text": "20% 33"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q109",
+     "kind": "choice",
+     "points": 1,
+     "question": "109. Field studies of the measurement of the eggs of Anas platyrhynchos (Mallard duck) have shown that average size eggs are more likely to produce viable offspring than smaller or larger eggs. This is an example of:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Convergence"
+      },
+      {
+       "key": "B",
+       "text": "Directional selection"
+      },
+      {
+       "key": "C",
+       "text": "Disruptive selection"
+      },
+      {
+       "key": "D",
+       "text": "Polymorphism"
+      },
+      {
+       "key": "E",
+       "text": "Stabilizing selection"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q110",
+     "kind": "choice",
+     "points": 1,
+     "question": "110. An USDA field researcher studies a field with monoculture of plants that occur nowhere else in Maryland and no other species of the same genus are known to exist anywhere. The researcher demonstrates that the plants in this field are most likely interfertile. After 3 years, the researcher observes the field of plants and finds some look slightly different. With cross-pollination studies, he discovers that these plants can cross with each other, but not with normal plants and appear to be a second species closely related to the first. Which of the following statements is the best possible explanation?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Some of the original population of plants developed a new gene allowing it to split into two species"
+      },
+      {
+       "key": "B",
+       "text": "Speciation was caused by genetic drift"
+      },
+      {
+       "key": "C",
+       "text": "Environmental factors due to habitat differences in different areas of the field led to divergent adaptation"
+      },
+      {
+       "key": "D",
+       "text": "Speciation can be explained by the fact that the plants are polyploids"
+      },
+      {
+       "key": "E",
+       "text": "The original species first evolved polymorphism and then each formed a separate species 34"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Тест: вопросы 111–120",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q111",
+     "kind": "choice",
+     "points": 1,
+     "question": "111. You have discovered a series of mutations in the A locus which governs the distribution of pigment in the coat of horses. The alleles, their associated phenotypes, and frequencies in a certain population are as follows: Allele Associated phenotype Frequency A+ bay (wild type) 0.4 A dark bay (black mane and 0.2 tail) t a seal brown 0.1 a recessive black 0.3 The order of dominance of the alleles is: A+ > A > at > a What are the expected frequencies of the four possible phenotypes, assuming this population is in Hardy-Weinberg equilibrium?",
+     "options": [
+      {
+       "key": "A",
+       "text": "0.09 bay, 0.64 dark bay, 0.07 seal brown, 0.2 black"
+      },
+      {
+       "key": "B",
+       "text": "0.48 bay, 0.2 dark bay, 0.23 seal brown, 0.09 black"
+      },
+      {
+       "key": "C",
+       "text": "0.48 bay, 0.23 dark bay, 0.2 seal brown, 0.09 black"
+      },
+      {
+       "key": "D",
+       "text": "0.64 bay, 0.2 dark bay, 0.09 seal brown, 0.07 black"
+      },
+      {
+       "key": "E",
+       "text": "0.64 bay, 0.2 dark bay, 0.07 seal brown, 0.09 black"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-popgen",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q112",
+     "kind": "choice",
+     "points": 1,
+     "question": "112. An invasive species of grasshopper from South America is destroying crops in Ohio. Which of the following would be the safest and most effective strategy to control the invasive insect population?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Import a species of bird from South America whose natural diet includes these invasive grasshoppers."
+      },
+      {
+       "key": "B",
+       "text": "Spray all the croplands and surrounding areas with pesticide to kill all the grasshoppers."
+      },
+      {
+       "key": "C",
+       "text": "Do not plant crops for a couple years in the area to deprive the grasshoppers of their food source and thereby eliminate them."
+      },
+      {
+       "key": "D",
+       "text": "Use localized amounts of pesticide near the crops to kill the grasshoppers."
+      },
+      {
+       "key": "E",
+       "text": "Release large numbers of a native species of grasshoppers into the area so that they will outcompete the invasive species. 35 For questions 113 and 114, please refer to following information: You are studying a population of mice. Assume the population is at Hardy-Weinberg equilibrium. In these mice, fur color is determined by one gene with dominant allele B and recessive allele b, where the genotype BB results in black fur, bb results in white fur, and Bb results in brown fur. You collect a sample of 100 mice, and find 16 white mice."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-popgen",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q113",
+     "kind": "choice",
+     "points": 1,
+     "question": "113. Suppose a new population of owls migrates to the region. These owls prey on the mice you are studying, and preferentially eat white mice. This is as an example of what type of selection?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Directional selection"
+      },
+      {
+       "key": "B",
+       "text": "Disruptive selection"
+      },
+      {
+       "key": "C",
+       "text": "Ecological selection"
+      },
+      {
+       "key": "D",
+       "text": "Sexual selection"
+      },
+      {
+       "key": "E",
+       "text": "Stabilizing selection"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q114",
+     "kind": "choice",
+     "points": 1,
+     "question": "114. Assuming the owls eat 62.5% of the white mice before they have a chance to reproduce, what will be the new allele frequency of B after one generation?",
+     "options": [
+      {
+       "key": "A",
+       "text": "0.400"
+      },
+      {
+       "key": "B",
+       "text": "0.600"
+      },
+      {
+       "key": "C",
+       "text": "0.625"
+      },
+      {
+       "key": "D",
+       "text": "0.667"
+      },
+      {
+       "key": "E",
+       "text": "0.900"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-popgen",
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q115",
+     "kind": "choice",
+     "points": 1,
+     "question": "115. Cattle trample and kill small plants surrounding a water hole as they stand near it to drink water. This is an example of:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Amensalism"
+      },
+      {
+       "key": "B",
+       "text": "Batesian mimicry"
+      },
+      {
+       "key": "C",
+       "text": "Commensalism"
+      },
+      {
+       "key": "D",
+       "text": "Mullerian mimicry"
+      },
+      {
+       "key": "E",
+       "text": "Mutualism 36 Questions 116 and 117 refer to the following statement: Complete the statement using ONLY the responses provided for each question. Purple sulfur bacteria are a type of photosynthetic nitrogen-fixing bacteria that do not invade plants but fix nitrogen in their free-living state. One would not expect these purple sulfur bacteria to use _116 _ as the electron donor in photosynthesis because it would result in formation of __117_ and thus prevent nitrogen fixation from occurring."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q116",
+     "kind": "choice",
+     "points": 1,
+     "question": "116. Responses",
+     "options": [
+      {
+       "key": "A",
+       "text": "H2S"
+      },
+      {
+       "key": "B",
+       "text": "H2O"
+      },
+      {
+       "key": "C",
+       "text": "NH3"
+      },
+      {
+       "key": "D",
+       "text": "H2S or H2O"
+      },
+      {
+       "key": "E",
+       "text": "H2S or NH3"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q117",
+     "kind": "choice",
+     "points": 1,
+     "question": "117. Responses",
+     "options": [
+      {
+       "key": "A",
+       "text": "S2"
+      },
+      {
+       "key": "B",
+       "text": "O2"
+      },
+      {
+       "key": "C",
+       "text": "NO3-"
+      },
+      {
+       "key": "D",
+       "text": "S2 or O2"
+      },
+      {
+       "key": "E",
+       "text": "S2 or NO3- For Questions 118 to 120, please use the following information. A careless researcher has forgotten to label his plants! It’s up to you to save the day! Identify which family each of the three unlabeled plants (I, II, and III) belong to based on their floral formulae. Place your response on your scantron. A. Oleaceae B. Brassicaceae C. Solanaceae D. Fagaceae E. Liliaceae"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q118",
+     "kind": "choice",
+     "points": 1,
+     "question": "118. Plant I: Ca4 Co4 A4+2 G2",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q119",
+     "kind": "choice",
+     "points": 1,
+     "question": "119. Plant II: T6 A6 G3",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q120",
+     "kind": "choice",
+     "points": 1,
+     "question": "120. Plant III: Ca4 Co0 A4 G0 37 PART C Student Name____________________________ Student ID#___________________ Part C should be returned in its entirety with each student’s scantron. Place all answers to Part C, Questions 1 and 2, on these two pages. Additional sheets of paper may be used, if necessary. Be sure that each page has the Student’s Name and the Student’s ID#. Please staple all pages together. 2012 USABO Semifinal Part C 1. The diagram shows an apparatus made by a student to investigate the effect of temperature on the activity of ethanol fermentation of yeast. The conical flask contains 2.5 g yeast suspended in 2% sucrose solution. The meniscus moves down the glass tube (5 mL micropipette) during fermentation. The data shown below were collected at regular time intervals to assess the amount of suspension (mL) pushed in the glass tube due to CO2 accumulation Time (min) 4oC 10oC 20oC 35oC 55oC 1 0 0.2 0.4 0.7 0 2 0 1.0 1.3 1.2 0.1 3 0.1 1.9 2.2 2.8 0.2 4 0.2 3.1 3.3 4.4 0.3 5 0.3 4.0 NO NO 0.4 RESULT RESULT 38 Circle your answers for Part C, Question 1 A, B, and C!",
+     "options": [
+      {
+       "key": "A",
+       "text": "Estimate the average rate of CO2 production (mL CO2/min) for the yeast suspension at 20oC using the values obtained in the period between 2 and 4 minutes."
+      },
+      {
+       "key": "B",
+       "text": "Estimate the specific rate of CO2 generation [millimoles CO2/(min∙g)] at 20oC."
+      },
+      {
+       "key": "C",
+       "text": "What would be the specific rate of ethanol accumulation [millimoles CH3CH2OH/(min∙g)], if the fermentation reaction follows the equation C6H12O6  2C2H5OH + 2CO2? 2. Complete the following table about hormones. Hormone Endocrine Gland Chemical Class Regulated By Progesterone Anterior pituitary Glycoprotein gland Anterior pituitary Glycoprotein Anterior pituitary Glycoprotein Hypothalamic gland hormones Thyroid gland Blood calcium level Prolactin Antidiuretic hormone We hope to see you as a Finalist!! 39"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  }
+ ]
+}

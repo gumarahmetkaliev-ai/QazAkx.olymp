@@ -1,0 +1,1809 @@
+{
+ "setId": "bio-abo-2012--bio-2-tasks",
+ "olympiadId": "bio-abo-2012",
+ "title": "Биология → ABO (Австралия) → 2012",
+ "materialLabel": "2 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/ABO/2012/bio-2-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/ABO/2012/bio-2-sol.pdf",
+ "generatedBy": "test-parser",
+ "type": "test",
+ "generatedAt": "2026-11-09T13:44:59.353Z",
+ "quality": {
+  "tasks": 6,
+  "parts": 60,
+  "withPoints": 60,
+  "withReference": 60,
+  "withQuestion": 60,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Тест: вопросы 1–10",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q1",
+     "kind": "choice",
+     "points": 1,
+     "question": "1. Three test tubes, X, Y and Z, contain the same volume of dilute hydrogen peroxide solution. Equal volumes of raw potato are added to each tube but the potato is cut into different sized pieces, or mashed as in test tube Z. When the potato was added the solutions started to bubble, but at different rates. Which of the following options ranks the rate of bubbling in the tubes from lowest rate to highest rate? Lowest rate Medium Highest rate",
+     "options": [
+      {
+       "key": "A",
+       "text": "X Y Z"
+      },
+      {
+       "key": "B",
+       "text": "X Z Y"
+      },
+      {
+       "key": "C",
+       "text": "Y X Z"
+      },
+      {
+       "key": "D",
+       "text": "Y Z X"
+      },
+      {
+       "key": "E",
+       "text": "Z X Y"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q2",
+     "kind": "choice",
+     "points": 1,
+     "question": "2. What is a characteristic of all living things?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Breathing."
+      },
+      {
+       "key": "B",
+       "text": "Locomotion."
+      },
+      {
+       "key": "C",
+       "text": "Egestion."
+      },
+      {
+       "key": "D",
+       "text": "Sensitivity. Page 2 of 24 2012 Australian Science Olympiad Examination - Biology ©Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q3",
+     "kind": "choice",
+     "points": 1,
+     "question": "3. The cell membrane of the red blood cell will allow water, oxygen, carbon dioxide, and glucose to pass through. Because other substances are blocked from entering, this membrane is called:",
+     "options": [
+      {
+       "key": "A",
+       "text": "perforated."
+      },
+      {
+       "key": "B",
+       "text": "semi-permeable."
+      },
+      {
+       "key": "C",
+       "text": "non-conductive."
+      },
+      {
+       "key": "D",
+       "text": "permeable."
+      },
+      {
+       "key": "E",
+       "text": "non-selective."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q4",
+     "kind": "choice",
+     "points": 1,
+     "question": "4. Which of the following chemical properties do all types of lipids in the plasma membrane share?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Polar head."
+      },
+      {
+       "key": "B",
+       "text": "Polar fatty acid chains."
+      },
+      {
+       "key": "C",
+       "text": "Glycerol backbone."
+      },
+      {
+       "key": "D",
+       "text": "A soluble fatty acid."
+      },
+      {
+       "key": "E",
+       "text": "Hydrophobic regions."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q5",
+     "kind": "choice",
+     "points": 1,
+     "question": "5. A thought experiment: if instead of 20 different amino acids, proteins were composed of 12 different amino acids, what is the smallest possible codon size in a genetic system with four different nucleotides?",
+     "options": [
+      {
+       "key": "A",
+       "text": "1."
+      },
+      {
+       "key": "B",
+       "text": "2."
+      },
+      {
+       "key": "C",
+       "text": "3."
+      },
+      {
+       "key": "D",
+       "text": "4. Page 3 of 24 2012 Australian Science Olympiad Examination - Biology ©Australian Science Innovations ABN 81731558309 Use the following information to answer question 6. DNA replication is a semi-conservative process, this means that new strands of DNA are created complementary to an existing strand, and thus half of the new DNA is derived from the precursor DNA. This was tested by Messelson and Stahl (1958), who grew Escherichia coli first on a medium of “light nitrogen” (14N), then suddenly switched the E. coli to a growth medium containing “heavy nitrogen” (15N). After each generation they extracted DNA samples from the E. coli and centrifuged it at very high speeds, separating it out based on weight. After just growing on “light nitrogen” they found only one band of DNA after centrifugation: 14 N14N"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q6",
+     "kind": "choice",
+     "points": 1,
+     "question": "6. After one generation of growing on “heavy nitrogen”, the sample still contained one band of DNA. What would the centrifuged sample of DNA look like after the second generation grown on “heavy nitrogen”? 14 N14N 15 14 N15N N15N 14 15 N15N N15N 15 N15N (a) (b) (c) (d) Page 4 of 24 2012 Australian Science Olympiad Examination - Biology ©Australian Science Innovations ABN 81731558309",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q7",
+     "kind": "choice",
+     "points": 1,
+     "question": "7. The pedigree below shows the inheritance of a recessive characteristic in a family. Which of the lists given in the answer key below contains individuals in this pedigree who are definitely heterozygous for this characteristic?",
+     "options": [
+      {
+       "key": "A",
+       "text": "1, 2 and 7."
+      },
+      {
+       "key": "B",
+       "text": "3, 6 and 7."
+      },
+      {
+       "key": "C",
+       "text": "1, 3 and 6."
+      },
+      {
+       "key": "D",
+       "text": "1, 5 and 6."
+      },
+      {
+       "key": "E",
+       "text": "1, 2, 5 and 6."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q8",
+     "kind": "choice",
+     "points": 1,
+     "question": "8. Equal lengths of three different blood vessels were threaded on to the horizontal arm of a retort stand. Weights were then hooked on the vessels until they broke. Which letter, A-E, shows the most likely results? Mass needed (in grams) to cause breakage 800 3500 5000",
+     "options": [
+      {
+       "key": "A",
+       "text": "dorsal aorta pulmonary artery vena cava"
+      },
+      {
+       "key": "B",
+       "text": "vena cava dorsal aorta pulmonary artery"
+      },
+      {
+       "key": "C",
+       "text": "vena cava pulmonary artery dorsal aorta"
+      },
+      {
+       "key": "D",
+       "text": "pulmonary artery vena cava dorsal aorta"
+      },
+      {
+       "key": "E",
+       "text": "pulmonary artery dorsal aorta vena cava Page 5 of 24 2012 Australian Science Olympiad Examination - Biology ©Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q9",
+     "kind": "choice",
+     "points": 1,
+     "question": "9. To celebrate the gold medal at the London Olympics last week, Harold and his brother went sky-diving. On leaving the aircraft, he fell faster and faster until he reached a maximum steady speed known as terminal velocity. He fell at this speed until the parachute opened. The parachute slowed him down until a much smaller steady speed was reached. This speed remained constant until he touched the ground. Which of these graphs could show this information? Page 6 of 24 2012 Australian Science Olympiad Examination - Biology ©Australian Science Innovations ABN 81731558309",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q10",
+     "kind": "choice",
+     "points": 1,
+     "question": "10. Many flowers have adapted to have specialised patterns of pigments on their petals which only show in the ultraviolet (UV) range of light, thus being invisible to the human eye. It is found that these flowers are pollinated by insects such as the European honey bee (Apis mellifera) whose vision includes this ultraviolet range. What is a reasonable inference to draw from this relationship?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The ultraviolet pigments assist the plant in the light capture phase of photosynthesis."
+      },
+      {
+       "key": "B",
+       "text": "Insect pollinators evolved ultraviolet vision after several generations of trying to locate their food sources."
+      },
+      {
+       "key": "C",
+       "text": "These flowers were genetically modified for commercial purposes and have established themselves in natural ecosystems."
+      },
+      {
+       "key": "D",
+       "text": "The plants which developed ultraviolet pigmentation attracted more pollinators and thus were more reproductively successful."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Тест: вопросы 11–20",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q11",
+     "kind": "choice",
+     "points": 1,
+     "question": "11. Insects have a structure analogous to the mammalian kidney called Malpighian tubules, which remove metabolic nitrogenous wastes from the insect’s haemolymph. What sort of nitrogenous waste would the Malpighian tubules be removing?",
+     "options": [
+      {
+       "key": "A",
+       "text": "C6H12O6"
+      },
+      {
+       "key": "B",
+       "text": "Uric acid"
+      },
+      {
+       "key": "C",
+       "text": "CO2"
+      },
+      {
+       "key": "D",
+       "text": "Amino acid"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q12",
+     "kind": "choice",
+     "points": 1,
+     "question": "12. Maltose can be broken down into glucose molecules by the enzyme maltase. Which of the following would slow the reaction rate?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Adding maltase."
+      },
+      {
+       "key": "B",
+       "text": "Adding maltose."
+      },
+      {
+       "key": "C",
+       "text": "Removing glucose."
+      },
+      {
+       "key": "D",
+       "text": "Diluting with water."
+      },
+      {
+       "key": "E",
+       "text": "Adding both maltase and maltose. Page 7 of 24 2012 Australian Science Olympiad Examination - Biology ©Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q13",
+     "kind": "choice",
+     "points": 1,
+     "question": "13. After which of the following treatments (I-III) would an enzyme still be expected to have activity? I Protease treatment. II Heating almost to the point of denaturation and then cooling once only. III Freezing and then thawing once only.",
+     "options": [
+      {
+       "key": "A",
+       "text": "I only."
+      },
+      {
+       "key": "B",
+       "text": "III only."
+      },
+      {
+       "key": "C",
+       "text": "I and II only."
+      },
+      {
+       "key": "D",
+       "text": "II and III only."
+      },
+      {
+       "key": "E",
+       "text": "I, II and III."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q14",
+     "kind": "choice",
+     "points": 1,
+     "question": "14. The graph below shows the birth rate and death rate for a population in country Z. From 1950 to 2010, the population has:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Increased."
+      },
+      {
+       "key": "B",
+       "text": "Decreased."
+      },
+      {
+       "key": "C",
+       "text": "Stayed the same."
+      },
+      {
+       "key": "D",
+       "text": "Increased until 1960 then decreased."
+      },
+      {
+       "key": "E",
+       "text": "Decreased until 1985 then increased. Page 8 of 24 2012 Australian Science Olympiad Examination - Biology ©Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q15",
+     "kind": "choice",
+     "points": 1,
+     "question": "15. Frogs have an unusual life cycle. They hatch from moist eggs in water. What is the best description of the skin of a mature frog?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Scaly and moist."
+      },
+      {
+       "key": "B",
+       "text": "Scaly and dry."
+      },
+      {
+       "key": "C",
+       "text": "Without scales and moist."
+      },
+      {
+       "key": "D",
+       "text": "Without scales and dry."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q16",
+     "kind": "choice",
+     "points": 1,
+     "question": "16. In the London Olympics, a large number of athletes will be measured and tested before and after their events. Which types of variation are shown by blood group and breathing rate? Blood group Breathing rate",
+     "options": [
+      {
+       "key": "A",
+       "text": "Continuous Continuous"
+      },
+      {
+       "key": "B",
+       "text": "Continuous Discontinuous"
+      },
+      {
+       "key": "C",
+       "text": "Discontinuous Continuous"
+      },
+      {
+       "key": "D",
+       "text": "Discontinuous Discontinuous"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q17",
+     "kind": "choice",
+     "points": 1,
+     "question": "17. The diagram below shows examples of how substances in organisms are moved. Which process is taking place in all three examples?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Absorption."
+      },
+      {
+       "key": "B",
+       "text": "Accommodation."
+      },
+      {
+       "key": "C",
+       "text": "Assimilation."
+      },
+      {
+       "key": "D",
+       "text": "Diffusion."
+      },
+      {
+       "key": "E",
+       "text": "Osmosis. Page 9 of 24 2012 Australian Science Olympiad Examination - Biology ©Australian Science Innovations ABN 81731558309 Use the following information to answer questions 18 and 19. www.sciencegeek.net/.../graphics/CST/Species.gif"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q18",
+     "kind": "choice",
+     "points": 1,
+     "question": "18. According to this information, which group demonstrated the greatest biodiversity during the Cretaceous period?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Dinosaurs."
+      },
+      {
+       "key": "B",
+       "text": "Crocodilians."
+      },
+      {
+       "key": "C",
+       "text": "Snakes."
+      },
+      {
+       "key": "D",
+       "text": "Lizards."
+      },
+      {
+       "key": "E",
+       "text": "Turtles."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q19",
+     "kind": "choice",
+     "points": 1,
+     "question": "19. According to this information, which group has persisted for the longest period?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Dinosaurs."
+      },
+      {
+       "key": "B",
+       "text": "Crocodilians."
+      },
+      {
+       "key": "C",
+       "text": "Snakes."
+      },
+      {
+       "key": "D",
+       "text": "Lizards."
+      },
+      {
+       "key": "E",
+       "text": "Turtles. Page 10 of 24 2012 Australian Science Olympiad Examination - Biology ©Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q20",
+     "kind": "choice",
+     "points": 1,
+     "question": "20. Which of the following is not present in viruses?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Nucleic acid replication enzymes."
+      },
+      {
+       "key": "B",
+       "text": "Capsid assembly enzyme."
+      },
+      {
+       "key": "C",
+       "text": "Capsid synthesis proteins."
+      },
+      {
+       "key": "D",
+       "text": "Intracellular transport proteins."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Тест: вопросы 21–30",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q21",
+     "kind": "choice",
+     "points": 1,
+     "question": "21. A number of mosquito populations today are resistant to insecticides that were once quite effective. Biologists think that insecticide resistance evolved in mosquitoes because:",
+     "options": [
+      {
+       "key": "A",
+       "text": "individual mosquitoes built up an immunity to an insecticide after being exposed to it."
+      },
+      {
+       "key": "B",
+       "text": "mosquitoes needed to develop insecticide resistance to survive after the insecticide was used."
+      },
+      {
+       "key": "C",
+       "text": "mosquitoes attempted to adapt to their environment."
+      },
+      {
+       "key": "D",
+       "text": "a few mosquitoes were probably resistant to the insecticide before it was ever used, and these individuals were more likely to survive and reproduce."
+      },
+      {
+       "key": "E",
+       "text": "a new allele developed in response to the insecticide that provided future generations the benefit of resistance."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-immunology",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q22",
+     "kind": "choice",
+     "points": 1,
+     "question": "22. A plant deficient in which of the following nutrients will not be able to make DNA?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Phosphorus."
+      },
+      {
+       "key": "B",
+       "text": "Zinc."
+      },
+      {
+       "key": "C",
+       "text": "Manganese."
+      },
+      {
+       "key": "D",
+       "text": "Iron."
+      },
+      {
+       "key": "E",
+       "text": "Sulphur."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q23",
+     "kind": "choice",
+     "points": 1,
+     "question": "23. Most of the mass of organic material of a plant comes from:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Water."
+      },
+      {
+       "key": "B",
+       "text": "Carbon dioxide."
+      },
+      {
+       "key": "C",
+       "text": "Soil minerals."
+      },
+      {
+       "key": "D",
+       "text": "Atmospheric oxygen."
+      },
+      {
+       "key": "E",
+       "text": "Nitrogen. Page 11 of 24 2012 Australian Science Olympiad Examination - Biology ©Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q24",
+     "kind": "choice",
+     "points": 1,
+     "question": "24. Tay-Sachs disease, which is lethal, results from having the homozygous recessive condition of the responsible gene. Which one of the following statements is true?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Because homozygous recessive individuals die, the recessive allele will eventually be lost from the population."
+      },
+      {
+       "key": "B",
+       "text": "Only homozygous dominant individuals will be able to survive and reproduce."
+      },
+      {
+       "key": "C",
+       "text": "Heterozygous individuals will survive and may pass the recessive allele on to their offspring."
+      },
+      {
+       "key": "D",
+       "text": "In the heterozygous condition, the dominant allele will overcome the recessive allele and only the dominant allele will be passed on to offspring."
+      },
+      {
+       "key": "E",
+       "text": "Homozygous dominant individuals will be more likely to reproduce than heterozygous individuals. Use the following information and graph below to answer question 25. Five dialysis bags, impermeable to sucrose, were filled with sucrose solution of various concentrations. These were then placed into a beaker of 0.6 M sucrose solution. The bags were weighed every 10 minutes and the percentage change in mass graphed."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q25",
+     "kind": "choice",
+     "points": 1,
+     "question": "25. Which line represents the bag that contains a solution that is hypertonic at the end of 60 minutes?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A."
+      },
+      {
+       "key": "B",
+       "text": "B."
+      },
+      {
+       "key": "C",
+       "text": "C."
+      },
+      {
+       "key": "D",
+       "text": "D."
+      },
+      {
+       "key": "E",
+       "text": "E. Page 12 of 24 2012 Australian Science Olympiad Examination - Biology ©Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q26",
+     "kind": "choice",
+     "points": 1,
+     "question": "26. Molecules of single stranded DNA from species P were hybridized with homologous molecules of single stranded DNA molecules from five different species. The hybridized DNA molecules were heated and the temperature at which denaturation occurred was recorded. Using the data in the table below, determine which species is the most closely related to species P. Species Temperature at which hybridized DNA denatured (oC)",
+     "options": [
+      {
+       "key": "A",
+       "text": "30"
+      },
+      {
+       "key": "B",
+       "text": "42"
+      },
+      {
+       "key": "C",
+       "text": "60"
+      },
+      {
+       "key": "D",
+       "text": "74"
+      },
+      {
+       "key": "E",
+       "text": "85"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q27",
+     "kind": "choice",
+     "points": 1,
+     "question": "27. Taxol is one of the common drugs prescribed for the treatment of breast cancer. Originally extracted from the bark of the Pacific Yew tree, ecologists voiced concerns over the harvesting of the trees. In 1988, a French biochemist, Potier, synthesised the active chemical from the more common yew trees in Europe. This paved the way for large-scale production of taxol using plant cell fermentation. Its potency as an anti cancer drug is due to the interference in mitosis. In animal cells, taxol disrupts microtubule formation by binding to the microtubules and accelerating their assembly from the protein precursors. Which of the following is affected by taxol?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Fibres of the mitotic spindle."
+      },
+      {
+       "key": "B",
+       "text": "Anaphase."
+      },
+      {
+       "key": "C",
+       "text": "Formation of the centrioles."
+      },
+      {
+       "key": "D",
+       "text": "S phase of the cell cycle."
+      },
+      {
+       "key": "E",
+       "text": "Chromatid assembly. Page 13 of 24 2012 Australian Science Olympiad Examination - Biology ©Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q28",
+     "kind": "choice",
+     "points": 1,
+     "question": "28. The diagram below shows the seasonal changes in the pyramid of biomass in the English Channel. In winter the pyramid of biomass is inverted because:",
+     "options": [
+      {
+       "key": "A",
+       "text": "The primary production decreases dramatically and results in a die-off of zooplankton."
+      },
+      {
+       "key": "B",
+       "text": "The primary production decreases and as the producers are rapidly consumed by the zooplankton they never develop a large population size."
+      },
+      {
+       "key": "C",
+       "text": "The primary production remains the same all year but the cold means that the zooplankton and secondary consumers migrate elsewhere."
+      },
+      {
+       "key": "D",
+       "text": "The primary production is increased but the phytoplankton have a shorter turnover time in winter."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-ecology",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q29",
+     "kind": "choice",
+     "points": 1,
+     "question": "29. You will have observed that many athletes participating in the Olympics appear to be rather ‘out of breath’ on completion of their events. This is true for non-athletes after a short bout of exercise – running for a bus, for example. At the end of a normal inhalation the breath can be held from between 30 to 50 seconds. The breath-holding time immediately after exercise is shorter. The least likely cause of this would be:",
+     "options": [
+      {
+       "key": "A",
+       "text": "an increase in the CO2 concentration in the blood."
+      },
+      {
+       "key": "B",
+       "text": "a decrease in pH of the blood."
+      },
+      {
+       "key": "C",
+       "text": "an increase in the lactic acid concentration of the blood."
+      },
+      {
+       "key": "D",
+       "text": "fatigue of the intercostal muscles."
+      },
+      {
+       "key": "E",
+       "text": "stimulation of the breathing centre in the medulla. Page 14 of 24 2012 Australian Science Olympiad Examination - Biology ©Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q30",
+     "kind": "choice",
+     "points": 1,
+     "question": "30. Humans catch large numbers of Patagonian and Antarctic toothfish, and there is a danger these fish could be over-exploited. www.landcareresearch.co.nz Using the information from the food web above, what is the most likely immediate effect of overfishing the toothfish?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The number of Weddell seals will decrease and the number of silverfish will increase."
+      },
+      {
+       "key": "B",
+       "text": "The number of silverfish will increase."
+      },
+      {
+       "key": "C",
+       "text": "The number of silverfish and squid will increase."
+      },
+      {
+       "key": "D",
+       "text": "The number of orca-1 will decrease and the number of silverfish will increase."
+      },
+      {
+       "key": "E",
+       "text": "The number of marine birds will increase as the number of silverfish increase. Page 15 of 24 2012 Australian Science Olympiad Examination - Biology ©Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-animal-anatomy",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Тест: вопросы 31–40",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q31",
+     "kind": "choice",
+     "points": 1,
+     "question": "31. The table below shows the amount of plant hormone passing through short segments of young stems when supplied either to the end nearest to the shoot tip (apical end) or to the end furthest from the shoot tip (basal end). Three experiments were carried out as indicated. Potassium cyanide was applied with the hormone in experiment 3. Site of hormone Amount of hormone passing through stem (in arbitrary units) application at 3 °C at 25 °C at 25 °C + potassium cyanide Basal end 3.3 3.8 3.9 Apical end 3.5 15.9 4.2 The best interpretation of these results is that:",
+     "options": [
+      {
+       "key": "A",
+       "text": "the hormone used was auxin."
+      },
+      {
+       "key": "B",
+       "text": "the hormone shows unidirectional movement."
+      },
+      {
+       "key": "C",
+       "text": "active transport of the hormone occurs."
+      },
+      {
+       "key": "D",
+       "text": "diffusion accounts for the transport of the hormone. Use the following information to answer question 32. Cardiac output is a the measurement of how much blood the heart pumps per minute and can be calculated by the formula below, CO = HR x SV where CO is the cardiac output, HR is the heart rate (in beats/second) and SV is the stroke volume (the measure of the amount of blood pumped per heartbeat, in mL/beat). A contestant in the Olympics steeplechase event lost a large volume of blood after falling on the track."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q32",
+     "kind": "choice",
+     "points": 1,
+     "question": "32. What immediate physiological response would be expected in order for the contestant to maintain a normal cardiac output (which is required for tissue perfusion)? Choose the response that will compensate the most for the blood loss.",
+     "options": [
+      {
+       "key": "A",
+       "text": "Increased stroke volume."
+      },
+      {
+       "key": "B",
+       "text": "Increased heart rate."
+      },
+      {
+       "key": "C",
+       "text": "Decreased heart rate."
+      },
+      {
+       "key": "D",
+       "text": "Increased uptake of water in the collecting duct of the nephron. Page 16 of 24 2012 Australian Science Olympiad Examination - Biology ©Australian Science Innovations ABN 81731558309 Use the following information to answer question 33. The thyroid hormones, thyroxine (T3) and tri-iodothyronine (T4) are released from the thyroid gland in mammals and require iodine to be produced. These hormones are important in regulating metabolism and are under the control of the pituitary hormone thyroid- stimulating hormone (TSH) and the hypothalamus, which produces thyrotropin-releasing hormone (TRH). Levels of T3 and T4 exert an influence on the levels of TSH and TRH through a feedback system so that a normal level of the thyroid hormones is maintained."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q33",
+     "kind": "choice",
+     "points": 1,
+     "question": "33. Which of the following is the correct effect of hyperthyroidism (excess production of thyroid hormone) on TRH, TSH, and the thyroid hormones T3 and T4? Use the key to indicate levels of the different hormones as follows: ↑: increase ↓: decrease ━: remains unchanged TRH TSH T3 T4",
+     "options": [
+      {
+       "key": "A",
+       "text": "↑ ↑ ━ ↑"
+      },
+      {
+       "key": "B",
+       "text": "↑ ↑ ↑ ━"
+      },
+      {
+       "key": "C",
+       "text": "↓ ↓ ↑ ↑"
+      },
+      {
+       "key": "D",
+       "text": "↓ ↓ ↓ ↓"
+      },
+      {
+       "key": "E",
+       "text": "↓ ↑ ↑ ↑"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q34",
+     "kind": "choice",
+     "points": 1,
+     "question": "34. Tobacco mosaic virus (TMV) infects tobacco plants and other plants of the Solanaceae family. Rosalind Franklin (who provided the X ray crystallography evidence for Watson and Crick about the structure of DNA) speculated that the RNA was single stranded and this was later confirmed after her death. In an experiment, the RNA from TMV was mixed with proteins from a DNA virus to produce a mixed virus. This mixed virus then infected cells. What would you expect the resulting mixed virus to most closely resemble?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Tobacco Mosaic Virus."
+      },
+      {
+       "key": "B",
+       "text": "A DNA virus."
+      },
+      {
+       "key": "C",
+       "text": "A hybrid between TMV RNA and protein from the DNA virus."
+      },
+      {
+       "key": "D",
+       "text": "A hybrid between TMV protein and DNA from the DNA virus. Page 17 of 24 2012 Australian Science Olympiad Examination - Biology ©Australian Science Innovations ABN 81731558309 Use the following information and diagram below to answer question 35. A cladogram is a branching diagram in which groups of closely related species (i.e. those sharing many characteristics) are shown to have branched away from the common line of descent via the same ancestor. The table gives a number of characteristics which are found in a group of four species, W, X, Y and Z. Shading indicates that the characteristic is present. Species Characteristic W X Y Z Fingers and toes Endothermy 3 ear ossicles Amnion Placenta Internal fertilisation Mammary glands Oviparity (lays eggs) Webbed feet Hair Feathers"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q35",
+     "kind": "choice",
+     "points": 1,
+     "question": "35. Which one of the cladograms below is the most likely hypothesis explaining the distribution of characters? Z Y X W Z X Y W Y Z W X A B C Y X W Z W Z X Y D E Page 18 of 24 2012 Australian Science Olympiad Examination - Biology ©Australian Science Innovations ABN 81731558309 Use the following information below to answer question 36. Insulin is a hormone secreted by the pancreas to regulate blood sugar levels by causing glucose in the blood to be stored as glycogen. Insulin also inhibits glycogenolysis (the breakdown of glycogen to glucose) and gluconeogenesis (making sugars from proteins and lipids). Some diabetics carry small kits, with a 1 mg dose of the hormone glucagon for injection into a muscle during certain diabetic emergencies. Glucagon is an insulin antagonist (acts to reverse the effects of insulin).",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q36",
+     "kind": "choice",
+     "points": 1,
+     "question": "36. A diabetic might inject glucagon to:",
+     "options": [
+      {
+       "key": "A",
+       "text": "lower blood glucose levels, by promoting gluconeogenesis and glycogenolysis."
+      },
+      {
+       "key": "B",
+       "text": "raise blood glucose levels, by promoting gluconeogenesis and glycogenolysis."
+      },
+      {
+       "key": "C",
+       "text": "lower insulin levels, by promoting its excretion through the kidney."
+      },
+      {
+       "key": "D",
+       "text": "raise blood glycogen, by promoting its transportation from hepatocytes into systemic circulation."
+      },
+      {
+       "key": "E",
+       "text": "lower blood glycogen, by promoting its uptake into hepatocytes. Page 19 of 24 2012 Australian Science Olympiad Examination - Biology ©Australian Science Innovations ABN 81731558309 SECTION B: 12 SHORT ANSWER QUESTIONS USE THE ANSWER SHEET PROVIDED Use the following information to answer questions 37 - 39. A protein is a class of biological macromolecule, composed of individual subunits known as amino acids. The general structure of an amino acid is shown below, where R is a variable side group that changes between amino acids: Amino acids polymerise to form the primary structure of proteins through peptide bonding, as shown below:"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q37",
+     "kind": "choice",
+     "points": 1,
+     "question": "37. Calculate the molecular mass of the oligopeptide formed by peptide bonding of the three amino acids below, expressing your solution in Daltons (where 1 Dalton = 1 Atomic Mass Unit [AMU]). Mark the answer sheet provided with your answer. (2 marks) Use the molecular masses as given: Carbon = 14 AMU ; Hydrogen = 1 AMU; Oxygen = 16 AMU. Page 20 of 24 2012 Australian Science Olympiad Examination - Biology ©Australian Science Innovations ABN 81731558309 Proteins are often located in the plasma membrane of the cell, many of these proteins are referred to as transmembrane proteins, possessing at least one region extending through the hydrophobic core of the phospholipid bilayer, and regions sticking out into the aqueous environments of the intracellular and extracellular space. The different R groups of amino acids can make them either hydrophobic or hydrophilic.",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q38",
+     "kind": "choice",
+     "points": 1,
+     "question": "38. Looking at the R groups of the amino acids making up the oligopeptide in question 37, suggest where it would be located if found as part of a transmembrane protein. Mark the correct box on the answer sheet. (1 mark) a. Inside the membrane b. Projecting into the extra/intracellular space In another investigation, scientists noticed that a frameshift mutation occurred in the gene encoding this protein such that the oligopeptide was now made up of the following amino acids.",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q39",
+     "kind": "choice",
+     "points": 1,
+     "question": "39. Suggest where this new peptide would lie in relation to the plasma membrane. Mark the correct box on the answer sheet. (1 mark) a. Inside the membrane. b. Projecting into the extra/intracellular space. Page 21 of 24 2012 Australian Science Olympiad Examination - Biology ©Australian Science Innovations ABN 81731558309 Use the following information to answer questions 40 – 44. A physiologist has been studying muscle biopsies of elite athletes in the lead-up to the summer Olympics. He finds that a mutant version of an enzyme associated with the synthesis of creatine phosphate is much more common in sprinters than in marathon runners. Creatine phosphate is involved in energy storage in “fast twitch” or white muscle fibres allowing short, unsustained bursts of energy potential. The mutant version of the enzyme leads to much more efficient synthesis of creatine phosphate. On the answer sheet mark in which of the listed sports you would expect a higher distribution of individuals possessing this mutation (T), and which you would not (F). (0.5 marks for each question).",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q40",
+     "kind": "choice",
+     "points": 1,
+     "question": "40. Marathon.",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ],
+     "multi": false,
+     "answer": "F",
+     "reference": "Правильный ответ: F"
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Тест: вопросы 41–50",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q41",
+     "kind": "choice",
+     "points": 1,
+     "question": "41. Weight lifting.",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q42",
+     "kind": "choice",
+     "points": 1,
+     "question": "42. Triathlon.",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ],
+     "multi": false,
+     "answer": "F",
+     "reference": "Правильный ответ: F"
+    },
+    {
+     "id": "q43",
+     "kind": "choice",
+     "points": 1,
+     "question": "43. 65 km road cycling.",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ],
+     "multi": false,
+     "answer": "F",
+     "reference": "Правильный ответ: F"
+    },
+    {
+     "id": "q44",
+     "kind": "choice",
+     "points": 1,
+     "question": "44. 50m swimming. Use the following information to answer questions 45 – 48. Exercise increases the oxygen demand of muscles. Determine which of the following physiological response(s) could you expect in order to meet this demand by marking each statement as true (T) or false (F). (0.5 marks for each question).",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q45",
+     "kind": "choice",
+     "points": 1,
+     "question": "45. Increased heart rate.",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q46",
+     "kind": "choice",
+     "points": 1,
+     "question": "46. Increased rate of breathing (respiratory rate).",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q47",
+     "kind": "choice",
+     "points": 1,
+     "question": "47. Increased stroke volume (blood volume pumped per heart beat).",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q48",
+     "kind": "choice",
+     "points": 1,
+     "question": "48. Decreased production of thyroid hormones. Page 22 of 24 2012 Australian Science Olympiad Examination - Biology ©Australian Science Innovations ABN 81731558309 Use the following information to answer questions 49 – 53. Harold the hippopotamus had planned a lovely day at the 2012 Olympic games to watch his brother George perform in gymnastics. Unfortunately on the way on the London underground, he developed a headache. Stopping off at the pharmacy he decided to buy a local brand of anaesthetic. Anaesthetics are commonly used for pain relief by interrupting nerve impulses in the nervous system. Harold wanted to see his brother win a medal and his headache to be gone. Mark on the answer sheet which of the following chemicals may function as an anaesthetic (T) and which would not (F)? (0.5 marks for each question). A chemical that:",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ],
+     "multi": false,
+     "answer": "F",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: F"
+    },
+    {
+     "id": "q49",
+     "kind": "choice",
+     "points": 1,
+     "question": "49. induces calcium ion channels to open on the pre-synaptic neuron.",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ],
+     "multi": false,
+     "answer": "F",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: F"
+    },
+    {
+     "id": "q50",
+     "kind": "choice",
+     "points": 1,
+     "question": "50. opens voltage gated potassium channels on the post-synaptic neuron.",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: null"
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Тест: вопросы 51–60",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q51",
+     "kind": "choice",
+     "points": 1,
+     "question": "51. stimulates synthesis of ependymal cells.",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ],
+     "multi": false,
+     "answer": "F",
+     "reference": "Правильный ответ: F"
+    },
+    {
+     "id": "q52",
+     "kind": "choice",
+     "points": 1,
+     "question": "52. inhibits voltage gated sodium channels.",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q53",
+     "kind": "choice",
+     "points": 1,
+     "question": "53. blocks the sodium potassium pump in nerve cell membranes. Use the following information to answer questions 54 – 60. The graph below is from a study of the protein content in algae (Lopez et al, Bioresource Tech. 2010 vol. 101). Protein content was measured using elemental analysis and the Kjeldahl method (a titrometric analysis), then compared against a 'gold standard' technique, the Lowry method. Assume the Lowry method gives the most accurate results. Page 23 of 24 2012 Australian Science Olympiad Examination - Biology ©Australian Science Innovations ABN 81731558309 Determine whether the following statements are true (T) or false (F). (0.5 marks for each question).",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ],
+     "multi": false,
+     "answer": "F",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: F"
+    },
+    {
+     "id": "q54",
+     "kind": "choice",
+     "points": 1,
+     "question": "54. The r2 value is a measure of how well a trend line represents data.",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q55",
+     "kind": "choice",
+     "points": 1,
+     "question": "55. Elemental analysis is the more accurate method, as it has the lowest r2.",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ],
+     "multi": false,
+     "answer": "F",
+     "reference": "Правильный ответ: F"
+    },
+    {
+     "id": "q56",
+     "kind": "choice",
+     "points": 1,
+     "question": "56. If a method equalled the Lowry method in accuracy, it would be plotted as y = x",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q57",
+     "kind": "choice",
+     "points": 1,
+     "question": "57. The x-axis should give the independent variable, while the y-axis should give the dependent variable.",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q58",
+     "kind": "choice",
+     "points": 1,
+     "question": "58. Elemental analysis is the dependent variable, while the Kjeldahl method is independent variable Use this additional information to answer questions 59 - 60. Elemental analysis reveals only how much of a particular element there is in a sample. Protein content is approximated from nitrogen content, but the presence of other nitrogenous compounds (such as nucleic acids) introduces an error. One day a researcher says, “I have a great idea. Let’s add a powerful nuclease enzyme to our samples of algae. It will chop up the nucleic acids, therefore making the determination of protein content by elemental analysis more accurate.”",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ],
+     "multi": false,
+     "answer": "F",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: F"
+    },
+    {
+     "id": "q59",
+     "kind": "choice",
+     "points": 1,
+     "question": "59. Will this work? (0.5 mark). a. Yes b. No",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q60",
+     "kind": "choice",
+     "points": 1,
+     "question": "60. Why? Select one of the following statements as a justification for your answer. (1 mark).",
+     "options": [
+      {
+       "key": "A",
+       "text": "A nuclease enzyme will degrade nucleic acids."
+      },
+      {
+       "key": "B",
+       "text": "It is bacteriophyll and not nucleic acids that most alter nitrogen content."
+      },
+      {
+       "key": "C",
+       "text": "The enzyme will be made of protein too and this will itself cause error."
+      },
+      {
+       "key": "D",
+       "text": "Nitrogen from the nucleic acid will still be present in the sample."
+      },
+      {
+       "key": "E",
+       "text": "There is no such thing as a nuclease enzyme. Page 24 of 24 2012 Australian Science Olympiad Examination - Biology ©Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,7 @@
  * Синхронизация материалов по химии с olympiads.bc-pf.org.
  *
  *   npm run sync-chemistry                 – обновить список PDF на всех страницах (быстро, без скачивания)
+ *   npm run sync-chemistry -- --subject=biology   – то же для биологии (npm run sync-biology)
  *   npm run sync-chemistry -- --download   – + скачать PDF в public/olympiads/chemistry/...
  *   ... --stage=oblast --year=2023         – только часть каталога
  *
@@ -19,7 +20,6 @@ const { parseSourcePage, PAGE_ORIGIN } = require("../lib/chem-catalog");
 
 const ROOT = path.join(__dirname, "..");
 const PUBLIC_DIR = path.join(ROOT, "public");
-const SOURCES_PATH = path.join(ROOT, "data", "chemistry-sources.json");
 const CDN_ORIGIN = "https://cdn.bc-pf.org";
 const UA = "QazAkx-olymp/1.0 (educational platform)";
 
@@ -30,6 +30,8 @@ const args = Object.fromEntries(
   })
 );
 const CONCURRENCY = Number(args.concurrency || 4);
+const SUBJECT = String(args.subject || "chemistry");
+const SOURCES_PATH = path.join(ROOT, "data", `${SUBJECT}-sources.json`);
 
 function sleep(ms) {
   return new Promise((r) => setTimeout(r, ms));
@@ -67,7 +69,7 @@ function listPages() {
   const legacy = JSON.parse(fs.readFileSync(path.join(ROOT, "olympiads.json"), "utf8"));
   const pages = new Set();
   for (const e of legacy) {
-    if (e.subject_en === "chemistry" && String(e.sourcePage || "").startsWith(PAGE_ORIGIN)) pages.add(e.sourcePage);
+    if (e.subject_en === SUBJECT && String(e.sourcePage || "").startsWith(PAGE_ORIGIN)) pages.add(e.sourcePage);
   }
   if (fs.existsSync(SOURCES_PATH)) {
     const prev = JSON.parse(fs.readFileSync(SOURCES_PATH, "utf8"));
@@ -147,7 +149,7 @@ async function main() {
     console.log(`\nГотово. Ошибок: ${errors}.`);
   }
 
-  execFileSync(process.execPath, [path.join(__dirname, "build-catalog.js")], { stdio: "inherit" });
+  execFileSync(process.execPath, [path.join(__dirname, "build-catalog.js"), `--subject=${SUBJECT}`], { stdio: "inherit" });
 }
 
 main().catch((err) => {

@@ -1,0 +1,2019 @@
+{
+ "setId": "bio-utoronto-2013--bio-tasks",
+ "olympiadId": "bio-utoronto-2013",
+ "title": "Биология → U of Toronto → 2013",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/utoronto/2013/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/utoronto/2013/bio-sol.pdf",
+ "generatedBy": "test-parser",
+ "type": "test",
+ "generatedAt": "2026-11-09T13:44:55.439Z",
+ "quality": {
+  "tasks": 5,
+  "parts": 50,
+  "withPoints": 50,
+  "withReference": 50,
+  "withQuestion": 50,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Тест: вопросы 1–10",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q1",
+     "kind": "choice",
+     "points": 1,
+     "question": "1. Building new roads and highways can have impacts on different types of animals. Which of the following species would most likely show the greatest increase in mortality rate because of the introduction of a new road?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Migratory birds"
+      },
+      {
+       "key": "B",
+       "text": "Humans"
+      },
+      {
+       "key": "C",
+       "text": "Trees whose pollen and seeds are dispersed by wind"
+      },
+      {
+       "key": "D",
+       "text": "Amphibians that migrate large distances to breeding areas"
+      },
+      {
+       "key": "E",
+       "text": "Grasses that grow best in hot and dry habitats"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-animal-anatomy",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q2",
+     "kind": "choice",
+     "points": 1,
+     "question": "2. A diploid organism has the genotype AABb. The two genes are on separate chromosomes, as illustrated in a cell from this organism as shown here. This cell is undergoing which stage of the cell cycle (the + symbols represent the poles of the cell)?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Meiosis II"
+      },
+      {
+       "key": "B",
+       "text": "Mitosis"
+      },
+      {
+       "key": "C",
+       "text": "Meiosis I"
+      },
+      {
+       "key": "D",
+       "text": "Could be either meiosis or mitosis"
+      },
+      {
+       "key": "E",
+       "text": "This is neither meiosis nor mitosis"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q3",
+     "kind": "choice",
+     "points": 1,
+     "question": "3. What is chemical energy?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The rise in temperature when energy is added to a system."
+      },
+      {
+       "key": "B",
+       "text": "A form of potential energy."
+      },
+      {
+       "key": "C",
+       "text": "The kinetic energy of molecules."
+      },
+      {
+       "key": "D",
+       "text": "The energy that needs to be added for a reaction to proceed."
+      },
+      {
+       "key": "E",
+       "text": "The energy of an electron in an outer valence shell."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q4",
+     "kind": "choice",
+     "points": 1,
+     "question": "4. On the phylogenetic tree seen here, species B is most closely related to which species?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Species A"
+      },
+      {
+       "key": "B",
+       "text": "Species D"
+      },
+      {
+       "key": "C",
+       "text": "Species C"
+      },
+      {
+       "key": "D",
+       "text": "The most recent common ancestor of species A and D"
+      },
+      {
+       "key": "E",
+       "text": "The most recent common ancestor of species A, D and C"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q5",
+     "kind": "choice",
+     "points": 1,
+     "question": "5. Which of the following statements is correct regarding the contributions of Charles Darwin to our understanding of evolution?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Darwin observed that species vary both globally and locally."
+      },
+      {
+       "key": "B",
+       "text": "Darwin was the first to propose and use the term “evolution” to describe change in organisms through time."
+      },
+      {
+       "key": "C",
+       "text": "Darwin was the first to suggest that populations grow faster than the rate at which food can be produced."
+      },
+      {
+       "key": "D",
+       "text": "Darwin proposed that evolution occurs through inheritance of characteristics acquired over the lifetime of an organism."
+      },
+      {
+       "key": "E",
+       "text": "Darwin was the first to consider that the Earth is millions of years old. © 2013 University of Toronto U of T National Biology Competition / 3"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q6",
+     "kind": "choice",
+     "points": 1,
+     "question": "6. Which cellular structure is involved in cell division, maintaining cell shape, and interactions with myosin to drive muscle contractions, but does not have a primary role in the motility of flagella or cilia?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Microtubules"
+      },
+      {
+       "key": "B",
+       "text": "Actin filaments"
+      },
+      {
+       "key": "C",
+       "text": "Keratin filaments"
+      },
+      {
+       "key": "D",
+       "text": "Dynein"
+      },
+      {
+       "key": "E",
+       "text": "Phospholipid bilayer"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q7",
+     "kind": "choice",
+     "points": 1,
+     "question": "7. What do the dermal, ground, and vascular tissue systems of a plant have in common?",
+     "options": [
+      {
+       "key": "A",
+       "text": "They are derived from apical meristems."
+      },
+      {
+       "key": "B",
+       "text": "They are found in angiosperms but not in gymnosperms."
+      },
+      {
+       "key": "C",
+       "text": "They are derived from the procambium."
+      },
+      {
+       "key": "D",
+       "text": "They transport water throughout the plant."
+      },
+      {
+       "key": "E",
+       "text": "They are involved in photosynthesis and storage."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q8",
+     "kind": "choice",
+     "points": 1,
+     "question": "8. To copy a fragment of DNA using the polymerase chain reaction, which one of the following is/are required?",
+     "options": [
+      {
+       "key": "A",
+       "text": "DNA ligase"
+      },
+      {
+       "key": "B",
+       "text": "DNA helicase"
+      },
+      {
+       "key": "C",
+       "text": "Restriction endonuclease"
+      },
+      {
+       "key": "D",
+       "text": "Primers"
+      },
+      {
+       "key": "E",
+       "text": "Ribonucleotides"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q9",
+     "kind": "choice",
+     "points": 1,
+     "question": "9. If the nucleotide sequence of the coding strand of DNA is 5'-ATGCGGATTTAA-3', what is the template sequence?",
+     "options": [
+      {
+       "key": "A",
+       "text": "5'-TACGCCTAAATT-3'"
+      },
+      {
+       "key": "B",
+       "text": "3'-TTAAATCCGCAT-5'"
+      },
+      {
+       "key": "C",
+       "text": "5'-TTAAATCCGCAT-3'"
+      },
+      {
+       "key": "D",
+       "text": "5'-AUGCGGATTTAA-3'"
+      },
+      {
+       "key": "E",
+       "text": "3'-AUGCGGATTTAA-3'"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q10",
+     "kind": "choice",
+     "points": 1,
+     "question": "10. Which reaction results in the phosphodiester linkage that holds together the 3' carbon of one ribonucleotide to the 5' carbon of another ribonucleotide in the formation of ribonucleic acids?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Condensation reaction"
+      },
+      {
+       "key": "B",
+       "text": "Neutralization reaction"
+      },
+      {
+       "key": "C",
+       "text": "Oxidation/reduction reaction"
+      },
+      {
+       "key": "D",
+       "text": "Dehydration reaction"
+      },
+      {
+       "key": "E",
+       "text": "Hydrolysis reaction"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": true,
+     "answer": "AD",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: AD"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Тест: вопросы 11–20",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q11",
+     "kind": "choice",
+     "points": 1,
+     "question": "11. Which statement about blood circulation through the mammalian heart is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Arteries carry only oxygenated blood away from heart."
+      },
+      {
+       "key": "B",
+       "text": "De-oxygenated blood from the body enters the heart through the right ventricle."
+      },
+      {
+       "key": "C",
+       "text": "Blood flows from the right ventricle to the right atrium."
+      },
+      {
+       "key": "D",
+       "text": "Oxygenated blood from the lungs enters the left atrium."
+      },
+      {
+       "key": "E",
+       "text": "De-oxygenated blood leaves the heart through the right atrium. © 2013 University of Toronto U of T National Biology Competition / 4"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q12",
+     "kind": "choice",
+     "points": 1,
+     "question": "12. Which line in the graph at right represents the most likely changes in mean arterial blood pressure if a release of epinephrine (adrenaline) is stimulated at the 3-minute mark?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Line A"
+      },
+      {
+       "key": "B",
+       "text": "Line B"
+      },
+      {
+       "key": "C",
+       "text": "Line C"
+      },
+      {
+       "key": "D",
+       "text": "Line D"
+      },
+      {
+       "key": "E",
+       "text": "Line E"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q13",
+     "kind": "choice",
+     "points": 1,
+     "question": "13. A scientist is studying a gene with two alleles H1 and H2, where H1 is dominant to H2. A monohybrid (H1 H2) is crossed with another monohybrid of the same genotype. What is the expected frequency of progeny (F1) with the H1 phenotype?",
+     "options": [
+      {
+       "key": "A",
+       "text": "100%"
+      },
+      {
+       "key": "B",
+       "text": "50%"
+      },
+      {
+       "key": "C",
+       "text": "25%"
+      },
+      {
+       "key": "D",
+       "text": "33%"
+      },
+      {
+       "key": "E",
+       "text": "75%"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q14",
+     "kind": "choice",
+     "points": 1,
+     "question": "14. There are three domains of life: Archaea, Bacteria, and Eukarya. Which trait is shared by species within the Archaea and Eukarya domains but not with species in the Bacteria domain?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A nuclear envelope"
+      },
+      {
+       "key": "B",
+       "text": "Peptidoglycan in the cell wall"
+      },
+      {
+       "key": "C",
+       "text": "DNA associated with histone proteins"
+      },
+      {
+       "key": "D",
+       "text": "Membrane-bound organelles"
+      },
+      {
+       "key": "E",
+       "text": "Can grow at temperatures greater than 80oC"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q15",
+     "kind": "choice",
+     "points": 1,
+     "question": "15. Which statement is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Cellular respiration is endothermic."
+      },
+      {
+       "key": "B",
+       "text": "Photosynthesis is endothermic."
+      },
+      {
+       "key": "C",
+       "text": "In photosynthesis and cellular respiration glucose is oxidized to produce ATP."
+      },
+      {
+       "key": "D",
+       "text": "In photosynthesis and cellular respiration carbon dioxide is reduced to produce sugars."
+      },
+      {
+       "key": "E",
+       "text": "Water molecules are reduced during photosynthesis."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q16",
+     "kind": "choice",
+     "points": 1,
+     "question": "16. Which of the following statements provides the best explanation for the presence of very small hind limb bones in whales?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The hind limbs of whales represent an early step in the evolutionary progression from water to land."
+      },
+      {
+       "key": "B",
+       "text": "Hind limb bones function to propel the whale forward during swimming."
+      },
+      {
+       "key": "C",
+       "text": "Whale hind limb bones develop as a result of shared ancestry with terrestrial mammals."
+      },
+      {
+       "key": "D",
+       "text": "Whale hind limb bones arise due to a deleterious mutation during development."
+      },
+      {
+       "key": "E",
+       "text": "The hind limbs of whales are a structural abnormality that occurs as a result of bone disease. © 2013 University of Toronto U of T National Biology Competition / 5"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-animal-anatomy",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q17",
+     "kind": "choice",
+     "points": 1,
+     "question": "17. The lining of the small intestine contains microvilli. Which statement about microvilli is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "They produce and excrete digestive enzymes into the small intestine."
+      },
+      {
+       "key": "B",
+       "text": "They play an important role in mechanical digestion."
+      },
+      {
+       "key": "C",
+       "text": "They play an important role in absorption."
+      },
+      {
+       "key": "D",
+       "text": "They provide an environment for symbiotic stomach bacteria."
+      },
+      {
+       "key": "E",
+       "text": "They secrete hydrochloric acid to aid in digestion."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q18",
+     "kind": "choice",
+     "points": 1,
+     "question": "18. Which modification to a phospholipid bilayer would increase the permeability of the membrane?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Increase the concentration of saturated fatty acids in the membrane."
+      },
+      {
+       "key": "B",
+       "text": "Decrease the concentration of unsaturated fatty acids in the membrane."
+      },
+      {
+       "key": "C",
+       "text": "Increase the concentration of cholesterol in the membrane."
+      },
+      {
+       "key": "D",
+       "text": "Decrease the length of the fatty-acid tails of phospholipids in the membrane."
+      },
+      {
+       "key": "E",
+       "text": "Decrease the temperature of the environment surrounding the membrane."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q19",
+     "kind": "choice",
+     "points": 1,
+     "question": "19. What is the most likely effect when the water pressure (Ψ ) in soil is -0.3 MPa (megapascals) and -0.8 MPa in the root tissue of a plant?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Water will move up the xylem and out of the leaves."
+      },
+      {
+       "key": "B",
+       "text": "Water will move from the root tissue into the soil."
+      },
+      {
+       "key": "C",
+       "text": "There will be no movement of water."
+      },
+      {
+       "key": "D",
+       "text": "Solutes will move from the soil into the root tissue."
+      },
+      {
+       "key": "E",
+       "text": "Water will move from the soil into the root tissue."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q20",
+     "kind": "choice",
+     "points": 1,
+     "question": "20. What is the most likely effect if the active transporters involved in the movement of electrolytes in gill tissues of a freshwater fish were NOT functional?",
+     "options": [
+      {
+       "key": "A",
+       "text": "As water diffuses into the gills, the gill tissue will become isotonic."
+      },
+      {
+       "key": "B",
+       "text": "The electrolyte concentration within the gill tissue will increase."
+      },
+      {
+       "key": "C",
+       "text": "As water is lost from the gills by osmosis, the gill tissue will become hypertonic."
+      },
+      {
+       "key": "D",
+       "text": "More electrolytes will be excreted in urine."
+      },
+      {
+       "key": "E",
+       "text": "Electrolytes will be lost from gill tissue by diffusion into the environment."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: A"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Тест: вопросы 21–30",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q21",
+     "kind": "choice",
+     "points": 1,
+     "question": "21. If a human embryo did not have an ectodermal germ layer, which tissue system would NOT be generated?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Respiratory tract"
+      },
+      {
+       "key": "B",
+       "text": "Nervous system"
+      },
+      {
+       "key": "C",
+       "text": "Epithelial lining of the digestive tract"
+      },
+      {
+       "key": "D",
+       "text": "Skeletal system"
+      },
+      {
+       "key": "E",
+       "text": "Reproductive system"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q22",
+     "kind": "choice",
+     "points": 1,
+     "question": "22. Which of the following mutations will most likely affect the final polypeptide (effects could include a change in polypeptide abundance and/or structure and/or function)?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A deletion of 50 nucleotides in the promoter."
+      },
+      {
+       "key": "B",
+       "text": "A deletion of four nucleotides in the sequence 5' to the promoter."
+      },
+      {
+       "key": "C",
+       "text": "A deletion of three nucleotides in the middle of the third intron."
+      },
+      {
+       "key": "D",
+       "text": "A silent mutation in the first exon."
+      },
+      {
+       "key": "E",
+       "text": "A single nucleotide substitution in the 5' UTR (untranslated region) © 2013 University of Toronto U of T National Biology Competition / 6"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q23",
+     "kind": "choice",
+     "points": 1,
+     "question": "23. If methanol (CH3OH) is mixed with water which statement is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Hydrogen atoms in both water and methanol can be shared with the electronegative oxygen in other water and methanol molecules."
+      },
+      {
+       "key": "B",
+       "text": "The -OH of the methanol molecules will completely dissociate to release protons."
+      },
+      {
+       "key": "C",
+       "text": "There will be extensive interactions between the carbon atoms of methanol and the hydrogen atoms of water."
+      },
+      {
+       "key": "D",
+       "text": "Electrons associated with the oxygen nucleus in methanol will be drawn away towards the hydrogen nuclei of water."
+      },
+      {
+       "key": "E",
+       "text": "There will be non-polar interactions between the carbon atoms of methanol and hydrogen atoms of water."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q24",
+     "kind": "choice",
+     "points": 1,
+     "question": "24. Which statement about breathing in a fish and a mammal is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Unlike mammalian lungs, the surface of fish gills is not extensively folded for efficient gas exchange."
+      },
+      {
+       "key": "B",
+       "text": "Both fish and mammals have a diaphragm that functions to ventilate their respiratory surfaces."
+      },
+      {
+       "key": "C",
+       "text": "Oxygen availability in the environment is much higher for a mammal than a fish."
+      },
+      {
+       "key": "D",
+       "text": "Fish gills are not as efficient as mammalian lungs at obtaining oxygen from their environment."
+      },
+      {
+       "key": "E",
+       "text": "Fish gills and mammalian lungs both expand and contract during respiration."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q25",
+     "kind": "choice",
+     "points": 1,
+     "question": "25. The diagram at right shows a simple food web. Which group of organisms is expected to have the highest overall productivity?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Foxes"
+      },
+      {
+       "key": "B",
+       "text": "Rabbits"
+      },
+      {
+       "key": "C",
+       "text": "Squirrels"
+      },
+      {
+       "key": "D",
+       "text": "Mice"
+      },
+      {
+       "key": "E",
+       "text": "Grass"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q26",
+     "kind": "choice",
+     "points": 1,
+     "question": "26. Which of the following was one of the earliest changes that contributed to the success of plants transitioning from aquatic to terrestrial ecosystems?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The ingestion of photosynthetic bacteria, enabling plants to photosynthesize."
+      },
+      {
+       "key": "B",
+       "text": "The development of vessels to transport water."
+      },
+      {
+       "key": "C",
+       "text": "The development of roots to obtain nutrients and water from the soil."
+      },
+      {
+       "key": "D",
+       "text": "Spores or zygotes encased in a tough coat to resist drying out."
+      },
+      {
+       "key": "E",
+       "text": "The development of flowers to attract pollinators."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q27",
+     "kind": "choice",
+     "points": 1,
+     "question": "27. What would be the consequence of severe DNA damage detected during the G1 checkpoint of the cell cycle?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The chromosomes will not attach properly to the mitotic spindle."
+      },
+      {
+       "key": "B",
+       "text": "The DNA of the cell will not be replicated."
+      },
+      {
+       "key": "C",
+       "text": "The cell will enter mitosis with damaged DNA."
+      },
+      {
+       "key": "D",
+       "text": "The cell will continue to grow and then enter mitosis."
+      },
+      {
+       "key": "E",
+       "text": "The cell cycle will stop after DNA replication occurs. © 2013 University of Toronto U of T National Biology Competition / 7"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q28",
+     "kind": "choice",
+     "points": 1,
+     "question": "28. Which of the following correctly matches the function of dendrites, cell bodies, and neuron axons? i. Passes electrical signals by action potentials ii. Collects electrical signals iii. Integrates incoming signals and generates outgoing signals",
+     "options": [
+      {
+       "key": "A",
+       "text": "Dendrites – i; cell bodies – ii; axons – iii"
+      },
+      {
+       "key": "B",
+       "text": "Dendrites – i; cell bodies – iii; axons – ii"
+      },
+      {
+       "key": "C",
+       "text": "Dendrites – ii; cell bodies – iii; axons – i"
+      },
+      {
+       "key": "D",
+       "text": "Dendrites – iii; cell bodies – ii; axons – i"
+      },
+      {
+       "key": "E",
+       "text": "Dendrites – iii; cell bodies – i; axons – ii"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q29",
+     "kind": "choice",
+     "points": 1,
+     "question": "29. In a well-studied population of prairie dogs (burrowing rodents), a number of different events have been associated with the fluctuation in average body size of individuals in the population from year to year. Which scenario describes an event that is best characterized as genetic drift?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The smallest prairie dogs from a nearby area join the population."
+      },
+      {
+       "key": "B",
+       "text": "A flash flood destroys most of the burrows and only 15% of the population survives."
+      },
+      {
+       "key": "C",
+       "text": "A farmer moves the largest prairie dogs to a remote location to prevent the population from increasing and destroying his fields."
+      },
+      {
+       "key": "D",
+       "text": "In a very cold year, larger prairie dogs survive and reproduce better than smaller prairie dogs."
+      },
+      {
+       "key": "E",
+       "text": "Prairie dog females develop a preference to mate with the largest males."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-development",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q30",
+     "kind": "choice",
+     "points": 1,
+     "question": "30. The diagram at right illustrates five possible arrangements (numbered 1 to 5) of a protein that could associate with a phospholipid bilayer. The black regions of the protein are composed of polar and charged amino acids, and the white region of the protein is composed of nonpolar amino acids. Which arrangement is most likely to occur?",
+     "options": [
+      {
+       "key": "A",
+       "text": "1"
+      },
+      {
+       "key": "B",
+       "text": "2"
+      },
+      {
+       "key": "C",
+       "text": "3"
+      },
+      {
+       "key": "D",
+       "text": "4"
+      },
+      {
+       "key": "E",
+       "text": "5"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: A"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Тест: вопросы 31–40",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q31",
+     "kind": "choice",
+     "points": 1,
+     "question": "31. A plant has a genetic mutation which prevents auxin from binding to receptors in the plasma membrane of cells in the shoot of the plant. What is the most likely effect of this mutation?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The cells in the shoot will not photosynthesize."
+      },
+      {
+       "key": "B",
+       "text": "The shoot will undergo elongation."
+      },
+      {
+       "key": "C",
+       "text": "The plant will not be able to defend against pathogens."
+      },
+      {
+       "key": "D",
+       "text": "The cells in the shoot will undergo increased cell division."
+      },
+      {
+       "key": "E",
+       "text": "The shoot will not exhibit phototropism."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q32",
+     "kind": "choice",
+     "points": 1,
+     "question": "32. Which statement refers to a population which exhibits density-dependent growth?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Fecundity increases as population size increases."
+      },
+      {
+       "key": "B",
+       "text": "Survival does not change across a range of population sizes."
+      },
+      {
+       "key": "C",
+       "text": "Population size always increases."
+      },
+      {
+       "key": "D",
+       "text": "Survival decreases as population size increases."
+      },
+      {
+       "key": "E",
+       "text": "Fecundity and survival increase at similar rates. © 2013 University of Toronto U of T National Biology Competition / 8"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q33",
+     "kind": "choice",
+     "points": 1,
+     "question": "33. What property is characteristic of a carbon-based molecule that has side chains consisting of glycine compared to those that have side chains consisting of cysteine (as shown below)? The molecule with the cysteine will:",
+     "options": [
+      {
+       "key": "A",
+       "text": "behave like a base."
+      },
+      {
+       "key": "B",
+       "text": "form hydrogen bonds with water."
+      },
+      {
+       "key": "C",
+       "text": "likely donate protons."
+      },
+      {
+       "key": "D",
+       "text": "likely form disulfide bonds with other molecules."
+      },
+      {
+       "key": "E",
+       "text": "be nonpolar."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q34",
+     "kind": "choice",
+     "points": 1,
+     "question": "34. Which structure is NOT part of the reproductive system in a vertebrate animal?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Cloaca"
+      },
+      {
+       "key": "B",
+       "text": "Vas deferens"
+      },
+      {
+       "key": "C",
+       "text": "Pedipalp"
+      },
+      {
+       "key": "D",
+       "text": "Oviduct"
+      },
+      {
+       "key": "E",
+       "text": "Shell gland"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q35",
+     "kind": "choice",
+     "points": 1,
+     "question": "35. In humans, the Xbr gene is located on chromosome 12 and is responsible for the production of a protein involved in liver function. There are three different alleles of the Xbr gene that exist in the human population: Xbr1, Xbr2, and Xbr3. What is the maximum number of different alleles of the Xbr gene that a genetically normal person can have in the genome of one of their skin cells?",
+     "options": [
+      {
+       "key": "A",
+       "text": "3"
+      },
+      {
+       "key": "B",
+       "text": "2"
+      },
+      {
+       "key": "C",
+       "text": "6"
+      },
+      {
+       "key": "D",
+       "text": "4"
+      },
+      {
+       "key": "E",
+       "text": "None"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q36",
+     "kind": "choice",
+     "points": 1,
+     "question": "36. What is the most likely reason that organisms that rely on fermentation grow more slowly than those that utilize cellular respiration?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Only glycolysis occurs in organisms that undergo fermentation, resulting in less ATP production and therefore less energy is available for growth."
+      },
+      {
+       "key": "B",
+       "text": "Phosphorylation of ADP to ATP does not occur in fermentation, resulting in less energy available for growth."
+      },
+      {
+       "key": "C",
+       "text": "During fermentation fewer protons are pumped by complexes in the electron transport chain, therefore less ATP is produced and less energy is available for growth."
+      },
+      {
+       "key": "D",
+       "text": "Fermentation consumes ATP, so less energy is available for growth."
+      },
+      {
+       "key": "E",
+       "text": "More energy-rich bonds are broken in fermentation compared to cellular respiration, resulting in less energy available for growth."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q37",
+     "kind": "choice",
+     "points": 1,
+     "question": "37. I am an organelle in a cell. I am part of the endomembrane system and digest products that were engulfed by phagocytosis. There are proton pumps in my membrane which pump hydrogen ions into the organelle lumen to create an acidic pH suitable for digestion. What organelle am I?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Mitochondrion"
+      },
+      {
+       "key": "B",
+       "text": "Phagosome"
+      },
+      {
+       "key": "C",
+       "text": "Vacuole"
+      },
+      {
+       "key": "D",
+       "text": "Peroxisome"
+      },
+      {
+       "key": "E",
+       "text": "Lysosome © 2013 University of Toronto U of T National Biology Competition / 9"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q38",
+     "kind": "choice",
+     "points": 1,
+     "question": "38. Three DNA sequences, called markers, are used in paternity testing. There are three alleles of the marker that exist in nature: M1, M2, and M3. Each marker is copied from a DNA sample and then the copies are cut with the restriction endonuclease EcoRI, resulting in the banding patterns shown below (lanes labelled M1, M2, and M3). DNA from a mother, her child, and two possible fathers is collected. The marker alleles are copied and cut with EcoRI and the cut DNA is examined using gel electrophoresis (shown below). Thicker bands represent two copies of that fragment; DNA migrates through the gel from top to bottom, in the direction of the arrow. Based on the information in the gel, what conclusion about the child’s parents is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Neither Male 1 nor Male 2 could be the father."
+      },
+      {
+       "key": "B",
+       "text": "Male 2 could be the father."
+      },
+      {
+       "key": "C",
+       "text": "Male 1 or Male 2 could be the father."
+      },
+      {
+       "key": "D",
+       "text": "Male 1 could be the father."
+      },
+      {
+       "key": "E",
+       "text": "This is not the child’s biological mother."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q39",
+     "kind": "choice",
+     "points": 1,
+     "question": "39. Two distinct populations of lizards that originated from a single source population have lived on two different islands for over a thousand generations. After a natural disaster eliminates most of the population on one island, there is a disagreement among biologists about whether to supplement the population with some lizards from the other island. Which of the arguments below provides the best explanation for why the two populations may actually be different species?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Lizards in the two populations react differently to predators."
+      },
+      {
+       "key": "B",
+       "text": "Lizards in the two populations are different colours."
+      },
+      {
+       "key": "C",
+       "text": "The two lizard populations breed at different times of the year."
+      },
+      {
+       "key": "D",
+       "text": "Lizards on one of the islands can tolerate cold temperatures better than lizards on the other island."
+      },
+      {
+       "key": "E",
+       "text": "Females on one island lay more eggs on average than females on the other island."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-ecology",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q40",
+     "kind": "choice",
+     "points": 1,
+     "question": "40. A male and female have three biological children. One child has an autosomal recessive genetic disease. Both parents and the other two children do not display signs of the disease. If A represents the dominant, non-disease allele, and a the recessive disease-causing allele, what genotype must the parents have?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Both parents are aa."
+      },
+      {
+       "key": "B",
+       "text": "Both parents are Aa."
+      },
+      {
+       "key": "C",
+       "text": "One parent is Aa, the other is aa."
+      },
+      {
+       "key": "D",
+       "text": "One parent is AA, the other is aa."
+      },
+      {
+       "key": "E",
+       "text": "One parent is AA, the other is Aa."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Тест: вопросы 41–50",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q41",
+     "kind": "choice",
+     "points": 1,
+     "question": "41. What would be the effect of preventing the flow of potassium ions in a neuron?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Action potentials would be stronger than usual."
+      },
+      {
+       "key": "B",
+       "text": "Depolarization would occur more rapidly during an action potential."
+      },
+      {
+       "key": "C",
+       "text": "The threshold potential of the neuron would become more negative."
+      },
+      {
+       "key": "D",
+       "text": "The resting potential of the neuron would become more negative."
+      },
+      {
+       "key": "E",
+       "text": "There would be no repolarization (or slower repolarization) during an action potential. © 2013 University of Toronto U of T National Biology Competition / 10"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q42",
+     "kind": "choice",
+     "points": 1,
+     "question": "42. The graph at the right shows the population sizes reached by a population of flowering plant and a population of flies when they are raised alone and when they are raised together. Given this information, what is the best description of the relationship between the flowers and the flies?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Interspecific competition"
+      },
+      {
+       "key": "B",
+       "text": "Mutualism"
+      },
+      {
+       "key": "C",
+       "text": "Parasitism"
+      },
+      {
+       "key": "D",
+       "text": "Commensalism"
+      },
+      {
+       "key": "E",
+       "text": "Predation"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q43",
+     "kind": "choice",
+     "points": 1,
+     "question": "43. Which statement about the relationship between the structure and primary function of structural polysaccharides is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The unbranched helical structure of amylose (a starch) provides support in the cell walls of plants."
+      },
+      {
+       "key": "B",
+       "text": "The highly branched helical structures of glycogen provide structural support in liver cells."
+      },
+      {
+       "key": "C",
+       "text": "Parallel chains of chitin in fungal cell walls are used for energy storage."
+      },
+      {
+       "key": "D",
+       "text": "The parallel strands of cellulose that are joined by hydrogen bonds provide support in the cell walls of plants."
+      },
+      {
+       "key": "E",
+       "text": "Lignins in plant cell walls provide flexible structural support, allowing for cells to expand during growth."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q44",
+     "kind": "choice",
+     "points": 1,
+     "question": "44. A mouse that has developmental problems, but remains fertile, is examined by a geneticist who discovers that this mouse has trisomy 21. What can definitively be concluded based on this information?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The egg that was fertilized to create this mouse had two copies of chromosome 21."
+      },
+      {
+       "key": "B",
+       "text": "The sperm that was fertilized to create this mouse had two copies of chromosome 21."
+      },
+      {
+       "key": "C",
+       "text": "Gametes produced by this mouse will be a mix of normal (one copy of chromosome 21) and disomic (two copies of chromosome 21)."
+      },
+      {
+       "key": "D",
+       "text": "Both (a) and (c)."
+      },
+      {
+       "key": "E",
+       "text": "Both (b) and (c)."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-development",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q45",
+     "kind": "choice",
+     "points": 1,
+     "question": "45. What would be the most likely effect of adding more protons to the mitochondrial matrix?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The phosphorylation of ADP to ATP will be reduced."
+      },
+      {
+       "key": "B",
+       "text": "FADH2 will not be converted to FAD."
+      },
+      {
+       "key": "C",
+       "text": "Glucose will not be converted to pyruvate."
+      },
+      {
+       "key": "D",
+       "text": "A larger proton gradient between the matrix and intermembrane space will be produced."
+      },
+      {
+       "key": "E",
+       "text": "More protons will flow through ATP synthase into the matrix."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q46",
+     "kind": "choice",
+     "points": 1,
+     "question": "46. Which of the processes below is most likely to result in the removal of a rare, recessive allele from a population?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Mutation"
+      },
+      {
+       "key": "B",
+       "text": "Genetic drift"
+      },
+      {
+       "key": "C",
+       "text": "Immigration"
+      },
+      {
+       "key": "D",
+       "text": "Non-random mating"
+      },
+      {
+       "key": "E",
+       "text": "Natural selection © 2013 University of Toronto U of T National Biology Competition / 11"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q47",
+     "kind": "choice",
+     "points": 1,
+     "question": "47. A small uncharged molecule moves across a membrane down an electrochemical gradient. What transport process is most likely involved in the movement of this molecule?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Diffusion"
+      },
+      {
+       "key": "B",
+       "text": "Osmosis"
+      },
+      {
+       "key": "C",
+       "text": "Facilitated diffusion"
+      },
+      {
+       "key": "D",
+       "text": "Active transport"
+      },
+      {
+       "key": "E",
+       "text": "Receptor mediated transport"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q48",
+     "kind": "choice",
+     "points": 1,
+     "question": "48. As part of an immune response, antibodies coat viral particles that are floating in the blood. The antibody-coated virus is then phagocytized by a cell and destroyed. What is this type of cell?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A cytotoxic T cell"
+      },
+      {
+       "key": "B",
+       "text": "A B cell"
+      },
+      {
+       "key": "C",
+       "text": "A helper T cell"
+      },
+      {
+       "key": "D",
+       "text": "A neutrophil, a type of white blood cell"
+      },
+      {
+       "key": "E",
+       "text": "A memory cell"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q49",
+     "kind": "choice",
+     "points": 1,
+     "question": "49. Conservationists are concerned that many native terrestrial species have become rare because of recent human activities. Which activity is the most important cause today for the decline of native terrestrial species of plants and animals worldwide?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Overexploitation"
+      },
+      {
+       "key": "B",
+       "text": "Habitat loss"
+      },
+      {
+       "key": "C",
+       "text": "Pollution"
+      },
+      {
+       "key": "D",
+       "text": "Introduced species"
+      },
+      {
+       "key": "E",
+       "text": "Interactions among native species"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q50",
+     "kind": "choice",
+     "points": 1,
+     "question": "50. You have three different double-stranded DNA molecules, each of which you incubate (separately) in solution that is heated from 25o to 100oC to denature the double-stranded molecules. Molecule 1 is 1000 base pairs (bp) long and has a G-C content of 70%, Molecule 2 is 1000 bp long and has a G-C content of 50%, and Molecule 3 is 2000 bp long and has a G-C content of 40%. Based on this information and your knowledge of the bonds that hold these base pairs together, which statement is likely to be the correct prediction of the denaturation of these molecules?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Molecule 1 will denature at the highest temperature."
+      },
+      {
+       "key": "B",
+       "text": "Molecule 2 will denature at the highest temperature."
+      },
+      {
+       "key": "C",
+       "text": "Molecule 3 will denature at the highest temperature."
+      },
+      {
+       "key": "D",
+       "text": "Molecules 1 and 2 will denature at a higher temperature than Molecule 3."
+      },
+      {
+       "key": "E",
+       "text": "All three molecules will denature at the same temperature. End of exam. • Thank you for participating in the 2013 National Biology Competition. • Competition results, including scholarship information, certificates, and cash prizes, will be received by your school in late May. • Honour rolls of the top students and schools, the names of the students eligible for a competition scholarship, and the exam questions with answers will be posted on the competition’s website in late May: biocomp.utoronto.ca. © 2013 University of Toronto"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    }
+   ]
+  }
+ ]
+}

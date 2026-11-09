@@ -7,12 +7,12 @@
  "tasksFile": "olympiads/chemistry/s/icho/2011/theory_task_eng.pdf",
  "solutionFile": "olympiads/chemistry/s/icho/2011/theory_sol.pdf",
  "generatedBy": "parser",
- "generatedAt": "2026-11-08T17:00:03.864Z",
+ "generatedAt": "2026-11-09T13:25:00.569Z",
  "quality": {
   "tasks": 8,
   "parts": 8,
   "withPoints": 8,
-  "withReference": 0,
+  "withReference": 8,
   "withQuestion": 8,
   "estimatedPoints": 8
  },
@@ -28,7 +28,7 @@
      "id": "1.1",
      "points": 10,
      "question": "Решите задачу полностью и запишите ответ.",
-     "reference": "",
+     "reference": "1. Using a 10 ст? pipette, transfer 10.0 ст? aliquot from the bottle labelled as unknown\nsolution into a 250 ст?  Erlenmeyer flask. Complete the volume to approximately\n100 ст? by adding distilled water.\n\n1.1 Determine the amount of СГ ions (in mmol) іп 100 ст? of the unknown solution.\n\n1.1 – 1.3\n\n> Some distribution graphs were proposed by the organizer and approved by the\nInternational Jury that could be applied for evaluating of accuracy of the titrations\nand, consequently, for awarding points.\n\n> For determinations of amounts of substance of СГ and Mg** ions, as well\nconcentrations of both MgCl, and NaCl in the unknown solution, simple\nstoichiometric calculations can be applied.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume3 4285",
      "pointsEstimated": true
     }
    ]
@@ -44,7 +44,7 @@
      "id": "2.1",
      "points": 10,
      "question": "Решите задачу полностью и запишите ответ.",
-     "reference": "",
+     "reference": "1. Check that the experimental setup, shown below, is held on a support, the\ngraduated tube is connected to the Schlenk tube by Tygon tubing, and a stir bar is\nin the Schlenk tube.\n2.1 Plot the volume of gas recorded versus time in Graph 2.1.\n\n2.1 Part A. The volume of the gas evolved stays within a range of 0 – 2 ст? (maximum).",
      "pointsEstimated": true
     }
    ]
@@ -53,14 +53,14 @@
    "number": 3,
    "title": "8.0 % of the total",
    "weight": null,
-   "total": 10,
+   "total": 3.5,
    "statement": "c\n                                              a     b                   d     Problem 3      x%\n                                                           i       ii\n                                             7      4      2       5    5         23         8.0\n\nAt 0 K, the total energy of a gaseous diatomic molecule AB is approximately given by:\n\nE = Eo + Evib\n\nwhere Eo is the electronic energy of the ground state, and Evib is the vibrational energy.\n\nAllowed values of the vibrational energies are given by the expression:\n\n                                                  ε=                    m(AB) =\nEколеб = (v +   )ε           v = 0, 1, 2,…\n\nwhere h is the Planck’s constant, v is the vibrational quantum number, k is the force constant, and\nm is the reduced mass of the molecule. At 0 K, it may be safely assumed that v is zero, and Eo and\nk are independent of isotopic substitution in the molecule.\n\na.   Calculate the enthalpy change, DH, in kJ·mol-1 for the following reaction at 0 K.\n\n     H2(g) + D2(g) ® 2 HD(g)\n\n     Deuterium, D, is an isotope of hydrogen atom with mass number 2. For the H2 molecule, k is\n     575.11 N·m-1, and the isotopic molar masses of H and D are 1.0078 and 2.0141 g·mol-1,\n     respectively. Given: e H2 = 1.1546 e HD and e D2 = 0.8167 e HD at 0 K.\n\n43rd IChO Theoretical Problems, Official English Version                                           8\n\nb.   Calculate the frequency in s-1 of infrared photons that can be absorbed by HD molecule. (If you\n     do not have the value for e HD then use 8.000×10-20 J for the calculation.)\n\n43rd IChO Theoretical Problems, Official English Version                                          9\n\nc.   The allowed electronic energies of H atom are given by the expression\n\n            RH\n     E =-      , n = 1, 2, K    where RH = 13.5984 eV, 1 eV = 1.602×10-19 J\n            n2\n     i.    The total energy of H2 molecule in its ground state is -31.675 eV, relative to the same\n           reference as that of hydrogen atom. Calculate the dissociation energy in eV of a hydrogen\n           molecule in its ground state such that both H atoms are produced in their ground states.\n\n     ii.   A H2 molecule in the ground state dissociates into its atoms after absorbing a photon of\n           wavelength 77.0 nm. Determine all possibilities for the electronic states of H atoms\n           produced. In each case, what is the total kinetic energy in eV of the dissociated hydrogen\n           atoms?\n\n43rd IChO Theoretical Problems, Official English Version                                          10\n\nd.   Calculate the electron affinity of H2+ ion in eV if its dissociation energy is 2.650 eV. (If you do\n     not have the value for the dissociation energy for H2 then use 4.500 eV for the calculation.)\n\nElectron affinity =             eV\n\n43rd IChO Theoretical Problems, Official English Version                                             11",
    "parts": [
     {
      "id": "3.1",
-     "points": 10,
+     "points": 3.5,
      "question": "Решите задачу полностью и запишите ответ.",
-     "reference": "",
+     "reference": "1. Using a syringe, transfer through the septum the triethylamine solution in vial 1 (V 1)\n\nto the 10 ст? round bottom reaction flask  (Rxn RB) containing 0.50 mmol\n2,3-dibromo-1-ferrocenylpropan-1-one.\n3.1 Сору (sketch) the ТІСІ plate on your answer sheet.\n\n3.1 – 3.2\nMaximum points аге given:\n- for the appearance of three spots loaded on the base line,\n- for the well developed and separated spots on the TLC,\n- for the solvent front line and the base line,\n- for the accurate presentation of the sketch of the TLC,\n- in part 3.2, moreover, for the absence of fraction B in fraction A and vice versa.",
      "pointsEstimated": true
     }
    ]
@@ -76,7 +76,7 @@
      "id": "4.1",
      "points": 10,
      "question": "Решите задачу полностью и запишите ответ.",
-     "reference": "",
+     "reference": "4.1 Calculate the amount of ruthenium catalyst (in mg) which must be added to\n0.100 ат? of NaBH, solution with a concentration of 1.0 mol Өт 3% supply the\nhydrogen gas at a rate of 0.100 dm*-min” at 25 T and 1.0 atm, that is required for a\nportable fuel cell.",
      "pointsEstimated": true
     }
    ]
@@ -92,7 +92,7 @@
      "id": "5.1",
      "points": 10,
      "question": "Решите задачу полностью и запишите ответ.",
-     "reference": "",
+     "reference": "5.1 Write the Lewis structure for № with three energetically favourable resonance forms.\nIndicate the lone pairs and formal charges. Draw the molecular geometry of №.\n\n5.1 Formula: М;\nLewis structure:\n|IN==N–N–N=NI\n(+)    (-)     (+)\n|М-ЕМ--М--м--мы|\n(+)           (+)     (-)\n| N=N – М – N == М|\n(-)     (+)           (+)\nMolecular geometry:\n+\nN\nж `            `\nМ                         М",
      "pointsEstimated": true
     }
    ]
@@ -108,7 +108,7 @@
      "id": "6.1",
      "points": 10,
      "question": "Решите задачу полностью и запишите ответ.",
-     "reference": "",
+     "reference": "6.1 Write the overall cell reaction for this voltaic cell.\n\n6.1 Net anode half reaction:\n\nAu(s) + 2 S,05 (aq) > [Au(S203)2]* (aq) + е”\n\nNet cathode half reaction:\n\n[Си(МНз)4? (аа) + 3 5,02(ад) + €& – [Cu(S20s3)s]” (aq) + 4 NH3(aq)\n\nerall cell reaction:\n\nAu(s) + [Cu(NHs)4]”\"(aq) + 5 S,O3 (aq) > [Au(S20s3)2]” (aq) + [Cu(S20s)s]” (aq)\n\n+ 4 МНз(ад)",
      "pointsEstimated": true
     }
    ]
@@ -124,7 +124,7 @@
      "id": "7.1",
      "points": 10,
      "question": "Решите задачу полностью и запишите ответ.",
-     "reference": "",
+     "reference": "7.1 Draw the structures of A, B, С, D, and the intermediate 5.\n\nReduction of D with LiAIH, yields Е which reacts with an excess of acetyl chloride іп\npyridine to give F (Scheme 7.2).\n\nScheme 7.2:\n\nНАНА, ЕОО        CH3COCI             Bra                 DBU (2\nD  >   Е  =   Е   ------- С. +  еу  DBU eq) |  H\n25°C        Pyridine, 25 “С      СН2СЬ, 0 °C           Benzene, reflux\nDBU = Ory\nN",
      "pointsEstimated": true
     }
    ]
@@ -140,7 +140,7 @@
      "id": "8.1",
      "points": 10,
      "question": "Решите задачу полностью и запишите ответ.",
-     "reference": "",
+     "reference": "8.1 Draw the structures of В and С with the correct stereochemistry. Use dashed-\nwedged line notation throughout this problem.\n\nReaction of C with sodium azide in aqueous acetonitrile gives a mixture of\nenantiopure regioisomers О and Е in a ratio of 3 : 1 (Scheme 8.2). On the other hand, the\ncompound B affords E as the sole product under the same condition.\n\nTHE COMPETITION PROBLEMS FROM THE INTERNATIONAL CHEMISTRY OLYMPIADS, Volume 3                           1278\n\nScheme 8.2:\n\nМаМз\nС     aq. CH3CN       D       +       Е\nreflux\nМаМз\nВ     aq. CH3CN        Е\nreflux",
      "pointsEstimated": true
     }
    ]

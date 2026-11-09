@@ -1,0 +1,2020 @@
+{
+ "setId": "bio-utoronto-2017--bio-tasks",
+ "olympiadId": "bio-utoronto-2017",
+ "title": "Биология → U of Toronto → 2017",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/utoronto/2017/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/utoronto/2017/bio-sol.pdf",
+ "generatedBy": "test-parser",
+ "type": "test",
+ "generatedAt": "2026-11-09T13:44:41.365Z",
+ "quality": {
+  "tasks": 5,
+  "parts": 50,
+  "withPoints": 50,
+  "withReference": 50,
+  "withQuestion": 50,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Тест: вопросы 1–10",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q1",
+     "kind": "choice",
+     "points": 1,
+     "question": "1. Which statement is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Some viruses have elaborate cell structures."
+      },
+      {
+       "key": "B",
+       "text": "The nucleus is present in both prokaryotes and eukaryotes, but not in viruses."
+      },
+      {
+       "key": "C",
+       "text": "Ribosomes are present in eukaryotes, but not in prokaryotes or viruses."
+      },
+      {
+       "key": "D",
+       "text": "Some prokaryotes are multicellular."
+      },
+      {
+       "key": "E",
+       "text": "Some eukaryotes are unicellular."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q2",
+     "kind": "choice",
+     "points": 1,
+     "question": "2. A dog has adult tapeworms (Taenia saginata) attached to the lining of its small intestine. What happens to tapeworm eggs when they are released into the small intestine?",
+     "options": [
+      {
+       "key": "A",
+       "text": "They move through the digestive tract to the host’s mouth and are expelled."
+      },
+      {
+       "key": "B",
+       "text": "They move through the intestine and then are expelled in the urine via the ureters."
+      },
+      {
+       "key": "C",
+       "text": "They move through the intestine and then are expelled through the anus along with the feces."
+      },
+      {
+       "key": "D",
+       "text": "They move through the intestine and are digested by the host."
+      },
+      {
+       "key": "E",
+       "text": "They remain in the small intestine until the host dies."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q3",
+     "kind": "choice",
+     "points": 1,
+     "question": "3. Two fruit flies with the genotypes AABbCc and aaBBCc are crossed. Which of the following genotypes is most likely to occur in the offspring?",
+     "options": [
+      {
+       "key": "A",
+       "text": "AaBBcc"
+      },
+      {
+       "key": "B",
+       "text": "AaBbCc"
+      },
+      {
+       "key": "C",
+       "text": "AaBBCC"
+      },
+      {
+       "key": "D",
+       "text": "AAbbCc"
+      },
+      {
+       "key": "E",
+       "text": "aaBbCc"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q4",
+     "kind": "choice",
+     "points": 1,
+     "question": "4. The bacterium E. coli requires simple organic molecules for growth and energy. What is E. coli?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A chemoautotroph"
+      },
+      {
+       "key": "B",
+       "text": "A chemoheterotroph"
+      },
+      {
+       "key": "C",
+       "text": "A photochemotroph"
+      },
+      {
+       "key": "D",
+       "text": "A photoautotroph"
+      },
+      {
+       "key": "E",
+       "text": "A photoheterotroph"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q5",
+     "kind": "choice",
+     "points": 1,
+     "question": "5. If a piece of wire is tied tightly around a tree trunk as the tree grows it will be compressed by the wire. As this occurs, how will the tree first be affected?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The tree trunk will bulge above and below the wire, but otherwise remain unaffected."
+      },
+      {
+       "key": "B",
+       "text": "Water from the roots will not be able to reach the leaves."
+      },
+      {
+       "key": "C",
+       "text": "The trunk will become weak and the tree may fall over."
+      },
+      {
+       "key": "D",
+       "text": "Sugars produced in the leaves will not be able to reach the roots."
+      },
+      {
+       "key": "E",
+       "text": "The tree will become vulnerable to insects and pathogens."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q6",
+     "kind": "choice",
+     "points": 1,
+     "question": "6. Doctors recommend that patients avoid the unnecessary use of antibiotics as this can lead to the evolution of “superbugs.” Which statement best explains this?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Pathogenic bacteria have a high rate of reproduction, which enables adaptive mutations to spread quickly in the population."
+      },
+      {
+       "key": "B",
+       "text": "Individual bacteria cells mutate in response to the antibiotic, which makes them immune."
+      },
+      {
+       "key": "C",
+       "text": "As the human body becomes habituated to antibiotics, the immune system starts to break them down before they can affect the infection."
+      },
+      {
+       "key": "D",
+       "text": "The human body breaks down antibiotics into sugars, which promote bacteria growth."
+      },
+      {
+       "key": "E",
+       "text": "Artificial antibiotics interfere with the antibiotics that are naturally produced by the body. © © 2017 2017 University University of of Toronto Toronto U of T National Biology Competition / 3"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q7",
+     "kind": "choice",
+     "points": 1,
+     "question": "7. Which statement about invasive species is most likely to be CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Invasive species often arise when new niches open in a new habitat."
+      },
+      {
+       "key": "B",
+       "text": "Invasive species usually reproduce more slowly than native species."
+      },
+      {
+       "key": "C",
+       "text": "Invasive species are often easy to control."
+      },
+      {
+       "key": "D",
+       "text": "Invasive species may be aggressive competitors, and thus increase overall biodiversity."
+      },
+      {
+       "key": "E",
+       "text": "Some invasive species can change the physical structure of their new habitat."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-development",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q8",
+     "kind": "choice",
+     "points": 1,
+     "question": "8. Which of the following evolved in early eukaryotes after they split off from prokaryotes?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Proteins"
+      },
+      {
+       "key": "B",
+       "text": "Lipid bilayer"
+      },
+      {
+       "key": "C",
+       "text": "Nuclear envelope"
+      },
+      {
+       "key": "D",
+       "text": "The use of ATP to transfer energy within cells"
+      },
+      {
+       "key": "E",
+       "text": "DNA"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q9",
+     "kind": "choice",
+     "points": 1,
+     "question": "9. “Mighty oaks from little acorns grow” is a common proverb. An acorn (which contains an oak seed) fits in the palm of your hand, but a mature oak tree can have a dry mass of over 8 tonnes. Which process below contributes most to this dry mass?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The roots absorb minerals from the soil."
+      },
+      {
+       "key": "B",
+       "text": "The roots absorb carbon-containing molecules, such as glucose, from the soil."
+      },
+      {
+       "key": "C",
+       "text": "The roots absorb water from the soil."
+      },
+      {
+       "key": "D",
+       "text": "The leaves absorb sunlight."
+      },
+      {
+       "key": "E",
+       "text": "The leaves incorporate gas from the atmosphere."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q10",
+     "kind": "choice",
+     "points": 1,
+     "question": "10. Male Birds of Paradise have feathers that are brightly coloured and highly visible, while females of the same species have duller colouration. Which statement best explains why this difference evolved?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Female birds prefer to mate with males that have bright feathers."
+      },
+      {
+       "key": "B",
+       "text": "Male and female birds live in different habitats."
+      },
+      {
+       "key": "C",
+       "text": "Male birds with bright feathers produce more sperm."
+      },
+      {
+       "key": "D",
+       "text": "Birds with bright feathers live longer than birds with dull feathers."
+      },
+      {
+       "key": "E",
+       "text": "Male birds prefer to mate with females that have dull feathers."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-animal-anatomy",
+     "reference": "Правильный ответ: A"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Тест: вопросы 11–20",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q11",
+     "kind": "choice",
+     "points": 1,
+     "question": "11. The rate of reaction of an enzyme over a range of temperatures is measured. What is the most likely explanation for the data shown in this graph?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The enzyme works rapidly at first but then gets used up in the reaction after about 50 degrees."
+      },
+      {
+       "key": "B",
+       "text": "The enzyme is running out of substrate and so is slowing down."
+      },
+      {
+       "key": "C",
+       "text": "The enzyme speeds its collisions with the substrate as it warms but begins to denature past a certain temperature."
+      },
+      {
+       "key": "D",
+       "text": "The enzyme could begin to speed up its rate again after about 65 degrees."
+      },
+      {
+       "key": "E",
+       "text": "The enzyme is unstable, unlike most enzymes that can work well across a range of temperatures."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q12",
+     "kind": "choice",
+     "points": 1,
+     "question": "12. What is the most probable outcome of using large amounts of nitrogen-containing fertilizers for use in agriculture?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Little or no effect on the carbon cycle in ecosystems."
+      },
+      {
+       "key": "B",
+       "text": "A decrease in the growth of aquatic algae due to excess nitrogen leaching into waterways."
+      },
+      {
+       "key": "C",
+       "text": "An increase in CO2 and O2 in aquatic environments which can kill aquatic organisms."
+      },
+      {
+       "key": "D",
+       "text": "The amount of nitrogen stored in the soil and waterways exceeding the amount of nitrogen in the atmosphere."
+      },
+      {
+       "key": "E",
+       "text": "Populations of nitrogen-fixing bacteria in soil are negatively affected (through reduction in plant dependence on its mutualistic association with nitrogen-fixing bacteria). © © 2017 2017 University University of of Toronto Toronto U of T National Biology Competition / 4"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q13",
+     "kind": "choice",
+     "points": 1,
+     "question": "13. In vertebrates, the hypothalamus, pituitary gland, adrenal glands, and their interactions comprise the HPA-axis. The HPA-axis is an important regulator of stress, the immune system, and other processes. Cortisol is a glucocorticoid hormone of the adrenal gland that provides negative feedback to the hypothalamus and the pituitary gland. Why is cortisol considered part of a negative-feedback pathway?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The adrenal gland suppresses cortisol production."
+      },
+      {
+       "key": "B",
+       "text": "Cortisol inhibits hormone production in the hypothalamus and the pituitary gland."
+      },
+      {
+       "key": "C",
+       "text": "Cortisol causes the hypothalamus and the pituitary gland to decrease in size."
+      },
+      {
+       "key": "D",
+       "text": "The overproduction of cortisol causes desensitization of the hypothalamus and pituitary glands to cortisol."
+      },
+      {
+       "key": "E",
+       "text": "The hypothalamus and pituitary gland secrete substances that inhibit cortisol production in the adrenal glands."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-immunology",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q14",
+     "kind": "choice",
+     "points": 1,
+     "question": "14. Below is the phenotype pedigree of a family with a history of Huntington’s Disease. What does this pedigree indicate about the genetics of this disease?",
+     "options": [
+      {
+       "key": "A",
+       "text": "It is Y-linked dominant."
+      },
+      {
+       "key": "B",
+       "text": "It is Y-linked recessive."
+      },
+      {
+       "key": "C",
+       "text": "It is autosomal dominant."
+      },
+      {
+       "key": "D",
+       "text": "It is autosomal recessive."
+      },
+      {
+       "key": "E",
+       "text": "This pedigree does not provide enough information to comment on the genetics of Huntington’s Disease."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q15",
+     "kind": "choice",
+     "points": 1,
+     "question": "15. A patient who suffered a stroke was asked to read a simple phrase and to repeat it back to the doctor. The patient could read and understand the phrase, but was unable to produce intelligible sounds. Which area of the brain was most likely to have been damaged?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The pons, a region of the brainstem."
+      },
+      {
+       "key": "B",
+       "text": "The corpus callosum."
+      },
+      {
+       "key": "C",
+       "text": "The superior parietal lobule (Brodmann’s area), a region of the parietal lobe."
+      },
+      {
+       "key": "D",
+       "text": "Broca’s area, a region of the frontal lobe."
+      },
+      {
+       "key": "E",
+       "text": "The hippocampus, a region of the temporal lobe."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q16",
+     "kind": "choice",
+     "points": 1,
+     "question": "16. Imagine that in the year 2100 humans have established a permanent colony on Mars and, due to a critical shortage of rocket fuel, the Mars colony becomes isolated from Earth for 1000 years. Once contact is restored, it is discovered that a much higher proportion of the Martian population has naturally curly hair than the population on Earth. What is the most likely evolutionary explanation for this?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A mutation emerged in the straight-haired Martians that led to their offspring’s hair to be curlier."
+      },
+      {
+       "key": "B",
+       "text": "Curly hair is favoured by natural selection on Mars."
+      },
+      {
+       "key": "C",
+       "text": "There is a feature of the environment of Mars that causes straight hair to become curly."
+      },
+      {
+       "key": "D",
+       "text": "When the Mars colony was first established, more of the original colonists had curly hair than straight hair."
+      },
+      {
+       "key": "E",
+       "text": "Curly hair is favoured by sexual selection on Mars."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q17",
+     "kind": "choice",
+     "points": 1,
+     "question": "17. This diagram shows a double-stranded section of a nucleic acid. Hydrogen bonds are shown by the slashed lines. The nucleotide sequences below are written in their normal, conventional directionality. Which sequence is correct for one of the strands shown in the diagram?",
+     "options": [
+      {
+       "key": "A",
+       "text": "TCTC"
+      },
+      {
+       "key": "B",
+       "text": "CTCT"
+      },
+      {
+       "key": "C",
+       "text": "AGAG"
+      },
+      {
+       "key": "D",
+       "text": "UCUC"
+      },
+      {
+       "key": "E",
+       "text": "CUCU © © 2017 2017 University University of of Toronto Toronto U of T National Biology Competition / 5"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-ecology",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q18",
+     "kind": "choice",
+     "points": 1,
+     "question": "18. Tiger sharks feed on sea turtles. Sea turtles feed on sea grass. Fish lay their eggs within sea grass. If hunters were to kill most of the tiger sharks in this ecosystem what is most likely to happen?",
+     "options": [
+      {
+       "key": "A",
+       "text": "There would be an increase in sea turtles, and decrease in fish."
+      },
+      {
+       "key": "B",
+       "text": "There would be a decrease in sea turtles, and increase in sea grass."
+      },
+      {
+       "key": "C",
+       "text": "Overgrazing of sea grass would lead to an increase in fish."
+      },
+      {
+       "key": "D",
+       "text": "There would be a decrease in fish, and increase in sea grass."
+      },
+      {
+       "key": "E",
+       "text": "There would be an increase in sea turtles, and increase in sea grass."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q19",
+     "kind": "choice",
+     "points": 1,
+     "question": "19. What functional groups are present on this molecule?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Ether and aldehyde"
+      },
+      {
+       "key": "B",
+       "text": "Hydroxyl and aldehyde"
+      },
+      {
+       "key": "C",
+       "text": "Hydroxyl and carboxylic acid"
+      },
+      {
+       "key": "D",
+       "text": "Hydroxyl and ester"
+      },
+      {
+       "key": "E",
+       "text": "Hydroxyl and ketone"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q20",
+     "kind": "choice",
+     "points": 1,
+     "question": "20. Which statement about sieve-tube elements is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "They are non-living cells that conduct sugars from leaves to the rest of the plant."
+      },
+      {
+       "key": "B",
+       "text": "They are living cells that conduct water and minerals from roots to the rest of the plant."
+      },
+      {
+       "key": "C",
+       "text": "They are non-living cells that conduct water and minerals from roots to the rest of the plant."
+      },
+      {
+       "key": "D",
+       "text": "They are living cells that conduct sugars from leaves to the rest of the plant."
+      },
+      {
+       "key": "E",
+       "text": "They are non-living cells that conduct both water and sugars throughout the plant."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Тест: вопросы 21–30",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q21",
+     "kind": "choice",
+     "points": 1,
+     "question": "21. Consider the four molecules below and their permeability across a phospholipid bilayer with no proteins in the bilayer. Order the molecules from LEAST permeable (left) to MOST permeable (right).",
+     "options": [
+      {
+       "key": "A",
+       "text": "4<3<2<1 1 2 3 4"
+      },
+      {
+       "key": "B",
+       "text": "4<2<1<3"
+      },
+      {
+       "key": "C",
+       "text": "3<2<4<1"
+      },
+      {
+       "key": "D",
+       "text": "3<1<2<4"
+      },
+      {
+       "key": "E",
+       "text": "2<3<1<4"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q22",
+     "kind": "choice",
+     "points": 1,
+     "question": "22. How does the anatomy of birds allow them to ventilate their lungs in a unidirectional manner?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Bird lungs are a single tube through which inhaled air flows."
+      },
+      {
+       "key": "B",
+       "text": "Bird lungs are very elastic which allows them to manipulate air pressures throughout the thoracic cavity to facilitate unidirectional airflow."
+      },
+      {
+       "key": "C",
+       "text": "The wings also act as bellows to drive air straight through the lungs from the trachea."
+      },
+      {
+       "key": "D",
+       "text": "Rigid air sacs create pressure changes that drive air through the lungs."
+      },
+      {
+       "key": "E",
+       "text": "Inhaled air travels to the posterior of the thoracic cavity, and then travels anteriorly through the lungs."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q23",
+     "kind": "choice",
+     "points": 1,
+     "question": "23. In a container, a phospholipid bilayer separates two salt solutions: side A is hypertonic relative to side B. Which of the following will happen?",
+     "options": [
+      {
+       "key": "A",
+       "text": "There will be a net movement of water molecules from side A to side B."
+      },
+      {
+       "key": "B",
+       "text": "There will be a net movement of water molecules from side B to side A."
+      },
+      {
+       "key": "C",
+       "text": "There will be an initial movement of water molecules from side A to side B, then equilibrium will be reached."
+      },
+      {
+       "key": "D",
+       "text": "There will be an initial movement of water molecules from side B to side A, then a net movement from side B to side A."
+      },
+      {
+       "key": "E",
+       "text": "There will be individual water molecules moving only from side B to side A, and none in the other direction. © © 2017 2017 University University of of Toronto Toronto U of T National Biology Competition / 6"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q24",
+     "kind": "choice",
+     "points": 1,
+     "question": "24. Which statement describes a situation in which disruptive selection would most likely take place?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Finch beak size corresponds to the size of the seeds they eat; after an environmental catastrophe, plants that produce smaller seeds disappear, leaving only large seeds."
+      },
+      {
+       "key": "B",
+       "text": "Female frogs prefer to mate with males that produce low-frequency croaks."
+      },
+      {
+       "key": "C",
+       "text": "A particular species of mouse has widely varying fur colour and can be found in both fields and beaches; mice with dark fur are better able to hide from predators in thick grass, while mice with light fur are better camouflaged in white sand."
+      },
+      {
+       "key": "D",
+       "text": "Fishermen preferentially target the largest fishes, while the smallest fishes are at higher risk of predation by other fishes."
+      },
+      {
+       "key": "E",
+       "text": "Skin tone in humans varies greatly; but due to sunscreen, vitamin supplements, and modern medicine, there is no difference in fitness between people of different skin tones, regardless of climate."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q25",
+     "kind": "choice",
+     "points": 1,
+     "question": "25. Which epigenetic changes can increase gene expression?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Histone acetylation and DNA acetylation"
+      },
+      {
+       "key": "B",
+       "text": "Histone methylation and DNA methylation"
+      },
+      {
+       "key": "C",
+       "text": "Histone demethylation and DNA methylation"
+      },
+      {
+       "key": "D",
+       "text": "Histone deacetylation and DNA demethylation"
+      },
+      {
+       "key": "E",
+       "text": "Histone acetylation and DNA demethylation"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q26",
+     "kind": "choice",
+     "points": 1,
+     "question": "26. One unripe peach is placed in a bag with a banana. A second unripe peach is placed in a bag on its own. The peach in the bag with the banana ripens much faster. What compound is the banana releasing that speeds ripening of the peach?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Nitric oxide"
+      },
+      {
+       "key": "B",
+       "text": "Ethylene"
+      },
+      {
+       "key": "C",
+       "text": "Oxygen"
+      },
+      {
+       "key": "D",
+       "text": "Auxin"
+      },
+      {
+       "key": "E",
+       "text": "Carbon dioxide"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q27",
+     "kind": "choice",
+     "points": 1,
+     "question": "27. What is the functional significance of the absence of the blood-brain barrier near the posterior pituitary gland?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Red blood cells from the circulatory system can leak into the grey matter of the brain."
+      },
+      {
+       "key": "B",
+       "text": "There is lower density of capillaries near the posterior pituitary."
+      },
+      {
+       "key": "C",
+       "text": "Hormones produced by the posterior pituitary can directly enter the bloodstream."
+      },
+      {
+       "key": "D",
+       "text": "Protons and proteins must be actively transported between the blood stream and interstitial fluid in this area."
+      },
+      {
+       "key": "E",
+       "text": "There is an increased number of tight junctions between capillary cells near the posterior pituitary gland."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q28",
+     "kind": "choice",
+     "points": 1,
+     "question": "28. Which is the correct order of the trophic levels in the food pyramid for the four species below, from bottom (left) to top (right)?",
+     "options": [
+      {
+       "key": "A",
+       "text": "hawk → grass → jackrabbit → long-tailed weasel"
+      },
+      {
+       "key": "B",
+       "text": "grass → long-tailed weasel → jackrabbit → hawk"
+      },
+      {
+       "key": "C",
+       "text": "grass → jackrabbit → long-tailed weasel → hawk"
+      },
+      {
+       "key": "D",
+       "text": "grass → jackrabbit → hawk → long-tailed weasel"
+      },
+      {
+       "key": "E",
+       "text": "long-tailed weasel → hawk → jackrabbit → grass"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-ecology",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q29",
+     "kind": "choice",
+     "points": 1,
+     "question": "29. Which statement about restriction enzymes is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Not all restriction enzymes cut DNA to create a 5´ or 3´ overhang."
+      },
+      {
+       "key": "B",
+       "text": "Restriction enzymes recognize a specific DNA sequence of two to four base pairs."
+      },
+      {
+       "key": "C",
+       "text": "Restriction enzymes cut a single strand of DNA."
+      },
+      {
+       "key": "D",
+       "text": "Most restriction enzymes can cut RNA."
+      },
+      {
+       "key": "E",
+       "text": "Most restriction enzymes recognize palindromic restriction sites. © © 2017 2017 University University of of Toronto Toronto U of T National Biology Competition / 7"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q30",
+     "kind": "choice",
+     "points": 1,
+     "question": "30. Which statement has the cellular components arranged in order of increasing size, from smallest (left) to largest (right)?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Amino acid < protein < mitochondrion < ribosome"
+      },
+      {
+       "key": "B",
+       "text": "Amino acid < protein < ribosome < mitochondrion"
+      },
+      {
+       "key": "C",
+       "text": "Amino acid < ribosome < protein < mitochondrion"
+      },
+      {
+       "key": "D",
+       "text": "Protein < amino acid < mitochondrion < ribosome"
+      },
+      {
+       "key": "E",
+       "text": "Protein < ribosome < mitochondrion < amino acid"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Тест: вопросы 31–40",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q31",
+     "kind": "choice",
+     "points": 1,
+     "question": "31. Marine fishes ingest salt water. How do marine fishes osmoregulate?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The kidneys excrete dilute urine; excess sodium and chloride ions diffuse out of the body through the gills."
+      },
+      {
+       "key": "B",
+       "text": "The kidneys excrete dilute urine; excess sodium and chloride ions are actively transported into the body through the gills."
+      },
+      {
+       "key": "C",
+       "text": "The kidneys excrete concentrated urine; excess sodium and chloride ions diffuse into the body through the skin."
+      },
+      {
+       "key": "D",
+       "text": "The kidneys excrete concentrated urine; excess sodium and chloride ions diffuse out of the body through the gills."
+      },
+      {
+       "key": "E",
+       "text": "The kidneys excrete concentrated urine; excess sodium and chloride ions are actively transported out of the body through the gills."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q32",
+     "kind": "choice",
+     "points": 1,
+     "question": "32. The protein PETAL1 promotes petal development. The protein FALL1 is a transcription factor that represses expression of PETAL1. A plant biologist wants to see if she can engineer the plant’s genome so the flowers produce more petals. What approach would be most likely to be successful?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Mutate FALL1 so that it no longer functions."
+      },
+      {
+       "key": "B",
+       "text": "Mutate the promoter of PETAL1 so that FALL1 will always bind to it."
+      },
+      {
+       "key": "C",
+       "text": "Mutate PETAL1 so that it no longer functions."
+      },
+      {
+       "key": "D",
+       "text": "Mutate FALL1 so that it binds DNA more tightly."
+      },
+      {
+       "key": "E",
+       "text": "Mutate an intron in PETAL1."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q33",
+     "kind": "choice",
+     "points": 1,
+     "question": "33. Gene therapy treatments are becoming available to cure genetic diseases in embryos. One type of gene therapy involves the replacement of mutated genes with functional copies in embryos. What is a benefit of this therapy?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Most genetic diseases can be cured by replacement of a single gene."
+      },
+      {
+       "key": "B",
+       "text": "The individuals would not pass the disease on to their children."
+      },
+      {
+       "key": "C",
+       "text": "The mutated gene will only be replaced in cells where its expression is required."
+      },
+      {
+       "key": "D",
+       "text": "Gene therapy is easily adapted for all genetic disorders."
+      },
+      {
+       "key": "E",
+       "text": "There are no risks of additional mutations being generated."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-development",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q34",
+     "kind": "choice",
+     "points": 1,
+     "question": "34. In mitochondria, H+ ions are moved by the electron transport chain. What is this an example of?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Active transport"
+      },
+      {
+       "key": "B",
+       "text": "Facilitated diffusion"
+      },
+      {
+       "key": "C",
+       "text": "Passive transport"
+      },
+      {
+       "key": "D",
+       "text": "Electron transport"
+      },
+      {
+       "key": "E",
+       "text": "Electrochemical gradient transport"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q35",
+     "kind": "choice",
+     "points": 1,
+     "question": "35. Of the 20 standard amino acids, only ____ is not optically active (chiral). The reason is that its side chain ____.",
+     "options": [
+      {
+       "key": "A",
+       "text": "alanine; is a simple methyl group"
+      },
+      {
+       "key": "B",
+       "text": "glycine; is a hydrogen atom"
+      },
+      {
+       "key": "C",
+       "text": "glycine; is unbranched"
+      },
+      {
+       "key": "D",
+       "text": "lysine; contains only nitrogen"
+      },
+      {
+       "key": "E",
+       "text": "proline; forms a covalent bond with the amino group © © 2017 2017 University University of of Toronto Toronto U of T National Biology Competition / 8"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q36",
+     "kind": "choice",
+     "points": 1,
+     "question": "36. Vertebrates that have evolved to live at high altitudes often possess adaptations to survive at low levels of atmospheric oxygen. What is most likely to be the difference between vertebrates that live at sea level and those that live at high altitude?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Animals adapted to low altitudes have larger hearts and higher cardiac output than animals adapted to high altitudes."
+      },
+      {
+       "key": "B",
+       "text": "Animals adapted to high altitudes have smaller lung volumes and lower ventilation rates than animals adapted to low altitudes."
+      },
+      {
+       "key": "C",
+       "text": "Animals adapted to high altitudes have lower heart rates and lower stroke volumes than animals adapted to low altitudes."
+      },
+      {
+       "key": "D",
+       "text": "Animals adapted to low altitudes take faster, deeper breaths than animals adapted to high altitudes."
+      },
+      {
+       "key": "E",
+       "text": "Animals adapted to high altitudes have higher cardiac output and higher ventilation rates than animals adapted to low altitudes."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q37",
+     "kind": "choice",
+     "points": 1,
+     "question": "37. Some phytoplankton undergo either asexual or sexual reproduction at different stages of their life cycle. Which statement best explains why more individuals reproduce sexually when environmental conditions are poor?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Sexual reproduction increases genetic diversity; thus, some offspring have a better chance of survival when conditions are poor."
+      },
+      {
+       "key": "B",
+       "text": "Sexual reproduction requires fewer resources; thus, organisms switch when conditions deteriorate."
+      },
+      {
+       "key": "C",
+       "text": "Asexual reproduction increases genetic diversity; thus, more offspring can take advantage of favourable growing conditions."
+      },
+      {
+       "key": "D",
+       "text": "Sexual reproduction decreases genetic diversity; thus, only superior genotypes survive in unfavourable conditions."
+      },
+      {
+       "key": "E",
+       "text": "Asexual reproduction increases offspring size; thus, offspring have more resources and are better able to survive in favourable conditions."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q38",
+     "kind": "choice",
+     "points": 1,
+     "question": "38. A researcher discovered an organism with cells that contain a previously undescribed organelle. He performed tests on the isolated organelle to see if it is involved in any major metabolic reactions. He incubated these organelles for a period of time in a solution containing a known amount of the molecules listed in the table below and measured changes in their amounts in the suspending solution. Based on these results, which metabolic process is most likely to be taking place in this organelle? Glucose No change",
+     "options": [
+      {
+       "key": "A",
+       "text": "Glycolysis O2 Increase"
+      },
+      {
+       "key": "B",
+       "text": "Citric acid (Krebs) cycle CO2 No change"
+      },
+      {
+       "key": "C",
+       "text": "Electron transport chain and oxidative phosphorylation"
+      },
+      {
+       "key": "D",
+       "text": "Light-dependent reaction of photosynthesis ATP Increase"
+      },
+      {
+       "key": "E",
+       "text": "Calvin cycle NADPH Increase"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q39",
+     "kind": "choice",
+     "points": 1,
+     "question": "39. The protein cytochrome b562 in bacteria (shown below) consists of a single folded polypeptide chain. What is the highest level of structure found in this protein?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Primary"
+      },
+      {
+       "key": "B",
+       "text": "Secondary"
+      },
+      {
+       "key": "C",
+       "text": "Tertiary"
+      },
+      {
+       "key": "D",
+       "text": "Quaternary"
+      },
+      {
+       "key": "E",
+       "text": "Alpha helix"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q40",
+     "kind": "choice",
+     "points": 1,
+     "question": "40. Which statement about membrane proteins is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "They consist of hydrophobic amino acids, but not polar or charged amino acids."
+      },
+      {
+       "key": "B",
+       "text": "They are sometimes covalently attached to carbohydrates."
+      },
+      {
+       "key": "C",
+       "text": "They often flip across the membrane unless they are anchored."
+      },
+      {
+       "key": "D",
+       "text": "They have polar amino acids all around their exterior surface, similar to soluble proteins."
+      },
+      {
+       "key": "E",
+       "text": "They cannot be enzymes, because they are located in a hydrophobic bilayer. © © 2017 2017 University University of of Toronto Toronto U of T National Biology Competition / 9"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Тест: вопросы 41–50",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q41",
+     "kind": "choice",
+     "points": 1,
+     "question": "41. A breeder wants to create a variety of conifer tree that does not shed a lot of needles (so that when they are used during the holiday season they do not create a mess in people’s homes). Which attribute should be selected for?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Trees with a thinner cuticle that protects the leaves."
+      },
+      {
+       "key": "B",
+       "text": "Trees that produce a large quantity of sap to halt water transport."
+      },
+      {
+       "key": "C",
+       "text": "Trees that produce more aromatic compounds so people will be reminded to water them."
+      },
+      {
+       "key": "D",
+       "text": "Trees with fewer stomata in their leaves."
+      },
+      {
+       "key": "E",
+       "text": "Trees that utilize more carbon dioxide."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q42",
+     "kind": "choice",
+     "points": 1,
+     "question": "42. During pulmonary respiration in terrestrial vertebrates, carbon dioxide diffuses from the blood across the alveolus and into the lungs. Which factor increases the diffusion rate of carbon dioxide?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Increasing the thickness of the alveolar walls."
+      },
+      {
+       "key": "B",
+       "text": "If the partial pressure of oxygen is higher in the lungs than in the blood."
+      },
+      {
+       "key": "C",
+       "text": "If the partial pressure of oxygen is higher in the blood than in the lungs."
+      },
+      {
+       "key": "D",
+       "text": "If the partial pressure of carbon dioxide is higher in the lungs than in the blood"
+      },
+      {
+       "key": "E",
+       "text": "If the partial pressure of carbon dioxide is higher in blood than in the lungs."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q43",
+     "kind": "choice",
+     "points": 1,
+     "question": "43. What would be the consequence of severe DNA damage detected during the G2 checkpoint of the cell cycle?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The cell will not enter mitosis."
+      },
+      {
+       "key": "B",
+       "text": "The cell will not replicate its DNA."
+      },
+      {
+       "key": "C",
+       "text": "The cell will activate mitosis-promoting factor to arrest the cell cycle in the G0 phase."
+      },
+      {
+       "key": "D",
+       "text": "The cell will enter prophase with damaged DNA."
+      },
+      {
+       "key": "E",
+       "text": "The cell cycle will stop after DNA replication occurs."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q44",
+     "kind": "choice",
+     "points": 1,
+     "question": "44. Which of the following is a major change to the way of thinking about species that arose as a result of Darwin and Wallace’s theory of evolution by natural selection?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Species can be grouped together and groups can be classified as taxa."
+      },
+      {
+       "key": "B",
+       "text": "Species can be arranged into a hierarchy with simple organisms on the bottom and complex organisms on the top."
+      },
+      {
+       "key": "C",
+       "text": "Physical changes occur as a result of an individual’s environment, and these changes are passed on to the individual’s offspring."
+      },
+      {
+       "key": "D",
+       "text": "Species are related by common ancestry."
+      },
+      {
+       "key": "E",
+       "text": "Life can arise from non-life."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q45",
+     "kind": "choice",
+     "points": 1,
+     "question": "45. When a mammal consumes large amounts of salt (NaCl), vasopressin (also called anti-diuretic hormone, ADH) is released into the bloodstream. How does this lead to an increase in blood pressure?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Blood osmolarity decreases and vasopressin causes the kidneys to reabsorb more water."
+      },
+      {
+       "key": "B",
+       "text": "Blood osmolarity decreases and vasopressin causes the kidneys to reabsorb less water."
+      },
+      {
+       "key": "C",
+       "text": "Blood osmolarity increases and vasopressin causes a decrease in peripheral vascular resistance."
+      },
+      {
+       "key": "D",
+       "text": "Blood osmolarity increases and vasopressin causes the kidneys to reabsorb more water."
+      },
+      {
+       "key": "E",
+       "text": "Blood osmolarity increases and vasopressin causes the kidneys to reabsorb less water."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q46",
+     "kind": "choice",
+     "points": 1,
+     "question": "46. Licorice Ferns grow along the trunks of Bigleaf Maple trees. The ferns provide nutrients to their host (the Bigleaf Maple). What term best describes this relationship?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Commensalism"
+      },
+      {
+       "key": "B",
+       "text": "Parasitism"
+      },
+      {
+       "key": "C",
+       "text": "Competition"
+      },
+      {
+       "key": "D",
+       "text": "Mutualism"
+      },
+      {
+       "key": "E",
+       "text": "Predation © © 2017 2017 University University of of Toronto Toronto U of T National Biology Competition / 10"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-ecology",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q47",
+     "kind": "choice",
+     "points": 1,
+     "question": "47. The enzyme fumarase catalyzes the reversible hydration of fumaric acid to l-malate, but it will not catalyze the hydration of maleic acid (the cis isomer of fumaric acid). What is this difference an example of?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Biological activity"
+      },
+      {
+       "key": "B",
+       "text": "Chiral activity"
+      },
+      {
+       "key": "C",
+       "text": "Biological substrates"
+      },
+      {
+       "key": "D",
+       "text": "Enzymatic isomerization"
+      },
+      {
+       "key": "E",
+       "text": "Substrate specificity"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q48",
+     "kind": "choice",
+     "points": 1,
+     "question": "48. A scientist who is studying meiosis in tissue culture uses a cell line with a mutation disrupting meiosis. She allows the cells to grow for the amount of time that meiosis takes to occur. She then observes that the number of cells in the culture has doubled, and each cell also has twice as much DNA as it should. Also, the sister chromatids have separated. Based on these observations, what stage of meiosis is disrupted in this cell line?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Anaphase I"
+      },
+      {
+       "key": "B",
+       "text": "Metaphase I"
+      },
+      {
+       "key": "C",
+       "text": "Anaphase II"
+      },
+      {
+       "key": "D",
+       "text": "Prophase II"
+      },
+      {
+       "key": "E",
+       "text": "Metaphase II"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q49",
+     "kind": "choice",
+     "points": 1,
+     "question": "49. Public health officials recommend that individuals get the influenza (flu) vaccine. Which of the following is a medically justifiable reason to NOT get the influenza vaccine?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Receiving the flu vaccine can give you the flu."
+      },
+      {
+       "key": "B",
+       "text": "Your immune system is weakened."
+      },
+      {
+       "key": "C",
+       "text": "The flu vaccine never works."
+      },
+      {
+       "key": "D",
+       "text": "You had the flu last year."
+      },
+      {
+       "key": "E",
+       "text": "The flu is not a serious illness."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-immunology",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q50",
+     "kind": "choice",
+     "points": 1,
+     "question": "50. A scientist is studying the function of a novel gene. She has identified five alleles of this gene, and each allele is associated with a different mutation. She can only choose one allele to study, so she wants to choose the one that is most likely to result in an extreme phenotype. A map for the normal gene is below. Based on the information below about each mutation, which allele should she choose? Normal gene",
+     "options": [
+      {
+       "key": "A",
+       "text": "An allele with a 1 bp (base pair) insertion at Exon 1."
+      },
+      {
+       "key": "B",
+       "text": "An allele with a 50 bp deletion at Promoter."
+      },
+      {
+       "key": "C",
+       "text": "An allele with a missense mutation at Exon 1."
+      },
+      {
+       "key": "D",
+       "text": "An allele with a 2 bp deletion at Intron 1."
+      },
+      {
+       "key": "E",
+       "text": "An allele with a premature stop codon at Exon 2. End of exam. • Thank you for participating in the 2017 National Biology Competition. • Competition results, including scholarship information, certificates, and cash prizes, will be received by your school in late May. • Honour rolls of the top students and schools, the names of the students eligible for a competition scholarship, and the exam questions with answers will be posted on the competition’s website in late May: biocomp.utoronto.ca © © 2017 2017 University University of of Toronto Toronto"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    }
+   ]
+  }
+ ]
+}

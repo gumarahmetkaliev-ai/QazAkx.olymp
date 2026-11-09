@@ -1,0 +1,1400 @@
+{
+ "setId": "bio-abo-2013--bio-1-tasks",
+ "olympiadId": "bio-abo-2013",
+ "title": "Биология → ABO (Австралия) → 2013",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/ABO/2013/bio-1-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/ABO/2013/bio-1-sol.pdf",
+ "generatedBy": "test-parser",
+ "type": "test",
+ "generatedAt": "2026-11-09T13:44:55.151Z",
+ "quality": {
+  "tasks": 4,
+  "parts": 40,
+  "withPoints": 40,
+  "withReference": 40,
+  "withQuestion": 40,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Тест: вопросы 1–10",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q1",
+     "kind": "choice",
+     "points": 1,
+     "question": "1. Of the following biological levels of organisation, which one represents the smallest or lowest level?",
+     "options": [
+      {
+       "key": "A",
+       "text": "organs"
+      },
+      {
+       "key": "B",
+       "text": "organelles"
+      },
+      {
+       "key": "C",
+       "text": "cells"
+      },
+      {
+       "key": "D",
+       "text": "organisms"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q2",
+     "kind": "choice",
+     "points": 1,
+     "question": "2. You are conducting an experiment to test the hypothesis that dairy cows will give more milk if they listen to classical music while being milked. Your 20 experimental cows listen to classical music during milking; you collect all their milk and measure how much there is. Your 20 control cows should have all experimental conditions identical to the experimental cows except",
+     "options": [
+      {
+       "key": "A",
+       "text": "they should listen to classical music at a louder volume"
+      },
+      {
+       "key": "B",
+       "text": "they should listen to classical music all the time, not just during milking"
+      },
+      {
+       "key": "C",
+       "text": "they should listen to a different type of music, like heavy metal"
+      },
+      {
+       "key": "D",
+       "text": "they should not listen to any music"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-methods",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q3",
+     "kind": "choice",
+     "points": 1,
+     "question": "3. A successful scientific experiment will result only in",
+     "options": [
+      {
+       "key": "A",
+       "text": "rejection of one or more hypotheses"
+      },
+      {
+       "key": "B",
+       "text": "proving a hypothesis"
+      },
+      {
+       "key": "C",
+       "text": "accepting many hypotheses"
+      },
+      {
+       "key": "D",
+       "text": "confirming predictions Page 2 of 26 2015 Australian Science Olympiad Examination - Biology Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-methods",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q4",
+     "kind": "choice",
+     "points": 1,
+     "question": "4. Homologous structures among animals provide evidence for evolution in that these structures are",
+     "options": [
+      {
+       "key": "A",
+       "text": "different in different animals, but are modifications of the same basic structure"
+      },
+      {
+       "key": "B",
+       "text": "similar in function, but of different basic structure"
+      },
+      {
+       "key": "C",
+       "text": "all shown in the fossil record"
+      },
+      {
+       "key": "D",
+       "text": "all produced by the same gene"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q5",
+     "kind": "choice",
+     "points": 1,
+     "question": "5. The study of the way individual traits are transmitted from one generation to the next is called",
+     "options": [
+      {
+       "key": "A",
+       "text": "ecology"
+      },
+      {
+       "key": "B",
+       "text": "genetics"
+      },
+      {
+       "key": "C",
+       "text": "cell biology"
+      },
+      {
+       "key": "D",
+       "text": "homology"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q6",
+     "kind": "choice",
+     "points": 1,
+     "question": "6. Which of the following is not a property of life?",
+     "options": [
+      {
+       "key": "A",
+       "text": "moulding or adapting to one’s environment"
+      },
+      {
+       "key": "B",
+       "text": "regulating materials that enter and leave the system"
+      },
+      {
+       "key": "C",
+       "text": "responding to stimuli"
+      },
+      {
+       "key": "D",
+       "text": "reproducing, passing hereditary material to the next generation Page 3 of 26 2015 Australian Science Olympiad Examination - Biology Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q7",
+     "kind": "choice",
+     "points": 1,
+     "question": "7. Plant cells differ from animal cells in that plant cells have",
+     "options": [
+      {
+       "key": "A",
+       "text": "an endoplasmic reticulum"
+      },
+      {
+       "key": "B",
+       "text": "a central vacuole"
+      },
+      {
+       "key": "C",
+       "text": "Golgi apparatus"
+      },
+      {
+       "key": "D",
+       "text": "Vesicles"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q8",
+     "kind": "choice",
+     "points": 1,
+     "question": "8. When separated by a selectively permeable membrane a net gain of water tends to occur in",
+     "options": [
+      {
+       "key": "A",
+       "text": "a hypoosmotic solution from an isosmotic solution"
+      },
+      {
+       "key": "B",
+       "text": "an isosmotic solution from a hyperosmotic solution"
+      },
+      {
+       "key": "C",
+       "text": "a hyperosmotic solution from a hypoosmotic solution"
+      },
+      {
+       "key": "D",
+       "text": "a hypoosmotic solution from a hyperosmotic solution"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q9",
+     "kind": "choice",
+     "points": 1,
+     "question": "9. In a lipid bilayer the lipids have their.",
+     "options": [
+      {
+       "key": "A",
+       "text": "water repelling heads facing inward"
+      },
+      {
+       "key": "B",
+       "text": "water repelling tails facing inward"
+      },
+      {
+       "key": "C",
+       "text": "hydrogen bond forming heads facing inward"
+      },
+      {
+       "key": "D",
+       "text": "hydrogen bond forming tails facing inward Page 4 of 26 2015 Australian Science Olympiad Examination - Biology Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q10",
+     "kind": "choice",
+     "points": 1,
+     "question": "10. The universal energy currency of all cells is",
+     "options": [
+      {
+       "key": "A",
+       "text": "ATP"
+      },
+      {
+       "key": "B",
+       "text": "NAD+"
+      },
+      {
+       "key": "C",
+       "text": "ADP"
+      },
+      {
+       "key": "D",
+       "text": "O2"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: A"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Тест: вопросы 11–20",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q11",
+     "kind": "choice",
+     "points": 1,
+     "question": "11. Enzymes",
+     "options": [
+      {
+       "key": "A",
+       "text": "make endergonic reactions proceed spontaneously"
+      },
+      {
+       "key": "B",
+       "text": "lower the activation energy of a reaction"
+      },
+      {
+       "key": "C",
+       "text": "are not very specific in their choice of substrates"
+      },
+      {
+       "key": "D",
+       "text": "are needed in large quantities because they are used up during catalysis"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q12",
+     "kind": "choice",
+     "points": 1,
+     "question": "12. To what category of macromolecules do most enzymes belong?",
+     "options": [
+      {
+       "key": "A",
+       "text": "carbohydrates"
+      },
+      {
+       "key": "B",
+       "text": "lipids"
+      },
+      {
+       "key": "C",
+       "text": "proteins"
+      },
+      {
+       "key": "D",
+       "text": "nucleic acids Page 5 of 26 2015 Australian Science Olympiad Examination - Biology Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q13",
+     "kind": "choice",
+     "points": 1,
+     "question": "13. The usefulness of fermentation as a means of deriving energy is limited because",
+     "options": [
+      {
+       "key": "A",
+       "text": "it cannot generate enough ATP"
+      },
+      {
+       "key": "B",
+       "text": "it produces too much NH2"
+      },
+      {
+       "key": "C",
+       "text": "the end products are toxic to the producer"
+      },
+      {
+       "key": "D",
+       "text": "it uses more energy than it produces"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q14",
+     "kind": "choice",
+     "points": 1,
+     "question": "14. Organisms that do not have the ability to produce or synthesise their own food are called",
+     "options": [
+      {
+       "key": "A",
+       "text": "anaerobic"
+      },
+      {
+       "key": "B",
+       "text": "autotrophs"
+      },
+      {
+       "key": "C",
+       "text": "exergonic"
+      },
+      {
+       "key": "D",
+       "text": "heterotrophs"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q15",
+     "kind": "choice",
+     "points": 1,
+     "question": "15. Water vapour exits and CO2 enters a leaf through the",
+     "options": [
+      {
+       "key": "A",
+       "text": "stomata"
+      },
+      {
+       "key": "B",
+       "text": "grana"
+      },
+      {
+       "key": "C",
+       "text": "stroma"
+      },
+      {
+       "key": "D",
+       "text": "photons Page 6 of 26 2015 Australian Science Olympiad Examination - Biology Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q16",
+     "kind": "choice",
+     "points": 1,
+     "question": "16. Sexual reproduction favours",
+     "options": [
+      {
+       "key": "A",
+       "text": "genetic stability"
+      },
+      {
+       "key": "B",
+       "text": "highly successful species"
+      },
+      {
+       "key": "C",
+       "text": "stable populations"
+      },
+      {
+       "key": "D",
+       "text": "genetic diversity"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-development",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q17",
+     "kind": "choice",
+     "points": 1,
+     "question": "17. Which of the following are mismatched?",
+     "options": [
+      {
+       "key": "A",
+       "text": "haploid-n"
+      },
+      {
+       "key": "B",
+       "text": "somatic cells-2n"
+      },
+      {
+       "key": "C",
+       "text": "zygote-n"
+      },
+      {
+       "key": "D",
+       "text": "sperm cell-n"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q18",
+     "kind": "choice",
+     "points": 1,
+     "question": "18. The ratio often referred to the Mendelian ratio is",
+     "options": [
+      {
+       "key": "A",
+       "text": "1:3:3:1"
+      },
+      {
+       "key": "B",
+       "text": "3:1"
+      },
+      {
+       "key": "C",
+       "text": "1:3:1"
+      },
+      {
+       "key": "D",
+       "text": "1:1 Page 7 of 26 2015 Australian Science Olympiad Examination - Biology Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q19",
+     "kind": "choice",
+     "points": 1,
+     "question": "19. Which of the following represents a testcross?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Ww x WW"
+      },
+      {
+       "key": "B",
+       "text": "ww x WW"
+      },
+      {
+       "key": "C",
+       "text": "Ww x Ww"
+      },
+      {
+       "key": "D",
+       "text": "WW x WW"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q20",
+     "kind": "choice",
+     "points": 1,
+     "question": "20. An actively dividing bacterial culture is grown in a medium containing radioactive adenine (A*). After all the adenine is labelled, the bacteria are transferred to a medium containing nonradioactive adenine (A). Following one round of DNA replication in the nonradioactive medium, the DNA is analysed. Which of the following sequences could represent this DNA?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A*A*TTGA*TC TTAACTAG"
+      },
+      {
+       "key": "B",
+       "text": "A*ATTGA*TC TTA*A*CTAG"
+      },
+      {
+       "key": "C",
+       "text": "AATTGATC TTAACTAG"
+      },
+      {
+       "key": "D",
+       "text": "A*A*TTGA*TC TTA*A*CTA*G Page 8 of 26 2015 Australian Science Olympiad Examination - Biology Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Тест: вопросы 21–30",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q21",
+     "kind": "choice",
+     "points": 1,
+     "question": "21. Mutations that impact evolution must occur in",
+     "options": [
+      {
+       "key": "A",
+       "text": "the fossil record"
+      },
+      {
+       "key": "B",
+       "text": "somatic cells"
+      },
+      {
+       "key": "C",
+       "text": "sperm cells"
+      },
+      {
+       "key": "D",
+       "text": "germ-line cells"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q22",
+     "kind": "choice",
+     "points": 1,
+     "question": "22. Which of the following populations is most likely to go extinct?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A very small population in an unstable environment."
+      },
+      {
+       "key": "B",
+       "text": "A large population with abundant resources."
+      },
+      {
+       "key": "C",
+       "text": "A large population with lots of genetic variability."
+      },
+      {
+       "key": "D",
+       "text": "All would likely go extinct. Or as sentence fragments without capitals"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q23",
+     "kind": "choice",
+     "points": 1,
+     "question": "23. The formation of seeds greatly improved plants’ adaptation to land by:",
+     "options": [
+      {
+       "key": "A",
+       "text": "enabling offspring to disperse further away from the parent plant"
+      },
+      {
+       "key": "B",
+       "text": "allowing survival during adverse conditions"
+      },
+      {
+       "key": "C",
+       "text": "providing nourishment following germination"
+      },
+      {
+       "key": "D",
+       "text": "all of the above Page 9 of 26 2015 Australian Science Olympiad Examination - Biology Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q24",
+     "kind": "choice",
+     "points": 1,
+     "question": "24. How many principal organ systems does the human body contain?",
+     "options": [
+      {
+       "key": "A",
+       "text": "11"
+      },
+      {
+       "key": "B",
+       "text": "4"
+      },
+      {
+       "key": "C",
+       "text": "23"
+      },
+      {
+       "key": "D",
+       "text": "it varies from individual to individual"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q25",
+     "kind": "choice",
+     "points": 1,
+     "question": "25. Materials are exchanged between the blood and the surrounding tissues in the",
+     "options": [
+      {
+       "key": "A",
+       "text": "arteries"
+      },
+      {
+       "key": "B",
+       "text": "veins"
+      },
+      {
+       "key": "C",
+       "text": "capillaries"
+      },
+      {
+       "key": "D",
+       "text": "lymphatic system"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q26",
+     "kind": "choice",
+     "points": 1,
+     "question": "26. Which types of feedback systems are more common in vertebrates to maintain homeostasis?",
+     "options": [
+      {
+       "key": "A",
+       "text": "positive"
+      },
+      {
+       "key": "B",
+       "text": "negative"
+      },
+      {
+       "key": "C",
+       "text": "a and b, are both common"
+      },
+      {
+       "key": "D",
+       "text": "a and b are both extremely rare Page 10 of 26 2015 Australian Science Olympiad Examination - Biology Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q27",
+     "kind": "choice",
+     "points": 1,
+     "question": "27. The cell cycle is made up of four main phases. The genetic material of a cell is replicated in S phase while cell division occurs in M phase. Cells from different tissues will cycle at different rates, some continuous while others are capable of entering a resting state. Cells from which tissue are likely to cycle continuously?",
+     "options": [
+      {
+       "key": "A",
+       "text": "skin"
+      },
+      {
+       "key": "B",
+       "text": "liver"
+      },
+      {
+       "key": "C",
+       "text": "brain"
+      },
+      {
+       "key": "D",
+       "text": "kidney"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q28",
+     "kind": "choice",
+     "points": 1,
+     "question": "28. A human cell has 46 chromosomes. This cell replicates its DNA and undergoes cell division into two identical daughter cells. What is this process called and how many chromosomes are found in each daughter cell?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Mitosis, 23"
+      },
+      {
+       "key": "B",
+       "text": "Meiosis, 23"
+      },
+      {
+       "key": "C",
+       "text": "Mitosis, 46"
+      },
+      {
+       "key": "D",
+       "text": "Meiosis, 46 Page 11 of 26 2015 Australian Science Olympiad Examination - Biology Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q29",
+     "kind": "choice",
+     "points": 1,
+     "question": "29. The kidneys function to filter the blood to produce urine for excretion. This process occurs in millions of tiny structures called nephrons within the kidney. The substance exiting the blood and entering the nephron is called filtrate (F). This filtrate is modified by the nephron via two mechanisms; secretion (S) of substances into and reabsorption (R) of substances out of the filtrate. The final product is excreted (E). Which equation correctly summarises this process?",
+     "options": [
+      {
+       "key": "A",
+       "text": "F – (R x S) = E"
+      },
+      {
+       "key": "B",
+       "text": "F – (R + S) = E"
+      },
+      {
+       "key": "C",
+       "text": "F+R+S=E"
+      },
+      {
+       "key": "D",
+       "text": "F – R + S = E"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q30",
+     "kind": "choice",
+     "points": 1,
+     "question": "30. Certain vaccines function by introducing a weakened variant of a pathogen into the human body. Which of the following statements is incorrect?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Vaccines can be made from a particular segment of a pathogen"
+      },
+      {
+       "key": "B",
+       "text": "The immune response to the vaccine will be ‘remembered’ if the active pathogen is ever encountered"
+      },
+      {
+       "key": "C",
+       "text": "The vaccine lacks virulence factors that cause disease"
+      },
+      {
+       "key": "D",
+       "text": "Protection similar to vaccination cannot be attained from previous infection Page 12 of 26 2015 Australian Science Olympiad Examination - Biology Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-immunology",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Тест: вопросы 31–40",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q31",
+     "kind": "choice",
+     "points": 1,
+     "question": "31. Haemoglobin is a protein in human blood that collects oxygen from the lungs and delivers it to tissues. Myoglobin is similar to haemoglobin in structure and functions to store oxygen in muscle tissue. Which of the following concerning protein affinity for oxygen is correct?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Foetal haemoglobin > maternal haemoglobin"
+      },
+      {
+       "key": "B",
+       "text": "Maternal haemoglobin > paternal haemoglobin"
+      },
+      {
+       "key": "C",
+       "text": "Adult haemoglobin > adult myoglobin"
+      },
+      {
+       "key": "D",
+       "text": "Maternal haemoglobin > foetal haemoglobin The following information refers to questions 32 - 34 Chromosomal abnormalities occur during meiosis, a process that produces gametes (eggs and sperm) within human bodies. Abnormalities occur when there is an uneven split of chromosomes into each gamete. The following table shows 6 of the most common syndromes associated with chromosomal abnormalities. Syndrome Chromosome Incidence per 10, 000 Type of mutation name Affected births Extra complete set of Fatal, doesn’t reach full Addition Polyploidy chromosomes term Patau Addition 13 2 syndrome Edwards Addition 18 3 syndrome Down Addition 21 15 syndrome Klinefelter Addition 23 10 (affects only males) syndrome Turner Deletion 23 2 (affects only females) syndrome Page 13 of 26 2015 Australian Science Olympiad Examination - Biology Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q32",
+     "kind": "choice",
+     "points": 1,
+     "question": "32. Following 30,000 of all births, how many children would be predicted to have Turner syndrome?",
+     "options": [
+      {
+       "key": "A",
+       "text": "0"
+      },
+      {
+       "key": "B",
+       "text": "3"
+      },
+      {
+       "key": "C",
+       "text": "4"
+      },
+      {
+       "key": "D",
+       "text": "6"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q33",
+     "kind": "choice",
+     "points": 1,
+     "question": "33. What is the sex chromosome makeup of a child with Klinefelter syndrome?",
+     "options": [
+      {
+       "key": "A",
+       "text": "XO"
+      },
+      {
+       "key": "B",
+       "text": "XY"
+      },
+      {
+       "key": "C",
+       "text": "XXY"
+      },
+      {
+       "key": "D",
+       "text": "XX"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q34",
+     "kind": "choice",
+     "points": 1,
+     "question": "34. The incidence of Down’s syndrome increases with maternal age, and not significantly with paternal age. What may reasonably explain this trend?",
+     "options": [
+      {
+       "key": "A",
+       "text": "failure of muscular contractions to correctly fuse the two gametes."
+      },
+      {
+       "key": "B",
+       "text": "gradual accumulation in germ-line chromosomal mutations throughout reproductive age."
+      },
+      {
+       "key": "C",
+       "text": "maternal oocytes have a longer period of meiosis than paternal spermatozoa, and thus there are more opportunities for mutations to develop."
+      },
+      {
+       "key": "D",
+       "text": "maternal mitochondrial DNA is mutated in Down’s syndrome. Page 14 of 26 2015 Australian Science Olympiad Examination - Biology Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q35",
+     "kind": "choice",
+     "points": 1,
+     "question": "35. Sports exert a heavy physiological toll on the body, particularly martial arts. When exposed to a dangerous situation the body releases adrenaline, triggering a fight or flight response. Which of the following would you NOT expect to observe in the pair of fighters below?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Increased pulse"
+      },
+      {
+       "key": "B",
+       "text": "Decreased blood flow to the muscles"
+      },
+      {
+       "key": "C",
+       "text": "Altered release of typical body hormones such as testosterone and oestrogen"
+      },
+      {
+       "key": "D",
+       "text": "Increased blood pressure Page 15 of 26 2015 Australian Science Olympiad Examination - Biology Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q36",
+     "kind": "choice",
+     "points": 1,
+     "question": "36. Another sport that puts a high degree of strain on the body is artistic gymnastics. Due to the high number of hours these athletes spend training they are at increased risk of a variety of detrimental conditions. Which of the following does NOT explain this relationship? a Excessive stretching of muscles can also stretch ligaments, leading to joint instability. b Overtraining may lead to micro-tears in muscles which if left untreated can cause larger tears to occur. c Having a higher than average level of muscle tone puts athletes at increased risk of malnutrition and broken bones. d Increased exercise can lead to compression of the discs between vertebrae in the back leading to pain and inflammation. Page 16 of 26 2015 Australian Science Olympiad Examination - Biology Australian Science Innovations ABN 81731558309 The following information refers to Questions 37 and 38 Dr Vitali is growing bacteria in a liquid broth in his lab. He measures the growth of bacteria over time and graphs it, showing the trend below: 200000 180000 160000 Number of Bacteria 140000 120000 100000 80000 60000 40000 20000 0 0 2 4 6 8 10 12 14 16 18 Hours",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q37",
+     "kind": "choice",
+     "points": 1,
+     "question": "37. Past about 12 hours the growth of the bacteria seems to change. What is a plausible reason for this occurring?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Antibiotics in the nutrient broth begin to take effect around this time and inhibit growth."
+      },
+      {
+       "key": "B",
+       "text": "Waste products toxic to the bacteria have accumulated and inhibit growth."
+      },
+      {
+       "key": "C",
+       "text": "The bacteria ran out of space."
+      },
+      {
+       "key": "D",
+       "text": "The temperature for growth was now optimal and the bacteria grew faster. Page 17 of 26 2015 Australian Science Olympiad Examination - Biology Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q38",
+     "kind": "choice",
+     "points": 1,
+     "question": "38. Dr Vitali would like to repeat the experiment by taking a sample of bacteria out of the culture when they are in large numbers AND still growing quickly. At what time would it be best for him to take his sample?",
+     "options": [
+      {
+       "key": "A",
+       "text": "4 hours"
+      },
+      {
+       "key": "B",
+       "text": "8 hours"
+      },
+      {
+       "key": "C",
+       "text": "10 hours"
+      },
+      {
+       "key": "D",
+       "text": "12 hours The following information refers to Questions 39 – 40 The disease Malaria is caused by parasitic protozoa of the genus Plasmodium. Different species of Plasmodium are found in different regions of the world. Dr Plos sees a patient (Patient 1) who shows the symptoms of malaria, however this patient has been on a round the world tour and so Dr Plos is not sure which Malaria stain the patient has. To find out Dr Plos takes the Plasmodium DNA and cuts it up with a restriction endonuclease enzyme. This produces a characteristic “DNA fingerprint” which can be matched to standards from different Malaria species. Page 18 of 26 2015 Australian Science Olympiad Examination - Biology Australian Science Innovations ABN 81731558309"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q39",
+     "kind": "choice",
+     "points": 1,
+     "question": "39. From the DNA gel above, what malaria stain is Patient 1 infected with?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Plasmodium falciparum"
+      },
+      {
+       "key": "B",
+       "text": "Plasmodium Vivax"
+      },
+      {
+       "key": "C",
+       "text": "Plasmodium Ovale"
+      },
+      {
+       "key": "D",
+       "text": "Plasmodium Malariae A week later a friend of patient 1 (patient 2) presents to the doctor because they are also feeling ill. To figure out where they both contracted the disease Dr Plos looks at the mosquitos which carry each of the Plasmodium species. The main vectors for each Plasmodium species are: Malaria Species Mosquito vector Distribution in Asia P. falciparum An. dirus East and West China, Vietnam, Laos, Thailand and Japan P. Vivax An. farauti India, Pakistan, South Afghanistan, New Guinea and Northern Australia P. Ovale An. minimus Vietnam, Cambodia, Laos, Thailand and Malaysia P. Malariae An. stephensi Philippines, Malaysia, Indonesia and New Guinea"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q40",
+     "kind": "choice",
+     "points": 1,
+     "question": "40. Assuming the two friends were infected in the same location while they travelled together, and given the above distribution of malaria vectors, where were they infected?",
+     "options": [
+      {
+       "key": "A",
+       "text": "West China"
+      },
+      {
+       "key": "B",
+       "text": "East China"
+      },
+      {
+       "key": "C",
+       "text": "India"
+      },
+      {
+       "key": "D",
+       "text": "Laos Page 19 of 26 2015 Australian Science Olympiad Examination - Biology Australian Science Innovations ABN 81731558309 SECTION B: True/False USE THE ANSWER SHEET PROVIDED"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  }
+ ]
+}

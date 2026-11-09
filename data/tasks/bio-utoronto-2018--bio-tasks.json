@@ -1,0 +1,1944 @@
+{
+ "setId": "bio-utoronto-2018--bio-tasks",
+ "olympiadId": "bio-utoronto-2018",
+ "title": "Биология → U of Toronto → 2018",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/utoronto/2018/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/utoronto/2018/bio-sol.pdf",
+ "generatedBy": "test-parser",
+ "type": "test",
+ "generatedAt": "2026-11-09T13:44:36.419Z",
+ "quality": {
+  "tasks": 5,
+  "parts": 50,
+  "withPoints": 50,
+  "withReference": 50,
+  "withQuestion": 50,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Тест: вопросы 1–10",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q1",
+     "kind": "choice",
+     "points": 1,
+     "question": "1. A new species is discovered that is unicellular and heterotrophic. It has a membrane-bound nucleus and a cell wall. In which group should it be classified?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Domain Archaea"
+      },
+      {
+       "key": "B",
+       "text": "Kingdom Fungi"
+      },
+      {
+       "key": "C",
+       "text": "Kingdom Plantae"
+      },
+      {
+       "key": "D",
+       "text": "Domain Bacteria"
+      },
+      {
+       "key": "E",
+       "text": "There is not enough information provided to classify it."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q2",
+     "kind": "choice",
+     "points": 1,
+     "question": "2. Which statement is an example of convergent evolution?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A species of hawk is evolving so that its eyes are closer together, which increases hunting success."
+      },
+      {
+       "key": "B",
+       "text": "The vertebrate forelimb includes a wide variety of structures and functions (e.g., sea turtle flipper, bird wing, horse leg), yet these structures all contain variations of the same bones."
+      },
+      {
+       "key": "C",
+       "text": "Humans and octopuses have picture-forming eyes that function similarly; however, the most recent common ancestor of the two lacked such an eye."
+      },
+      {
+       "key": "D",
+       "text": "A species of flowering plant and an insect that pollinate it have a mutualistic relationship, and they are both evolving to favour habitats that allow the two species to be closer to one another geographically."
+      },
+      {
+       "key": "E",
+       "text": "Humans and chimpanzees both have fingernails instead of claws, and both species inherited this trait from a common ancestor that also had fingernails."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q3",
+     "kind": "choice",
+     "points": 1,
+     "question": "3. Muscular dystrophy is a genetic disorder that results in the weakening and breakdown of skeletal muscles. One type of muscular dystrophy is caused by extra amino acids being inserted in the middle of dystrophin, a protein necessary for proper muscle function. What mutation is most likely the cause of this type of muscular dystrophy?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Substitution of one nucleotide next to an intron"
+      },
+      {
+       "key": "B",
+       "text": "Substitution of one nucleotide in the middle of an exon"
+      },
+      {
+       "key": "C",
+       "text": "Substitution of one nucleotide in the promoter"
+      },
+      {
+       "key": "D",
+       "text": "Substitution of one nucleotide in the stop codon"
+      },
+      {
+       "key": "E",
+       "text": "Substitution of one nucleotide in the ribosomal binding site"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q4",
+     "kind": "choice",
+     "points": 1,
+     "question": "4. How do kangaroo rats (desert-dwelling mammals) survive extremely long periods of drought?",
+     "options": [
+      {
+       "key": "A",
+       "text": "They only require small amounts of water because their glomeruli are very small and they produce uric acid rather than urine."
+      },
+      {
+       "key": "B",
+       "text": "They produce concentrated urine with kidneys that have a relatively thick medulla and long loops of Henle."
+      },
+      {
+       "key": "C",
+       "text": "Their kidneys are specialized to conserve water by excreting highly concentrated ammonia."
+      },
+      {
+       "key": "D",
+       "text": "They can excrete excess sodium and chloride ions via specialized salt glands."
+      },
+      {
+       "key": "E",
+       "text": "They only require small amounts of water because they are able to use stored lipids instead; their kidneys are similar to those of mammals that live in regions with abundant fresh water availability."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q5",
+     "kind": "choice",
+     "points": 1,
+     "question": "5. Which species is most likely to leave fossil remains?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A beetle that lives in a tropical rainforest."
+      },
+      {
+       "key": "B",
+       "text": "A leech that lives in a freshwater lake."
+      },
+      {
+       "key": "C",
+       "text": "A mouse that lives in the desert."
+      },
+      {
+       "key": "D",
+       "text": "A single-celled bacterium that lives in the deep ocean."
+      },
+      {
+       "key": "E",
+       "text": "A crab that lives in shallow coastal waters."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q6",
+     "kind": "choice",
+     "points": 1,
+     "question": "6. Which of the following are macronutrients essential for plant function?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Calcium, phosphorus, nitrogen"
+      },
+      {
+       "key": "B",
+       "text": "Nitrogen, manganese, potassium"
+      },
+      {
+       "key": "C",
+       "text": "Carbon dioxide, water, soil"
+      },
+      {
+       "key": "D",
+       "text": "Sodium, iron, carbon"
+      },
+      {
+       "key": "E",
+       "text": "Glucose, fructose, sucrose ©©2018 2018University University of ofToronto Toronto U of T National Biology Competition / 3"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q7",
+     "kind": "choice",
+     "points": 1,
+     "question": "7. The dendrites, cell bodies, and axons of neurons vary in morphology depending on the function of the neuron. How do motor neurons differ from other neurons located within the brain?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Motor neurons have many axons and few dendrites; neurons within the brain have few axons and few dendrites."
+      },
+      {
+       "key": "B",
+       "text": "Motor neurons have many dendrites to integrate many motor signals; neurons within the brain have many long axons to communicate with distant neurons."
+      },
+      {
+       "key": "C",
+       "text": "Motor neurons have long myelinated dendrites to transmit electrical signals long distances; neurons within the brain have long axons."
+      },
+      {
+       "key": "D",
+       "text": "Motor neurons have long dendrites that receive signals from distant parts of the body; neurons within the brain have many short dendrites that integrate information from many neighboring neurons."
+      },
+      {
+       "key": "E",
+       "text": "Motor neurons have long myelinated axons to transmit electrical signals long distances; neurons within the brain have smaller axons."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q8",
+     "kind": "choice",
+     "points": 1,
+     "question": "8. Which statement about organelles within eukaryotic cells is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Chromosomes are located inside the nucleolus."
+      },
+      {
+       "key": "B",
+       "text": "Protein synthesis takes place inside lysosomes."
+      },
+      {
+       "key": "C",
+       "text": "Organelles within eukaryotic cells have a cell wall."
+      },
+      {
+       "key": "D",
+       "text": "Mitochondria transfer chemical energy from glucose to adenosine triphosphate."
+      },
+      {
+       "key": "E",
+       "text": "Unlike plant cells, animal cells lack lysosomes."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q9",
+     "kind": "choice",
+     "points": 1,
+     "question": "9. Which phylogenetic tree depicts evolutionary relationships that are different from the other trees?",
+     "options": [
+      {
+       "key": "A",
+       "text": "b. c. d. e."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q10",
+     "kind": "choice",
+     "points": 1,
+     "question": "10. Gregor Mendel used garden peas to study the inheritance of traits. In an experiment, he crossed a pea plant with round, yellow seeds with one that had wrinkled, green seeds. All offspring had round, yellow seeds. If these F1 offspring were allowed to self-fertilize, what ratio of phenotypes are expected in the F2 offspring?",
+     "options": [
+      {
+       "key": "A",
+       "text": "1 round and yellow : 1 wrinkled and green"
+      },
+      {
+       "key": "B",
+       "text": "9 round and yellow : 3 yellow and wrinkled : 3 green and round : 1 wrinkled and green"
+      },
+      {
+       "key": "C",
+       "text": "3 round and yellow : 1 wrinkled and green"
+      },
+      {
+       "key": "D",
+       "text": "9 wrinkled and green : 3 yellow and wrinkled : 3 green and round : 1 round and yellow"
+      },
+      {
+       "key": "E",
+       "text": "1 round and yellow : 1 yellow and wrinkled : 1 green and round : 1 wrinkled and green"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Тест: вопросы 11–20",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q11",
+     "kind": "choice",
+     "points": 1,
+     "question": "11. In placental mammals, maternal and fetal circulatory systems are connected. Which statement is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Fetal haemoglobin has a higher affinity for oxygen than maternal haemoglobin because the fetus must acquire oxygen from maternal blood."
+      },
+      {
+       "key": "B",
+       "text": "Maternal haemoglobin has a higher affinity for oxygen than fetal haemoglobin because the mother must acquire sufficient oxygen for both the mother and the fetus."
+      },
+      {
+       "key": "C",
+       "text": "Fetal haemoglobin and maternal haemoglobin have equal affinity for oxygen because the maternal and fetal circulatory systems share the same oxygen supply."
+      },
+      {
+       "key": "D",
+       "text": "Fetal haemoglobin has a lower affinity for oxygen than maternal haemoglobin because fetal blood with high oxygen affinity would also decrease the ability of haemoglobin to unload oxygen to fetal tissues."
+      },
+      {
+       "key": "E",
+       "text": "Maternal haemoglobin has a lower affinity for oxygen than fetal haemoglobin because maternal haemoglobin has a greater capacity for cooperative binding. ©©2018 2018University University of ofToronto Toronto U of T National Biology Competition / 4"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q12",
+     "kind": "choice",
+     "points": 1,
+     "question": "12. Because of human activity, soil in the environment is losing the ability to biodegrade due to overuse of antibiotics in veterinary medicine and agriculture. Which statement best describes this effect of human activity in ecosystems?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Overexploitation"
+      },
+      {
+       "key": "B",
+       "text": "Eutrophication"
+      },
+      {
+       "key": "C",
+       "text": "Contamination"
+      },
+      {
+       "key": "D",
+       "text": "Habitat fragmentation"
+      },
+      {
+       "key": "E",
+       "text": "Trophic cascade"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q13",
+     "kind": "choice",
+     "points": 1,
+     "question": "13. Which statement about energy flow in ecosystems is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "All energy available at one trophic level is transferred to higher trophic levels."
+      },
+      {
+       "key": "B",
+       "text": "Herbivores obtain energy from primary producers."
+      },
+      {
+       "key": "C",
+       "text": "Decomposers feed only on the lowest trophic level in the food pyramid."
+      },
+      {
+       "key": "D",
+       "text": "Primary consumers obtain energy through photosynthesis."
+      },
+      {
+       "key": "E",
+       "text": "The lowest trophic level of a food pyramid stores the least amount of energy."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q14",
+     "kind": "choice",
+     "points": 1,
+     "question": "14. In humans, the caecum (also called the appendix) is a pouch located at the beginning of the large intestine. In comparison to humans, rabbits (herbivorous mammals) have a much larger caecum. Which statement best describes the function of the large caecum in rabbits?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Food is diverted into the rabbit caecum, slowing digestion to provide more time to digest proteins and fats."
+      },
+      {
+       "key": "B",
+       "text": "The rabbit caecum reabsorbs water to recover fluids lost from the secretion of digestive juices."
+      },
+      {
+       "key": "C",
+       "text": "The rabbit caecum is muscular and provides mechanical digestion similar to the gizzard in birds."
+      },
+      {
+       "key": "D",
+       "text": "The rabbit caecum houses microorganisms that ferment cellulose."
+      },
+      {
+       "key": "E",
+       "text": "Rabbits have a very short, small intestine and therefore require a large caecum for nutrient absorption."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q15",
+     "kind": "choice",
+     "points": 1,
+     "question": "15. Dwarf mistletoes are plants that grow into the branches of hemlock trees and absorb nutrients for their growth. This penetration causes weakening of the host tree. What type of species interaction is this?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Commensalism"
+      },
+      {
+       "key": "B",
+       "text": "Predation"
+      },
+      {
+       "key": "C",
+       "text": "Competition"
+      },
+      {
+       "key": "D",
+       "text": "Mutualism"
+      },
+      {
+       "key": "E",
+       "text": "Parasitism"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q16",
+     "kind": "choice",
+     "points": 1,
+     "question": "16. Bacteria X were cultured in a nutrient-filled, closed Petri dish in a laboratory. Which statement best describes the population of bacteria X?",
+     "options": [
+      {
+       "key": "A",
+       "text": "When a small number of bacteria X colonized the unoccupied Petri dish, exponential growth in this population was observed as the population was near to its carrying capacity."
+      },
+      {
+       "key": "B",
+       "text": "The rate of population increase was at a maximum when the population equalled 20% of the carrying capacity."
+      },
+      {
+       "key": "C",
+       "text": "The rate of population increase was at a maximum when the population equalled 80% of the carrying capacity."
+      },
+      {
+       "key": "D",
+       "text": "After moving a colony of bacteria X to a bigger, nutrient-filled dish, the carrying capacity was altered."
+      },
+      {
+       "key": "E",
+       "text": "When bacteria Y were introduced, competition between the two species was observed, causing the carrying capacity of both species to increase."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q17",
+     "kind": "choice",
+     "points": 1,
+     "question": "17. Which statement about cell membranes is most CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Cell membranes transport molecules based on substrate availability."
+      },
+      {
+       "key": "B",
+       "text": "Cell membranes are “selective” by changing the type and number of transporters in the membrane."
+      },
+      {
+       "key": "C",
+       "text": "Cell membranes randomly select what kind of molecules to transport."
+      },
+      {
+       "key": "D",
+       "text": "Cell membrane composition is relatively static over a period of months."
+      },
+      {
+       "key": "E",
+       "text": "Cell membranes are comprised solely of a phospholipid bilayer. ©©2018 2018University University of ofToronto Toronto U of T National Biology Competition / 5"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q18",
+     "kind": "choice",
+     "points": 1,
+     "question": "18. In cold environments, such as the Antarctic, the large and featherless webbed feet of penguins could potentially provide a large amount of surface area for heat loss, which is costly for an endothermic animal. Which of the following is an adaptation that prevents heat loss through the surface of a penguin’s feet?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Penguins reflexively vasodilate the capillaries of the extremities in response to cold temperatures."
+      },
+      {
+       "key": "B",
+       "text": "Penguins routinely slow their metabolism when environmental temperatures fall; this torpor results in lower body temperature, lower rate of food intake, and reduces heat lost to the environment."
+      },
+      {
+       "key": "C",
+       "text": "Penguins have a high metabolism and high heart rate to keep warm blood constantly circulating to all body tissues."
+      },
+      {
+       "key": "D",
+       "text": "Blood vessels in a penguin’s legs are arranged closely in parallel so that arterial blood is cooled as it flows past cold venous blood towards the extremities."
+      },
+      {
+       "key": "E",
+       "text": "Penguins have reduced the number of blood vessels in their legs to prevent heat loss through the extremities."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q19",
+     "kind": "choice",
+     "points": 1,
+     "question": "19. The disaccharide lactulose is formed by a condensation reaction from one monomer each of galactose and fructose, both shown below. What is the molecular formula of lactulose? [QUESTION EDITED, MAY 2018]",
+     "options": [
+      {
+       "key": "A",
+       "text": "C6H12O6"
+      },
+      {
+       "key": "B",
+       "text": "C12H14O11"
+      },
+      {
+       "key": "C",
+       "text": "C12H16O12"
+      },
+      {
+       "key": "D",
+       "text": "C12H22O11"
+      },
+      {
+       "key": "E",
+       "text": "C12H24O12"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q20",
+     "kind": "choice",
+     "points": 1,
+     "question": "20. Which statement about introduced species is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Some introduced species can alter the natural habitat."
+      },
+      {
+       "key": "B",
+       "text": "All introduced species are also invasive species."
+      },
+      {
+       "key": "C",
+       "text": "One of the major characteristics of introduced species is overexploitation."
+      },
+      {
+       "key": "D",
+       "text": "Invasive species often reproduce slower than the native species in order to adapt to the new environment."
+      },
+      {
+       "key": "E",
+       "text": "All introduced species are beneficial to the native species."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-development",
+     "reference": "Правильный ответ: A"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Тест: вопросы 21–30",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q21",
+     "kind": "choice",
+     "points": 1,
+     "question": "21. How does the parasympathetic nervous system affect the cardiovascular and respiratory systems of a mammal?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Heart rate increases; smooth muscles of bronchioles contract."
+      },
+      {
+       "key": "B",
+       "text": "Heart rate decreases; smooth muscles of bronchioles relax."
+      },
+      {
+       "key": "C",
+       "text": "Heart rate decreases; smooth muscles of bronchioles contract."
+      },
+      {
+       "key": "D",
+       "text": "Stroke volume increases; smooth muscles of bronchioles relax."
+      },
+      {
+       "key": "E",
+       "text": "Stroke volume increases; smooth muscles of bronchioles contract."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q22",
+     "kind": "choice",
+     "points": 1,
+     "question": "22. Which statement about membrane proteins is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Peripheral membrane proteins are found on the surface of the cell membrane."
+      },
+      {
+       "key": "B",
+       "text": "Membrane proteins are found in the cell membrane but not within organelle membranes."
+      },
+      {
+       "key": "C",
+       "text": "The ends of the primary structure are stable in the interior of a lipid bilayer."
+      },
+      {
+       "key": "D",
+       "text": "Hydrophobic amino acids are buried in the core of the tertiary structure."
+      },
+      {
+       "key": "E",
+       "text": "Integral membrane proteins assemble in tertiary structure, but not in quaternary structure."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q23",
+     "kind": "choice",
+     "points": 1,
+     "question": "23. A woman discovers that her family has a history of a rare, X-linked genetic disorder that causes symptoms late in life. Her mother and father didn’t have the disease, but all three of her brothers do. What is the probability that the woman will have the disease as well?",
+     "options": [
+      {
+       "key": "A",
+       "text": "100%"
+      },
+      {
+       "key": "B",
+       "text": "75%"
+      },
+      {
+       "key": "C",
+       "text": "50%"
+      },
+      {
+       "key": "D",
+       "text": "25%"
+      },
+      {
+       "key": "E",
+       "text": "0% ©©2018 2018University University of ofToronto Toronto U of T National Biology Competition / 6"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-ecology",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q24",
+     "kind": "choice",
+     "points": 1,
+     "question": "24. Which statement best describes the model of semi-conservative DNA replication?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Each new DNA double helix consists entirely of new nucleotides."
+      },
+      {
+       "key": "B",
+       "text": "All four DNA strands contain new nucleotides."
+      },
+      {
+       "key": "C",
+       "text": "Each new DNA double helix contains one strand consisting entirely of new nucleotides."
+      },
+      {
+       "key": "D",
+       "text": "The leading strand of DNA is synthesized in many small fragments."
+      },
+      {
+       "key": "E",
+       "text": "The lagging strand of DNA is synthesized in many small fragments."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q25",
+     "kind": "choice",
+     "points": 1,
+     "question": "25. How many chromatids are in a cell from an organism with 2n=24 and at the start of prophase II of meiosis?",
+     "options": [
+      {
+       "key": "A",
+       "text": "48"
+      },
+      {
+       "key": "B",
+       "text": "24"
+      },
+      {
+       "key": "C",
+       "text": "12"
+      },
+      {
+       "key": "D",
+       "text": "6"
+      },
+      {
+       "key": "E",
+       "text": "3"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-cell-cycle",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q26",
+     "kind": "choice",
+     "points": 1,
+     "question": "26. The complete breakdown of one fatty acid molecule yields many more ATP than the complete breakdown of one glucose molecule. When fatty acids are broken down in a cell, the products are carbon dioxide and water. Which of the energy diagrams below (A to E) best represents fatty acid breakdown? (Glucose breakdown is shown for reference, and all diagrams have the same axes and are to the same scale.)",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q27",
+     "kind": "choice",
+     "points": 1,
+     "question": "27. What do mutation and genetic drift have in common?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Both increase genetic variation in a population."
+      },
+      {
+       "key": "B",
+       "text": "Both decrease genetic variation in a population."
+      },
+      {
+       "key": "C",
+       "text": "Both have a weaker effect in small populations than in large populations."
+      },
+      {
+       "key": "D",
+       "text": "Both are nonrandom processes."
+      },
+      {
+       "key": "E",
+       "text": "Both are random processes."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q28",
+     "kind": "choice",
+     "points": 1,
+     "question": "28. Which statement correctly lists these cytoskeletal filaments from SMALLEST to LARGEST in diameter?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Microtubule < Actin filament < Intermediate filament"
+      },
+      {
+       "key": "B",
+       "text": "Actin filament < Microtubule < Intermediate filament"
+      },
+      {
+       "key": "C",
+       "text": "Actin filament < Intermediate filament < Microtubule"
+      },
+      {
+       "key": "D",
+       "text": "Microtubule < Intermediate filament < Actin filament"
+      },
+      {
+       "key": "E",
+       "text": "Intermediate filament < Microtubule < Actin filament"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q29",
+     "kind": "choice",
+     "points": 1,
+     "question": "29. Which of the following are apical meristems most directly responsible for?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Formation of root hairs"
+      },
+      {
+       "key": "B",
+       "text": "Formation of leaves"
+      },
+      {
+       "key": "C",
+       "text": "Thickening of the stem"
+      },
+      {
+       "key": "D",
+       "text": "Thickening of the root"
+      },
+      {
+       "key": "E",
+       "text": "Elongation of the hypocotyl ©©2018 2018University University of ofToronto Toronto U of T National Biology Competition / 7"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q30",
+     "kind": "choice",
+     "points": 1,
+     "question": "30. A farmer sprays an insecticide on her crops to successfully get rid of weevils, a beetle pest. After a few years of spraying the insecticide, she finds that weevils are becoming more and more common again. What is the most likely explanation for this?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Weevils that are resistant to the insecticide are favoured by natural selection over weevils that are susceptible to the insecticide."
+      },
+      {
+       "key": "B",
+       "text": "Weevils that are susceptible to the insecticide are increasing their rates of mutation to become resistant to the insecticide."
+      },
+      {
+       "key": "C",
+       "text": "The insecticide is attracting weevils that are resistant to the insecticide from other areas."
+      },
+      {
+       "key": "D",
+       "text": "Weevils are becoming resistant to the insecticide by chance (that is, not by selection or mutation)."
+      },
+      {
+       "key": "E",
+       "text": "Female weevils are attracted to, and thus more likely to mate with, male weevils that are resistant to the insecticide."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-animal-anatomy",
+     "reference": "Правильный ответ: A"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Тест: вопросы 31–40",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q31",
+     "kind": "choice",
+     "points": 1,
+     "question": "31. BCA1 is an enzyme found in spinach and other plants. BCA1 is first synthesized in the cytoplasm and then transported to its final destination in the chloroplast stroma, where it catalyzes an acid-base reaction. When someone eats spinach, the components of spinach are enzymatically digested in their stomach. In what pH environment will the BCA1 enzyme have optimal activity?",
+     "options": [
+      {
+       "key": "A",
+       "text": "In the stomach (pH 2)."
+      },
+      {
+       "key": "B",
+       "text": "In spinach cells, within the chloroplast thylakoid lumen (pH 5)."
+      },
+      {
+       "key": "C",
+       "text": "In the optimal soil for growing spinach (pH 6)."
+      },
+      {
+       "key": "D",
+       "text": "In spinach cells, within the cytoplasm (pH 7)."
+      },
+      {
+       "key": "E",
+       "text": "In spinach cells, within the chloroplast stroma (pH 8)."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q32",
+     "kind": "choice",
+     "points": 1,
+     "question": "32. Diving vertebrates such as sperm whales can hold their breath for long periods of time while hunting or travelling under water. What happens to the heart rate of diving vertebrates during a long dive?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The heart rate increases quickly, delivering oxygen to the muscles used in swimming."
+      },
+      {
+       "key": "B",
+       "text": "The heart rate increases, because swimming muscles require ATP, not oxygen."
+      },
+      {
+       "key": "C",
+       "text": "The heart rate increases, because during a dive critical organs such as the brain cannot tolerate low oxygen levels."
+      },
+      {
+       "key": "D",
+       "text": "The heart rate decreases because of an autonomic response to the dive; overall blood pressure decreases."
+      },
+      {
+       "key": "E",
+       "text": "The heart rate decreases because the peripheral blood vessels dilate to ensure that tissues at the extremities receive oxygenated blood."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q33",
+     "kind": "choice",
+     "points": 1,
+     "question": "33. Which of the following is a major revelation of the theory of evolution by natural selection proposed by Charles Darwin and Alfred Russell Wallace?",
+     "options": [
+      {
+       "key": "A",
+       "text": "They suggested that life could arise from nonliving matter."
+      },
+      {
+       "key": "B",
+       "text": "They recognized the importance of variation within populations in the evolution of species."
+      },
+      {
+       "key": "C",
+       "text": "They showed that acquired characteristics could be passed from parent to offspring."
+      },
+      {
+       "key": "D",
+       "text": "They determined the mechanism by which adaptive traits are inherited."
+      },
+      {
+       "key": "E",
+       "text": "They were the first to propose that species could change over time."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q34",
+     "kind": "choice",
+     "points": 1,
+     "question": "34. A researcher had many participants run up 10 flights of stairs and then blow into a breathalyser to test for ethanol in the blood. None of the participants had consumed any alcohol for 24 hours prior to the test, but one individual’s test was observed to show some evidence of alcohol in the blood. What is the best explanation for this observation?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The exercise demanded more energy than could be provided through aerobic respiration, so the remainder was produced through fermentation."
+      },
+      {
+       "key": "B",
+       "text": "The participant lacks an enzyme responsible for producing lactic acid and thus produced ethanol."
+      },
+      {
+       "key": "C",
+       "text": "Because lactic acid and ethanol are both alcohols, they are similar enough to trick the machine."
+      },
+      {
+       "key": "D",
+       "text": "Without O2 as a terminal electron acceptor, acetaldehyde is hydrolysed to ethanol."
+      },
+      {
+       "key": "E",
+       "text": "The participant may have gut fermentation syndrome, a rare condition in which their gut flora ferments carbohydrates in the intestines, constantly producing small amounts of ethanol. ©©2018 2018University University of ofToronto Toronto U of T National Biology Competition / 8"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q35",
+     "kind": "choice",
+     "points": 1,
+     "question": "35. Neurons are considerably longer than most other cells. How does their elongated shape help neurons transmit information over relatively long distances? Their elongated shape:",
+     "options": [
+      {
+       "key": "A",
+       "text": "provides a high surface area to volume ratio, thus increasing transmission efficiency."
+      },
+      {
+       "key": "B",
+       "text": "provides greater surface area over which clusters of K+ leak channels can congregate."
+      },
+      {
+       "key": "C",
+       "text": "provides a greater internal area for mitochondria to power transporter proteins."
+      },
+      {
+       "key": "D",
+       "text": "allows a direct physical connection between the sending and receiving ends."
+      },
+      {
+       "key": "E",
+       "text": "allows more cells to fit into constricted areas such as the spinal cord."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q36",
+     "kind": "choice",
+     "points": 1,
+     "question": "36. Dissection of a duck heart reveals variation in muscle thicknesses among the heart chambers. Which statement best explains a reason for this variation in morphology?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The left atrium of birds is thicker because it receives only small amounts of blood from the lungs."
+      },
+      {
+       "key": "B",
+       "text": "The right atrium of birds is thinner because it must be able to stretch and then propel blood through all four chambers of the heart."
+      },
+      {
+       "key": "C",
+       "text": "The ventricles are thicker than the atria because the ventricles propel the blood to the entire body."
+      },
+      {
+       "key": "D",
+       "text": "The right ventricle of birds is thicker because the increased rigidity of the wall correlates with lower blood pressure delivered to delicate lung tissues."
+      },
+      {
+       "key": "E",
+       "text": "The left ventricle of birds is thicker because more muscle is required to propel blood to the systemic system."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q37",
+     "kind": "choice",
+     "points": 1,
+     "question": "37. Hexokinase, shown here in a ribbon representation, is an enzyme in glycolysis. It consists of a single polypeptide chain with several cysteine amino acids, but has no disulfide bonds. What is the highest level of structure found in this enzyme?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Primary"
+      },
+      {
+       "key": "B",
+       "text": "Secondary"
+      },
+      {
+       "key": "C",
+       "text": "Tertiary"
+      },
+      {
+       "key": "D",
+       "text": "Quaternary"
+      },
+      {
+       "key": "E",
+       "text": "Not enough information; would need to see a ball-and-stick representation."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q38",
+     "kind": "choice",
+     "points": 1,
+     "question": "38. The diagram below shows a cross-section of a plant stem. What is the labelled structure and one of its functions? Structure Function",
+     "options": [
+      {
+       "key": "A",
+       "text": "Xylem Gas exchange b. c. Phloem Pith parenchyma Transport of sugars Gas exchange * d. Xylem Transport of water e. Phloem Gas exchange"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q39",
+     "kind": "choice",
+     "points": 1,
+     "question": "39. Many amphibians are able to breathe with their skin (cutaneous respiration) as well as with their lungs. Consider an amphibian whose body is submerged underwater, and whose mouth and nares are above water so that it can inhale and exhale air. How will the rate of oxygen diffusion across the submerged skin compare to the rate of oxygen diffusion across the lungs?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Oxygen diffusion across the lungs will be faster because the amount of oxygen in water is much lower than in air."
+      },
+      {
+       "key": "B",
+       "text": "Oxygen diffusion across the lungs will be faster because the blood in the lungs has a higher partial pressure of oxygen than the partial pressure of oxygen of air in the lungs."
+      },
+      {
+       "key": "C",
+       "text": "Oxygen diffusion across the lungs will be slower because water can contain much more oxygen per mL than air."
+      },
+      {
+       "key": "D",
+       "text": "Oxygen diffusion across the lungs will be slower because frogs do not have ribs or a diaphragm to drive air in and out of the lungs."
+      },
+      {
+       "key": "E",
+       "text": "Oxygen diffusion across the lungs will be slower because the blood in the lungs has a higher partial pressure of oxygen than the partial pressure of oxygen of air in the lungs. ©©2018 2018University University of ofToronto Toronto U of T National Biology Competition / 9"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q40",
+     "kind": "choice",
+     "points": 1,
+     "question": "40. The pedigree chart below shows the blood types of different members of a family. The blood type of two individuals (labelled 1 and 2) are unknown. What are the blood types of individuals 1 and 2? Individual 1 Individual 2",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: null"
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Тест: вопросы 41–50",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q41",
+     "kind": "choice",
+     "points": 1,
+     "question": "41. What is the effect of abscisic acid on transpiration?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Decreases transpiration by causing stomata to close."
+      },
+      {
+       "key": "B",
+       "text": "Increases transpiration by causing stomata to open."
+      },
+      {
+       "key": "C",
+       "text": "Decreases transpiration by causing roots to absorb less water."
+      },
+      {
+       "key": "D",
+       "text": "Increases transpiration by causing roots to absorb more water."
+      },
+      {
+       "key": "E",
+       "text": "Abscisic acid has no effect on transpiration rates."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q42",
+     "kind": "choice",
+     "points": 1,
+     "question": "42. In the fruit fly, eye color and body colour are each controlled by a single gene. If a fly homozygous for brown eyes and pale body, is crossed with a fly homozygous for red eyes and dark body, all offspring are red-eyed with dark bodies. When these F1 flies are crossed, the ratio of phenotypes in their progeny is 11 red-eyed and dark : 1 red-eyed and light : 1 brown-eyed and dark : 2 brown-eyed and light. What is the best explanation for these results?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The alleles for red eyes and dark bodies are each dominant."
+      },
+      {
+       "key": "B",
+       "text": "The genes for eye colour and body colour are linked."
+      },
+      {
+       "key": "C",
+       "text": "A third, uncharacterized gene causes brown eyes."
+      },
+      {
+       "key": "D",
+       "text": "Brown-eyed and light-bodied flies are at a selective disadvantage."
+      },
+      {
+       "key": "E",
+       "text": "The genes for eye colour and body colour are on different chromosomes."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q43",
+     "kind": "choice",
+     "points": 1,
+     "question": "43. When would the lac operon have the highest expression?",
+     "options": [
+      {
+       "key": "A",
+       "text": "When lactose and glucose are both absent."
+      },
+      {
+       "key": "B",
+       "text": "When lactose is absent, and glucose is present."
+      },
+      {
+       "key": "C",
+       "text": "When lactose is present, and glucose is absent."
+      },
+      {
+       "key": "D",
+       "text": "When lactose and glucose are both present."
+      },
+      {
+       "key": "E",
+       "text": "When lactose is absent, regardless of the presence of glucose."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-gene-regulation",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q44",
+     "kind": "choice",
+     "points": 1,
+     "question": "44. Cancer cells can form tumours when mitosis is dysregulated. Based on this finding, what is one major difference between tumour cells and normal cells?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Tumour cells spend most of their time in G1."
+      },
+      {
+       "key": "B",
+       "text": "Tumour cells overexpress membrane-bound receptors."
+      },
+      {
+       "key": "C",
+       "text": "Tumour cells have damaged DNA telomeres that prevent them from entering apoptosis."
+      },
+      {
+       "key": "D",
+       "text": "Tumour cells contain defective cell-cycle checkpoints."
+      },
+      {
+       "key": "E",
+       "text": "Tumour cells are more energetically efficient and thus can divide indefinitely."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q45",
+     "kind": "choice",
+     "points": 1,
+     "question": "45. What is the most appropriate use for antibiotics?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Taking antibiotics when you are hospitalized with influenza."
+      },
+      {
+       "key": "B",
+       "text": "Taking antibiotics for bacterial pneumonia."
+      },
+      {
+       "key": "C",
+       "text": "Taking antibiotics to prevent infection."
+      },
+      {
+       "key": "D",
+       "text": "Taking antibiotics that have been prescribed to you, and stopping once you feel better."
+      },
+      {
+       "key": "E",
+       "text": "Adding antibiotics to hand soap. ©©2018 2018University University of ofToronto Toronto U of T National Biology Competition / 10"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q46",
+     "kind": "choice",
+     "points": 1,
+     "question": "46. A DNA sequence reads: 5'ATGGCATCA -3'. If the complementary strand was transcribed, what would the resulting RNA sequence be?",
+     "options": [
+      {
+       "key": "A",
+       "text": "5'- AUGGCAUCA -3'"
+      },
+      {
+       "key": "B",
+       "text": "5'- UGAUGCCAU -3'"
+      },
+      {
+       "key": "C",
+       "text": "5'- TACCGTAGT -3'"
+      },
+      {
+       "key": "D",
+       "text": "5'- ACUACGGUA -3'"
+      },
+      {
+       "key": "E",
+       "text": "5'- UACCGUAGU -3'"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q47",
+     "kind": "choice",
+     "points": 1,
+     "question": "47. In rod cells of a human eye, several chemical reactions are involved in the response to light. One reaction involves the molecules retinal and retinol: Retinal + NADPH + H+ à Retinol + NADP+ During this reaction what is taking place?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Retinal is reduced; NADP+ is oxidized."
+      },
+      {
+       "key": "B",
+       "text": "Retinal is reduced; NADPH is reduced."
+      },
+      {
+       "key": "C",
+       "text": "Retinal is reduced; NADPH is oxidized."
+      },
+      {
+       "key": "D",
+       "text": "Retinal is oxidized; NADP+ is reduced."
+      },
+      {
+       "key": "E",
+       "text": "Retinal is oxidized; NADPH is reduced."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q48",
+     "kind": "choice",
+     "points": 1,
+     "question": "48. Which statement about the chemical relationship between cellular respiration and photosynthesis is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Glycolysis produces more ATP per mole of glucose than the Calvin cycle uses to produce one mole of glucose."
+      },
+      {
+       "key": "B",
+       "text": "Forming covalent bonds in water molecules at the end of oxidative phosphorylation releases the energy that is required to drive the synthesis of ATP, similar to the energy contributed by photons during the light- dependent reactions."
+      },
+      {
+       "key": "C",
+       "text": "The Calvin cycle only fixes carbon that was produced by cellular respiration."
+      },
+      {
+       "key": "D",
+       "text": "Some of the NADPH produced from photosystem I is used for the synthesis of secondary metabolites, which can be used in cellular respiration."
+      },
+      {
+       "key": "E",
+       "text": "More ATP are used in one round of the Calvin cycle than are produced from one round of the citric acid (Krebs) cycle."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q49",
+     "kind": "choice",
+     "points": 1,
+     "question": "49. Mycorrhizal fungi are available for purchase by farmers and home gardeners. These fungi are predicted to have a major impact on how we grow our food in the coming decades. How do these fungi benefit growers?",
+     "options": [
+      {
+       "key": "A",
+       "text": "They interact with plant roots to provide water and nutrients to the plant."
+      },
+      {
+       "key": "B",
+       "text": "They act as an inexpensive and effective fertilizer, providing the plant with nutrients as fungi decompose."
+      },
+      {
+       "key": "C",
+       "text": "The fungi attract pollinators, counteracting declining bee populations."
+      },
+      {
+       "key": "D",
+       "text": "They produce mushrooms, which reduce the need for irrigation by reducing evaporation."
+      },
+      {
+       "key": "E",
+       "text": "They discourage aphids and other insects from feeding on the plants."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q50",
+     "kind": "choice",
+     "points": 1,
+     "question": "50. The United States government is considering a proposal to construct a wall that would span large portions of the border between the USA and Mexico. Which statement would be the most likely result of this proposed wall on populations of large mammals such as deer and wolves in the vicinity of the wall?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Reduced genetic drift"
+      },
+      {
+       "key": "B",
+       "text": "Increased postzygotic isolation between individuals"
+      },
+      {
+       "key": "C",
+       "text": "Increased rates of sympatric speciation"
+      },
+      {
+       "key": "D",
+       "text": "Restricted gene flow"
+      },
+      {
+       "key": "E",
+       "text": "There will be little effect on populations of large mammals in the vicinity of the proposed wall. End of exam. Thank you for participating in the 2018 competition. Results – including scholarship information, certificates, and cash prizes – will be received by your school in late May. Honour rolls of the top students and schools and exam questions with answers will be posted on the competition’s website in late May: biocomp.utoronto.ca ©©2018 2018University University of ofToronto Toronto"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-animal-anatomy",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  }
+ ]
+}

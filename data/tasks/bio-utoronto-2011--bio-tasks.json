@@ -1,0 +1,1923 @@
+{
+ "setId": "bio-utoronto-2011--bio-tasks",
+ "olympiadId": "bio-utoronto-2011",
+ "title": "Биология → U of Toronto → 2011",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/utoronto/2011/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/utoronto/2011/bio-sol.pdf",
+ "generatedBy": "test-parser",
+ "type": "test",
+ "generatedAt": "2026-11-09T13:45:01.517Z",
+ "quality": {
+  "tasks": 5,
+  "parts": 50,
+  "withPoints": 50,
+  "withReference": 50,
+  "withQuestion": 50,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Тест: вопросы 1–10",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q1",
+     "kind": "choice",
+     "points": 1,
+     "question": "1. A cell that functions primarily to export lipids will contain a large amount of which organelle?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Mitochondria"
+      },
+      {
+       "key": "B",
+       "text": "Smooth endoplasmic reticulum"
+      },
+      {
+       "key": "C",
+       "text": "Peroxisomes"
+      },
+      {
+       "key": "D",
+       "text": "Rough endoplasmic reticulum"
+      },
+      {
+       "key": "E",
+       "text": "Vacuoles"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q2",
+     "kind": "choice",
+     "points": 1,
+     "question": "2. A single base-pair deletion within an exon in the middle of a protein-coding gene would have what effect?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Interfere with binding of RNA polymerase to the promoter."
+      },
+      {
+       "key": "B",
+       "text": "Interfere with codon-anticodon binding in the ribosome."
+      },
+      {
+       "key": "C",
+       "text": "Alter the reading frame leading to a different polypeptide."
+      },
+      {
+       "key": "D",
+       "text": "Prevent tRNAs from adding amino acids to the polypeptide."
+      },
+      {
+       "key": "E",
+       "text": "Interfere with Poly-A tail addition to the mRNA."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q3",
+     "kind": "choice",
+     "points": 1,
+     "question": "3. Which of the following is an example of positive feedback?",
+     "options": [
+      {
+       "key": "A",
+       "text": "At high temperatures blood vessels dilate → blood flow increases → heat-loss from the skin increases → body temperature decreases."
+      },
+      {
+       "key": "B",
+       "text": "Glucose levels are high → the pancreas secretes insulin → cells in the liver synthesize glycogen → glucose levels fall."
+      },
+      {
+       "key": "C",
+       "text": "The head of a fetus pushes on the cervix → the pituitary gland secretes oxytocin → oxytocin stimulates uterine contractions → the fetus is pushed towards the cervix."
+      },
+      {
+       "key": "D",
+       "text": "The blood contains excess H+ → carbonic acid is formed and breaks down to form water and carbon dioxide → breathing rate increases → blood pH is increased."
+      },
+      {
+       "key": "E",
+       "text": "Calcium levels are low → the parathyroid gland releases parathyroid hormone → Ca2+ is released from bones and Ca2+ uptake in the intestines increases → calcium levels rise."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q4",
+     "kind": "choice",
+     "points": 1,
+     "question": "4. What is the most likely reason why the carrying capacity of the human population is difficult to estimate?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Humans are a K-selected species."
+      },
+      {
+       "key": "B",
+       "text": "Human migration is higher than that in other species."
+      },
+      {
+       "key": "C",
+       "text": "Human carrying capacity is influenced primarily by abiotic factors."
+      },
+      {
+       "key": "D",
+       "text": "Humans consume more resources than other species."
+      },
+      {
+       "key": "E",
+       "text": "Humans alter their own environment more than other species do."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-ecology",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q5",
+     "kind": "choice",
+     "points": 1,
+     "question": "5. A panmictic (randomly mating) population becomes fragmented due to the formation of a geographic barrier. Through time, genetic differences accumulate through genetic drift and natural selection. Upon removal of the barrier the two populations occupy the same general area, but do not produce viable offspring. Which of the following is NOT a plausible consequence?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The populations can mate, but fertilization cannot occur."
+      },
+      {
+       "key": "B",
+       "text": "Post-zygotic isolation due to hybrid breakdown."
+      },
+      {
+       "key": "C",
+       "text": "Mechanical isolation due to phenotypic differences."
+      },
+      {
+       "key": "D",
+       "text": "The geographic barrier has resulted in sympatric speciation."
+      },
+      {
+       "key": "E",
+       "text": "Habitat isolation due to adaptive divergence. © 2011 University of Toronto U of T National Biology Competition / 3"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-development",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q6",
+     "kind": "choice",
+     "points": 1,
+     "question": "6. Why is it harder to breathe if you bend forward while sitting down and place your head near your knees?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Bending over forces your diaphragm up and lung pressure to increase, making it harder to inhale."
+      },
+      {
+       "key": "B",
+       "text": "Bending over forces your rib cage up, making it harder for your lungs to fill with air."
+      },
+      {
+       "key": "C",
+       "text": "Bending over causes your diaphragm to contract and move down, making it harder to exhale."
+      },
+      {
+       "key": "D",
+       "text": "Bending over reduces the residual volume of gas in your lungs, making it harder to breathe."
+      },
+      {
+       "key": "E",
+       "text": "Bending over increases your heart rate, which increases the demand for oxygen and increasing your breathing rate."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q7",
+     "kind": "choice",
+     "points": 1,
+     "question": "7. Which combination of hormones that delay ripening (column 1) and enhance ripening (column 2) is CORRECT? Delay ripening: Enhance ripening:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Cytokinin Ethylene"
+      },
+      {
+       "key": "B",
+       "text": "Ethylene Auxin"
+      },
+      {
+       "key": "C",
+       "text": "Abscisic acid Cytokinin"
+      },
+      {
+       "key": "D",
+       "text": "Gibberellins Ethylene"
+      },
+      {
+       "key": "E",
+       "text": "Gibberellins Auxin"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": true,
+     "answer": "AD",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: AD"
+    },
+    {
+     "id": "q8",
+     "kind": "choice",
+     "points": 1,
+     "question": "8. Ants and treehoppers (small, herbivorous insects) are often found living on the same plants. Treehoppers feed on sugary plant sap and excrete excess sugar, which ants collect and eat. A scientist measured the reproductive success of the treehoppers by recording how many young treehoppers were alive on plants. Some of the plants lacked ants; other plants were populated by ants throughout the experiment. The results are presented in the graph below. Based on these results, what type of species interaction is most likely occurring between the ants and Number of young treehoppers per plant treehoppers? 90 80 Plants with ants",
+     "options": [
+      {
+       "key": "A",
+       "text": "Competition"
+      },
+      {
+       "key": "B",
+       "text": "Mutualism 70"
+      },
+      {
+       "key": "C",
+       "text": "Parasitism 60"
+      },
+      {
+       "key": "D",
+       "text": "Predation"
+      },
+      {
+       "key": "E",
+       "text": "Amensalism 50 40 30 20"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q9",
+     "kind": "choice",
+     "points": 1,
+     "question": "9. Which genetic structures “cross over” during Plants without ants 10 prophase I of meiosis? 0 i. Centromeres 01-Jul 08-Jul 15-Jul 22-Jul 29-Jul 05-Aug 12-Aug 19-Aug ii. Homologous chromosomes iii. Non-sister chromatids",
+     "options": [
+      {
+       "key": "A",
+       "text": "i only"
+      },
+      {
+       "key": "B",
+       "text": "ii only"
+      },
+      {
+       "key": "C",
+       "text": "iii only"
+      },
+      {
+       "key": "D",
+       "text": "i and ii"
+      },
+      {
+       "key": "E",
+       "text": "ii and iii © 2011 University of Toronto U of T National Biology Competition / 4"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q10",
+     "kind": "choice",
+     "points": 1,
+     "question": "10. Which of the following accurately describes an isotope (for a given chemical element)?",
+     "options": [
+      {
+       "key": "A",
+       "text": "An atom with a different number of protons."
+      },
+      {
+       "key": "B",
+       "text": "An atom with a different number of electrons."
+      },
+      {
+       "key": "C",
+       "text": "An atom whose valence shell is full."
+      },
+      {
+       "key": "D",
+       "text": "An atom with a different number of neutrons."
+      },
+      {
+       "key": "E",
+       "text": "A chemically-reactive atom."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Тест: вопросы 11–20",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q11",
+     "kind": "choice",
+     "points": 1,
+     "question": "11. Which statements about the plasma membrane are CORRECT? i. Gap junctions through the plasma membrane link animal cells. ii. The phospholipid bilayer contains hydrophobic heads and hydrophilic tails. iii. Phospholipids are stationary. iv. Peripheral proteins are embedded in the bilayer. v. The plasma membrane is the site of ATP synthesis in prokaryotes.",
+     "options": [
+      {
+       "key": "A",
+       "text": "i, iii, and v"
+      },
+      {
+       "key": "B",
+       "text": "i and v"
+      },
+      {
+       "key": "C",
+       "text": "ii and iii"
+      },
+      {
+       "key": "D",
+       "text": "ii and iv"
+      },
+      {
+       "key": "E",
+       "text": "iv and v"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q12",
+     "kind": "choice",
+     "points": 1,
+     "question": "12. The graph below illustrates an action potential from a normal neuron (solid line) and an action potential from a neuron that has been treated with a drug (dashed line). What effect is the drug exerting on the neuron to cause this change in action potential? Normal",
+     "options": [
+      {
+       "key": "A",
+       "text": "Partial blocking of K+ channels Treated"
+      },
+      {
+       "key": "B",
+       "text": "Preventing the release of neurotransmitters"
+      },
+      {
+       "key": "C",
+       "text": "Partial blocking of Na+ channels"
+      },
+      {
+       "key": "D",
+       "text": "Forcing Na+ into the neuron"
+      },
+      {
+       "key": "E",
+       "text": "Increasing the refractory period"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q13",
+     "kind": "choice",
+     "points": 1,
+     "question": "13. Which adaptation is NOT directly linked to the success of early amniotes on land?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Eggs containing extraembryonic membranes"
+      },
+      {
+       "key": "B",
+       "text": "Internal fertilization"
+      },
+      {
+       "key": "C",
+       "text": "Impermeable skin"
+      },
+      {
+       "key": "D",
+       "text": "Advanced excretory systems"
+      },
+      {
+       "key": "E",
+       "text": "Bipedal locomotion"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q14",
+     "kind": "choice",
+     "points": 1,
+     "question": "14. Which of the following is an example of a gene expression regulation mechanism found in prokaryotes but not in eukaryotes?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Decondensation of DNA"
+      },
+      {
+       "key": "B",
+       "text": "Lac operon"
+      },
+      {
+       "key": "C",
+       "text": "Alternative splicing"
+      },
+      {
+       "key": "D",
+       "text": "Transcription factors"
+      },
+      {
+       "key": "E",
+       "text": "Poly-A tail modification © 2011 University of Toronto U of T National Biology Competition / 5"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q15",
+     "kind": "choice",
+     "points": 1,
+     "question": "15. A plant that grows entirely underground is suddenly transferred to light. Which process will NOT occur following the exposure to light?",
+     "options": [
+      {
+       "key": "A",
+       "text": "De-etiolation of the plant"
+      },
+      {
+       "key": "B",
+       "text": "Activation of protein kinases"
+      },
+      {
+       "key": "C",
+       "text": "A decrease in cytoplasmic Ca2+ concentration"
+      },
+      {
+       "key": "D",
+       "text": "Activation of phytochromes"
+      },
+      {
+       "key": "E",
+       "text": "Phototropism"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q16",
+     "kind": "choice",
+     "points": 1,
+     "question": "16. Which statement about gametogenesis in humans is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Cytokinesis is unequal during spermatogenesis."
+      },
+      {
+       "key": "B",
+       "text": "All products of meiosis during oogenesis become a mature ovum."
+      },
+      {
+       "key": "C",
+       "text": "Oogenesis occurs in an uninterrupted fashion."
+      },
+      {
+       "key": "D",
+       "text": "Spermatogenesis produces polar bodies to nourish sperm."
+      },
+      {
+       "key": "E",
+       "text": "In oogenesis, meiosis II concludes after fertilization."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-cell-cycle",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q17",
+     "kind": "choice",
+     "points": 1,
+     "question": "17. Which of the following is most likely to occur if the burning of fossil fuels continues at the current rate?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A decrease in atmospheric CO2"
+      },
+      {
+       "key": "B",
+       "text": "Specialist species will out-compete generalists"
+      },
+      {
+       "key": "C",
+       "text": "Precipitation in the tropics will decrease"
+      },
+      {
+       "key": "D",
+       "text": "The range (distribution) of species will shift"
+      },
+      {
+       "key": "E",
+       "text": "Lowering of sea levels"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q18",
+     "kind": "choice",
+     "points": 1,
+     "question": "18. Which statement about the two molecules (A and B) shown below is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Both A and B have a carbonyl group; both A and B are 4. A B soluble in water."
+      },
+      {
+       "key": "B",
+       "text": "Both A and B have an amino and carboxyl group; both A and B are soluble in water."
+      },
+      {
+       "key": "C",
+       "text": "A has a carboxyl group, B contains a ketone; both A and B are soluble in water."
+      },
+      {
+       "key": "D",
+       "text": "A has an amide group, B has a hydroxyl group; A is more soluble in water than B."
+      },
+      {
+       "key": "E",
+       "text": "Both A and B have a hydroxyl group; B is more soluble in water than A."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q19",
+     "kind": "choice",
+     "points": 1,
+     "question": "19. A patient is diagnosed with a syndrome that results in delayed repolarization of the ventricles in the heart. What are the most likely effects of this syndrome on heart function?",
+     "options": [
+      {
+       "key": "A",
+       "text": "It will take longer for the atria to depolarize, contract, and fill with blood, thus causing delays in the pumping of blood to the lungs and body."
+      },
+      {
+       "key": "B",
+       "text": "The strength of the ventricular contraction will be weakened, thus less blood will be pumped to the lungs and body."
+      },
+      {
+       "key": "C",
+       "text": "Atrial repolarization will take longer, delaying the next electrical firing, thus causing an irregular heart beat."
+      },
+      {
+       "key": "D",
+       "text": "Ventricles may be refractory to the next electrical impulse, thus causing an irregular heart beat."
+      },
+      {
+       "key": "E",
+       "text": "It will take longer for the ventricles to depolarize and contract, thus less blood is pumped to the lungs and body. © 2011 University of Toronto U of T National Biology Competition / 6"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q20",
+     "kind": "choice",
+     "points": 1,
+     "question": "20. [Removed from exam; question was unclear.]",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "reference": "Правильный ответ: null"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Тест: вопросы 21–30",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q21",
+     "kind": "choice",
+     "points": 1,
+     "question": "21. Below are DNA sequences for the same gene in three different species. Based on these DNA sequences, which is the most accurate cladogram to represent the relationship between species X, Y, and Z? Species X: A A C T A G C G C G A T Species Y: A A C T A G C G C C A T Species Z: T T C T A G C G G T A T a. b. c. d. e.",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q22",
+     "kind": "choice",
+     "points": 1,
+     "question": "22. Which of the following plant tissues are present near the terminal bud? i. Primary xylem ii. Cork iii. Primary phloem iv. Periderm",
+     "options": [
+      {
+       "key": "A",
+       "text": "i and ii"
+      },
+      {
+       "key": "B",
+       "text": "i and iii"
+      },
+      {
+       "key": "C",
+       "text": "i and iv"
+      },
+      {
+       "key": "D",
+       "text": "ii and iii"
+      },
+      {
+       "key": "E",
+       "text": "ii and iv"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q23",
+     "kind": "choice",
+     "points": 1,
+     "question": "23. Which statement is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Not all traits are the result of adaptation."
+      },
+      {
+       "key": "B",
+       "text": "Self-sacrificing traits are inherited in some species."
+      },
+      {
+       "key": "C",
+       "text": "Evolution is progressive."
+      },
+      {
+       "key": "D",
+       "text": "Acclimation to environmental changes results in evolution."
+      },
+      {
+       "key": "E",
+       "text": "Natural selection acts on species."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q24",
+     "kind": "choice",
+     "points": 1,
+     "question": "24. The formation of a cation can result from:",
+     "options": [
+      {
+       "key": "A",
+       "text": "the loss of electrons from an atom."
+      },
+      {
+       "key": "B",
+       "text": "an ionic bond between two atoms."
+      },
+      {
+       "key": "C",
+       "text": "a covalent bond between two atoms."
+      },
+      {
+       "key": "D",
+       "text": "a negatively charged ion."
+      },
+      {
+       "key": "E",
+       "text": "two atoms of equal attraction."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q25",
+     "kind": "choice",
+     "points": 1,
+     "question": "25. Which statement about photosynthesis is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Light reactions take place in the thylakoid membrane."
+      },
+      {
+       "key": "B",
+       "text": "The light reaction produces ATP and NADPH."
+      },
+      {
+       "key": "C",
+       "text": "The Calvin cycle occurs in the stroma of chloroplasts."
+      },
+      {
+       "key": "D",
+       "text": "The oxygen produced is from the splitting of carbon dioxide."
+      },
+      {
+       "key": "E",
+       "text": "6CO2 + 6H2O + light energy C6H12O6 + 6O2 © 2011 University of Toronto U of T National Biology Competition / 7"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q26",
+     "kind": "choice",
+     "points": 1,
+     "question": "26. Energy is vital for cell maintenance and function. However, some cell functions are spontaneous; that is, specific cell functions can be performed without an energy input. Free energy is expressed by the equation: ΔG = ΔH – TΔS. Which of the following will NOT result in a spontaneous process?",
+     "options": [
+      {
+       "key": "A",
+       "text": "An enthropy value less than the total entropy"
+      },
+      {
+       "key": "B",
+       "text": "Gfinal state < Ginitial state"
+      },
+      {
+       "key": "C",
+       "text": "An exergonic reaction"
+      },
+      {
+       "key": "D",
+       "text": "ΔH > TΔS"
+      },
+      {
+       "key": "E",
+       "text": "All of the above"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": true,
+     "answer": "BD",
+     "reference": "Правильный ответ: BD"
+    },
+    {
+     "id": "q27",
+     "kind": "choice",
+     "points": 1,
+     "question": "27. Which of the following would NOT be a primary function of glycoproteins?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Cell-cell recognition"
+      },
+      {
+       "key": "B",
+       "text": "Stabilize proteins in the extracellular matrix"
+      },
+      {
+       "key": "C",
+       "text": "Direct proteins to lysosomes"
+      },
+      {
+       "key": "D",
+       "text": "Participate in signal transduction pathways in the cytosol Shift proteins and lipids throughout the plasma membrane"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q28",
+     "kind": "choice",
+     "points": 1,
+     "question": "28. Which statement about the kidney’s loop of Henle is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Pre-urine exits the proximal tubule and enters the ascending loop."
+      },
+      {
+       "key": "B",
+       "text": "Water is actively pumped out of the descending limb."
+      },
+      {
+       "key": "C",
+       "text": "Sodium and calcium ions are actively moved out of the thin ascending limb."
+      },
+      {
+       "key": "D",
+       "text": "Solute loss from the ascending limb creates an osmotic gradient."
+      },
+      {
+       "key": "E",
+       "text": "Urea moves out of the collecting duct into the cortex, thus increasing the osmotic gradient."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q29",
+     "kind": "choice",
+     "points": 1,
+     "question": "29. Which of the following is an observation reported by Charles Darwin to explain his theory of descent with modification?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Plants from the tropical regions of South America were similar to those in tropical regions of Australia."
+      },
+      {
+       "key": "B",
+       "text": "Species of large land tortoises in the Galapagos had traits that varied depending on the island they were from."
+      },
+      {
+       "key": "C",
+       "text": "Fossils of extinct animals were not similar to animals presently living in the same region."
+      },
+      {
+       "key": "D",
+       "text": "Organisms must compete for resources to survive; the individuals that survive have unique traits which result in new species in the next generation."
+      },
+      {
+       "key": "E",
+       "text": "Organisms can be organized based on size and complexity (referred to as the “great chain of being”), with humans at the top of the chain."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q30",
+     "kind": "choice",
+     "points": 1,
+     "question": "30. How would an error with DNA ligase interfere with the replication of DNA?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Prevent primase from synthesizing an RNA primer."
+      },
+      {
+       "key": "B",
+       "text": "Cause DNA polymerase to add nucleotides in the 3ʹ′ to 5ʹ′ direction."
+      },
+      {
+       "key": "C",
+       "text": "Prevent the formation of phosphate bridges between Okazaki fragments."
+      },
+      {
+       "key": "D",
+       "text": "Prevent DNA polymerase from correcting nucleotide mismatches."
+      },
+      {
+       "key": "E",
+       "text": "Prevent unwinding of DNA ahead of the replication fork. © 2011 University of Toronto U of T National Biology Competition / 8"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Тест: вопросы 31–40",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q31",
+     "kind": "choice",
+     "points": 1,
+     "question": "31. Which statement about saturated or unsaturated fats is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Unsaturated fats have double bonds between carbon atoms in the fatty acid chain."
+      },
+      {
+       "key": "B",
+       "text": "Unsaturated fats are solid at room temperature."
+      },
+      {
+       "key": "C",
+       "text": "Saturated fats have a kink in the hydrocarbon chain."
+      },
+      {
+       "key": "D",
+       "text": "Unsaturated fats contain additional hydrogen atoms."
+      },
+      {
+       "key": "E",
+       "text": "Unsaturated fats are principally composed of two fatty acid chains bonded to glycerol."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q32",
+     "kind": "choice",
+     "points": 1,
+     "question": "32. Which of the following would most likely have the greatest impact on an enzyme’s ability to catalyse a specific reaction?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A change in the surrounding temperature."
+      },
+      {
+       "key": "B",
+       "text": "A change in the surrounding pH."
+      },
+      {
+       "key": "C",
+       "text": "A change in substrate concentration."
+      },
+      {
+       "key": "D",
+       "text": "The concentration of the enzyme."
+      },
+      {
+       "key": "E",
+       "text": "A chemical altering the three-dimensional structure of the enzyme."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q33",
+     "kind": "choice",
+     "points": 1,
+     "question": "33. You are studying a gene that controls cellulose biosynthesis in trees. The CesA gene has two alleles: CesA+ and CesA–. The CesA– allele contains a 200 base-pair (bp) deletion in the middle of the gene. You extracted DNA and RNA from a tree sample and used the polymerase chain reaction (PCR) to clone the gene from both DNA and RNA. Your PCR products have been separated using agarose gel electrophoresis, as shown below. Based on these results, which statement(s) is(are) CORRECT? i. The PCR amplified two different genes from the RNA. ii. The tree sample is heterozygous at this locus (CesA+/–). iii. The gene contains 100 bp of intron sequence.",
+     "options": [
+      {
+       "key": "A",
+       "text": "i only"
+      },
+      {
+       "key": "B",
+       "text": "ii only"
+      },
+      {
+       "key": "C",
+       "text": "iii only"
+      },
+      {
+       "key": "D",
+       "text": "i and ii"
+      },
+      {
+       "key": "E",
+       "text": "ii and iii"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q34",
+     "kind": "choice",
+     "points": 1,
+     "question": "34. Which of the following is a neutralization reaction?",
+     "options": [
+      {
+       "key": "A",
+       "text": "HCl + NaOH → NaCl + H2O"
+      },
+      {
+       "key": "B",
+       "text": "Ester + H2O → acid + alcohol"
+      },
+      {
+       "key": "C",
+       "text": "CO2 + H2O → H2CO3"
+      },
+      {
+       "key": "D",
+       "text": "Amino acid + amino acid → peptide + H2O"
+      },
+      {
+       "key": "E",
+       "text": "H2 + F2 → 2HF © 2011 University of Toronto U of T National Biology Competition / 9"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q35",
+     "kind": "choice",
+     "points": 1,
+     "question": "35. A scientist is studying a fish population and determines that there is one gene for eye-colour which has two alleles: R and W. She mates a red-eyed fish (RR) with a white-eyed fish (WW), and all of the F1 offspring have pink eyes. She then mates the F1 offspring with each other. What are the expected ratios of the F2 population?",
+     "options": [
+      {
+       "key": "A",
+       "text": "50% RR-red, 50% WW-white"
+      },
+      {
+       "key": "B",
+       "text": "50% RW-pink, 50% RR-red"
+      },
+      {
+       "key": "C",
+       "text": "25% RR-red, 50% RW-pink, 25% WW-white"
+      },
+      {
+       "key": "D",
+       "text": "50% RR-red, 25% RW-pink, 25% WW-white"
+      },
+      {
+       "key": "E",
+       "text": "25% RR-red, 25% RW-pink, 50% WW-white"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q36",
+     "kind": "choice",
+     "points": 1,
+     "question": "36. Which conditions are commonly associated with evolution by natural selection? i. Heritable variation ii. Competition for resources iii. Differences in fitness between individuals iv. Major environmental changes",
+     "options": [
+      {
+       "key": "A",
+       "text": "i only"
+      },
+      {
+       "key": "B",
+       "text": "i, ii and iii"
+      },
+      {
+       "key": "C",
+       "text": "i, iii and iv"
+      },
+      {
+       "key": "D",
+       "text": "ii and iv"
+      },
+      {
+       "key": "E",
+       "text": "iii and iv"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q37",
+     "kind": "choice",
+     "points": 1,
+     "question": "37. A patient fills a prescription at a pharmacy. The pharmacist informs the patient that one side effect of the medication is that it inhibits the release of bile salts. What are the possible consequences of this side effect?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Reduced activity of lipase"
+      },
+      {
+       "key": "B",
+       "text": "Reduced absorption of carbohydrates"
+      },
+      {
+       "key": "C",
+       "text": "Increased absorption of vitamin D"
+      },
+      {
+       "key": "D",
+       "text": "Reduced digestion of proteins"
+      },
+      {
+       "key": "E",
+       "text": "Increased digestion of fats"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q38",
+     "kind": "choice",
+     "points": 1,
+     "question": "38. Which of the following describes the correct path for how proteins are packaged and transported within a cell’s endomembrane system?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Smooth endoplasmic reticulum → rough endoplasmic reticulum → trans face of Golgi apparatus→ maturation of cisterna → cis face of Golgi apparatus."
+      },
+      {
+       "key": "B",
+       "text": "Transport vesicle → rough endoplasmic reticulum → cis face of Golgi apparatus → maturation of cisterna → trans face of Golgi apparatus."
+      },
+      {
+       "key": "C",
+       "text": "Ribosome → rough endoplasmic reticulum → smooth endoplasmic reticulum → transport vesicle → trans face of Golgi apparatus → maturation of cisterna → cis face of Golgi apparatus."
+      },
+      {
+       "key": "D",
+       "text": "Rough endoplasmic reticulum → transport vesicle → cis face of Golgi apparatus → maturation of cisterna → trans face of Golgi apparatus."
+      },
+      {
+       "key": "E",
+       "text": "Trans face of Golgi apparatus → cis face of Golgi apparatus → rough endoplasmic reticulum → transport vesicle → maturation of cisterna. © 2011 University of Toronto U of T National Biology Competition / 10"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q39",
+     "kind": "choice",
+     "points": 1,
+     "question": "39. A patient is complaining about respiratory symptoms and seeks a doctor’s diagnosis. The doctor finds that the patient suffers from alveoli containing thick fluid which is interfering with gas exchange and making breathing difficult. The doctor also finds evidence of a fungal infection. What is the most likely diagnosis?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Influenza"
+      },
+      {
+       "key": "B",
+       "text": "Acute bronchitis"
+      },
+      {
+       "key": "C",
+       "text": "Pneumonia"
+      },
+      {
+       "key": "D",
+       "text": "Asthma"
+      },
+      {
+       "key": "E",
+       "text": "Emphysema"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q40",
+     "kind": "choice",
+     "points": 1,
+     "question": "40. The pedigree below illustrates the occurrence of an extremely rare genetic disease in a family over three generations. Black shapes represent individuals with the disease; circles are females, squares are males. Based on this pedigree what type of allele is most likely the cause of this disease?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Autosomal recessive"
+      },
+      {
+       "key": "B",
+       "text": "X-linked recessive"
+      },
+      {
+       "key": "C",
+       "text": "Y-linked recessive"
+      },
+      {
+       "key": "D",
+       "text": "Autosomal dominant"
+      },
+      {
+       "key": "E",
+       "text": "X-linked dominant"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Тест: вопросы 41–50",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q41",
+     "kind": "choice",
+     "points": 1,
+     "question": "41. Why is the central dogma of “DNA  RNA  Protein” not entirely accurate?",
+     "options": [
+      {
+       "key": "A",
+       "text": "DNA can be directly converted into proteins."
+      },
+      {
+       "key": "B",
+       "text": "Proteins can interact with DNA molecules."
+      },
+      {
+       "key": "C",
+       "text": "Not all RNA molecules result in a protein product."
+      },
+      {
+       "key": "D",
+       "text": "An mRNA sequence can code for more than one protein."
+      },
+      {
+       "key": "E",
+       "text": "RNA can interact with proteins."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q42",
+     "kind": "choice",
+     "points": 1,
+     "question": "42. Which of the following would be the LEAST important when examining the adaptive radiation of a lineage (such as the radiation of Darwin’s finches on the Galapagos Islands)?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Genetic variation"
+      },
+      {
+       "key": "B",
+       "text": "Habitat diversity"
+      },
+      {
+       "key": "C",
+       "text": "Migration rate"
+      },
+      {
+       "key": "D",
+       "text": "Effective population size"
+      },
+      {
+       "key": "E",
+       "text": "Phenotypic variation"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q43",
+     "kind": "choice",
+     "points": 1,
+     "question": "43. Which of the following does NOT contribute to genetic variation among offspring?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Independent assortment of homologous chromosomes during metaphase I"
+      },
+      {
+       "key": "B",
+       "text": "Independent assortment of sister chromatids during metaphase II"
+      },
+      {
+       "key": "C",
+       "text": "Crossing over during prophase I"
+      },
+      {
+       "key": "D",
+       "text": "Random fertilization"
+      },
+      {
+       "key": "E",
+       "text": "Crossing over during prophase II © 2011 University of Toronto U of T National Biology Competition / 11"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q44",
+     "kind": "choice",
+     "points": 1,
+     "question": "44. Which statement is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Restriction endonucleases cleave DNA at specific base-pair sequence sites."
+      },
+      {
+       "key": "B",
+       "text": "DNA fingerprinting identifies individuals based on comparing features of their genomes."
+      },
+      {
+       "key": "C",
+       "text": "Karyotyping is used to observe chromosome length and banding patterns."
+      },
+      {
+       "key": "D",
+       "text": "The polymerase chain reaction is used to copy specific DNA sequences by mixing template DNA with nucleotides, oligonucleotide primers, and DNA ligase."
+      },
+      {
+       "key": "E",
+       "text": "Gel electrophoresis separates molecules based on their electrical charge and size."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q45",
+     "kind": "choice",
+     "points": 1,
+     "question": "45. Which of the following would impact the ability of cilia and flagella to propel a cell?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Interference of the production of dynein arms."
+      },
+      {
+       "key": "B",
+       "text": "A mutation in a transcription factor for actin and myosin."
+      },
+      {
+       "key": "C",
+       "text": "The inability of actin and myosin to contract."
+      },
+      {
+       "key": "D",
+       "text": "A disruption of the 9+2 arrangement in microfilaments."
+      },
+      {
+       "key": "E",
+       "text": "Non-disjunction during mitosis."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q46",
+     "kind": "choice",
+     "points": 1,
+     "question": "46. You conduct an experiment to test the effects of cholesterol and temperature on membrane permeability. You measure the permeability of a normal membrane (no cholesterol added) and the permeability of a membrane with added cholesterol by measuring how much glycerol crosses the membrane, and at increasing temperatures (from 0° to 30° C). The normal membrane is shown by the solid line in the graphs below. The dashed line represents membranes where 10% of the lipids in the membrane are replaced with cholesterol molecules. Which graph best illustrates the changes to membrane permeability as temperature increases when cholesterol is added to the membrane? a. b. c. d. e.",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q47",
+     "kind": "choice",
+     "points": 1,
+     "question": "47. Which statements about fermentation are CORRECT? i. Fermentation is only carried out by bacteria and Archaea. ii. Lactic acid is a product of fermentation. iii. Alcohol (e.g., ethanol) is a product of fermentation. iv. Fermentation oxidizes NADH to regenerate NAD+. v. Fermentation produces more ATP than aerobic respiration.",
+     "options": [
+      {
+       "key": "A",
+       "text": "i and ii"
+      },
+      {
+       "key": "B",
+       "text": "i, ii, and iii"
+      },
+      {
+       "key": "C",
+       "text": "ii, iii, and iv"
+      },
+      {
+       "key": "D",
+       "text": "iii and v"
+      },
+      {
+       "key": "E",
+       "text": "iv and v © 2011 University of Toronto U of T National Biology Competition / 12"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q48",
+     "kind": "choice",
+     "points": 1,
+     "question": "48. [Removed from exam; question was unclear]",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q49",
+     "kind": "choice",
+     "points": 1,
+     "question": "49. Which of the following characteristics would most favour a population whose individuals are randomly distributed throughout a landscape?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Localized habitat patches"
+      },
+      {
+       "key": "B",
+       "text": "Small home range sizes"
+      },
+      {
+       "key": "C",
+       "text": "Strong predation pressure on members of the population"
+      },
+      {
+       "key": "D",
+       "text": "Strong positive interactions among individuals"
+      },
+      {
+       "key": "E",
+       "text": "Uniformly distributed resources"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q50",
+     "kind": "choice",
+     "points": 1,
+     "question": "50. A mountain bike rider crashed and damaged several thoracic nerves. Which functions of the sympathetic nervous system would be affected by this damage? i. Dilation of pupils ii. Decreasing peristalsis iii. Relaxation of bladder iv. Stimulation of stomach activity v. Increased heartbeat",
+     "options": [
+      {
+       "key": "A",
+       "text": "i only"
+      },
+      {
+       "key": "B",
+       "text": "i, ii, and v"
+      },
+      {
+       "key": "C",
+       "text": "ii, iii, and iv"
+      },
+      {
+       "key": "D",
+       "text": "ii and iv"
+      },
+      {
+       "key": "E",
+       "text": "iii and v END OF EXAM NOTE: Questions 7, 22 and 26 on this version of the exam question paper were modified from the question paper that was written on April 28th: Q7 and Q26 on this version have only one correct response, Q22 was modified so there is a correct option. Forty-seven (of 50) questions were graded on the April 28th version of the exam; three questions were deleted (20, 22 and 48). © 2011 University of Toronto"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: B"
+    }
+   ]
+  }
+ ]
+}

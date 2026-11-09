@@ -1,0 +1,2413 @@
+{
+ "setId": "bio-utoronto-1995--bio-tasks",
+ "olympiadId": "bio-utoronto-1995",
+ "title": "Биология → U of Toronto → 1995",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/utoronto/1995/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/utoronto/1995/bio-sol.pdf",
+ "generatedBy": "test-parser",
+ "type": "test",
+ "generatedAt": "2026-11-09T13:45:17.209Z",
+ "quality": {
+  "tasks": 6,
+  "parts": 60,
+  "withPoints": 60,
+  "withReference": 60,
+  "withQuestion": 60,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Тест: вопросы 1–10",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q1",
+     "kind": "choice",
+     "points": 1,
+     "question": "1. If a plant cell has its cell wall removed and is placed in a hypotonic solution, what will happen to the cell?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The cell will already be dead because plant cells cannot survive without a cell wall."
+      },
+      {
+       "key": "B",
+       "text": "The cell will expand and eventually burst."
+      },
+      {
+       "key": "C",
+       "text": "The cell will shrink because the vacuole gets smaller."
+      },
+      {
+       "key": "D",
+       "text": "Nothing obvious would happen."
+      },
+      {
+       "key": "E",
+       "text": "The nucleus will burst, but the cell will stay intact."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q2",
+     "kind": "choice",
+     "points": 1,
+     "question": "2. Under a light microscope, tiny dots can be seen in the cytoplasm of living plant and animal cells. These are likely to be:",
+     "options": [
+      {
+       "key": "A",
+       "text": "chloroplasts."
+      },
+      {
+       "key": "B",
+       "text": "ribosomes."
+      },
+      {
+       "key": "C",
+       "text": "mitochondria."
+      },
+      {
+       "key": "D",
+       "text": "nuclei."
+      },
+      {
+       "key": "E",
+       "text": "chromosomes."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q3",
+     "kind": "choice",
+     "points": 1,
+     "question": "3. Which statement is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "During the process of exocytosis, the lumen (inner) surface of a secretory vesicle becomes the inside of the plasma (cell) membrane."
+      },
+      {
+       "key": "B",
+       "text": "Cilia, microtubules, and flagella are all associated with movement in cells."
+      },
+      {
+       "key": "C",
+       "text": "A function of the nucleus is duplicating the genes for cell division."
+      },
+      {
+       "key": "D",
+       "text": "Proteins that are to be secreted by the cell are generally synthesized by membrane-bound ribosomes."
+      },
+      {
+       "key": "E",
+       "text": "Active transport involves movement of molecules into a cell against their concentration gradient."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q4",
+     "kind": "choice",
+     "points": 1,
+     "question": "4. A scientist who worked on a single-celled green plant (an alga) treated it with ultraviolet light and produced mutant cells that did not contain chloroplasts. To keep these cells alive, the scientist had to:",
+     "options": [
+      {
+       "key": "A",
+       "text": "provide them with high light intensity."
+      },
+      {
+       "key": "B",
+       "text": "keep them in the dark."
+      },
+      {
+       "key": "C",
+       "text": "provide them with a sugar solution."
+      },
+      {
+       "key": "D",
+       "text": "give them chlorophyll."
+      },
+      {
+       "key": "E",
+       "text": "increase the temperature."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q5",
+     "kind": "choice",
+     "points": 1,
+     "question": "5. Cotyledons are the first leaves produced by the embryos of vascular plants. Which of the following is NOT a physiological function of cotyledons?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Absorption of carbohydrates from the endosperm."
+      },
+      {
+       "key": "B",
+       "text": "Photosynthesis."
+      },
+      {
+       "key": "C",
+       "text": "Storage of proteins."
+      },
+      {
+       "key": "D",
+       "text": "Storage of lipids."
+      },
+      {
+       "key": "E",
+       "text": "Vegetative propagation. © 1995 University of Toronto U of T Ontario Biology Com petition / 3"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q6",
+     "kind": "choice",
+     "points": 1,
+     "question": "6. The vessel elements of the xylem transport water and nutrients under negative pressure. Which of the following is NOT characteristic of vessel elements?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Cells are elongate in shape."
+      },
+      {
+       "key": "B",
+       "text": "Thickened rigid secondary walls are present."
+      },
+      {
+       "key": "C",
+       "text": "The end walls are lysed, forming a perforation."
+      },
+      {
+       "key": "D",
+       "text": "Wide-diameter pores are present at the ends of the cell."
+      },
+      {
+       "key": "E",
+       "text": "The nucleus and cytoplasm undergo autolysis."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q7",
+     "kind": "choice",
+     "points": 1,
+     "question": "7. The pressure flow hypothesis for the mechanism of phloem transport was developed over 60 years ago by the German plant physiologist Ernst Muench and still remains the \"front runner\" as an explanation of how the plant moves carbohydrates over long distances. Which of the following observations provides direct support for Muench's hypothesis?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Transpiration occurs from open stomata on leaves and stems during the day."
+      },
+      {
+       "key": "B",
+       "text": "Turgor pressure in the sieve tubes of a fully expanded tomato leaf is higher than the turgor in the sieve tubes of a developing tomato fruit."
+      },
+      {
+       "key": "C",
+       "text": "Vessels transport water under negative pressure."
+      },
+      {
+       "key": "D",
+       "text": "Carbohydrates move within the plant from sink to source."
+      },
+      {
+       "key": "E",
+       "text": "The osmotic potential of the sieve tubes in a root tip is more negative than that of the sieve tubes in the leaf."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q8",
+     "kind": "choice",
+     "points": 1,
+     "question": "8. Charles Darwin and his son Francis experimented with phototropism of grass seedlings by placing a metal foil \"blindfold\" over different parts of the seedling's coleoptile. A simplified version of their results is shown below. Which of the following statements best explains their results?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The light signal is perceived a few millimetres below the tip, and these cells cause the coleoptile to grow toward the light."
+      },
+      {
+       "key": "B",
+       "text": "Both the seedling root and coleoptile perceive and respond to light in the same manner."
+      },
+      {
+       "key": "C",
+       "text": "A chemical messenger must travel from the base of the coleoptile to the tip."
+      },
+      {
+       "key": "D",
+       "text": "The light signal is perceived at the tip of the coleoptile, but the growth response occurs a few millimetres below the tip."
+      },
+      {
+       "key": "E",
+       "text": "The coleoptile bends because cells on the side toward the light grow faster than those on the shaded side. © 1995 University of Toronto 4 / U of T Ontario Biology Com petition"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q9",
+     "kind": "choice",
+     "points": 1,
+     "question": "9. In 1925, the Japanese biologist Eiichi Kurosawa showed that the bakanae (\"foolish seedling\") disease of rice was caused by a substance produced by the fungus Gibberella fujikuroi. The substance was named gibberellin and was shown to cause elongation of stem tissues. Which of the following statements about gibberellin is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Pea plants carrying the dwarf mutation would be expected to have higher levels of gibberellin in their stems than normal plants."
+      },
+      {
+       "key": "B",
+       "text": "If gibberellin is applied to the stems of dwarf pea plants, the stems elongate so that plant reach normal height."
+      },
+      {
+       "key": "C",
+       "text": "Dwarf pea plants have a mutation in the gibberellin biosynthetic pathway."
+      },
+      {
+       "key": "D",
+       "text": "Normal pea plants respond to gibberellin by growing even taller."
+      },
+      {
+       "key": "E",
+       "text": "The gibberellin produced by the fungus caused normal healthy rice plants to become unusually tall."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q10",
+     "kind": "choice",
+     "points": 1,
+     "question": "10. Which of the following statements about Mendelian genetics is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Alternate forms of genes are called alleles."
+      },
+      {
+       "key": "B",
+       "text": "A locus is a gene's location on its chromosome."
+      },
+      {
+       "key": "C",
+       "text": "Only two alleles can exist for a given gene."
+      },
+      {
+       "key": "D",
+       "text": "A genotype is a description of the alleles that represent an individual's genes."
+      },
+      {
+       "key": "E",
+       "text": "Individuals with the same phenotype can have different genotypes."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Тест: вопросы 11–20",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q11",
+     "kind": "choice",
+     "points": 1,
+     "question": "11. In corn, the trait for tall plants (T) is dominant to the trait for dwarf plants (t) and the trait for coloured kernels (C) is dominant to the trait for white kernels (c). In a particular cross of corn plants, the probability of an offspring being tall is 0.5 and the probability of a kernel being coloured is 0.75. Which of the following most probably represents the parental genotypes?",
+     "options": [
+      {
+       "key": "A",
+       "text": "TtCc × TtCc"
+      },
+      {
+       "key": "B",
+       "text": "TtCc × ttCc"
+      },
+      {
+       "key": "C",
+       "text": "TtCc × ttcc"
+      },
+      {
+       "key": "D",
+       "text": "TTCc × ttCc"
+      },
+      {
+       "key": "E",
+       "text": "TTCc × TtCC"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q12",
+     "kind": "choice",
+     "points": 1,
+     "question": "12. A cell cycle consists of:",
+     "options": [
+      {
+       "key": "A",
+       "text": "mitosis and meiosis."
+      },
+      {
+       "key": "B",
+       "text": "G1, the S phase, and G2."
+      },
+      {
+       "key": "C",
+       "text": "prophase, metaphase, anaphase, and telophase."
+      },
+      {
+       "key": "D",
+       "text": "interphase and mitosis."
+      },
+      {
+       "key": "E",
+       "text": "meiosis and fertilization. © 1995 University of Toronto U of T Ontario Biology Com petition / 5"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-cell-cycle",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q13",
+     "kind": "choice",
+     "points": 1,
+     "question": "13. How do cells at the completion of meiosis compare with the diploid cell from which they were derived?",
+     "options": [
+      {
+       "key": "A",
+       "text": "They have twice the amount of cytoplasm and half the amount of DNA."
+      },
+      {
+       "key": "B",
+       "text": "They have half the number of chromosomes and half the amount of DNA."
+      },
+      {
+       "key": "C",
+       "text": "They have the same number of chromosomes and half the amount of DNA."
+      },
+      {
+       "key": "D",
+       "text": "They have the same number of chromosomes and the same amount of DNA."
+      },
+      {
+       "key": "E",
+       "text": "They have half the amount of cytoplasm and twice the amount of DNA."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q14",
+     "kind": "choice",
+     "points": 1,
+     "question": "14. Which statement is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Viruses can grow in food in your refrigerator."
+      },
+      {
+       "key": "B",
+       "text": "All viruses are dangerous to humans."
+      },
+      {
+       "key": "C",
+       "text": "Viruses are prokaryotic organisms."
+      },
+      {
+       "key": "D",
+       "text": "Viruses can take over control of eukaryotic cells."
+      },
+      {
+       "key": "E",
+       "text": "Viruses are slightly larger than bacteria."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q15",
+     "kind": "choice",
+     "points": 1,
+     "question": "15. When a doctor gives you an antibiotic when you are sick, he/she always tells you to keep taking the antibiotic until it is all finished. The reason he/she tells you this is because:",
+     "options": [
+      {
+       "key": "A",
+       "text": "it is wasteful not to finish all the antibiotic."
+      },
+      {
+       "key": "B",
+       "text": "viruses require high doses of antibiotics to kill them."
+      },
+      {
+       "key": "C",
+       "text": "allowing the more antibiotic-tolerant bacteria to survive may encourage a population of antibiotic-resistant bacteria to evolve."
+      },
+      {
+       "key": "D",
+       "text": "a long period of antibiotic use is required to prevent secondary virus infection."
+      },
+      {
+       "key": "E",
+       "text": "bacteria have a cell wall and thus it takes a long time for antibiotics to work."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q16",
+     "kind": "choice",
+     "points": 1,
+     "question": "16. Which statement is FALSE? Bacteria are involved in:",
+     "options": [
+      {
+       "key": "A",
+       "text": "animal diseases."
+      },
+      {
+       "key": "B",
+       "text": "decomposing dead organic matter."
+      },
+      {
+       "key": "C",
+       "text": "nitrogen processing in the soil."
+      },
+      {
+       "key": "D",
+       "text": "food digestion in animals."
+      },
+      {
+       "key": "E",
+       "text": "alcohol production in beer."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q17",
+     "kind": "choice",
+     "points": 1,
+     "question": "17. The secretion of a less than normal amount of the hormone gastrin would have which effect?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Stomach pH would decrease."
+      },
+      {
+       "key": "B",
+       "text": "Protein digestion in the stomach would decrease."
+      },
+      {
+       "key": "C",
+       "text": "Carbohydrate digestion in the stomach would increase."
+      },
+      {
+       "key": "D",
+       "text": "Secretion of alkaline mucus in the stomach lining would increase."
+      },
+      {
+       "key": "E",
+       "text": "The sensation of heartburn would begin. © 1995 University of Toronto 6 / U of T Ontario Biology Com petition"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q18",
+     "kind": "choice",
+     "points": 1,
+     "question": "18. Food passing beyond the back teeth signals all of the following EXCEPT:",
+     "options": [
+      {
+       "key": "A",
+       "text": "churning of the stomach contents."
+      },
+      {
+       "key": "B",
+       "text": "elevation of the palate to seal off the nasal cavity."
+      },
+      {
+       "key": "C",
+       "text": "folding of the epiglottis over the trachea."
+      },
+      {
+       "key": "D",
+       "text": "pressure against the pharynx initiating swallowing."
+      },
+      {
+       "key": "E",
+       "text": "signals from the swallowing centre inhibit breathing."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q19",
+     "kind": "choice",
+     "points": 1,
+     "question": "19. Gas exchange in animals always involves:",
+     "options": [
+      {
+       "key": "A",
+       "text": "cellular respiration."
+      },
+      {
+       "key": "B",
+       "text": "breathing movements."
+      },
+      {
+       "key": "C",
+       "text": "neural control of exchange."
+      },
+      {
+       "key": "D",
+       "text": "diffusion across membranes."
+      },
+      {
+       "key": "E",
+       "text": "active transport of gases."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q20",
+     "kind": "choice",
+     "points": 1,
+     "question": "20. Which statement explains why fish spend a lot of energy removing oxygen from water?",
+     "options": [
+      {
+       "key": "A",
+       "text": "They have to pump large volumes of water through their gills to keep their respiratory membranes moist."
+      },
+      {
+       "key": "B",
+       "text": "The CO2 content of their tissues is much higher than that of terrestrial animals."
+      },
+      {
+       "key": "C",
+       "text": "Their gills are covered with protective plates which make it more difficult for them to process the oxygen from air."
+      },
+      {
+       "key": "D",
+       "text": "They have to pump large volumes of water out of their gills because of water's high oxygen content."
+      },
+      {
+       "key": "E",
+       "text": "They have to pump large volumes of water through their gills because of water's low oxygen content."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: E"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Тест: вопросы 21–30",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q21",
+     "kind": "choice",
+     "points": 1,
+     "question": "21. In the cardiac cycle, blood pressure is at a maximum when:",
+     "options": [
+      {
+       "key": "A",
+       "text": "the atria are contracting during systole."
+      },
+      {
+       "key": "B",
+       "text": "the atria are contracting during diastole."
+      },
+      {
+       "key": "C",
+       "text": "the ventricles are contracting during systole."
+      },
+      {
+       "key": "D",
+       "text": "the ventricles are relaxing during systole."
+      },
+      {
+       "key": "E",
+       "text": "the ventricles are relaxing during diastole."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q22",
+     "kind": "choice",
+     "points": 1,
+     "question": "22. Where is blood pressure lowest during diastole?",
+     "options": [
+      {
+       "key": "A",
+       "text": "arteries"
+      },
+      {
+       "key": "B",
+       "text": "ventricles"
+      },
+      {
+       "key": "C",
+       "text": "capillaries"
+      },
+      {
+       "key": "D",
+       "text": "venules"
+      },
+      {
+       "key": "E",
+       "text": "veins © 1995 University of Toronto U of T Ontario Biology Com petition / 7"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q23",
+     "kind": "choice",
+     "points": 1,
+     "question": "23. The series of mitotic divisions a zygote goes through immediately after fertilization is called:",
+     "options": [
+      {
+       "key": "A",
+       "text": "cleavage."
+      },
+      {
+       "key": "B",
+       "text": "blastomere."
+      },
+      {
+       "key": "C",
+       "text": "blastula."
+      },
+      {
+       "key": "D",
+       "text": "blastocoel."
+      },
+      {
+       "key": "E",
+       "text": "blastodisk."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-development",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q24",
+     "kind": "choice",
+     "points": 1,
+     "question": "24. The secretory phase of the menstrual cycle:",
+     "options": [
+      {
+       "key": "A",
+       "text": "is associated with dropping levels of estrogen and progesterone."
+      },
+      {
+       "key": "B",
+       "text": "is when the endometrium begins to degenerate and menstrual flow occurs."
+      },
+      {
+       "key": "C",
+       "text": "corresponds with the follicular phase of the ovarian cycle."
+      },
+      {
+       "key": "D",
+       "text": "is the beginning of the menstrual flow."
+      },
+      {
+       "key": "E",
+       "text": "corresponds with the luteal phase of the ovarian cycle."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q25",
+     "kind": "choice",
+     "points": 1,
+     "question": "25. The functional group written as –COOH is called the:",
+     "options": [
+      {
+       "key": "A",
+       "text": "hydroxyl group."
+      },
+      {
+       "key": "B",
+       "text": "carbonyl group."
+      },
+      {
+       "key": "C",
+       "text": "amino group."
+      },
+      {
+       "key": "D",
+       "text": "ketone group."
+      },
+      {
+       "key": "E",
+       "text": "carboxyl group."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q26",
+     "kind": "choice",
+     "points": 1,
+     "question": "26. Which of the following statements is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "In an exergonic reaction, energy released as reactants with a relatively high energy content form products with a lower energy content."
+      },
+      {
+       "key": "B",
+       "text": "Energy is not required for an endergonic reaction as reactants with a relatively low energy content are promoted to products with a higher energy content."
+      },
+      {
+       "key": "C",
+       "text": "The hydrolysis of ATP, yielding approximately -7.3 kcal/mole, ADP, and Pi, is coupled with the formation of glucose phosphate that requires +4 kcal/mole."
+      },
+      {
+       "key": "D",
+       "text": "The principle of conservation of energy is called the First Law of Thermodynamics."
+      },
+      {
+       "key": "E",
+       "text": "Energy-releasing reactions require an amount of energy equal to the activation energy to allow the reaction to proceed."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q27",
+     "kind": "choice",
+     "points": 1,
+     "question": "27. Which of the following is a redox reaction?",
+     "options": [
+      {
+       "key": "A",
+       "text": "O2 + 4 H+ + 4 e- --> 2 H2O"
+      },
+      {
+       "key": "B",
+       "text": "H2 --> 2 H+ + 2 e-"
+      },
+      {
+       "key": "C",
+       "text": "2 H2 + O2 --> 2 H2O"
+      },
+      {
+       "key": "D",
+       "text": "Na --> Na+ + e-"
+      },
+      {
+       "key": "E",
+       "text": "Cl2 + 2 e- --> 2 Cl- © 1995 University of Toronto 8 / U of T Ontario Biology Com petition"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q28",
+     "kind": "choice",
+     "points": 1,
+     "question": "28. Which of the following statements is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The partial charges on the atoms in water are due to bond polarization."
+      },
+      {
+       "key": "B",
+       "text": "The bond formed between the hydrogen of one molecule of water and the oxygen of another is called a covalent bond."
+      },
+      {
+       "key": "C",
+       "text": "Cations are positively-charged ions that have given up one or more electrons from the valence shell."
+      },
+      {
+       "key": "D",
+       "text": "Ionic bonds are involved in the formation of sodium chloride."
+      },
+      {
+       "key": "E",
+       "text": "The hydrophobic effect can be viewed as a process that minimizes the surface contact between non-polar molecules and polar molecules."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q29",
+     "kind": "choice",
+     "points": 1,
+     "question": "29. The chemical structure shown below is:",
+     "options": [
+      {
+       "key": "A",
+       "text": "a triphosphopeptide."
+      },
+      {
+       "key": "B",
+       "text": "a ribosugar."
+      },
+      {
+       "key": "C",
+       "text": "deoxyadenosine triphosphate."
+      },
+      {
+       "key": "D",
+       "text": "the nitrogenous base, adenine."
+      },
+      {
+       "key": "E",
+       "text": "deoxythymidine triphosphate."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q30",
+     "kind": "choice",
+     "points": 1,
+     "question": "30. The reaction below represents: Glucose + 2 ADP + 2 Pi + 2 NAD+ --> 2 pyruvate + 2 ATP + 2 NADH + 2 H+ + 2 H2O",
+     "options": [
+      {
+       "key": "A",
+       "text": "cellular respiration."
+      },
+      {
+       "key": "B",
+       "text": "the citric acid cycle."
+      },
+      {
+       "key": "C",
+       "text": "pyruvate oxidation."
+      },
+      {
+       "key": "D",
+       "text": "glycolysis."
+      },
+      {
+       "key": "E",
+       "text": "substrate-level phosphorylation."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Тест: вопросы 31–40",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q31",
+     "kind": "choice",
+     "points": 1,
+     "question": "31. Which of the following produces the most ATP per gram?",
+     "options": [
+      {
+       "key": "A",
+       "text": "fats"
+      },
+      {
+       "key": "B",
+       "text": "glucose"
+      },
+      {
+       "key": "C",
+       "text": "proteins"
+      },
+      {
+       "key": "D",
+       "text": "glycogen or starch"
+      },
+      {
+       "key": "E",
+       "text": "carbohydrates"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q32",
+     "kind": "choice",
+     "points": 1,
+     "question": "32. The enzymes of the citric acid (Krebs) cycle are located in the:",
+     "options": [
+      {
+       "key": "A",
+       "text": "cytoplasm."
+      },
+      {
+       "key": "B",
+       "text": "cristae of the mitochondrion."
+      },
+      {
+       "key": "C",
+       "text": "matrix of the mitochondrion."
+      },
+      {
+       "key": "D",
+       "text": "endoplasmic reticulum."
+      },
+      {
+       "key": "E",
+       "text": "lysosome. © 1995 University of Toronto U of T Ontario Biology Com petition / 9"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q33",
+     "kind": "choice",
+     "points": 1,
+     "question": "33. An excess of positive charge from hydrogen ions builds up:",
+     "options": [
+      {
+       "key": "A",
+       "text": "in the cytoplasm."
+      },
+      {
+       "key": "B",
+       "text": "in the matrix of the mitochondrion."
+      },
+      {
+       "key": "C",
+       "text": "in the endoplasmic reticulum."
+      },
+      {
+       "key": "D",
+       "text": "in the space between the two mitochondrial membranes."
+      },
+      {
+       "key": "E",
+       "text": "just inside the plasma membrane."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q34",
+     "kind": "choice",
+     "points": 1,
+     "question": "34. Which of the following is NOT found in the mitochondrion?",
+     "options": [
+      {
+       "key": "A",
+       "text": "acetyl-coenzyme A"
+      },
+      {
+       "key": "B",
+       "text": "citric acid"
+      },
+      {
+       "key": "C",
+       "text": "NADH"
+      },
+      {
+       "key": "D",
+       "text": "fatty acids"
+      },
+      {
+       "key": "E",
+       "text": "lactic acid"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q35",
+     "kind": "choice",
+     "points": 1,
+     "question": "35. Most of the water lost by the plant through transpiration exits through the stomatal pores. Which of the following statements about transpiration and stomatal functioning is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Stomata normally open in response to a shift from dark to light conditions."
+      },
+      {
+       "key": "B",
+       "text": "When the turgor pressure of guard cells increases, the stomatal aperture opens."
+      },
+      {
+       "key": "C",
+       "text": "With the shift from dark to light, the osmotic potential becomes less negative, resulting in stomatal closure."
+      },
+      {
+       "key": "D",
+       "text": "The turgor pressure of guard cells increases after the osmotic potential becomes more negative."
+      },
+      {
+       "key": "E",
+       "text": "A light-activated proton pumping system results in an influx of K+ ions into the guard cells."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q36",
+     "kind": "choice",
+     "points": 1,
+     "question": "36. During the light-dependent reactions of photosynthesis (photophosphorylation), light energy is converted to chemical potential energy through the process of chemiosmosis in the chloroplasts. Which of the following statements about this process is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The electron carriers of photophosphorylation are located in the thylakoid membranes of the chloroplasts."
+      },
+      {
+       "key": "B",
+       "text": "During photophosphorylation, the chloroplast stroma becomes more acidic than the interior of the thylakoid membranes."
+      },
+      {
+       "key": "C",
+       "text": "Protons diffuse through protein channels which are ATP synthetase molecules."
+      },
+      {
+       "key": "D",
+       "text": "ATP is synthesized from ADP and Pi on the stroma side of the thylakoid membranes in the chloroplast."
+      },
+      {
+       "key": "E",
+       "text": "During photophosphorylation, water ionizes to form H+ and OH- ions, yielding an electron to Photosystem II. © 1995 University of Toronto 10 / U of T Ontario Biology Com petition"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q37",
+     "kind": "choice",
+     "points": 1,
+     "question": "37. Which of the following statements about the Calvin cycle are FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The first stable product of the cycle is 3-phosphoglycerate."
+      },
+      {
+       "key": "B",
+       "text": "The reducing power of NADPH is used to reduce 3-phosphoglycerate to glyceraldehyde 3-phosphate (PGAL)."
+      },
+      {
+       "key": "C",
+       "text": "The carboxylation of the 5-carbon sugar ribulose 1,5 bisphosphate (RuBP) is catalyzed by the rubisco enzyme (ribulose bisphosphate carboxylase/oxygenase)."
+      },
+      {
+       "key": "D",
+       "text": "Light is not required for the operation of the Calvin cycle."
+      },
+      {
+       "key": "E",
+       "text": "Two molecules of ATP are synthesized for each \"turn\" of the cycle."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q38",
+     "kind": "choice",
+     "points": 1,
+     "question": "38. Which of the following labels in the diagram below of a leaf cross-section is NOT correct?",
+     "options": [
+      {
+       "key": "A",
+       "text": "epidermal cell"
+      },
+      {
+       "key": "B",
+       "text": "palisade mesophyll cell"
+      },
+      {
+       "key": "C",
+       "text": "intercellular air space"
+      },
+      {
+       "key": "D",
+       "text": "spongy mesophyll cell"
+      },
+      {
+       "key": "E",
+       "text": "xylem cell"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q39",
+     "kind": "choice",
+     "points": 1,
+     "question": "39. Increased levels of atmospheric CO2 result in the \"greenhouse effect\" and thus global climatic warming. The graph below shows the effect of these changes on photosynthesis. Which of the following statements about these processes is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "For most plants, temperatures over 40/C reduce photosynthesis."
+      },
+      {
+       "key": "B",
+       "text": "At temperatures below 20/C, high atmospheric CO2 concentrations reduce photosynthesis to values below those seen for plants growing in normal CO2 concentrations."
+      },
+      {
+       "key": "C",
+       "text": "One result of increased levels of atmospheric CO2 will be to increase rates of photosynthesis in most plants."
+      },
+      {
+       "key": "D",
+       "text": "At high CO2 concentrations, the highest rates of photosynthesis are measured at temperatures between 30/ and 35/C."
+      },
+      {
+       "key": "E",
+       "text": "CO2 concentration is normally rate-limiting for photosynthesis. © 1995 University of Toronto U of T Ontario Biology Com petition / 11"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q40",
+     "kind": "choice",
+     "points": 1,
+     "question": "40. The two strands of the DNA double helix are held together by:",
+     "options": [
+      {
+       "key": "A",
+       "text": "hydrogen bonds."
+      },
+      {
+       "key": "B",
+       "text": "C=C double bonds."
+      },
+      {
+       "key": "C",
+       "text": "hydrophobic bonds."
+      },
+      {
+       "key": "D",
+       "text": "peptide bonds."
+      },
+      {
+       "key": "E",
+       "text": "phosphodiester bonds."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Тест: вопросы 41–50",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q41",
+     "kind": "choice",
+     "points": 1,
+     "question": "41. During DNA replication:",
+     "options": [
+      {
+       "key": "A",
+       "text": "one parental strand must be degraded to allow the other strand to be copied."
+      },
+      {
+       "key": "B",
+       "text": "the parental strands come back together after the passage of the replication fork."
+      },
+      {
+       "key": "C",
+       "text": "origins of replication always give rise to single replication forks."
+      },
+      {
+       "key": "D",
+       "text": "two replication forks diverge from each origin but one always lags behind the other."
+      },
+      {
+       "key": "E",
+       "text": "the parental strands must separate so that both can be copied."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q42",
+     "kind": "choice",
+     "points": 1,
+     "question": "42. What would be the sequence of bases of an mRNA molecule that was transcribed from the sequence of DNA bases shown below? GTAGTAGGT",
+     "options": [
+      {
+       "key": "A",
+       "text": "GTAGTAGGT"
+      },
+      {
+       "key": "B",
+       "text": "CAUCAUCCA"
+      },
+      {
+       "key": "C",
+       "text": "UCGUCGUUC"
+      },
+      {
+       "key": "D",
+       "text": "AUGAUGAAU"
+      },
+      {
+       "key": "E",
+       "text": "CATCATCCA"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q43",
+     "kind": "choice",
+     "points": 1,
+     "question": "43. Choose the answer that has the following events of protein synthesis in the proper sequence. i. An aminoacyl-tRNA binds to the A site. ii. A peptide bond forms. iii. tRNA leaves the P site and the P site remains vacant. iv. Small ribosomal subunit associates with mRNA. v. Translocation of the tRNA to the P site.",
+     "options": [
+      {
+       "key": "A",
+       "text": "i, iii, ii, iv, v"
+      },
+      {
+       "key": "B",
+       "text": "ii, iv, v, i, iii"
+      },
+      {
+       "key": "C",
+       "text": "iv, i, ii, v, iii"
+      },
+      {
+       "key": "D",
+       "text": "iv, i, iii, ii, v"
+      },
+      {
+       "key": "E",
+       "text": "v, iv, iii, ii, i"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q44",
+     "kind": "choice",
+     "points": 1,
+     "question": "44. A frameshift mutation could result from:",
+     "options": [
+      {
+       "key": "A",
+       "text": "a base insertion only."
+      },
+      {
+       "key": "B",
+       "text": "a base deletion only."
+      },
+      {
+       "key": "C",
+       "text": "a base substitution only."
+      },
+      {
+       "key": "D",
+       "text": "deletion of three consecutive bases."
+      },
+      {
+       "key": "E",
+       "text": "either an insertion or a deletion of a base. © 1995 University of Toronto 12 / U of T Ontario Biology Com petition"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q45",
+     "kind": "choice",
+     "points": 1,
+     "question": "45. Restriction enzymes are used in recombinant DNA technology to:",
+     "options": [
+      {
+       "key": "A",
+       "text": "cut large DNA molecules at sequence-specific sites."
+      },
+      {
+       "key": "B",
+       "text": "carry foreign genes along with viral DNA into the host cell."
+      },
+      {
+       "key": "C",
+       "text": "join DNA fragments."
+      },
+      {
+       "key": "D",
+       "text": "clone DNA fragments."
+      },
+      {
+       "key": "E",
+       "text": "carry viruses along with plasmid DNA into the host cell."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q46",
+     "kind": "choice",
+     "points": 1,
+     "question": "46. Which of the following was NOT part of Darwin's explanation of natural selection?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Organisms commonly produce more offspring than can possibly survive."
+      },
+      {
+       "key": "B",
+       "text": "Variations exist within each species."
+      },
+      {
+       "key": "C",
+       "text": "Members of a species compete with each other for food and space."
+      },
+      {
+       "key": "D",
+       "text": "Genes are passed on from parent to offspring."
+      },
+      {
+       "key": "E",
+       "text": "The offspring that are most fit possess traits which are best suited to the environment."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q47",
+     "kind": "choice",
+     "points": 1,
+     "question": "47. In a population that is in Hardy-Weinberg equilibrium, the frequency of a recessive allele for a certain hereditary trait is 0.20. What percentage of the individuals in the next generation would be expected to show the dominant trait?",
+     "options": [
+      {
+       "key": "A",
+       "text": "8%"
+      },
+      {
+       "key": "B",
+       "text": "16%"
+      },
+      {
+       "key": "C",
+       "text": "32%"
+      },
+      {
+       "key": "D",
+       "text": "64%"
+      },
+      {
+       "key": "E",
+       "text": "96%"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-popgen",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q48",
+     "kind": "choice",
+     "points": 1,
+     "question": "48. Which of the following statements best describes the effect of genetic drift on the gene frequencies of a population?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Genes enter a population through immigration, thus changing gene frequencies."
+      },
+      {
+       "key": "B",
+       "text": "Genes leave a population through emigration, thus changing gene frequencies."
+      },
+      {
+       "key": "C",
+       "text": "Chance alone can cause significant changes in gene frequencies of small populations."
+      },
+      {
+       "key": "D",
+       "text": "Mutations over time cause gene frequencies to change."
+      },
+      {
+       "key": "E",
+       "text": "Selection against one allele causes gene frequencies to change."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q49",
+     "kind": "choice",
+     "points": 1,
+     "question": "49. If the fossil record has few or no intermediate forms, if there are long periods in which the fossils underwent no morphological change, and if new forms arose very quickly, then evolution of these new forms would be best described as:",
+     "options": [
+      {
+       "key": "A",
+       "text": "punctuated equilibrium."
+      },
+      {
+       "key": "B",
+       "text": "adaptive radiation."
+      },
+      {
+       "key": "C",
+       "text": "gradualism."
+      },
+      {
+       "key": "D",
+       "text": "convergent evolution."
+      },
+      {
+       "key": "E",
+       "text": "due to stabilizing selection. © 1995 University of Toronto U of T Ontario Biology Com petition / 13"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q50",
+     "kind": "choice",
+     "points": 1,
+     "question": "50. Which of the following are necessary for evolution by natural selection to take place? i. Offspring resemble their parents more than other individuals in the population. ii. Differences among individuals exist and lead to different numbers of successful offspring being produced. iii. Individuals adjust their development depending on the environment. iv. Every individual has a desire to have many offspring. v. Populations tend to grow faster than their food supplies.",
+     "options": [
+      {
+       "key": "A",
+       "text": "i and ii"
+      },
+      {
+       "key": "B",
+       "text": "i and v"
+      },
+      {
+       "key": "C",
+       "text": "ii, iii, and iv"
+      },
+      {
+       "key": "D",
+       "text": "iii and v"
+      },
+      {
+       "key": "E",
+       "text": "All of the above."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-development",
+     "reference": "Правильный ответ: A"
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Тест: вопросы 51–60",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q51",
+     "kind": "choice",
+     "points": 1,
+     "question": "51. In regulatory systems, the phenomenon of negative feedback:",
+     "options": [
+      {
+       "key": "A",
+       "text": "anticipates an error in the system."
+      },
+      {
+       "key": "B",
+       "text": "increases the error signal in the system."
+      },
+      {
+       "key": "C",
+       "text": "increases the pace of the system."
+      },
+      {
+       "key": "D",
+       "text": "provides a means of control."
+      },
+      {
+       "key": "E",
+       "text": "decreases the pace of the system."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q52",
+     "kind": "choice",
+     "points": 1,
+     "question": "52. The endocrine system includes all hormone-producing tissues that:",
+     "options": [
+      {
+       "key": "A",
+       "text": "are organized into discrete glands."
+      },
+      {
+       "key": "B",
+       "text": "can be stimulated by the nervous system."
+      },
+      {
+       "key": "C",
+       "text": "have sacs for hormone storage before release."
+      },
+      {
+       "key": "D",
+       "text": "have hormone receptors on their cell surfaces."
+      },
+      {
+       "key": "E",
+       "text": "secrete their products into the blood."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q53",
+     "kind": "choice",
+     "points": 1,
+     "question": "53. The general functions of the nervous system include which of the following? i. integration ii. motor output iii. sensory input",
+     "options": [
+      {
+       "key": "A",
+       "text": "i only"
+      },
+      {
+       "key": "B",
+       "text": "ii only"
+      },
+      {
+       "key": "C",
+       "text": "iii only"
+      },
+      {
+       "key": "D",
+       "text": "i and ii only"
+      },
+      {
+       "key": "E",
+       "text": "i, ii, and iii only © 1995 University of Toronto 14 / U of T Ontario Biology Com petition"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q54",
+     "kind": "choice",
+     "points": 1,
+     "question": "54. What effect does insulin have in a normal human body?",
+     "options": [
+      {
+       "key": "A",
+       "text": "It mediates release of glucose by liver cells."
+      },
+      {
+       "key": "B",
+       "text": "It stimulates formation of glycogen in the liver."
+      },
+      {
+       "key": "C",
+       "text": "It stimulates conversion of glycogen to glucose."
+      },
+      {
+       "key": "D",
+       "text": "It increases absorption of glucose in the small intestine."
+      },
+      {
+       "key": "E",
+       "text": "It counteracts the effects of vitamin deficiencies."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q55",
+     "kind": "choice",
+     "points": 1,
+     "question": "55. The region of the brain that integrates visceral activities, body temperature, and heartbeat is the:",
+     "options": [
+      {
+       "key": "A",
+       "text": "medulla oblongata."
+      },
+      {
+       "key": "B",
+       "text": "hypothalamus."
+      },
+      {
+       "key": "C",
+       "text": "cerebrum."
+      },
+      {
+       "key": "D",
+       "text": "cerebellum."
+      },
+      {
+       "key": "E",
+       "text": "corpus callosum."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q56",
+     "kind": "choice",
+     "points": 1,
+     "question": "56. The traditional concept of succession includes the idea of an equilibrium state called a climax community. Ecologists now think there may be no such thing as a climax community because:",
+     "options": [
+      {
+       "key": "A",
+       "text": "disturbance is ongoing in ecosystems."
+      },
+      {
+       "key": "B",
+       "text": "all organisms eventually die."
+      },
+      {
+       "key": "C",
+       "text": "species diversity generally increases."
+      },
+      {
+       "key": "D",
+       "text": "extinction increases in stable environments."
+      },
+      {
+       "key": "E",
+       "text": "each succession is different from others."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q57",
+     "kind": "choice",
+     "points": 1,
+     "question": "57. 57. In the human-induced process called acid precipitation, the main biogeochemical cycles that are altered are the __________ cycles and one effect in lakes is to __________ populations of nitrifying bacteria.",
+     "options": [
+      {
+       "key": "A",
+       "text": "phosphorus and nitrogen, increase"
+      },
+      {
+       "key": "B",
+       "text": "phosphorus and nitrogen, decrease"
+      },
+      {
+       "key": "C",
+       "text": "nitrogen and sulfur, decrease"
+      },
+      {
+       "key": "D",
+       "text": "nitrogen and sulfur, increase"
+      },
+      {
+       "key": "E",
+       "text": "phosphorus and sulfur, decrease"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q58",
+     "kind": "choice",
+     "points": 1,
+     "question": "58. Which of the following statements about food chains and energy flow through ecosystems is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A single organism can feed at several trophic levels."
+      },
+      {
+       "key": "B",
+       "text": "Detritivores feed at all trophic levels except the producer level."
+      },
+      {
+       "key": "C",
+       "text": "The lower the trophic level at which an organism feeds, the more energy available."
+      },
+      {
+       "key": "D",
+       "text": "Food webs include two or more food chains."
+      },
+      {
+       "key": "E",
+       "text": "All organisms that are not producers are consumers. © 1995 University of Toronto U of T Ontario Biology Com petition / 15"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q59",
+     "kind": "choice",
+     "points": 1,
+     "question": "59. The actual rate of growth of a population is the difference between the:",
+     "options": [
+      {
+       "key": "A",
+       "text": "number of adults and the number of newborn."
+      },
+      {
+       "key": "B",
+       "text": "numbers of breeding and non-breeding individuals."
+      },
+      {
+       "key": "C",
+       "text": "size last year and the size this year."
+      },
+      {
+       "key": "D",
+       "text": "birth rate and death rate."
+      },
+      {
+       "key": "E",
+       "text": "size this year and the size next year."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q60",
+     "kind": "choice",
+     "points": 1,
+     "question": "60. Which of the following has most probably had the greatest impact on human population growth over the past 10,000 years?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The move from a nomadic way of life to growing and cultivating crops in a fixed location which occurred approximately 8,000 to 10,000 years ago."
+      },
+      {
+       "key": "B",
+       "text": "The improvements to housing, sanitation, and health that occurred during the Industrial Revolution."
+      },
+      {
+       "key": "C",
+       "text": "The control of human diseases, such as small pox, measles, and malaria."
+      },
+      {
+       "key": "D",
+       "text": "The increase in food production through the use of fertilizers, mechanization, plant and animal breeding, pest control, and irrigation."
+      },
+      {
+       "key": "E",
+       "text": "development of technologies to transport people and materials efficiently and to process and communicate enormous amounts of information. © 1995 University of Toronto"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: C"
+    }
+   ]
+  }
+ ]
+}

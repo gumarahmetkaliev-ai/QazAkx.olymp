@@ -1,0 +1,627 @@
+{
+ "setId": "bio-ibo-2005--bio-3-tasks",
+ "olympiadId": "bio-ibo-2005",
+ "title": "Биология → IBO (международная) → 2005",
+ "materialLabel": "3 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/ibo/2005/bio-3-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/ibo/2005/bio-3-sol.pdf",
+ "generatedBy": "test-parser",
+ "type": "test",
+ "generatedAt": "2026-11-09T13:45:14.777Z",
+ "quality": {
+  "tasks": 3,
+  "parts": 24,
+  "withPoints": 24,
+  "withReference": 24,
+  "withQuestion": 24,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Тест: вопросы 1–10",
+   "weight": null,
+   "total": 30,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q1",
+     "kind": "choice",
+     "points": 3,
+     "question": "1. Write your name and code on both task paper and answer paper sheets.",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q2",
+     "kind": "choice",
+     "points": 3,
+     "question": "2. Make sure that all the results are written on the answer paper unless otherwise instructed.",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q3",
+     "kind": "choice",
+     "points": 3,
+     "question": "3. There are 4 parts in the practical test. Each part lasts 90 min. You should start your first test according to last digit of your competitor code. For example, if you have a code of 221, your first practical test will be part I, if you have a code of 223, your first practical test will be part III.",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q4",
+     "kind": "choice",
+     "points": 3,
+     "question": "4. Your second practical test is as follows: competitors from part I and part II switch labs; competitors from part III and part IV switch labs;",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q5",
+     "kind": "choice",
+     "points": 3,
+     "question": "5. You go to your third practical test according to the following rules: If the last digit of your competitor code is 1, you go to practical test part III. If the last digit of your competitor code is 2, you go to practical test part IV. If the last digit of your competitor code is 3, you go to practical test part I. If the last digit of your competitor code is 4, you go to practical test part II. You should follow the instructions from your guides when switching labs. 2 Practical tests Part I: Biochemistry and Molecular Biology Very important notice: you should start task 1 first and while the gel electrophoresis is running, start and finish task 2. Task 1: Separation of plasmid DNA restriction fragments by Agarose Gel Electrophoresis (24 points Instruments: Centrifuge, Agarose gel electrophoresis apparatus and Fluorescence gel imaging systems. Important: Raise the blue card on the bench table to ask for help when you want to use the electrophoresis power supplies. Introduction Plasmids are circular double-stranded DNA molecules, which can exist and replicate independently in bacterial cells. Restriction enzymes can cut the plasmid DNA into fragments. In the experiment a plasmid and three restriction enzymes BamHI, PstI and HindIII are provided. You will use the three restriction enzymes to digest the plasmid DNA and run agarose gel electrophoresis. You need to determine the restriction 3 enzyme sites and calculate the size of restriction fragments between cutting sites according to migration distance of DNA fragment, which is inversely correlated to the logarithm of the length of fragment. Reagents 1. 1×TAE buffer –Tris-acetate-EDTA 2. DNA dye - GeneFinder™ containing anthocyanin and sucrose 3. BamHI 4. PstI 5. HindIII",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q6",
+     "kind": "choice",
+     "points": 3,
+     "question": "6. Plasmid DNA",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q7",
+     "kind": "choice",
+     "points": 3,
+     "question": "7. DNA size standard",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q8",
+     "kind": "choice",
+     "points": 3,
+     "question": "8. Distilled water Equipment 1. Lab gloves 2. Marker pen 3. 0.5 ml centrifuge tubes 4. Centrifuge tube holder 5. Pipettes 6. Centrifuge 7. Incubator 8. Agarose gel electrophoresis apparatus 4",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-gene-regulation",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q9",
+     "kind": "choice",
+     "points": 3,
+     "question": "9. Fluorescence gel imaging systems (use it with lab assistants), Procedure and operation of equipments 1. Using a Pipette: A 0-10µl pipette is provided for the experiment. The volume is adjusted by turning the setting ring. The digits of the volume display should be read from top to bottom. After attaching an appropriate tip, press the control button down to the first stop and insert the tip into the liquid. Slowly release the button until it reaches a complete stop to aspirate (suck up) the sample. Then, insert the tip with the liquid to the target places (tubes or wells) and press the button down slowly to the second stop until all collected liquid is completely expelled from the tip. Eject the used tip to the trash by pressing the ejector button. 2. Using a Centrifuge Press the stop lever down to open the lid. Load tubes into the rotor. Be sure to balance the load properly. Close and firmly press down the lid until the lid locks into its 5 position. The rotor will begin spinning when the lid is completely closed. Let the centrifuge run for 20 seconds. Push the stop lever, open the lid and remove the tubes after the rotor has stopped spinning. 3. Using Restriction enzyme digestions Type II restriction enzymes recognize certain DNA sequences and digest DNA at the recognition sites. The plasmid DNA provided to you should be digested by three different enzymes: BamHI, PstI and HindIII. Add the appropriate amount (1µl) of enzyme(s) to the plasmid DNA in centrifuge tube and close the lid of the tube. Mix it well by gently tapping the bottom of the centrifuge tube. Incubate the centrifuge tubes at 37°C for 15 min in the incubator. 4. Using the agarose gel electrophoresis apparatus The 0.8% Agarose gel with wells is ready for use. Fill the electrophoresis tank with 1×TAE buffer and let the buffer cover the gel. The buffer surface should be about 34mm above the agarose gel surface. Load 10 μl of the sample, which contain (1) plasmid DNA cleaved with restriction enzymes and (2) DNA dye, into the wells of the gel. Please note that the pipette tip should be 1-2 mm above the bottom of the well so that you can load all of the samples into the wells without puncturing the bottom of the wells. After loading the samples, close the cover of the electrophoresis tank. Note that Red wire connects to the anode and Black wire connects to the cathode. Call the laboratory assistant to turn on the power supply by raising the blue card. Run 6 the samples at 100 volt for 40 min. After 40 minutes call the assistant to turn off the power supply by raising the blue card. Every competitor will use one electrophoresis tank, while every 2 competitors share one power supply. 5. Gel imaging system This system is operated by lab assistants. Your samples contain a non-toxic dye that binds DNA fragments for visualization. Experimental procedure 1. Label eight 0.5-ml centrifuge tubes 1 through 8 with a marker pen, Add solutions to each tube as follows: 7 Table 1. Digestion of plasmid DNA with restriction enzymes No. Plasmid DNA (μl) BamHI (μl) PstI (μl) HindIII (μl) ddH2O (μl) 1 5 1 9 2 5 1 9 3 5 1 9 4 5 1 1 8 5 5 1 1 8 6 5 1 1 1 7 7 5 10 2. Mix well and incubate tubes 1-6 at 37°C for 15 minutes. Leave tube 7 in the tube holder. If you found droplets of the solution on the inside tube wall, you may used the centrifuge to spin them to the bottom of the tube. The centrifuges are provided on your table. 3. Put the agarose gel (previously prepared for you) into the electrophoresis tank, pour 1×TAE buffer into the tank and let the buffer cover the gel about 3-4mm. The gel has 10 wells for sample loading. 4. Add 6 μl DNA size standards into the No.8 centrifuge tube. 5. Add 3 μl of 5X dye to each tube and mix them well. 6. Load 5 µl of DNA size standards (tube No. 8) into the First well of the gel. Load all of your plasmid samples from the second well through to the eighth well in the order of Table 1. Please note that tube numbers differ from the lane numbers in which they are loaded. Use a clean tip for each load. Close the cover of the 8 electrophoresis tank. Call the assistant by raising the blue card to turn on the power supply. Run the samples at 100 volt for 40 min. (Note: during your waiting time for completion of electrophoresis, please undertake task 2 and finish it.) 6. After the electrophoresis has run for 40 min, call the assistant to turn off the power supply by raising the blue card. Wear gloves and take out the gel holder. 8. Put your gel into the box with your competitor’s number. Close the lid and leave the box on the table. A lab assistant will take the gel image and print a copy for you. Separation of plasmid DNA restriction fragments with agarose gel electrophoresis (24 points: 3 points for each lane). The score for this task will be given by a professor in charge of this test. Three points for each lane: No DNA, no point; smearing lane with clear bands, minus 1 point; incomplete digestion, minus 1 point; faint bands, minus 1 point. Your gel image will be posted below once it is printed by the lab assistant. 9 Task 2: Determination of restriction enzyme sites and DNA fragment size of restriction fragments. (16 points) Due to time limitation, you will not be able to run your own gel for size analysis. However, the figure below is an agarose gel profile of DNA fragments, in which an identical plasmid was digested with the same three DNA restriction enzymes. The procedure for digestion and loading positions of each digestion in the gel are identical to the instruction in task 1. Please answer the following questions according to the profile below. 10 Question 1. How many sites does this plasmid have for PstI, BamHI and HindIII, respectively? (3 points)",
+     "options": [
+      {
+       "key": "A",
+       "text": "PstI:1, BamHI: 0, HindIII : 2."
+      },
+      {
+       "key": "B",
+       "text": "PstI:2, BamHI : 0, HindIII : 2."
+      },
+      {
+       "key": "C",
+       "text": "PstI:2, BamHI : 1, HindIII : 0."
+      },
+      {
+       "key": "D",
+       "text": "PstI:1, BamHI : 1, HindIII : 1. Question 2. Linear lambda DNA is often digested with restriction enzymes and used as a molecular standard in running agarose gels. The figure below is a profile of lambda viral DNA fragments obtained with HindIII digestion. The numbers on the right side of the gel are fragment sizes in kb. 11 Which of the following statements is⁄are true? (3 points) (1) There are 8 sites for HindIII on lambda DNA. (2) Since lambda DNA can be digested by HindIII, the entire molecule of lambda DNA must be double stranded. (3) The profile shown in the figure above is likely to be a fluorescent image of a dye binding to DNA fragments. Select which answer A to D is correct A. 1 B. 1, 2, 3 C. 2, 3 D. 3 Questions 3-5. The gel profile contains eight bands of DNA size standards in lane 1 and the sizes of the DNA fragments in lane 1 are as follows (in bp, base pairs): 200, 500, 800, 1200, 2000, 3000, 4500, 7000. It is known that migration distance of a DNA fragment is inversely correlated to the logarithm of the fragment length. Please plot the logarithm of the DNA fragment sizes (kb) versus the migration distances (cm) on the plotting (graph) paper below, and calculate the sizes (kb) of the DNA fragments. 12 Question 3. The size (kb) of the smaller restriction fragment between PstI site & HindIII site is: (3 points) A. 2.5 B. 0.8 C. 1.1 D. 0.6 13 Question 4. The size (kb) of the smaller restriction fragment between HindIII site & BamHI site is: (3 points) A. 0.8 B. 0.4 C. 0.5s D. 0.6 Question 5. The plasmid length (kb) is: (4 points) A. 5.2 B. 6.9 C. 4.8 D. 4.3 14 16th International Biology Olympiad Beijing July, 2005 Practical Examination Part II Total time available: 90 minutes 15 The 16th IBO Practical Tests First name: Last name Country: Code: Important: 1. Write your name and code on both the task paper and answer paper sheets. 2. Make sure that all the results are written on the answer paper unless otherwise instructed. 3. There are 4 parts in the practical test. Each part has 90 min. You should start your first test according to last digit of your competitor code. For example, if you have a code of 221, your first practical test will be part I, if you have a code of 223, your first practical test will be part III. 4. Your second practical test is as follows: competitors from part I and part II exchange labs; competitors from part III and part IV exchange labs; 5. You go to your third practical test according to the following rules: If the last digit of your competitor code is 1, you go to practical test part III. If the last digit of your competitor code is 2, you go to practical test part IV. If the last digit of your competitor code is 3, you go to practical test part I. If the last digit of your competitor code is 4, you go to practical test part II. You should follow the instructions from your guides when switching labs. 16 Practical tests Part II: Cell Biology This part of examination contains 3 Tasks: Task 1: Microscopes and cellular structures (15 points) Task 2: Identification of plants with thin sections (15 points) Task 3: Karyotype analysis (10 points) Total Points available: 40 Total Time: 90 minutes Task 1: Microscopes and Cellular Structures (13.5 points) Requirement In this task, you are provided with cell images obtained using different types of microscopy. You are required to (1) Distinguish these cell images and choose one name for the microscopic technique for obtaining each image, (2) Select one of the techniques for study, (3) Distinguish between organelles in a given cell image and answer questions. 17 Procedure You are supplied with two image sheets, Image Sheet 1 and Image Sheet 2. On Image Sheet 1, seven images (denoted 1-7) of cells or organisms are printed. These images are obtained with the different microscopic techniques listed below: A. Light microscopy B. Fluorescence microscopy C. Scanning electron microscopy D. Ultra-thin section transmission electron microscopy"
+      },
+      {
+       "key": "E",
+       "text": "Immuno-electron microscopy"
+      },
+      {
+       "key": "F",
+       "text": "Negative staining electron microscopy"
+      },
+      {
+       "key": "G",
+       "text": "Freeze-fracture electron microscopy Answer the questions according to the following descriptions. Descriptions: 1. Image 1 is most likely to be obtained with _____. (0.9 point). 2. Image 2 is most likely to be obtained with _____. (0.9 point). 3. Image 3 is most likely to be obtained with _____. (0.9 point). 4. Image 4 is most likely to be obtained with _____. (0.9 point). 5. Image 5 is most likely to be obtained with _____. (0.9 point). 18 6. Image 6 is most likely to be obtained with _____. (0.9 point). 7. Image 7 is most likely to be obtained with _____. (0.9 point). Answer the following questions about different microscopic techniques. 8. ____ is appropriate for locating specific molecules in both cells and tissues (0.9 point). 9. ____ is appropriate for visualizing details of cell and tissue surface (0.9 point)."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q10",
+     "kind": "choice",
+     "points": 3,
+     "question": "10. ____ is appropriate for analyzing the interior of cell membranes (0.9 point).",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G"
+     ],
+     "multi": false,
+     "answer": "G",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: G"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Тест: вопросы 11–20",
+   "weight": null,
+   "total": 30,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q11",
+     "kind": "choice",
+     "points": 3,
+     "question": "11. ____ is appropriate for examining the fine structure of cells (0.9 point).",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q12",
+     "kind": "choice",
+     "points": 3,
+     "question": "12. ____ is appropriate for the fine labelling (ultra structural localisation) of molecular substances in a cell (0. 9 point). Image Sheet 2 shows the ultrastructure of a cell. Roman numbers (I-III) indicate different organelles and/or cell components. A list of organelles and/or cell components is given below (A through F). Answer the following questions.",
+     "options": [
+      {
+       "key": "A",
+       "text": "Lysosome"
+      },
+      {
+       "key": "B",
+       "text": "The Golgi apparatus"
+      },
+      {
+       "key": "C",
+       "text": "Mitochondrion"
+      },
+      {
+       "key": "D",
+       "text": "Microtubule"
+      },
+      {
+       "key": "E",
+       "text": "The endoplasmic reticulum"
+      },
+      {
+       "key": "F",
+       "text": "Plastid 19"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q13",
+     "kind": "choice",
+     "points": 3,
+     "question": "13. The structure indicated by Roman number I is a _____. (0. 9 point).",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q14",
+     "kind": "choice",
+     "points": 3,
+     "question": "14. The structure indicated by Roman number II is a _____. (0. 9 point).",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q15",
+     "kind": "choice",
+     "points": 3,
+     "question": "15. The structure indicated by Roman number III is a _____. (0.9 point).",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q16",
+     "kind": "choice",
+     "points": 3,
+     "question": "16. The structure indicated by Roman number IV is a _____. (0.9 point).",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q17",
+     "kind": "choice",
+     "points": 3,
+     "question": "17. The cell shown in Image Sheet 2 is likely to be a cell of _____. (choose one from below) (0.6 point).",
+     "options": [
+      {
+       "key": "A",
+       "text": "Plant"
+      },
+      {
+       "key": "B",
+       "text": "Animal"
+      },
+      {
+       "key": "C",
+       "text": "Fungus"
+      },
+      {
+       "key": "D",
+       "text": "Eubacterium"
+      },
+      {
+       "key": "E",
+       "text": "Archeon 20 Task 2: Determination of plant types with thin sections of plant leaves (15 points) Materials, tools and instrument (1) Five (No.1-No.5) Petri dishes, each of which contains some leaf samples. (2) A microscope with objective lens of 10x, 20x, 40x. (3) Forceps, razor blade, test tube rack, slide, slide cover slip, filter paper. Background There are three major types of photosynthesis metabolism in the plants, called C3 metabolism, C4 metabolism and crassulacean acid metabolism. You are now required to determine which plants are C3 plants and which plants are C4 plants. The difference between them is that CO2 fixation and sugar synthesis are performed in different cells in these two types of plants. The different structures of the leaves between C3 and C4 plants lead to different metabolism. Task There are five Petri dishes on the table. Each Petri dish contains pieces of leaves from a different plant. You are required to determine if the leaves are from C3 plants or C4 plants. Procedure Please follow the procedure below: (1) Pick up one sample from each dish and make a thin section. (2) Use several drops of water to wash the section off the blade onto the slide. 21 (3) Remove the excess water with a piece of filter paper, but keep the water around the sample. (4) Put the cover slip onto the sample, remove excessive water and observe the specimen under the microscope. Answer the following questions."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q18",
+     "kind": "choice",
+     "points": 3,
+     "question": "18. The leaves in Petri dish 1 are (3 points)",
+     "options": [
+      {
+       "key": "A",
+       "text": "C3 type."
+      },
+      {
+       "key": "B",
+       "text": "C4 type."
+      }
+     ],
+     "choices": [
+      "A",
+      "B"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q19",
+     "kind": "choice",
+     "points": 3,
+     "question": "19. The leaves in Petri dish 2 are (3 points)",
+     "options": [
+      {
+       "key": "A",
+       "text": "C3 type."
+      },
+      {
+       "key": "B",
+       "text": "C4 type."
+      }
+     ],
+     "choices": [
+      "A",
+      "B"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q20",
+     "kind": "choice",
+     "points": 3,
+     "question": "20. The leaves in Petri dish 3 are (3 points)",
+     "options": [
+      {
+       "key": "A",
+       "text": "C3 type."
+      },
+      {
+       "key": "B",
+       "text": "C4 type."
+      }
+     ],
+     "choices": [
+      "A",
+      "B"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: B"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Тест: вопросы 21–24",
+   "weight": null,
+   "total": 12,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q21",
+     "kind": "choice",
+     "points": 3,
+     "question": "21. The leaves in Petri dish 4 are (3 points)",
+     "options": [
+      {
+       "key": "A",
+       "text": "C3 type."
+      },
+      {
+       "key": "B",
+       "text": "C4 type."
+      }
+     ],
+     "choices": [
+      "A",
+      "B"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q22",
+     "kind": "choice",
+     "points": 3,
+     "question": "22. The leaves in Petri dish 5 are (3 points)",
+     "options": [
+      {
+       "key": "A",
+       "text": "C3 type."
+      },
+      {
+       "key": "B",
+       "text": "C4 type. 22 Task 3. Karyotype analysis (10 points) Requirement: In this task, you are asked to perform karyotype analysis. The materials are root tips from a plant. You will need to use a microscope to observe the cells of the root meristem tissue and find those cells in mitosis. Materials, instruments and tools (1) Root tips (approximately 5-10 mm in length) in a 1.5 ml centrifuge tube. (2) A microscope with objective lens of 10x, 20x, 40x. (3) A Carbol Fuchsin (a dye) solution. (It is in a 1.5-ml centrifuge tube, labelled as CF) (4) Forceps, razor blade, test tube rack, slide, slide cover, filter paper. (5) A 1.5 ml centrifuge tube containing approximately 1 ml 1 N (normal) HCl solution. Important: You will use 1 N HCl to treat the root tips. HCl solution is very harmful to your eyes and skin. Wear gloves and protective goggles when using HCl solution. If HCl solution comes in contact with any part of your body, please report it immediately to any instructor in the exam room. 23 Procedure: You are provided with three root tips of a plant. The following procedure should be followed so that you can make an appropriate specimen to observe the chromosomes from cells in mitosis. (1) Use the forceps to put one or two root tips into the small bottle containing 1 N HCl. (2) Put the bottle into the water bath, which has been adjusted to 60°C, for 8 min. Note, your laboratory has several water baths with temperature adjusted to 60°C. The water baths are on the instructor’s desk. (3) Very carefully take the root tips out of the HCl solution with a forceps and put them into the beaker provided containing distilled water. Gently shake it for 1 min. (4) Take the root tips out of the distilled water. Important: the root tips are now very fragile. It is recommended that you use the forceps to pick the root tips and don’t touch the tips of the roots. (5) Put one root tip on a slide. Cut the tissue of the root tip that is rich in dividing cells. This region is within 1 mm from the root tip. Discard other parts of the root. (6) Put one drop of Carbol Fuchsin solution onto the root tissue you have just cut off and leave it to stain for 7 min. Squash the tissue gently with forceps so that the tissue is dispersed. (7) Cover the dispersed tissue with a slide cover slip. Push the slide cover slip gently with a pencil or forceps until the tissue is completely dispersed and separated. 24 (8) Put the slide between two pieces of filter paper and put it on a flat surface. Gently press the upper filter paper down so that the tissue is further squashed. In the meantime, extra dye solution is also removed and absorbed by the filter paper. (9) Observe your slide specimen under the microscope. Note, you might need to use all objective lenses. Note: You are provided with three root tips to prepare your specimen. If you fail to make a good specimen for your observation, please repeat the procedure and make another preparation. However, the time for your experiment is limited. Answer the following question:"
+      }
+     ],
+     "choices": [
+      "A",
+      "B"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q23",
+     "kind": "choice",
+     "points": 3,
+     "question": "23. How many pairs of chromosomes are there in the cells (in metaphase) from this plant? (6 points)",
+     "options": [
+      {
+       "key": "A",
+       "text": "3"
+      },
+      {
+       "key": "B",
+       "text": "4"
+      },
+      {
+       "key": "C",
+       "text": "5"
+      },
+      {
+       "key": "D",
+       "text": "6"
+      },
+      {
+       "key": "E",
+       "text": "7"
+      },
+      {
+       "key": "F",
+       "text": "8"
+      },
+      {
+       "key": "G",
+       "text": "9 25"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F",
+      "G"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q24",
+     "kind": "choice",
+     "points": 3,
+     "question": "24. If you found that different metaphase cells had different number of chromosomes, how do you determine the exact number of chromosomes? (2 points)",
+     "options": [
+      {
+       "key": "A",
+       "text": "Count the chromosome numbers from several cells and use the average number as the chromosome number."
+      },
+      {
+       "key": "B",
+       "text": "Count the chromosome numbers from several cells; the maximum chromosome number of a cell is the chromosome number of the plant."
+      },
+      {
+       "key": "C",
+       "text": "Count the chromosome numbers of several cells in metaphase; the chromosome of the plant is the number with highest frequency."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: B"
+    }
+   ]
+  }
+ ]
+}

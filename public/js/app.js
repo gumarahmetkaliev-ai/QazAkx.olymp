@@ -10,18 +10,41 @@
   const fmt = (n) => (Math.round(n * 10) / 10).toString().replace(".", ",");
 
   // ---------------------------------------------------------------- data
+  const SUBJECTS = [
+    { key: "chemistry", label: "Химия", of: "по химии" },
+    { key: "biology", label: "Биология", of: "по биологии" },
+  ];
+
   async function loadData() {
-    const [cat, topics, videos] = await Promise.all([
+    const [chem, bio, topics, videos] = await Promise.all([
       fetch("/data/catalog/chemistry.json").then((r) => r.json()),
+      fetch("/data/catalog/biology.json").then((r) => r.json()).catch(() => ({ olympiads: [] })),
       fetch("/data/topics.json").then((r) => r.json()).catch(() => ({ chemistry: [] })),
       fetch("/data/videos.json").then((r) => r.json()).catch(() => ({})),
     ]);
-    App.catalog = cat;
-    App.topics = topics.chemistry || [];
+    App.catalogs = { chemistry: chem, biology: bio };
+    App.catalog = chem;
+    App.topics = [...(topics.chemistry || []), ...(topics.biology || [])];
     App.videos = videos;
-    App.byId = new Map(cat.olympiads.map((o) => [o.id, o]));
+    const all = [...chem.olympiads, ...bio.olympiads];
+    App.byId = new Map(all.map((o) => [o.id, o]));
     App.bySet = new Map();
-    for (const o of cat.olympiads) for (const m of o.materials) if (m.setId) App.bySet.set(m.setId, { olymp: o, material: m });
+    for (const o of all) for (const m of o.materials) if (m.setId) App.bySet.set(m.setId, { olymp: o, material: m });
+  }
+
+  function currentSubject(params) {
+    let key = params && params.get("subject");
+    if (!key) {
+      try {
+        key = localStorage.getItem("qazakx.subject");
+      } catch {}
+    }
+    if (!App.catalogs[key]) key = "chemistry";
+    try {
+      localStorage.setItem("qazakx.subject", key);
+    } catch {}
+    App.catalog = App.catalogs[key];
+    return SUBJECTS.find((x) => x.key === key);
   }
 
   async function loadSet(setId) {
@@ -135,6 +158,7 @@
   }
 
   function renderCatalog(params) {
+    const subject = currentSubject(params);
     const stages = stageList();
     const onlyAi = params.get("ai") === "1";
     const defaultStage = (stages.find((s) => s.solvable) || stages.find((s) => s.key === "oblast") || stages[0]).key;
@@ -160,20 +184,20 @@
           <span>${esc(s.label)}${s.solvable ? ' <span class="pill accent" title="Есть ИИ-проверка">ИИ</span>' : ""}</span><span class="count">${s.count}</span></button>`).join("");
     };
 
-    const qs = (st, ai) => `/?stage=${st}${ai ? "&ai=1" : ""}`;
+    const qs = (st, ai) => `/?subject=${subject.key}&stage=${st}${ai ? "&ai=1" : ""}`;
 
     view().innerHTML = `
       <div class="page">
         <div class="hero">
           <div>
-            <h1>Олимпиады по химии</h1>
-            <p>Все туры с задачами и решениями. Пиши ответ к каждому пункту — ИИ-жюри проверит по официальной схеме оценивания и подскажет, что повторить.</p>
+            <h1>Олимпиады ${subject.of}</h1>
+            <p>Все туры с задачами и решениями. Пиши ответ к каждому пункту — ${subject.key === "biology" ? "сайт проверит по официальным ключам, а открытые вопросы — ИИ-жюри," : "ИИ-жюри проверит по официальной схеме оценивания"} и подскажет, что повторить.</p>
           </div>
           <div class="pill accent">ИИ-проверка: ${totalSolvable} ${plural(totalSolvable, "комплект", "комплекта", "комплектов")}</div>
         </div>
         <div class="subjects">
-          <button class="subject active">Химия</button>
-          ${["Биология", "Физика", "Математика", "География", "Информатика", "Астрономия"].map((s) => `<button class="subject" disabled title="Скоро">${s}</button>`).join("")}
+          ${SUBJECTS.map((x) => `<a class="subject ${x.key === subject.key ? "active" : ""}" href="/?subject=${x.key}" data-link>${x.label}</a>`).join("")}
+          ${["Физика", "Математика", "География", "Информатика", "Астрономия"].map((x) => `<button class="subject" disabled title="Скоро">${x}</button>`).join("")}
         </div>
         <div class="catalog">
           <aside class="card stages">${stageButtons("kz", "Казахстан")}${stageButtons("intl", "Другие олимпиады")}</aside>
@@ -234,7 +258,7 @@
 
     view().innerHTML = `
       <div class="page">
-        <a class="back" href="/?stage=${o.stage}" data-link>← Назад</a>
+        <a class="back" href="/?subject=${o.subject || "chemistry"}&stage=${o.stage}" data-link>← Назад</a>
         <h1>${esc(o.title)}</h1>
         <div class="tabs" role="tablist">
           ${mats.map((m) => `<button class="tab ${m.id === mat.id ? "active" : ""}" data-m="${m.id}" title="${esc(m.title)}">${esc(m.label)}${m.solvable ? '<i class="ai-dot" title="Можно решать с ИИ-проверкой"></i>' : ""}</button>`).join("")}
@@ -381,8 +405,8 @@
             ${r ? `<span class="pill ${r.verdict === "correct" ? "good" : r.verdict === "partial" ? "warn" : "bad"}">${fmt(r.score)} / ${fmt(r.max)} б.</span>` : `<span class="pill" ${p.pointsEstimated ? 'title="Оценочно: в официальной схеме нет баллов за этот пункт"' : ""}>${p.points != null ? (p.pointsEstimated ? "≈ " : "") + fmt(p.points) + " б." : ""}</span>`}
           </div>
           ${p.question ? `<p class="part-q">${esc(p.question)}</p>` : ""}
-          <textarea data-answer="${esc(p.id)}" placeholder="Ход решения, расчёты и ответ. Без расчётов жюри ставит 0.">${esc(answers[p.id] || "")}</textarea>
-          ${r ? verdictHtml(r) : ""}
+          ${p.kind === "choice" ? choiceHtml(p, answers[p.id], r) : `<textarea data-answer="${esc(p.id)}" placeholder="Ход решения, расчёты и ответ. Без расчётов жюри ставит 0.">${esc(answers[p.id] || "")}</textarea>`}
+          ${r ? (p.kind === "choice" ? `<div class="choice-verdict ${r.verdict}">${esc(r.feedback)}</div>` : verdictHtml(r)) : ""}
         </div>`;
       }).join("")}
       <div class="actions">
@@ -392,6 +416,25 @@
       <div id="grade-error" class="error" style="margin-top:10px"></div>`;
 
     let timer;
+    // Тестовые вопросы: выбор варианта сразу сохраняется
+    card.querySelectorAll(".choice-btn").forEach((btn) =>
+      btn.addEventListener("click", () => {
+        const box = btn.closest(".choices");
+        const input = box.querySelector("input[data-answer]");
+        const multi = box.dataset.multi === "1";
+        const cur = new Set(input.value.split("").filter(Boolean));
+        if (multi) cur.has(btn.dataset.key) ? cur.delete(btn.dataset.key) : cur.add(btn.dataset.key);
+        else {
+          const had = cur.has(btn.dataset.key);
+          cur.clear();
+          if (!had) cur.add(btn.dataset.key);
+        }
+        input.value = [...cur].sort().join("");
+        box.querySelectorAll(".choice-btn").forEach((b) => b.classList.toggle("on", cur.has(b.dataset.key)));
+        QStore.saveAnswers(set.setId, task.number, collectAnswers());
+        document.getElementById("save-state").textContent = "Сохранено";
+      })
+    );
     card.querySelectorAll("textarea").forEach((ta) => {
       autosize(ta);
       ta.addEventListener("input", () => {
@@ -422,8 +465,19 @@
 
   function collectAnswers() {
     const out = {};
-    document.querySelectorAll("#task-card textarea[data-answer]").forEach((ta) => (out[ta.dataset.answer] = ta.value));
+    document.querySelectorAll("#task-card textarea[data-answer], #task-card input[data-answer]").forEach((el) => (out[el.dataset.answer] = el.value));
     return out;
+  }
+
+  /** Варианты ответа тестового вопроса: кнопки A–E с текстом варианта */
+  function choiceHtml(p, value, r) {
+    const chosen = new Set(String(value || "").split(""));
+    const opts = p.options && p.options.length >= 2 ? p.options : (p.choices || []).map((k) => ({ key: k, text: "" }));
+    return `<div class="choices ${r ? "graded" : ""}" data-multi="${p.multi ? 1 : 0}">
+      <input type="hidden" data-answer="${esc(p.id)}" value="${esc(value || "")}">
+      ${p.multi ? `<div class="small dim">Несколько верных ответов</div>` : ""}
+      ${opts.map((o) => `<button type="button" class="choice-btn ${chosen.has(o.key) ? "on" : ""}" data-key="${o.key}"><b>${o.key}</b>${o.text ? `<span>${esc(o.text)}</span>` : ""}</button>`).join("")}
+    </div>`;
   }
 
   async function gradeCurrent() {
@@ -481,14 +535,19 @@
 
   function reviewHtml(review) {
     if (!review || !review.length) return `<div class="note" style="margin-top:14px">Ошибок по темам нет — отличная работа!</div>`;
-    return `<h3 style="margin:18px 0 0">Что повторить</h3><div class="review">${review.map((t) => topicHtml(t.id, t.count)).join("")}</div>`;
+    return `<h3 style="margin:18px 0 0">Что повторить</h3><div class="review">${review.map((t) => topicHtml(t.id, t.count, t.books)).join("")}</div>`;
   }
 
-  function topicHtml(id, count) {
+  function topicHtml(id, count, books) {
     const vids = Array.isArray(App.videos[id]) ? App.videos[id] : [];
+    const bookList = Array.isArray(books) && books.length
+      ? `<div class="books">${books.map((b) => `<div class="book"><span class="book-icon">📖</span><span><b>${esc(b.title)}</b>${b.authors ? ` <span class="dim">— ${esc(b.authors)}</span>` : ""}<br>
+          <span class="small">${b.chapter ? `${esc(b.chapter)} → ` : ""}${esc(b.section)}, с. ${esc(b.pages)}</span></span></div>`).join("")}</div>`
+      : "";
     return `<div class="topic">
       <div class="topic-head"><b>${esc(topicLabel(id))}</b><span class="small dim">${count} ${plural(count, "ошибка", "ошибки", "ошибок")}</span></div>
-      ${vids.length ? `<div class="videos">${vids.slice(0, 3).map(videoHtml).join("")}</div>` : `<div class="small dim" style="margin-top:4px">Видеоуроки по этой теме скоро появятся.</div>`}
+      ${bookList}
+      ${vids.length ? `<div class="videos">${vids.slice(0, 3).map(videoHtml).join("")}</div>` : bookList ? "" : `<div class="small dim" style="margin-top:4px">Видеоуроки по этой теме скоро появятся.</div>`}
     </div>`;
   }
 
@@ -550,13 +609,17 @@
     const years = [...new Set([new Date().getFullYear(), ...[...sum.activity.keys()].map((k) => Number(k.slice(0, 4)))])].sort((a, b) => b - a);
     const year = Number(new URLSearchParams(location.search).get("year")) || years[0];
     const topicCount = new Map();
+    const topicBooks = new Map();
     const attempts = [];
     for (const [setId, tasks] of Object.entries(all)) {
       const ref = App.bySet.get(setId);
       for (const [n, t] of Object.entries(tasks)) {
         if (!t.result) continue;
         attempts.push({ setId, n: Number(n), ref, result: t.result, at: t.checkedAt || t.updatedAt, st: QProgress.taskSummary(t) });
-        for (const r of t.result.review || []) topicCount.set(r.id, (topicCount.get(r.id) || 0) + r.count);
+        for (const r of t.result.review || []) {
+          topicCount.set(r.id, (topicCount.get(r.id) || 0) + r.count);
+          if (Array.isArray(r.books) && r.books.length) topicBooks.set(r.id, r.books);
+        }
       }
     }
     attempts.sort((a, b) => b.at - a.at);
@@ -593,7 +656,7 @@
         ${timelineHtml(QProgress.scoreTimeline(all))}</div>
 
       <section class="cf-block"><h2>Олимпиады</h2>
-        <div class="card" id="olymp-progress">${setIds.length ? `<div class="empty small">Загружаю…</div>` : `<div class="empty">Пока нет проверенных задач. <a href="/?ai=1" data-link>Выбрать олимпиаду →</a></div>`}</div>
+        <div class="card" id="olymp-progress">${setIds.length ? `<div class="empty small">Загружаю…</div>` : `<div class="empty">Пока нет проверенных задач. <a href="/?subject=chemistry&ai=1" data-link>Выбрать олимпиаду →</a></div>`}</div>
       </section>
 
       <div class="two-col">
@@ -606,7 +669,7 @@
           }).join("") : `<div class="empty">Здесь появятся твои проверки.</div>`}</div>
         </section>
         <section><h2>Что повторить</h2>
-          ${topics.length ? `<div class="review" style="margin:0">${topics.slice(0, 8).map(([id, c]) => topicHtml(id, c)).join("")}</div>` : `<div class="card empty">Здесь появятся темы, в которых ты ошибаешься, и видеоуроки к ним.</div>`}
+          ${topics.length ? `<div class="review" style="margin:0">${topics.slice(0, 8).map(([id, c]) => topicHtml(id, c, topicBooks.get(id))).join("")}</div>` : `<div class="card empty">Здесь появятся темы, в которых ты ошибаешься, и что почитать по ним.</div>`}
         </section>
       </div>
       <p class="dim small" style="margin-top:28px">${QStore.auth.user() ? "Прогресс синхронизируется с аккаунтом." : `Прогресс хранится в этом браузере. <a href="/account" data-link>Войди</a>, чтобы не потерять его.`}</p>
@@ -623,7 +686,7 @@
         const solved = sums.filter((x) => x.level === "solved").length;
         const href = ref ? `/olympiads/${ref.olymp.id}?m=${ref.material.id}` : "/";
         return { solved, total: set.tasks.length, html: `<a class="list-row olymp-row" href="${href}" data-link>
-          <span><b>${esc(ref ? ref.olymp.title.replace(/^Химия → /, "") : set.title)}</b><br><span class="small muted">${esc(ref ? ref.material.label : "")}</span></span>
+          <span><b>${esc(ref ? ref.olymp.title : set.title)}</b><br><span class="small muted">${esc(ref ? ref.material.label : "")}</span></span>
           <span class="olymp-right">${setStrip(set)}<span class="small ${solved === set.tasks.length ? "solved-all" : "muted"}">${solved === set.tasks.length ? "🏆 " : ""}решено ${solved} из ${set.tasks.length}</span></span></a>` };
       });
       rows.sort((a, b) => b.solved / b.total - a.solved / a.total);

@@ -1,0 +1,453 @@
+{
+ "setId": "bio-inbo-2017--bio-tasks",
+ "olympiadId": "bio-inbo-2017",
+ "title": "Биология → INBO → 2017",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/inbo/2017/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/inbo/2017/bio-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T13:44:40.920Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 53,
+  "withPoints": 53,
+  "withReference": 53,
+  "withQuestion": 53,
+  "estimatedPoints": 51
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "INDIAN NATIONAL BIOLOGY OLYMPIAD (INBO) – 2017",
+   "weight": null,
+   "total": 715,
+   "statement": "Question Paper\n        th\nDate: 29 January, 2017                                                 Duration: 2 hours\n\nPlease Note:\n      The question paper is divided into Section A and Section B.\n      Before starting, please ensure that you have received a copy of the question paper\n       containing pages 1 – 35.\n      All answers should be written in the answer sheet booklet only which will be\n       collected at the end of the examination.\n      The question paper need not be submitted to the examiner.\n\nSection A\n      Section A consists of 21 questions carrying 1 point each.\n      All 21 questions are of multiple choice type, with only one correct answer for each\n       question.\n\n      Mark the correct answer with „✔‟ on the answer sheet provided. The correct way of\n\n       marking is shown below. Use a pen to mark your answer.\n\n               Q. No.             a               b            c            d\n\n                                                  ✔\n\n      Each wrong answer will have negative marking as indicated in the scoring key.\nSection B\n      Section B consists of 32 questions with a total of 79 points.\n      The points for the questions in Part B vary depending on the number of answers\n       and the complexity of the question. These points have been indicated along with\n       the question.\n      Contradictory answers will not be considered for marking.\n\n                                      SCORING KEY\nNO. OF CORRECT ANSWERS: X\nNO. OF INCORRECT ANSWERS: Y\n\nSCORE INBO (THEORY): SECTION A: 3X – Y\n                           SECTION B: 3X\n                                          ********\n\n                       INDIAN NATIONAL BIOLOGY OLYMPIAD – 2017\n                                          SECTION A\n\nCELL BIOLOGY (4 points)\n\n1. (1 point) In a lung cancer cell line, it is observed that a single point mutation (cysteine to\n    phenylalanine) makes a protein defective in phosphorylation function.\n    The loss of function is most likely due to:\na. increase in solubility of the protein in aqueous environment.\nb. alteration of protein conformation essential for protein-protein interaction.\nc. increase in the net charge of the protein leading to loss of active site.\nd. decrease in hydrophobic interactions of the protein with other proteins.\n\n2. (1 point) Which of the following proteins are likely to be active during mitosis?\n      i. Telomerase\n     ii. Primase\n     iii. Topoisomerase\n     iv. Kinesin\na. ii, iii & iv only\nb. iii & iv only\nc. i, ii & iii only\nd. only iv\n\n3. (1 point) A tuberculosis patient died within a few minutes of second intravenous\n    administration of streptomycin and the post-mortem report gave anaphylactic shock as\n    the cause of death. This is explained as:\na. a sudden surge in IgM synthesis leading to complement activation causing fatal drop in\n    blood pressure.\nb. a vigorous precipitation of soluble antigens in body fluids triggered by the IgA insurgence\n    leading to blockage of capillaries to vital organs.\nc. IgE induced mast cell degranulation triggering abrupt dilation of peripheral blood vessels\n    resulting in a precipitous drop in blood pressure.\nd. IgD induced agglutination of antigen-bearing cells in vital organs leading to multi-organ\n    failure.\n\n                                                                                                 1\n\n4. (1 point) Apoptosis is programmed cell death characterized by the formation of apoptotic\n    bodies whereas necrosis is characterized by bursting of cells. Which of the following\n    condition/s lead/s to necrosis?\n    i.   Gaps and nicks formed in DNA during replication cannot be repaired.\n    ii. Developing neurons fail to make synapses with neighbouring cells.\n    iii. Heart muscle cells damaged by oxygen depletion followed by cardiac infarction.\n\na. i and ii\nb. ii and iii\nc. i only\nd. iii only\n\n    PLANT SCIENCES (3 points)\n\n5. (1 point) Diagrams A – D show the external or internal structures of leaves from different\n    groups of plants.\n\n                          A                                              B\n\n                          C                                              D\n\n         Match these diagrams with the plants described by statements I - IV.\n\n   I.    The sexual reproductive structures are formed on an independent non-dominant plant\n         body.\n\n                                                                                           2\n\n   II.   Plants in this group have leaves with a haploid number of chromosomes.\n   III. Plants in this group are seed-bearing and amongst the earliest evolved extant trees.\n   IV. The mega gametophytes develop within enclosed ovules.\n\na. I-B, II-A, III-D, IV-C\nb. I-B, II-D, III- C, IV-A\nc. I-C, II-A, III-B, IV-D\nd. I-D, II-B, III-A, IV-C\n\n6. (1 point) A few statements regarding the sexual and asexual modes of reproduction in\n    plants are given.\n\n    1. In sexual reproduction, progeny are genetically different from each other.\n    2. In asexual mode of reproduction, progeny are genetically identical to each other but\n         different from the parent.\n    3. Sexual reproduction is more conducive for driving evolution.\n    4. A minor change in the habitat may adversely affect all offspring derived by asexual\n         reproduction.\n    5. A bisexual plant grown in isolation is always incapable of sexual reproduction.\n\n    Which of these statements are correct?\na. 1, 3 and 4\nb. 1, 2 and 5\nc. 3, 4 and 5\nd. 2, 3 and 4\n\n7. (1 point) Which one of the following plant traits is NOT associated with colonization on\n    land from aquatic habitat?\n\na. Presence of apical meristems.\nb. Absence of alternation of generations.\nc. Formation of multicellular, dependent embryos.\nd. Production of gametes within multicellular organs.\n\n                                                                                               3\n\n   ANIMAL SCIENCES (6 points)\n\n8. (1 point) Fluid filtration across capillaries depends on several factors. Which of the\n   following causes net filtration at the arterial end and net reabsorption at the venous end?\na. Greater osmotic pressure of plasma at the arterial end of capillary than that at the venous\n   end.\nb. Greater interstitial fluid osmotic pressure at venous end of capillary than that at arterial\n   end.\nc. Greater capillary hydrostatic pressure than osmotic pressure of plasma at arterial end and\n   the same being lower than plasma colloidal osmotic pressure at venous end.\nd. Sum total of plasma colloidal osmotic pressure & interstitial fluid osmotic pressure at\n   venous end being greater than the sum total at the arterial end capillary.\n\n9. (1 point) Concentrations of cations & anions present in intracellular & extracellular fluids\n   of human body are depicted in the graph.\n\n   P, Q, R and S respectively are:\n\na. K+, Na+, Cl- and organic anions\nb. Proteins, bicarbonates, K+ and Na+\nc. Mg++, proteins, bicarbonates and Na+\nd. Ca++, lactate, K+ and Cl-\n\n                                                                                                  4\n\n10. (1 point) Typically a skeletal muscle has origin in one bone and insertion in the other\n   across a joint. Consider the insertion of X and Y. Which one of the following statements is\n   correct?\n\na. Muscle Y is responsible for rotation across the joint.\nb. Muscle X is responsible for extension and Y for flexion.\nc. Muscle X is for stronger flexion, while Y brings about weaker flexion.\nd. Muscle X is for quick flexion while Y produces strong flexion.\n\n11. (1 point) The following pattern of venous blood drainage is typical of:\n\na. fish\nb. amphibian\nc. bird\nd. mammal\n\n                                                                                            5\n\n12. (1 point) Which of the following statements about blood capillaries is/are true?\n       i. These are found in the peripheral region of organs and body.\n       ii. The rate of flow of blood in capillaries is the least.\n      iii. Their total cross section area is intermediate between those of veins and arteries.\n      iv. They have only a thin layer of involuntary muscles in the wall.\n\na. i, ii, iii and iv\nb. Only ii, iii & iv\nc. Only ii\nd. Only i & iv\n\n13. (1 point) Following are microscopic sections of quadriceps muscles from two athletes.\n     The cells are stained to show the activity of myosin ATPase.\n     Mark the most appropriate description from the following.\n\na.   P is likely to contain more mitochondria than Q.\nb.   Q is likely to have large stores of glycogen than P.\nc.   P is likely to represent muscle of a high jumper and sprinter.\nd.   Creatine phosphate is the major source of energy in the muscle depicted in Q but not in\n     P.\n\n     GENETICS & EVOLUTION (6 points)\n\n14. (1 point) Two statements regarding evolution are made below.\n     I. Rates of evolution are typically very slow because natural selection is usually ____P___\n     selection.\n\n                                                                                                 6\n\n   II. The plant population growing on high-zinc-soil is able to grow at concentrations which\n   are otherwise lethal to plants of the same species. This is ____Q____ selection.\n\n   P and Q refer to:\na. directional and disruptive selection respectively.\nb. stabilizing and directional selection respectively.\nc. directional selection.\nd. stabilizing selection.\n\n15. (1 point) Pedigree analysis helps determine the pattern of inheritance of a trait among\n   related individuals. One such pedigree is given.\n\n   Squares indicate males and circles females. Filled symbols indicate presence of trait\n   while circles with a dot indicate carriers.\n   The inheritance pattern shown in the given pedigree is:\na. X-linked recessive\nb. Autosomal recessive\nc. Sex limited trait\nd. Sex influenced trait\n\n16. (1 point) A female with normal genotype (XX, 44) showed the presence of testis\n   determining factor gene (TDF gene) on the X chromosome. This is most likely a result of :\na. X chromosome inactivation\nb. Dosage compensation effect\nc. Mutation\nd. Meiotic recombination\n\n                                                                                                7\n\n17. (1 point) Two alleles are found in Calico cats for coat color and are located on the X\n    chromosome. One allele is responsible for black color while the other for orange color.\n    Which of the following is correct about the phenotype of Calico cats?\na. All male cats will have the same coat color.\nb. Female cats can have mosaic pattern.\nc. All females will show intermediate coat color.\nd. All female cats born to mothers with black coat color will have black coat color.\n\n18. (1 point) Consider the following pedigree.\n\n    Assume that one of the grandparents has the genotype A1/A2 and the other A3/A4. The\n    probability that the individual R will be homozygous for any of the given alleles is:\na. 1/2\nb. 1/4\nc. 1/8\nd. 1/16\n\n19. (1 point) Which of the following properties of plasmids are central to the evolution of\n    bacteria?\n      i. Plasmids are genetically dispensable for host cells in the absence of a selection\n         pressure.\n     ii. Some plasmids have the ability to get transferred horizontally from one cell to another.\n     iii. Some plasmids permit interaction between bacterial cells of different species.\n    iv. Plasmids are naked DNA molecules incapable of survival outside a living cell.\na. i & ii only\nb. ii & iii only\n                                                                                               8\n\nc. i & iii only\nd. i, ii & iv\n\n    ECOLOGY (1 point)\n\n20. (1 point) After initial labeling of plants in an old field community, accumulation of\n    radioactive phosphorus in different trophic levels was monitored over the next 25 days.\n    The results are shown in the graph. P,Q, R & S respectively most likely represent:\n\na. Detrivore, herbivore, primary carnivore, secondary carnivore.\nb. Detrivore, omnivore, herbivore, carnivore.\nc. Primary carnivore, detrivore, herbivore, omnivore.\nd. Herbivore, omnivore, primary carnivore, secondary carnivore.\n\n    BIOSYSTEMATICS (1 point)\n\n21. (1 point) Comparison of related sequences from different species can give clues to\n    evolutionary relationships among proteins. A phylogenetic tree representing relationship\n    between tubulin sequences is depicted below.\n\n                                                                                          9\n\n   Filled circles indicate common ancestors. Mark the correct statement about the likely\n   evolutionary mechanism.\na. Tubulin gene most likely diverged into α and β forms after speciation.\nb. A gene duplication event led to two identical copies of the gene within each species and\n   then the sequences diverged further.\nc. A gene duplication event occurred first followed by sequence divergence. Each sequence\n   diverged further during speciation.\nd. Earliest eukaryotic cell most likely contained two tubulin genes which further diverged\n   from each other during the course of speciation.\n\n                              ********* END OF SECTION A *******\n\n                                                                                             10\n\n                   INDIAN NATIONAL BIOLOGY OLYMPIAD – 2017\n\n                                         SECTION B\n\n   NOTE:\n          Write all answers in the ANSWERSHEET ONLY.\n          Only the answer sheets will be collected at the end of the examination.\n\n   CELL BIOLOGY (13 points)\n\n22. (2 points) The famous experiment by Avery, MacLeod and McCarty showed that neither\n   heat killed S-type nor live R-type pneumococci could kill mice (experiment 1) but\n   simultaneous injection of both killed the mice just as efficiently as the live S-type\n   (experiment 2). S-type pneumococci are known to possess a capsule structure outermost\n   to the cell wall. Structurally, capsule is a linear homopolymer of sialic acid residues. Apart\n   from the capsule, there are other virulence factors present in these bacteria such as\n   adhesion proteins that recognize a wide range of molecular motifs and provide targeting\n   of the bacteria to specific tissue surfaces in the host.\n\na. One can hypothesise that sialic acid residues are likely to be poorly immunogenic if the\n   same homopolymer is a structural component of the host. ______\nb. If the capsular deficient mutants are used in place of S-type bacteria and adhesion\n   deficient mutants in place of R-type in the Avery, MacLeod and McCarty experiment, mice\n   would be killed.______\nc. If genomic DNA from S-type is extracted and injected sub-cutaneously into the mice,\n   most of the mice would be killed. ______\nd. In the experiments performed by Avery, MacLeod and McCarty, all types of live R strains\n   recovered from dead mice would also be virulent. ______\n\n23. (2 points) A disease known as Angelman syndrome is known to occur in approximately 1\n   in every 20000 people. Here the defect lies in the gene UBE3A, involved in ubiquitin\n   pathway, located on chromosome 15.The disease is characterized by developmental\n   disabilities, seizures and motor dysfunction. Following are depicted genotypes of 4\n                                                                                              11\n\n   individuals. Each rectangle represents chromosome 15. Unfilled rectangle is maternally\n   inherited chromosome while filled one is paternally inherited. Cross in person 3 indicates\n   a mutation while a gap in person 2 indicates deletion.\n\na. The disease is „‟sex-influenced‟‟ type of a disease. ______\nb. The gene UBE3A follows a paternal imprinting. ______\nc. The genotype of person 4 involves non-disjunction at meiosis I or meiosis II in one of the\n   parents. ______\nd. A deletion mutation in paternal allele in individual 1 will lead to development of the\n   Angelman disease. ______\n\n24. (2.5 points) In order to study the properties of membrane proteins, they are required to be\n   isolated and purified. In one such experiment, two methods were followed to isolate\n   membrane proteins from erythrocytes.\n      I. Varying the pH of the buffer in which the membrane fractions were isolated. The\n         supernatant collected and analysed. Protein „X‟ was found.\n     II. Addition of detergents to the membrane preparation. Soluble fractions analysed.\n         Protein „Y‟ was found.\n   When proteins X and Y were studied for their structural properties, it was found that polar\n   amino acids predominated (property 1) on the surface of one of them while the non-polar\n   on the other (property 2).\n\n                                                                                            12\n\n   Which of the following can be deduced from this? Put tick marks (✔) in the appropriate\n\n   boxes.\n\na. X is likely to be bound to membrane by electrostatic attraction.\nb. Y is likely to show property 2.\nc. X is likely to be the integral membrane protein.\nd. Y is most likely to be a cytoskeletal protein.\ne. Protein X is likely to be present in cell exterior (exoplasmic face) and Y in the cyotsolic\n   face.\n\n                        Statement True False\n                           a.\n                           b.\n                           c.\n                           d.\n                           e.\n\n25. (2.5 points) Muscle contraction is a result of cross-bridging between actin and myosin\n   filaments. Uncoupling of the two can occur only when fresh ATP molecule binds to cross-\n   bridged myosin molecule.\n   Stiffening of muscles known as „rigor mortis‟ occurs approx 2-6 hrs after death (phase I).\n   It persists for about 48 hrs (phase II) after which the muscles return to „relaxed‟ (flexible)\n   state (phase III).\n\na. The onset of “rigor mortis” (phase I) is due to depletion of ATP storage of the cell. ______\nb. The long lasting phase II is mainly due to supply of ATP from creatinine phosphate of\n   muscle. ______\nc. “Rigor mortis” is a reversible process in which supply of remaining ATP from degrading\n   tissues leads to uncoupling of actin-myosin bridges. ______\nd. Muscle with small amount of stored glycogen is likely to go to “rigor mortis” earlier than\n   the one that has more amount of glycogen. ______\ne. Phase III of rigor mortis is a result of protein degradation hence lesser the environmental\n   temperature, longer will be the phase II of rigor mortis. ______\n\n                                                                                                 13\n\n26. (1.5 points) Arrangement of gene sequences in representative 50kb segments of two\n   organisms is shown. Genes above the line are transcribed left to right & below the line to\n   the left.\n\na. Each segment indicates single stranded DNA in 5' to 3' orientation (left to right). ______\nb. Segment I is likely to represent a prokaryote & segment II, a eukaryote such as worm.\n   ______\nc. Segment II is less likely to have stop codons as compared to segment I. ______\n\n27. (2.5 points) One of the classical ways to study the function of any unknown “gene” is to\n   mutate it & study the effect on the cell functioning. It has been successful for prokaryotes.\n   In one such study in eukaryotes, in order to determine the function of a mouse gene „X‟, a\n                                                                                    r\n   plasmid was constructed which contained the gene „X‟. Then the gene neo („promoter\n   less‟ gene that assigns neomycin resistance to the cells) was introduced within the gene\n   „X‟. Mouse stem cells transfected with this plasmid were cultured in vitro in a neomycin\n   containing medium and only a few cells survived. Note that stem cells are sensitive to\n   neomycin.\n                              r\na. The expression of the neo gene from the plasmid conferred resistance and allowed the\n   cells to grow in media containing neomycin. ______\nb. The cells that grew in the culture media are likely to have mutant „X‟ gene in the genome.\n           ______\nc. It can be deduced that gene „X‟ is crucial for cell growth as most of the stem cells died in\n           culture media. ______\n\n                                                                                              14\n\nd. In vivo multiplication of plasmid led to its lateral transfer to other cells, making them\n    antibiotic resistant. ______\ne. The gene for antibiotic resistance got transferred by homologous recombination in stem\n    cells. ______\n\nPLANT SCIENCES (8 points)\n\n28. (2 points) In an experiment, a researcher incubated plant tissue with a bacterial strain for\n    different time durations followed by heat treatment to specifically kill the bacteria. The\n    plant material was analyzed ten days after each experiment for appearance of disease\n    symptoms. Results of this study, which was done in three replicates and with appropriate\n    controls, are tabulated below.\n\n    Which of the following statement/s is/are likely explanation/s of the above observations?\n    (i) The bacterium is incapable of causing infection in the absence of heat treatment.\n    (ii) Continuous contact with live bacteria is not essential to cause disease symptoms.\n    (iii) The bacterium undergoes spontaneous mutations to become heat-resistant.\n    (iv) Contact duration of 72 hours with live bacteria is essential to cause disease\n        symptoms.\n\na. ii and iv only\nb. i, iii and iv only\n\n                                                                                               15\n\nc. ii only\nd. i and iii only\n\n    Indicate by putting a tick mark (✔) in the appropriate box.\n\n                     a.    b.     c.    d.\n\n29. (2 points) Water potential in plant tissues is affected by three factors, namely dissolved\n    solutes, matric forces acting on water ( such as intermolecular attractions and binding of\n    water to surfaces) and hydrostatic pressure exerted by cell walls. Thus total water\n    potential (ΨT) in plants is expressed as:\n    ΨT = Ψs + Ψm + Ψp where T = total, s = solute, p = pressure and m = matric potential.\n    A few statements about the water potential or these factors are given. State whether each\n    of them is true (T) or false (F).\na. In a rapidly transpiring spruce tree, water flows upwards, down the water potential\n    gradient, from soil (-1.5 MPa) to terminal shoot (-0.04 MPa). ______\nb. Water potential in xylem of gutting plants whose hydathodes release water drops must be\n    positive. ______\nc. Water potential of apoplast will have Ψm as the major contributing factor while that in a\n    vacuole will have Ψs as a major contributing factor. ______\nd. If Ψw of vacuole is lower than Ψw of apoplast, then there will be a net efflux of water across\n    cytoplasm resulting into a flaccid cell. ______\n\n30. (2 points) Three closely related species of genus Clusia are found in moist forests, dry\n    deciduous forests and dry rocky coast of Trinidad island. In order to study their\n    physiological response, they were raised under identical conditions in growth chambers.\n    For one of these species, measurements were made under well-watered conditions (0\n    day) and after 5 days and 10 days without further irrigation. The results are shown:\n    Graph with hollow circles is response of young leaves while solid line indicates mature\n    leaves of the same plant.\n\n                                                                                               16\n\na. Young leaves are unable to fix CO2 in the night of 0 day while the mature leaves followed\n   CAM pathway. ______\nb. Peak indicated as “P” in the graph is result of activation of “RUBISCO” enzyme. ______\nc. Young leaves are utilizing C3 pathway in the beginning of the experiment and then\n   progressively assimilate CO2 by CAM pathway. ______\nd. The response shown in the graph is most likely of a species that grows in moist forest.\n   ______\n\n31. (2 points) Light absorbing pigments found in different groups of photosynthetic organisms\n   not only help trap light energy but also have a protective role. The diagram shown below\n   shows the absorption spectra of a few major pigments. Based on it answer the following.\n\n                                                                                             17\n\n   Choose the appropriate pigment and fill in the blanks with the alphabet (A-E) of the\n   corresponding curve.\n I.    _________ is a phycobilin pigment which gives cyanobacteria its characteristic blue-\n       green colour.\n II.   ________ is the major pigment found in eukaryotic plants growing in deep marine waters.\nIII.   _______ and _________ are the dominant photosynthetic pigments found in\n       Pteridophytes.\n\n   ANIMAL SCIENCES (19.5 points)\n\n   32. (2 points) During blood circulation, the amount of blood reaching every organ will depend\n       on several factors such as total weight of the organ, the type of metabolic function it\n       performs etc. When body is at rest, the percentage of total blood flowing to different\n       organs will vary. State whether each of the following statements is true (T) or false (F).\n\n   a. At rest, the blood supply to skin in cool weather will be greater than in hot weather.\n       ______\n   b. Flow of blood (ml/min) per unit gram of tissue will be greater to kidneys than to the brain,\n       at rest. ______\n   c. At rest, flow of blood (ml/min) to liver tissue will be much greater than heart. ______\n   d. When a person is at rest, a small percent (< 5%) blood will be found in bronchi. ______\n\n   33. (4 points) Epilepsy is characterized by short, recurrent contractions of skeletal muscles.\n       Epileptic seizures are initiated by abnormal synchronous electrical discharges from\n       millions of neurons in the brain, sending nerve impulses over their conduction pathways.\n       State whether each of the following compounds can act as effective Anti Epileptic Drugs\n\n       (AED) and the underlying mechanism for each (✔) or (X) by choosing from the options.\n\n       Compounds:\n       A. Na+ channel blockers\n       B. GABA (chloride conductance facilitator) enhancer\n       C. Glutamate (Na+ & Ca+ conductance facilitators) activators\n       D. Progesterone (GABA receptor – positive allosteric modulator)\n\n       Possible mechanisms:\n         i. Hyperpolarization of membrane\n\n                                                                                                    18\n\n     ii. Depolarization of membrane\n     iii. Stabilization of resting membrane potential\n     iv. Decrease of intracellular negative charge\n     v. Increase of intracellular negative charge\n     vi. No effect on membrane potential\n    vii. Prevent depolarization of membrane\n\n               Compound                     As AED effective (✔)/ not    Mechanism/s\n\n                                            effective (X)\n               A\n               B\n               C\n               D\n\n34. (2 points) Following are the functional aspects of stimulation of autonomous nervous\n   system. Mark P for parasympathetic and S for sympathetic response against them.\n\n                                                            Parasympathetic (P) or Sympathetic (S)\n         i.        Increase peristalsis in gastro\n                   intestinal tract\n\n         ii.       Constriction of bronchi in lungs\n        iii.       Dilation of pupil\n        iv.        Inhibition of contraction of urinary\n                   bladder\n\n35. (3 points) Elaborate pathway of human blood clotting is shown. A pathway very similar to\n   that indicated by the box X is found in lobster.\n\n                                                                                                19\n\na. Multistep pathway found in humans would have advantage as it would greatly amplify the\n     original signal. ______\nb.   Clotting of blood is an essential requirement only for a closed circulatory system as the\n     blood flows through vessels & capillaries. ______\nc. Multistep blood clotting mechanism is likely to evolve in high volume high pressure\n     circulatory systems than a low volume low pressure systems. ______\nd. The hypothesis that blood clotting evolved in vertebrate lineage is supported by the\n     presence of fibrinogen-like protein in early vertebrates that do not possess clotting\n     pathway. ______\ne. Lesser the steps required for clotting, longer will it take to produce substantial clot.\n     ______\nf.   If the clotting factors show extensive homology, the hypothesis that they are formed by\n     gene duplication is supported. ______\n\n36. (2 points) The total food given to a Chinese hamster under experimental conditions was\n     equivalent to 270 kcal/animal/day. As per the “material-balance calculations”, 37% of the\n     total consumption is lost as feces. How many calories are assimilated per day in\n\n                                                                                                 20\n\n   conditions of hypothermia that accounts for a further 67% decrement in diet\n   consumption? (Write your answer upto one decimal place.)\n   Answer: ________________ kcal\n\n37. (2.5 points) One of the most important mechanisms for reduced arterial pressure at high\n   altitude involves shifting the shapes and position of oxygen dissociation curve (ODC). Q\n   in the figure indicates normal sea level ODC of hemoglobin.\n\na. (iv) on the curve represents arterial blood while (iii) represents mixed venous blood.\n   ______\nb. Higher slope of line (i) – (ii) as compared to that of (iii) – (iv) indicates a compensatory\n   mechanism to relieve hypoxic condition. ______\nc. Graph P indicates increased affinity of hemoglobin for oxygen while R indicates the\n   decreased affinity. ______\nd. Greater slope of line (v) – (vi) as compared to (i) – (ii) indicates that greater amount of\n   oxygen is released to tissues to compensate for hypoxic conditions. ______\ne. Shift of ODC to R is of greater advantage to large mammals while shifting to P would be\n   of greater adaptive values in small sized mammals. ______\n\n38. (4 points) In light, when any object is perceived by the eye, initially an inverted image is\n   formed on the retina. However, in the brain, the raw inverted data is processed into\n   coherent right side up image.\n\n                                                                                                   21\n\n   Visual pathways for four animals are depicted in the schematics A, B, C and D. Match the\n   correct type of image they will perceive as the final image. Choose from the options given\n   below and fill in the blanks.\n\n   a.                     Single image “ VISION”\n\n   b.                     Single image “SIVNOI”\n\n   c.                     Single image “IONVIS”\n\n   d.                     Double image “VISION VISION”\n\n   e.                     Double image “             “\n\n   f.                     Double image “VISION NOISIV”\n        Answer:\n        A: ______     B: ______     C: ______      D: ______\n\n   GENETICS & EVOLUTION (14.5 points)\n\n39. (2 points) In corn, three enzymes catalyze the same reaction. Corresponding genes (a+,\n   b+&c+) are located on three different chromosomes. The reaction is as follows:\n                                   a+or b+or c+\n        Colourless compound                         red compound\n                                                                                           22\n\n   The normal functioning of any one of these genes is sufficient to convert colourless\n   compound to the red compound. The mutant alleles of a+, b+ & c+ are a, b and c\n   respectively.\n      i. If red (a+/a, b+/b, c+/c) plants are selfed, what proportion of progeny will be\n               colourless? (Express your answer as a fraction.)\n       Answer: ___________________\n      ii. Another step involved in the pathway is as follows:\n\n   If red (a+/a, b+/b, c+/c, d+/d) plants are selfed, what proportion of F2 corn is colourless?\n    (Express your answer as a fraction.)\n   Answer: ___________________\n\n40. (2 points) Two linked genes„d‟ and „p‟ are 5cM apart in an autosome. Gene „h‟ is in a\n   different autosome. What will be the percentage (%) of different offspring produced when\n   individuals of the following genotypes are test crossed? (Only an entirely correct answer\n   will be given points.)\n\n41. (A) (2 points) A bacterial cell is lac- gal+ & contains F plasmid that is lac+. The plasmid has\n   temperature sensitive mutation in its replication system such that above 40ºC the\n   replication is blocked. A few statements are made about the growth of these organisms in\n   different conditions. State whether each of these statements is true (T) or false (F).\n\na. The cells will grow normally in media containing galactose as the sole source of carbon &\n   incubation temperature as 42ºC. ______\nb. The cells will grow normally only if media contains both galactose & lactose irrespective\n   of temperature. ______\nc. The cells will grow normally in media containing lactose as the sole source of carbon &\n   incubation temperature of 42ºC. ______\n                                                                                                 23\n\nd. If the cells are grown at 37ºC, lactose should be added to the medium and if the cells are\n   grown at 42ºC, galactose should be added to the medium. ______\n\n   (B) (2 points) When these bacteria were grown for many generations at 37ºC & then\n   plated at 42ºC, growth was observed. Among the observed colonies, very few could\n   utilize lactose as a source of carbon but unable to utilize galactose. Which of the following\n\n   can best explain these results? Put a tick mark (✔) in the appropriate box.\n\na. Proliferative multiplication of some plasmid molecules at 42ºC.\nb. Integration of plasmid into chromosomal DNA.\nc. Reversal of lac- mutation to yield lac+ gene triggered by higher temperature.\nd. Insertion of plasmid DNA within gal gene of bacterium.\n\n                       a.   b.      c.      d.\n\n42. (2 points) Batesian mimicry is a type of mimicry in which an edible animal is protected by\n   its resemblance to one avoided by the predators. It typically includes three elements:\n   I.   Predator,\n   II. Species which is dangerous or unpalatable to the predator- termed as “model” and\n   III. Palatable species termed as “mimic”.\n   A few statements about Batesian mimicry are given. Indicate whether each of them is true\n   (T) or false (F).\na. Batesian mimicry can be stably maintained only if the harm caused to the predator by\n   eating a model overweighs the benefit of eating a mimic. ______\nb. Batesian mimicry can be stably maintained if the mimics become more abundant than the\n   models. ______\nc. Young predator with first experience with mimic is likely to destabilize the evolution of\n   Batesian mimicry in a population. ______\nd. In Batesian mimicry, there is always a directional selection that causes model species to\n   evolve away from mimic. ______\n\n                                                                                               24\n\n43. (A) (2 points) Consider a patchy environment where the habitat patches differ in\n   ecological parameters. Two such habitats were found which differed in the size of seeds\n   available to consumers. Habitat 1 had trees that bore small sized seeds. Thus, small-\n   billed birds would have the highest food intake and the habitat was thus populated by\n   small-billed bird species. Habitat 2 had trees that bore large-sized seeds and was\n   populated by large-billed birds of the same species.\n   We assume that birds with medium-bill size perform worse over both habitats than either\n   small- or large-billed birds. Also there is no hindrance for birds to fly from one habitat to\n   another.\n\na. Stabilizing selection is operating within each habitat. ______\nb. Disruptive selection is operating for the entire bird population. ______\nc. Disruptive selection cannot occur as there is possible gene flow between the populations\n   of birds occupying both habitats. ______\nd. After several generations, speciation is most likely to result because selection will\n   constantly remove the intermediate phenotypes (medium-bill size). ______\n\n   (B) (2.5 points) Consider the situation described in Part (A). Only difference is that now\n   condition-dependent selection is operating. i.e. a female prefers to mate with a male bird\n   that has ornamented red plumage. It is also found that healthy, well fed birds only are\n   able to produce bright red plumage.\n\n                                                                                                   25\n\n   A few statements are made below. State whether each of these statements is true (T) or\n   false (F).\n\na. Bright ornamented plumage is an indirect measure of local adaptation. ______\nb. A female mating with a male with intermediate bill size will result in offspring with\n   intermediate fitness. ______\nc. The condition-dependent selection will strengthen the disruptive selection. ______\nd. The condition-dependent selection described above will prove more beneficial if the bird\n   species is philopatric (one that tends to stay in or habitually return to a particular area).\n   ______\ne. Condition-dependent selection described here is an example of pre-zygotic isolation.\n   ______\n\nETHOLOGY (7 points)\n\n44. (2.5 points) Some parasitoid flies respond to acoustic stimuli from crickets. Once the host\n   is located, these flies lay their larvae on these insects. The maggots burrow into the\n   bodies of crickets killing them. The graph depicts the tuning curves of parasitoid fly &\n   cricket. In the accompanying figure, “c” indicates frequency versus intensity spectrum of\n   cricket song.\n\na. The parasitoid species would exhibit the call of very similar frequency distribution as that\n   of cricket. ______\n\n                                                                                                   26\n\nb. The tympanic membrane & associated receptors that respond to frequencies lower than 4\n   & greater than 8 will be selected in the course of evolution. ______\nc. The frequency of best sensitivity lies in the range of 5-8KHz for a parasitoid fly. ______\nd. Mechanical filtering for narrow band hearing is more conspicuous in fly “X” than in fly “Y”.\n   ______\ne. “X” is likely to represent the response of a female predator and “Y” of a male prey insect.\n   ______.\n\n45. (2 points) Consider a predator and a prey of comparable mass. During the pursuit of a\n   prey by a predator, a sudden change in direction is a strategy used by the prey to shake\n   off the pursuer. Three possible patterns of pursuit A, B and C by the predator (dotted line)\n   in response to the prey movement (full line) are depicted below; the prey makes two turns\n   in each of the three instances.\n\n                                                                                                27\n\n       In pattern A, predator cuts the corner to reach the prey faster.\n       In pattern B, predator overshoots the corner.\n       In pattern C, predator takes the same path as the prey.\n\n   A single turn shown in figure A or B may not necessarily result in capture or escape but\n   several such may. Mark each statement as true (T) or false (F).\na. Greater the distance between the two, greater is the likelihood of predator following\n   pattern A. ______\nb. Lesser the distance between the two, lesser is the likelihood of predator following pattern\n   B. ______\nc. Greater the response time of the predator, more is the likelihood of predator following\n   pattern C. ______\nd. Pattern C is likely to evolve as a stable evolutionary strategy. ______\n\n46. (2.5 points) Norwegian scientists performed a cross–fostering experiment. They removed\n   just born great-tit chicks and placed them in the nests of blue-tits and vice versa. These\n   chicks were observed till their adulthood and their pair-making behavior was noted. The\n   graph shows pairing success of these cross-fostered birds along with non-fostered birds.\n\n                                                                                                28\n\n   a. The experimental results show imprinting behavior in the two bird species which is an\n       example of a learned behavior. ______\n   b. Since one species could successfully find mates in spite of being reared by different\n       species shows that courtship behavior is controlled only by genes and not affected by\n       the environment. ______\n   c. Since both the species show a very small percent of mates of species that was their\n       foster parents, shows that this behavior is genetically acquired. ______\n   d. The ability of the two species to consider the foster species as their own varied. This\n       indicates that this behavior is genetically influenced. ______\n   e. The percent pairing success for blue-tits shows that foster parenting has no effect on\n       the courtship behavior. ______\n\n   ECOLOGY (12 points)\n47. (2 points) Discontinuous growth is a characteristic of arthropods, which have exoskeleton.\n   It also leads to phenotypic variation. Several factors affect the growth of larvae and the\n   size at maturity can vary. In Daphnia, sizes at birth and maturity of 6th instar and 7th instar\n   larvae (6 larvae each) are plotted.\n\n   Situation 1: The observed offspring size of Daphnia population was in the range of 0.9 –\n   1.3 mm.\n   Situation 2: The observed offspring size of Daphnia population was in the range of 0.7 –\n   1.1 mm.\n\n                                                                                                29\n\n   Based on the information provided in the graph, state whether each of the following\n   statements is true (T) or false (F).\n\na. Size at maturity increases proportionately as the size at birth increases. ______\nb. 7th instar larvae give individuals with larger body size at maturity than 6th instar larvae.\n   ______\nc. In situation 1, if a new predator preferably eats Daphnia larger than approx. 3.3 mm size\n   over several generations, stabilizing selection will be underway on the daphnia size at\n   birth. ______\nd. In situation 2, if a new predator preferably eats Daphnia larger than approx. 3.3 mm size\n   over several generations, it will lead to disruptive selection on the size of daphnia at birth.\n   ______\n48. (2 points) Elk (a type of deer) and bison (large wild cattle) are herbivores that forage in\n   the same area. The figure below depicts changes in the populations of these two species\n   before and after the introduction of wolves (predator species) in their habitat.\n\n   Indicate whether each of the following statements regarding the fluctuations in prey\n   populations is true (T) or false (F).\na. The decrease in elk population is a result of predation by wolves as well as an increase in\n   bison population which (being a large size cattle) consumes a larger fraction of\n   vegetation. ______\nb. In the initial years of introduction of wolves, the high predation on elk by wolf reduced the\n   predation pressure on bison calves increasing the survival rate of young. ______\n                                                                                                  30\n\nc. There is a likelihood of competitive dietary overlap between the elk and bison population.\n   ______\nd. The fluctuations in the elk and bison populations indicate that wolves have exclusively fed\n   on elks. ______\n\n49. (2 points)The diagram depicts the spatial distribution of two plant species, Acacia tortillis\n   (a tree) and Euclea divinorum (a shrub) inhabiting the Savannah grasslands in Southern\n   Africa. Based on it, state whether each of the following statements is true (T) or false (F).\n\na. Acacia tortillis shows a uniform distribution. ______\nb. Euclea divinorum shows a clumped distribution. ______\nc. The clumps of Eculea divinorum show a uniform distribution. ______\nd. A. tortillis and E. divinorum form the dominant vegetation in the landscape. ______\n\n50. (3 points) At a study site in a desert, two major groups of graminivores - ants and rodents\n   were known to co-exist. Ants feed on small seeds while rodents mainly feed on large\n   seeds and only occasionally on small seeds. In one study, when ants were removed from\n   the habitat, density of rodents rose at a constant rate. While in a second study, instead of\n   ant, when the rodents were removed, it led to initial increase and then rapid decrease of\n   ant population. Mark the correct diagram that depicts the interaction between the four\n   species:\na. Ants\nb. Rodents\nc. Plants producing large seeds\nd. Plants producing small seeds\n\n                                                                                                31\n\n   Choose from the options and put a tick mark (✔) in the appropriate box.\n\n                  a.    b.    c.   d.\n\n51. (3 points) Synanthropic species lives near and benefit from the association with humans\n   and the habitats that humans create around them. Changes in bird community structure\n   and composition along a wilderness to urbanized landscape gradient are provided below.\n\n                                                                                          32\n\n     Based on the information provided in the graph, state whether each of the following\n     statements is true (T) or false (F).\n\na. The graph indicates a increased predation pressure on native bird species in urban\n     ecosystem. _____\nb. The increase in total bird abundance is indicative of greater food availability in urban\n     ecosystem as compared to wildland. _____\nc. Habitat fragmentation, forest destruction has resulted in reduced number of species in\n     urban region. _____\nd. Bird species that cannot exist in unpredictable or resource poor environments are likely to\n     flourish in urban ecosystem. _____\ne. Dominance of adopted species over resource patches in urban ecosystem can\n     outcompete less fit native species evenness in urban ecosystem.______\nf.   Urbanization creates a novel ecosystem which attracts and stabilizes a large number of\n     bird species from nearby ecosystems._____\n\nBIOSYSTEMATICS (5 points)\n\n52. (2 points) For organisms, whose genomes are completely sequenced, the variation\n     between the genomes can be measured from the temperature at which single-stranded\n     DNA molecules anneal to form a double helix.\n\n                                                                                              33\n\n   P represents a melting curve when both DNA strands were taken from a mocking bird.\n   Q represents a melting curve when one DNA strand was from a mocking bird and another\n   from starling.\n   I to IV represent melting curves obtained when DNA strands of different bird species\n   shown in the cladogram were paired.\n\n   State whether the following statements are true (T) or false (F).\n\na. Curve I is likely to represent DNA duplex formed by one strand from a mocking bird and\n   another from a thrasher. ______\nb. Common starlings, mynahs and catbirds form a monophyletic clade where the most\n   recent common ancestor evolved around 20 mya. ______\nc. Curves II and III are likely to represent hybrids between DNA of mocking bird with family\n   Sylvoidea and family Passeroidea respectively. ______\nd. The greater the curve to the left of P, greater is the complementarity between the\n   sequences. ______\n\n                                                                                           34\n\n53. (3 points) Each animal taxon has certain unique features. Match the following classes\n   of animals with their unique features.\n\n                     Taxa                                        Features\n   i. Arachnida                                    a. Torsion and detorsion\n   ii. Turbellaria                                 b. Intracellular as well as\n                                                        extracellular digestion\n   iii. Crustacea                                  c. Four pairs of walking legs\n   iv. Gastropoda                                  d. Flame cells for excretion\n   v. Coelenterata                                 e. Presence of antennae,\n                                                        anntenules, and pleopods\n   vi Ophiuroidea                                  f.   Direct respiration\n                                                   g. Metameric segmentation\n                                                   h. Presence of ambulacral areas\n\n   Choose the appropriate feature for each taxon and fill in the blanks with the\n   corresponding alphabet.\n\n      i.    ______\n     ii.    ______\n     iii.   ______\n     iv.    ______\n     v.     ______\n     vi.    ______\n\n                     ********* END OF SECTION B ***********\n\n                                                                                       35",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 13.5,
+     "question": "(1 point) In a lung cancer cell line, it is observed that a single point mutation (cysteine to phenylalanine) makes a protein defective in phosphorylation function. The loss of function is most likely due to:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.2",
+     "points": 13.5,
+     "question": "(1 point) Which of the following proteins are likely to be active during mitosis? i. Telomerase ii. Primase iii. Topoisomerase iv. Kinesin",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.3",
+     "points": 13.5,
+     "question": "(1 point) A tuberculosis patient died within a few minutes of second intravenous administration of streptomycin and the post-mortem report gave anaphylactic shock as the cause of death. This is explained as:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.4",
+     "points": 13.5,
+     "question": "(1 point) Apoptosis is programmed cell death characterized by the formation of apoptotic bodies whereas necrosis is characterized by bursting of cells. Which of the following condition/s lead/s to necrosis? i. Gaps and nicks formed in DNA during replication cannot be repaired. ii. Developing neurons fail to make synapses with neighbouring cells. iii. Heart muscle cells damaged by oxygen depletion followed by cardiac infarction.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.5",
+     "points": 13.5,
+     "question": "(1 point) Diagrams A – D show the external or internal structures of leaves from different groups of plants. A B C D Match these diagrams with the plants described by statements I - IV. I. The sexual reproductive structures are formed on an independent non-dominant plant body. 2 II. Plants in this group have leaves with a haploid number of chromosomes. III. Plants in this group are seed-bearing and amongst the earliest evolved extant trees. IV. The mega gametophytes develop within enclosed ovules.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.6",
+     "points": 13.5,
+     "question": "(1 point) A few statements regarding the sexual and asexual modes of reproduction in plants are given. 1. In sexual reproduction, progeny are genetically different from each other. 2. In asexual mode of reproduction, progeny are genetically identical to each other but different from the parent. 3. Sexual reproduction is more conducive for driving evolution. 4. A minor change in the habitat may adversely affect all offspring derived by asexual reproduction. 5. A bisexual plant grown in isolation is always incapable of sexual reproduction. Which of these statements are correct?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.7",
+     "points": 13.5,
+     "question": "(1 point) Which one of the following plant traits is NOT associated with colonization on land from aquatic habitat?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.8",
+     "points": 13.5,
+     "question": "(1 point) Fluid filtration across capillaries depends on several factors. Which of the following causes net filtration at the arterial end and net reabsorption at the venous end?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.9",
+     "points": 13.5,
+     "question": "(1 point) Concentrations of cations & anions present in intracellular & extracellular fluids of human body are depicted in the graph. P, Q, R and S respectively are:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.10",
+     "points": 13.5,
+     "question": "(1 point) Typically a skeletal muscle has origin in one bone and insertion in the other across a joint. Consider the insertion of X and Y. Which one of the following statements is correct?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.11",
+     "points": 13.5,
+     "question": "(1 point) The following pattern of venous blood drainage is typical of:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.12",
+     "points": 13.5,
+     "question": "(1 point) Which of the following statements about blood capillaries is/are true? i. These are found in the peripheral region of organs and body. ii. The rate of flow of blood in capillaries is the least. iii. Their total cross section area is intermediate between those of veins and arteries. iv. They have only a thin layer of involuntary muscles in the wall.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.13",
+     "points": 13.5,
+     "question": "(1 point) Following are microscopic sections of quadriceps muscles from two athletes. The cells are stained to show the activity of myosin ATPase. Mark the most appropriate description from the following.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.14",
+     "points": 13.5,
+     "question": "(1 point) Two statements regarding evolution are made below. I. Rates of evolution are typically very slow because natural selection is usually ____P___ selection. 6 II. The plant population growing on high-zinc-soil is able to grow at concentrations which are otherwise lethal to plants of the same species. This is ____Q____ selection. P and Q refer to:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.15",
+     "points": 13.5,
+     "question": "(1 point) Pedigree analysis helps determine the pattern of inheritance of a trait among related individuals. One such pedigree is given. Squares indicate males and circles females. Filled symbols indicate presence of trait while circles with a dot indicate carriers. The inheritance pattern shown in the given pedigree is:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.16",
+     "points": 13.5,
+     "question": "(1 point) A female with normal genotype (XX, 44) showed the presence of testis determining factor gene (TDF gene) on the X chromosome. This is most likely a result of :",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.17",
+     "points": 13.5,
+     "question": "(1 point) Two alleles are found in Calico cats for coat color and are located on the X chromosome. One allele is responsible for black color while the other for orange color. Which of the following is correct about the phenotype of Calico cats?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.18",
+     "points": 13.5,
+     "question": "(1 point) Consider the following pedigree. Assume that one of the grandparents has the genotype A1/A2 and the other A3/A4. The probability that the individual R will be homozygous for any of the given alleles is:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.19",
+     "points": 13.5,
+     "question": "(1 point) Which of the following properties of plasmids are central to the evolution of bacteria? i. Plasmids are genetically dispensable for host cells in the absence of a selection pressure. ii. Some plasmids have the ability to get transferred horizontally from one cell to another. iii. Some plasmids permit interaction between bacterial cells of different species. iv. Plasmids are naked DNA molecules incapable of survival outside a living cell.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.20",
+     "points": 13.5,
+     "question": "(1 point) After initial labeling of plants in an old field community, accumulation of radioactive phosphorus in different trophic levels was monitored over the next 25 days. The results are shown in the graph. P,Q, R & S respectively most likely represent:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.21",
+     "points": 13.5,
+     "question": "(1 point) Comparison of related sequences from different species can give clues to evolutionary relationships among proteins. A phylogenetic tree representing relationship between tubulin sequences is depicted below. 9 Filled circles indicate common ancestors. Mark the correct statement about the likely evolutionary mechanism.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.22",
+     "points": 13.5,
+     "question": "(2 points) The famous experiment by Avery, MacLeod and McCarty showed that neither heat killed S-type nor live R-type pneumococci could kill mice (experiment 1) but simultaneous injection of both killed the mice just as efficiently as the live S-type (experiment 2). S-type pneumococci are known to possess a capsule structure outermost to the cell wall. Structurally, capsule is a linear homopolymer of sialic acid residues. Apart from the capsule, there are other virulence factors present in these bacteria such as adhesion proteins that recognize a wide range of molecular motifs and provide targeting of the bacteria to specific tissue surfaces in the host.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.23",
+     "points": 13.5,
+     "question": "(2 points) A disease known as Angelman syndrome is known to occur in approximately 1 in every 20000 people. Here the defect lies in the gene UBE3A, involved in ubiquitin pathway, located on chromosome 15.The disease is characterized by developmental disabilities, seizures and motor dysfunction. Following are depicted genotypes of 4 11 individuals. Each rectangle represents chromosome 15. Unfilled rectangle is maternally inherited chromosome while filled one is paternally inherited. Cross in person 3 indicates a mutation while a gap in person 2 indicates deletion.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.24",
+     "points": 13.5,
+     "question": "(2.5 points) In order to study the properties of membrane proteins, they are required to be isolated and purified. In one such experiment, two methods were followed to isolate membrane proteins from erythrocytes. I. Varying the pH of the buffer in which the membrane fractions were isolated. The supernatant collected and analysed. Protein „X‟ was found. II. Addition of detergents to the membrane preparation. Soluble fractions analysed. Protein „Y‟ was found. When proteins X and Y were studied for their structural properties, it was found that polar amino acids predominated (property 1) on the surface of one of them while the non-polar on the other (property 2). 12 Which of the following can be deduced from this? Put tick marks (✔) in the appropriate boxes.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.25",
+     "points": 13.5,
+     "question": "(2.5 points) Muscle contraction is a result of cross-bridging between actin and myosin filaments. Uncoupling of the two can occur only when fresh ATP molecule binds to crossbridged myosin molecule. Stiffening of muscles known as „rigor mortis‟ occurs approx 2-6 hrs after death (phase I). It persists for about 48 hrs (phase II) after which the muscles return to „relaxed‟ (flexible) state (phase III).",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.26",
+     "points": 13.5,
+     "question": "(1.5 points) Arrangement of gene sequences in representative 50kb segments of two organisms is shown. Genes above the line are transcribed left to right & below the line to the left.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.27",
+     "points": 13.5,
+     "question": "(2.5 points) One of the classical ways to study the function of any unknown “gene” is to mutate it & study the effect on the cell functioning. It has been successful for prokaryotes. In one such study in eukaryotes, in order to determine the function of a mouse gene „X‟, a r plasmid was constructed which contained the gene „X‟. Then the gene neo („promoter less‟ gene that assigns neomycin resistance to the cells) was introduced within the gene „X‟. Mouse stem cells transfected with this plasmid were cultured in vitro in a neomycin containing medium and only a few cells survived. Note that stem cells are sensitive to neomycin. r",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.28",
+     "points": 13.5,
+     "question": "(2 points) In an experiment, a researcher incubated plant tissue with a bacterial strain for different time durations followed by heat treatment to specifically kill the bacteria. The plant material was analyzed ten days after each experiment for appearance of disease symptoms. Results of this study, which was done in three replicates and with appropriate controls, are tabulated below. Which of the following statement/s is/are likely explanation/s of the above observations? (i) The bacterium is incapable of causing infection in the absence of heat treatment. (ii) Continuous contact with live bacteria is not essential to cause disease symptoms. (iii) The bacterium undergoes spontaneous mutations to become heat-resistant. (iv) Contact duration of 72 hours with live bacteria is essential to cause disease symptoms.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.29",
+     "points": 13.5,
+     "question": "(2 points) Water potential in plant tissues is affected by three factors, namely dissolved solutes, matric forces acting on water ( such as intermolecular attractions and binding of water to surfaces) and hydrostatic pressure exerted by cell walls. Thus total water potential (ΨT) in plants is expressed as: ΨT = Ψs + Ψm + Ψp where T = total, s = solute, p = pressure and m = matric potential. A few statements about the water potential or these factors are given. State whether each of them is true (T) or false (F).",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.30",
+     "points": 13.5,
+     "question": "(2 points) Three closely related species of genus Clusia are found in moist forests, dry deciduous forests and dry rocky coast of Trinidad island. In order to study their physiological response, they were raised under identical conditions in growth chambers. For one of these species, measurements were made under well-watered conditions (0 day) and after 5 days and 10 days without further irrigation. The results are shown: Graph with hollow circles is response of young leaves while solid line indicates mature leaves of the same plant. 16",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.31",
+     "points": 13.5,
+     "question": "(2 points) Light absorbing pigments found in different groups of photosynthetic organisms not only help trap light energy but also have a protective role. The diagram shown below shows the absorption spectra of a few major pigments. Based on it answer the following. 17 Choose the appropriate pigment and fill in the blanks with the alphabet (A-E) of the corresponding curve.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.32",
+     "points": 13.5,
+     "question": "(2 points) During blood circulation, the amount of blood reaching every organ will depend on several factors such as total weight of the organ, the type of metabolic function it performs etc. When body is at rest, the percentage of total blood flowing to different organs will vary. State whether each of the following statements is true (T) or false (F).",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.33",
+     "points": 13.5,
+     "question": "(4 points) Epilepsy is characterized by short, recurrent contractions of skeletal muscles. Epileptic seizures are initiated by abnormal synchronous electrical discharges from millions of neurons in the brain, sending nerve impulses over their conduction pathways. State whether each of the following compounds can act as effective Anti Epileptic Drugs (AED) and the underlying mechanism for each (✔) or (X) by choosing from the options. Compounds: A. Na+ channel blockers B. GABA (chloride conductance facilitator) enhancer C. Glutamate (Na+ & Ca+ conductance facilitators) activators D. Progesterone (GABA receptor – positive allosteric modulator) Possible mechanisms: i. Hyperpolarization of membrane 18",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.34",
+     "points": 13.5,
+     "question": "(2 points) Following are the functional aspects of stimulation of autonomous nervous system. Mark P for parasympathetic and S for sympathetic response against them. Parasympathetic (P) or Sympathetic (S) i. Increase peristalsis in gastro intestinal tract ii. Constriction of bronchi in lungs iii. Dilation of pupil iv. Inhibition of contraction of urinary bladder",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.35",
+     "points": 13.5,
+     "question": "(3 points) Elaborate pathway of human blood clotting is shown. A pathway very similar to that indicated by the box X is found in lobster. 19",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.36",
+     "points": 13.5,
+     "question": "(2 points) The total food given to a Chinese hamster under experimental conditions was equivalent to 270 kcal/animal/day. As per the “material-balance calculations”, 37% of the total consumption is lost as feces. How many calories are assimilated per day in 20 conditions of hypothermia that accounts for a further 67% decrement in diet consumption? (Write your answer upto one decimal place.) Answer: ________________ kcal",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.37",
+     "points": 13.5,
+     "question": "(2.5 points) One of the most important mechanisms for reduced arterial pressure at high altitude involves shifting the shapes and position of oxygen dissociation curve (ODC). Q in the figure indicates normal sea level ODC of hemoglobin.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.38",
+     "points": 14.5,
+     "question": "(4 points) In light, when any object is perceived by the eye, initially an inverted image is formed on the retina. However, in the brain, the raw inverted data is processed into coherent right side up image. 21 Visual pathways for four animals are depicted in the schematics A, B, C and D. Match the correct type of image they will perceive as the final image. Choose from the options given below and fill in the blanks. a. Single image “ VISION” b. Single image “SIVNOI” c. Single image “IONVIS” d. Double image “VISION VISION” e. Double image “ “ f. Double image “VISION NOISIV” Answer: A: ______ B: ______ C: ______ D: ______ GENETICS & EVOLUTION",
+     "reference": "",
+     "useTaskSolution": true
+    },
+    {
+     "id": "1.39",
+     "points": 13.5,
+     "question": "(2 points) In corn, three enzymes catalyze the same reaction. Corresponding genes (a+, b+&c+) are located on three different chromosomes. The reaction is as follows: a+or b+or c+ Colourless compound red compound 22 The normal functioning of any one of these genes is sufficient to convert colourless compound to the red compound. The mutant alleles of a+, b+ & c+ are a, b and c respectively. i. If red (a+/a, b+/b, c+/c) plants are selfed, what proportion of progeny will be colourless? (Express your answer as a fraction.) Answer: ___________________ ii. Another step involved in the pathway is as follows: If red (a+/a, b+/b, c+/c, d+/d) plants are selfed, what proportion of F2 corn is colourless? (Express your answer as a fraction.) Answer: ___________________",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.40",
+     "points": 13.5,
+     "question": "(2 points) Two linked genes„d‟ and „p‟ are 5cM apart in an autosome. Gene „h‟ is in a different autosome. What will be the percentage (%) of different offspring produced when individuals of the following genotypes are test crossed? (Only an entirely correct answer will be given points.)",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.41",
+     "points": 13.5,
+     "question": "(A) (2 points) A bacterial cell is lacgal+ & contains F plasmid that is lac+. The plasmid has temperature sensitive mutation in its replication system such that above 40ºC the replication is blocked. A few statements are made about the growth of these organisms in different conditions. State whether each of these statements is true (T) or false (F).",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.42",
+     "points": 13.5,
+     "question": "(2 points) Batesian mimicry is a type of mimicry in which an edible animal is protected by its resemblance to one avoided by the predators. It typically includes three elements: I. Predator, II. Species which is dangerous or unpalatable to the predatortermed as “model” and III. Palatable species termed as “mimic”. A few statements about Batesian mimicry are given. Indicate whether each of them is true (T) or false (F).",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.43",
+     "points": 13.5,
+     "question": "(A) (2 points) Consider a patchy environment where the habitat patches differ in ecological parameters. Two such habitats were found which differed in the size of seeds available to consumers. Habitat 1 had trees that bore small sized seeds. Thus, smallbilled birds would have the highest food intake and the habitat was thus populated by small-billed bird species. Habitat 2 had trees that bore large-sized seeds and was populated by large-billed birds of the same species. We assume that birds with medium-bill size perform worse over both habitats than either smallor large-billed birds. Also there is no hindrance for birds to fly from one habitat to another.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.44",
+     "points": 13.5,
+     "question": "(2.5 points) Some parasitoid flies respond to acoustic stimuli from crickets. Once the host is located, these flies lay their larvae on these insects. The maggots burrow into the bodies of crickets killing them. The graph depicts the tuning curves of parasitoid fly & cricket. In the accompanying figure, “c” indicates frequency versus intensity spectrum of cricket song.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.45",
+     "points": 13.5,
+     "question": "(2 points) Consider a predator and a prey of comparable mass. During the pursuit of a prey by a predator, a sudden change in direction is a strategy used by the prey to shake off the pursuer. Three possible patterns of pursuit A, B and C by the predator (dotted line) in response to the prey movement (full line) are depicted below; the prey makes two turns in each of the three instances. 27 In pattern A, predator cuts the corner to reach the prey faster. In pattern B, predator overshoots the corner. In pattern C, predator takes the same path as the prey. A single turn shown in figure A or B may not necessarily result in capture or escape but several such may. Mark each statement as true (T) or false (F).",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.46",
+     "points": 12,
+     "question": "(2.5 points) Norwegian scientists performed a cross–fostering experiment. They removed just born great-tit chicks and placed them in the nests of blue-tits and vice versa. These chicks were observed till their adulthood and their pair-making behavior was noted. The graph shows pairing success of these cross-fostered birds along with non-fostered birds. 28 a. The experimental results show imprinting behavior in the two bird species which is an example of a learned behavior. ______ b. Since one species could successfully find mates in spite of being reared by different species shows that courtship behavior is controlled only by genes and not affected by the environment. ______ c. Since both the species show a very small percent of mates of species that was their foster parents, shows that this behavior is genetically acquired. ______ d. The ability of the two species to consider the foster species as their own varied. This indicates that this behavior is genetically influenced. ______ e. The percent pairing success for blue-tits shows that foster parenting has no effect on the courtship behavior. ______ ECOLOGY",
+     "reference": "",
+     "useTaskSolution": true
+    },
+    {
+     "id": "1.47",
+     "points": 13.5,
+     "question": "(2 points) Discontinuous growth is a characteristic of arthropods, which have exoskeleton. It also leads to phenotypic variation. Several factors affect the growth of larvae and the size at maturity can vary. In Daphnia, sizes at birth and maturity of 6th instar and 7th instar larvae (6 larvae each) are plotted. Situation 1: The observed offspring size of Daphnia population was in the range of 0.9 – 1.3 mm. Situation 2: The observed offspring size of Daphnia population was in the range of 0.7 – 1.1 mm. 29 Based on the information provided in the graph, state whether each of the following statements is true (T) or false (F).",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.48",
+     "points": 13.5,
+     "question": "(2 points) Elk (a type of deer) and bison (large wild cattle) are herbivores that forage in the same area. The figure below depicts changes in the populations of these two species before and after the introduction of wolves (predator species) in their habitat. Indicate whether each of the following statements regarding the fluctuations in prey populations is true (T) or false (F).",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.49",
+     "points": 13.5,
+     "question": "(2 points)The diagram depicts the spatial distribution of two plant species, Acacia tortillis (a tree) and Euclea divinorum (a shrub) inhabiting the Savannah grasslands in Southern Africa. Based on it, state whether each of the following statements is true (T) or false (F).",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.50",
+     "points": 13.5,
+     "question": "(3 points) At a study site in a desert, two major groups of graminivores - ants and rodents were known to co-exist. Ants feed on small seeds while rodents mainly feed on large seeds and only occasionally on small seeds. In one study, when ants were removed from the habitat, density of rodents rose at a constant rate. While in a second study, instead of ant, when the rodents were removed, it led to initial increase and then rapid decrease of ant population. Mark the correct diagram that depicts the interaction between the four species:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.51",
+     "points": 13.5,
+     "question": "(3 points) Synanthropic species lives near and benefit from the association with humans and the habitats that humans create around them. Changes in bird community structure and composition along a wilderness to urbanized landscape gradient are provided below. 32 Based on the information provided in the graph, state whether each of the following statements is true (T) or false (F).",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.52",
+     "points": 13.5,
+     "question": "(2 points) For organisms, whose genomes are completely sequenced, the variation between the genomes can be measured from the temperature at which single-stranded DNA molecules anneal to form a double helix. 33 P represents a melting curve when both DNA strands were taken from a mocking bird. Q represents a melting curve when one DNA strand was from a mocking bird and another from starling. I to IV represent melting curves obtained when DNA strands of different bird species shown in the cladogram were paired. State whether the following statements are true (T) or false (F).",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.53",
+     "points": 13.5,
+     "question": "(3 points) Each animal taxon has certain unique features. Match the following classes of animals with their unique features. Taxa Features i. Arachnida a. Torsion and detorsion ii. Turbellaria b. Intracellular as well as extracellular digestion iii. Crustacea c. Four pairs of walking legs iv. Gastropoda d. Flame cells for excretion v. Coelenterata e. Presence of antennae, anntenules, and pleopods vi Ophiuroidea f. Direct respiration g. Metameric segmentation h. Presence of ambulacral areas Choose the appropriate feature for each taxon and fill in the blanks with the corresponding alphabet. i. ______ ii. ______ iii. ______ iv. ______ v. ______ vi. ______ ********* END OF SECTION B *********** 35",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    }
+   ],
+   "solution": "SECTION A: ANSWER KEY\n\n            Q.                             Q.\n            No.    a     b      c     d    No.    a     b     c     d\n             1.          ✔                 12.                ✔\n\n             2.          ✔                 13.                ✔\n\n             3.                ✔           14.          ✔\n\n             4.                      ✔     15.                      ✔\n\n             5.    ✔                       16.               ✔*     ✔\n\n             6.    ✔                       17.          ✔\n\n             7.          ✔                 18.          ✔\n\n             8.                ✔           19.          ✔\n\n             9.          ✔                 20.          ✔\n\n            10.                      ✔     21.                ✔\n\n            11.          ✔\n\n*For Question number 16, students marking either option ‘c’ or ‘d’ have been given points.\n\n                                              1\n\n                           SECTION B: ANSWER KEY\n     CELL BIOLOGY (13 points)\n\n22. (2 points)\n\n23. (2 points)\na.   __F____\n\nb.   ___T___\n\nc. __T____\n\n24. (2.5 points)\n                   Statement True False\n                      a.     ✔\n\n                      b.     ✔\n\n                      c.          ✔\n\n                      d.          ✔\n\n                      e.          ✔\n\n                                          2\n\n25. (2.5 points)\n\na. __T___\n\ne. __T____\n\n26. (1.5 points)\na. __F____\n\nc. ____F__\n\n27. (2.5 points)\n\nb. ____T__\n\nc. ____F__\n\ne. ___T___\n\nPLANT SCIENCES (8 points)\n\n28. (2 points)\n                   ✔\n\n                                       3\n\n   29. (2 points)\n\n   a. __F____\n\n   30. (2 points)\n\n   d.   ___F___\n\n   31. (2 points)\n I.     _____D____ is a phycobilin pigment which gives cyanobacteria its characteristic blue-\n\n        green colour.\n\n II.    ____C___ is the major pigment found in eukaryotic plants growing in deep marine waters.\n\nIII.    ___A____ and ____E_____ are the dominant photosynthetic pigments found in\n\n        Pteridophytes.\n\n   ANIMAL SCIENCES (19.5 points)\n\n   32. (2 points)\n\n                                                 4\n\n33. (4 points)\n\n                Compound                     As AED effective (✔)/ not    Mechanism/s\n\n                                             effective (X)\n                A                            ✔                            iii, vi, vii\n\n                B                            ✔                            i, v, vii\n\n                C                            X                            ii, iv\n                D                            ✔                            i, v, vii\n\n34. (2 points)\n                                                             Parasympathetic (P) or Sympathetic (S)\n          i.        Increase peristalsis in Gastro           P\n                    intestinal tract\n\n          ii.       Constriction of bronchi in lungs         P\n         iii.       Dilation of pupil                        S\n         iv.        Inhibition of contraction of urinary     S\n                    bladder\n\n35. (3 points)\n\nb.   __F____\n\ne. ___T___\n\nf.   ___T___\n\n                                                       5\n\n36. (2 points)\n\n   Answer: ________56.1________ kcal\n\n37. (2.5 points)\n\nb. __T____\n\ne. __F____\n\n38. (4 points)\nAnswer:\n\nA: __a____ B: ___c___ C: ___d___ D: __e____\n\n   GENETICS & EVOLUTION (14.5 points)\n\n39. (2 points)\n\n      i. Answer: ________1/64___________\n\n      ii. Answer: ________67/256___________\n\n40. (2 points)\n\n   a.47.5% DPh, 47.5% dph, 2.5% Dph, 2.5% dPh\n\n   b.23.75% of each dPH, dPh, DpH, Dph\n\n       1.25% each of DPH, DPh, dpH, dph\n\n                                          6\n\n41. (A) (2 points)\n\nc. . __F____\n\n   (B) (2 points)\n                                    ✔\n\n42. (2 points)\n\ne. ____-___\n\n43. (A) (2 points)\n\n                                         7\n\n   (B) (2.5 points)\n\ne. ____T__\n\nETHOLOGY (7 points)\n\n44. (2.5 points)\n\ne. ___T___.\n\n45. (2 points)\n\n46. (2.5 points)\n\n                                 8\n\ne. ___F___\n\n   ECOLOGY (12 points)\n\n47. (2 points)\n\nc. __T____\n\n48. (2 points)\n\nb. __F____\n\n49. (2 points)\n\nb. __T____\n\n50. (3 points)\n\n                                ✔\n\n                                     9\n\n51. (3 points)\n\na. ___F__\n\nb. __T___\n\nc. __T___\n\nd. __T___\n\ne. __T___\n\nf.   __F___\n\nBIOSYSTEMATICS (5 points)\n\n52. (2 points)\n\nb. __F____\n\n53. (3 points)\n\n i. ___c___\n\nii. ___d___\n\niii. ____e__\n\niv. ___ a ___\n\nv. ___b___\n\nvi. ___h___\n\n                  ********* END OF SECTION B ***********\n\n                                   10"
+  }
+ ]
+}

@@ -1,0 +1,2000 @@
+{
+ "setId": "bio-utoronto-2019--bio-tasks",
+ "olympiadId": "bio-utoronto-2019",
+ "title": "Биология → U of Toronto → 2019",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/utoronto/2019/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/utoronto/2019/bio-sol.pdf",
+ "generatedBy": "test-parser",
+ "type": "test",
+ "generatedAt": "2026-11-09T13:44:34.026Z",
+ "quality": {
+  "tasks": 5,
+  "parts": 50,
+  "withPoints": 50,
+  "withReference": 50,
+  "withQuestion": 50,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Тест: вопросы 1–10",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q1",
+     "kind": "choice",
+     "points": 1,
+     "question": "1. A segment of sense/coding DNA has a sequence 5'-TAC TGC CTA AGT-3'. Which anticodon sequence would bind to this DNA segment? [note: response D was modified May 2019]",
+     "options": [
+      {
+       "key": "A",
+       "text": "3'- GAU -5'"
+      },
+      {
+       "key": "B",
+       "text": "5'- UGA -3'"
+      },
+      {
+       "key": "C",
+       "text": "3'- TAG -5'"
+      },
+      {
+       "key": "D",
+       "text": "5'- GAU -3'"
+      },
+      {
+       "key": "E",
+       "text": "3'- GAT -5'"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": true,
+     "answer": "AD",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: AD"
+    },
+    {
+     "id": "q2",
+     "kind": "choice",
+     "points": 1,
+     "question": "2. Which scenario best describes a competitive species interaction?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Two species of insect-eating birds forage in the same tree: warbler species A gleans insects from leaves at the top of the tree, and warbler species B gathers insects from bark at the base of the tree."
+      },
+      {
+       "key": "B",
+       "text": "Woodpeckers excavate nesting cavities in trees, which are often taken over by nesting European Starlings."
+      },
+      {
+       "key": "C",
+       "text": "A lion kills a water buffalo after a long hunt, but it is injured in the process, reducing its ability to hunt again in the future."
+      },
+      {
+       "key": "D",
+       "text": "Dunlins (shorebird species) spend less time foraging when Peregrine Falcons (predator species) are nearby."
+      },
+      {
+       "key": "E",
+       "text": "When sea otter populations declined due to hunting, populations of sea urchins exploded, leading to widespread destruction of kelp (a large seaweed)."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-animal-anatomy",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q3",
+     "kind": "choice",
+     "points": 1,
+     "question": "3. A farmer is having a problem getting her tomato seeds to germinate. Which strategy has the best chance to help the seeds germinate?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Increase the intensity of blue light"
+      },
+      {
+       "key": "B",
+       "text": "Apply auxin"
+      },
+      {
+       "key": "C",
+       "text": "Increase carbon dioxide concentrations"
+      },
+      {
+       "key": "D",
+       "text": "Dehydrate the seeds"
+      },
+      {
+       "key": "E",
+       "text": "Apply gibberellins"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q4",
+     "kind": "choice",
+     "points": 1,
+     "question": "4. In this diagram, compartments A and B (both of which contain distilled water) are separated by a semipermeable membrane (permeable only to sodium ions). Which statement BEST describes what will happen next when a solution of 100 mM sodium chloride (NaCl) is added to compartment A (as shown in the diagram)?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Sodium ions will diffuse across the semipermeable membrane, down their electrical gradient, into compartment B."
+      },
+      {
+       "key": "B",
+       "text": "Sodium ions will diffuse across the semipermeable membrane into compartment B due to osmosis."
+      },
+      {
+       "key": "C",
+       "text": "Sodium ions will diffuse across the semipermeable membrane, down their concentration gradient, into compartment B."
+      },
+      {
+       "key": "D",
+       "text": "Sodium ions will diffuse across the semipermeable membrane, against their concentration gradient, into compartment B."
+      },
+      {
+       "key": "E",
+       "text": "Sodium ions will remain in compartment A."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q5",
+     "kind": "choice",
+     "points": 1,
+     "question": "5. The drug Atorvastatin is used to treat cardiovascular disease by decreasing blood cholesterol levels. Recent studies have shown that patients taking Atorvastatin have approximately one-third the amount of blood cholesterol levels compared to a control group of patients not taking the drug. Based on these data, which of the following is the most likely way that Atorvastatin works?",
+     "options": [
+      {
+       "key": "A",
+       "text": "It inhibits a membrane protein that is a cholesterol active transporter."
+      },
+      {
+       "key": "B",
+       "text": "It activates cholesterol membrane protein transporters in adipose cells."
+      },
+      {
+       "key": "C",
+       "text": "It inhibits an enzyme involved in cholesterol synthesis."
+      },
+      {
+       "key": "D",
+       "text": "It inhibits the synthesis of complex carbohydrates (e.g., glycogen)."
+      },
+      {
+       "key": "E",
+       "text": "It activates an enzyme in the citric acid (Krebs) cycle. © 2019 University of Toronto U of T National Biology Competition / 3"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q6",
+     "kind": "choice",
+     "points": 1,
+     "question": "6. The condensation reaction that occurs when a peptide bond forms is most similar to which reaction?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Catabolism of a fatty acid"
+      },
+      {
+       "key": "B",
+       "text": "Elongation of a fatty acid"
+      },
+      {
+       "key": "C",
+       "text": "Elongation of a sequence of DNA"
+      },
+      {
+       "key": "D",
+       "text": "Catabolism of a sequence of DNA"
+      },
+      {
+       "key": "E",
+       "text": "Enzymatic cleavage of a glucose-fructose bond"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q7",
+     "kind": "choice",
+     "points": 1,
+     "question": "7. A common form of sickle cell anemia is caused by a mutation that results in hemoglobin proteins that aggregate together but have the same size and shape of normal hemoglobin. What kind of mutation is the most likely cause of this form of sickle cell anemia?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Insertion mutation"
+      },
+      {
+       "key": "B",
+       "text": "Deletion mutation"
+      },
+      {
+       "key": "C",
+       "text": "Nonsense mutation"
+      },
+      {
+       "key": "D",
+       "text": "Missense mutation"
+      },
+      {
+       "key": "E",
+       "text": "Frameshift mutation"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q8",
+     "kind": "choice",
+     "points": 1,
+     "question": "8. Which of the following correctly labels the regions of the seedling shown here? 1 2 3",
+     "options": [
+      {
+       "key": "A",
+       "text": "Cotyledon Hypocotyl Meristem"
+      },
+      {
+       "key": "B",
+       "text": "Cotyledon Meristem Hypocotyl"
+      },
+      {
+       "key": "C",
+       "text": "Hypocotyl Cotyledon Meristem"
+      },
+      {
+       "key": "D",
+       "text": "Meristem Hypocotyl Cotyledon"
+      },
+      {
+       "key": "E",
+       "text": "Meristem Cotyledon Hypocotyl"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q9",
+     "kind": "choice",
+     "points": 1,
+     "question": "9. Researchers are investigating a recessive mutation in fruit flies that causes hairy bodies, rather than smooth bodies. A hairy male is bred with a smooth female. Which result would indicate that the mutation is a sex-linked disorder? [note: this question was deleted from the 2019 exam; not graded]",
+     "options": [
+      {
+       "key": "A",
+       "text": "All females are hairy, and no males are hairy."
+      },
+      {
+       "key": "B",
+       "text": "All males are hairy, and no females are hairy."
+      },
+      {
+       "key": "C",
+       "text": "Half the males are hairy, and no females are hairy."
+      },
+      {
+       "key": "D",
+       "text": "Half the females are hairy, and no males are hairy."
+      },
+      {
+       "key": "E",
+       "text": "None of the offspring are hairy."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q10",
+     "kind": "choice",
+     "points": 1,
+     "question": "10. Which statement best describes the relationship among chloroplasts, mitochondria, and energy?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Chloroplasts produce energy, while mitochondria consume energy."
+      },
+      {
+       "key": "B",
+       "text": "Chloroplasts consume energy, while mitochondria produce energy."
+      },
+      {
+       "key": "C",
+       "text": "Chloroplasts convert energy from one form into another, while mitochondria convert energy between different kinds of molecules."
+      },
+      {
+       "key": "D",
+       "text": "Chloroplasts and mitochondria both consume energy."
+      },
+      {
+       "key": "E",
+       "text": "Chloroplasts and mitochondria both convert energy from one form into another, as well as between different kinds of molecules."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: C"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Тест: вопросы 11–20",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q11",
+     "kind": "choice",
+     "points": 1,
+     "question": "11. Which statement about cells is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Prokaryotic cells reproduce through meiosis."
+      },
+      {
+       "key": "B",
+       "text": "Not all eukaryotic cells have a cell wall."
+      },
+      {
+       "key": "C",
+       "text": "Prokaryotic and eukaryotic cells have a nucleus."
+      },
+      {
+       "key": "D",
+       "text": "Unlike plant cells, animal cells lack lysosomes."
+      },
+      {
+       "key": "E",
+       "text": "Prokaryotic cells have linear chromosomes. © 2019 University of Toronto U of T National Biology Competition / 4"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-cell-cycle",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q12",
+     "kind": "choice",
+     "points": 1,
+     "question": "12. Which words correctly complete the following sentence? A(n) ______ is a type of white blood cell involved in the ______ with a special immune function of ______.",
+     "options": [
+      {
+       "key": "A",
+       "text": "neutrophil; innate immune response; phagocytosis"
+      },
+      {
+       "key": "B",
+       "text": "megakaryocyte; adaptive immune response; phagocytosis"
+      },
+      {
+       "key": "C",
+       "text": "B lymphocyte; innate immune response; cytokine production"
+      },
+      {
+       "key": "D",
+       "text": "cytotoxic T-lymphocyte; adaptive immune response; antibody production"
+      },
+      {
+       "key": "E",
+       "text": "eosinophil; adaptive immune response; histamine production"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-immunology",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q13",
+     "kind": "choice",
+     "points": 1,
+     "question": "13. Aspartame is an example of a dipeptide sweetener that is lower in calories than carbohydrate-based sweeteners such as sucrose. Given that taste perception begins when a chemical binds to a specific receptor on the tongue, which functional group does aspartame most likely share with sucrose?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Phosphate"
+      },
+      {
+       "key": "B",
+       "text": "Methyl"
+      },
+      {
+       "key": "C",
+       "text": "Amino"
+      },
+      {
+       "key": "D",
+       "text": "Hydroxyl"
+      },
+      {
+       "key": "E",
+       "text": "Benzyl"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q14",
+     "kind": "choice",
+     "points": 1,
+     "question": "14. Shown below are simplified versions of the ribose in an RNA nucleotide. In which image are the 5' and 3' carbons correctly labelled? [note: text edited May 2019] a. b. c. d. e.",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q15",
+     "kind": "choice",
+     "points": 1,
+     "question": "15. Which statement about cell membrane proteins is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Peripheral proteins are tightly attached to both sides of the phospholipid bilayer."
+      },
+      {
+       "key": "B",
+       "text": "Integral proteins integrate and insert glycoproteins into the phospholipid bilayer."
+      },
+      {
+       "key": "C",
+       "text": "Membrane-spanning proteins interact only with the hydrophilic side of the phospholipid bilayer."
+      },
+      {
+       "key": "D",
+       "text": "Anchoring proteins hold peripheral proteins to the surface of the phospholipid bilayer."
+      },
+      {
+       "key": "E",
+       "text": "Glycoproteins are only found on the outer surface, and not on the cytoplasmic side, of the phospholipid bilayer."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q16",
+     "kind": "choice",
+     "points": 1,
+     "question": "16. Which statement best describes the anatomy and function of the mammalian heart?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Pulmonary arteries carry oxygenated blood."
+      },
+      {
+       "key": "B",
+       "text": "Coronary vessels that supply blood to the heart are branched off from the aorta."
+      },
+      {
+       "key": "C",
+       "text": "The sinoatrial (SA) node is located on the left atrium."
+      },
+      {
+       "key": "D",
+       "text": "Atrioventricular (AV) valves close to prevent blood from flowing back into the ventricles during heart contraction."
+      },
+      {
+       "key": "E",
+       "text": "The left AV valve has three cusps (tricuspid) and the right AV valve has two cusps (bicuspid)."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q17",
+     "kind": "choice",
+     "points": 1,
+     "question": "17. Which statement about the elements of blood is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Megakaryocytes are precursor cells of mast cells and are found in bone marrow."
+      },
+      {
+       "key": "B",
+       "text": "Lymphoid progenitors are common."
+      },
+      {
+       "key": "C",
+       "text": "Mature red blood cells have no nucleus."
+      },
+      {
+       "key": "D",
+       "text": "Eosinophils release histamine which promotes blood flow to tissues."
+      },
+      {
+       "key": "E",
+       "text": "Lymphocytes are granulated. © 2019 University of Toronto U of T National Biology Competition / 5"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-immunology",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q18",
+     "kind": "choice",
+     "points": 1,
+     "question": "18. You have a laboratory population of short-lived insects, with a lifespan of 9 days, and your goal is to create two sub-populations that are genetically distinct from one another. However, you must accomplish this by means of genetic drift (and NOT selection). Which approach would be the most effective?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Isolate two small sub-populations in similar environments."
+      },
+      {
+       "key": "B",
+       "text": "Isolate two large sub-populations in similar environments."
+      },
+      {
+       "key": "C",
+       "text": "Isolate two large sub-populations in dissimilar environments."
+      },
+      {
+       "key": "D",
+       "text": "Maintain a single population but introduce two very different types of food."
+      },
+      {
+       "key": "E",
+       "text": "Maintain a single population but severely reduce the population size."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-animal-anatomy",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q19",
+     "kind": "choice",
+     "points": 1,
+     "question": "19. Under which scenario is speciation most likely to occur in the shortest period of time?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Two populations of long-lived tortoises are isolated on separate islands; environmental conditions are different between the two islands."
+      },
+      {
+       "key": "B",
+       "text": "Two populations of long-lived tortoises are isolated on separate islands; environmental conditions are similar between the two islands."
+      },
+      {
+       "key": "C",
+       "text": "Two populations of short-lived insects are isolated on separate islands; environmental conditions are different between the two islands."
+      },
+      {
+       "key": "D",
+       "text": "Two populations of short-lived insects are isolated on separate islands; environmental conditions are similar between the two islands."
+      },
+      {
+       "key": "E",
+       "text": "A population of short-lived insects inhabits one island, and a population of long-lived tortoises inhabits a separate island; environmental conditions are similar between the two islands."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-animal-anatomy",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q20",
+     "kind": "choice",
+     "points": 1,
+     "question": "20. The table below contains data from an experimental trial where each enzyme variant had only one amino acid changed from its wild-type amino acid to a glycine residue. The wild-type enzyme catalyzes the reaction: H2O + CO2 à H2CO3 Once H2CO3 is produced, it spontaneously decomposes in this reaction: H2CO3 à H+ + HCO3Which amino acid is most likely to be involved in the catalytic site of the enzyme?",
+     "options": [
+      {
+       "key": "A",
+       "text": "glycine #1"
+      },
+      {
+       "key": "B",
+       "text": "arginine #17"
+      },
+      {
+       "key": "C",
+       "text": "valine #59"
+      },
+      {
+       "key": "D",
+       "text": "serine #183"
+      },
+      {
+       "key": "E",
+       "text": "proline #203"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Тест: вопросы 21–30",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q21",
+     "kind": "choice",
+     "points": 1,
+     "question": "21. Which statement about xylem vessels is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "They transport sugars throughout the whole plant."
+      },
+      {
+       "key": "B",
+       "text": "They can form new xylem vessels via mitosis."
+      },
+      {
+       "key": "C",
+       "text": "Their thick cell walls allow them to withstand the high positive pressures required for water transport."
+      },
+      {
+       "key": "D",
+       "text": "They are living at maturity."
+      },
+      {
+       "key": "E",
+       "text": "They have lignified cell walls."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-cell-cycle",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q22",
+     "kind": "choice",
+     "points": 1,
+     "question": "22. Huntington’s disease is a genetic disorder that results in the death of brain cells with symptoms usually appearing between 30 and 50 years of age. On average, a child of an affected person has a 50% chance of inheriting the disease. What kind of allele does Huntington’s disease appear to be caused by?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Autosomal recessive"
+      },
+      {
+       "key": "B",
+       "text": "Autosomal dominant"
+      },
+      {
+       "key": "C",
+       "text": "X-linked dominant"
+      },
+      {
+       "key": "D",
+       "text": "X-linked recessive"
+      },
+      {
+       "key": "E",
+       "text": "It cannot be determined with the given information. © 2019 University of Toronto U of T National Biology Competition / 6"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q23",
+     "kind": "choice",
+     "points": 1,
+     "question": "23. This graph shows the growth of a population of fish in a pond over time. You make your livelihood selling fish that you catch from this pond, and you are free to harvest as many fish as you like at a time. How many fish should you leave in the pond each time in order to maximize the reproductive rate of the fish?",
+     "options": [
+      {
+       "key": "A",
+       "text": "2"
+      },
+      {
+       "key": "B",
+       "text": "100"
+      },
+      {
+       "key": "C",
+       "text": "500"
+      },
+      {
+       "key": "D",
+       "text": "999"
+      },
+      {
+       "key": "E",
+       "text": "1000"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-development",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q24",
+     "kind": "choice",
+     "points": 1,
+     "question": "24. A cell can regulate its mitotic cycle by using ‘checkpoints’ and only undergoes mitosis once it deems its energy stores are sufficient to divide. From an energetic perspective, what would serve as an effective checkpoint reporter molecule that identifies ideal conditions for a mitotic event?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A regulatory molecule that recognizes ADP and has all of its sites occupied."
+      },
+      {
+       "key": "B",
+       "text": "A molecule that binds to DNA aberrations (e.g., an inversion)."
+      },
+      {
+       "key": "C",
+       "text": "A regulatory molecule that recognizes ATP and has all of its sites occupied."
+      },
+      {
+       "key": "D",
+       "text": "A molecule that binds to centromeres."
+      },
+      {
+       "key": "E",
+       "text": "A molecule that binds to NAD+ and has all of its sites occupied."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q25",
+     "kind": "choice",
+     "points": 1,
+     "question": "25. Cellular respiration depends on enzymes to facilitate glucose metabolism on a scale that can fulfill a cell’s energetic needs. How do enzymes accomplish this?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Enzymes provide enough input energy to begin the process of cellular respiration."
+      },
+      {
+       "key": "B",
+       "text": "Enzymes allow the process to progress much faster because they are easily consumed in place of normal substrates."
+      },
+      {
+       "key": "C",
+       "text": "Enzymes act as cofactors in the initial steps of cellular respiration, and are therefore not consumed in the reaction but rather make it occur faster."
+      },
+      {
+       "key": "D",
+       "text": "Enzymes lower the activation energy of each chemical reaction, making the net process faster than without an enzyme."
+      },
+      {
+       "key": "E",
+       "text": "Enzymes raise the activation energy of each chemical reaction, making the net process faster than without an enzyme."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q26",
+     "kind": "choice",
+     "points": 1,
+     "question": "26. Which of the following is most likely to result in a clumped species distribution?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Oyster larvae are carried by ocean currents and can drift and disperse across large distances."
+      },
+      {
+       "key": "B",
+       "text": "Anna’s Hummingbirds are highly territorial and aggressively defend sources of nectar from other members of their species."
+      },
+      {
+       "key": "C",
+       "text": "Seedlings sprout wherever the fruit from a tree ends up; many fruits remain near the parent tree, while other fruits are carried away by animals."
+      },
+      {
+       "key": "D",
+       "text": "Black Oystercatchers (birds) are territorial and found only along the rocky intertidal shores of the North American Pacific coast."
+      },
+      {
+       "key": "E",
+       "text": "Caribou (Reindeer) travel in large herds for protection."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q27",
+     "kind": "choice",
+     "points": 1,
+     "question": "27. Considerable discussion about the ethics of gene therapy in humans concerns which kinds of cells have their DNA altered. Which of the following cell types is the most ethically problematic to change using gene therapy?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Stem cells"
+      },
+      {
+       "key": "B",
+       "text": "Heart cells"
+      },
+      {
+       "key": "C",
+       "text": "Somatic cells"
+      },
+      {
+       "key": "D",
+       "text": "Brain cells"
+      },
+      {
+       "key": "E",
+       "text": "Germ cells © 2019 University of Toronto U of T National Biology Competition / 7"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q28",
+     "kind": "choice",
+     "points": 1,
+     "question": "28. In a population of fruit flies, the allele for red eyes is dominant over white eyes and the allele for ebony bodies is dominant over yellow bodies. What would be the best way to determine the genotype of a fly that has red eyes and an ebony body?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Perform a test cross with a fly that has red eyes and an ebony body."
+      },
+      {
+       "key": "B",
+       "text": "Perform a test cross with a fly that has red eyes and a yellow body."
+      },
+      {
+       "key": "C",
+       "text": "Perform a test cross with a fly that has white eyes and an ebony body."
+      },
+      {
+       "key": "D",
+       "text": "Perform a test cross with a fly that has white eyes and a yellow body."
+      },
+      {
+       "key": "E",
+       "text": "The genotype cannot be determined with a test cross."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q29",
+     "kind": "choice",
+     "points": 1,
+     "question": "29. The sequence of a short DNA segment was identified using Sanger sequencing, followed by gel electrophoresis. In gel electrophoresis, the DNA is sorted by size from the top to bottom of the gel with smaller fragments at the bottom. In this figure, the black bars indicate bands of DNA amplified in the sequencing, and the different nucleotides are given across the top. Based on this sequencing gel, what is the sequence of the DNA that was synthesized?",
+     "options": [
+      {
+       "key": "A",
+       "text": "5' AACGTTA 3'"
+      },
+      {
+       "key": "B",
+       "text": "5' TTGCAAT 3'"
+      },
+      {
+       "key": "C",
+       "text": "5' TAACGTT 3'"
+      },
+      {
+       "key": "D",
+       "text": "5' ATTGCTT 3'"
+      },
+      {
+       "key": "E",
+       "text": "5' AAACTTG 3'"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q30",
+     "kind": "choice",
+     "points": 1,
+     "question": "30. During which phase of the cell cycle would DNA polymerase III be most active?",
+     "options": [
+      {
+       "key": "A",
+       "text": "G0 phase"
+      },
+      {
+       "key": "B",
+       "text": "G1 phase"
+      },
+      {
+       "key": "C",
+       "text": "G2 phase"
+      },
+      {
+       "key": "D",
+       "text": "S phase"
+      },
+      {
+       "key": "E",
+       "text": "Mitosis"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Тест: вопросы 31–40",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q31",
+     "kind": "choice",
+     "points": 1,
+     "question": "31. What do fish and flowering plants have in common?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Both are autotrophic."
+      },
+      {
+       "key": "B",
+       "text": "Both are prokaryotic."
+      },
+      {
+       "key": "C",
+       "text": "Both have cell walls."
+      },
+      {
+       "key": "D",
+       "text": "Both have a lateral line system."
+      },
+      {
+       "key": "E",
+       "text": "Both carry out respiration."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q32",
+     "kind": "choice",
+     "points": 1,
+     "question": "32. When the sympathetic division of the human nervous system is stimulated, what is the most likely outcome?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Stimulation of stomach activity, and inhibition of glucose release."
+      },
+      {
+       "key": "B",
+       "text": "Constriction of airways, and inhibition of glucose release."
+      },
+      {
+       "key": "C",
+       "text": "Stimulation of stomach activity, and stimulation of glucose release."
+      },
+      {
+       "key": "D",
+       "text": "Inhibition of stomach activity, and constriction of airways."
+      },
+      {
+       "key": "E",
+       "text": "Inhibition of stomach activity, and stimulation of glucose release."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q33",
+     "kind": "choice",
+     "points": 1,
+     "question": "33. Dish soap can remove crude oil from animals that have been accidentally exposed in nature (e.g., after an oil spill). Which statement correctly represents how soap chemically removes oil and other hydrophobic compounds from an animal’s exterior?",
+     "options": [
+      {
+       "key": "A",
+       "text": "As an amphipathic protein, soap can emulsify oils, causing them to become water soluble."
+      },
+      {
+       "key": "B",
+       "text": "As an amphipathic protein, soap can break down oil particles until they become water soluble."
+      },
+      {
+       "key": "C",
+       "text": "Soap molecules have two components: a hydrophobic end that interacts with the oil and a hydrophilic end that interacts with the water, causing the oil to become water soluble."
+      },
+      {
+       "key": "D",
+       "text": "Soap molecules have two components: a hydrophobic end that interacts with the water and a hydrophilic end that interacts with the oil, causing the oil to become water soluble."
+      },
+      {
+       "key": "E",
+       "text": "Soap enzymatically breaks down oil molecules until they become water soluble. © 2019 University of Toronto U of T National Biology Competition / 8"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q34",
+     "kind": "choice",
+     "points": 1,
+     "question": "34. Which function is most likely to continue if the brain had a damaged anterior pituitary?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Thickening of the uterine lining during the menstrual cycle."
+      },
+      {
+       "key": "B",
+       "text": "Increased reabsorption of water by the kidney."
+      },
+      {
+       "key": "C",
+       "text": "Decreased metabolic rate and heart rate."
+      },
+      {
+       "key": "D",
+       "text": "Initiation of milk production in a pregnant female."
+      },
+      {
+       "key": "E",
+       "text": "Initiation of short-term and long-term responses to stress."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q35",
+     "kind": "choice",
+     "points": 1,
+     "question": "35. Which statement describes a unique and defining characteristic of all mammals?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Mammals give live birth instead of laying eggs."
+      },
+      {
+       "key": "B",
+       "text": "Mammals have five digits on each of their front and back limbs."
+      },
+      {
+       "key": "C",
+       "text": "Mammals have hair consisting of living epidermal cells that are strengthened with keratin."
+      },
+      {
+       "key": "D",
+       "text": "Mammals are endothermic."
+      },
+      {
+       "key": "E",
+       "text": "Mammals have three bones in the middle ear."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-animal-anatomy",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q36",
+     "kind": "choice",
+     "points": 1,
+     "question": "36. This graph shows the change in distribution of mass (in grams) for a population of frogs over 10 generations (dashed line shows the original generation F1; solid line shows the descendent generation F10). Which conclusion from these data is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The average mass of frogs has increased."
+      },
+      {
+       "key": "B",
+       "text": "Variation in mass has increased."
+      },
+      {
+       "key": "C",
+       "text": "The population is declining."
+      },
+      {
+       "key": "D",
+       "text": "Larger frogs have higher fitness."
+      },
+      {
+       "key": "E",
+       "text": "Mass is not heritable."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q37",
+     "kind": "choice",
+     "points": 1,
+     "question": "37. The summer of 2018 was characterized by particularly severe wildfires across western North America. (A “wildfire” is any fire that is burning in a natural environment.) Which statement about wildfires is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Droughts and climate change can increase the duration of wildfires."
+      },
+      {
+       "key": "B",
+       "text": "Almost all wildfires are harmful to the natural environment."
+      },
+      {
+       "key": "C",
+       "text": "Relatively few wildfires are started by humans."
+      },
+      {
+       "key": "D",
+       "text": "Wildfires are beneficial to ecosystems in the short term but are harmful in the long term."
+      },
+      {
+       "key": "E",
+       "text": "Relatively few of the affected plant species have adaptations for coping with fires."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q38",
+     "kind": "choice",
+     "points": 1,
+     "question": "38. The double helix of DNA was discovered based on the work of Rosalind Franklin, James Watson, and Francis Crick. With respect to the 3-D model of DNA, which bond is responsible for connecting the nucleotides that will eventually code for an mRNA molecule?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Hydrogen"
+      },
+      {
+       "key": "B",
+       "text": "Covalent"
+      },
+      {
+       "key": "C",
+       "text": "Ionic"
+      },
+      {
+       "key": "D",
+       "text": "Peptide"
+      },
+      {
+       "key": "E",
+       "text": "Phosphodiester"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q39",
+     "kind": "choice",
+     "points": 1,
+     "question": "39. Which heritable trait would be most adaptive for a population of non-migratory birds in an environment with unreliable and highly fluctuating abundances of nuts, seeds, fruit, and insects?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Good eyesight that allows the birds to quickly find fruit."
+      },
+      {
+       "key": "B",
+       "text": "A highly specialized digestive system that is very efficient at drawing energy from seeds."
+      },
+      {
+       "key": "C",
+       "text": "A large, strong bill that can easily crack open nuts and hard beetle exoskeletons."
+      },
+      {
+       "key": "D",
+       "text": "An omnivorous diet and a good spatial memory to remember reliable sources of food."
+      },
+      {
+       "key": "E",
+       "text": "Sensitive hearing that can detect insects underneath soil and leaf litter. © 2019 University of Toronto U of T National Biology Competition / 9"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q40",
+     "kind": "choice",
+     "points": 1,
+     "question": "40. Shown here is a diagram of DNA replication where some of the proteins involved are indicated by black shapes. Which of the following correctly matches the indicated proteins with their labelled position in the diagram? DNA DNA Topoisomerase ligase polymerase III",
+     "options": [
+      {
+       "key": "A",
+       "text": "Protein A Protein D Protein C"
+      },
+      {
+       "key": "B",
+       "text": "Protein B Protein E Protein C"
+      },
+      {
+       "key": "C",
+       "text": "Protein A Protein E Protein D"
+      },
+      {
+       "key": "D",
+       "text": "Protein B Protein D Protein E"
+      },
+      {
+       "key": "E",
+       "text": "Protein A Protein B Protein D"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Тест: вопросы 41–50",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q41",
+     "kind": "choice",
+     "points": 1,
+     "question": "41. In order to maintain homeostasis, cells in the human body have to pump certain types of ions against their concentration gradients. Which mechanism is most likely used by these cells to transport ions against their concentration gradient?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Active transport"
+      },
+      {
+       "key": "B",
+       "text": "Diffusion"
+      },
+      {
+       "key": "C",
+       "text": "Facilitated diffusion"
+      },
+      {
+       "key": "D",
+       "text": "Passive transport"
+      },
+      {
+       "key": "E",
+       "text": "Osmosis"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q42",
+     "kind": "choice",
+     "points": 1,
+     "question": "42. CRISPR-Cas9 is a gene editing technology that has revolutionized biology research. Which of the following is a unique advantage of CRISPR-Cas9 compared to previous gene editing technologies?",
+     "options": [
+      {
+       "key": "A",
+       "text": "It always alters every cell in an individual."
+      },
+      {
+       "key": "B",
+       "text": "It does not require the insertion of foreign DNA into the genome."
+      },
+      {
+       "key": "C",
+       "text": "It can only be used to insert new DNA."
+      },
+      {
+       "key": "D",
+       "text": "It only uses DNA sequences from humans."
+      },
+      {
+       "key": "E",
+       "text": "You can always detect when it has been applied to an individual."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q43",
+     "kind": "choice",
+     "points": 1,
+     "question": "43. Which statement correctly lists the order of blood vessels from HIGH to LOW velocity blood flow?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Aorta (high) > Arteries > Venules > Capillaries (low)"
+      },
+      {
+       "key": "B",
+       "text": "Aorta (high) > Arterioles > Arteries > Capillaries (low)"
+      },
+      {
+       "key": "C",
+       "text": "Capillaries (high) > Venules > Veins > Vena cava (low)"
+      },
+      {
+       "key": "D",
+       "text": "Veins (high) > Venules > Vena cava > Capillaries (low)"
+      },
+      {
+       "key": "E",
+       "text": "Arteries (high) > Capillaries > Venules > Vena Cava (low)"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q44",
+     "kind": "choice",
+     "points": 1,
+     "question": "44. This survivorship curve shows the percentage of individuals within a population that survive from 1 to 18 years of age. Which species does the population most likely belong to?",
+     "options": [
+      {
+       "key": "A",
+       "text": "E. coli bacteria"
+      },
+      {
+       "key": "B",
+       "text": "Redwood (a tree)"
+      },
+      {
+       "key": "C",
+       "text": "Bluefin tuna"
+      },
+      {
+       "key": "D",
+       "text": "Ruby-Throated Hummingbird"
+      },
+      {
+       "key": "E",
+       "text": "Elk (a mammal)"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q45",
+     "kind": "choice",
+     "points": 1,
+     "question": "45. Where in the human heart is oxygenated blood found?",
+     "options": [
+      {
+       "key": "A",
+       "text": "In both ventricles"
+      },
+      {
+       "key": "B",
+       "text": "In the left atrium and right ventricle"
+      },
+      {
+       "key": "C",
+       "text": "In the left atrium and left ventricle"
+      },
+      {
+       "key": "D",
+       "text": "In the right atrium and right ventricle"
+      },
+      {
+       "key": "E",
+       "text": "In the right atrium and left ventricle © 2019 University of Toronto U of T National Biology Competition / 10"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q46",
+     "kind": "choice",
+     "points": 1,
+     "question": "46. Which molecule is regenerated in order to create ATP during anaerobic respiration?",
+     "options": [
+      {
+       "key": "A",
+       "text": "NADH"
+      },
+      {
+       "key": "B",
+       "text": "NAD+"
+      },
+      {
+       "key": "C",
+       "text": "Lactic acid"
+      },
+      {
+       "key": "D",
+       "text": "ADP"
+      },
+      {
+       "key": "E",
+       "text": "Pyruvic acid"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q47",
+     "kind": "choice",
+     "points": 1,
+     "question": "47. Which statement about biological communities is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A community is the same as an ecosystem."
+      },
+      {
+       "key": "B",
+       "text": "A community includes both biotic and abiotic factors."
+      },
+      {
+       "key": "C",
+       "text": "A community refers to a population of highly social animals."
+      },
+      {
+       "key": "D",
+       "text": "The human gut microbiome could be considered a community."
+      },
+      {
+       "key": "E",
+       "text": "Most community interactions are competitive."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q48",
+     "kind": "choice",
+     "points": 1,
+     "question": "48. Which of the following helped inspire Charles Darwin and Alfred Russel Wallace’s theory of evolution by natural selection?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Aristotle believed that life arose continuously from nonliving matter; e.g. flies arise from rotting meat."
+      },
+      {
+       "key": "B",
+       "text": "Louis Pasteur showed that life arises from other life, and not from non-living matter."
+      },
+      {
+       "key": "C",
+       "text": "Gregor Mendel described patterns of inheritance of traits from one generation of peas to the next."
+      },
+      {
+       "key": "D",
+       "text": "Stanley Miller showed that organic molecules could be spontaneously created under conditions that were thought to be similar to that of the early Earth."
+      },
+      {
+       "key": "E",
+       "text": "Thomas Malthus predicted that human population growth would outpace the production of resources, resulting in famine and starvation."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q49",
+     "kind": "choice",
+     "points": 1,
+     "question": "49. This image represents a cell from an organism where 2n = 6. What stage of mitosis or meiosis is represented by the image?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Metaphase II of meiosis"
+      },
+      {
+       "key": "B",
+       "text": "Metaphase I of meiosis"
+      },
+      {
+       "key": "C",
+       "text": "Metaphase of mitosis"
+      },
+      {
+       "key": "D",
+       "text": "Either metaphase II of meiosis or metaphase of mitosis"
+      },
+      {
+       "key": "E",
+       "text": "Either metaphase I of meiosis or metaphase of mitosis"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-cell-cycle",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q50",
+     "kind": "choice",
+     "points": 1,
+     "question": "50. Which of the following cell types have thin cell walls and can be found in the ground tissues of plants?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Mesophyll cell"
+      },
+      {
+       "key": "B",
+       "text": "Fibre cell"
+      },
+      {
+       "key": "C",
+       "text": "Sieve element"
+      },
+      {
+       "key": "D",
+       "text": "Root hair"
+      },
+      {
+       "key": "E",
+       "text": "Guard cell End of exam. • Thank you for participating in the 2019 competition. • Results – including scholarship information, certificates, and cash prizes – will be received by your school in late May. • Honour rolls of the top students and schools, as well as exam questions with answers, will be posted on the competition’s website in late May: biocomp.utoronto.ca © 2019 University of Toronto"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: A"
+    }
+   ]
+  }
+ ]
+}

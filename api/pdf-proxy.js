@@ -16,10 +16,12 @@ let knownUrls = null;
 function getKnownUrl(pageUrl, title) {
   if (knownUrls === null) {
     knownUrls = {};
-    try {
-      const file = path.join(__dirname, "..", "data", "chemistry-sources.json");
-      if (fs.existsSync(file)) knownUrls = JSON.parse(fs.readFileSync(file, "utf8")).urls || {};
-    } catch {}
+    for (const subject of ["chemistry", "biology"]) {
+      try {
+        const file = path.join(__dirname, "..", "data", `${subject}-sources.json`);
+        if (fs.existsSync(file)) Object.assign(knownUrls, JSON.parse(fs.readFileSync(file, "utf8")).urls || {});
+      } catch {}
+    }
   }
   const url = knownUrls[pageUrl] && knownUrls[pageUrl][title];
   return url && isSafeCdnUrl(url) ? url : null;

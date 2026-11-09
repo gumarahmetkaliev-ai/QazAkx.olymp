@@ -1,0 +1,37 @@
+{
+ "setId": "bio-utoronto-2002--bio-tasks",
+ "olympiadId": "bio-utoronto-2002",
+ "title": "Биология → U of Toronto → 2002",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/utoronto/2002/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/utoronto/2002/bio-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T13:45:16.349Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 1,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "University of Toronto",
+   "weight": null,
+   "total": 10,
+   "statement": "National Biology Competition\n        2002 Examination\n                Answer Key\n\n1. e    2. c      3. c    4. b    5. a\n6. b    7. e      8. d    9. e    10. e\n11. a   12. d     13. b   14. e   15. b\n16. b   17. a     18. d   19. d   20. e\n21. d   22. a     23. c   24. d   25. d\n26. a   27. b     28. d   29. b   30. e\n31. c   32. b     33. e   34. a   35. e\n36. c   37. c     38. b   39. c   40. d\n41. a   42. c     43. a   44. a   45. b\n46. e   47. d     48. a   49. e   50. c",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 10,
+     "question": "e 2. c 3. c 4. b 5. a",
+     "reference": "1.   The major function of the large intestine (colon) is:\n     a.   digestive breakdown of food.\n     b.   nutrient absorption of food.\n     c.   housing parasitic bacteria.\n     d.   secretion of bile and enzymes.\n     e.   reabsorption of water.",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

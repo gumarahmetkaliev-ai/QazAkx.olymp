@@ -1,0 +1,2020 @@
+{
+ "setId": "bio-utoronto-2012--bio-tasks",
+ "olympiadId": "bio-utoronto-2012",
+ "title": "Биология → U of Toronto → 2012",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/utoronto/2012/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/utoronto/2012/bio-sol.pdf",
+ "generatedBy": "test-parser",
+ "type": "test",
+ "generatedAt": "2026-11-09T13:44:59.713Z",
+ "quality": {
+  "tasks": 5,
+  "parts": 50,
+  "withPoints": 50,
+  "withReference": 50,
+  "withQuestion": 50,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Тест: вопросы 1–10",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q1",
+     "kind": "choice",
+     "points": 1,
+     "question": "1. Which tissue types are produced by the vascular cambium in plants?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Epidermis and stomata cells"
+      },
+      {
+       "key": "B",
+       "text": "Xylem and parenchyma"
+      },
+      {
+       "key": "C",
+       "text": "Xylem and phloem"
+      },
+      {
+       "key": "D",
+       "text": "Parenchyma and phloem"
+      },
+      {
+       "key": "E",
+       "text": "Epidermis and parenchyma"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q2",
+     "kind": "choice",
+     "points": 1,
+     "question": "2. Which of the following factors most strongly determines an atom’s potential to interact with other atoms?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The number of valence electrons in the atom."
+      },
+      {
+       "key": "B",
+       "text": "The number of energy levels in the atom."
+      },
+      {
+       "key": "C",
+       "text": "The degree of external stimuli."
+      },
+      {
+       "key": "D",
+       "text": "The atom’s atomic mass."
+      },
+      {
+       "key": "E",
+       "text": "The atom’s atomic number."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q3",
+     "kind": "choice",
+     "points": 1,
+     "question": "3. The figure, at right, is a hypothesis of the evolutionary relationships of a genus of frogs with eight species (A to H) found on three continents. Which statement is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Species B and C evolved from species A."
+      },
+      {
+       "key": "B",
+       "text": "The genus most likely originated in Asia."
+      },
+      {
+       "key": "C",
+       "text": "Species A is the youngest taxon."
+      },
+      {
+       "key": "D",
+       "text": "Species A is more closely related to Species B and C than to Species D, E, F, G, and H."
+      },
+      {
+       "key": "E",
+       "text": "Species D, E, F, G, and H share a most recent common ancestor."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q4",
+     "kind": "choice",
+     "points": 1,
+     "question": "4. You accidentally cut yourself with a knife. You start to bleed and after some time the bleeding has not stopped. What is the most likely explanation for this?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Your blood plasma contains a low concentration of globulins."
+      },
+      {
+       "key": "B",
+       "text": "Your blood has a deficiency in red blood cells."
+      },
+      {
+       "key": "C",
+       "text": "Your blood pH is lower than normal."
+      },
+      {
+       "key": "D",
+       "text": "Your blood contains more agranulocytes than granulocytes."
+      },
+      {
+       "key": "E",
+       "text": "Your blood has a low concentration of fibrinogen."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q5",
+     "kind": "choice",
+     "points": 1,
+     "question": "5. An ecologist measured the dynamics of a population of Blue Jays in a southern Ontario woodlot for several years. During her research she observed that as population size increased, the number of eggs laid by each female decreased. Based on this observation, which statement is most likely to be CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Survivorship is density-independent."
+      },
+      {
+       "key": "B",
+       "text": "Fecundity is density-dependent."
+      },
+      {
+       "key": "C",
+       "text": "The population has an opportunistic life history."
+      },
+      {
+       "key": "D",
+       "text": "The population is not governed by a carrying capacity."
+      },
+      {
+       "key": "E",
+       "text": "The population size is determined by weather, and not competition. © 2012 University of Toronto U of T National Biology Competition / 3"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-ecology",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q6",
+     "kind": "choice",
+     "points": 1,
+     "question": "6. A plant is able to photosynthesize normally but has difficulty transporting the products of photosynthesis to other parts of the plant. What is the most likely explanation?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The parenchyma cells are undifferentiated."
+      },
+      {
+       "key": "B",
+       "text": "Collenchyma cells have not reached functional maturity."
+      },
+      {
+       "key": "C",
+       "text": "Interference of translocation in sieve-tube elements."
+      },
+      {
+       "key": "D",
+       "text": "Negative pressure due to transpiration."
+      },
+      {
+       "key": "E",
+       "text": "Flaccid guard cells leading to closed stomata."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q7",
+     "kind": "choice",
+     "points": 1,
+     "question": "7. Which statement about cellular respiration is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Glycolysis takes place inside the mitochondria."
+      },
+      {
+       "key": "B",
+       "text": "Glucose is reduced to pyruvate."
+      },
+      {
+       "key": "C",
+       "text": "NAD+ is an electron donor."
+      },
+      {
+       "key": "D",
+       "text": "Water is the final electron acceptor in the electron transport chain."
+      },
+      {
+       "key": "E",
+       "text": "Most of the ATP produced is from oxidative phosphorylation."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q8",
+     "kind": "choice",
+     "points": 1,
+     "question": "8. Oxidation of RuBP triggers photorespiration, which consumes energy and releases CO2. What process exists in CAM plants (which often grow in hot and dry climates) that prevents the oxidation of RuBP?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The fixation of CO2 in the Calvin cycle."
+      },
+      {
+       "key": "B",
+       "text": "Anaerobic cellular respiration."
+      },
+      {
+       "key": "C",
+       "text": "The production of a four-carbon intermediate by PEP carboxylase."
+      },
+      {
+       "key": "D",
+       "text": "The sequestering of CO2 into cells where the Calvin cycle does not take place."
+      },
+      {
+       "key": "E",
+       "text": "Pumping of hydrogen ions across the thylakoid membrane."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q9",
+     "kind": "choice",
+     "points": 1,
+     "question": "9. Cystic fibrosis is an autosomal recessive disease that interferes with the transport of ions between cells and the extracellular matrix. The disease is usually lethal and most sufferers die at a young age. A child is diagnosed with the disease, but his parents are completely healthy. Which statement is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "One parent is homozygous for the cystic fibrosis regulator gene."
+      },
+      {
+       "key": "B",
+       "text": "Future offspring of the parents have a 25% chance of having the disease."
+      },
+      {
+       "key": "C",
+       "text": "Only one parent of the child is a carrier of the cystic fibrosis regulator gene."
+      },
+      {
+       "key": "D",
+       "text": "The child is heterozygous for the cystic fibrosis regulator gene."
+      },
+      {
+       "key": "E",
+       "text": "Sons have a higher chance of inheriting the disease (compared to daughters)."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q10",
+     "kind": "choice",
+     "points": 1,
+     "question": "10. Which of the following correctly lists substances from least permeable to most permeable across a lipid bilayer?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Glycerol, potassium ions, glucose, water, oxygen"
+      },
+      {
+       "key": "B",
+       "text": "Potassium ions, glycerol, glucose, oxygen, water"
+      },
+      {
+       "key": "C",
+       "text": "Oxygen, glycerol, potassium ions, glucose, water"
+      },
+      {
+       "key": "D",
+       "text": "Potassium ions, glucose, glycerol, water, oxygen"
+      },
+      {
+       "key": "E",
+       "text": "Glucose, glycerol, water, oxygen, potassium ions"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Тест: вопросы 11–20",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q11",
+     "kind": "choice",
+     "points": 1,
+     "question": "11. Which of the following would most likely influence the evolution of a population during a severe bottleneck?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Genetic drift"
+      },
+      {
+       "key": "B",
+       "text": "Natural selection"
+      },
+      {
+       "key": "C",
+       "text": "Sexual selection"
+      },
+      {
+       "key": "D",
+       "text": "Non-random mating"
+      },
+      {
+       "key": "E",
+       "text": "Mutation © 2012 University of Toronto 4 / U of T National Biology Competition"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q12",
+     "kind": "choice",
+     "points": 1,
+     "question": "12. Gene expression can be regulated at multiple stages during the synthesis of a protein. How do microRNAs (miRNAs) influence the expression of a gene?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Block translation by binding to a complementary mRNA molecule."
+      },
+      {
+       "key": "B",
+       "text": "Cause repressor proteins to bind to the operator."
+      },
+      {
+       "key": "C",
+       "text": "Interfere with RNA splicing post-transcription."
+      },
+      {
+       "key": "D",
+       "text": "Prevent RNA polymerase from binding with the transcription initiation complex."
+      },
+      {
+       "key": "E",
+       "text": "Block the addition of a 5’ cap and poly-A tail post-transcription."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q13",
+     "kind": "choice",
+     "points": 1,
+     "question": "13. Which domain does an organism belong to if it possesses the following characteristics? Nuclear envelope No Circular chromosome Yes Flagella present Yes Cell wall material Varies, but no peptidoglycan DNA associated with histone proteins Yes",
+     "options": [
+      {
+       "key": "A",
+       "text": "Bacteria"
+      },
+      {
+       "key": "B",
+       "text": "Archaea"
+      },
+      {
+       "key": "C",
+       "text": "Eukarya"
+      },
+      {
+       "key": "D",
+       "text": "Bacteria or Archaea"
+      },
+      {
+       "key": "E",
+       "text": "Archaea or Eukarya"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q14",
+     "kind": "choice",
+     "points": 1,
+     "question": "14. Many different definitions of species, or species concepts, have been developed over the years to determine what constitutes a species. The most commonly used concept is termed the biological species concept. Why might an alternative species concept be more appropriate when working with asexual organisms?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Asexual organisms generally have a highly conserved morphology."
+      },
+      {
+       "key": "B",
+       "text": "Reproductive isolation cannot be determined between asexual organisms."
+      },
+      {
+       "key": "C",
+       "text": "Asexual organisms usually occupy very few niches."
+      },
+      {
+       "key": "D",
+       "text": "Asexual organisms possess relatively few shared derived characters."
+      },
+      {
+       "key": "E",
+       "text": "Mutations occur less frequently in asexual versus sexual organisms."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q15",
+     "kind": "choice",
+     "points": 1,
+     "question": "15. Which statement about translation is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Translation occurs within the nucleus of eukaryotes."
+      },
+      {
+       "key": "B",
+       "text": "Ribosomes recognize and bind to codons in DNA to synthesize proteins."
+      },
+      {
+       "key": "C",
+       "text": "In bacteria, ribosomes translate mRNA as it is synthesized by RNA polymerase."
+      },
+      {
+       "key": "D",
+       "text": "Translation removes introns from RNA transcripts, leaving only exons in the final mRNA."
+      },
+      {
+       "key": "E",
+       "text": "There is a different ribosome to recognize each unique codon."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q16",
+     "kind": "choice",
+     "points": 1,
+     "question": "16. I am found in eukaryotic cells. I assist in the movement of materials throughout the cell. Sometimes I also assist with movement of the entire cell. What am I?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Cell wall"
+      },
+      {
+       "key": "B",
+       "text": "Mitochondria"
+      },
+      {
+       "key": "C",
+       "text": "Cytoskeleton"
+      },
+      {
+       "key": "D",
+       "text": "Golgi apparatus"
+      },
+      {
+       "key": "E",
+       "text": "Peroxisome © 2012 University of Toronto U of T National Biology Competition / 5"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q17",
+     "kind": "choice",
+     "points": 1,
+     "question": "17. Which statement best explains why herbivores possess longer digestive tracts than carnivores in vertebrates?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Most absorption occurs in the mouth and stomach in carnivores."
+      },
+      {
+       "key": "B",
+       "text": "Herbivores store nutrients for longer periods of time."
+      },
+      {
+       "key": "C",
+       "text": "Carnivores need to feed less frequently."
+      },
+      {
+       "key": "D",
+       "text": "Plant tissue is more difficult to digest than animal tissue."
+      },
+      {
+       "key": "E",
+       "text": "The digestive system in herbivores is less acidic."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q18",
+     "kind": "choice",
+     "points": 1,
+     "question": "18. Which process occurs in both the mitochondrial inner membrane and the thylakoid membrane?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Pumping of hydrogen ions across the membrane to create an electrochemical gradient."
+      },
+      {
+       "key": "B",
+       "text": "The oxidation of food molecules to supply electrons to the electron transport chain."
+      },
+      {
+       "key": "C",
+       "text": "The extraction of electrons from water, which are donated to the electron transport chain."
+      },
+      {
+       "key": "D",
+       "text": "The reduction of carbon dioxide by the Calvin cycle."
+      },
+      {
+       "key": "E",
+       "text": "The fermentation of pyruvate which regenerates NAD+."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q19",
+     "kind": "choice",
+     "points": 1,
+     "question": "19. Which statement about an open circulatory system is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Delivery of O2 can be directed to tissues that have a higher demand."
+      },
+      {
+       "key": "B",
+       "text": "Molecules being exchanged (e.g., O2 or CO2) do not have to diffuse across the wall of a blood vessel."
+      },
+      {
+       "key": "C",
+       "text": "Open systems generate a higher flow rate than closed systems."
+      },
+      {
+       "key": "D",
+       "text": "Open systems do not contain a heart; they rely solely on body movements to circulate blood."
+      },
+      {
+       "key": "E",
+       "text": "Hemolymph does not contain oxygen-binding molecules."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q20",
+     "kind": "choice",
+     "points": 1,
+     "question": "20. Within an ecosystem, which of the following best explains why organisms from higher trophic levels typically account for less biomass than those from lower trophic levels?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Higher predation on secondary consumers"
+      },
+      {
+       "key": "B",
+       "text": "Increased competition between tertiary consumers"
+      },
+      {
+       "key": "C",
+       "text": "Low fecundity of quaternary consumers"
+      },
+      {
+       "key": "D",
+       "text": "Increased biomass of primary consumers"
+      },
+      {
+       "key": "E",
+       "text": "Inefficient energy transfer between producers and their consumers"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: E"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Тест: вопросы 21–30",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q21",
+     "kind": "choice",
+     "points": 1,
+     "question": "21. If non-disjunction occurs between one set of homologous chromosomes during metaphase I of meiosis, what will be the n value of the daughter cells?",
+     "options": [
+      {
+       "key": "A",
+       "text": "All cells are n+1"
+      },
+      {
+       "key": "B",
+       "text": "One cell is n+1, two cells are n, one cell is n-1"
+      },
+      {
+       "key": "C",
+       "text": "All cells are n"
+      },
+      {
+       "key": "D",
+       "text": "Two cells are n, two cells are n+1"
+      },
+      {
+       "key": "E",
+       "text": "Two cells are n+1, two cells are n-1"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-cell-cycle",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q22",
+     "kind": "choice",
+     "points": 1,
+     "question": "22. Which factor poses the greatest threat to the loss of biodiversity in the open ocean marine ecosystems?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Habitat loss"
+      },
+      {
+       "key": "B",
+       "text": "Introduction of alien species"
+      },
+      {
+       "key": "C",
+       "text": "Overexploitation by humans"
+      },
+      {
+       "key": "D",
+       "text": "Pollution"
+      },
+      {
+       "key": "E",
+       "text": "Habitat fragmentation © 2012 University of Toronto 6 / U of T National Biology Competition"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q23",
+     "kind": "choice",
+     "points": 1,
+     "question": "23. An enzyme catalyzes a reaction to convert substance X into substance Y. ATP is required for the enzyme to perform the X  Y reaction. There are two ATP-binding sites on this enzyme: the first site is where ATP binds to catalyze the X  Y reaction. However, if ATP levels are high ATP will bind to the second site, causing a conformational change in the enzyme. Based on this information, which statement is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "When ATP levels are high the reaction is reversed."
+      },
+      {
+       "key": "B",
+       "text": "In this case, ATP is acting as an allosteric regulator."
+      },
+      {
+       "key": "C",
+       "text": "ATP is always an inhibitor of the reaction."
+      },
+      {
+       "key": "D",
+       "text": "ATP competitively inhibits the substrate X from binding to the enzyme."
+      },
+      {
+       "key": "E",
+       "text": "The reaction occurs at a faster rate when ATP levels are high."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q24",
+     "kind": "choice",
+     "points": 1,
+     "question": "24. Which of the following is NOT part of an amino acid?",
+     "options": [
+      {
+       "key": "A",
+       "text": "An ester component"
+      },
+      {
+       "key": "B",
+       "text": "A carboxyl group"
+      },
+      {
+       "key": "C",
+       "text": "An alpha carbon"
+      },
+      {
+       "key": "D",
+       "text": "A R-group"
+      },
+      {
+       "key": "E",
+       "text": "A hydrogen atom"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q25",
+     "kind": "choice",
+     "points": 1,
+     "question": "25. Osmosis is necessary to balance the concentration of water and ions in cells. Which statement about fish and osmosis is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Marine fish are able to maintain their internal salinity so it is always equal to the surrounding sea."
+      },
+      {
+       "key": "B",
+       "text": "Marine fish uptake salt ions from their gills."
+      },
+      {
+       "key": "C",
+       "text": "Freshwater fish excrete urine that is highly concentrated with electrolytes."
+      },
+      {
+       "key": "D",
+       "text": "Marine fish actively drink seawater to replace water lost through gills."
+      },
+      {
+       "key": "E",
+       "text": "Freshwater fish excrete ions from gills."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q26",
+     "kind": "choice",
+     "points": 1,
+     "question": "26. You are interested in using molecular cloning techniques to isolate a specific fragment of DNA from a shark species. A fragment gets successfully inserted into a plasmid, but no copies of the target fragment are produced when used to transform bacterial cells. Which of the following is a most likely explanation for this phenomenon?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The restriction site in the plasmid was not cleaved."
+      },
+      {
+       "key": "B",
+       "text": "Bacteria cells did not take up the recombinant plasmid."
+      },
+      {
+       "key": "C",
+       "text": "A non-sense mutation which eliminates translation occurred in the middle of the inserted fragment."
+      },
+      {
+       "key": "D",
+       "text": "DNA ligase failed to seal the recombinant DNA into the plasmid."
+      },
+      {
+       "key": "E",
+       "text": "Only non-target restriction sites were incorporated into the plasmid."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q27",
+     "kind": "choice",
+     "points": 1,
+     "question": "27. The illustration at right depicts a portion of a polymerization reaction. Which type of molecule is produced by this reaction?",
+     "options": [
+      {
+       "key": "A",
+       "text": "DNA"
+      },
+      {
+       "key": "B",
+       "text": "RNA"
+      },
+      {
+       "key": "C",
+       "text": "Starch 1."
+      },
+      {
+       "key": "D",
+       "text": "Cellulose"
+      },
+      {
+       "key": "E",
+       "text": "Polypeptide 3. 7.5. © 2012 University of Toronto U of T National Biology Competition / 7"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q28",
+     "kind": "choice",
+     "points": 1,
+     "question": "28. Lemurs, chimpanzees, and humans all belong to the same order. What other, higher taxonomic levels do they have in common?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Family, class, phylum"
+      },
+      {
+       "key": "B",
+       "text": "Kingdom, genus, species"
+      },
+      {
+       "key": "C",
+       "text": "Class, phylum, kingdom"
+      },
+      {
+       "key": "D",
+       "text": "Kingdom, phylum, species"
+      },
+      {
+       "key": "E",
+       "text": "Class, phylum, species"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-systematics",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q29",
+     "kind": "choice",
+     "points": 1,
+     "question": "29. You are training for a long-distance race and decide to follow a carbohydrate-rich diet to enhance your performance. Why does a carbohydrate-rich diet help enhance performance compared to a diet high in proteins or fats?",
+     "options": [
+      {
+       "key": "A",
+       "text": "It provides more total energy, as carbohydrates contain more chemical energy per gram than fatty acids."
+      },
+      {
+       "key": "B",
+       "text": "It increases glycogen stored in muscles and the liver, which are easily converted to glucose."
+      },
+      {
+       "key": "C",
+       "text": "It increases the efficiency of oxygen transportation to muscle tissue."
+      },
+      {
+       "key": "D",
+       "text": "It increases sucrose storage in muscle tissue which is used for ATP production."
+      },
+      {
+       "key": "E",
+       "text": "It increases the amount of ATP in the blood which can be delivered to muscle tissues."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q30",
+     "kind": "choice",
+     "points": 1,
+     "question": "30. A potted plant is placed under increased light intensity for several minutes. What are the most likely effects of increased light intensity? i. Increased transpiration ii. Increased water movement from roots to leaves iii. Increased xylem tension iv. Increased osmosis of water from xylem to roots",
+     "options": [
+      {
+       "key": "A",
+       "text": "i only"
+      },
+      {
+       "key": "B",
+       "text": "ii only"
+      },
+      {
+       "key": "C",
+       "text": "iii and iv"
+      },
+      {
+       "key": "D",
+       "text": "i, ii, and iii"
+      },
+      {
+       "key": "E",
+       "text": "i, iii, and iv"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Тест: вопросы 31–40",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q31",
+     "kind": "choice",
+     "points": 1,
+     "question": "31. You are conducting a study on the genetics of a population of diploid individuals. You amplify a gene using polymerase chain reaction (PCR) and examine the products using gel electrophoresis. Which statement is CORRECT? (The “origin” is at the top of the gel.)",
+     "options": [
+      {
+       "key": "A",
+       "text": "Individuals 2, 5 and 8 possess the smallest allele."
+      },
+      {
+       "key": "B",
+       "text": "Most of the population is heterozygous."
+      },
+      {
+       "key": "C",
+       "text": "Individuals 1 and 5 could be the parents of individual 4."
+      },
+      {
+       "key": "D",
+       "text": "Individual 3 possesses the most common allele."
+      },
+      {
+       "key": "E",
+       "text": "The frequency of allele A is 0.2. © 2012 University of Toronto 8 / U of T National Biology Competition"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-gene-regulation",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q32",
+     "kind": "choice",
+     "points": 1,
+     "question": "32. Which statement about genetic drift is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Genetic drift is undirected."
+      },
+      {
+       "key": "B",
+       "text": "Genetic drift is a change in allele frequencies of an individual as a result of mutations."
+      },
+      {
+       "key": "C",
+       "text": "Genetic drift improves the fitness of an individual."
+      },
+      {
+       "key": "D",
+       "text": "Genetic drift is the result of natural selection."
+      },
+      {
+       "key": "E",
+       "text": "Genetic drift is not caused by immigration of individuals into a new area."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-popgen",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q33",
+     "kind": "choice",
+     "points": 1,
+     "question": "33. A scientist creates a liposome (an artificially prepared vesicle made of a lipid bilayer) that contains an internal solute concentration of 0.1 M. The solute cannot diffuse through the membrane, and there are no transporters present in the membrane. You place the liposome in a solution that contains the same solute but at a concentration of 0.2 M. Which statement correctly describes what will happen to the liposome and the surrounding solution?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The liposome will swell and the surrounding solution will become hypotonic."
+      },
+      {
+       "key": "B",
+       "text": "The liposome remains the same and the surrounding solution remains hypertonic."
+      },
+      {
+       "key": "C",
+       "text": "The liposome shrinks and the surrounding solution becomes hypotonic."
+      },
+      {
+       "key": "D",
+       "text": "The liposome will shrink and the surrounding solution will become isotonic."
+      },
+      {
+       "key": "E",
+       "text": "The liposome remains the same and the surrounding solution becomes isotonic."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q34",
+     "kind": "choice",
+     "points": 1,
+     "question": "34. Which statement about the two hypothetical population curves (A. and B.) below is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Population B follows an exponential growth model."
+      },
+      {
+       "key": "B",
+       "text": "Population A has reached its carrying capacity (K)."
+      },
+      {
+       "key": "C",
+       "text": "Resources are limited at Time 0 for Population A."
+      },
+      {
+       "key": "D",
+       "text": "r < 0 for Population A."
+      },
+      {
+       "key": "E",
+       "text": "K – N ≈ 0 at time 1 for Population B."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-ecology",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q35",
+     "kind": "choice",
+     "points": 1,
+     "question": "35. You are interested in studying inheritance patterns in a population of rattlesnakes. The two traits you are interested in are pattern shape and pattern colour. Pattern shape can either be round or diamond and colour can be red or black. You are able to determine that shape is determined by the A gene while colour is determined by the B gene. You also determined that diamond and black are dominant traits. You cross a snake expressing a black diamond pattern with a snake expressing a red round pattern. The snake possessing the black diamond pattern is heterozygous for both genes. What proportion of individuals in the F1 generation will have a round black pattern?",
+     "options": [
+      {
+       "key": "A",
+       "text": "1/4"
+      },
+      {
+       "key": "B",
+       "text": "1/8"
+      },
+      {
+       "key": "C",
+       "text": "1/16"
+      },
+      {
+       "key": "D",
+       "text": "3/4"
+      },
+      {
+       "key": "E",
+       "text": "2/3 © 2012 University of Toronto U of T National Biology Competition / 9"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q36",
+     "kind": "choice",
+     "points": 1,
+     "question": "36. In the past several years there has been an increase in the amount of research that investigates non-genetic factors that affect gene expression. Which category of research is this?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Proteomics"
+      },
+      {
+       "key": "B",
+       "text": "Metabolomics"
+      },
+      {
+       "key": "C",
+       "text": "Genomics"
+      },
+      {
+       "key": "D",
+       "text": "Pharmacogenomics"
+      },
+      {
+       "key": "E",
+       "text": "Epigenetics"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q37",
+     "kind": "choice",
+     "points": 1,
+     "question": "37. In what stage in the mitotic cell cycle do the sister chromatids part and move to opposite ends of the cell?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Prophase"
+      },
+      {
+       "key": "B",
+       "text": "Metaphase"
+      },
+      {
+       "key": "C",
+       "text": "Anaphase"
+      },
+      {
+       "key": "D",
+       "text": "Telophase"
+      },
+      {
+       "key": "E",
+       "text": "Interphase"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-cell-cycle",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q38",
+     "kind": "choice",
+     "points": 1,
+     "question": "38. Which statement about cytokinesis is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Cytokinesis occurs during the G2 phase of the cell cycle."
+      },
+      {
+       "key": "B",
+       "text": "To divide cytoplasm between two daughter cells a cleavage furrow forms in animal cells and a cell plate forms in plant cells."
+      },
+      {
+       "key": "C",
+       "text": "The cell plate is formed by the deposition of phospholipids along a lignin backbone in the middle of the dividing cell."
+      },
+      {
+       "key": "D",
+       "text": "When mitotic cytokinesis is complete there are more sister chromatids present in daughter cells compared to the parent cells."
+      },
+      {
+       "key": "E",
+       "text": "Cytokinesis occurs twice within one cycle of mitosis."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-cell-cycle",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q39",
+     "kind": "choice",
+     "points": 1,
+     "question": "39. Which statement about lipids is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Lipids form a bilayer that is impermeable to water."
+      },
+      {
+       "key": "B",
+       "text": "Hydrocarbon chains are non-polar and do not form hydrogen bonds with water."
+      },
+      {
+       "key": "C",
+       "text": "A glycerol-linked phosphate group creates a hydrophobic-head group in a phospholipid."
+      },
+      {
+       "key": "D",
+       "text": "Hydrogen bonds along the hydrocarbon chain prevent interactions with water molecules."
+      },
+      {
+       "key": "E",
+       "text": "Lipids containing unsaturated fatty acids are less permeable than lipids containing saturated fatty acids."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q40",
+     "kind": "choice",
+     "points": 1,
+     "question": "40. The human body responds quickly to a decrease in the partial pressure of oxygen (PO2) in the blood or an increase in the partial pressure of carbon dioxide (PCO2) in the blood. Which statement about how homeostasis regulates levels of O2 and CO2 in the blood is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A low PO2 is detected by the pituitary gland which then releases hormones that stimulate an increase in breathing rate to restore blood O2 to normal levels."
+      },
+      {
+       "key": "B",
+       "text": "A low PO2 is detected by nerves within alveoli that stimulate increased diffusion of oxygen from the lungs into the blood."
+      },
+      {
+       "key": "C",
+       "text": "A high PCO2 causes blood pH to drop; specialized nerves detect the pH change and stimulate an increase in breathing rate to increase CO2 removal from the blood."
+      },
+      {
+       "key": "D",
+       "text": "A low PO2 triggers a release of cortisol from the adrenal gland, which stimulates the diaphragm to contract more frequently, ultimately increasing oxygenation of the blood."
+      },
+      {
+       "key": "E",
+       "text": "A high PCO2 triggers more hemoglobin to be produced which increases the oxygen-carrying capacity of the blood. © 2012 University of Toronto 10 / U of T National Biology Competition"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Тест: вопросы 41–50",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q41",
+     "kind": "choice",
+     "points": 1,
+     "question": "41. A geneticist determines that a human disease is caused by a recessive mutation in an allele of a gene. The mutant allele contains a deletion of the thymine at position 25 of the gene. The gene is found on the X chromosome. Below is the DNA sequence for the coding region of the normal gene. If you know that UAA, UAG, and UGA are stop codons (and all other triplets code for an amino acid), which statement(s) about the consequences of this mutation is CORRECT? Normal gene DNA: 5’ATG TTA CGA GGT ATC GAA CTA GTT TGA ACT CCC ATA AAA - 3’ i. The mutant protein contains four more amino acids than the normal protein. ii. The mutant protein contains one less amino acid than the normal protein. iii. Males are more likely to have the disease than females.",
+     "options": [
+      {
+       "key": "A",
+       "text": "i only"
+      },
+      {
+       "key": "B",
+       "text": "i and ii"
+      },
+      {
+       "key": "C",
+       "text": "iii only"
+      },
+      {
+       "key": "D",
+       "text": "i and iii"
+      },
+      {
+       "key": "E",
+       "text": "ii and iii"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q42",
+     "kind": "choice",
+     "points": 1,
+     "question": "42. Which of the following is an example of artificial selection?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A plant breeder crosses a diploid watermelon with a tetraploid watermelon, creating triploid watermelon offspring which are sterile and do not produce seeds (seedless watermelon)."
+      },
+      {
+       "key": "B",
+       "text": "An antibiotic-resistant strain of Tuberculosis (TB) develops in a patient who is infected with TB and who is undergoing treatment with antibiotics."
+      },
+      {
+       "key": "C",
+       "text": "Populations of squirrels that reside only on one side of the Grand Canyon do not interbreed with squirrels that reside only on the opposite side of the canyon."
+      },
+      {
+       "key": "D",
+       "text": "A wolf and a dog mate, creating offspring that are wolf-dog hybrids."
+      },
+      {
+       "key": "E",
+       "text": "Female Zebra Finches preferentially choose males to mate with that have very colourful beaks, resulting in a higher percentage of offspring with very colourful beaks."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q43",
+     "kind": "choice",
+     "points": 1,
+     "question": "43. Based on the reaction shown in the graph below, which statement is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Energy is released by this reaction."
+      },
+      {
+       "key": "B",
+       "text": "Energy must be added for the reaction to proceed."
+      },
+      {
+       "key": "C",
+       "text": "An enzyme is required to catalyze this reaction."
+      },
+      {
+       "key": "D",
+       "text": "The reaction would proceed more quickly at a lower temperature."
+      },
+      {
+       "key": "E",
+       "text": "This reaction is irreversible. © 2012 University of Toronto U of T National Biology Competition / 11"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q44",
+     "kind": "choice",
+     "points": 1,
+     "question": "44. Which statement(s) about oxygen transportation in human blood is CORRECT? i. Oxygen releases from hemoglobin at a slower rate in cold temperatures compared to warm temperatures. ii. About 15% of oxygen that enters the blood stream from the lungs is dissolved into blood plasma. iii. Oxygen moves from regions of high PO2 (partial pressure of oxygen) to regions of low oxygen potential.",
+     "options": [
+      {
+       "key": "A",
+       "text": "i only"
+      },
+      {
+       "key": "B",
+       "text": "ii only"
+      },
+      {
+       "key": "C",
+       "text": "iii only"
+      },
+      {
+       "key": "D",
+       "text": "i and iii"
+      },
+      {
+       "key": "E",
+       "text": "ii and iii"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q45",
+     "kind": "choice",
+     "points": 1,
+     "question": "45. Which of the following historical figures in biology is NOT correctly matched with their accomplishment?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Carolus Linnaeus – binomial systems for naming organisms."
+      },
+      {
+       "key": "B",
+       "text": "Charles Darwin – evolution by natural selection."
+      },
+      {
+       "key": "C",
+       "text": "Gregor Mendel – laws of inheritance and independent assortment."
+      },
+      {
+       "key": "D",
+       "text": "Jean-Baptiste de Lamarck – inheritance of acquired characteristics."
+      },
+      {
+       "key": "E",
+       "text": "Alfred Russell Wallace – experiments on plant hybridization."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q46",
+     "kind": "choice",
+     "points": 1,
+     "question": "46. A toxin which is present in a commonly-used pesticide has been found to have properties that mimic hormones in humans. Experiments have revealed the following: (1) the toxin binds to a receptor within cells, and (2) the toxin inhibits the release of luteinizing hormone. Based on these results, which statement about the toxin and its potential effects on humans is most likely to be CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "It is a polypeptide; it could cause increased fertility."
+      },
+      {
+       "key": "B",
+       "text": "It is a second-messenger compound; it could cause increased estradiol levels."
+      },
+      {
+       "key": "C",
+       "text": "It is amino acid-derived; it could cause elevated glucose levels in the blood."
+      },
+      {
+       "key": "D",
+       "text": "It is lipid soluble; it could cause impaired ovulation."
+      },
+      {
+       "key": "E",
+       "text": "It is a steroid; it could cause increased cortisol levels."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q47",
+     "kind": "choice",
+     "points": 1,
+     "question": "47. Which statement about action potentials is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "During an action potential Na+ ions rush out of the neuron."
+      },
+      {
+       "key": "B",
+       "text": "Action potentials are generated in dendrites."
+      },
+      {
+       "key": "C",
+       "text": "Ca2+ ions are involved in repolarization of the membrane."
+      },
+      {
+       "key": "D",
+       "text": "If the membrane becomes hyperpolarized compared to the resting membrane potential, an action potential will occur."
+      },
+      {
+       "key": "E",
+       "text": "The degeneration of myelination along an axon reduces the speed at which action potentials are transmitted. © 2012 University of Toronto 12 / U of T National Biology Competition"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q48",
+     "kind": "choice",
+     "points": 1,
+     "question": "48. A hypothetical human population presently consists mostly of young people, and the average fertility rate of this population is 2.1 (and it is predicted that it will remain at 2.1 for the next 50 years). The emigration rate is stable in this population. Based on this information, which statement is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The population will experience a decline in size over the next 50 years."
+      },
+      {
+       "key": "B",
+       "text": "The population will only grow over the next 50 years if immigration levels are high."
+      },
+      {
+       "key": "C",
+       "text": "The population will experience no growth over the next 50 years."
+      },
+      {
+       "key": "D",
+       "text": "The population will experience an increase in size over the next 50 years, regardless of immigration rates."
+      },
+      {
+       "key": "E",
+       "text": "The population will experience several cycles of growth and decline over the next 50 years."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q49",
+     "kind": "choice",
+     "points": 1,
+     "question": "49. Which of the following is NOT evidence for the endosymbiotic theory of eukaryotic evolution?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Chloroplasts possess their own protein-synthesizing machinery, which is similar to bacterial protein- synthesizing machinery."
+      },
+      {
+       "key": "B",
+       "text": "The mitochondrion possesses its own genome."
+      },
+      {
+       "key": "C",
+       "text": "The multicellularity of eukaryotes."
+      },
+      {
+       "key": "D",
+       "text": "Mitochondria are surrounded by two or more membranes, with small traces of prokaryotic peptidoglycans."
+      },
+      {
+       "key": "E",
+       "text": "Phylogenetic evidence from eukaryotic, plastid, and bacterial genomes supports a close relationship between plastids and cyanobacteria."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q50",
+     "kind": "choice",
+     "points": 1,
+     "question": "50. Which statement(s) about excretion of nitrogenous waste in animals is CORRECT? i. Fish excrete ammonia by diffusion across the gills. ii. Animals under greater osmotic stress tend to excrete nitrogenous waste as uric acid. iii. Mammals convert urea to ammonia to prevent toxicity to cells.",
+     "options": [
+      {
+       "key": "A",
+       "text": "i only"
+      },
+      {
+       "key": "B",
+       "text": "ii only"
+      },
+      {
+       "key": "C",
+       "text": "iii only"
+      },
+      {
+       "key": "D",
+       "text": "i and ii"
+      },
+      {
+       "key": "E",
+       "text": "i and iii END OF EXAM. © 2012 University of Toronto"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  }
+ ]
+}

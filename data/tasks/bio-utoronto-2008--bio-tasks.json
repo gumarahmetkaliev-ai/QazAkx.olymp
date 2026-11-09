@@ -1,0 +1,100 @@
+{
+ "setId": "bio-utoronto-2008--bio-tasks",
+ "olympiadId": "bio-utoronto-2008",
+ "title": "Биология → U of Toronto → 2008",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/utoronto/2008/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/utoronto/2008/bio-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T13:45:10.924Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 10,
+  "withPoints": 10,
+  "withReference": 10,
+  "withQuestion": 10,
+  "estimatedPoints": 10
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "University of Toronto",
+   "weight": null,
+   "total": 10,
+   "statement": "National Biology Competition\n\n                                2008 Examination\n                                   May 1, 2008\n\n                                    Answer Key\n\n     1. b              11. b             21. e             31. a            41. d\n\n     2. c              12. a             22. b             32. e            42. b\n\n     3. d              13. c             23. d             33. d            43. b\n\n     4. d              14. c             24. b             34. a             44. e\n\n     5. a              15. d             25. e             35. e             45. e\n\n     6. d              16. a             26. c             36. b             46. a\n\n     7. e              17. d             27. d             37. e            47. d\n\n     8. b              18. c             28. a             38. c            48. b\n\n     9. c              19. b             29. c             39. a             49. a\n\n     10. e             20. c             30. b             40. c\n\nQuestion #50 was removed from the exam, so all scores were calculated out of 49\nquestions. Depending on one’s interpretation of question #50 there could have been more\nthan one correct answer; however (d) is the best answer.",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 1,
+     "question": "b 11. b 21. e 31. a 41. d",
+     "reference": "1.   Which of the following presents the levels of taxonomic classification from lowest (least inclusive) to\n     highest (most inclusive)?\n     a.   subspecies ! genus ! class ! order ! phylum\n     b.   species ! family ! order ! class ! phylum\n     c.   order ! family ! domain ! phylum ! kingdom\n     d.   genus ! phylum ! class ! order ! taxa\n     e.   class ! order ! phylum ! family ! domain",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.2",
+     "points": 1,
+     "question": "c 12. a 22. b 32. e 42. b",
+     "reference": "2.   Although the forelimb of humans, cats, and bats show considerable differences in form and function,\n     they are made up of the same basic bones. What does this suggest about the forelimbs of these\n     organisms?\n     a.   They are vestigial structures.\n     b.   They have evolved due to convergent evolution.\n     c.   They are derived from a common ancestor.\n     d.   They are analogous structures.\n     e.   They have different evolutionary origins.",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.3",
+     "points": 1,
+     "question": "d 13. c 23. d 33. d 43. b",
+     "reference": "3.   Which feature do Hornworts (Anthocerophytes), Mosses (Bryophytes), and Liverworts (Hepatophytes)\n     have in common?\n     a.   The sporophyte generation is the dominant stage in their life cycle.\n     b.   They all have roots.\n     c.   They all produce seeds.\n     d.   They are non-vascular plants and rely on the process of diffusion and osmosis to transport nutrients.\n     e.   The sporophyte generation does not contain chlorophyll.",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.4",
+     "points": 1,
+     "question": "d 14. c 24. b 34. a 44. e",
+     "reference": "4.   Which statement best describes the difference between exponential and logistic growth?\n     a. Exponential growth depends on birth and death rates; logistic growth does not.\n     b. Emigration and immigration are not important for logistic growth and are important for exponential\n        growth.\n     c. Exponential growth depends on density; logistic growth depends on the carrying capacity.\n     d. Logistic growth reflects density-dependent effects of birth and death rates; exponential growth is\n        independent of density.\n     e. Exponential growth follows a sigmoidal curve; logistic growth follows a linear function.",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.5",
+     "points": 1,
+     "question": "a 15. d 25. e 35. e 45. e",
+     "reference": "5.   Tay-Sachs disease is an autosomal recessive disorder. Children with this disease generally die before\n     their fifth birthday. The carrier frequency in Ashkenazi Jewish individuals is approximately 3%. If two\n     individuals of Ashkenazi descent have a child with Tay-Sachs, what is the probability that their second\n     child will be a carrier of the disease?\n     a.   0.5\n     b.   0.25\n     c.   0.03\n     d.   1\n     e.   0.0009\n\n                                                                            U of T National Biology Competition / 3",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.6",
+     "points": 1,
+     "question": "d 16. a 26. c 36. b 46. a",
+     "reference": "6.   Plants have adapted to a diversity of environments including arid environments such as deserts. Which\n     of the following traits is NOT an adaptation of plants to dry environments?\n     a.   A photosynthetic system which allows the stomata to open only at night.\n     b.   Low stomatal density.\n     c.   A thick waxy cuticle.\n     d.   A large leaf size.\n     e.   Modified stems or roots for water storage.",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.7",
+     "points": 1,
+     "question": "e 17. d 27. d 37. e 47. d",
+     "reference": "7.   In the mammalian kidney, what is the primary function of the proximal tubule?\n     a. To reabsorb urea from the filtrate by active transport.\n     b. To regulate urine concentration through the action of vasopressin.\n     c. To reabsorb creatinine and hydrogen ions from the filtrate through active transport.\n     d. To transport NaCl actively into the tubule to create the osmotic gradient required for the\n        reabsorption of water.\n     e. To reabsorb ions and nutrients from the filtrate, such as glucose and amino acids, by active transport.",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.8",
+     "points": 1,
+     "question": "b 18. c 28. a 38. c 48. b",
+     "reference": "8.   I have cell walls which include chitin, and I am a heterotroph. What am I?\n          i. Mushroom\n          ii. Yeast\n          iii. Penicillium\n          iv. Escherichia coli (E. coli)\n          v. Green algae\n     a.   i only\n     b.   i, ii, and iii\n     c.   ii and iii only\n     d.   iii and iv\n     e.   v only",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.9",
+     "points": 1,
+     "question": "c 19. b 29. c 39. a 49. a",
+     "reference": "9.   Testosterone is a steroid hormone that can be used as a performance enhancing drug. Which of the\n     following side effects would NOT result from testosterone abuse?\n     a. A reduction in luteinizing hormone (LH) resulting in the disruption of the menstrual cycle in\n        women.\n     b. A reduction in testosterone production leading to impotence and shrunken testes in men.\n     c. An increase in prolactin production which can lead to lactation.\n     d. A reduction in follicle-stimulating hormone (FSH) which can lead to sterility.\n     e. An increase in protein synthesis and acceleration of muscle growth.",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.10",
+     "points": 1,
+     "question": "e 20. c 30. b 40. c",
+     "reference": "10. When you become cold, your body has a number of control mechanisms to maintain homeostasis.\n    Which of the following is NOT a physiological response to a drop in body temperature?\n     a.   Contraction of piloerector (hair) muscles.\n     b.   Involuntary contraction of skeletal muscles (shivering).\n     c.   An increase in fat metabolism.\n     d.   Decrease rate of sweat production.\n     e.   Vasodilation (increased diameter) of the blood vessels near the skin.\n\n4 / U of T National Biology Competition",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

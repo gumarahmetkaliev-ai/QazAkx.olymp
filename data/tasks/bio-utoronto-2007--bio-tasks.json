@@ -1,0 +1,37 @@
+{
+ "setId": "bio-utoronto-2007--bio-tasks",
+ "olympiadId": "bio-utoronto-2007",
+ "title": "Биология → U of Toronto → 2007",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/utoronto/2007/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/utoronto/2007/bio-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T13:45:13.436Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 1,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "University of Toronto",
+   "weight": null,
+   "total": 10,
+   "statement": "National Biology Competition\n                         2007 Examination\n                            Answer Key\n\n  1. c           2. b           3. d            4. e           5. a\n\n  6. d           7. a           8. d            9. b           10. c\n\n  11. c, e       12. a          13. c           14. b          15. c\n\n  16. d          17. b          18. d           19. a          20. c\n\n  21. e          22. a          23. b           24. e          25. a\n\n  26. c          27. e          28. d           29. b          30. d\n\n  31. d          32. a          33. b           34. c          35. e\n\n  36. d          37. b          38. e           39. b          40. e\n\n  41. a          42. e          43. a           44. b          45. c\n\n  46. e          47. c          48. c           49. a          50. b\n\n There were two correct responses in question 11. This was unintentional.\nIf a student selected either 11c or 11e it was recorded as a correct response.",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 10,
+     "question": "c 2. b 3. d 4. e 5. a",
+     "reference": "1.   Which of the following processes absorb free energy (i.e., are endergonic)?\n          i. Nitrogen fixation\n          ii. Respiration\n          iii. Photosynthesis\n          iv. Maintenance of homeostasis\n     a.   i only\n     b.   i and ii\n     c.   i, iii, and iv\n     d.   ii and iv\n     e.   iii and iv",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

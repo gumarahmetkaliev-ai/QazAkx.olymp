@@ -1,0 +1,1981 @@
+{
+ "setId": "bio-utoronto-2016--bio-tasks",
+ "olympiadId": "bio-utoronto-2016",
+ "title": "Биология → U of Toronto → 2016",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/utoronto/2016/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/utoronto/2016/bio-sol.pdf",
+ "generatedBy": "test-parser",
+ "type": "test",
+ "generatedAt": "2026-11-09T13:44:46.352Z",
+ "quality": {
+  "tasks": 5,
+  "parts": 50,
+  "withPoints": 50,
+  "withReference": 50,
+  "withQuestion": 50,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Тест: вопросы 1–10",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q1",
+     "kind": "choice",
+     "points": 1,
+     "question": "1. During lactic acid fermentation, one molecule of glucose (left figure) is converted to two molecules of lactic acid (right figure). During this reaction, which carbon atoms in glucose (numbered 1 to 6) are reduced and which are oxidized?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Carbons 1 and 3 are reduced; carbons 4 and 6 are oxidized."
+      },
+      {
+       "key": "B",
+       "text": "Carbons 2 and 5 are reduced; carbons 1 and 6 are oxidized."
+      },
+      {
+       "key": "C",
+       "text": "Carbons 1 and 6 are reduced; carbons 3 and 4 are oxidized."
+      },
+      {
+       "key": "D",
+       "text": "Carbons 3 and 4 are reduced; carbons 2 and 5 are oxidized."
+      },
+      {
+       "key": "E",
+       "text": "Carbons 3 and 4 are reduced; carbons 1 and 6 are oxidized."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q2",
+     "kind": "choice",
+     "points": 1,
+     "question": "2. Which of the following would be found within an autotrophic eukaryotic cell (and not a heterotrophic eukaryotic cell)?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Mitochondria"
+      },
+      {
+       "key": "B",
+       "text": "Ribosomes"
+      },
+      {
+       "key": "C",
+       "text": "Rough endoplasmic reticulum"
+      },
+      {
+       "key": "D",
+       "text": "Chlorophyll"
+      },
+      {
+       "key": "E",
+       "text": "Vacuole"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q3",
+     "kind": "choice",
+     "points": 1,
+     "question": "3. A botanist wants to breed a new variety of daisy with orange flowers. She crosses a yellow variety with a red variety. She knows that the daisy with yellow petals contains a dominant yellow petal allele and a recessive white petal allele. In which scenario is it possible to obtain an orange flower?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Red petals have incomplete dominance to yellow petals and are dominant to white petals."
+      },
+      {
+       "key": "B",
+       "text": "Red petals have incomplete dominance to white petals and are recessive to yellow petals."
+      },
+      {
+       "key": "C",
+       "text": "Red petals are dominant to yellow petals and white petals."
+      },
+      {
+       "key": "D",
+       "text": "Red petals are dominant to yellow petals and co-dominant to white petals."
+      },
+      {
+       "key": "E",
+       "text": "Red petals are recessive to yellow petals and dominant to white petals."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q4",
+     "kind": "choice",
+     "points": 1,
+     "question": "4. Which of the following mechanisms allows evolutionary biologists to best predict how allele frequencies in a population will change over time?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Mutation"
+      },
+      {
+       "key": "B",
+       "text": "Natural selection"
+      },
+      {
+       "key": "C",
+       "text": "Horizontal gene transfer"
+      },
+      {
+       "key": "D",
+       "text": "Genetic drift"
+      },
+      {
+       "key": "E",
+       "text": "Non-random mating"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-popgen",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q5",
+     "kind": "choice",
+     "points": 1,
+     "question": "5. Which statement accurately describes essential amino acids?",
+     "options": [
+      {
+       "key": "A",
+       "text": "They are the only amino acids required for life."
+      },
+      {
+       "key": "B",
+       "text": "They are the only amino acids to contain sulphur (sulfur)."
+      },
+      {
+       "key": "C",
+       "text": "They can only be obtained by eating meat."
+      },
+      {
+       "key": "D",
+       "text": "They are the only amino acids required in protein synthesis."
+      },
+      {
+       "key": "E",
+       "text": "They cannot be manufactured by an organism’s body."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q6",
+     "kind": "choice",
+     "points": 1,
+     "question": "6. In a eukaryotic cell, where does the synthesis of DNA, RNA, and proteins occur? (ER = endoplasmic reticulum) DNA RNA Proteins",
+     "options": [
+      {
+       "key": "A",
+       "text": "nucleus nucleus nucleus"
+      },
+      {
+       "key": "B",
+       "text": "nucleus cytosol cytosol + ER"
+      },
+      {
+       "key": "C",
+       "text": "nucleus nucleus cytosol + ER"
+      },
+      {
+       "key": "D",
+       "text": "cytosol cytosol nucleus"
+      },
+      {
+       "key": "E",
+       "text": "cytosol nucleus cytosol + ER © 2016 University of Toronto U of T National Biology Competition / 3"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q7",
+     "kind": "choice",
+     "points": 1,
+     "question": "7. The spontaneous self-assembly of phospholipids in an aqueous environment are shown at right. What is the most important contributor to this spontaneous assembly?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Hydrogen bonding of water."
+      },
+      {
+       "key": "B",
+       "text": "Strong hydrophobic interactions between the hydrophobic tails."
+      },
+      {
+       "key": "C",
+       "text": "Decreased entropy of lipids."
+      },
+      {
+       "key": "D",
+       "text": "Hydrogen bonding and ionic interactions between the phospholipid head groups."
+      },
+      {
+       "key": "E",
+       "text": "Increased entropy of water."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q8",
+     "kind": "choice",
+     "points": 1,
+     "question": "8. Nicotine increases the secretion of antidiuretic hormone (ADH) (also known as vasopressin). What is the impact of nicotine on reabsorption of water in the nephron?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Increased reabsorption of water in the descending limb of the loop of Henle."
+      },
+      {
+       "key": "B",
+       "text": "Decreased reabsorption of water in the descending limb of the loop of Henle."
+      },
+      {
+       "key": "C",
+       "text": "Increased reabsorption of water in the collecting duct."
+      },
+      {
+       "key": "D",
+       "text": "Decreased reabsorption of water in the collecting duct."
+      },
+      {
+       "key": "E",
+       "text": "Increased reabsorption of water in the descending limb of the loop of Henle and in the collecting duct."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q9",
+     "kind": "choice",
+     "points": 1,
+     "question": "9. If you isolate mitochondria and place them in a buffer with a low pH they begin to make ATP. Why?",
+     "options": [
+      {
+       "key": "A",
+       "text": "In a buffer, isolated mitochondria are directly exposed to high concentrations of oxygen."
+      },
+      {
+       "key": "B",
+       "text": "The low pH of the buffer causes an increase in protons in the inter-membrane space of the isolated mitochondria, leading to ATP production by ATP synthase."
+      },
+      {
+       "key": "C",
+       "text": "The low pH of the buffer causes a release of OH- by the isolated mitochondria, which is directly coupled to ATP synthesis by the ATP synthase."
+      },
+      {
+       "key": "D",
+       "text": "The low pH of the buffer causes stress to the mitochondrial outer membrane, which activates the ATP synthase."
+      },
+      {
+       "key": "E",
+       "text": "ATP synthase is soluble in the buffer and so it can now synthesize ATP."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q10",
+     "kind": "choice",
+     "points": 1,
+     "question": "10. How would a population of animals be spatially distributed if each animal actively defends its own territory?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Uniformly"
+      },
+      {
+       "key": "B",
+       "text": "Randomly"
+      },
+      {
+       "key": "C",
+       "text": "Clumped"
+      },
+      {
+       "key": "D",
+       "text": "Linearly"
+      },
+      {
+       "key": "E",
+       "text": "Exponentially"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Тест: вопросы 11–20",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q11",
+     "kind": "choice",
+     "points": 1,
+     "question": "11. Sucrose and monosodium glutamate (MSG) are added to a salad dressing made of vinegar and oil. If the mixture is then shaken, it will eventually separate into two phases. After this phase separation, where will most of the sucrose and MSG be located?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Both will concentrate in the vinegar."
+      },
+      {
+       "key": "B",
+       "text": "Both will concentrate in the oil."
+      },
+      {
+       "key": "C",
+       "text": "Both will concentrate at the interface between the two phases."
+      },
+      {
+       "key": "D",
+       "text": "Sucrose will concentrate in the oil, and MSG will concentrate in the vinegar."
+      },
+      {
+       "key": "E",
+       "text": "Sucrose will concentrate in the vinegar, and MSG will concentrate in the oil."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q12",
+     "kind": "choice",
+     "points": 1,
+     "question": "12. In humans, red-green colour blindness is a trait conferred by a mutation at a single gene. All males with a single copy of the mutant allele are colour blind; females with a single copy of the mutant allele are not colour blind. What is the nature of the gene for red-green colour blindness?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Y-linked and recessive"
+      },
+      {
+       "key": "B",
+       "text": "Y-linked and dominant"
+      },
+      {
+       "key": "C",
+       "text": "X-linked and dominant"
+      },
+      {
+       "key": "D",
+       "text": "X-linked and recessive"
+      },
+      {
+       "key": "E",
+       "text": "Autosomal and recessive © 2016 University of Toronto U of T National Biology Competition / 4"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q13",
+     "kind": "choice",
+     "points": 1,
+     "question": "13. Glucose (from ingested food) moves from the lumen of the small intestine through an epithelial cell and into the bloodstream, as shown in the diagram. Which statement about this movement is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The glucose moves from the epithelial cell to the blood vessel against its concentration gradient."
+      },
+      {
+       "key": "B",
+       "text": "The movement of glucose from the lumen into the epithelial cell requires a facilitated transport protein."
+      },
+      {
+       "key": "C",
+       "text": "The movement of glucose from the lumen into the epithelial cell requires an active transport protein and an energy source."
+      },
+      {
+       "key": "D",
+       "text": "The movement of glucose from the epithelial cell into the blood vessel requires an active transport protein and an energy source."
+      },
+      {
+       "key": "E",
+       "text": "The movement of glucose from the epithelial cell into the blood vessel does not require a transport protein."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q14",
+     "kind": "choice",
+     "points": 1,
+     "question": "14. Humans can dramatically alter their environment to allow for human population expansion and growth. Which of the following best describes what humans are manipulating to allow for increasing their population size?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The rate of births"
+      },
+      {
+       "key": "B",
+       "text": "The number of deaths"
+      },
+      {
+       "key": "C",
+       "text": "The amount of available nutrients"
+      },
+      {
+       "key": "D",
+       "text": "The availability of water"
+      },
+      {
+       "key": "E",
+       "text": "The carrying capacity of the environment"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-ecology",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q15",
+     "kind": "choice",
+     "points": 1,
+     "question": "15. A farmer planted canola seeds on the same day, in the same field, every year for the past four years. The farmer observed that the seeds took a week longer to germinate this year. Which of the following is NOT a plausible explanation for why it took longer for the seeds to germinate this year?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The seeds used this year were older."
+      },
+      {
+       "key": "B",
+       "text": "There are more nutrients in the soil this year."
+      },
+      {
+       "key": "C",
+       "text": "It was colder this year."
+      },
+      {
+       "key": "D",
+       "text": "It rained less this year."
+      },
+      {
+       "key": "E",
+       "text": "It was cloudier this year."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q16",
+     "kind": "choice",
+     "points": 1,
+     "question": "16. When Streptococcus pneumonia is exposed to an antibiotic, bacteria try to pump the antibiotic out of their cell interior. Which mechanism is most likely used by bacteria to pump the antibiotic out?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Diffusion"
+      },
+      {
+       "key": "B",
+       "text": "Facilitated diffusion"
+      },
+      {
+       "key": "C",
+       "text": "Osmosis"
+      },
+      {
+       "key": "D",
+       "text": "Active transport"
+      },
+      {
+       "key": "E",
+       "text": "Symport (when two different molecules move in the same direction)"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q17",
+     "kind": "choice",
+     "points": 1,
+     "question": "17. Which of the following best supports the hypothesis that mitochondria are descendants of endosymbiotic bacteria cells?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Mitochondria and bacteria possess similar ribosomes and DNA."
+      },
+      {
+       "key": "B",
+       "text": "Mitochondria and bacteria possess similar nuclei."
+      },
+      {
+       "key": "C",
+       "text": "Glycolysis occurs in both mitochondria and bacteria."
+      },
+      {
+       "key": "D",
+       "text": "Both mitochondria and bacteria have microtubules."
+      },
+      {
+       "key": "E",
+       "text": "Both mitochondria and photosynthetic bacteria possess chloroplasts. © 2016 University of Toronto U of T National Biology Competition / 5"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q18",
+     "kind": "choice",
+     "points": 1,
+     "question": "18. A soluble protein contains a leucine amino acid (shown at right) in its hydrophobic core. If leucine is substituted with one of the five amino acids below, which substitution would lead to the LEAST change to the three-dimensional structure of the protein?",
+     "options": [
+      {
+       "key": "A",
+       "text": "b. c. d. e."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q19",
+     "kind": "choice",
+     "points": 1,
+     "question": "19. Which statement about shared ancestry is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Snails and worms share a common ancestor as neither organism uses legs for locomotion."
+      },
+      {
+       "key": "B",
+       "text": "Fish and whales share a common ancestor as both can survive in an aquatic environment."
+      },
+      {
+       "key": "C",
+       "text": "Birds and bats share a common ancestor as both organisms can fly."
+      },
+      {
+       "key": "D",
+       "text": "Chipmunks and squirrels share a common ancestor as they have a similar diet."
+      },
+      {
+       "key": "E",
+       "text": "Snakes and rats share a common ancestor as both organisms develop limbs as embryos."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-animal-anatomy",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q20",
+     "kind": "choice",
+     "points": 1,
+     "question": "20. In Mendel’s experiments with pea plants, he described two unlinked genes that controlled seed shape and seed colour. He crossed plants that were homozygous for green and wrinkled seeds with plants that were homozygous for yellow and round seeds. All of the resulting F1 plants had yellow and round seeds. If F1 plants were crossed with plants that were homozygous for yellow and wrinkled seeds, what proportion of the progeny would you expect to have yellow and round seeds?",
+     "options": [
+      {
+       "key": "A",
+       "text": "1/16"
+      },
+      {
+       "key": "B",
+       "text": "3/16"
+      },
+      {
+       "key": "C",
+       "text": "1/4"
+      },
+      {
+       "key": "D",
+       "text": "1/2"
+      },
+      {
+       "key": "E",
+       "text": "9/16"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Тест: вопросы 21–30",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q21",
+     "kind": "choice",
+     "points": 1,
+     "question": "21. Which of the following was first proposed by Charles Darwin?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The term “evolution”"
+      },
+      {
+       "key": "B",
+       "text": "The theory of evolution by natural selection"
+      },
+      {
+       "key": "C",
+       "text": "DNA as genetic material"
+      },
+      {
+       "key": "D",
+       "text": "The independent assortment of chromosomes"
+      },
+      {
+       "key": "E",
+       "text": "The inheritance of acquired characteristics"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q22",
+     "kind": "choice",
+     "points": 1,
+     "question": "22. The receive(s) blood from the and the .",
+     "options": [
+      {
+       "key": "A",
+       "text": "liver; hepatic arteries; hepatic portal vein"
+      },
+      {
+       "key": "B",
+       "text": "liver; hepatic arteries, hepatic veins"
+      },
+      {
+       "key": "C",
+       "text": "kidneys; renal arteries, renal veins"
+      },
+      {
+       "key": "D",
+       "text": "kidneys; renal arteries; renal portal vein"
+      },
+      {
+       "key": "E",
+       "text": "lungs; pulmonary arteries; pulmonary veins"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q23",
+     "kind": "choice",
+     "points": 1,
+     "question": "23. Which statement about structures in plants is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The spines on a cactus are modified leaves and they can deter predators."
+      },
+      {
+       "key": "B",
+       "text": "Roots interact with soil fungi and bacteria that help provide nutrients to the plant."
+      },
+      {
+       "key": "C",
+       "text": "The cells of the upper and lower epidermis of leaves contain chloroplasts."
+      },
+      {
+       "key": "D",
+       "text": "The colour of petals attracts animal pollinator."
+      },
+      {
+       "key": "E",
+       "text": "The anther contains pollen. © 2016 University of Toronto U of T National Biology Competition / 6"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q24",
+     "kind": "choice",
+     "points": 1,
+     "question": "24. In which image will adenine a. b. (shown as A in these images) be the next nucleotide to be added to the nucleic acid during normal DNA replication? c. d. e.",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q25",
+     "kind": "choice",
+     "points": 1,
+     "question": "25. Two populations of rabbits were separated by a mountain range for 1 million years. Over time, the mountains eroded, and there is now an opening that allows for contact between individuals from the two populations. Scientists studying these rabbits have determined that they are now two separate species due to pre-zygotic reproductive isolation. Which of the following would NOT support this conclusion?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The rabbits from the two populations breed at different times of the year."
+      },
+      {
+       "key": "B",
+       "text": "The rabbits from the two populations use very different behaviours to attract mates."
+      },
+      {
+       "key": "C",
+       "text": "The rabbits from the two populations occur in very different habitats."
+      },
+      {
+       "key": "D",
+       "text": "The rabbits from the two populations have incompatible reproductive structures."
+      },
+      {
+       "key": "E",
+       "text": "The rabbits from the two populations produce offspring with an odd number of chromosomes."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-development",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q26",
+     "kind": "choice",
+     "points": 1,
+     "question": "26. How would the production of ATP be affected if an isolated chloroplast is exposed to a toxin that makes its thylakoid membranes freely permeable to hydrogen ions?",
+     "options": [
+      {
+       "key": "A",
+       "text": "ATP would still be produced because the proton gradient would increase."
+      },
+      {
+       "key": "B",
+       "text": "ATP would still be produced by the light-independent reactions."
+      },
+      {
+       "key": "C",
+       "text": "ATP would still be produced by the photosynthetic electron transport chain."
+      },
+      {
+       "key": "D",
+       "text": "ATP would no longer be produced in the light-dependent reactions."
+      },
+      {
+       "key": "E",
+       "text": "ATP would no longer be produced in the light-independent reactions."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q27",
+     "kind": "choice",
+     "points": 1,
+     "question": "27. What proportion of total DNA in cells of a male human comes from each of his parents?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Slightly more DNA from his father than his mother"
+      },
+      {
+       "key": "B",
+       "text": "Slightly more DNA from his mother than his father."
+      },
+      {
+       "key": "C",
+       "text": "Equally from both parents."
+      },
+      {
+       "key": "D",
+       "text": "An extra X-chromosome from his mother."
+      },
+      {
+       "key": "E",
+       "text": "An extra Y-chromosome from his mother."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q28",
+     "kind": "choice",
+     "points": 1,
+     "question": "28. Emphysema is a condition in which the small airways of the lung become narrow, and the alveoli are degraded and begin to form larger spaces. Which of the following is NOT likely to occur in a patient with emphysema?",
+     "options": [
+      {
+       "key": "A",
+       "text": "An increase in carbon dioxide levels in the blood."
+      },
+      {
+       "key": "B",
+       "text": "A decrease in oxygen levels in the blood."
+      },
+      {
+       "key": "C",
+       "text": "A decrease in breathing rate."
+      },
+      {
+       "key": "D",
+       "text": "An increase in hemoglobin level."
+      },
+      {
+       "key": "E",
+       "text": "A decrease in respiratory surface area. © 2016 University of Toronto U of T National Biology Competition / 7"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q29",
+     "kind": "choice",
+     "points": 1,
+     "question": "29. Why is maintaining a high body temperature (e.g., 37°C) more challenging for smaller endothermic animals than for larger endothermic animals?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Smaller animals have a lower metabolic rate (per gram of body mass) relative to larger animals."
+      },
+      {
+       "key": "B",
+       "text": "Smaller animals have a higher surface area to volume ratio and therefore lose greater amounts of heat to the environment."
+      },
+      {
+       "key": "C",
+       "text": "Smaller animals have lower surface area to volume ratio and therefore lose greater amounts of heat to the environment."
+      },
+      {
+       "key": "D",
+       "text": "Smaller animals are unable to produce enough brown adipose tissue whereas larger animals can."
+      },
+      {
+       "key": "E",
+       "text": "Smaller animals are unable to shiver at a rate that is fast enough to produce heat in their muscles."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q30",
+     "kind": "choice",
+     "points": 1,
+     "question": "30. Every cell in a normal human body is derived from a single cell. However, cells eventually become specialized to perform specific tasks and functions. What best explains this occurrence?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Chromosomes crossover during mitosis"
+      },
+      {
+       "key": "B",
+       "text": "Random genetic mutation"
+      },
+      {
+       "key": "C",
+       "text": "Targeted genetic mutation"
+      },
+      {
+       "key": "D",
+       "text": "Genetic responses to the environment"
+      },
+      {
+       "key": "E",
+       "text": "Altered expression of genes"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: E"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Тест: вопросы 31–40",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q31",
+     "kind": "choice",
+     "points": 1,
+     "question": "31. The drug Furosemide affects the body’s water equilibrium by inhibiting the membrane proteins that actively pump sodium (Na+) and chloride (Cl-) ions across the cell membranes of the thick ascending limb of the loop of Henle. What does this drug cause?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Reduced retention of Na+ and Cl- ions in the urine and an increase in total blood volume."
+      },
+      {
+       "key": "B",
+       "text": "Reduced retention of Na+ and Cl- ions in the urine and a decrease in total blood volume."
+      },
+      {
+       "key": "C",
+       "text": "Higher retention of Na+ and Cl- ions in the urine and an increase in total blood volume."
+      },
+      {
+       "key": "D",
+       "text": "Higher retention of Na+ and Cl- ions in the urine and a decrease in total blood volume."
+      },
+      {
+       "key": "E",
+       "text": "No change in the retention of Na+ and Cl- in the urine, but an increase in the total blood volume."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q32",
+     "kind": "choice",
+     "points": 1,
+     "question": "32. Which of the following would increase the rate of growth of a population of animals?",
+     "options": [
+      {
+       "key": "A",
+       "text": "An increase in female fecundity"
+      },
+      {
+       "key": "B",
+       "text": "An increase in density"
+      },
+      {
+       "key": "C",
+       "text": "An increase in mortality rate"
+      },
+      {
+       "key": "D",
+       "text": "An increase in predation"
+      },
+      {
+       "key": "E",
+       "text": "An increase in carrying capacity"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-ecology",
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q33",
+     "kind": "choice",
+     "points": 1,
+     "question": "33. In which direction(s) are the leading and lagging strands synthesized during DNA replication?",
+     "options": [
+      {
+       "key": "A",
+       "text": "5ʹ to 3ʹ on both the leading and lagging strands."
+      },
+      {
+       "key": "B",
+       "text": "3ʹ to 5ʹ on both the leading and lagging strands."
+      },
+      {
+       "key": "C",
+       "text": "Both 5ʹ to 3ʹ and 3ʹ to 5ʹ on either the leading or lagging strands."
+      },
+      {
+       "key": "D",
+       "text": "5ʹ to 3ʹ on the leading strand and 3ʹ to 5ʹ on the lagging strand."
+      },
+      {
+       "key": "E",
+       "text": "3ʹ to 5ʹ on the leading strand and 5ʹ to 3ʹ on the lagging strand."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q34",
+     "kind": "choice",
+     "points": 1,
+     "question": "34. Which statement about this phylogenetic tree is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Humans are equally closely related to cats and frogs."
+      },
+      {
+       "key": "B",
+       "text": "Lizards and cats are more closely related than lizards and humans."
+      },
+      {
+       "key": "C",
+       "text": "Fish are the most recent common ancestor of the other organisms in the tree."
+      },
+      {
+       "key": "D",
+       "text": "Geese and fish are more closely related than geese and frogs."
+      },
+      {
+       "key": "E",
+       "text": "Frogs are equally closely related to cats and lizards. © 2016 University of Toronto U of T National Biology Competition / 8"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q35",
+     "kind": "choice",
+     "points": 1,
+     "question": "35. I am unicellular. I am autotrophic. I swim with a flagellum. I possess a nucleus. My cell wall lacks both chitin and peptidoglycan. Who am I?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A fungus"
+      },
+      {
+       "key": "B",
+       "text": "A bacterium"
+      },
+      {
+       "key": "C",
+       "text": "A protist"
+      },
+      {
+       "key": "D",
+       "text": "An archaeon"
+      },
+      {
+       "key": "E",
+       "text": "A flowering plant"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q36",
+     "kind": "choice",
+     "points": 1,
+     "question": "36. Athletes that undertake endurance training do so to improve their body’s ability to cope with intense and prolonged activity. This training results in changes to the heart and circulatory system. Which of the following would NOT be a resulting change?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The heart increases in size (left ventricle wall becomes thicker and the chamber gets bigger)."
+      },
+      {
+       "key": "B",
+       "text": "The heart decreases in size (left ventricle wall becomes thinner and the chamber gets smaller)."
+      },
+      {
+       "key": "C",
+       "text": "Heart stroke volume increases (more blood is pumped by the heart with each beat)."
+      },
+      {
+       "key": "D",
+       "text": "The exercising heart rate decreases (slower heart rate compared to people who have not trained)."
+      },
+      {
+       "key": "E",
+       "text": "The resting heart rate decreases (slower heart rate compared to people who have not trained)."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q37",
+     "kind": "choice",
+     "points": 1,
+     "question": "37. Why are male animals able to provide gametes with more genetic diversity than females for reproduction?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Males provide more genes in sperm than females provide in eggs."
+      },
+      {
+       "key": "B",
+       "text": "Male gametes are produced via meiosis, but female gametes are produced via mitosis."
+      },
+      {
+       "key": "C",
+       "text": "Crossing over occurs more often in the formation of sperm than in eggs."
+      },
+      {
+       "key": "D",
+       "text": "Spermatogenesis in males results in four functional sperm, while oogenesis in females results in only one egg and three structures that contain genetic information that is lost when they disintegrate."
+      },
+      {
+       "key": "E",
+       "text": "Sperm that contain a recombination of genes are usually more successful in fertilizing an egg."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q38",
+     "kind": "choice",
+     "points": 1,
+     "question": "38. Trypsin and elastase are both enzymes that catalyze the hydrolysis of peptide bonds. Trypsin only cuts next to lysine; elastase only cuts next to alanine. Why?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Trypsin is a protein, and elastase is not."
+      },
+      {
+       "key": "B",
+       "text": "∆G for the two reactions is different."
+      },
+      {
+       "key": "C",
+       "text": "One of the reactions is endergonic, and the other is exergonic."
+      },
+      {
+       "key": "D",
+       "text": "Hydrolysis of lysine bonds requires water; hydrolysis of alanine bonds does not."
+      },
+      {
+       "key": "E",
+       "text": "The shape of the active site for the two enzymes is different."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q39",
+     "kind": "choice",
+     "points": 1,
+     "question": "39. How does myelination increase the speed that action potentials can travel along an axon?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Myelin insulates the axon from the leakage of ions across the membrane, which allows the action potential to “hop” to the next region of high ion channel density."
+      },
+      {
+       "key": "B",
+       "text": "Myelin conducts the action potentials down the axon by increasing ion channel density."
+      },
+      {
+       "key": "C",
+       "text": "Myelin decreases intracellular resistance, which causes the action potentials to decay at a slower rate."
+      },
+      {
+       "key": "D",
+       "text": "Myelin decreases intracellular resistance, which causes the action potentials to decay at a faster rate."
+      },
+      {
+       "key": "E",
+       "text": "Myelin increases the membrane resistance and decreases the intracellular resistance, which causes the action potentials to decay at a slower rate."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q40",
+     "kind": "choice",
+     "points": 1,
+     "question": "40. Which of the following is the best description of how materials move in plants within xylem and phloem? In xylem, materials move: In phloem, materials move:",
+     "options": [
+      {
+       "key": "A",
+       "text": "from roots to the leaves from leaves to the roots"
+      },
+      {
+       "key": "B",
+       "text": "from leaves to the roots from roots to the leaves"
+      },
+      {
+       "key": "C",
+       "text": "in both directions between roots and leaves from leaves to the roots"
+      },
+      {
+       "key": "D",
+       "text": "from roots to the leaves in both directions between roots and leaves"
+      },
+      {
+       "key": "E",
+       "text": "in both directions between roots and leaves in both directions between roots and leaves © 2016 University of Toronto U of T National Biology Competition / 9"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Тест: вопросы 41–50",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q41",
+     "kind": "choice",
+     "points": 1,
+     "question": "41. If the food chain shown here is controlled from the bottom up, what will happen if human activity results in the removal of hawks from the environment?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Snakes, toads, grasshoppers, and grass will increase in abundance."
+      },
+      {
+       "key": "B",
+       "text": "Snakes, toads, grasshoppers, and grass will decrease in abundance"
+      },
+      {
+       "key": "C",
+       "text": "Snakes and grasshoppers will decrease in abundance; toads and grass will increase in abundance."
+      },
+      {
+       "key": "D",
+       "text": "Snakes and grasshoppers will increase in abundance; toads and grass will decrease in abundance."
+      },
+      {
+       "key": "E",
+       "text": "The abundance of snakes, toads, grasshoppers, and grass will not change."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-ecology",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q42",
+     "kind": "choice",
+     "points": 1,
+     "question": "42. Which statement best explains the evolution of fins in whales and fish?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The common ancestor of whales and fish possessed genes for fins."
+      },
+      {
+       "key": "B",
+       "text": "Whales and fish possess the same mutations in their genomes."
+      },
+      {
+       "key": "C",
+       "text": "Fins evolved in whales and fish because they both use them to swim in water."
+      },
+      {
+       "key": "D",
+       "text": "Fins evolved in whales and fish because of different mutations that occurred in their genomes."
+      },
+      {
+       "key": "E",
+       "text": "Fins evolved in whales and fish because their most recent common ancestor swam in water."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q43",
+     "kind": "choice",
+     "points": 1,
+     "question": "43. How does a plant respond after detecting abscisic acid in a leaf?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Close stomatal pores and decrease photosynthesis."
+      },
+      {
+       "key": "B",
+       "text": "Close stomatal pores and increase photosynthesis."
+      },
+      {
+       "key": "C",
+       "text": "Open stomatal pores and increase photosynthesis."
+      },
+      {
+       "key": "D",
+       "text": "Open stomatal pores and decrease photosynthesis."
+      },
+      {
+       "key": "E",
+       "text": "There is no change in stomatal pores, but the rate of photosynthesis increases."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q44",
+     "kind": "choice",
+     "points": 1,
+     "question": "44. Where on Earth is most organic carbon located?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The atmosphere"
+      },
+      {
+       "key": "B",
+       "text": "Soils"
+      },
+      {
+       "key": "C",
+       "text": "Living organisms"
+      },
+      {
+       "key": "D",
+       "text": "Oceans"
+      },
+      {
+       "key": "E",
+       "text": "Sedimentary rock of marine origin"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q45",
+     "kind": "choice",
+     "points": 1,
+     "question": "45. Which statement about ribosomes is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Ribosomes contain DNA and protein."
+      },
+      {
+       "key": "B",
+       "text": "Ribosomal subunits leave the nucleus after being formed by the nucleolus."
+      },
+      {
+       "key": "C",
+       "text": "Ribosomes are active in carbohydrate synthesis."
+      },
+      {
+       "key": "D",
+       "text": "Polyribosomes are the subunits of ribosomes."
+      },
+      {
+       "key": "E",
+       "text": "Ribosomes are only found associated with the endoplasmic reticulum in eukaryotic cells."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q46",
+     "kind": "choice",
+     "points": 1,
+     "question": "46. Which of the following can be used to correctly determine whether a cell is a bacteria or a protist?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The presence or absence of a rigid cell wall."
+      },
+      {
+       "key": "B",
+       "text": "Whether or not the cell contains membrane-bound compartments."
+      },
+      {
+       "key": "C",
+       "text": "The presence or absence of ribosomes."
+      },
+      {
+       "key": "D",
+       "text": "Whether or not the cell carries out cellular metabolism."
+      },
+      {
+       "key": "E",
+       "text": "Whether or not the cell contains its own genome."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q47",
+     "kind": "choice",
+     "points": 1,
+     "question": "47. Which statement about the structure of DNA and RNA is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "DNA nucleotides contain phosphate groups and RNA nucleotides do not."
+      },
+      {
+       "key": "B",
+       "text": "DNA is a non-polar molecule and RNA is a polar molecule."
+      },
+      {
+       "key": "C",
+       "text": "DNA uses cytosine nucleotides and RNA does not."
+      },
+      {
+       "key": "D",
+       "text": "DNA contains nitrogen atoms and RNA does not."
+      },
+      {
+       "key": "E",
+       "text": "DNA contains a different sugar group than RNA. © 2016 University of Toronto U of T National Biology Competition / 10"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q48",
+     "kind": "choice",
+     "points": 1,
+     "question": "48. Macromolecules do NOT donate electrons directly to the electron transport chain (ETC). Why?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The ETC can only receive electrons carried by oxidized electron carrier molecules such as NAD+."
+      },
+      {
+       "key": "B",
+       "text": "The ETC is only found in the mitochondrial outer membrane, and not all cells have mitochondria."
+      },
+      {
+       "key": "C",
+       "text": "The ETC can only receive electrons carried by reduced electron carrier molecules such as NADH."
+      },
+      {
+       "key": "D",
+       "text": "The ETC only works by accepting electrons from oxidized carbon."
+      },
+      {
+       "key": "E",
+       "text": "Macromolecules do not have enough electrons to donate to the ETC."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q49",
+     "kind": "choice",
+     "points": 1,
+     "question": "49. Hypercapnia is a condition in which levels of carbon dioxide in the blood are abnormally elevated. Why does hypercapnia result in an increase in ventilation rate?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Increasing ventilation rate will increase the amount of oxygen entering the lungs."
+      },
+      {
+       "key": "B",
+       "text": "Increasing ventilation rate will increase the amount of carbon dioxide entering the lungs."
+      },
+      {
+       "key": "C",
+       "text": "The increase in blood pH stimulates breathing in order to expel excess carbon dioxide."
+      },
+      {
+       "key": "D",
+       "text": "The decrease in blood pH stimulates breathing in order to expel excess carbon dioxide."
+      },
+      {
+       "key": "E",
+       "text": "Chemoreceptors in the brain and aorta stimulate breathing in order to attain more oxygen."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q50",
+     "kind": "choice",
+     "points": 1,
+     "question": "50. An outbreak of Zika virus, transmitted by mosquitoes, was recently identified in Brazil. In Zika virus-affected areas an increase in the number of infants born with microcephaly (abnormally small brain and head) has been reported. The Brazilian Ministry of Health investigated 35 cases of babies born with microcephaly (the results are shown below). All 35 infants are being tested for the presence of Zika virus. However, as of March 2016, the results are not yet available. Based solely on the data shown here which of the following is the most correct conclusion?",
+     "options": [
+      {
+       "key": "A",
+       "text": "When a pregnant woman is infected with the Zika virus, her child will be born with microcephaly."
+      },
+      {
+       "key": "B",
+       "text": "The Zika virus is possibly associated with microcephaly."
+      },
+      {
+       "key": "C",
+       "text": "Mosquito bites transmit Zika virus, which causes microcephaly in newly born children."
+      },
+      {
+       "key": "D",
+       "text": "If a woman is not infected with Zika virus, none of her future children will have microcephaly."
+      },
+      {
+       "key": "E",
+       "text": "Zika virus causes severe microcephaly, but not low to moderate microcephaly. End of exam. • Thank you for participating in the 2016 National Biology Competition. • Competition results, including scholarship information, certificates, and cash prizes, will be received by your school in late May. • Honour rolls of the top students and schools, the names of the students eligible for a competition scholarship, and the exam questions with answers will be posted on the competition’s website in late May: biocomp.utoronto.ca © 2016 University of Toronto"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: B"
+    }
+   ]
+  }
+ ]
+}

@@ -14,21 +14,23 @@ const path = require("path");
 const { buildOlympiad, sortOlympiads, PAGE_ORIGIN } = require("../lib/chem-catalog");
 
 const ROOT = path.join(__dirname, "..");
+const SUBJECT = (process.argv.find((a) => a.startsWith("--subject=")) || "--subject=chemistry").split("=")[1];
+const SUBJECT_LABEL = { chemistry: "химии", biology: "биологии" }[SUBJECT] || SUBJECT;
 const PUBLIC_DIR = path.join(ROOT, "public");
-const SOURCES_PATH = path.join(ROOT, "data", "chemistry-sources.json");
+const SOURCES_PATH = path.join(ROOT, "data", `${SUBJECT}-sources.json`);
 const LEGACY_PATH = path.join(ROOT, "olympiads.json");
-const OUT_PATH = path.join(ROOT, "data", "catalog", "chemistry.json");
+const OUT_PATH = path.join(ROOT, "data", "catalog", `${SUBJECT}.json`);
 const TASKS_DIR = path.join(ROOT, "data", "tasks");
 
 function loadSources() {
   if (fs.existsSync(SOURCES_PATH)) {
     const data = JSON.parse(fs.readFileSync(SOURCES_PATH, "utf8"));
-    return { from: "data/chemistry-sources.json", pages: data.pages || {} };
+    return { from: `data/${SUBJECT}-sources.json`, pages: data.pages || {} };
   }
   const legacy = JSON.parse(fs.readFileSync(LEGACY_PATH, "utf8"));
   const pages = {};
   for (const entry of legacy) {
-    if (entry.subject_en !== "chemistry") continue;
+    if (entry.subject_en !== SUBJECT) continue;
     if (!String(entry.sourcePage || "").startsWith(PAGE_ORIGIN)) continue;
     pages[entry.sourcePage] = pages[entry.sourcePage] || [];
     for (const m of entry.materials || []) pages[entry.sourcePage].push(m.title);
@@ -71,7 +73,7 @@ function main() {
   }
 
   const catalog = {
-    subject: "chemistry",
+    subject: SUBJECT,
     generatedAt: new Date().toISOString(),
     source: from,
     olympiads,
@@ -81,7 +83,7 @@ function main() {
 
   const materials = olympiads.reduce((n, o) => n + o.materials.length, 0);
   const local = olympiads.reduce((n, o) => n + o.materials.filter((m) => m.local).length, 0);
-  console.log(`Каталог химии: ${olympiads.length} олимпиад, ${materials} PDF (локально: ${local}), с полями ответа: ${solvable}`);
+  console.log(`Каталог ${SUBJECT_LABEL}: ${olympiads.length} олимпиад, ${materials} PDF (локально: ${local}), с полями ответа: ${solvable}`);
   console.log(`Источник: ${from} → ${path.relative(ROOT, OUT_PATH)}`);
 }
 

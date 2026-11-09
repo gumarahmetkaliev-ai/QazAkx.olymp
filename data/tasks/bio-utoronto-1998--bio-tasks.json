@@ -1,0 +1,2396 @@
+{
+ "setId": "bio-utoronto-1998--bio-tasks",
+ "olympiadId": "bio-utoronto-1998",
+ "title": "Биология → U of Toronto → 1998",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/utoronto/1998/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/utoronto/1998/bio-sol.pdf",
+ "generatedBy": "test-parser",
+ "type": "test",
+ "generatedAt": "2026-11-09T13:45:16.917Z",
+ "quality": {
+  "tasks": 6,
+  "parts": 60,
+  "withPoints": 60,
+  "withReference": 60,
+  "withQuestion": 60,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Тест: вопросы 1–10",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q1",
+     "kind": "choice",
+     "points": 1,
+     "question": "1. Which statement best describes the process of endocytosis?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A vesicle within a cell fuses with the plasma membrane and releases its contents to the outside."
+      },
+      {
+       "key": "B",
+       "text": "Solid particles or liquids are taken up by a cell through invagination of the plasma membrane."
+      },
+      {
+       "key": "C",
+       "text": "Investment in one cytosis reduces the ability of the parent to assist another cytosis."
+      },
+      {
+       "key": "D",
+       "text": "One region of an embryo directs the development of a neighbouring region of an embryo through movement of cells."
+      },
+      {
+       "key": "E",
+       "text": "An organism obtains its energy from light and organic compounds."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q2",
+     "kind": "choice",
+     "points": 1,
+     "question": "2. The primary role of a lysosome is:",
+     "options": [
+      {
+       "key": "A",
+       "text": "intracellular digestion."
+      },
+      {
+       "key": "B",
+       "text": "ATP synthesis."
+      },
+      {
+       "key": "C",
+       "text": "lipid transport."
+      },
+      {
+       "key": "D",
+       "text": "carbohydrate storage."
+      },
+      {
+       "key": "E",
+       "text": "protein synthesis."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q3",
+     "kind": "choice",
+     "points": 1,
+     "question": "3. Which statement about chloroplasts is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "They are organelles with a double membrane."
+      },
+      {
+       "key": "B",
+       "text": "They contain their own genetic information and ribosomes."
+      },
+      {
+       "key": "C",
+       "text": "They are found in eukaryotic and prokaryotic cells."
+      },
+      {
+       "key": "D",
+       "text": "The thylakoid membranes within the chloroplast contain chlorophyll."
+      },
+      {
+       "key": "E",
+       "text": "They contain ATP."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q4",
+     "kind": "choice",
+     "points": 1,
+     "question": "4. The graphs below show the relationship between the rate of water loss by transpiration and leaf temperature. Based on these results, which plant is best adapted for conserving water in a hot dry environment?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Sunflower"
+      },
+      {
+       "key": "B",
+       "text": "Maple"
+      },
+      {
+       "key": "C",
+       "text": "Creosote"
+      },
+      {
+       "key": "D",
+       "text": "Grass"
+      },
+      {
+       "key": "E",
+       "text": "Pine © 1999 University of Toronto U of T National Biology Com petition / 3"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q5",
+     "kind": "choice",
+     "points": 1,
+     "question": "5. Which statement about microtubules is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "They form the spindle fibres involved in movement of chromosomes during mitosis and meiosis."
+      },
+      {
+       "key": "B",
+       "text": "They are involved in cell support and shape."
+      },
+      {
+       "key": "C",
+       "text": "They are involved in the movement of flagella."
+      },
+      {
+       "key": "D",
+       "text": "They are involved in the movement of cilia."
+      },
+      {
+       "key": "E",
+       "text": "They are made up of carbohydrate molecules called phospholipids."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-cell-cycle",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q6",
+     "kind": "choice",
+     "points": 1,
+     "question": "6. Which structure is present in a bean sprout (young seedling), but not in a bean seed?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Elongated hypocotyl"
+      },
+      {
+       "key": "B",
+       "text": "Radicle"
+      },
+      {
+       "key": "C",
+       "text": "Two cotyledons"
+      },
+      {
+       "key": "D",
+       "text": "Endosperm"
+      },
+      {
+       "key": "E",
+       "text": "Micropyle"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q7",
+     "kind": "choice",
+     "points": 1,
+     "question": "7. Plant hormones play a role in regulating the development of plant seeds. The graphs below plot embryo growth and the changes in hormone concentration over time. Based on these results, which hormone(s) most likely regulate(s) embryo growth?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Auxin alone"
+      },
+      {
+       "key": "B",
+       "text": "Gibberellic acid alone"
+      },
+      {
+       "key": "C",
+       "text": "Abscisic acid alone"
+      },
+      {
+       "key": "D",
+       "text": "Both auxin and gibberellic acid"
+      },
+      {
+       "key": "E",
+       "text": "Both auxin and abscisic acid © 1999 University of Toronto 4 / U of T National Biology Com petition"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q8",
+     "kind": "choice",
+     "points": 1,
+     "question": "8. Cell division typically occurs only in the meristematic regions of plants. In which region would cell division NOT occur?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Shoot apex"
+      },
+      {
+       "key": "B",
+       "text": "Wood"
+      },
+      {
+       "key": "C",
+       "text": "Root apex"
+      },
+      {
+       "key": "D",
+       "text": "Cambium between wood and bark"
+      },
+      {
+       "key": "E",
+       "text": "Expanding leaf"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q9",
+     "kind": "choice",
+     "points": 1,
+     "question": "9. How many times does cytokinesis occur during the entire process of meiosis?",
+     "options": [
+      {
+       "key": "A",
+       "text": "1"
+      },
+      {
+       "key": "B",
+       "text": "2"
+      },
+      {
+       "key": "C",
+       "text": "3"
+      },
+      {
+       "key": "D",
+       "text": "4"
+      },
+      {
+       "key": "E",
+       "text": "5"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-cell-cycle",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q10",
+     "kind": "choice",
+     "points": 1,
+     "question": "10. In humans, the sex ratio is very close to 50:50. The best genetic explanation for this is:",
+     "options": [
+      {
+       "key": "A",
+       "text": "crossing over."
+      },
+      {
+       "key": "B",
+       "text": "independent assortment."
+      },
+      {
+       "key": "C",
+       "text": "linkage."
+      },
+      {
+       "key": "D",
+       "text": "transformation."
+      },
+      {
+       "key": "E",
+       "text": "segregation."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: E"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Тест: вопросы 11–20",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q11",
+     "kind": "choice",
+     "points": 1,
+     "question": "11. There are three alleles at the ABO antigen locus in humans. The A and B alleles produce A and B antigens, respectively, while the O allele produces no antigen. For which of the following phenotypes could you be certain that an individual (with that phenotype) is a homozygote?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Type A only"
+      },
+      {
+       "key": "B",
+       "text": "Type B only"
+      },
+      {
+       "key": "C",
+       "text": "Type O only"
+      },
+      {
+       "key": "D",
+       "text": "Types A, B, and O"
+      },
+      {
+       "key": "E",
+       "text": "None of the phenotypes"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q12",
+     "kind": "choice",
+     "points": 1,
+     "question": "12. Quebec premier Lucien Bouchard had his leg amputated because of an infection known as the “flesheating disease.” This disease seems to have become a problem in Canada because of:",
+     "options": [
+      {
+       "key": "A",
+       "text": "recent contact between humans and rodents."
+      },
+      {
+       "key": "B",
+       "text": "travel between Africa and Canada."
+      },
+      {
+       "key": "C",
+       "text": "the transmission of a virus from chickens to humans."
+      },
+      {
+       "key": "D",
+       "text": "the evolution of antibiotic resistance."
+      },
+      {
+       "key": "E",
+       "text": "contaminated hamburgers at fast food chains. © 1999 University of Toronto U of T National Biology Com petition / 5"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q13",
+     "kind": "choice",
+     "points": 1,
+     "question": "13. Which of the following would NOT be found in the cell of a bacterium?",
+     "options": [
+      {
+       "key": "A",
+       "text": "DNA"
+      },
+      {
+       "key": "B",
+       "text": "Ribosomes"
+      },
+      {
+       "key": "C",
+       "text": "Plasma membrane"
+      },
+      {
+       "key": "D",
+       "text": "Pili"
+      },
+      {
+       "key": "E",
+       "text": "Mitochondria"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q14",
+     "kind": "choice",
+     "points": 1,
+     "question": "14. Which statement is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Bacteria are necessary for decomposition."
+      },
+      {
+       "key": "B",
+       "text": "Bacteria can cause diseases of plants."
+      },
+      {
+       "key": "C",
+       "text": "Bacteria are part of your “personal” microflora."
+      },
+      {
+       "key": "D",
+       "text": "Bacteria are necessary for biological nitrogen fixation."
+      },
+      {
+       "key": "E",
+       "text": "Bacteria are necessary for photosynthesis."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q15",
+     "kind": "choice",
+     "points": 1,
+     "question": "15. In Canada, recent outbreaks of meningitis, caused by a virus, were controlled by immunization with a vaccine. Unfortunately, AIDS caused by the HIV virus has not yet been controlled by a vaccine because of the:",
+     "options": [
+      {
+       "key": "A",
+       "text": "cost of development and production of vaccines."
+      },
+      {
+       "key": "B",
+       "text": "availability of effective antibiotics."
+      },
+      {
+       "key": "C",
+       "text": "high degree of variability in the HIV virus."
+      },
+      {
+       "key": "D",
+       "text": "complex structure of the HIV virus."
+      },
+      {
+       "key": "E",
+       "text": "lack of antigenic proteins on the HIV virus."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q16",
+     "kind": "choice",
+     "points": 1,
+     "question": "16. Which statement is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Appendicitis can lead to the condition known as peritonitis, in which parts of the liver are destroyed."
+      },
+      {
+       "key": "B",
+       "text": "Heartburn is caused by the acidic contents of the stomach escaping into the thoracic cavity."
+      },
+      {
+       "key": "C",
+       "text": "Hepatitis is a condition where there are insufficient bile salts to dissolve cholesterol; the cholesterol then forms large crystals."
+      },
+      {
+       "key": "D",
+       "text": "Hiatal hernia is a condition in which part of the stomach may protrude through the diaphragm into the thoracic cavity."
+      },
+      {
+       "key": "E",
+       "text": "Gallstones are mainly composed of uric acid and can often be treated with ultrasound."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q17",
+     "kind": "choice",
+     "points": 1,
+     "question": "17. In herbivorous mammals, the cellulose of plant cell walls:",
+     "options": [
+      {
+       "key": "A",
+       "text": "is digested by enzymes produced by symbiotic microorganisms."
+      },
+      {
+       "key": "B",
+       "text": "is digested by cellulase, which is secreted by the lining of the rumen."
+      },
+      {
+       "key": "C",
+       "text": "is hydrolysed to simple molecules by large quantities of saliva."
+      },
+      {
+       "key": "D",
+       "text": "cannot be digested and therefore forms the bulk of the faeces."
+      },
+      {
+       "key": "E",
+       "text": "cannot be digested, but the cell walls are broken down by the mechanical action of the teeth so that the cell contents are released and become available. © 1999 University of Toronto 6 / U of T National Biology Com petition"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q18",
+     "kind": "choice",
+     "points": 1,
+     "question": "18. Which statement about gas exchange in vertebrates is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Most of the carbon dioxide in the blood is carried in the form of bicarbonate ions."
+      },
+      {
+       "key": "B",
+       "text": "Without diffusion, there would be no gas exchange."
+      },
+      {
+       "key": "C",
+       "text": "If the concentration of carbon dioxide in the alveolar air increases, the rate of carbon dioxide exchange decreases."
+      },
+      {
+       "key": "D",
+       "text": "Less carbon dioxide would be carried by the blood if there were fewer red blood cells."
+      },
+      {
+       "key": "E",
+       "text": "An increase in oxygen concentration would result in less oxygen binding to the iron atoms in haemoglobin."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q19",
+     "kind": "choice",
+     "points": 1,
+     "question": "19. The trachea, bronchi, and bronchioles of humans have all of the following functions EXCEPT:",
+     "options": [
+      {
+       "key": "A",
+       "text": "increasing the surface area available for gas exchange."
+      },
+      {
+       "key": "B",
+       "text": "moistening the incoming air."
+      },
+      {
+       "key": "C",
+       "text": "conducting mucous away from the alveoli."
+      },
+      {
+       "key": "D",
+       "text": "warming the incoming air to body temperature."
+      },
+      {
+       "key": "E",
+       "text": "conducting air from the exterior of the body to where the respiratory gases can enter or leave the blood."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q20",
+     "kind": "choice",
+     "points": 1,
+     "question": "20. Which statement is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Veins are typically larger in diameter than arteries."
+      },
+      {
+       "key": "B",
+       "text": "Because of their small size, capillaries contain blood that is moving more quickly than in other parts of the circulatory system."
+      },
+      {
+       "key": "C",
+       "text": "The walls of arteries are elastic, enabling them to stretch and shrink with changes in blood pressure."
+      },
+      {
+       "key": "D",
+       "text": "Veins contain more blood than any other part of the circulatory system."
+      },
+      {
+       "key": "E",
+       "text": "The blood pressure in the veins is normally too low for blood to return to the heart without the action of skeletal muscles."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: B"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Тест: вопросы 21–30",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q21",
+     "kind": "choice",
+     "points": 1,
+     "question": "21. Some of the important events in the human female reproductive cycle are listed below. Which of the following best describes their sequence? 1 - A drop in progesterone levels 2 - Secretion of follicle stimulating hormone 3 - Growth of the corpus luteum 4 - Oogenesis 5 - Menstruation 6 - Ovulation 7 - Growth of the follicle 8 - A sudden increase in levels of luteinizing hormone",
+     "options": [
+      {
+       "key": "A",
+       "text": "2÷4÷7÷8÷6÷3÷1÷5"
+      },
+      {
+       "key": "B",
+       "text": "3÷8÷4÷7÷1÷6÷5÷2"
+      },
+      {
+       "key": "C",
+       "text": "5÷7÷6÷2÷8÷3÷1÷4"
+      },
+      {
+       "key": "D",
+       "text": "6÷3÷1÷5÷8÷7÷2÷4"
+      },
+      {
+       "key": "E",
+       "text": "8÷3÷6÷4÷2÷7÷1÷5 © 1999 University of Toronto U of T National Biology Com petition / 7"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q22",
+     "kind": "choice",
+     "points": 1,
+     "question": "22. The mammalian heart beat:",
+     "options": [
+      {
+       "key": "A",
+       "text": "stops when the nerve supply to the heart is cut."
+      },
+      {
+       "key": "B",
+       "text": "originates at the atrio-ventricular node."
+      },
+      {
+       "key": "C",
+       "text": "decreases when stretch receptors in the vena cava are stimulated."
+      },
+      {
+       "key": "D",
+       "text": "slows down when activity in the vagus nerve increases."
+      },
+      {
+       "key": "E",
+       "text": "increases when carbon dioxide levels in the blood decrease."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q23",
+     "kind": "choice",
+     "points": 1,
+     "question": "23. The embryo of which of the following organisms does NOT have an amnion?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A bird"
+      },
+      {
+       "key": "B",
+       "text": "A fish"
+      },
+      {
+       "key": "C",
+       "text": "An alligator"
+      },
+      {
+       "key": "D",
+       "text": "A lizard"
+      },
+      {
+       "key": "E",
+       "text": "A human"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-animal-anatomy",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q24",
+     "kind": "choice",
+     "points": 1,
+     "question": "24. Which of the series of atoms listed below are ranked (from left to right) in terms of increasing electronegativity?",
+     "options": [
+      {
+       "key": "A",
+       "text": "F, N, C, H, Na"
+      },
+      {
+       "key": "B",
+       "text": "Na, H, C, N, F"
+      },
+      {
+       "key": "C",
+       "text": "Na, C, H, N, F"
+      },
+      {
+       "key": "D",
+       "text": "Na, H, C, F, N"
+      },
+      {
+       "key": "E",
+       "text": "F, N, H, Na, C"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q25",
+     "kind": "choice",
+     "points": 1,
+     "question": "25. __________ bonds are important components that hold DNA strands together in the DNA double helix. (fill in the blank)",
+     "options": [
+      {
+       "key": "A",
+       "text": "Ionic"
+      },
+      {
+       "key": "B",
+       "text": "Covalent"
+      },
+      {
+       "key": "C",
+       "text": "Polar covalent"
+      },
+      {
+       "key": "D",
+       "text": "Peptide"
+      },
+      {
+       "key": "E",
+       "text": "Hydrogen"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q26",
+     "kind": "choice",
+     "points": 1,
+     "question": "26. Which statement about amino acids is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "They always have at least one amino group and at least one carboxyl group."
+      },
+      {
+       "key": "B",
+       "text": "In the formation of proteins, it is a condensation reaction that links the amino group of one amino acid to the variable side chain of the adjacent amino acid."
+      },
+      {
+       "key": "C",
+       "text": "The variable side chains of all of the amino acids are highly reactive and carry a charge at neutral pH."
+      },
+      {
+       "key": "D",
+       "text": "The peptide bond that links amino acids together in a protein is a type of ionic bond, which explains why proteins are unstable at high temperatures."
+      },
+      {
+       "key": "E",
+       "text": "The variable side chains of all amino acids are hydrophillic, which allows polypeptides to remain soluble in an aqueous environment. © 1999 University of Toronto 8 / U of T National Biology Com petition"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q27",
+     "kind": "choice",
+     "points": 1,
+     "question": "27. Which statement about nucleotides is CORRECT? Nucleotides:",
+     "options": [
+      {
+       "key": "A",
+       "text": "such as ATP are used in the in vivo synthesis of nucleic acids."
+      },
+      {
+       "key": "B",
+       "text": "are composed of only a pentose sugar and a nitrogenous purine or pyrimidine base."
+      },
+      {
+       "key": "C",
+       "text": "such as GTP replace ATP in the synthesis of RNA molecules."
+      },
+      {
+       "key": "D",
+       "text": "contain a deoxyribose sugar if they are components of RNA, and a ribose sugar if they are components of DNA."
+      },
+      {
+       "key": "E",
+       "text": "may contain a purine nitrogenous base, which is a single ring structure."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q28",
+     "kind": "choice",
+     "points": 1,
+     "question": "28. Which statement about proteins is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Protein quaternary structure is determined solely by the primary amino acid sequence."
+      },
+      {
+       "key": "B",
+       "text": "Protein sequences that span a lipid bilayer membrane usually contain a number of charged amino acids."
+      },
+      {
+       "key": "C",
+       "text": "Examples of protein secondary structure include an \" helix or a $ pleated sheet."
+      },
+      {
+       "key": "D",
+       "text": "Protein tertiary structure is the result of the interaction of two or more independent polypeptide chains."
+      },
+      {
+       "key": "E",
+       "text": "Protein primary structure is altered by the interaction of the polypeptide chain with co-factors required for enzyme activity, such as metal ions or vitamins."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q29",
+     "kind": "choice",
+     "points": 1,
+     "question": "29. The protein complexes that constitute a cell’s oxidative metabolism in the mitochondrion are:",
+     "options": [
+      {
+       "key": "A",
+       "text": "dissolved within the matrix fluid."
+      },
+      {
+       "key": "B",
+       "text": "in the outer compartment between the two membranes."
+      },
+      {
+       "key": "C",
+       "text": "on the cytoplasmic face of the outer membrane."
+      },
+      {
+       "key": "D",
+       "text": "dissolved in the fluid of the outer compartment."
+      },
+      {
+       "key": "E",
+       "text": "embedded within the inner membrane."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q30",
+     "kind": "choice",
+     "points": 1,
+     "question": "30. The initial step in the biosynthesis of ATP by chemiosmosis in the mitochondrion is the:",
+     "options": [
+      {
+       "key": "A",
+       "text": "accumulation of sufficient inorganic phosphate by active transport."
+      },
+      {
+       "key": "B",
+       "text": "removal of phosphate from glucose-6-phosphate."
+      },
+      {
+       "key": "C",
+       "text": "pumping of protons into the outer compartment."
+      },
+      {
+       "key": "D",
+       "text": "pumping of electrons into the matrix."
+      },
+      {
+       "key": "E",
+       "text": "diffusion of protons into the outer compartment."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: C"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Тест: вопросы 31–40",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q31",
+     "kind": "choice",
+     "points": 1,
+     "question": "31. You are a membrane biologist and have just elucidated the molecular structure of a protein that penetrates the thickness of the plasma lipid bilayer with several non-polar, parallel helical segments. The next most logical set of experiments you conduct should be designed to characterize:",
+     "options": [
+      {
+       "key": "A",
+       "text": "a specific cell surface marker."
+      },
+      {
+       "key": "B",
+       "text": "a channel protein."
+      },
+      {
+       "key": "C",
+       "text": "a microtubule extension."
+      },
+      {
+       "key": "D",
+       "text": "a receptor."
+      },
+      {
+       "key": "E",
+       "text": "a highly charged segment of the protein on the side protruding within the cell. © 1999 University of Toronto U of T National Biology Com petition / 9"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q32",
+     "kind": "choice",
+     "points": 1,
+     "question": "32. If one mole of glucose and six moles of oxygen yield six moles of carbon dioxide and six moles of water when completely metabolized in a living cell, the net energy yield should be:",
+     "options": [
+      {
+       "key": "A",
+       "text": "two ATP molecules."
+      },
+      {
+       "key": "B",
+       "text": "two NADH and two ATP molecules."
+      },
+      {
+       "key": "C",
+       "text": "six NADH and two FADH2 molecules."
+      },
+      {
+       "key": "D",
+       "text": "686 kilocalories."
+      },
+      {
+       "key": "E",
+       "text": "686 kilocalories for each of the two turns of the Krebs (citric acid) cycle."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q33",
+     "kind": "choice",
+     "points": 1,
+     "question": "33. Which statement is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "NADH dehydrogenase is the terminal electron acceptor of the electron transport chain."
+      },
+      {
+       "key": "B",
+       "text": "O2 + 4H+ + 4e& ÷ 2H2O"
+      },
+      {
+       "key": "C",
+       "text": "The electron transport chain uses electrons from the oxidation of glucose to drive proton pumps."
+      },
+      {
+       "key": "D",
+       "text": "The ultimate acceptor of electrons harvested from pyruvate is oxygen gas which is reduced to form water."
+      },
+      {
+       "key": "E",
+       "text": "The oxidation of glucose to two pyruvate molecules from glycolysis yields two ATP molecules."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q34",
+     "kind": "choice",
+     "points": 1,
+     "question": "34. Which statement about starch metabolism is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Starch is synthesized from an intermediate product of the Calvin cycle."
+      },
+      {
+       "key": "B",
+       "text": "Oxidative respiration of the breakdown products of starch occurs in the cytosol (the soluble aqueous portion of the cytoplasm)."
+      },
+      {
+       "key": "C",
+       "text": "Hydrolytic enzymes catalyse the breakdown of starch to free sugars."
+      },
+      {
+       "key": "D",
+       "text": "Starch is a linear and/or branched polymer of glucose."
+      },
+      {
+       "key": "E",
+       "text": "Amylase enzyme from human saliva degrades starch."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q35",
+     "kind": "choice",
+     "points": 1,
+     "question": "35. What happens each day when the leaf of a plant is first exposed to light?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The epidermal cells on the upper surface of the leaf begin to photosynthesize."
+      },
+      {
+       "key": "B",
+       "text": "Carbon dioxide diffuses out of the leaf."
+      },
+      {
+       "key": "C",
+       "text": "The cells of the spongy mesophyll begin to take up carbon dioxide, and are the only cells that are able to do so."
+      },
+      {
+       "key": "D",
+       "text": "The concentration of oxygen in the intercellular spaces of the leaf decreases."
+      },
+      {
+       "key": "E",
+       "text": "The guard cells become more turgid and the stomatal apertures open."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q36",
+     "kind": "choice",
+     "points": 1,
+     "question": "36. Which statement about the light reactions of photosynthesis is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Photosystems I and II are located in the stroma of the chloroplast."
+      },
+      {
+       "key": "B",
+       "text": "Photosystems I and II are linked by a chain of electron carriers that is similar to that found in mitochondria."
+      },
+      {
+       "key": "C",
+       "text": "During photophosphorylation, water is oxidized to form H+ and O2 ions, yielding electrons to Photosystem II."
+      },
+      {
+       "key": "D",
+       "text": "Chlorophyll pigments have an absorption spectrum with pronounced peaks in the red and blue wavelengths."
+      },
+      {
+       "key": "E",
+       "text": "Protons diffuse through protein channels which are ATP-synthase molecules. © 1999 University of Toronto 10 / U of T National Biology Com petition"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q37",
+     "kind": "choice",
+     "points": 1,
+     "question": "37. The graph below shows the relationship between photosynthetic rate and temperature. Based on these results, which species is best adapted to arctic conditions where the mean temperature does not exceed 8°C during the growing season?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Species A"
+      },
+      {
+       "key": "B",
+       "text": "Species B"
+      },
+      {
+       "key": "C",
+       "text": "Species C"
+      },
+      {
+       "key": "D",
+       "text": "Species D"
+      },
+      {
+       "key": "E",
+       "text": "All species are equally well adapted."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q38",
+     "kind": "choice",
+     "points": 1,
+     "question": "38. In the veins of a spinach leaf:",
+     "options": [
+      {
+       "key": "A",
+       "text": "the water in the xylem vessels moves when the water potential of the atmosphere is less negative than the water potential of the vessels themselves."
+      },
+      {
+       "key": "B",
+       "text": "the water in the xylem vessels is under a positive hydrostatic pressure."
+      },
+      {
+       "key": "C",
+       "text": "the water in the xylem vessels is attracted to nonpolar molecules within the cell walls."
+      },
+      {
+       "key": "D",
+       "text": "the solution in the phloem sieve tubes is under a negative hydrostatic pressure (tension)."
+      },
+      {
+       "key": "E",
+       "text": "the water potential of the phloem sieve tube elements becomes more negative as carbohydrates are “loaded” into the elements by active transport."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q39",
+     "kind": "choice",
+     "points": 1,
+     "question": "39. The susceptibility to many cancers is inherited, despite the fact that those who contract the disease usually die quickly. The evidence shows that the usual explanation for this is that people who are at a genetic risk for cancer inherit:",
+     "options": [
+      {
+       "key": "A",
+       "text": "a deficient RNA editing mechanism."
+      },
+      {
+       "key": "B",
+       "text": "a predisposition (tendency) to avoid foods that prevent cancer."
+      },
+      {
+       "key": "C",
+       "text": "one of two or more mutations necessary to cause the disease."
+      },
+      {
+       "key": "D",
+       "text": "a predisposition to expose themselves to chemical carcinogens, such as those found in tobacco."
+      },
+      {
+       "key": "E",
+       "text": "a single cancer cell, which may or may not divide. © 1999 University of Toronto U of T National Biology Com petition / 11"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q40",
+     "kind": "choice",
+     "points": 1,
+     "question": "40. When a DNA molecule is replicated before mitosis the result is:",
+     "options": [
+      {
+       "key": "A",
+       "text": "two DNA molecules, one of which carries all of the original DNA molecule, while the other is newly synthesized."
+      },
+      {
+       "key": "B",
+       "text": "two DNA molecules, each of which contains half of the original DNA molecule."
+      },
+      {
+       "key": "C",
+       "text": "two DNA molecules, one of which carries all of the original DNA molecule, while the other is newly synthesized, plus the RNA template used as an intermediate."
+      },
+      {
+       "key": "D",
+       "text": "two DNA molecules, each of which contains half of the original DNA molecule, plus the RNA template used as an intermediate."
+      },
+      {
+       "key": "E",
+       "text": "two chromosomes."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Тест: вопросы 41–50",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q41",
+     "kind": "choice",
+     "points": 1,
+     "question": "41. From a scientific point of view, which of the following properties would help make a gene a practical target for gene therapy in a human? i. The product of the gene is disseminated outside the tissue of origin. ii. The gene is transcribed primarily in rapidly dividing cells. iii. The gene is the cause of a very common genetic disease. iv. The defect to be corrected is the result of a simple base pair difference. b. i and ii c. i, ii, and iv d. i and iii e. ii and iii f. iii and iv",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q42",
+     "kind": "choice",
+     "points": 1,
+     "question": "42. Which of the following changes to a DNA molecule is least likely to result in a deleterious mutation?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Insertion of a transposable element in a coding region."
+      },
+      {
+       "key": "B",
+       "text": "Deletion of a base pair in a coding region."
+      },
+      {
+       "key": "C",
+       "text": "Change of a base pair in the first codon of a coding region."
+      },
+      {
+       "key": "D",
+       "text": "Change of the first base pair of a codon."
+      },
+      {
+       "key": "E",
+       "text": "Change of the third base pair of a codon."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q43",
+     "kind": "choice",
+     "points": 1,
+     "question": "43. The goal of the polymerase chain reaction is to:",
+     "options": [
+      {
+       "key": "A",
+       "text": "speed up protein synthesis for the production of new drugs."
+      },
+      {
+       "key": "B",
+       "text": "create many copies of a DNA sequence which is initially very rare."
+      },
+      {
+       "key": "C",
+       "text": "create many copies of messenger RNA molecules."
+      },
+      {
+       "key": "D",
+       "text": "investigate the properties of organisms which normally grow at very high temperatures."
+      },
+      {
+       "key": "E",
+       "text": "create DNA probes. © 1999 University of Toronto 12 / U of T National Biology Com petition"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q44",
+     "kind": "choice",
+     "points": 1,
+     "question": "44. Efforts to repeat the cloning of Dolly the sheep have been unsuccessful. The scientists who claim to have cloned Dolly have been challenged to produce additional evidence that Dolly is really derived from an adult cell (as originally claimed), rather than a fetal cell which might have contaminated the experiment (as the sceptics suggest). Which of the following could provide evidence that Dolly was created from an adult cell, rather than a fetal cell?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Dolly’s DNA fingerprints."
+      },
+      {
+       "key": "B",
+       "text": "The heterozygosity of random pieces of Dolly’s DNA."
+      },
+      {
+       "key": "C",
+       "text": "The melting point of Dolly’s DNA."
+      },
+      {
+       "key": "D",
+       "text": "The length of Dolly’s telomeres."
+      },
+      {
+       "key": "E",
+       "text": "Dolly’s biological clock."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q45",
+     "kind": "choice",
+     "points": 1,
+     "question": "45. Although the seal and the penguin both have streamlined, fish-like bodies with a layer of insulating fat, they are not closely related. This similarity results from:",
+     "options": [
+      {
+       "key": "A",
+       "text": "homologous evolution."
+      },
+      {
+       "key": "B",
+       "text": "convergent evolution."
+      },
+      {
+       "key": "C",
+       "text": "adaptive radiation."
+      },
+      {
+       "key": "D",
+       "text": "coevolution."
+      },
+      {
+       "key": "E",
+       "text": "parallel evolution."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q46",
+     "kind": "choice",
+     "points": 1,
+     "question": "46. What does the term “reproductive isolation” refer to?",
+     "options": [
+      {
+       "key": "A",
+       "text": "An individual is unable to fertilize itself."
+      },
+      {
+       "key": "B",
+       "text": "Genes are not exchanged between two populations."
+      },
+      {
+       "key": "C",
+       "text": "Individuals from two populations never mate."
+      },
+      {
+       "key": "D",
+       "text": "Individuals from two populations never produce offspring."
+      },
+      {
+       "key": "E",
+       "text": "Individuals are solitary breeders."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-development",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q47",
+     "kind": "choice",
+     "points": 1,
+     "question": "47. Why is it unlikely that humans will undergo speciation in the future?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Migration among populations is high."
+      },
+      {
+       "key": "B",
+       "text": "Natural selection is no longer operating on humans."
+      },
+      {
+       "key": "C",
+       "text": "Random effects have become more important in large populations."
+      },
+      {
+       "key": "D",
+       "text": "The environment on Earth is being controlled and stabilized."
+      },
+      {
+       "key": "E",
+       "text": "The human species has exhausted nearly all of its genetic potential."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q48",
+     "kind": "choice",
+     "points": 1,
+     "question": "48. For a trait that is controlled by two alleles at a single locus, the frequency of the dominant allele is 0.6. What is the genotype frequency of heterozygous individuals, assuming the population is at Hardy-Weinberg equilibrium?",
+     "options": [
+      {
+       "key": "A",
+       "text": "0.16"
+      },
+      {
+       "key": "B",
+       "text": "0.24"
+      },
+      {
+       "key": "C",
+       "text": "0.36"
+      },
+      {
+       "key": "D",
+       "text": "0.48"
+      },
+      {
+       "key": "E",
+       "text": "0.72 © 1999 University of Toronto U of T National Biology Com petition / 13"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-popgen",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q49",
+     "kind": "choice",
+     "points": 1,
+     "question": "49. Which prediction from the fossil record is in agreement with the theory of evolution?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Jawed fishes are found deeper in rock strata (layers) than jawless fishes."
+      },
+      {
+       "key": "B",
+       "text": "Land animals appear earlier than land plants in the fossil record."
+      },
+      {
+       "key": "C",
+       "text": "Unicellular organisms are first found in strata above multicellular fossils."
+      },
+      {
+       "key": "D",
+       "text": "Prokaryote fossils appear earlier than eukaryote fossils."
+      },
+      {
+       "key": "E",
+       "text": "Reptiles appear earlier than insects in the fossil record."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q50",
+     "kind": "choice",
+     "points": 1,
+     "question": "50. Which of the following is NOT a correct match of hormone and function?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Luteinizing hormone – production of testosterone by the testes."
+      },
+      {
+       "key": "B",
+       "text": "Prolactin – milk production in the mammary glands."
+      },
+      {
+       "key": "C",
+       "text": "Glucagon – synthesis of glycogen in liver cells."
+      },
+      {
+       "key": "D",
+       "text": "Oxytocin – contraction of uterine muscles."
+      },
+      {
+       "key": "E",
+       "text": "Adrenalin (epinephrine) – inhibition of insulin release by the pancreas."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: C"
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Тест: вопросы 51–60",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q51",
+     "kind": "choice",
+     "points": 1,
+     "question": "51. Which statement about the vertebrate nervous system is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Relaxation of a muscle is caused by nerve impulses in inhibitory neurons going to the muscle from the spinal cord."
+      },
+      {
+       "key": "B",
+       "text": "After completely severing the brain from the spinal cord, reflex withdrawal of the foot from a painful stimulus could still occur."
+      },
+      {
+       "key": "C",
+       "text": "In a simple reflex, the sequence followed by information is: sensory receptor, sensory neuron, interneuron, motor neuron, muscle cells."
+      },
+      {
+       "key": "D",
+       "text": "The sympathetic nervous system activates the body’s responses to stress, for example, by increasing heart beat and decreasing blood flow to the gut."
+      },
+      {
+       "key": "E",
+       "text": "The spinal cord and the brain contain many synapses and both function in the processing of information."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q52",
+     "kind": "choice",
+     "points": 1,
+     "question": "52. If you were to insert a tiny heating probe into the thermoregulatory centre of the hypothalamus and use it to raise the temperature of the hypothalamus slightly, what is most likely to occur?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Shivering"
+      },
+      {
+       "key": "B",
+       "text": "Decreased circulation in the skin"
+      },
+      {
+       "key": "C",
+       "text": "Decreased activity of the sweat glands"
+      },
+      {
+       "key": "D",
+       "text": "A drop in body temperature"
+      },
+      {
+       "key": "E",
+       "text": "Increased muscular activity"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q53",
+     "kind": "choice",
+     "points": 1,
+     "question": "53. Suppose you are developing a new drug, and have found that when it is administered in humans there is a substantial increase in the volume of urine produced. When you administer antidiuretic hormone (ADH, or vasopressin) at the same time, the volume of urine returns to normal. Which hypothesis best fits these observations? The new drug:",
+     "options": [
+      {
+       "key": "A",
+       "text": "blocks the receptors for ADH on the collecting ducts of the kidney."
+      },
+      {
+       "key": "B",
+       "text": "blocks the release of ADH from the pituitary."
+      },
+      {
+       "key": "C",
+       "text": "mimics the action of ADH."
+      },
+      {
+       "key": "D",
+       "text": "damages the kidney."
+      },
+      {
+       "key": "E",
+       "text": "decreases blood pressure. © 1999 University of Toronto 14 / U of T National Biology Com petition"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q54",
+     "kind": "choice",
+     "points": 1,
+     "question": "54. Along with nicotine, cigarette smokers receive tars, phenols, hydrocarbons, arsenic, and many other chemicals. All of the following are effects of inhaling tobacco EXCEPT:",
+     "options": [
+      {
+       "key": "A",
+       "text": "narrowing or hardening of blood vessels in the heart and brain."
+      },
+      {
+       "key": "B",
+       "text": "stomach ulcers, due to an increased acidity in the stomach."
+      },
+      {
+       "key": "C",
+       "text": "a higher frequency of respiratory infections (e.g., colds, pneumonia)."
+      },
+      {
+       "key": "D",
+       "text": "a higher risk of cancer, including cancer of the lungs, mouth, larynx, bladder, and kidneys."
+      },
+      {
+       "key": "E",
+       "text": "stimulation of the central nervous system, including increased alertness."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q55",
+     "kind": "choice",
+     "points": 1,
+     "question": "55. Where would one expect to find the highest concentration of PCBs (polychlorinated biphenyls, an organic contaminant) in a lake?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Water"
+      },
+      {
+       "key": "B",
+       "text": "Small fish"
+      },
+      {
+       "key": "C",
+       "text": "Sediment"
+      },
+      {
+       "key": "D",
+       "text": "Phytoplankton"
+      },
+      {
+       "key": "E",
+       "text": "Zooplankton"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q56",
+     "kind": "choice",
+     "points": 1,
+     "question": "56. You were asked to measure the density of rats on an island using the mark-recapture technique. You captured 200 rats, marked them with tags and released them. A week later you sampled 500 rats and measured how many of these rats were marked. This ratio allows you to estimate the size of the rat population on the island, as shown in the equation below. Which of the following must occur in order for your estimate of population size to be accurate?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The marked rats must not move far from the region where you released them."
+      },
+      {
+       "key": "B",
+       "text": "The marked rats must represent a small proportion of the total population."
+      },
+      {
+       "key": "C",
+       "text": "The marked rats must mix freely with the rest of the population."
+      },
+      {
+       "key": "D",
+       "text": "The death rate in the rat population must be low."
+      },
+      {
+       "key": "E",
+       "text": "The rats on the island must be territorial."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q57",
+     "kind": "choice",
+     "points": 1,
+     "question": "57. Carbon dioxide is called a “greenhouse” gas because:",
+     "options": [
+      {
+       "key": "A",
+       "text": "its concentration is always high in greenhouses."
+      },
+      {
+       "key": "B",
+       "text": "it is involved in photosynthesis."
+      },
+      {
+       "key": "C",
+       "text": "it absorbs infra-red radiation."
+      },
+      {
+       "key": "D",
+       "text": "it emits visible radiation (i.e., light)."
+      },
+      {
+       "key": "E",
+       "text": "it absorbs and emits ultra-violet radiation."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q58",
+     "kind": "choice",
+     "points": 1,
+     "question": "58. As the number of individuals approaches the carrying capacity of a population, which of the following is predicted by the sigmoidal growth curve?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Population density will increase exponentially."
+      },
+      {
+       "key": "B",
+       "text": "Population density will decrease exponentially."
+      },
+      {
+       "key": "C",
+       "text": "Population growth rate will increase."
+      },
+      {
+       "key": "D",
+       "text": "Population growth rate will decrease."
+      },
+      {
+       "key": "E",
+       "text": "Population biomass will remain the same. © 1999 University of Toronto U of T National Biology Com petition / 15"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-ecology",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q59",
+     "kind": "choice",
+     "points": 1,
+     "question": "59. In most ecosystems, the biomass of a trophic level is higher than the biomass of its predators, as illustrated below by an upright pyramid of biomass. In the open ocean, however, the biomass of primary producers (microscopic algae) is often lower than the biomass of higher trophic levels (for example, zooplankton and fish), as illustrated below by an inverted pyramid of biomass. In the open ocean, how can there be enough food to support the higher trophic levels? Trophic Most ecosystems Open ocean level 3 2 1 Note: The width of the bars indicates the amount of biomass at each trophic level.",
+     "options": [
+      {
+       "key": "A",
+       "text": "The microscopic primary producers are a source of food of high quality."
+      },
+      {
+       "key": "B",
+       "text": "The microscopic primary producers have high rates of growth and reproduction."
+      },
+      {
+       "key": "C",
+       "text": "The microscopic primary producers are very abundant."
+      },
+      {
+       "key": "D",
+       "text": "The higher trophic levels are cold-blooded animals which do not require much food."
+      },
+      {
+       "key": "E",
+       "text": "The higher trophic levels are efficient predators."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q60",
+     "kind": "choice",
+     "points": 1,
+     "question": "60. One of the consequences of El Niño is a decline in the number of fish caught along the coasts of Ecuador and Peru. This decline is primarily because:",
+     "options": [
+      {
+       "key": "A",
+       "text": "of poor weather conditions."
+      },
+      {
+       "key": "B",
+       "text": "of increased salinity of surface waters along the coast."
+      },
+      {
+       "key": "C",
+       "text": "warmer water attracts more predators (for example, dolphins and seals)."
+      },
+      {
+       "key": "D",
+       "text": "warmer water increases fish mortality."
+      },
+      {
+       "key": "E",
+       "text": "cold nutrient-rich water does not upwell to the surface along the coast. End of exam. • Time permitting, please answer question #61."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-ecology",
+     "reference": "Правильный ответ: E"
+    }
+   ]
+  }
+ ]
+}

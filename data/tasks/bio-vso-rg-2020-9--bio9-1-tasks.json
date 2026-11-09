@@ -1,0 +1,68 @@
+{
+ "setId": "bio-vso-rg-2020-9--bio9-1-tasks",
+ "olympiadId": "bio-vso-rg-2020-9",
+ "title": "Биология → Всеросс — региональный → 2020 → 9 класс",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/vso_rg/2020/9/bio9-1-tasks.pdf",
+ "solutionFile": "olympiads/biology/vso_rg/2020/9/bio9-1-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T13:44:31.270Z",
+ "quality": {
+  "tasks": 3,
+  "parts": 3,
+  "withPoints": 3,
+  "withReference": 0,
+  "withQuestion": 3,
+  "estimatedPoints": 2
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "мах. 30 баллов",
+   "weight": null,
+   "total": 10,
+   "statement": "№ а б в г            № а б в                         г       № а б в           г          № а б в            г         № а б в      г\n    1                        7                                13                           19                           25\n    2                        8                                14                           20                           26\n    3                        9                                15                           21                           27\n    4                       10                                16                           22                           28\n    5                       11                                17                           23                           29\n    6                       12                                18                           24                           30",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "мах. 65 баллов",
+   "weight": null,
+   "total": 10,
+   "statement": "№ ? а б в г д          № ? а б в                         г   д    № ? а б в               г    д   № ? а б в                г   д   № ? а б в    г   д\n              в                       в                                     в                                 в                           в\n    1                            7                                 13                               19                               25\n              н                       н                                     н                                 н                           н\n              в                       в                                     в                                 в                           в\n    2                            8                                 14                               20                               26\n              н                       н                                     н                                 н                           н\n\n    3                            9                                 15                               21\n\n    4                            10                                16                               22\n\n    5                            11                                17                               23\n    6                            12                                18                               24",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "мах. 20 баллов",
+   "weight": null,
+   "total": 4,
+   "statement": "1. мах. 6 баллов                                                  2. мах. 4 балла                  3. мах. 4 балла\n  Ст-ра 1 2 3 4 5 6 7 8 9 10 11 12                                  Рис.  1 2 3 4                   Отв-ие 1 2 3 4 5 6 7 8\n\n      А                                                                А                                А\n  Семейство\n\n                                                                   Стр-ра\n\n      Б                                                                Б                                Б\n                                                                                                    Функции\n\n                                                                       В                                В\n                                                                       Г\n                                                                       Д\n                                                                       Е\n                                                                   Вид\n\n (по 0,5 б.) = __________                                                                           (по 0,5 б.) = __________\n                                                                       Ж\n                                                                       З\n                                                                   (по 0,5 б.) = __________\n\n 4. мах. 3 балла                          5. мах. 3 балла\n Группа 1 2 3 4 5 6                        Об-ие 1 2 3 4 5 5\n\n     А                                         А\n     Б                                         Б\nстроения\n Схема\n\n     В                                         В\n                                          Структуры\n\n     Г                                         Г\n     Д                                         Д\n (по 0,5 б.) = __________\n                                               Е\n                                              Ж\n                                               З\n                                              И\n                                          (по 0,5 б.) = __________                                                    Итого:\n\n                                                                            Проверили:",
+   "parts": [
+    {
+     "id": "3.1",
+     "points": 4,
+     "question": "мах. 6 баллов 2. мах. 4 балла 3. мах.",
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

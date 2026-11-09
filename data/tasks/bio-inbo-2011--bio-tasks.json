@@ -1,0 +1,559 @@
+{
+ "setId": "bio-inbo-2011--bio-tasks",
+ "olympiadId": "bio-inbo-2011",
+ "title": "Биология → INBO → 2011",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/inbo/2011/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/inbo/2011/bio-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T13:45:00.615Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 66,
+  "withPoints": 66,
+  "withReference": 66,
+  "withQuestion": 66,
+  "estimatedPoints": 66
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "INDIAN NATIONAL BIOLOGY OLYMPIAD – 2011",
+   "weight": null,
+   "total": 66,
+   "statement": "SECTION A\n\nCELL BIOLOGY (7)\n1. (1 point) In an experiment, the PO4 groups of the phospholipids facing the\n   lumen of the endoplasmic reticulum (ER) are labeled. If in the course of time,\n   the ER buds off vesicles which fuse with the cell membrane, the label will be\n   found:\na. on the PO4 groups of cell membrane facing extra cellular fluid.\nb. on the PO4 groups of cell membrane facing cytosol.\nc. only on inner lumen of ER.\nd. on both inner and outer laminae of ER.\n\n2. (1 point) Which of the following primarily contribute to the ‘cytomembrane\n   system’ of a cell?\n   I.       Endoplasmic reticulum\n   II.      Vesicles\n   III.     Microtubules\n   IV.      Mitochondria\n   V.       Golgi apparatus\na. I and V only\nb. I, II, IV and V\nc. I, II and V\nd. I, II, III, IV and V\n\n3. (1 point) If a very promising non-toxic drug against intestinal parasites is non-\n   polar in nature, then the most effective way to administer it would be:\na. to give the drug in injectible form.\nb. to carry out liposome-mediated drug delivery.\nc. to give a high dosage pill.\n\n                                          1\n\nd. to use minimum concentration as it can effectively pass through the lipid\n         bilayer.\n\n4. (1 point) The target theory suggests that the X –ray interacts directly with the\n         genetic material and induces DNA breaks. As per this theory, the maximum\n         damages are expected when the cells are irradiated at:\na. G1\nb. S\nc. G2\nd. M\n\n5. (1 point) The following graph was obtained when bacterial cells were added to\n         nutrient medium and then observed for next 50 hrs.\n                                                      1000\n                                No. of cells (x102)\n\n                                                                                                     P\n\n                                                       600\n                                                                                          Q\n\n                                                       200\n                                                             0\n                                                     30 40 50    10   20\n                                                    hrs\n         If curves P and Q respectively indicate the total cell population and living cell\n         population, then choose the curve that will correctly represent dying cell\n         population:\n\na.                                                                          b.\n                1000                                                                      1000\n\n                600                                                                        600\n\n                200                                                                        200\n                       0                                                                         0\n                           10               20          30 40    50                                      10   20    30   40   50\n                                                         hrs                                                       hrs\n                                                                      2\n\nc.                                                                  d.\n                1000                                                                1000\n\n                 600                                                                 600\n\n                 200                                                                 200\n                       0                                                                   0\n                              10          20    30   40    50                                  10    20     30   40   50\n                                               hrs                                                         hrs\n\n 6. (1 point) A plant pigment could be effectively extracted when the solvent\n                system used was non-polar and it showed the following absorption spectrum:\n\n                                          1\n                           absorbance\n\n                                        0.5\n\n                                                     450            550                        650   700\n                                                                                    nm\n                The pigment is most likely to be:\n a. chlorophyll\n b. carotene\n c. anthocyanin\n d. xanthophyll\n\n                                                                3\n\n7. (1 point) A cDNA library is a population of bacterial transformants in which\n\n   each mRNA isolated from an organism is represented in the cDNA form.\n\n   Choose the correct sequence in an experiment of production of cDNA:\n\n   A. Processed mRNA\n\n   B. Treatment with RNAase\n\n   C. Addition of poly T primers\n\n   D. Addition of DNA polymerase I\n\n   E. Treatment with DNAase\n\n   F. Addition of Reverse transcriptase\n\n   G. DNA Template\n\n   H. DNA-RNA complex\n\na. A ÆC Æ F Æ B Æ D\n\nb. G Æ B Æ D Æ C Æ F\n\nc. H Æ B Æ C Æ F Æ A\n\nd. A Æ E Æ B Æ C Æ F\n\nPLANT SCIENCES (9)\n8. (1 point) In an experiment to generate plantlets through plant tissue culture,\n   explants were taken from the following regions of Tectona grandis (teak) and\n   grown on nutrient media. From which of the regions could plantlets be\n   obtained?\n\n                                          4\n\n   1. Leaf\n\n   2. Secondary Xylem\n\n   3. Apical bud\n\n   4. Cork\n\n   5. Axillary bud\n\na. Only 1, 3 and 5\nb. All five\nc. 1, 3, 4 and 5\nd. Only 1\n\n9. (1 point) Plant cell A has an osmotic pressure of 12 atm and is immersed in\n   solution of 10 atm osmotic pressure. Another cell B has 10 atm osmotic\n   pressure and is immersed in solution of osmotic pressure of 8 atm. Both the\n   cells are allowed to come to equilibrium, then removed from their solution and\n   brought in intimate contact. Assuming that there is no external influencing\n   force, what will be the result?\na. There will be a net flow of water from A to B.\nb. There will be net flow of water from B to A.\nc. There will be no net flow of water.\nd. Water will freely pass from A to B but not from B to A.\n\n10. (1 point) When effect of CO2 concentration and light intensity on rate of\n   photosynthesis is studied the following graph is obtained.\n\n                                         5\n\n                                                                  High light flux\n     Rate of Photosynthesis\n\n                                       B\n\n                                                          C       Low light flux\n\n                              A\n\n                                      CO2 concentration\n\n   The limiting factors for photosynthesis in the regions A, B and C on the curves\n   respectively are:\na. A: CO2                         B: light    C: CO2\nb. A: CO2                         B: light    C: light\nc. A: light                       B: CO2      C: CO2\nd. A: CO2                         B: CO2      C: light\n\n11. (1 point) Carnivorous plants are found in soils that are poor in nitrogen and\n   phosphorous and show varied adaptations to catch insects. Different plants\n   invest differentially into development of specialized structures for carnivory.\n   However, in doing so, they compromise on their photosynthetic ability. When\n   the productivity of these plants was studied, following graph was obtained.\n\n                                                              6\n\n                                                       III\n       CO2 uptake\n\n                                                             II\n\n                    0\n                                     Extent of carnivory\n\n                                                       I\n\n   The graphs I, II and III respectively indicate:\n\na. net photosynthesis, gross photosynthesis and respiration.\nb. respiration, gross photosynthesis and net photosynthesis.\nc. respiration, net photosynthesis and gross photosynthesis.\nd. net photosynthesis, gross photosynthesis and carnivory.\n\n12. (1 point) A cell is fully turgid when:\n   (i) Ψw = 0\n   (ii) Ψp = 0\n   (iii) Ψp = Ψs\n   (iv) Ψw = Ψs\na. Only (i) is correct\nb. Only (ii) is correct\nc. Both (i) and (iii) are correct\nd. Both (ii) and (iii) are correct\n\n                                             7\n\n13. (1 point) The concentrations of solutes present in solution A, B, C and D are\n   given below:\n   Solution A: 0.1 moles.L-1 sucrose + 0.1 moles.L-1 KCl\n   Solution B: 0.2 moles.L-1 sucrose + 0.2 moles.L-1 KCl\n   Solution C: 0.1 moles.L-1 sucrose + 0.1 moles.L-1 CaCl2\n   Solution D: 0.1 moles.L-1 sucrose + 0.2 moles.L-1 CaCl2\n   The decreasing order of osmolarity of the four solutions would be:\na. solution A > solution C > solution D > solution B\nb. solution B > solution D > solution C > solution A\nc. solution C > solution A > solution D > solution B\nd. solution D > solution B > solution C > solution A\n\n14. (1 point) The critical day lengths for 4 plants are as follows:\n   Plant A – 15.5 hrs.\n   Plant B – 15.5 hrs.\n   Plant C – 10.0 hrs.\n   Plant D – 9.5 hrs.\n   Plant A flowers when it receives 8.5 or more hours of darkness.\n   Plant B flowers when it receives a minimum of 15.5 hrs of light.\n   Plant C flowers when it receives less than 10 hrs of light.\n   Plant D flowers when it receives less than 9.5 hrs of light.\n   Which one is a long day plant?\na. Plant A\nb. Plant A and C\nc. Plant D\nd. Plant B\n\n15. (1 point) Which of the following sequences explains the different steps\n   followed by the common bread mold Mucor in obtaining nutrition?\n\n                                          8\n\n   1. Synthesis of hydrolytic enzymes → movement of enzyme from cell into\n       substrate → digestion of substrate by enzyme → absorption of products\n       by cell.\n   2. Absorption of substrate molecules by cell → synthesis of hydrolytic\n       enzymes → digestion of substrate by enzymes\n   3. Synthesis of hydrolytic enzymes → absorption of substrate molecules into\n       cell → digestion of substrate by enzymes.\n   4. Synthesis of hydrolytic enzymes → absorption of substrate molecules into\n       cell in small vesicles →movement of enzymes into vesicles → digestion of\n       substrate by enzymes\na. 1\nb. 2\nc. 4\nd. Both 2 and 3\n\n16. (1 point) “Serpentine soil ” is a soil that has relatively large amount of Mg++\n   and low levels of Ca++. Vegetation generally grows sparsely in such a soil. A\n   plant ‘P’ could grow in such a soil but ‘Q’ could not. When the soil was\n   supplemented with ‘Ca++’ , the results obtained can be seen in the graph. The\n   most appropriate interpretation is:\n\n                                              P              Q\n                   Dry weight\n\n                                     Ca++supplement introduced\n\n                                          9\n\na. P is Ca++ tolerant plant while Q is Mg++ intolerant plant.\nb. P is adapted to low Ca++ condition while Q is adapted to low Mg++ condition.\nc. P is adapted to serpentine soil while Q is intolerant to serpentine soil.\nd. Mg++ has no role to play in physiology of plant ‘P’ but an essential growth\n   factor for plant Q.\n\nANIMAL SCIENCES (6)\n17. (1 point) A baby born to a diabetic mother sometimes shows signs of\n   hypoglycemia for some period just after birth. This is due to:\na. continued maternal insulin activity.\nb. utilization of sugar from baby's blood for its activities after birth.\nc. increased fetal insulin level to counter excess sugar from mother.\nd. reduced production of maternal insulin as a result of diabetes.\n\n18. (1 point) Oxygen dissociation curves of toadfish blood at two different\n   conditions (P & Q) are shown.\n           % saturation of hemoglobin\n\n                                    100                                    P\n\n                                                                               Q\n                                        20\n\n                                             20                          100\n                                             O2 pressure (mm of Mercury)\n\n   P and Q respectively indicate:\na. high and low temperature.\nb. low and high blood pH.\n\n                                                        10\n\nc. low and high CO2 concentration.\nd. high and low metabolic activity.\n\n19. (1 point) Values of the total surface area of the gills (expressed in arbitrary\n   units) per unit gram body weight of two types of fish are given below.\n   Fish I:    442\n   Fish II:   1725\n   Which of the following can be predicted from the data?\n\na. Fish I is marine while II is a fresh water fish.\n\nb. Fish I is a bottom dwelling fish and II is a surface dwelling fish.\n\nc. Fish I is bony fish and II is a cartilagenous fish.\n\nd. Fish I is with small body mass and fish II is with large body mass.\n\n20. (1 point) Carbonic anhydrase enzyme catalyses the following bidirectional\n   reaction\n               CO2 + H2O                       H2CO3\n\n   If the activity of this enzyme is compared between three animals - elephant,\n   sheep and mouse, the likely trend would be:\na. Mouse > sheep > elephant\nb. elephant > mouse > sheep\nc. sheep > mouse > elephant\nd. elephant > sheep > mouse\n\n21. (1 point) The three characteristic features of human circulatory system are\n   tabulated below. P, Q and R respectively represent:\n\n                                          11\n\n                      P                      Q                        R\n\na. blood pressure, blood volume, blood velocity\nb. blood volume, blood pressure, blood velocity\nc. blood volume, blood velocity, blood pressure\nd. blood velocity, blood pressure, blood volume\n\n22. (1 point) Transverse section of a mature female Ascaris lumbricoides is\n   shown. The labeled structures P, Q and R respectively represent:\n\n                                                      Q\n\n          P\n                                                          R\n\na. blood vessel, pseudocoel and dorsal nerve\nb. uterus, coelom and dorsal nerve\n\n                                       12\n\nc. blood vessel, coelom and germinal epithelium\nd. uterus, pseudocoelom and ventral nerve\n\nGENETICS & EVOLUTION (8)\n23. (1 point) In a family, a female child is diagnosed with a known genetic\n   disorder. She has four unaffected brothers and sisters. Neither parent nor any\n   of the four biological grandparents of the affected child has had the disease.\n   The most likely genetic explanation is that the disease is inherited as:\na. autosomal dominant\nb. autosomal recessive\nc. X-linked recessive\nd. X-linked dominant\n\n24. (1 point) Three copies of chromosome 21 in a child with Down’s syndrome\n   have been analysed using molecular biology techniques to detect any\n   possible DNA polymorphism with reference to different alleles located on\n   chromosome 21. Results showed that out of 3 copies, two of the\n   chromosomes of the child contain the same alleles as one of the mother’s\n   alleles. Based on this, when did the non-disjunction event most likely occur?\na. Maternal meiosis I\nb. Maternal meiosis II\nc. Paternal meiosis I\nd. Paternal meiosis II\n\n25. (1 point) The genotypes of a husband and wife are IA IB and IA i. Among the\n   blood types of their children, how many different genotypes and phenotypes\n   are possible?\na. 2 genotypes , 3 phenotypes\n\n                                        13\n\nb. 3 genotypes, 4 phenotypes\nc. 4 genotypes, 4 phenotypes\nd. 4 genotypes, 3 phenotypes\n\n26. (1 point) In order to study biochemical pathway of arginine synthesis in\n   bacteria, they were exposed to low doses of ultraviolet radiations and one of\n   the mutants was grown in minimal media containing various precursors of\n   arginine. The results are as follows:\n\n                             Ornithine   Citrulline   Arginine   Growth\n                Medium 1     +           +            –          +\n                Medium 2     –           +            –          +\n                Medium 3     –           +            +          +\n                Medium 4     +           –            +          +\n                Medium 5     +            –            –         -\n\n   The mutation resulted in the malfunctioning of the enzyme that converts:\na. ornithine to arginine\nb. citrulline to ornithine\nc. citrulline to arginine\nd. ornithine to citrulline\n\n27. (1 point) In sweet pea plants, the genes for pollen shapes and flower colour\n   are linked, purple being dominant over red and long pollen grain being\n   dominant over round. If a plant heterozygous for both these traits is mated\n   with a plant homozygous dominant for flower colour and homozygous\n   recessive for pollen shape, what will be the phenotype of F1 generation?\na. All plants with purple flowers and half with round pollen.\nb. All plants with purple flowers and round pollen.\nc. Half the plants with red flowers and round pollen.\nd. The result will depend on whether the two dominant genes are present on the\n   same or different chromosomes.\n\n                                           14\n\n28. (1 point) Igf2 gene of mouse encodes for insulin like growth factor II. A mouse\n   that carries two normal wild type alleles of this gene is normal in size,\n   whereas a mouse that caries two mutant alleles is dwarf. One heterozygous\n   male was crossed with a heterozygous female, both being normal sized. The\n   ratio of normal to dwarf was 1:1 instead of the expected 3:1. When some of\n   these F1 male dwarfs were mated with homozygous mutant female dwarfs,\n   normal mice appeared in the following progeny. This can happen if the normal\n   Igf2 gene got imprinted in parent during:\na. egg production only.\nb. sperm production only.\nc. either egg or sperm production.\nd. both egg and sperm production.\n\n29. (1 point) Consider the following two situations:\n   Situation I: Bird 1 hatches and grows up to become adult Æ mates twice in\n   lifetime Æ lays five eggs Æ three of them survive.\n   Situation II: Bird 2 hatches and grows up to become an adult Æ mates four\n   times in lifetime Æ lays six eggs Æ one of them survives Æ bird 2 lives twice\n   as long as bird 1.\n   Mark the correct interpretation.\na. Natural selection is acting on bird 1 but not on bird 2.\nb. Bird 1 is evolutionarily more fit than bird 2.\nc. Natural selection is acting on bird 2 but not on bird 1.\nd. Bird 2 is evolutionarily more fit than bird 1.\n\n30. (1 point) Which of the following best depicts the evolutionary sequence of\n   plant characters?\n\n                                          15\n\n   1. Transition to land habitat\n   2. Evolution of seeds\n   3. Evolution of fruits\n   4. Evolution of vascular structures\n\na. 1 – 4 – 2 – 3\nb. 4 – 1 – 2 – 3\nc. 1 – 4 – 3 – 2\nd. 4 – 1 – 3 – 2\n\nETHOLOGY (3)\n31. (1 point) The Great tit nests and lays a single clutch of eggs in spring. In an\n   exhaustive study, large numbers of pairs of these birds were studied to collect\n   the data on clutch sizes, weights of individual young ones and their survival\n   rates. The following graph was obtained.\n                                14                               40\n                                                                       % survival after fledging\n                No. per brood\n\n                                10\n                                                                 20\n                                 6\n\n                                 2\n\n                                       10     16     18     20\n                                     Average weight of young one (g)\n\n   Which of the following will leave maximum surviving offspring for the Great\n   tit?\na. Brood size of 12 or more\nb. Brood size of 2 or less\nc. Nestlings of the weights 16 - 18 g\nd. Nestlings with the weights above 20 g\n\n                                                      16\n\n32. (1 point) Graph indicates the relationship between number of pigeons in the\n     flock and the distance at which the flock can sense the predator movement\n     and escape.\n\n                                                                40\n\n                                                Mean Reaction\n                                                Distance (m)\n                                                                20\n\n                                                                 No. of pigeons in a flock\n\n        If % attack success is plotted against number of pigeons in the flock, it will\n        be correctly represented by:\n\na.                                                                                  % attack success\n                                                                         b.\n\n                           No of pigeons in flock                                                      No of pigeons in flock\n\nc.                                                                       d.\n\n                                   No of pigeons in flock                                              No of pigeons in flock\n\n33. (1 point) While studying feeding behavior of birds, the chicks were exposed to\n     two situations as follows:\n     Situation I: Chicks fed with green grains against red background.\n\n                                                                         17\n\n   Situation II: Chicks fed with green grains against green background.\n   The following response was obtained.\n\n                        Cumulative no. of grains eaten\n                                                                                    II\n\n                                                         100\n                                                                  I\n\n                                                                3      6        9\n                                                               Minutes of trial\n\n The following interpretations are made.\n 1. There is a significant improvement in the bird’s ability to peck at grains in\n     both situations.\n 2. The pecking and eating of inconspicuous grains is a random event.\n 3. The birds are reluctant to peck at any object that is not of natural colour.\n 4. At the end of the trial, the rate at which the birds ate the inconspicuous food\n     was same as that of conspicuous food.\n 5. The birds learnt to peck and eat the inconspicuous food after some trials\n     however the rate was lower than the rate at which they pecked and ate the\n     conspicuous food.\n The correct interpretation/s is/are:\na. 1 and 4\nb. 2 and 5\nc. 3 and 5\nd. Only 4\n\nECOLOGY (7)\n34. (1 point) Some bird species follow army ants which walk on the forest floor.\n   As the army ant colony travels on the forest floor, they stir up various flying\n\n                                                                         18\n\n    insect species. As the insects flee from the army ants, the birds following the\n    ants catch the fleeing insects. The type of interaction between the army ants\n    and birds (I) and the birds and insects (II) respectively is:\n\na. commensalism and amensalism\nb. commensalism and predation\nc. mutualism and predation\nd. predation and commensalism\n\n35. (1 point) A species of earthworm ‘P’ can grow successfully if the soil water\n    content is 5 – 8%. Another species ‘Q’ is able to do so if soil water content is\n    7 – 10%. If the population of these species is grown together under limited\n    resources and gradient distribution of moisture, then:\n    (i)     the reproductive success of ‘P’ will be maximum in 5-6% soil moisture.\n    (ii)    the reproductive success of ‘Q’ will be maximum in 9 – 10% soil\n            moisture.\n    (iii)   the reproductive success of both the species will be greatest in the\n            overlapping zone ie 7 – 8% of soil moisture.\n    (iv)    the reproductive success of ‘Q’ will be minimum in soil moisture of 5 –\n            8%.\n    (v)     the realized niche of species ‘P’ is soil with 7 – 8% moisture.\n    The correct statements are:\na. (i), (ii) and (iv)\nb. (iii) only\nc. (iii) and (v)\nd. (iv) and (v)\n\n36. (1 point) The ecosystem having production distinctly greater than respiration\n    is:\n\n                                          19\n\na. mangrove ecosystem\nb. coral ecosystem\nc. grassland ecosystem\nd. evergreen forest ecosystem\n\n37. (1 point) A temperate forest in summer has irregular pyramid of numbers\n   because of:\na. primary producers consisting of trees and under-growth, few large herbivores\n   and fewer carnivores.\nb. larger number of herbivorous birds and animals.\nc. small number of consumers and large number of decomposers.\nd. small number of secondary consumers and number of primary consumers\n   greater than producers.\n\n38. (1 point) Succession in a forest ecosystem is characterized by changes in\n   species diversity, biomass and net primary productivity as shown in the graph\n   below. Identify curves A, B and C.\n\n                                                               C\n\n                                                               B\n\n                                                               A\n\n                     Herbs             Shrubs          Trees\na. A: biomass                B: net primary productivity       C: species diversity\nb. A: species diversity      B: net primary productivity       C: biomass\n\n                                         20\n\nc. A: net primary productivity           B: biomass                       C: species diversity\nd. A: net primary productivity           B: species diversity             C: biomass\n\n39. (1 point) The following diagram is a graphical representation of two plant\n   communities A and B at the location where they meet (ecotone C). Which of\n   the following would be true for area C?\n\n                             A              C              B\n\n   1. High habitat diversity\n   2. Low species diversity\n   3. Presence of unique species\n   4. High microclimatic variability\n\na. All four\nb. 1, 2 and 4 only\nc. 1, 3 and 4 only\nd. 2 only\n\n40. (1 point) A study of phytoplanktons was undertaken at the Gotri reservoir,\n   which has a maximum capacity of 12 x 108 lit. The quantity of water in the\n   reservoir and the planktonic density were estimated 4 times a year.\n\n                                                  Month\n               August              November                    February                   May\n    Volume         Density   Volume       Density     Volume        Density     Volume      Density\n       (lit)        (ml-1)       (lit)      (ml-1)        (lit)      (ml-1)       (lit)         (ml-1)\n\n    12 x 108            8    10 x 108        11       2 x 108         21        9 x 105          25\n\n                                                21\n\n   The collected data has been tabulated above.\n    In which month is the reservoir least productive?\na. August\nb. November\nc. February\nd. May\n\nBIOSYSTEMATICS (1)\n\n41. (1 point) “Living fossils” are the:\na. organisms that are long extinct but their DNA is accessible for study.\nb. organisms that have become fossilized recently and all the structural proteins\n   are not yet completely denatured.\nc. ancient organisms persisting to modern times without any morphological\n   changes.\nd. ancient organisms persisting to modern times with gradual morphological\n   changes.\n\n                                  ****************\n\n                                          22\n\n               INDIAN NATIONAL BIOLOGY OLYMPIAD – 2011\n\n                                     SECTION B\n\nCELL BIOLOGY (15)\n42. (2 points) Using the following information calculate the number of origins of\n   DNA replication on a human chromosome:\n   DNA polymerase adds 3000 nucleotides per minute in one direction;\n   replication is bidirectional; S-phase lasts 300 minutes; there are 180 million\n   base pairs per chromosome. Assuming a chromosome 4µm long, how many\n   origins will there be per micrometer?\n\n   Answer: ________________\n\n43. (3 points) The following table indicates some properties of human cells.\n   Indicate with (√) mark if the given property is shown by a cell type or a (X)\n   sign if the cell does not show the property.\n   (Each row will be given 1 point only if it is entirely correct)\n\n                        Carry out          Contain                       Can\n           Cell                                          Can grow\n   No.                  oxidative          genetic                   undergo cell\n           type                                           in size\n                     phosphorylation       material                    division\n    1      RBCs\n\n    2    Neurons\n\n    3     Sperms\n\n44. (0.5 x 4 = 2 points) Certain molecules with amphipathic properties prevent\n   complete collapsing of the alveolar surfaces and also help easier re-opening\n   of the air spaces. These molecules are synthesized in pneumocytes.\n   Following are some structures associated with these molecules in some way.\n\n                                          23\n\n    Identify the structures and write the correct option against each of them.\n    Choose from the options given below.\n\nA\n\nB\n\nC\n\nD\n\nA: ________________\n\nB: ________________\n\nC: ________________\n\nD. ________________\n\nOptions:\n           1. DNA\n           2. intron\n           3. primary transcript\n           4. precursor protein\n           5. processed mRNA\n           6. exon\n\n                                         24\n\n                    7. functional protein\n                    8. glycolipid\n\n45. (2 x 2 = 4 points) A measurement of % labeled mitotic cells can be used to\n   estimate various phases of the cell cycle. The method involves exposing the\n   cells to pulse of 3H-TdR (radiolabelled thymidine) and estimating the number\n   of labelled mitotic cells at regular intervals by autoradiography. Cells which\n   are actively synthesizing DNA incorporate the label. The data is shown in the\n   graph.\n    % radioactive\n    mitotic cells\n\n                          2         4   6    8        10         12   14   16   18   20\n                                                           hrs\n\n              Study the graph and determine the following:\n         i.            Duration of one complete cell cycle: _____ hrs\n        ii.            Duration of the S phase: _____ hrs\n\n46. (2 points) Arrange the following molecules in the correct order by which they\n   can traverse a typical cell membrane starting with the molecule which will\n   travel most easily.\n   I.           A neutral molecule with molecular weight 20 kDa with (+1) and (-1)\n                charges.\n   II.          A non polar molecule with molecular weight 25 kDa.\n   III.         A neutral molecule with +2 and -2 charge of molecular weight 200 Da.\n   IV.          A molecule with molecular weight 20 dalton with +1 charge.\na. II > I > III > IV\n\n                                                 25\n\nb. II > IV > I > III\nc. IV > II > I > III\nd. I > II > IV > III\n\n            a.     b.    c.   d.\n\n47. (2 points) The DNA fingerprinting analysis of four family members is shown\n   below.\n                              A       B               C     D\n\n   Study the band pattern obtained and assign each family member to A, B, C\n   and D. Choose the correct option and put a tick mark (√) in the appropriate\n   box.\na. A – father           B – mother        C – child          D – paternal uncle\nb. A – child            B – father        C – mother         D – maternal uncle\nc. A – father           B – child         C – mother         D – paternal uncle\nd. A – child            B – father        C – maternal uncle D – mother\n\n                                       26\n\n           a.   b.    c.   d.\n\nPLANT SCIENCES (6)\n48. (2 points) Floral diagrams are used to graphically represent a flower. Given\n   below is a floral diagram of a flower:\n\n   Which of the following properties does it convey?\n                 1. Presence of three sepals\n\n                 2. Having a tricarpellary syncarpous ovary\n\n                 3. Presence of three fertile stamens\n\n                 4. Presence of a bract\n\na. Only 1, 3 and 4\n\n                                            27\n\nb. Only 1, 2 and 4\n\nc. Only 2 and 3\n\nd. Only 2\n\n            a.   b.   c.   d.\n\n49. (2 points) 45% of the plant mass is in the form of organic ‘carbon’. Of this\n   organic carbon, 30% is in the form of sugar - glucose. Consider a corn plant\n   of 600 gram average dry weight. This plant respires at the rate of 1% of dry\n   weight per day in the form of CO2 released. If this plant is kept in dark,\n   calculate the total sugar content at the end of the day.\n   (Write your answer upto two decimal places.)\n\n   Answer: ________________ gm\n\n50. (2 points) When lettuce seeds are soaked in water and kept in dark, 5 -15%\n   germinate. If, however, they are soaked and kept in light, 85 - 95% germinate.\n   The correct explanation for this observation is:\na. When kept in light, phytochrome – fr pigment gets converted into\n   phytochrome – r which activates germination.\nb. When kept in dark, phytochrome – fr pigment gets converted into\n   phytochrome – r which inhibits germination.\nc. When kept in light, phytochrome – r pigment gets converted into phytochrome\n   – fr which inhibits germination.\n\n                                         28\n\nd. When kept in dark, phytochrome – r pigment gets converted into phytochrome\n   – fr which inhibits germination.\n\n           a.    b.   c.    d.\n\nANIMAL SCIENCES (5)\n51. (3 points) Sustained aerobic activity is performed by slow twitch muscle fibres\n   (A) while fast-twitch muscle fibres (B) generate maximum tension quickly and\n   also fatigue quickly.\n   Choose from the descriptions (I – VI) and assign them to A and B.\n   I. rich in oxygen binding molecules\n   II. legs and arm muscles of weight lifters\n   III. rich in blood vessels\n   IV. Postural Muscles\n   V. built up of excess lactic acid\n   VI. anaerobic process\n\n   A: ___________\n\n   B: ___________\n\n52. (2 points) A seal is allowed to dive and remain in water for 10 mins and is\n   brought to the surface. Levels of various constituents in the blood are\n   recorded during this activity. The lines P, Q and R respectively indicate:\n\n                                         29\n\nml per 100 ml blood\n\n                                                                                                P\n                       40\n\n                      20                                                                        Q\n\n                                                                                                    R\n\n                                                     underwater\n                                                    10 min\n                                                           Time in min\n                                                Dive\n\na. CO2, O2 and lactic acid concentrations\nb. O2, CO2 and lactic acid concentrations\nc. O2, lactic acid concentrations and CO2\nd. CO2, O2 and H2CO3 concentrations\n\n                               a.     b.   c.   d.\n\nGENETICS & EVOLUTION (14)\n\n53. (2 points) Classify the following examples as homologous (H) and analogous\n                      (A) features:\n                      a. algae growing in high salt conditions and halophilic archaebacteria.\n                            _________\n\n                      b. high A+T content of mitochondrial genomes in humans and chimpanzees.\n                            ______\n\n                                                             30\n\n   c. capture of light by chlorophylls and rhodopsins. ______________\n\n   d. amniotic eggs of reptiles and birds. _________\n\n54. (2 points) Map distance between two linked genes can be calculated using\n   their recombination frequencies. If 1% recombination frequency is considered\n   as one map unit (mu) and the genetic map of three hypothetical genes, ‘p’, ’q’\n   and ’r’ on a chromosome is shown as:\n\n                 p        12.5 mu          q       22.5 mu             r\n\n   Calculate the expected number of progeny of the following cross, considering\n   the total number of offspring as 1000.\n\n                     ♂                                   ♀\n\n             p+      q+      r+                      p       q     r\n                                       ×\n             p       q       r                       p       q     r\n\n      No.                                                        Number\n                         Genotype of offspring                       of\n                                                                 offspring\n      I.                          p+   q+      r+\n\n      II.                         p+   q       r\n\n      III.                        p    q       r+\n\n      IV.                         p+   q       r+\n\n                                                    31\n\n55. (3 points) In Drosophila, the gene for vestigial wings is recessive (represented\n   as vg) and located on chromosome 2. In an experiment, a large population of\n   vestigial male and female flies was kept along with their wild type\n   counterparts in a cage. The male and female ratio in the population was 1:1.\n   The frequency of genotypes was estimated at subsequent generations and\n   following data was obtained.\n          Generation                            Frequency\n                             +   +             +\n                            vg vg            vg vg               vg vg\n         F1                 0.40             0.52                0.08\n         F2                 0.39             0.55                0.06\n         F3                 0.45             0.42                0.13\n         F4                 0.53             0.27                0.20\n         F5                 0.59             0.15                0.26\n\n   Assuming that there were no active mutagenic or other selective forces,\n   following inferences are proposed:\n   i) Population maintained relatively stable polymorphism of different\n           genotypes till F3\n   ii) Population maintained relatively stable polymorphism of different\n           genotypes till F4\n   iii) In F4 and F5, expected frequency of heterozygotes were more than the\n           observed frequency.\n   iv) In F4 and F5, expected frequency of heterozygotes were less than the\n           observed frequency.\n   v) All data conform to Hardy-Weinberg equilibrium expected values.\n   vi) Individuals of F5 might have experienced non-random mating\n   vii) Individuals of F4 and F5 might have experienced non-random mating\n   viii)Population of F4 and F5 might have gone through phases of genetic drift.\n\n   The correct inference/s is/are:\na. statements i, iv, vii\nb. statements i, iii, vii\nc. statements ii and vi\n\n                                        32\n\nd. statements i, iii, viii\ne. only statement v\n\n            a.    b.     c.   d.   e.\n\n56. (2 points) The probability of mutation of a gene on a particular chromosome is\n   5 x 10-5 per generation. If the gene is followed through successive\n   generations, what is the probability that it does not undergo a mutation in\n   10,000 consecutive generations?\n\na. [5 x 10-5] 10,000\nb. 5 x 10-5 x 104\nc. [1 – (5 x 10-5)] 10,000\nd. [5 x 10-5] x 10-4\n\n            a.    b.     c.   d.\n\n57. (2 points) Which of the following tenets of evolution were originally suggested\n   by Charles Darwin to explain the operation of natural selection in nature?\n\n   1. Individuals within a species differ in their morphology, physiology and\n   behaviour due to their inherent genetic differences.\n\n                                        33\n\n   2. Some of the variations in traits displayed by animals are inherited and thus,\n   on an average, offspring tend to resemble their parents more than other\n   individuals in the population.\n\n   3. Organisms have a huge capacity for increase in numbers; they produce far\n   more offspring than can give rise to breeding individuals.\n\n   4. There is usually competition among individuals for scarce resources such\n   as food or mates and as a result of this competition, some variants will leave\n   behind more offspring than will others.\n\n   5. Processes of natural selection are rather common in the environment and\n   allow individuals to adapt successfully to their environment.\n\n   a. Only 2, 3 and 4\n   b. Only 4 and 5\n   c. Only 3, 4 and 5\n   d. Only 2, 3, 4 and 5\n   e. 1, 2, 3, 4 and 5\n   Choose from the options and put tick mark/s (√) in the appropriate box/es.\n\n                         a.     b.      c.     d.     e.\n\n                                                                          -\n58. (3 points) In E.coli lac operon, lacI+ stands for normal regulator. lacI mutation\n   is recessive to lacI+ whereas lacIS mutation acts for super repressor and is\n   dominant over lacI+. Similarly lacO+ is normal operator and lacOC is dominant\n   over lacO+ which leads to constitutive synthesis. lacZ+ is the normal β-\n   galactosidase gene.\n\n                                         34\n\n   Each of the following strains was grown in a medium with the same\n   concentration of lactose (just sufficient to induce lac operon in the wild type\n   strain).\n   Put tick marks (√) in the appropriate boxes to indicate the mode of expression\n   for each strain.\n\n           Genotype           Constitutively         Synthesis         Synthesis\n                                formed               repressed          Induced\n  lacI+lacO+lacZ+\n      -\n  lacI lacO+ lacZ+\n  lacI+lacOClacZ+\n      -\n  lacI lacO+lacZ+/ lacI+\n  lacISlacO+lacZ+\n  lacISlacO+lacZ+/ lacI+\n\nETHOLOGY (2)\n\n59. (2 points) There are two ecosystems in which two different weaver bird\n   populations are found.\n   P: Forest with dispersed insect populations. Male and female weaver birds\n   show similar dull coloration.\n   Q: Grassland where seeds are patchy in distribution and wherever available,\n   they are superabundant. Male weaver birds show much attractive plumage.\n\n   What kinds of behavior of weaver birds are likely to be observed in these two\n   ecosystems?\n   I: P Solitary feeders                             Q feeding in flocks\n   II: P: Solitary nesting                           Q: colonial nesting\n   III: P: nest building with thermal insulation\n          Q: nest building with cryptic coloration\n   IV: P: Polygamy                                   Q: monogamy\n\n                                           35\n\n   V: P: both parents feeding the young;                   Q: only males feeding the young.\n\na. I and II\nb. I and III\nc. II,IV and V\nd. II, III and IV\n\n              a.       b.    c.      d.\n\nECOLOGY (7)\n\n60. ( 2 points) Feedback regulation is commonly observed in ecosystems.\n   Population regulation uses these feedbacks to keep plant and animal\n   populations within the limits of the carrying capacity of their environment.\n   Which of the arrows in the figure indicate positive feedback mechanism?\n\n                                            Births\n\n                                                                          4\n                                           1           2\n\n                                          Population\n                                                               3\n\n                   6\n                                                                   Food supply\n\n                                                       5\n                            Deaths\n\n                                                36\n\n   a. 1, 2, 4\n   b. 2, 5, 6\n   c. 1, 3\n   d. 2, 4 only\n\n             a.   b.   c.    d.\n\n61. (2 points) A series of lab experiments were carried out by growing 2 species\n   of flour beetles, Tribolium casteneum and T. confusum. These two species\n   were introduced together under different environmental conditions. Data\n   obtained is as follows:\n\nTemp °C / Relative          % times T. casteneum        % times T. confusum\nHumidity (RH) %             survives and outnumbers     survives and outnumbers\n     34°C / 70                          100                         0\n      34°C / 30                        10                          90\n      29°C / 70                        86                          14\n      29°C / 30                        13                          87\n      24°C / 70                        29                          71\n      24°C / 30                         0                          100\n\n   What can be concluded from this data?\n\na. T. confusum competes better when relative humidity is low and temperature\n   is high while T. casteneum always wins when temperature is above 29°C.\n\nb. At high temperatures, T. casteneum is a better competitor than T. confusum.\n\n                                         37\n\nc. At any given humidity, T. confusum is a better competitor as compared to T.\n   casteneum at higher temperatures.\n\nd. T. confusum always wins in low RH conditions when temperature is above\n   24°C and T. casteneum always wins in high temperature and high RH.\n\ne. At any given temperature, T. casteneum is a poor competitor at lower\n   humidity levels over T. confusum\n\n      Choose from the options and put tick mark/s (√) in the appropriate box/es.\n\n           a.      b.     c.     d.     e.\n\n62. (3 points) Three communities are tabulated. Against each of them, indicate\n   the appropriate trend by choosing from the options provided.\n   (Only a completely correct row will carry one point.)\n\nCommunity       Dominance      Productivity    Stability      Diversity   Production/\n                index          (high / low)    (high / low)   (high /     Respiration\n                (high / low)                                  low)        Ratio\n                                                                          (<1, =1, >1)\nMonoculture\ncrop\n\nRain forest\n\nClimax\ncommunity\n\nBIOSYSTEMATICS (10)\n\n63. (2 points) Phylogenetic relationships between three recent taxa (a, b and c)\n   and two ancestral taxa (d and e) are shown below. Consider a group of taxa\n\n                                          38\n\n     (shown in circles) and indicate whether they represent monophyletic (X),\n     paraphyletic (Y) and polyphyletic (Z) groups.\n\n                                                               a           b           c\n          a             b               c\n                                                      II\nI\n                                                                               d\n                                d\n                                                                       e\n                    e\n\n              a             b               c              a           b           c\n    III                                              IV\n                                    d                                          d\n                        e                                          e\nI: ___________\n\nII: __________\n\nIII: _________\n\nIV: _________\n\n64. (2 points) Consider three animals – bat, bird and human for the following body\n     structures:\n     Wing structure (W)\n     Feathers (F)\n     Hair (H)\n     Mammary glands (M)\nChoose the cladogram that classifies these animals most parsimoniously and put\na tick mark (√) in the appropriate box.\n\n                                                39\n\n    a.             Bird                                  b.                     Bird\n                                                                                           Human\n                                                               Bat                F\n              W            Bat\nHuman                                                                                  W\n              F\n\n                          W\n              H                                                         M\n                                                              H W\n              M\n\n         c.                                                     d.\n                              Bat                                               Bat\n                                                  Bird                                     Human\n        Human                  W                               Bird\n                                              F                                        W\n                                                                    F\n                                                                                   M\n                                                                            H\n\n   H      M                                                    W\n\n                     a.   b.        c.   d.\n\n   65. (3 points) The table shows presence (indicated by a tick) and absence\n         (indicated by a dash) of 10 different characters in six groups of organisms (A\n         to F).\n\n              No.             Characteristics       Organism\n                                                 A B C D E                  F\n              1      Vertebral Column            √ √ √ √ √                  √\n              2      Diaphragm                   - - - √ -                  -\n              3      Four chambered heart        - - - √ √                  -\n              4      Presence of amnion          - - - √ √                  √\n              5      Uricotelic                  - - - - √                  √\n              6      Suctorial mouth             - - √ - -                  -\n              7      Paired fin                  √ - - - -                  -\n              8      Skin with scales            √ - - - -                  √\n              9      Non-distensible spongy lung - - - - √                  -\n              10     12 pairs of cranial nerves  - - - √ √                  √\n\n                                                         40\n\nBased on the shared and unique characteristics, place the following animals (I –\nVI) in each group (A to F):\n                           I. Elephant\n                           II. Hagfish\n                           III. Salamander\n                           IV. Shark\n                           V. Sparrow\n                           VI. viper\n\nA: ______________\nB: ______________\nC: ______________\nD: ______________\nE: ______________\nF: ______________\n\n66. (3 points) A tree of major taxa of vascular plants is shown below. Choose\n      from the options given below and match them against I – IV and VI – VII.\n\n                                                  Gnetales\n  I          II      III       IV                    V         VI             VII\n\n                                                                                    200 mya\n\n   Sporangium covered by carpel                                                     300 mya\n\n                   Sporangium covered by integument\n\n                                                                                    400 mya\n                                       Sporangium not covered by integument\n\n                                             41\n\nOptions:\n                A. Pteridophytes\n                B. Eudicotyledons\n                C. Monocotyledons\n                D. Magnolids\n                E. Conifers\n                F. Basal angiosperms\n\nI. ________\nII. ________\nIII. ________\nIV. ________\nVI. ________\nVII. ________\n\n                                   ********\n\n                                      42",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 1,
+     "question": "(1 point) In an experiment, the PO4 groups of the phospholipids facing the lumen of the endoplasmic reticulum (ER) are labeled. If in the course of time, the ER buds off vesicles which fuse with the cell membrane, the label will be found:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.2",
+     "points": 1,
+     "question": "(1 point) Which of the following primarily contribute to the ‘cytomembrane system’ of a cell? I. Endoplasmic reticulum II. Vesicles III. Microtubules IV. Mitochondria V. Golgi apparatus",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.3",
+     "points": 1,
+     "question": "(1 point) If a very promising non-toxic drug against intestinal parasites is nonpolar in nature, then the most effective way to administer it would be:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.4",
+     "points": 1,
+     "question": "(1 point) The target theory suggests that the X –ray interacts directly with the genetic material and induces DNA breaks. As per this theory, the maximum damages are expected when the cells are irradiated at:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.5",
+     "points": 1,
+     "question": "(1 point) The following graph was obtained when bacterial cells were added to nutrient medium and then observed for next 50 hrs. 1000 No. of cells (x102) P 600 Q 200 0 30 40 50 10 20 hrs If curves P and Q respectively indicate the total cell population and living cell population, then choose the curve that will correctly represent dying cell population:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.6",
+     "points": 1,
+     "question": "(1 point) A plant pigment could be effectively extracted when the solvent system used was non-polar and it showed the following absorption spectrum: 1 absorbance 0.5 450 550 650 700 nm The pigment is most likely to be:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.7",
+     "points": 1,
+     "question": "(1 point) A cDNA library is a population of bacterial transformants in which each mRNA isolated from an organism is represented in the cDNA form. Choose the correct sequence in an experiment of production of cDNA: A. Processed mRNA B. Treatment with RNAase C. Addition of poly T primers D. Addition of DNA polymerase I E. Treatment with DNAase F. Addition of Reverse transcriptase G. DNA Template H. DNA-RNA complex",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.8",
+     "points": 1,
+     "question": "(1 point) In an experiment to generate plantlets through plant tissue culture, explants were taken from the following regions of Tectona grandis (teak) and grown on nutrient media. From which of the regions could plantlets be obtained? 4 1. Leaf 2. Secondary Xylem 3. Apical bud 4. Cork 5. Axillary bud",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.9",
+     "points": 1,
+     "question": "(1 point) Plant cell A has an osmotic pressure of 12 atm and is immersed in solution of 10 atm osmotic pressure. Another cell B has 10 atm osmotic pressure and is immersed in solution of osmotic pressure of 8 atm. Both the cells are allowed to come to equilibrium, then removed from their solution and brought in intimate contact. Assuming that there is no external influencing force, what will be the result?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.10",
+     "points": 1,
+     "question": "(1 point) When effect of CO2 concentration and light intensity on rate of photosynthesis is studied the following graph is obtained. 5 High light flux Rate of Photosynthesis B C Low light flux A CO2 concentration The limiting factors for photosynthesis in the regions A, B and C on the curves respectively are:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.11",
+     "points": 1,
+     "question": "(1 point) Carnivorous plants are found in soils that are poor in nitrogen and phosphorous and show varied adaptations to catch insects. Different plants invest differentially into development of specialized structures for carnivory. However, in doing so, they compromise on their photosynthetic ability. When the productivity of these plants was studied, following graph was obtained. 6 III CO2 uptake II 0 Extent of carnivory I The graphs I, II and III respectively indicate:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.12",
+     "points": 1,
+     "question": "(1 point) A cell is fully turgid when: (i) Ψw = 0 (ii) Ψp = 0 (iii) Ψp = Ψs (iv) Ψw = Ψs",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.13",
+     "points": 1,
+     "question": "(1 point) The concentrations of solutes present in solution A, B, C and D are given below: Solution A: 0.1 moles.L-1 sucrose + 0.1 moles.L-1 KCl Solution B: 0.2 moles.L-1 sucrose + 0.2 moles.L-1 KCl Solution C: 0.1 moles.L-1 sucrose + 0.1 moles.L-1 CaCl2 Solution D: 0.1 moles.L-1 sucrose + 0.2 moles.L-1 CaCl2 The decreasing order of osmolarity of the four solutions would be:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.14",
+     "points": 1,
+     "question": "(1 point) The critical day lengths for 4 plants are as follows: Plant A – 15.5 hrs. Plant B – 15.5 hrs. Plant C – 10.0 hrs. Plant D – 9.5 hrs. Plant A flowers when it receives 8.5 or more hours of darkness. Plant B flowers when it receives a minimum of 15.5 hrs of light. Plant C flowers when it receives less than 10 hrs of light. Plant D flowers when it receives less than 9.5 hrs of light. Which one is a long day plant?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.15",
+     "points": 1,
+     "question": "(1 point) Which of the following sequences explains the different steps followed by the common bread mold Mucor in obtaining nutrition? 8 1. Synthesis of hydrolytic enzymes → movement of enzyme from cell into substrate → digestion of substrate by enzyme → absorption of products by cell. 2. Absorption of substrate molecules by cell → synthesis of hydrolytic enzymes → digestion of substrate by enzymes 3. Synthesis of hydrolytic enzymes → absorption of substrate molecules into cell → digestion of substrate by enzymes. 4. Synthesis of hydrolytic enzymes → absorption of substrate molecules into cell in small vesicles →movement of enzymes into vesicles → digestion of substrate by enzymes",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.16",
+     "points": 1,
+     "question": "(1 point) “Serpentine soil ” is a soil that has relatively large amount of Mg++ and low levels of Ca++. Vegetation generally grows sparsely in such a soil. A plant ‘P’ could grow in such a soil but ‘Q’ could not. When the soil was supplemented with ‘Ca++’ , the results obtained can be seen in the graph. The most appropriate interpretation is: P Q Dry weight Ca++supplement introduced 9",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.17",
+     "points": 1,
+     "question": "(1 point) A baby born to a diabetic mother sometimes shows signs of hypoglycemia for some period just after birth. This is due to:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.18",
+     "points": 1,
+     "question": "(1 point) Oxygen dissociation curves of toadfish blood at two different conditions (P & Q) are shown. % saturation of hemoglobin 100 P Q 20 20 100 O2 pressure (mm of Mercury) P and Q respectively indicate:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.19",
+     "points": 1,
+     "question": "(1 point) Values of the total surface area of the gills (expressed in arbitrary units) per unit gram body weight of two types of fish are given below. Fish I: 442 Fish II: 1725 Which of the following can be predicted from the data?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.20",
+     "points": 1,
+     "question": "(1 point) Carbonic anhydrase enzyme catalyses the following bidirectional reaction CO2 + H2O H2CO3 If the activity of this enzyme is compared between three animals - elephant, sheep and mouse, the likely trend would be:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.21",
+     "points": 1,
+     "question": "(1 point) The three characteristic features of human circulatory system are tabulated below. P, Q and R respectively represent: 11 P Q R",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.22",
+     "points": 1,
+     "question": "(1 point) Transverse section of a mature female Ascaris lumbricoides is shown. The labeled structures P, Q and R respectively represent: Q P R",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.23",
+     "points": 1,
+     "question": "(1 point) In a family, a female child is diagnosed with a known genetic disorder. She has four unaffected brothers and sisters. Neither parent nor any of the four biological grandparents of the affected child has had the disease. The most likely genetic explanation is that the disease is inherited as:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.24",
+     "points": 1,
+     "question": "(1 point) Three copies of chromosome 21 in a child with Down’s syndrome have been analysed using molecular biology techniques to detect any possible DNA polymorphism with reference to different alleles located on chromosome 21. Results showed that out of 3 copies, two of the chromosomes of the child contain the same alleles as one of the mother’s alleles. Based on this, when did the non-disjunction event most likely occur?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.25",
+     "points": 1,
+     "question": "(1 point) The genotypes of a husband and wife are IA IB and IA i. Among the blood types of their children, how many different genotypes and phenotypes are possible?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.26",
+     "points": 1,
+     "question": "(1 point) In order to study biochemical pathway of arginine synthesis in bacteria, they were exposed to low doses of ultraviolet radiations and one of the mutants was grown in minimal media containing various precursors of arginine. The results are as follows: Ornithine Citrulline Arginine Growth Medium 1 + + – + Medium 2 – + – + Medium 3 – + + + Medium 4 + – + + Medium 5 + – – - The mutation resulted in the malfunctioning of the enzyme that converts:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.27",
+     "points": 1,
+     "question": "(1 point) In sweet pea plants, the genes for pollen shapes and flower colour are linked, purple being dominant over red and long pollen grain being dominant over round. If a plant heterozygous for both these traits is mated with a plant homozygous dominant for flower colour and homozygous recessive for pollen shape, what will be the phenotype of F1 generation?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.28",
+     "points": 1,
+     "question": "(1 point) Igf2 gene of mouse encodes for insulin like growth factor II. A mouse that carries two normal wild type alleles of this gene is normal in size, whereas a mouse that caries two mutant alleles is dwarf. One heterozygous male was crossed with a heterozygous female, both being normal sized. The ratio of normal to dwarf was 1:1 instead of the expected 3:1. When some of these F1 male dwarfs were mated with homozygous mutant female dwarfs, normal mice appeared in the following progeny. This can happen if the normal Igf2 gene got imprinted in parent during:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.29",
+     "points": 1,
+     "question": "(1 point) Consider the following two situations: Situation I: Bird 1 hatches and grows up to become adult Æ mates twice in lifetime Æ lays five eggs Æ three of them survive. Situation II: Bird 2 hatches and grows up to become an adult Æ mates four times in lifetime Æ lays six eggs Æ one of them survives Æ bird 2 lives twice as long as bird 1. Mark the correct interpretation.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.30",
+     "points": 1,
+     "question": "(1 point) Which of the following best depicts the evolutionary sequence of plant characters? 15 1. Transition to land habitat 2. Evolution of seeds 3. Evolution of fruits 4. Evolution of vascular structures",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.31",
+     "points": 1,
+     "question": "(1 point) The Great tit nests and lays a single clutch of eggs in spring. In an exhaustive study, large numbers of pairs of these birds were studied to collect the data on clutch sizes, weights of individual young ones and their survival rates. The following graph was obtained. 14 40 % survival after fledging No. per brood 10 20 6 2 10 16 18 20 Average weight of young one (g) Which of the following will leave maximum surviving offspring for the Great tit?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.32",
+     "points": 1,
+     "question": "(1 point) Graph indicates the relationship between number of pigeons in the flock and the distance at which the flock can sense the predator movement and escape. 40 Mean Reaction Distance (m) 20 No. of pigeons in a flock If % attack success is plotted against number of pigeons in the flock, it will be correctly represented by:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.33",
+     "points": 1,
+     "question": "(1 point) While studying feeding behavior of birds, the chicks were exposed to two situations as follows: Situation I: Chicks fed with green grains against red background. 17 Situation II: Chicks fed with green grains against green background. The following response was obtained. Cumulative no. of grains eaten II 100 I 3 6 9 Minutes of trial",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.34",
+     "points": 1,
+     "question": "(1 point) Some bird species follow army ants which walk on the forest floor. As the army ant colony travels on the forest floor, they stir up various flying 18 insect species. As the insects flee from the army ants, the birds following the ants catch the fleeing insects. The type of interaction between the army ants and birds (I) and the birds and insects (II) respectively is:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.35",
+     "points": 1,
+     "question": "(1 point) A species of earthworm ‘P’ can grow successfully if the soil water content is 5 – 8%. Another species ‘Q’ is able to do so if soil water content is 7 – 10%. If the population of these species is grown together under limited resources and gradient distribution of moisture, then: (i) the reproductive success of ‘P’ will be maximum in 5-6% soil moisture. (ii) the reproductive success of ‘Q’ will be maximum in 9 – 10% soil moisture. (iii) the reproductive success of both the species will be greatest in the overlapping zone ie 7 – 8% of soil moisture. (iv) the reproductive success of ‘Q’ will be minimum in soil moisture of 5 – 8%. (v) the realized niche of species ‘P’ is soil with 7 – 8% moisture. The correct statements are:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.36",
+     "points": 1,
+     "question": "(1 point) The ecosystem having production distinctly greater than respiration is: 19",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.37",
+     "points": 1,
+     "question": "(1 point) A temperate forest in summer has irregular pyramid of numbers because of:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.38",
+     "points": 1,
+     "question": "(1 point) Succession in a forest ecosystem is characterized by changes in species diversity, biomass and net primary productivity as shown in the graph below. Identify curves A, B and C. C B A Herbs Shrubs Trees",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.39",
+     "points": 1,
+     "question": "(1 point) The following diagram is a graphical representation of two plant communities A and B at the location where they meet (ecotone C). Which of the following would be true for area C? A C B 1. High habitat diversity 2. Low species diversity 3. Presence of unique species 4. High microclimatic variability",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.40",
+     "points": 1,
+     "question": "(1 point) A study of phytoplanktons was undertaken at the Gotri reservoir, which has a maximum capacity of 12 x 108 lit. The quantity of water in the reservoir and the planktonic density were estimated 4 times a year. Month August November February May Volume Density Volume Density Volume Density Volume Density (lit) (ml-1) (lit) (ml-1) (lit) (ml-1) (lit) (ml-1) 12 x 108 8 10 x 108 11 2 x 108 21 9 x 105 25 21 The collected data has been tabulated above. In which month is the reservoir least productive?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.41",
+     "points": 1,
+     "question": "(1 point) “Living fossils” are the:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.42",
+     "points": 1,
+     "question": "(2 points) Using the following information calculate the number of origins of DNA replication on a human chromosome: DNA polymerase adds 3000 nucleotides per minute in one direction; replication is bidirectional; S-phase lasts 300 minutes; there are 180 million base pairs per chromosome. Assuming a chromosome 4µm long, how many origins will there be per micrometer? Answer: ________________",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.43",
+     "points": 1,
+     "question": "(3 points) The following table indicates some properties of human cells. Indicate with (√) mark if the given property is shown by a cell type or a (X) sign if the cell does not show the property. (Each row will be given 1 point only if it is entirely correct) Carry out Contain Can Cell Can grow No. oxidative genetic undergo cell type in size phosphorylation material division 1 RBCs 2 Neurons 3 Sperms",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.44",
+     "points": 1,
+     "question": "(0.5 x 4 = 2 points) Certain molecules with amphipathic properties prevent complete collapsing of the alveolar surfaces and also help easier re-opening of the air spaces. These molecules are synthesized in pneumocytes. Following are some structures associated with these molecules in some way. 23 Identify the structures and write the correct option against each of them. Choose from the options given below.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.45",
+     "points": 1,
+     "question": "(2 x 2 = 4 points) A measurement of % labeled mitotic cells can be used to estimate various phases of the cell cycle. The method involves exposing the cells to pulse of 3H-TdR (radiolabelled thymidine) and estimating the number of labelled mitotic cells at regular intervals by autoradiography. Cells which are actively synthesizing DNA incorporate the label. The data is shown in the graph. % radioactive mitotic cells 2 4 6 8 10 12 14 16 18 20 hrs Study the graph and determine the following: i. Duration of one complete cell cycle: _____ hrs ii. Duration of the S phase: _____ hrs",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.46",
+     "points": 1,
+     "question": "(2 points) Arrange the following molecules in the correct order by which they can traverse a typical cell membrane starting with the molecule which will travel most easily. I. A neutral molecule with molecular weight 20 kDa with (+1) and (-1) charges. II. A non polar molecule with molecular weight 25 kDa. III. A neutral molecule with +2 and -2 charge of molecular weight 200 Da. IV. A molecule with molecular weight 20 dalton with +1 charge.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.47",
+     "points": 1,
+     "question": "(2 points) The DNA fingerprinting analysis of four family members is shown below. A B C D Study the band pattern obtained and assign each family member to A, B, C and D. Choose the correct option and put a tick mark (√) in the appropriate box.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.48",
+     "points": 1,
+     "question": "(2 points) Floral diagrams are used to graphically represent a flower. Given below is a floral diagram of a flower: Which of the following properties does it convey? 1. Presence of three sepals 2. Having a tricarpellary syncarpous ovary 3. Presence of three fertile stamens 4. Presence of a bract",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.49",
+     "points": 1,
+     "question": "(2 points) 45% of the plant mass is in the form of organic ‘carbon’. Of this organic carbon, 30% is in the form of sugar - glucose. Consider a corn plant of 600 gram average dry weight. This plant respires at the rate of 1% of dry weight per day in the form of CO2 released. If this plant is kept in dark, calculate the total sugar content at the end of the day. (Write your answer upto two decimal places.) Answer: ________________ gm",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.50",
+     "points": 1,
+     "question": "(2 points) When lettuce seeds are soaked in water and kept in dark, 5 -15% germinate. If, however, they are soaked and kept in light, 85 - 95% germinate. The correct explanation for this observation is:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.51",
+     "points": 1,
+     "question": "(3 points) Sustained aerobic activity is performed by slow twitch muscle fibres (A) while fast-twitch muscle fibres (B) generate maximum tension quickly and also fatigue quickly. Choose from the descriptions (I – VI) and assign them to A and B. I. rich in oxygen binding molecules II. legs and arm muscles of weight lifters III. rich in blood vessels IV. Postural Muscles V. built up of excess lactic acid VI. anaerobic process A: ___________ B: ___________",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.52",
+     "points": 1,
+     "question": "(2 points) A seal is allowed to dive and remain in water for 10 mins and is brought to the surface. Levels of various constituents in the blood are recorded during this activity. The lines P, Q and R respectively indicate: 29",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.53",
+     "points": 1,
+     "question": "(2 points) Classify the following examples as homologous (H) and analogous (A) features: a. algae growing in high salt conditions and halophilic archaebacteria. _________ b. high A+T content of mitochondrial genomes in humans and chimpanzees. ______ 30 c. capture of light by chlorophylls and rhodopsins. ______________ d. amniotic eggs of reptiles and birds. _________",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.54",
+     "points": 1,
+     "question": "(2 points) Map distance between two linked genes can be calculated using their recombination frequencies. If 1% recombination frequency is considered as one map unit (mu) and the genetic map of three hypothetical genes, ‘p’, ’q’ and ’r’ on a chromosome is shown as: p 12.5 mu q 22.5 mu r Calculate the expected number of progeny of the following cross, considering the total number of offspring as 1000. ♂ ♀ p+ q+ r+ p q r × p q r p q r No. Number Genotype of offspring of offspring I. p+ q+ r+ II. p+ q r III. p q r+ IV. p+ q r+ 31",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.55",
+     "points": 1,
+     "question": "(3 points) In Drosophila, the gene for vestigial wings is recessive (represented as vg) and located on chromosome 2. In an experiment, a large population of vestigial male and female flies was kept along with their wild type counterparts in a cage. The male and female ratio in the population was 1:1. The frequency of genotypes was estimated at subsequent generations and following data was obtained. Generation Frequency + + + vg vg vg vg vg vg F1 0.40 0.52 0.08 F2 0.39 0.55 0.06 F3 0.45 0.42 0.13 F4 0.53 0.27 0.20 F5 0.59 0.15 0.26 Assuming that there were no active mutagenic or other selective forces, following inferences are proposed: i) Population maintained relatively stable polymorphism of different genotypes till F3 ii) Population maintained relatively stable polymorphism of different genotypes till F4 iii) In F4 and F5, expected frequency of heterozygotes were more than the observed frequency. iv) In F4 and F5, expected frequency of heterozygotes were less than the observed frequency. v) All data conform to Hardy-Weinberg equilibrium expected values. vi) Individuals of F5 might have experienced non-random mating vii) Individuals of F4 and F5 might have experienced non-random mating viii)Population of F4 and F5 might have gone through phases of genetic drift. The correct inference/s is/are:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.56",
+     "points": 1,
+     "question": "(2 points) The probability of mutation of a gene on a particular chromosome is 5 x 10-5 per generation. If the gene is followed through successive generations, what is the probability that it does not undergo a mutation in 10,000 consecutive generations?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.57",
+     "points": 1,
+     "question": "(2 points) Which of the following tenets of evolution were originally suggested by Charles Darwin to explain the operation of natural selection in nature? 1. Individuals within a species differ in their morphology, physiology and behaviour due to their inherent genetic differences. 33 2. Some of the variations in traits displayed by animals are inherited and thus, on an average, offspring tend to resemble their parents more than other individuals in the population. 3. Organisms have a huge capacity for increase in numbers; they produce far more offspring than can give rise to breeding individuals. 4. There is usually competition among individuals for scarce resources such as food or mates and as a result of this competition, some variants will leave behind more offspring than will others. 5. Processes of natural selection are rather common in the environment and allow individuals to adapt successfully to their environment. a. Only 2, 3 and 4 b. Only 4 and 5 c. Only 3, 4 and 5 d. Only 2, 3, 4 and 5 e. 1, 2, 3, 4 and 5 Choose from the options and put tick mark/s (√) in the appropriate box/es. a. b. c. d. e. -",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.58",
+     "points": 1,
+     "question": "(3 points) In E.coli lac operon, lacI+ stands for normal regulator. lacI mutation is recessive to lacI+ whereas lacIS mutation acts for super repressor and is dominant over lacI+. Similarly lacO+ is normal operator and lacOC is dominant over lacO+ which leads to constitutive synthesis. lacZ+ is the normal βgalactosidase gene. 34 Each of the following strains was grown in a medium with the same concentration of lactose (just sufficient to induce lac operon in the wild type strain). Put tick marks (√) in the appropriate boxes to indicate the mode of expression for each strain. Genotype Constitutively Synthesis Synthesis formed repressed Induced",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.59",
+     "points": 1,
+     "question": "(2 points) There are two ecosystems in which two different weaver bird populations are found. P: Forest with dispersed insect populations. Male and female weaver birds show similar dull coloration. Q: Grassland where seeds are patchy in distribution and wherever available, they are superabundant. Male weaver birds show much attractive plumage. What kinds of behavior of weaver birds are likely to be observed in these two ecosystems? I: P Solitary feeders Q feeding in flocks II: P: Solitary nesting Q: colonial nesting III: P: nest building with thermal insulation Q: nest building with cryptic coloration IV: P: Polygamy Q: monogamy 35 V: P: both parents feeding the young; Q: only males feeding the young.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.60",
+     "points": 1,
+     "question": "( 2 points) Feedback regulation is commonly observed in ecosystems. Population regulation uses these feedbacks to keep plant and animal populations within the limits of the carrying capacity of their environment. Which of the arrows in the figure indicate positive feedback mechanism? Births 4 1 2 Population 3 6 Food supply 5 Deaths 36 a. 1, 2, 4 b. 2, 5, 6 c. 1, 3 d. 2, 4 only a. b. c. d.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.61",
+     "points": 1,
+     "question": "(2 points) A series of lab experiments were carried out by growing 2 species of flour beetles, Tribolium casteneum and T. confusum. These two species were introduced together under different environmental conditions. Data obtained is as follows:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.62",
+     "points": 1,
+     "question": "(3 points) Three communities are tabulated. Against each of them, indicate the appropriate trend by choosing from the options provided. (Only a completely correct row will carry one point.)",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.63",
+     "points": 1,
+     "question": "(2 points) Phylogenetic relationships between three recent taxa (a, b and c) and two ancestral taxa (d and e) are shown below. Consider a group of taxa 38 (shown in circles) and indicate whether they represent monophyletic (X), paraphyletic (Y) and polyphyletic (Z) groups. a b c a b c II",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.64",
+     "points": 1,
+     "question": "(2 points) Consider three animals – bat, bird and human for the following body structures: Wing structure (W) Feathers (F) Hair (H) Mammary glands (M)",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.65",
+     "points": 1,
+     "question": "(3 points) The table shows presence (indicated by a tick) and absence (indicated by a dash) of 10 different characters in six groups of organisms (A to F). No. Characteristics Organism A B C D E F 1 Vertebral Column √ √ √ √ √ √ 2 Diaphragm - - - √ - - 3 Four chambered heart - - - √ √ - 4 Presence of amnion - - - √ √ √ 5 Uricotelic - - - - √ √ 6 Suctorial mouth - - √ - - - 7 Paired fin √ - - - - - 8 Skin with scales √ - - - - √ 9 Non-distensible spongy lung - - - - √ - 10 12 pairs of cranial nerves - - - √ √ √ 40",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.66",
+     "points": 1,
+     "question": "(3 points) A tree of major taxa of vascular plants is shown below. Choose from the options given below and match them against I – IV and VI – VII. Gnetales",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    }
+   ],
+   "solution": "ANSWER SHEET\n30 January, 2011\n   th\n                                                  Roll No.\nTime: 2 hrs\n                                                             Centre: ____________\n\n   •     Please write your INBO roll number on the top of this page in the space provided.\n\n   •     Please fill the top half of the Performance Card attached to this answer sheet. Do not\n         detach the Performance Card.\n\n   •     Please fill in all the data below correctly. The contact details provided here would be\n         used for all further correspondence.\n\nFull Name (Block Letters): ______________________________\n\nMale / Female                   Date of Birth (dd/mm/yyyy):__________________\n\nResidential address (include city and PIN code): ____________________________\n___________________________________________________________________________\n___________________________________________________________\n\nResidential Phone No. with STD Code: ____________________________________\n\nMobile number: ________________________________________________\n\nE-mail address: ________________________________________________\n\nClass: X / XI / XII                            Board: ICSE / CBSE / State Board / Other\n\nI have read the Procedural Rules of INBO and agree to abide by them.\n\nRoll No.:                                                     Signature:\nPlace:                                                        Date:\n\n                  HOMI BHABHA CENTRE FOR SCIENCE EDUCATION\n                         Tata Institute of Fundamental Research\n                     V. N. Purav Marg, Mankhurd, Mumbai 400 088.\n\n-1-\n\nINBO - 2011                                                ROLL NO.\n\n                           ANSWER SHEET: SECTION A\n              Q. No.       a   b   c    d      Q. No.      a       b   c   d\n                1                               22\n                2                               23\n                3                               24\n                4                               25\n                5                               26\n                6                               27\n                7                               28\n                8                               29\n                9                               30\n               10                               31\n               11                               32\n               12                               33\n               13                               34\n               14                               35\n               15                               36\n               16                               37\n               17                               38\n               18                               39\n               19                               40\n               20                               41\n               21\n\n                                   Signature of Invigilator: ___________________\n\n                                       Not\n                       X       Y       attempted\n        SECTION A                                       3X − Y =\n        SECTION B                                       3X =\n                                                     Total score =\n\n                                         -1-\n\n-2-\n\nINBO - 2011                                               ROLL NO.\n\n                             ANSWER SHEET: SECTION B\n\n    CELL BIOLOGY (15)\n    42. (2 points)\n\n       Answer: ________________ 25\n\n    43. (1 x 3 = 3 points)\n\n                            Carry out        Contain                      Can\n               Cell                                       Can grow\n      No.                   oxidative        genetic                  undergo cell\n               type                                        in size\n                         phosphorylation     material                   division\n       1       RBCs             -               -             -               -\n\n       2      Neurons           √               √             √               -\n\n       3      Sperms            √               √             -               -\n\n    44. (0.5 x 4 = 2 points)\n\n    A: ________________5\n\n    B: ________________7\n\n    C: ________________1\n\n    D. ________________4\n\n    45. (2 x2 = 4 points)\n                        i. Duration of one complete cell cycle: _____10 hrs\n                        ii. Duration of the S phase: _____6 hrs\n\n                                             -3-\n\nINBO - 2011                                                       ROLL NO.\n\n  46. (2 points)\n\n               a.         b.            c.        d.\n\n                          √\n\n  47. (2 points)\n\n          a.        b.         c.        d.\n\n                               √\n\n  PLANT SCIENCES (6)\n  48. (2 points)\n\n                     a.            b.        c.        d.\n\n                                   √\n\n  49. (2 points)\n\n     Answer: ________________198.41 gm\n\n  50. (2 points)\n\n                a.            b.         c.        d.\n\n                              √\n\n                                                            -4-\n\nINBO - 2011                                 ROLL NO.\n\n ANIMAL SCIENCES (5)\n\n 51. (1.5 x 2 = 3 points)\n\n    A: ___________I, III, IV\n\n    B: ___________II, V, VI\n\n 52. (2 points)\n\n              a.    b.      c.   d.\n\n              √\n\n GENETICS & EVOLUTION (14)\n\n 53. (0.5 x 4 = 2 points)\n    a. _________A\n\n    b. _________H\n\n    c. __________A\n\n    d. __________H\n\n                                      -5-\n\nINBO - 2011                                                                    ROLL NO.\n\n  54. (0.5 x 4 = 2 points)\n\n         No.                                                           Number\n                              Genotype of offspring                        of\n                                                                       offspring\n         I.                               p+       q+       r+\n                                                                         678\n\n         II.                              p+       q        r\n                                                                          97\n\n         III.                             p        q        r+\n                                                                         197\n\n         IV.                              p+       q        r+\n                                                                          28\n\n  55. (3 points)\n\n                a.        b.        c.        d.       e.\n\n                          √\n\n  56. (2 points)\n\n          a.         b.        c.    d.\n\n                               √\n\n                                                                 -6-\n\nINBO - 2011                                                     ROLL NO.\n\n    57. (2 points)\n\n                          a.        b.       c.   d.      e.\n\n                                                  √\n\n    58. (0.5 x 6 = 3 points)\n\n          Genotype                       Constitutively    Synthesis   Synthesis\n                                         formed            repressed   Induced\n          lacI+lacO+lacZ+                                              √\n              -                          √\n          lacI lacO+ lacZ+\n          lacI+lacOClacZ+                √\n              -                                                        √\n          lacI lacO+lacZ+ / lacI+\n          lacISlacO+lacZ+                                  √\n          lacISlacO+lacZ+ / lacI+                          √\n\n    ETHOLOGY (2)\n\n    59. (2 points)\n\n              a.     b.        c.   d.\n\n              √\n\n    ECOLOGY (7)\n\n    60. (2 points)\n\n              a.     b.        c.   d.\n\n              √\n\n                                                  -7-\n\n                                                                  ROLL NO.\nINBO - 2011\n\n    61. (1 x 2 = 2 points)\n\n            a.       b.      c.        d.     e.\n\n                                       √      √\n\n    62. (1 x 3 = 3 points)\n\n    Community        Dominance         Productivity      Stability      Diversity   Production/\n                     index             (high / low)      (high / low)   (high /     Respiration\n                     (high / low)                                       low)        Ratio\n                                                                                    (<1, =1, >1)\n    Monoculture high                   high              low            low         >1\n    crop\n\n    Rain forest      low               low               high           high        =1\n\n    Climax           low               low               high           high        =1\n    community\n\n    BIOSYSTEMATICS (10)\n\n    63. (0.5 x 4 = 2 points)\n\n    I: ___________X\n\n    II: __________Y\n\n    III: _________Z\n\n    IV: _________Z\n\n    64. (2 points)\n\n              a.     b.    c.     d.\n\n                                  √\n\n                                                   -8-\n\n                                                    ROLL NO.\nINBO - 2011\n\n  65. (0.5 x 6 = 3 points)\n\n     A: ______________ Shark\n\n     B: ______________ Salamander\n\n     C: ______________ Hagfish\n\n     D: ______________ Elephant\n\n     E: ______________ Sparrow\n\n     F: ______________ Viper\n\n  66. (0.5 x 6 = 3 points)\n\n     I. ________ Eudicotyledons\n\n     II. ________ Monocotyledons\n\n     III. ________ Magnolids\n\n     IV. ________ Basal angiosperms\n\n     VI. ________ Conifers\n\n     VII. ________ Pteridophytes\n\n                               ******************\n\n                                      -9-"
+  }
+ ]
+}

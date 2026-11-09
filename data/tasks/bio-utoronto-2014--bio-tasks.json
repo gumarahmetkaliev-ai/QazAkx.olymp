@@ -1,0 +1,1955 @@
+{
+ "setId": "bio-utoronto-2014--bio-tasks",
+ "olympiadId": "bio-utoronto-2014",
+ "title": "Биология → U of Toronto → 2014",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/utoronto/2014/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/utoronto/2014/bio-sol.pdf",
+ "generatedBy": "test-parser",
+ "type": "test",
+ "generatedAt": "2026-11-09T13:44:53.365Z",
+ "quality": {
+  "tasks": 5,
+  "parts": 50,
+  "withPoints": 50,
+  "withReference": 50,
+  "withQuestion": 50,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Тест: вопросы 1–10",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q1",
+     "kind": "choice",
+     "points": 1,
+     "question": "1. Both plants and animals are eukaryotes and therefore most cells in both plants and animals have:",
+     "options": [
+      {
+       "key": "A",
+       "text": "a nucleus and chloroplasts."
+      },
+      {
+       "key": "B",
+       "text": "a nucleus and mitochondria."
+      },
+      {
+       "key": "C",
+       "text": "a nucleus and either mitochondria or chloroplasts."
+      },
+      {
+       "key": "D",
+       "text": "a nucleus, a cell wall and mitochondria."
+      },
+      {
+       "key": "E",
+       "text": "a nucleus, a cell wall and either mitochondria or chloroplasts."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q2",
+     "kind": "choice",
+     "points": 1,
+     "question": "2. The presence of hydrogen bonds within one polypeptide contributes to the polypeptide’s:",
+     "options": [
+      {
+       "key": "A",
+       "text": "secondary structure."
+      },
+      {
+       "key": "B",
+       "text": "tertiary structure."
+      },
+      {
+       "key": "C",
+       "text": "quaternary structure."
+      },
+      {
+       "key": "D",
+       "text": "Both a and b"
+      },
+      {
+       "key": "E",
+       "text": "All of a, b, and c"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q3",
+     "kind": "choice",
+     "points": 1,
+     "question": "3. Which statement pertains to the process of glycolysis?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Cells need to have access to molecular oxygen for glycolysis to occur."
+      },
+      {
+       "key": "B",
+       "text": "Glycolysis produces CO2."
+      },
+      {
+       "key": "C",
+       "text": "A key product of glycolysis is ADP."
+      },
+      {
+       "key": "D",
+       "text": "Glycolysis only takes place in cells undergoing anaerobic respiration."
+      },
+      {
+       "key": "E",
+       "text": "Glycolysis produces two three-carbon molecules."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q4",
+     "kind": "choice",
+     "points": 1,
+     "question": "4. Which evolutionary mechanism is LEAST likely to increase genetic variation in a population?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Natural selection"
+      },
+      {
+       "key": "B",
+       "text": "Mutation"
+      },
+      {
+       "key": "C",
+       "text": "Immigration"
+      },
+      {
+       "key": "D",
+       "text": "Non-random mating"
+      },
+      {
+       "key": "E",
+       "text": "Horizontal gene transfer"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": true,
+     "answer": "AD",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: AD"
+    },
+    {
+     "id": "q5",
+     "kind": "choice",
+     "points": 1,
+     "question": "5. In an experiment with a protein that is suspected to function as an enzyme, the amino acid in position 58 of the protein forms a covalent bond with a substrate molecule as part of the catalytic process. Which statement is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "As a catalyst, the enzyme changes the equilibrium of the reaction."
+      },
+      {
+       "key": "B",
+       "text": "Enzymes do not form covalent bonds with substrates during reactions, thus the experimental finding is in error."
+      },
+      {
+       "key": "C",
+       "text": "During the reaction mechanism, the covalent bond formed between the amino acid and the substrate must break."
+      },
+      {
+       "key": "D",
+       "text": "The protein cannot be an enzyme because the formation of the covalent bond between the substrate and the amino acid prevents the protein from engaging in any subsequent reactions with new substrate molecules."
+      },
+      {
+       "key": "E",
+       "text": "The amino acid forming the covalent bond must be cysteine."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q6",
+     "kind": "choice",
+     "points": 1,
+     "question": "6. Diuretics, which increase the amount of urine produced by the kidney, can act as effective treatments for hypertension (high blood pressure) by doing what?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Decreasing blood volume in the circulatory system."
+      },
+      {
+       "key": "B",
+       "text": "Increasing blood volume in the circulatory system."
+      },
+      {
+       "key": "C",
+       "text": "Slowing the heart rate."
+      },
+      {
+       "key": "D",
+       "text": "Increasing the diameter of blood vessels."
+      },
+      {
+       "key": "E",
+       "text": "Decreasing the stroke volume of the heart. © 2014 University of Toronto U of T National Biology Competition / 3"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q7",
+     "kind": "choice",
+     "points": 1,
+     "question": "7. You have found a eukaryotic organism with cells that contain a Change in the previously undescribed organelle. You perform tests on the isolated Molecule amount of this organelle to see if it is involved in any major metabolic reactions. molecule over time You place these organelles for 24 hours in a beaker on your lab ATP Increase bench, in a solution containing a known amount of the molecules CO2 No change listed in the table at right. You then measure changes in the amounts O2 Increase of each of these molecules. Based on the results, which metabolic Glucose No change process is most likely taking place in this organelle? Fatty acid No change",
+     "options": [
+      {
+       "key": "A",
+       "text": "Glycolysis NADPH Increase"
+      },
+      {
+       "key": "B",
+       "text": "Calvin cycle"
+      },
+      {
+       "key": "C",
+       "text": "Citric acid cycle (tricarboxylic acid/Krebs cycle)"
+      },
+      {
+       "key": "D",
+       "text": "Electron transport chain (ETC) and oxidative phosphorylation"
+      },
+      {
+       "key": "E",
+       "text": "Light-dependent reaction of photosynthesis"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q8",
+     "kind": "choice",
+     "points": 1,
+     "question": "8. Which of the following directly requires energy to move the molecule (stated below) across a membrane?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Uncharged oxygen, starting with equal concentrations on either side of the membrane."
+      },
+      {
+       "key": "B",
+       "text": "H+ going down its concentration gradient."
+      },
+      {
+       "key": "C",
+       "text": "H+ going up its concentration gradient."
+      },
+      {
+       "key": "D",
+       "text": "Glucose going down its concentration gradient."
+      },
+      {
+       "key": "E",
+       "text": "Glucose through a facilitated diffusion transporter."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q9",
+     "kind": "choice",
+     "points": 1,
+     "question": "9. In density-independent population growth, the number of births per individual in a population:",
+     "options": [
+      {
+       "key": "A",
+       "text": "increases with population size."
+      },
+      {
+       "key": "B",
+       "text": "decreases with population size."
+      },
+      {
+       "key": "C",
+       "text": "does not vary with population size."
+      },
+      {
+       "key": "D",
+       "text": "increases and then decreases with population size."
+      },
+      {
+       "key": "E",
+       "text": "decreases and then increases with population size."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q10",
+     "kind": "choice",
+     "points": 1,
+     "question": "10. What do collenchyma, sclerenchyma, and xylem have in common?",
+     "options": [
+      {
+       "key": "A",
+       "text": "They all function in support of a plant."
+      },
+      {
+       "key": "B",
+       "text": "They are all dead at maturity."
+      },
+      {
+       "key": "C",
+       "text": "They all transport water."
+      },
+      {
+       "key": "D",
+       "text": "Both a and b"
+      },
+      {
+       "key": "E",
+       "text": "All of a, b, and c"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: A"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Тест: вопросы 11–20",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q11",
+     "kind": "choice",
+     "points": 1,
+     "question": "11. What is the primary reason why the electron transport chain is valuable to a cell?",
+     "options": [
+      {
+       "key": "A",
+       "text": "It directly makes ATP"
+      },
+      {
+       "key": "B",
+       "text": "It produces water"
+      },
+      {
+       "key": "C",
+       "text": "It uses both NADH and FADH2"
+      },
+      {
+       "key": "D",
+       "text": "It transfers electrons to an electron carrier"
+      },
+      {
+       "key": "E",
+       "text": "It creates a proton (H+ ion) gradient across a membrane"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q12",
+     "kind": "choice",
+     "points": 1,
+     "question": "12. Trypsinogen and elastase (both proteases) and nuclease are enzymes produced by the pancreas that are ultimately secreted into what part of the digestive system?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Duodenum"
+      },
+      {
+       "key": "B",
+       "text": "Stomach"
+      },
+      {
+       "key": "C",
+       "text": "Ileum"
+      },
+      {
+       "key": "D",
+       "text": "Jejunum"
+      },
+      {
+       "key": "E",
+       "text": "Large intestine © 2014 University of Toronto U of T National Biology Competition / 4"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q13",
+     "kind": "choice",
+     "points": 1,
+     "question": "13. The amount of energy produced by primary producers is always:",
+     "options": [
+      {
+       "key": "A",
+       "text": "equal to the amount of solar energy they absorb."
+      },
+      {
+       "key": "B",
+       "text": "less than the amount of solar energy they absorb."
+      },
+      {
+       "key": "C",
+       "text": "greater than the amount of solar energy they absorb."
+      },
+      {
+       "key": "D",
+       "text": "equal to, less than, or greater than the amount of solar energy they absorb, depending on the specific ecosystem they inhabit."
+      },
+      {
+       "key": "E",
+       "text": "higher in aquatic environments than in terrestrial environments."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q14",
+     "kind": "choice",
+     "points": 1,
+     "question": "14. A United States Supreme Court ruling (June 2013) stated that any naturally-occurring gene, including the BRCA1 and BRCA2 genes, could not be patented. Individuals can have DNA-sequencing tests performed to determine what version of the BRCA1 and BRCA2 genes they possess. Mutant copies of these genes have been linked to breast and ovarian cancer. Who possesses the BRCA1 and BRCA2 genes?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Healthy women"
+      },
+      {
+       "key": "B",
+       "text": "Healthy men"
+      },
+      {
+       "key": "C",
+       "text": "Women with breast or ovarian cancer"
+      },
+      {
+       "key": "D",
+       "text": "Women with a history of breast or ovarian cancer in their families"
+      },
+      {
+       "key": "E",
+       "text": "All of the above"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q15",
+     "kind": "choice",
+     "points": 1,
+     "question": "15. A plant with red flowers is crossed with a plant with white flowers, and the progeny (seeds) from the cross are planted. Half of the progeny have red flowers and half have white flowers. Based on these results which statement is most probable?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Red is dominant to white."
+      },
+      {
+       "key": "B",
+       "text": "White is dominant to red."
+      },
+      {
+       "key": "C",
+       "text": "There is co-dominance between red and white."
+      },
+      {
+       "key": "D",
+       "text": "One of the crossed plants is heterozygous for the colour gene."
+      },
+      {
+       "key": "E",
+       "text": "Both of the crossed plants are heterozygous for the colour gene."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q16",
+     "kind": "choice",
+     "points": 1,
+     "question": "16. The diagram at right shows a section of a cell membrane in the body, at an initial time point, with one particular phospholipid highlighted in black. If you observe the same membrane section at a later time, what would be the most likely observation?",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q17",
+     "kind": "choice",
+     "points": 1,
+     "question": "17. A sequence of DNA is shown below. Assume that either strand can be transcribed. During transcription, what is the direction of polymerase movement? 5ʹ′ AATTGCCGAG 3ʹ′ 3ʹ′ TTAACGGCTC 5ʹ′",
+     "options": [
+      {
+       "key": "A",
+       "text": "From left to right when transcribing the top strand, and from right to left when transcribing the bottom strand."
+      },
+      {
+       "key": "B",
+       "text": "From right to left when transcribing the top strand, and from left to right when transcribing the bottom strand."
+      },
+      {
+       "key": "C",
+       "text": "From left to right when transcribing either DNA strand."
+      },
+      {
+       "key": "D",
+       "text": "From right to left when transcribing either DNA strand."
+      },
+      {
+       "key": "E",
+       "text": "RNA polymerase moves in both directions (left to right and right to left) on both strands. © 2014 University of Toronto U of T National Biology Competition / 5"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q18",
+     "kind": "choice",
+     "points": 1,
+     "question": "18. While exercising, your muscles have an increased demand for oxygen and a requirement to get rid of excess carbon dioxide. Which of the following consequences of exercising results in a lower affinity for oxygen on hemoglobin and increased oxygen delivery to muscles?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Heat produced by muscles."
+      },
+      {
+       "key": "B",
+       "text": "Acidity produced by local concentrations of CO2."
+      },
+      {
+       "key": "C",
+       "text": "Increased CO2 locally will increase CO2 binding, which lowers affinity of hemoglobin for O2."
+      },
+      {
+       "key": "D",
+       "text": "Both a and b"
+      },
+      {
+       "key": "E",
+       "text": "All of a, b and c"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q19",
+     "kind": "choice",
+     "points": 1,
+     "question": "19. Two species that are in the same genus will _________. (Choose the best statement to complete this sentence.)",
+     "options": [
+      {
+       "key": "A",
+       "text": "look similar in external appearance"
+      },
+      {
+       "key": "B",
+       "text": "share a most recent common ancestor"
+      },
+      {
+       "key": "C",
+       "text": "breed with one another and produce fertile offspring"
+      },
+      {
+       "key": "D",
+       "text": "live in the same habitat"
+      },
+      {
+       "key": "E",
+       "text": "compete with one another for access to mates"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q20",
+     "kind": "choice",
+     "points": 1,
+     "question": "20. If carbonic anhydrase is stopped in all red blood cells within your body what is the most likely functional consequence?",
+     "options": [
+      {
+       "key": "A",
+       "text": "O2 would be less likely to enter red blood cells."
+      },
+      {
+       "key": "B",
+       "text": "Bicarbonate (HCO3-) levels in blood plasma would increase."
+      },
+      {
+       "key": "C",
+       "text": "CO2 would be less likely to enter red blood cells."
+      },
+      {
+       "key": "D",
+       "text": "Partial pressure of CO2 in the blood would drop."
+      },
+      {
+       "key": "E",
+       "text": "More Cl- would be transported into red blood cells."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: C"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Тест: вопросы 21–30",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q21",
+     "kind": "choice",
+     "points": 1,
+     "question": "21. A woman who is heterozygous at a given gene locus (Tt) has children with a man who has the genotype tt at the same locus. One of their children is Ttt at this locus. Where and when did the chromosome separation error occur?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Meiosis I of the mother"
+      },
+      {
+       "key": "B",
+       "text": "Meiosis II of the mother"
+      },
+      {
+       "key": "C",
+       "text": "Meiosis I of the father"
+      },
+      {
+       "key": "D",
+       "text": "Meiosis II of the father"
+      },
+      {
+       "key": "E",
+       "text": "More information is needed to determine where the error occurred."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q22",
+     "kind": "choice",
+     "points": 1,
+     "question": "22. The chirality of an amino acid results from the fact that its alpha carbon:",
+     "options": [
+      {
+       "key": "A",
+       "text": "is asymmetric."
+      },
+      {
+       "key": "B",
+       "text": "is a carboxylic acid."
+      },
+      {
+       "key": "C",
+       "text": "is bonded to three different chemical groups."
+      },
+      {
+       "key": "D",
+       "text": "is in a neutral molecule."
+      },
+      {
+       "key": "E",
+       "text": "has no net charge."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q23",
+     "kind": "choice",
+     "points": 1,
+     "question": "23. A mutation renders the stomata of a plant unable to respond to low water availability. Which response would most likely be observed in the mutant plant (and not in a normal plant)?",
+     "options": [
+      {
+       "key": "A",
+       "text": "If the roots are dry, the stomata will remain open."
+      },
+      {
+       "key": "B",
+       "text": "If given sufficient water, the stomata will close."
+      },
+      {
+       "key": "C",
+       "text": "If given sufficient water, the stomata will remain open."
+      },
+      {
+       "key": "D",
+       "text": "If the roots are dry, the stomata will close."
+      },
+      {
+       "key": "E",
+       "text": "If the roots are dry, the number of stomata in the leaves will increase. © 2014 University of Toronto U of T National Biology Competition / 6"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q24",
+     "kind": "choice",
+     "points": 1,
+     "question": "24. You go for a walk, you fall and end up with a cut on your knee that is covered in dirt, and you’re worried about infection. You have no access to a first aid kit, but you have been told that packing a large amount of sugar into the wound might help to prevent a bacterial infection by killing the bacteria. What is the most plausible explanation for this?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The sugar kills the bacteria by causing excess water to enter the bacteria, promoting cell rupture."
+      },
+      {
+       "key": "B",
+       "text": "The sugar kills the bacteria by promoting water movement out of the bacterial cells."
+      },
+      {
+       "key": "C",
+       "text": "The sugar promotes glycolysis within your skin cells, which allows the cells to fight off the infection."
+      },
+      {
+       "key": "D",
+       "text": "The sugar will make it difficult for the invading bacteria to diffuse into the wound."
+      },
+      {
+       "key": "E",
+       "text": "High levels of sugar enter the bacterial cells, and overwhelm the metabolic enzymes, leading to the formation of toxic by-products."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q25",
+     "kind": "choice",
+     "points": 1,
+     "question": "25. [Question omitted from the exam]",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q26",
+     "kind": "choice",
+     "points": 1,
+     "question": "26. The gene affecting eye colour in a species of fly is located on the X chromosome. Sex determination in this species is the same as in humans. A red-eyed female mates with a white-eyed male, and all 100 flies in the next (F1) generation have red eyes. A red-eyed F1 female is mated with a white-eyed male to produce an F2 generation. What phenotype proportions are expected among the males in the F2 generation?",
+     "options": [
+      {
+       "key": "A",
+       "text": "100% red"
+      },
+      {
+       "key": "B",
+       "text": "100% white"
+      },
+      {
+       "key": "C",
+       "text": "75% red, 25% white"
+      },
+      {
+       "key": "D",
+       "text": "25% red, 75% white"
+      },
+      {
+       "key": "E",
+       "text": "50% red, 50% white"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q27",
+     "kind": "choice",
+     "points": 1,
+     "question": "27. At each origin of replication, DNA synthesis proceeds bi-directionally from two replication forks. What would happen if there was only one functional fork per replication bubble?",
+     "options": [
+      {
+       "key": "A",
+       "text": "There would be no change in replication."
+      },
+      {
+       "key": "B",
+       "text": "Replication would only be complete on the leading strand."
+      },
+      {
+       "key": "C",
+       "text": "Replication would only be complete on the lagging strand."
+      },
+      {
+       "key": "D",
+       "text": "Replication would take twice as long."
+      },
+      {
+       "key": "E",
+       "text": "Replication would only take place on one strand of the chromosome."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q28",
+     "kind": "choice",
+     "points": 1,
+     "question": "28. In the nervous system, a synapse is a structure that permits a neuron to pass an electrical or chemical signal to another cell. Some medications act by blocking the re-uptake of a neurotransmitter in the synapse. How do they accomplish this?",
+     "options": [
+      {
+       "key": "A",
+       "text": "By reducing the amount of activation on presynaptic membrane receptors."
+      },
+      {
+       "key": "B",
+       "text": "By reducing the amount of uptake by surrounding glial cells."
+      },
+      {
+       "key": "C",
+       "text": "By increasing the length of time a neurotransmitter is available to postsynaptic receptors in the synapse."
+      },
+      {
+       "key": "D",
+       "text": "By increasing the number of postsynaptic receptors in the synapse."
+      },
+      {
+       "key": "E",
+       "text": "By reducing the amount of neurotransmitter present in the synapse during activation of the presynaptic neuron. © 2014 University of Toronto U of T National Biology Competition / 7"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q29",
+     "kind": "choice",
+     "points": 1,
+     "question": "29. Shown at right is part of the pathway of the biosynthesis of the amino acid lysine. What type of reaction is this?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Oxidation"
+      },
+      {
+       "key": "B",
+       "text": "Dehydration"
+      },
+      {
+       "key": "C",
+       "text": "Reduction"
+      },
+      {
+       "key": "D",
+       "text": "Synthesis"
+      },
+      {
+       "key": "E",
+       "text": "Acid-base"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q30",
+     "kind": "choice",
+     "points": 1,
+     "question": "30. Which of the following is LEAST likely to diffuse through a pure phospholipid bilayer that contains no proteins? -",
+     "options": [
+      {
+       "key": "A",
+       "text": "Cl"
+      },
+      {
+       "key": "B",
+       "text": "Ca2+"
+      },
+      {
+       "key": "C",
+       "text": "Ethanol (CH3-CH2-OH)"
+      },
+      {
+       "key": "D",
+       "text": "CO2"
+      },
+      {
+       "key": "E",
+       "text": "H 2O"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: B"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Тест: вопросы 31–40",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q31",
+     "kind": "choice",
+     "points": 1,
+     "question": "31. What is most likely to happen if the glucose transporter in the proximal convoluted tubule of a nephron stops working?",
+     "options": [
+      {
+       "key": "A",
+       "text": "There would be a small quantity of highly concentrated urine produced in the collecting duct of the nephron."
+      },
+      {
+       "key": "B",
+       "text": "More water than usual would be absorbed in the ascending loop of Henle of the nephron."
+      },
+      {
+       "key": "C",
+       "text": "More water than usual would be excreted by the ascending loop of Henle of the nephron."
+      },
+      {
+       "key": "D",
+       "text": "There would be a large volume of urine produced in the collecting duct of the nephron."
+      },
+      {
+       "key": "E",
+       "text": "The filtration rate in the glomerulus of the nephron would immediately decrease."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q32",
+     "kind": "choice",
+     "points": 1,
+     "question": "32. What is the most likely fate of atoms from a high-sugar snack that are broken down during normal human metabolism?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Eliminated from the body in feces"
+      },
+      {
+       "key": "B",
+       "text": "Converted into energy"
+      },
+      {
+       "key": "C",
+       "text": "Released by breathing"
+      },
+      {
+       "key": "D",
+       "text": "Converted into adenosine triphosphate, ATP"
+      },
+      {
+       "key": "E",
+       "text": "Reduced to generate energy"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q33",
+     "kind": "choice",
+     "points": 1,
+     "question": "33. Which statement is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "All viruses have RNA as their genetic material."
+      },
+      {
+       "key": "B",
+       "text": "Some viruses live and replicate outside of hosts."
+      },
+      {
+       "key": "C",
+       "text": "Only one virus can infect a host at a particular time."
+      },
+      {
+       "key": "D",
+       "text": "Viral genes are not incorporated into the host’s DNA."
+      },
+      {
+       "key": "E",
+       "text": "Viruses cannot be destroyed with antibiotics."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q34",
+     "kind": "choice",
+     "points": 1,
+     "question": "34. What ecological interaction between early eukaryotes and the prokaryote lineage resulted in mitochondria?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Competition"
+      },
+      {
+       "key": "B",
+       "text": "Predation"
+      },
+      {
+       "key": "C",
+       "text": "Mutualism"
+      },
+      {
+       "key": "D",
+       "text": "Symbiosis"
+      },
+      {
+       "key": "E",
+       "text": "Parasitism © 2014 University of Toronto U of T National Biology Competition / 8"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-ecology",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q35",
+     "kind": "choice",
+     "points": 1,
+     "question": "35. A human develops a condition in which their output of T3 and T4 (thyroxin) from the thyroid gland dropped dramatically. The metabolic output of cells in their body would ___________ and the levels of circulating thyroid-stimulating (TSH) and thyrotropin-releasing hormone (TRH) in the body would ___________.",
+     "options": [
+      {
+       "key": "A",
+       "text": "increase; increase"
+      },
+      {
+       "key": "B",
+       "text": "increase; decrease"
+      },
+      {
+       "key": "C",
+       "text": "be unchanged; increase"
+      },
+      {
+       "key": "D",
+       "text": "decrease; decrease"
+      },
+      {
+       "key": "E",
+       "text": "decrease; increase"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q36",
+     "kind": "choice",
+     "points": 1,
+     "question": "36. [Question omitted from the exam]",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q37",
+     "kind": "choice",
+     "points": 1,
+     "question": "37. Where does the electron come from to reduce photosystem II during the light reactions of photosynthesis?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The cytoplasm"
+      },
+      {
+       "key": "B",
+       "text": "Light"
+      },
+      {
+       "key": "C",
+       "text": "Water"
+      },
+      {
+       "key": "D",
+       "text": "ATP"
+      },
+      {
+       "key": "E",
+       "text": "NADPH"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q38",
+     "kind": "choice",
+     "points": 1,
+     "question": "38. Carbon dioxide and other greenhouse gases cause Earth’s temperature to increase by:",
+     "options": [
+      {
+       "key": "A",
+       "text": "allowing greater transmission of incoming solar radiation."
+      },
+      {
+       "key": "B",
+       "text": "absorbing heat energy and holding it close to Earth."
+      },
+      {
+       "key": "C",
+       "text": "increasing plant respiration."
+      },
+      {
+       "key": "D",
+       "text": "reducing photosynthetic rates."
+      },
+      {
+       "key": "E",
+       "text": "increasing the amount of radiation from Earth’s surface."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q39",
+     "kind": "choice",
+     "points": 1,
+     "question": "39. Which of the following cells has the same amount of DNA as a cell that is undergoing metaphase of meiosis I? (All cells come from the same individual, and all cells have no genetic abnormalities.)",
+     "options": [
+      {
+       "key": "A",
+       "text": "A cell that is at metaphase of mitosis."
+      },
+      {
+       "key": "B",
+       "text": "A cell prior to DNA replication."
+      },
+      {
+       "key": "C",
+       "text": "A cell that has completed meiosis I, but not yet started meiosis II."
+      },
+      {
+       "key": "D",
+       "text": "One of the daughter cells produced by mitosis."
+      },
+      {
+       "key": "E",
+       "text": "A cell in anaphase of meiosis II."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q40",
+     "kind": "choice",
+     "points": 1,
+     "question": "40. Gene ABC codes for a protein that produces a digestive enzyme. The enzyme is only found in the intestine. Which of the following cell types contain the ABC gene?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Brain cells only"
+      },
+      {
+       "key": "B",
+       "text": "Intestine cells only"
+      },
+      {
+       "key": "C",
+       "text": "Gametes (sperm and eggs) only"
+      },
+      {
+       "key": "D",
+       "text": "Intestine cells and gametes only"
+      },
+      {
+       "key": "E",
+       "text": "Brain cells, intestine cells, and gametes"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: E"
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Тест: вопросы 41–50",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q41",
+     "kind": "choice",
+     "points": 1,
+     "question": "41. Which of the following will NOT influence the carrying capacity of a particular area for a population of photosynthetic plants?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Sunlight"
+      },
+      {
+       "key": "B",
+       "text": "Total habitat area"
+      },
+      {
+       "key": "C",
+       "text": "Carbon dioxide in the soil"
+      },
+      {
+       "key": "D",
+       "text": "Symbiotic interactions with mycorrhizal fungi"
+      },
+      {
+       "key": "E",
+       "text": "Availability of water © 2014 University of Toronto U of T National Biology Competition / 9"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q42",
+     "kind": "choice",
+     "points": 1,
+     "question": "42. How does artificial selection differ from natural selection?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Natural selection is non-random, whereas artificial selection is random."
+      },
+      {
+       "key": "B",
+       "text": "Artificial selection usually results in larger changes over a shorter period of time than natural selection."
+      },
+      {
+       "key": "C",
+       "text": "Artificial selection usually produces organisms that are better suited to their environment than natural selection."
+      },
+      {
+       "key": "D",
+       "text": "Both natural selection and artificial selection are non-random."
+      },
+      {
+       "key": "E",
+       "text": "Natural selection acts on the phenotype, whereas artificial selection acts on the genotype."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q43",
+     "kind": "choice",
+     "points": 1,
+     "question": "43. Which of the following was NOT recognized by Charles Darwin?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Natural selection is a mechanism of evolution."
+      },
+      {
+       "key": "B",
+       "text": "Species are interconnected in nature."
+      },
+      {
+       "key": "C",
+       "text": "DNA transmission is a mechanism of inheritance."
+      },
+      {
+       "key": "D",
+       "text": "Variation among individuals in a population can lead to speciation."
+      },
+      {
+       "key": "E",
+       "text": "Ecological interactions play an important role in evolution."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q44",
+     "kind": "choice",
+     "points": 1,
+     "question": "44. Which of the following is an example of a human activity that is MOST likely to increase biodiversity in an ecosystem?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Removing top predators"
+      },
+      {
+       "key": "B",
+       "text": "Increasing limiting nutrients for primary producers"
+      },
+      {
+       "key": "C",
+       "text": "Creating farmland"
+      },
+      {
+       "key": "D",
+       "text": "Removing non-native species"
+      },
+      {
+       "key": "E",
+       "text": "Building new roads"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": true,
+     "answer": "BD",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: BD"
+    },
+    {
+     "id": "q45",
+     "kind": "choice",
+     "points": 1,
+     "question": "45. Some plants will extrude xylem sap through the leaves, a process called guttation. What is the cause of this?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Excessive photosynthesis in the leaves"
+      },
+      {
+       "key": "B",
+       "text": "High root pressure"
+      },
+      {
+       "key": "C",
+       "text": "Transpiration"
+      },
+      {
+       "key": "D",
+       "text": "Respiration in leaf cells"
+      },
+      {
+       "key": "E",
+       "text": "An over-flow of phloem sap into the xylem"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q46",
+     "kind": "choice",
+     "points": 1,
+     "question": "46. A region of DNA sequence from a double-stranded molecule which has undergone DNA replication is shown below. The original DNA strand is shown with a solid line, and the new strand created by DNA replication is shown as a dashed line. A mutation occurred during DNA replication. Assuming this was the only mutation that occurred, what is the sequence of the new replicated DNA strand?",
+     "options": [
+      {
+       "key": "A",
+       "text": "5ʹ′-ACTTTG-3ʹ′"
+      },
+      {
+       "key": "B",
+       "text": "5ʹ′-TAAAAC-3ʹ′"
+      },
+      {
+       "key": "C",
+       "text": "5ʹ′-TGAAAC-3ʹ′"
+      },
+      {
+       "key": "D",
+       "text": "5ʹ′-CAAAGT-3ʹ′"
+      },
+      {
+       "key": "E",
+       "text": "5ʹ′-GTTTCA-3ʹ′ © 2014 University of Toronto U of T National Biology Competition / 10"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q47",
+     "kind": "choice",
+     "points": 1,
+     "question": "47. You have a circular plasmid of unknown size. You cut the plasmid with three different restriction enzymes and separate the digested DNA fragments using agarose gel electrophoresis. The bands on the gel (show at right) represent the different sized DNA fragments after digestion with the various enzymes. The bands in lane 1 are of known size, the sizes are labelled on the left side of the gel. Based on these results, the plasmid is ____ kb, and there is an EcoRI site within the _____ kb XhoI fragment.",
+     "options": [
+      {
+       "key": "A",
+       "text": "10; 5"
+      },
+      {
+       "key": "B",
+       "text": "10; 8"
+      },
+      {
+       "key": "C",
+       "text": "20; 8"
+      },
+      {
+       "key": "D",
+       "text": "8; 2"
+      },
+      {
+       "key": "E",
+       "text": "5; 10"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q48",
+     "kind": "choice",
+     "points": 1,
+     "question": "48. Speciation has occurred when individuals from two different populations:",
+     "options": [
+      {
+       "key": "A",
+       "text": "encounter different selective pressures."
+      },
+      {
+       "key": "B",
+       "text": "become separated by a geographical barrier, such as a mountain or river."
+      },
+      {
+       "key": "C",
+       "text": "accumulate different mutations."
+      },
+      {
+       "key": "D",
+       "text": "experience gametic incompatibility."
+      },
+      {
+       "key": "E",
+       "text": "undergo different morphological changes."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q49",
+     "kind": "choice",
+     "points": 1,
+     "question": "49. A complex relationship exists between humans and the microbes that exist in our bodies, our “microbiome”. What is the most significant factor in determining the types of microbes that make up each person’s microbiome?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The quantity of water a person consumes."
+      },
+      {
+       "key": "B",
+       "text": "The amount of sunshine exposure a person gets."
+      },
+      {
+       "key": "C",
+       "text": "The genes expressed by a person’s immune system."
+      },
+      {
+       "key": "D",
+       "text": "The vitamins a person consumes."
+      },
+      {
+       "key": "E",
+       "text": "The concentration of enzymes in a person’s digestive system."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q50",
+     "kind": "choice",
+     "points": 1,
+     "question": "50. Populations of E. coli have evolved resistance to many different antibiotics. If antibiotic use were stopped, what would you predict is most likely to happen to a population of E. coli?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Over time, antibiotic-resistant E. coli will become extinct."
+      },
+      {
+       "key": "B",
+       "text": "The frequency of antibiotic-resistant E. coli will increase."
+      },
+      {
+       "key": "C",
+       "text": "The E. coli population will begin colonizing new environments."
+      },
+      {
+       "key": "D",
+       "text": "The frequency of non-resistant E. coli will increase."
+      },
+      {
+       "key": "E",
+       "text": "E. coli will stop acquiring mutations that cause antibiotic resistance. End of exam. © 2014 University of Toronto"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  }
+ ]
+}

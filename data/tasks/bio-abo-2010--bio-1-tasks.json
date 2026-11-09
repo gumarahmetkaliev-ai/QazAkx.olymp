@@ -1,0 +1,487 @@
+{
+ "setId": "bio-abo-2010--bio-1-tasks",
+ "olympiadId": "bio-abo-2010",
+ "title": "Биология → ABO (Австралия) → 2010",
+ "materialLabel": "1 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/ABO/2010/bio-1-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/ABO/2010/bio-1-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T13:45:05.038Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 57,
+  "withPoints": 57,
+  "withReference": 57,
+  "withQuestion": 57,
+  "estimatedPoints": 57
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "BIOLOGY",
+   "weight": null,
+   "total": 57,
+   "statement": "2010 National Qualifying Examination\n\n                                  Time Allowed:\n\n                           Reading Time: 15 minutes\n\n                      Examination Time: 120 minutes\n\n                                 INSTRUCTIONS\n\n Attempt all questions.\n Permitted materials: Non-programmable, NON-GRAPHICAL calculator, pens,\n  pencils, erasers and a ruler.\n Answer SECTIONS A and B on the ANSWER SHEET PROVIDED. Use a\n  pencil.\n Note: The number of possible answers in section A varies from three to five\n  answers, which is not necessarily reflected in the multiple choice answer\n  sheet.\n Answer SECTION C in the answer booklet provided. Write in pen and use\n  pencil only for graphs.\n\n Do not write on this question paper. It will not be marked.\n Particular attention should be paid to giving clear diagrams and explanations.\n All numerical answers must have correct units.\n Marks will not be deducted for incorrect answers.\n\n                                       MARKS\n\n           SECTION A           45 multiple choice questions             45 marks\n           SECTION B           12 short answer questions                26 marks\n           SECTION C           6 written answer questions               40 marks\n\n                               Total marks for the paper                111 marks\n\n                  SECTION A: MULTIPLE CHOICE\n                USE THE ANSWER SHEET PROVIDED\n1. An educated speculation or a possible answer to a question is called a:\n\n   a. scientific method.\n   b. theory.\n   c. law.\n   d. hypothesis.\n   e. fact.\n\n2. Two groups of people were tested to determine whether garlic lowers blood\n   cholesterol levels. One group was given 800 mg of garlic powder daily for\n   four months and exhibited an average 12% reduction in the blood\n   cholesterol. The other group was not given any garlic and after four months\n   averaged a 3% reduction in cholesterol. The group that was not given the\n   garlic was the:\n\n   a. peer group.\n   b. test group.\n   c. treatment group.\n   d. control group.\n   e. double-blind group.\n\n3. The constant appearance of new strains of influenza virus is an example of:\n\n   a. a model.\n   b. random mutation.\n   c. selection pressure.\n   d. survivorship.\n   e. success.\n\n4. Which of the following options lists the levels of mammalian structural\n   hierarchy starting with the most complex, down to the simplest unit?\n\n   a. organelle, cell, tissue, organ, organ system.\n   b. organ system, organ, cell, tissue, organelle.\n   c. organ system, organelle, tissue, cell, organ.\n   d. organ system, organ, tissue, cell, organelle.\n   e. organ, organ system, tissue, cell, organelle.\n\n5. The environment external to our bodies is ever changing, yet our internal\n   conditions remain relatively stable. This is mediated by a process called:\n\n   a. homeostasis.\n   b. metastasis.\n   c. responsiveness.\n   d. adaptation.\n   e. evolution.\n\n6. Blood glucose concentration rises after a meal and stimulates release of the\n   hormone insulin. Insulin travels in the blood and stimulates body cells to\n   uptake glucose from the bloodstream. This reduces blood glucose\n   concentration. This is an example of:\n\n   a. negative feedback.\n   b. positive feedback.\n   c. dynamic equilibrium.\n   d. integration control.\n   e. set point adjustment.\n\n7. The prefix hypo- means _____________, whereas hyper- means\n   _____________.\n\n   a. front, back.\n   b. right, left.\n   c. inside, outside.\n   d. clear, dark.\n   e. below, above.\n\n8. What type of bond attracts one water molecule to another?\n\n   a. An ionic bond.\n   b. A peptide bond.\n   c. A hydrogen bond.\n   d. A covalent bond.\n   e. A hydrolytic bond.\n\n9. Most human cells range from 10 to 15 micrometers in diameter. What limits\n   how large a cell can be?\n\n   a. A cell’s lifespan.\n   b. Nutrients available in the environment of a cell.\n   c. The relationship between its volume and length.\n   d. The relationship between its length and surface area.\n   e. The relationship between its volume and surface area.\n\n10. Jared lost a lot of weight eating a low calorie diet. Where did all the fat /\n    mass go?\n\n   a. The mass was released as CO2 and H2O.\n   b. The mass was converted to energy and used up.\n   c. The mass was converted to ATP molecules.\n   d. The mass was broken down to amino acids and eliminated from the\n      body.\n   e. The mass was converted to urine and faeces and eliminated from the\n      body.\n\n11. Blood has a pH ranging from 7.35 to 7.45. Slight deviations from this can\n    cause major problems, even death.\n\n   One of your friends, Champ, is something of a gym buff and has been doing\n   an intense workout. You remember from your Biology classes that skeletal\n   muscle cells produce metabolic acids such as lactic acid. Champ’s blood pH\n   does not drop significantly in spite of the metabolic acids released into the\n   blood. Champ is able to maintain a constant blood pH because:\n\n   a. metabolic acids are neutralized in muscle cells before they are\n      released into the blood.\n   b. metabolic bases are produced at the same rate by muscle cells to\n      neutralize the acids.\n   c. the respiratory system removes excess H+ from the blood before the\n      pH is lowered.\n   d. the fluids of the body contain chemicals called buffers that resist\n      changes in pH.\n   e. endothelial cells secrete excess H+ to prevent a decrease in pH.\n\n12. The following is a biochemical pathway for the control of pink pigment.\n    Production occurs in three reaction steps, regulated by the genes X, Y and Z\n    which assort independently. Only the product of gene Z has colour, all the\n    other products in the pathway are colourless.\n\n             X        Y        Z\n   no colour  step 1  step 2  pink pigment\n\n   Any of the alleles x, y or z when inherited as a homozygous recessive pair\n   result in blocking of the pathway which gives rise to a colourless phenotype.\n   If a red XX YY ZZ parent is crossed with a colourless xx yy zz and any of\n   their F1 offspring are then crossed with an xx yy zz individual (a test cross),\n   what proportion of the offspring will be pink?\n\n   a. 1/8.\n   b. 1/4.\n   c. 1/2.\n   d. 3/16.\n   e. 1/16.\n\n13. A previously unknown organism that lacks both a nuclear membrane and\n   mitochondria has just been discovered. Which of the following would this\n   organism most likely possess?\n\n   a. Lysosomes.\n   b. Cilia.\n   c. Endoplasmic reticulum.\n   d. Chloroplasts.\n   e. Ribosomes.\n\n14. When a heterozygote for a particular gene locus A is selfed, the probability of\n    obtaining an aa offspring is 1/4, and the probability of obtaining an Aa\n    offspring is 1/2. Similarly, when a double heterozygote AaBb is selfed, the\n    probability of obtaining an AaBB offspring is:\n\n   a. 1/2.\n   b. 1/4.\n   c. 1/8.\n   d. 1/16.\n   e. 1/32.\n\n15. The death cap mushroom Amanita phalloides is the leading cause of\n    mushroom poisonings, as it resembles many edible species and tastes quite\n    pleasant. The main toxin in the mushroom inhibits an RNA polymerase in\n    humans, causing eventual cell death in the organs, which receive the\n    contaminated blood from the digestive system.\n\n   Out of the following organs, which will be the MOST immediately affected?\n\n   a. Lungs.\n   b. Pancreas.\n   c. Heart.\n   d. Skin.\n   e. Liver.\n\n16. Van Leeuwenhoek is acknowledged as the inventor of the first microscope.\n    This enabled individual cells to be seen for the first time and paved way for\n    the study of microscopic organisms and cell biology. Sometimes, students\n    find difficulty in appreciating measurement and scale using a microscope. A\n    young Biology student tried to work out the size of a human hair, by placing a\n    ruler under the low power of a microscope such that the mm scale appeared\n    as in the left of the diagram. When one human hair was viewed under the\n    high power of the same microscope, it appeared as on the right.\n\n   If the low power objective magnifies 4x and the high power magnifies 40x,\n   the thickness of the hair is:\n\n   a. 0.1 mm.\n   b. 0.15 mm.\n   c. 0.25 mm.\n   d. 0.3 mm.\n   e. 0.35 mm.\n\n17. The apparatus shown is used to measure the oxygen uptake by small\n    animals.\n\n                                                              Detergent film\n              Cage\n                                      Soda lime\n                                      (absorbs CO2)\n   A mouse was introduced into the apparatus and after a few minutes, a thin\n   film of detergent was introduced into the tube, as shown. During a 5-minute\n   period the detergent film moved inwards (i.e. towards the mouse) from 0.1\n   cm3 to 2.3 cm3. In the same 5-minute period, a detergent film in a control\n   apparatus (without a mouse) moved in the same direction from 0.4 cm3 to\n   0.6 cm3.\n\n   The rate of oxygen uptake by the mouse was:\n\n   a. 2.2 cm3 per minute.\n   b. 0.4 cm3 per minute.\n   c. 2.4 cm3 per minute.\n   d. 2.0 cm3 per minute.\n\n18. During replication or transcription, errors sometimes occur such that certain\n    nucleotides are repeated. These errors are often referred to as duplications.\n    Duplications of nucleotide bases within genes vary in severity. Some result in\n    non-functional proteins and others may have little or no effect on function.\n    The diagram below shows a strand of mRNA produced from a particular\n    gene.\n\n   Which of the following duplication events is most likely to lead to the\n   synthesis of a non-functional protein?\n\n   a. A base pair is duplicated at X.\n   b. Three base pairs are duplicated at X.\n   c. A base pair is duplicated at Y.\n   d. Three base pairs are duplicated at Y.\n   e. A base pair is duplicated at Z.\n\n19. A given DNA sample has 60% purines. The source of this DNA is most likely\n   to be:\n   a. a eukaryotic cell.\n   b. a bacterial cell.\n   c. cDNA synthesized from a eukaryotic cell.\n   d. a bacteriophage with double-stranded DNA.\n   e. a bacteriophage with single-stranded DNA.\n\n20. The human enzyme acetaldehyde dehydrogenase is formed from the\n    assembly of 4 polypeptide chains and is therefore known as a tetramer\n    (meaning 4 subunits). These chains are the product of a single gene for\n    which there are two alleles; N encoding a normal polypeptide, and M\n    encoding a mutant polypeptide. Tetramers containing one or more mutant\n    polypeptides have effectively no enzymatic activity.\n   If the relative acetaldehyde dehydrogenase activity of NN and MM\n   homozygote cells are 1 and 0 respectively, what is the activity of the NM\n   heterozygote cells, assuming that both alleles are expressed at equal rates?\n   a. 1/2.\n   b. 1/4.\n   c. 1/8.\n   d. 1/16.\n   e. 1/32.\n\n21. In a preliminary experiment as part of a study looking at the development of\n    poison in a species of poisonous fish, eggs and sperm were harvested from\n    a wild population and in vitro fertilization carried out. The resulting embryos\n    were then hatched and grown in an indoor plastic tank containing artificial\n    seawater. It was found that the fish never became poisonous.\n\n   In a later experiment young fish grown in this tank were divided into two\n   groups and placed in separate pens in a bay where they were exposed to\n   real seawater. One pen had a horizontal net that prevented the fish from\n   reaching the sea bottom, while the other pen had no horizontal net.\n   Subsequently, no poison was detected from the fish cultured in the pen with\n   the net, but poison was found in fish from the other pen.\n   Which of the following can be concluded from this experiment?\n   To be toxic:\n   a. a component present in natural seawater but not artificial seawater is\n      necessary.\n   b. fish must reach maturity.\n   c. the fish must be able to reach the sea floor.\n   d. fish must observe adult fish in their natural environment, as it is the\n      result of a learned behaviour.\n\nThe following information applies to Questions 22-23\nA group of students examined the distribution patterns of mangrove organisms on\na shore in Hong Kong by conducting transect surveys, collecting species\ndistribution data and plotting these results. The figure below is a plot of the tree\nheight and tree species distribution along a transect. The Y-axis is tree height,\nand the X-axis is the distance along the transect in metres. The shore profile\nalong the transect is overlaid. The distribution pattern (the presence and\nabsence) of the mangrove animals is plotted as horizontal bar charts under the\ngraph.\n\n 22. Salinity tolerance sets the zonation pattern of mangrove plants in Hong\n     Kong. Considering the information given, which species of mangrove is likely\n     to be the most salt-tolerant?\n\n    a. Lumnitzera racemosa.\n    b. Kandelia candel.\n    c. Avicennia marina.\n\n 23. C. rhizophorarum is a hornshell (Class Gastropoda) that feeds on detritus\n     and microalgae. S. cucullata is the hooded oyster (Class Bivalvia) and is a\n     filter feeder. What is the most likely reason that the distribution of these two\n     species is non-overlapping?\n\n    a. The two species have similar niches and therefore compete strongly.\n    b. C. rhizophorarum is associated with the mangrove, K. candel.\n    c. S. cucullata has adaptations that enable it to tolerate long periods of\n       exposure when the tide it out.\n    d. S. cucullata has adaptations to enable it to tolerate high salinities.\n\n24. Two vacuum flasks were set up, one containing germinating seeds, the other\n    containing dead and sterilised seeds, as shown in the diagram below.\n\n   Which of the following would prove that germinating seeds produce heat?\n\n   a. The temperature of the flask containing the germinating seeds was\n      higher on the third day than on the second day.\n   b. Two days after setting up the apparatus, the temperature of the flask\n      containing the germinating seeds was 2° C above room temperature.\n   c. The temperature of the flask containing the sterilised seeds fell during\n      the first two days of the experiment, whilst the temperature of the\n      flask containing germinating seeds did not.\n   d. The temperature of the flask containing the germinating seeds was\n      always several degrees above the temperature of the flask containing\n      the sterilised seeds.\n   e. The temperature of the flask containing the germinating seeds rose\n      steadily during the first three days of the experiment, whilst the\n      temperature of the flask containing germinating seeds did not.\n\n25. A degenerative disease that develops in people aged between 35 and 45 is\n    caused by a dominant allele. A couple has two children, who are both\n    younger than 20 years old. One parent suffers from the disease and is\n    known to be heterozygous for the allele responsible. The other parent, who\n    is 50 years old, does not show any signs of the disease. What is the\n    probability that both children will develop the disease when they become\n    older?\n\n   a. 1/16.\n   b. 3/16.\n   c. 1/4.\n   d. 9/16.\n   e. 3/4.\n\nThe following information applies to Questions 26-28\nHomiothermic (warm-blooded) mammals can maintain a relatively constant body\ntemperature as a result of a number of different internal and external means.\n\nThe graph below shows the relationship between the metabolic heat production\nof a homiothermic mammal at rest and the environmental temperature.\n\nHeat production\n(arbitrary units)\n\n                           Environmental temperature (oC)\n26. What is the range of environmental temperatures when the mammal’s body\n    temperature is relatively stable?\n\n   a. -35 oC to 50 oC.\n   b. 0 oC to 30 oC.\n   c. -20 oC to 35 oC.\n   d. 0 oC to 30 oC.\n   e. -25 oC to 40 oC.\n\n27. What is the temperature at which the mammal would begin to shiver if the\n    environmental temperature gradually decreased from 45 oC to -40 oC?\n\n   a. -35 oC.\n   b.   -20 oC.\n   c. -10 oC.\n   d. 0 oC.\n\n28. The increase in metabolic heat production between environmental\n    temperatures 35oCand 45oC is due to:\n\n   a. the response of the body’s metabolism to an increase in body\n      temperature.\n   b. an increase in the activity of sweat glands.\n   c. an increase in blood flow through the skin.\n   d. a sudden increase in environmental temperature.\n\n29. A species of insect was found to have developed resistance to a commonly\n   used insecticide. Which of the following is the most likely explanation?\n\n   a. Insects learned how to avoid the pesticide, and these learned\n      behaviours were passed on subsequent generations.\n   b. The original gene pool included genes that conferred resistance to\n      the insecticide.\n   c. The insecticide stimulated development of resistance in certain\n      individuals and this was inherited.\n   d. The insecticide caused a mutation that increased insect fitness and\n      which was passed on to subsequent generations.\n\n30. Absorption of a drug in the gastro-intestinal tract depends on a number of\n    factors. Penicillin V, the structure of which is shown below, is a weak acid\n    and has a pKa = 2.7. This means that at pH values less than 2.7 the carboxyl\n    group of most molecules will be protonated (as shown in the diagram), whilst\n    at higher pH values most molecules will be deprotonated (have lost H+).\n\n   The pH in stomach is about 2.0, and that in the intestine is 7.5. Most of the\n   drug is absorbed in the intestine.\n\n   Choose the most likely reason for this from the following statements:\n\n   a. The molecule of drug being hydrophobic in nature passes through\n      gastric and intestinal membranes to a very small extent. However,\n      because of the much greater surface area in the intestine, the major\n      quantity of the drug is absorbed here.\n   b. As the drug is a weak acid it is more stable in the acidic pH of the\n      stomach and will only begin to breakdown and be absorbed at the\n      higher pH in the small intestine.\n   c. The protonated form of the drug prevails in stomach, which slows down\n      its absorption. Hence, the drug gets preferentially absorbed in the\n      intestine.\n   d. The deprotonated form of the drug prevails in the intestine which\n      hinders/slows down its absorption. However, owing to the large surface\n      area available in the intestine, the drug is mainly absorbed here.\n   e. Due to rapid churning movement and the low pH in the stomach, the\n      drug is completely broken down into smaller fragments, which can be\n      efficiently absorbed in the small intestine.\n\n31. The process of artificial kidney dialysis is shown schematically using the\n    following symbols:\n       : erythrocyte              : salts\n                                                            : semi-permeable membrane\n       : urea                     : proteins\n\n      Which of the following correctly depicts the process?\n\na.                                                 b.\n\n c.                                                  d.\n\n32. Alleles IA and IB present on chromosome 9 are responsible for blood groups\n    A and B, respectively. Blood group O results when these alleles are either\n    absent or not expressed. The alleles IA and IB are expressed only if the H\n    allele is present on chromosome 19, either in the homozygous or\n    heterozygous condition, where h stands for the recessive allele.\n\n    Gilbert belongs to the AB blood group. His sister Helen belongs to the A\n    group while their father belongs to the O group. Which of the following\n    maternal and paternal genotypes could give rise to this pattern of\n    phenotypes?\n\n    Mother                         Father\n a. H/H, IA/IB                     H/h, IO/IO\n b. H/h, IB/IO                     h/h, IA/IO\n c. h/h, IO/IO                     h/h, IA/IO\n d. H/H, IA/IO                     H/h, IB/IO\n e. h/h, IB/IO                     H/h, IO/IO\n\n33. Totally submerged aquatic plants can cause a pH change in the surrounding\n    water when they carry out photosynthesis. What pH change happens and\n    what causes it?\n\n a. The pH falls because carbon dioxide is absorbed.\n b. The pH rises because carbon dioxide is absorbed.\n c. The pH falls because oxygen is released.\n d. The pH rises because oxygen is released.\n\n34. A man with a genetic disease marries a phenotypically normal woman. They\n    have four girls and four boys; all of the girls have the same disease as their\n    father, but none of the boys does. What is the most likely explanation?\n\n  The disease is caused by:\n\n a. an autosomal dominant allele.\n b. an autosomal recessive allele.\n c. an X-linked dominant allele.\n d. an X-linked recessive allele.\n e. a Y-linked allele.\n\n35. Young laughing gull chicks peck at the tip of the parent’s beak, which in turn\n    induces the adult gull to regurgitate food. Experiments were conducted with\n    one-day old and three-day old chicks, the latter being reared with their\n    parents. These chicks were presented with models of the parent head and\n    the following responses were obtained:\n\n                                         Mean number of pecks / 30 sec\n                    Model                0      5       10     15\n\n                                           One-day old\n       Parental\n                                           Three-day old\n\n            I\n\n           II\n\n          III\n\n          IV\n\n     Which is the best interpretation of these results?\n\n a. Pecking behaviour is a fixed action pattern where any long pointed\n    object acts as an equally effective stimulus.\n b. The pecking rate of laughing gull chicks increases with age.\n c. The response of one-day old chicks is more pronounced when the\n    model is closer to that of the parent.\n d. Act of pecking is an innate behaviour while the discriminatory\n    capacity of the chicks is a result of learning.\n\n36. Male Coho Salmon, found in the freshwater streams of North America, have\n    two reproductive strategies to fertilize the eggs laid by females. Larger males\n    are able to fight with each other successfully to gain proximity to females but\n    smaller males are unable to do so. The latter adopt another strategy, that of\n    sneaking, in which they hide behind rocks and quickly approach females to\n    fertilize the eggs before the larger males are able to do so. Which of the\n    following graphs correctly depicts the success of these strategies (assessed\n    as proximity to the female) in relation to body size?\n\na.\n                                                           b.\n\n                                                                Proximity to female\n                                       Fighting                                                              Sneaking\n  Male body size\n\n                                           Sneaking                                                                Fighting\n\n                            Proximity to female                                                   Male body size\n\n   c.                                                        d.\n                                                                            Proximity to female\n\n                                          Sneaking                                                            Fighting\n           Male body size\n\n                                             Fighting                                                               Sneaking\n\n                             Proximity to female                                                   Male body size\n\n37. Sickle cell anaemia is an autosomal recessive trait. Individual 2 in the\n    following pedigree is a carrier for this trait. Assuming that individuals 3 and 4\n    are normal homozygous, what is the probability that individual 6 will have the\n    disease?\n                          1                2\n                                                                       : Male\n                      A                Aa\n           3          A                                  4             : Female\n\n                          5                6\n\n    a.    1/16.\n    b.    1/32.\n    c.    1/64.\n    d.    1/128.\n\n   The following information applies to Questions 38-40\n   Antibodies are a key part of the immune response and mediate their activity\n   by their ability to bind pathogens in a highly specific manner (Similar to the\n   lock and key model of enzyme-substrate binding). Scientists have learned to\n   manipulate the immune system of animals to produce antibodies not only\n   against pathogens but also against various non-pathogenic proteins they\n   wish to study. These antibodies will then specifically bind the protein of\n   interest. By tagging antibodies specific for a protein of interest with a\n   fluorescent marker, antibodies can be used to find the location of the protein\n   within a cell. This is done by permeabilising the cell to the antibody and\n   washing it through the cell such that it will bind any protein of interest\n   present. A fluorescence microscope can then be used to detect the tagged\n   antibody and hence the location of the protein of interest can be determined.\n\n38. Where would you expect to detect fluorescence in a cell exposed in this\n    fashion to a tagged antibody raised against an enzyme of glycolysis?\n\n   a. The nucleus.\n   b. The endoplasmic reticulum.\n   c. The mitochondria.\n   d. The cytosol.\n   e. The cell membrane.\n\n39. If a cell undergoing metaphase of mitosis was treated with a tagged antibody\n    specific for the proteins of the mitotic spindle what would you expect to see\n    under the microscope?\n\n   a. A band of fluorescence across the equator of the cell which denotes\n      the axis of cell division.\n   b. Fluorescent fibres extending from opposite ends of the cell and\n      meeting at the equator.\n   c. Fluorescent fibres extending a short way towards the equator from\n      opposite poles of the cell.\n   d. Fluorescence at opposite poles of the cell.\n   e. Fluorescence at the nuclear envelope.\n\n40. Due to their specific binding capabilities, antibodies can also be used to\n    purify a protein of interest from a cell lysate (the contents of the cell released\n    by lysing/bursting the cell). In this instance the antibody is attached to a\n    solid matrix and the cell lysate is washed over the matrix. In this way the\n    protein of interest can bind to the antibody, whilst other proteins, which the\n    antibody does not recognise are washed off. The protein of interest can then\n    be eluted by denaturing the protein-protein interactions binding it to the\n    antibody. This process is known as immunoaffinity purification.\n\n    A young scientist was attempting to purify their protein of interest in this\n    fashion. When the eluted solution was examined, it contained three different\n    proteins. When these proteins were re-exposed to the antibody, only one\n    was able to bind the antibody. Which of the following statements is the most\n    likely explanation for these observations?\n\n   a. The protein of interest is bound to two other proteins within the cell\n      that remained bound during the purification procedure.\n   b. The protein of interest is present in three different forms within the\n      cell.\n   c. The antibody has specificity for three unrelated proteins, one of which\n      is the protein of interest.\n   d. The elution process caused the breakdown of the protein of interest.\n\n    The following information applies to Questions 41-42\n    A section of DNA was sequenced and one of its strands reads:\n             3'   TACAGGGTCGCTCATATTCGA                                5'\n41. Give the correct mRNA sequence for this piece of DNA.\n   a. U A C A G G G U C G C U C A U A U U C G A\n   b. A T G T C C C A G C G A G T A T A A G C T\n   c. T A C A G G G T C G C T C A T A T T C G A\n   d. A U G U C C C A G C G A G U A U A A G C U\n\n42. Using the table provided below, determine the sequence of amino acids that\n    is specified by the DNA strand above:\n\n                         Second base (3' end)\n                         U        C      A              G\n                     phe               ser    tyr       cys      U\n                     phe               ser    tyr       cys      C\n                   U\n                     leu               ser    STOP      STOP     A\n                     leu               ser    STOP      trp      G\n                     leu               pro    his       arg      U\n                     leu               pro    his       arg      C\n                   C\n                     leu               pro    gln       arg      A\n                     leu               pro    gln       arg      G\n First base\n (5' end)                ile\n                                       thr    asn       ser      U\n                         ile\n                                       thr    asn       ser      C\n                   A     ile\n                                       thr    lys       arg      A\n                         met (+\n                                       thr    lys       arg      G\n                         START)\n                     val               ala    asp       gly      U\n                     val               ala    asp       gly      C\n                   G\n                     val               ala    glu       gly      A\n                     val               ala    glu       gly      G\n\n a.    ser ser arg gln asp STOP val\n b.    ser ser arg gln asp STOP\n c.    ser gln arg val ala\n d.    ser gln arg val\n e.    met ser gln arg val\n\n43. If a molecule of carbon dioxide released into the blood in your left foot travels\n    out of your nose, it must pass through all of the following structures except\n    the:\n\n a.    right atrium.\n b.    pulmonary vein.\n c.    alveolus.\n d.    bronchus.\n e.    pulmonary artery.\n\n44. One action of the hormone glucagon is to cause the activation of adenylyl\n    cyclase in liver cells. Adenylyl cyclase is an enzyme that converts ATP into\n    the messenger molecule cyclic AMP (cAMP), the presence of which triggers\n    a cascade of events within the cell that lead to the breakdown of glycogen\n    and the subsequent release of glucose into the blood stream. This pathway\n    is summarised in the diagram below.\n\n      When glucagon is removed adenylyl cyclase becomes inactive again and\n      ceases to convert ATP to cAMP. The enzyme phosphodiesterase converts\n      cAMP into AMP.\n\n      The following table summarises an experiment measuring glucose release\n      by liver cell cultures under various conditions.\n\n Culture     Conditions                             Observations\n 1           No additions                           Minimal glucose release\n\n 2           Glucagon added and later               Glucose released into media,\n             removed                                rapid reduction in release after\n                                                    glucagon removed\n 3           Caffeine added                         Minimal glucose release\n 4           Glucagon and caffeine added,           Glucose released into media,\n             glucagon then removed but              slow reduction in release after\n             caffeine maintained                    glucagon removed.\n\n      Based on these observations, which of the following is most likely?\n\n a.     Caffeine binds the active site of adenylyl cylclase.\n b.     Caffeine inhibits the action of phosphodiesterase.\n c.     Caffeine stimulates synthesis of cAMP.\n d.     Caffeine prevents glucagon breakdown.\n\n45. A region of a double-stranded DNA molecule is represented in the following\n    schematic. The hyphens denote sequences of unspecified lengths:\n\n   If the region within the box were to undergo inversion, which of the following\n   sequences would be produced?\n\n            SECTION B: 12 SHORT ANSWER QUESTIONS\n               USE THE ANSWER SHEET PROVIDED\n\n46. (1 mark) In a breed of rabbits, multiple alleles with the following dominance\n    relationships control coat coloration:\n\n   C (agouti) > cch (chinchilla) > ch (Himalayan) > c (albino).\n\n   An experimental cross between agouti and Himalayan produced 50% agouti\n   and 50% Himalayan progeny. Which of the following crosses would have the\n   lowest probability of producing this result?\n\n    A.      Cch X chch\n    B.      Cc X chc\n    C.      Cch X chc\n    D.      Cc X chch\n\n47. (3 marks) Plants and animals accumulate starch and glycogen as a storage\n    polysaccharide, respectively. Starch consists of two sorts of large, water-\n    insoluble polymers of glucose, amylose and amylopectin. Amylose is\n    essentially unbranched and linear while amylopectin is highly and regularly\n    branched, which forms branch clusters. Glycogen is also a branched glucose\n    polymer, but unlike amylopectin, it is relatively small and water-soluble. In\n    the glycogen molecule, branches are shorter, irregular, and not clustered.\n\n                            Starch                                        Glycogen\n\n           Amylose                      Amylopectin\n\n   Biosynthesis of starch involves three classes of enzymes: chain elongation\n   enzymes, branching enzymes, and debranching enzymes. Sugary, a rice\n   mutant, is deficient in a particular debranching enzyme. The endosperm of\n   this mutant is characterized by the accumulation of glycogen-like\n   polysaccharide instead of amylopectin.\n\n47a. In consideration of this information, the role of the wild-type debranching\n   enzyme in starch biosynthesis is to:\n\n    I.      remove all branches from amylopectin to form amylose.\n    II.     shorten every branch of amylopectin.\n    III.    regulate the branching pattern of amylopectin.\n    IV.     cut 1 α 4 glycosidic bonds of amylopectin.\n\n   The seeds of the Sugary mutant of rice are not different from the wild-type\n   seeds in the size and appearance before desiccation, which is associated\n   with seed maturation. During desiccation, however, the Sugary seeds\n   become shrunk and wrinkled.\n\n47b. This phenomenon suggests that before desiccation, as compared with the\n   wild-type seeds, the Sugary seeds contain:\n\n                 storage polysaccharide              water\n\n        I.       more                                less\n        II.      more                                more\n        III.     less                                more\n        IV.      less                                less\n\n   Bacteria including cyanobacteria accumulate a glycogen-like polysaccharide\n   for storing glucose.\n\n47c. Which of the following can reasonably explain the evolution of storage\n   polysaccharides?\n\n  The common ancestor of plants and animals could synthesize:\n\n   I.          both amylopectin and glycogen, but plants have lost the ability of\n               glycogen synthesis during evolution.\n\n   II.         both amylopectin and glycogen, but animals have lost the ability of\n               amylopectin synthesis.\n   III.        amylopectin but not glycogen, and animals have acquired the ability\n               of glycogen synthesis.\n   IV. glycogen but not amylopectin, and plants have acquired the ability of\n       amylopectin synthesis.\n\n48. (1 mark) Hunting of Northern elephant seals reduced their population size to\n   as few as 20 individuals at the end of the 19th century. Their population has\n   since rebounded to over 30,000. But their genomes still carry the marks of\n   this bottleneck when compared to the population of Southern elephant seals\n   that was not so intensely hunted. Such bottlenecks are manifested in the\n   form of:\n\n   A. abundance of unique mutations.\n   B. increased frequency of deleterious recessive alleles.\n   C. reduced genetic variation.\n   D. increased population size.\n\n 49. (1 mark) The following table shows the number of estimated nucleotide\n     substitutions that have occurred since the divergence of seven species (a-g).\n\n                  b      c        d    e       f      g\n\n            a    39     72     128    126    159    269\n\n           b            81     130    128    158    268\n\n            c                  129    127    157    267\n\n           d                           56    154    271\n\n            e                                151    268\n\n            f                                       273\n\nWhich of the phylogenetic trees below best shows the relationship among these\nseven species?\n\nA.                           B.                              C.\n\nD.                           E.                              F.\n\n 50. (3 marks) The stoichiometry of aerobic and anaerobic degradation of\n     glucose by yeast are as follows:\n\n   C6H12O6 + 6O2  6CO2 + 6H2O\n\n   C6H12O6  2C2H5OH + 2CO2\n\n  In an experiment, the complete utilisation of 0.5 mol of glucose, partly under\n  aerobic and partly under anaerobic conditions, yielded 1.8 mol of CO2.\n\n50a.    Calculate the percentage of glucose that was utilised aerobically.\n\n  The Respiratory Quotient (RQ) is the ratio of the CO2 produced to the O2\n  utilized.\n\n50b.    Calculate the RQ for this experiment.\n\n  The diagram below shows a respirometer used to measure gas exchange in\n  germinating seeds. The screw clip was briefly opened to allow the gas round\n  the seeds to be at atmospheric pressure. The clip was then closed and, after\n  20 minutes, the adjusting screw at the bottom used to equalise the pressure in\n  the two limbs of the manometer. The change in volume in the right hand limb\n  was then measured. Potassium hydroxide (KOH) can absorb carbon dioxide.\n  The potassium hydroxide solution was then replaced with water, and another\n  measurement obtained in a similar way over another 20 minute period. As\n  before, the screw clip and adjustment screw were used to ensure that changes\n  in volume were measured at atmospheric pressure.\n                                            Screw clip\n\n                                                            Germinating Seeds\n\n                                                       Potassium hydroxide\n                                                       OR water\n\n                                              scale\n\n                                              Adjusting screw\n\n       Two further measurements were obtained in the same way using a control\n       apparatus without seeds. The results are shown in the table below. A ‘plus’\n       reading indicates an increase in volume of gas in the flask; a ‘minus’\n       indicates a decrease in volume.\n\n                                               Change in volume in\n           Liquid in        Time of            manometer (mm3)\n           flask            reading            With seeds    Without\n                                                             seeds\n                            Initially          0             0\n           Water            After 20           +7            +2\n                            minutes\n                            Initially          0                   0\n            10% KOH\n                            After 20           –20                 0\n           solution\n                            minutes\n\n50c.     What was the RQ for these seeds?\n\n   The net assimilation of CO2 of a plant is 0.5 moles when illuminated during the\n   day. The net consumption of O2 is 0.12 moles during the night.\n\n50d.     Assuming that all the gas exchange is due to photosynthesis and\n         respiration of the biomass (equivalent molecular mass of 30), what is the\n         net production or consumption of biomass in grams during a complete 12 h\n         day:12 h night diurnal cycle?\n\n51. (2 marks) Determine whether the following statements are true (T) or false\n    (F).\n\n       51a. The greater the concentration gradient the faster the\n            diffusion rate.\n       51b. If a cell doubled in diameter, it would have twice as much\n            cytoplasm to maintain.\n       51c. The nucleus is the largest organelle in most cells.\n       51d. Osmosis is the movement of water from a region of low\n            solute concentration to a region of high solute\n            concentration.\n\n 52. (1 mark) Cardiac output is defined as the amount of blood pumped by each\n     ventricle over a period of time. It is determined by multiplying the heart rate\n     and the stroke volume. The stroke volume is the amount of blood ejected by\n     each ventricle with each beat. If the heart of a woman beats 56 times in a\n     minute, the volume of blood in her heart is 120 ml immediately prior to\n     contraction and 76 ml at the end of contraction, calculate her cardiac output\n     in mL/min.\n\n 53. (4 marks) The oocytes of a sea star grow within the follicle in the gonad.\n     Eventually they cease meiosis at prophase I and are maintained as\n     immature eggs. The immature eggs resume meiosis when stimulated and\n     lose their nuclear envelop as shown below.\n\n          nucleus\n             follicles                                                         polar body\n\n       It has been observed that the resumption of meiosis occurs in response to a\n       signal from the nervous system of the adult sea star and the following\n       hypotheses have been generated:\n\n53a.    Hypothesis 1: Adult nerve tissue releases a substance that directly acts\n        on immature eggs causing them to resume meiosis.\n\n53b.    Hypothesis 2: Adult nerve tissue releases a substance that directly acts\n        on immature eggs causing them to resume meiosis, but the follicle blocks\n        the substance from reaching the immature eggs.\n\n53c.    Hypothesis 3: Adult nerve tissue releases a precursor of a substance that\n        directly acts on immature eggs causing them to resume meiosis, which is\n        processed by the follicle into an active compound that causes immature\n        eggs to resume meiosis.\n\n53d.    Hypothesis 4: Adult nerve tissue releases a substance which induces\n        follicles to secrete a substance which then acts on the cell surface of an\n        immature egg to cause a resumption of meiosis.\n\n       To explore the merits of these hypotheses the following experiments were\n       conducted.\n\n       Experiment 1: Extract from the nerve tissue of adult starfish was added to\n       immature eggs surrounded by follicles.\n\n       Result: Meiosis resumed.\n\n  Experiment 2: Extract from the nerve tissue of adult starfish was added to\n  immature eggs from which follicles were removed.\n\n  Result: Meiosis did NOT resume.\n\n  Experiment 3: Extract from the nerve tissue of adult starfish was added to\n  follicles after they had been separated from immature eggs, and\n  subsequently the medium was added to immature eggs without follicles.\n\n  Result: Meiosis resumed.\n\n  Experiment 4: Extract from the nerve tissue of an adult starfish was added\n  to follicles after separated from immature eggs, and the medium was\n  injected to immature eggs without follicles.\n\n  Result: Meiosis did NOT resume.\n\n  Based on these results, indicate whether or not each hypothesis should be\n  rejected or not rejected.\n\n54. (3 marks) On the basis of the photoperiod required for flowering, plants can\n    be described as:\n\nI.       Short-day plants\nII.      Long-day plants\nIII.     Day-length indifferent plants\n\n       The effect of varying light periods on flowering in these three types of plants\n       is depicted in the graphs below, where TM, the trophic minimum, is the\n       minimum light that is required to produce the organic matter indispensable\n       to the plants metabolism and CP is the critical period for flowering.\n\n                                                                                          54a.                                                                     54b.\n\n                                                   TM CP           24                                                                                               24\n                                                  Hours of light/day                                                                                   (TM = CP)\n                                                                                                                                                       Hours of light/day\n\n                                                                                                   54c.\n\n                                                                                TM CP       24\n                                                                              Hours of light/day\n\n       Choose a plant type (I, II or III) for each of the three graphs and fill in the\n       table in your answer sheet.\n\n     55. (3 marks) For intracellular infectious bacteria and viruses to successfully\n         invade a cell, they must bind to receptors on the cell surface. HIV specifically\n         infects helper T cells, which express the CD4 molecule, but not CD8 on their\n         cell surface, making it possible to distinguish helper T cells from other\n         lymphocytes. Thus, CD4 is hypothesized to be a receptor for HIV.\n\n     55a.   Which TWO of the following experiment would test this hypothesis?\n            Experiments that examine whether:\n\n             an antibody against CD4 added to a co-culture system of CD4-positive T\nI.\n             cells and HIV can inhibit HIV infection of T cells.\n             an antibody against HIV added to a co-culture system of CD4-positive T\nII.\n             cells and HIV can inhibit HIV infection of T cells.\n             forced expression of the CD4 gene in HIV-resistant CD4-negative T\nIII.\n             cells causes a recovery of susceptibility to HIV infection.\n             forced expression of the CD8 gene in HIV-resistant CD8-negative T\nIV.\n             cells causes a recovery of susceptibility to HIV infection.\n\n         It is known that HIV cannot infect mice, although the mouse has CD4-\n         positive helper T cells, because mouse CD4 cannot bind to HIV. To study\n         further the mechanism of HIV infection in human cells human genes for CD4\n         and a human chemokine receptor CXCR4 were expressed in mouse cells.\n         The results were as follows:\n\n•        When the human CD4 gene alone was expressed in mouse T cells, HIV\n         could bind to the cells but could not infect them.\n\n•        When human chemokine receptor (CXCR4) was expressed in addition to\n         human CD4 in mouse cells, HIV was able to infect the cells.\n\n•        When human CD4 and CXCR4 genes were expressed in mouse cells and\n         the cells were cultivated in the presence of SDF-1a, a ligand of CXCR4,\n         infection by HIV was perturbed.\n\n     55b.   Which of the following sentences states the best conclusion based on the\n            above experiments?\n\n             If CXCR4 is expressed in mouse cells, CD4 is not required for the\nI.\n             infection of HIV.\n             Human CD4 is required for the binding with HIV, and the binding is\nII.\n             enhanced by the SDF-1a ligand.\n             Even if human CD4 is expressed in mouse T cells, CXCR4 is required\nIII.\n             for binding of HIV to the T cells.\n             Human CD4 is required for the binding with HIV, but infection of HIV into\nIV.\n             cells requires help of CXCR4.\n\n56. (1 mark) With regards to breathing, tidal volume is defined as the volume of\n    air entering the lungs in a single inspiration, and is approximately equal to\n    the volume exhaled during subsequent expiration on normal quiet breathing.\n\n  Exchange of gases with the blood occurs in the alveoli of lungs. In the\n  conducting airways (e.g. the trachea), which also contain a volume of air, no\n  gas exchange takes place. The space within these airways is called the\n  anatomical dead space. Thus the volume of fresh air entering the alveoli\n  during each inspiration equals the tidal volume minus the volume of air in the\n  anatomical dead space. The total volume of fresh air entering the alveoli per\n  minute is called the alveolar ventilation and is expressed in ml/min and varies\n  directly with the respiration rate.\n\n  Consider the hypothetical breathing patterns of three individuals; I, II and III.\n\n  Individual       Tidal volume        Frequency           Anatomic dead space\n                   (ml/breath)         (breaths/min)       (ml/breath)\n  I                800                 12                  600\n  II               500                 16                  350\n  III              600                 12                  200\n\n  Which of the following holds true about the alveolar ventilation of these three\n  individuals?\n\n  A.    II has considerably greater alveolar ventilation than III.\n\n  B.    I has considerably greater alveolar ventilation than III.\n\n  C.    III has considerably greater alveolar ventilation than II.\n\n  D.    I has considerably greater alveolar ventilation than II.\n\n57. (3 marks) HN is a recessive mutant of soybean that exhibits a\n    hypernodulating phenotype. As shown in Figure 1, the roots of the HN\n    mutant form more nodules than the wild-type (WT) roots, and the shoot\n    growth of the HN mutant is retarded compared to WT. Figure 2 schematically\n    shows the nodulation phenotypes observed in grafting experiments with WT\n    and the HN mutant. In the absence of Rhizobium, the HN mutant is not\n    phenotypically different from WT in any aspects.\n                                                      WT               HN\n\n               Shoot\n\n                Root\n\n                                Normal number of           Excessive number of\n                                nodules                    nodules\n\n                                            Figure 1\n                                               Retarded\n\n                                                           Retarded\n                 Normal\n\n                                   Normal\n\n                                                                       Shoot\n                                                                       growth\n\n                                                                       Shoot\n\n                                                                            Graft union\n\n                                                                       Root\n                                               Excessive\n\n                                                           Excessive\n                 Normal\n\n                                   Normal\n\n                                                                       Number of\n                                                                       nodules\n\n                               Figure 2\n  From the following statements, mark “X” in the appropriate box choosing the\n  option in the bracket.\n\n57a.        In the HN mutant, what determines the hypernodulation phenotype?\n\n       I.     shoot\n       II. root\n\n57b.        How does the shoot of WT regulate the number of nodules?\n\n       I.     positively regulates\n       II.    negatively regulates\n       III. is neutral for the regulation of\n\n57c.        In the HN mutant, how are hypernodulation and shoot growth related?\n\n       I.      Hypernodulation is the cause of retarded shoot growth\n       II.     Hypernodulation is the result of retarded shoot growth\n       III.    Hypernodulation is independent of retarded shoot growth\n\n                          Integrity of the Competition\n\nTo ensure the integrity of the competition and to identify outstanding students the\ncompetition organisers reserve the right to re-examine or disqualify any student or\ngroup of students before determining a mark or award where there is evidence of\n                     collusion or other academic dishonesty",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 1,
+     "question": "An educated speculation or a possible answer to a question is called a: a. scientific method. b. theory. c. law. d. hypothesis. e. fact.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.2",
+     "points": 1,
+     "question": "Two groups of people were tested to determine whether garlic lowers blood cholesterol levels. One group was given 800 mg of garlic powder daily for four months and exhibited an average 12% reduction in the blood cholesterol. The other group was not given any garlic and after four months averaged a 3% reduction in cholesterol. The group that was not given the garlic was the: a. peer group. b. test group. c. treatment group. d. control group. e. double-blind group.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.3",
+     "points": 1,
+     "question": "The constant appearance of new strains of influenza virus is an example of: a. a model. b. random mutation. c. selection pressure. d. survivorship. e. success.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.4",
+     "points": 1,
+     "question": "Which of the following options lists the levels of mammalian structural hierarchy starting with the most complex, down to the simplest unit? a. organelle, cell, tissue, organ, organ system. b. organ system, organ, cell, tissue, organelle. c. organ system, organelle, tissue, cell, organ. d. organ system, organ, tissue, cell, organelle. e. organ, organ system, tissue, cell, organelle.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.5",
+     "points": 1,
+     "question": "The environment external to our bodies is ever changing, yet our internal conditions remain relatively stable. This is mediated by a process called: a. homeostasis. b. metastasis. c. responsiveness. d. adaptation. e. evolution.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.6",
+     "points": 1,
+     "question": "Blood glucose concentration rises after a meal and stimulates release of the hormone insulin. Insulin travels in the blood and stimulates body cells to uptake glucose from the bloodstream. This reduces blood glucose concentration. This is an example of: a. negative feedback. b. positive feedback. c. dynamic equilibrium. d. integration control. e. set point adjustment.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.7",
+     "points": 1,
+     "question": "The prefix hypomeans _____________, whereas hypermeans _____________. a. front, back. b. right, left. c. inside, outside. d. clear, dark. e. below, above.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.8",
+     "points": 1,
+     "question": "What type of bond attracts one water molecule to another? a. An ionic bond. b. A peptide bond. c. A hydrogen bond. d. A covalent bond. e. A hydrolytic bond.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.9",
+     "points": 1,
+     "question": "Most human cells range from 10 to 15 micrometers in diameter. What limits how large a cell can be? a. A cell’s lifespan. b. Nutrients available in the environment of a cell. c. The relationship between its volume and length. d. The relationship between its length and surface area. e. The relationship between its volume and surface area.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.10",
+     "points": 1,
+     "question": "Jared lost a lot of weight eating a low calorie diet. Where did all the fat / mass go? a. The mass was released as CO2 and H2O. b. The mass was converted to energy and used up. c. The mass was converted to ATP molecules. d. The mass was broken down to amino acids and eliminated from the body. e. The mass was converted to urine and faeces and eliminated from the body.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.11",
+     "points": 1,
+     "question": "Blood has a pH ranging from 7.35 to 7.45. Slight deviations from this can cause major problems, even death. One of your friends, Champ, is something of a gym buff and has been doing an intense workout. You remember from your Biology classes that skeletal muscle cells produce metabolic acids such as lactic acid. Champ’s blood pH does not drop significantly in spite of the metabolic acids released into the blood. Champ is able to maintain a constant blood pH because: a. metabolic acids are neutralized in muscle cells before they are released into the blood. b. metabolic bases are produced at the same rate by muscle cells to neutralize the acids. c. the respiratory system removes excess H+ from the blood before the pH is lowered. d. the fluids of the body contain chemicals called buffers that resist changes in pH. e. endothelial cells secrete excess H+ to prevent a decrease in pH.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.12",
+     "points": 1,
+     "question": "The following is a biochemical pathway for the control of pink pigment. Production occurs in three reaction steps, regulated by the genes X, Y and Z which assort independently. Only the product of gene Z has colour, all the other products in the pathway are colourless. X Y Z no colour  step 1  step 2  pink pigment Any of the alleles x, y or z when inherited as a homozygous recessive pair result in blocking of the pathway which gives rise to a colourless phenotype. If a red XX YY ZZ parent is crossed with a colourless xx yy zz and any of their F1 offspring are then crossed with an xx yy zz individual (a test cross), what proportion of the offspring will be pink? a. 1/8. b. 1/4. c. 1/2. d. 3/16. e. 1/16.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.13",
+     "points": 1,
+     "question": "A previously unknown organism that lacks both a nuclear membrane and mitochondria has just been discovered. Which of the following would this organism most likely possess? a. Lysosomes. b. Cilia. c. Endoplasmic reticulum. d. Chloroplasts. e. Ribosomes.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.14",
+     "points": 1,
+     "question": "When a heterozygote for a particular gene locus A is selfed, the probability of obtaining an aa offspring is 1/4, and the probability of obtaining an Aa offspring is 1/2. Similarly, when a double heterozygote AaBb is selfed, the probability of obtaining an AaBB offspring is: a. 1/2. b. 1/4. c. 1/8. d. 1/16. e. 1/32.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.15",
+     "points": 1,
+     "question": "The death cap mushroom Amanita phalloides is the leading cause of mushroom poisonings, as it resembles many edible species and tastes quite pleasant. The main toxin in the mushroom inhibits an RNA polymerase in humans, causing eventual cell death in the organs, which receive the contaminated blood from the digestive system. Out of the following organs, which will be the MOST immediately affected? a. Lungs. b. Pancreas. c. Heart. d. Skin. e. Liver.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.16",
+     "points": 1,
+     "question": "Van Leeuwenhoek is acknowledged as the inventor of the first microscope. This enabled individual cells to be seen for the first time and paved way for the study of microscopic organisms and cell biology. Sometimes, students find difficulty in appreciating measurement and scale using a microscope. A young Biology student tried to work out the size of a human hair, by placing a ruler under the low power of a microscope such that the mm scale appeared as in the left of the diagram. When one human hair was viewed under the high power of the same microscope, it appeared as on the right. If the low power objective magnifies 4x and the high power magnifies 40x, the thickness of the hair is: a. 0.1 mm. b. 0.15 mm. c. 0.25 mm. d. 0.3 mm. e. 0.35 mm.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.17",
+     "points": 1,
+     "question": "The apparatus shown is used to measure the oxygen uptake by small animals. Detergent film Cage Soda lime (absorbs CO2) A mouse was introduced into the apparatus and after a few minutes, a thin film of detergent was introduced into the tube, as shown. During a 5-minute period the detergent film moved inwards (i.e. towards the mouse) from 0.1 cm3 to 2.3 cm3. In the same 5-minute period, a detergent film in a control apparatus (without a mouse) moved in the same direction from 0.4 cm3 to 0.6 cm3. The rate of oxygen uptake by the mouse was: a. 2.2 cm3 per minute. b. 0.4 cm3 per minute. c. 2.4 cm3 per minute. d. 2.0 cm3 per minute.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.18",
+     "points": 1,
+     "question": "During replication or transcription, errors sometimes occur such that certain nucleotides are repeated. These errors are often referred to as duplications. Duplications of nucleotide bases within genes vary in severity. Some result in non-functional proteins and others may have little or no effect on function. The diagram below shows a strand of mRNA produced from a particular gene. Which of the following duplication events is most likely to lead to the synthesis of a non-functional protein? a. A base pair is duplicated at X. b. Three base pairs are duplicated at X. c. A base pair is duplicated at Y. d. Three base pairs are duplicated at Y. e. A base pair is duplicated at Z.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.19",
+     "points": 1,
+     "question": "A given DNA sample has 60% purines. The source of this DNA is most likely to be: a. a eukaryotic cell. b. a bacterial cell. c. cDNA synthesized from a eukaryotic cell. d. a bacteriophage with double-stranded DNA. e. a bacteriophage with single-stranded DNA.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.20",
+     "points": 1,
+     "question": "The human enzyme acetaldehyde dehydrogenase is formed from the assembly of 4 polypeptide chains and is therefore known as a tetramer (meaning 4 subunits). These chains are the product of a single gene for which there are two alleles; N encoding a normal polypeptide, and M encoding a mutant polypeptide. Tetramers containing one or more mutant polypeptides have effectively no enzymatic activity. If the relative acetaldehyde dehydrogenase activity of NN and MM homozygote cells are 1 and 0 respectively, what is the activity of the NM heterozygote cells, assuming that both alleles are expressed at equal rates? a. 1/2. b. 1/4. c. 1/8. d. 1/16. e. 1/32.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.21",
+     "points": 1,
+     "question": "In a preliminary experiment as part of a study looking at the development of poison in a species of poisonous fish, eggs and sperm were harvested from a wild population and in vitro fertilization carried out. The resulting embryos were then hatched and grown in an indoor plastic tank containing artificial seawater. It was found that the fish never became poisonous. In a later experiment young fish grown in this tank were divided into two groups and placed in separate pens in a bay where they were exposed to real seawater. One pen had a horizontal net that prevented the fish from reaching the sea bottom, while the other pen had no horizontal net. Subsequently, no poison was detected from the fish cultured in the pen with the net, but poison was found in fish from the other pen. Which of the following can be concluded from this experiment? To be toxic: a. a component present in natural seawater but not artificial seawater is necessary. b. fish must reach maturity. c. the fish must be able to reach the sea floor. d. fish must observe adult fish in their natural environment, as it is the result of a learned behaviour.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.22",
+     "points": 1,
+     "question": "Salinity tolerance sets the zonation pattern of mangrove plants in Hong Kong. Considering the information given, which species of mangrove is likely to be the most salt-tolerant? a. Lumnitzera racemosa. b. Kandelia candel. c. Avicennia marina.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.23",
+     "points": 1,
+     "question": "C. rhizophorarum is a hornshell (Class Gastropoda) that feeds on detritus and microalgae. S. cucullata is the hooded oyster (Class Bivalvia) and is a filter feeder. What is the most likely reason that the distribution of these two species is non-overlapping? a. The two species have similar niches and therefore compete strongly. b. C. rhizophorarum is associated with the mangrove, K. candel. c. S. cucullata has adaptations that enable it to tolerate long periods of exposure when the tide it out. d. S. cucullata has adaptations to enable it to tolerate high salinities.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.24",
+     "points": 1,
+     "question": "Two vacuum flasks were set up, one containing germinating seeds, the other containing dead and sterilised seeds, as shown in the diagram below. Which of the following would prove that germinating seeds produce heat? a. The temperature of the flask containing the germinating seeds was higher on the third day than on the second day. b. Two days after setting up the apparatus, the temperature of the flask containing the germinating seeds was 2° C above room temperature. c. The temperature of the flask containing the sterilised seeds fell during the first two days of the experiment, whilst the temperature of the flask containing germinating seeds did not. d. The temperature of the flask containing the germinating seeds was always several degrees above the temperature of the flask containing the sterilised seeds. e. The temperature of the flask containing the germinating seeds rose steadily during the first three days of the experiment, whilst the temperature of the flask containing germinating seeds did not.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.25",
+     "points": 1,
+     "question": "A degenerative disease that develops in people aged between 35 and 45 is caused by a dominant allele. A couple has two children, who are both younger than 20 years old. One parent suffers from the disease and is known to be heterozygous for the allele responsible. The other parent, who is 50 years old, does not show any signs of the disease. What is the probability that both children will develop the disease when they become older? a. 1/16. b. 3/16. c. 1/4. d. 9/16. e. 3/4.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.26",
+     "points": 1,
+     "question": "What is the range of environmental temperatures when the mammal’s body temperature is relatively stable? a. -35 oC to 50 oC. b. 0 oC to 30 oC. c. -20 oC to 35 oC. d. 0 oC to 30 oC. e. -25 oC to 40 oC.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.27",
+     "points": 1,
+     "question": "What is the temperature at which the mammal would begin to shiver if the environmental temperature gradually decreased from 45 oC to -40 oC? a. -35 oC. b. -20 oC. c. -10 oC. d. 0 oC.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.28",
+     "points": 1,
+     "question": "The increase in metabolic heat production between environmental temperatures 35oCand 45oC is due to: a. the response of the body’s metabolism to an increase in body temperature. b. an increase in the activity of sweat glands. c. an increase in blood flow through the skin. d. a sudden increase in environmental temperature.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.29",
+     "points": 1,
+     "question": "A species of insect was found to have developed resistance to a commonly used insecticide. Which of the following is the most likely explanation? a. Insects learned how to avoid the pesticide, and these learned behaviours were passed on subsequent generations. b. The original gene pool included genes that conferred resistance to the insecticide. c. The insecticide stimulated development of resistance in certain individuals and this was inherited. d. The insecticide caused a mutation that increased insect fitness and which was passed on to subsequent generations.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.30",
+     "points": 1,
+     "question": "Absorption of a drug in the gastro-intestinal tract depends on a number of factors. Penicillin V, the structure of which is shown below, is a weak acid and has a pKa = 2.7. This means that at pH values less than 2.7 the carboxyl group of most molecules will be protonated (as shown in the diagram), whilst at higher pH values most molecules will be deprotonated (have lost H+). The pH in stomach is about 2.0, and that in the intestine is 7.5. Most of the drug is absorbed in the intestine. Choose the most likely reason for this from the following statements: a. The molecule of drug being hydrophobic in nature passes through gastric and intestinal membranes to a very small extent. However, because of the much greater surface area in the intestine, the major quantity of the drug is absorbed here. b. As the drug is a weak acid it is more stable in the acidic pH of the stomach and will only begin to breakdown and be absorbed at the higher pH in the small intestine. c. The protonated form of the drug prevails in stomach, which slows down its absorption. Hence, the drug gets preferentially absorbed in the intestine. d. The deprotonated form of the drug prevails in the intestine which hinders/slows down its absorption. However, owing to the large surface area available in the intestine, the drug is mainly absorbed here. e. Due to rapid churning movement and the low pH in the stomach, the drug is completely broken down into smaller fragments, which can be efficiently absorbed in the small intestine.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.31",
+     "points": 1,
+     "question": "The process of artificial kidney dialysis is shown schematically using the following symbols: : erythrocyte : salts : semi-permeable membrane : urea : proteins Which of the following correctly depicts the process?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.32",
+     "points": 1,
+     "question": "Alleles IA and IB present on chromosome 9 are responsible for blood groups A and B, respectively. Blood group O results when these alleles are either absent or not expressed. The alleles IA and IB are expressed only if the H allele is present on chromosome 19, either in the homozygous or heterozygous condition, where h stands for the recessive allele. Gilbert belongs to the AB blood group. His sister Helen belongs to the A group while their father belongs to the O group. Which of the following maternal and paternal genotypes could give rise to this pattern of phenotypes? Mother Father",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.33",
+     "points": 1,
+     "question": "Totally submerged aquatic plants can cause a pH change in the surrounding water when they carry out photosynthesis. What pH change happens and what causes it?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.34",
+     "points": 1,
+     "question": "A man with a genetic disease marries a phenotypically normal woman. They have four girls and four boys; all of the girls have the same disease as their father, but none of the boys does. What is the most likely explanation?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.35",
+     "points": 1,
+     "question": "Young laughing gull chicks peck at the tip of the parent’s beak, which in turn induces the adult gull to regurgitate food. Experiments were conducted with one-day old and three-day old chicks, the latter being reared with their parents. These chicks were presented with models of the parent head and the following responses were obtained: Mean number of pecks / 30 sec Model 0 5 10 15 One-day old Parental Three-day old I II III IV Which is the best interpretation of these results?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.36",
+     "points": 1,
+     "question": "Male Coho Salmon, found in the freshwater streams of North America, have two reproductive strategies to fertilize the eggs laid by females. Larger males are able to fight with each other successfully to gain proximity to females but smaller males are unable to do so. The latter adopt another strategy, that of sneaking, in which they hide behind rocks and quickly approach females to fertilize the eggs before the larger males are able to do so. Which of the following graphs correctly depicts the success of these strategies (assessed as proximity to the female) in relation to body size?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.37",
+     "points": 1,
+     "question": "Sickle cell anaemia is an autosomal recessive trait. Individual 2 in the following pedigree is a carrier for this trait. Assuming that individuals 3 and 4 are normal homozygous, what is the probability that individual 6 will have the disease? 1 2 : Male A Aa 3 A 4 : Female 5 6 a. 1/16. b. 1/32. c. 1/64. d. 1/128. The following information applies to Questions 38-40 Antibodies are a key part of the immune response and mediate their activity by their ability to bind pathogens in a highly specific manner (Similar to the lock and key model of enzyme-substrate binding). Scientists have learned to manipulate the immune system of animals to produce antibodies not only against pathogens but also against various non-pathogenic proteins they wish to study. These antibodies will then specifically bind the protein of interest. By tagging antibodies specific for a protein of interest with a fluorescent marker, antibodies can be used to find the location of the protein within a cell. This is done by permeabilising the cell to the antibody and washing it through the cell such that it will bind any protein of interest present. A fluorescence microscope can then be used to detect the tagged antibody and hence the location of the protein of interest can be determined.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.38",
+     "points": 1,
+     "question": "Where would you expect to detect fluorescence in a cell exposed in this fashion to a tagged antibody raised against an enzyme of glycolysis? a. The nucleus. b. The endoplasmic reticulum. c. The mitochondria. d. The cytosol. e. The cell membrane.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.39",
+     "points": 1,
+     "question": "If a cell undergoing metaphase of mitosis was treated with a tagged antibody specific for the proteins of the mitotic spindle what would you expect to see under the microscope? a. A band of fluorescence across the equator of the cell which denotes the axis of cell division. b. Fluorescent fibres extending from opposite ends of the cell and meeting at the equator. c. Fluorescent fibres extending a short way towards the equator from opposite poles of the cell. d. Fluorescence at opposite poles of the cell. e. Fluorescence at the nuclear envelope.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.40",
+     "points": 1,
+     "question": "Due to their specific binding capabilities, antibodies can also be used to purify a protein of interest from a cell lysate (the contents of the cell released by lysing/bursting the cell). In this instance the antibody is attached to a solid matrix and the cell lysate is washed over the matrix. In this way the protein of interest can bind to the antibody, whilst other proteins, which the antibody does not recognise are washed off. The protein of interest can then be eluted by denaturing the protein-protein interactions binding it to the antibody. This process is known as immunoaffinity purification. A young scientist was attempting to purify their protein of interest in this fashion. When the eluted solution was examined, it contained three different proteins. When these proteins were re-exposed to the antibody, only one was able to bind the antibody. Which of the following statements is the most likely explanation for these observations? a. The protein of interest is bound to two other proteins within the cell that remained bound during the purification procedure. b. The protein of interest is present in three different forms within the cell. c. The antibody has specificity for three unrelated proteins, one of which is the protein of interest. d. The elution process caused the breakdown of the protein of interest. The following information applies to Questions 41-42 A section of DNA was sequenced and one of its strands reads: 3' TACAGGGTCGCTCATATTCGA 5'",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.41",
+     "points": 1,
+     "question": "Give the correct mRNA sequence for this piece of DNA. a. U A C A G G G U C G C U C A U A U U C G A b. A T G T C C C A G C G A G T A T A A G C T c. T A C A G G G T C G C T C A T A T T C G A d. A U G U C C C A G C G A G U A U A A G C U",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.42",
+     "points": 1,
+     "question": "Using the table provided below, determine the sequence of amino acids that is specified by the DNA strand above: Second base (3' end) U C A G phe ser tyr cys U phe ser tyr cys C U leu ser STOP STOP A leu ser STOP trp G leu pro his arg U leu pro his arg C C leu pro gln arg A leu pro gln arg G",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.43",
+     "points": 1,
+     "question": "If a molecule of carbon dioxide released into the blood in your left foot travels out of your nose, it must pass through all of the following structures except the:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.44",
+     "points": 1,
+     "question": "One action of the hormone glucagon is to cause the activation of adenylyl cyclase in liver cells. Adenylyl cyclase is an enzyme that converts ATP into the messenger molecule cyclic AMP (cAMP), the presence of which triggers a cascade of events within the cell that lead to the breakdown of glycogen and the subsequent release of glucose into the blood stream. This pathway is summarised in the diagram below. When glucagon is removed adenylyl cyclase becomes inactive again and ceases to convert ATP to cAMP. The enzyme phosphodiesterase converts cAMP into AMP. The following table summarises an experiment measuring glucose release by liver cell cultures under various conditions.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.45",
+     "points": 1,
+     "question": "A region of a double-stranded DNA molecule is represented in the following schematic. The hyphens denote sequences of unspecified lengths: If the region within the box were to undergo inversion, which of the following sequences would be produced? SECTION B: 12 SHORT ANSWER QUESTIONS USE THE ANSWER SHEET PROVIDED",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.46",
+     "points": 1,
+     "question": "(1 mark) In a breed of rabbits, multiple alleles with the following dominance relationships control coat coloration: C (agouti) > cch (chinchilla) > ch (Himalayan) > c (albino). An experimental cross between agouti and Himalayan produced 50% agouti and 50% Himalayan progeny. Which of the following crosses would have the lowest probability of producing this result? A. Cch X chch B. Cc X chc C. Cch X chc D. Cc X chch",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.47",
+     "points": 1,
+     "question": "(3 marks) Plants and animals accumulate starch and glycogen as a storage polysaccharide, respectively. Starch consists of two sorts of large, waterinsoluble polymers of glucose, amylose and amylopectin. Amylose is essentially unbranched and linear while amylopectin is highly and regularly branched, which forms branch clusters. Glycogen is also a branched glucose polymer, but unlike amylopectin, it is relatively small and water-soluble. In the glycogen molecule, branches are shorter, irregular, and not clustered. Starch Glycogen Amylose Amylopectin Biosynthesis of starch involves three classes of enzymes: chain elongation enzymes, branching enzymes, and debranching enzymes. Sugary, a rice mutant, is deficient in a particular debranching enzyme. The endosperm of this mutant is characterized by the accumulation of glycogen-like polysaccharide instead of amylopectin.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.48",
+     "points": 1,
+     "question": "(1 mark) Hunting of Northern elephant seals reduced their population size to as few as 20 individuals at the end of the 19th century. Their population has since rebounded to over 30,000. But their genomes still carry the marks of this bottleneck when compared to the population of Southern elephant seals that was not so intensely hunted. Such bottlenecks are manifested in the form of: A. abundance of unique mutations. B. increased frequency of deleterious recessive alleles. C. reduced genetic variation. D. increased population size.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.49",
+     "points": 1,
+     "question": "(1 mark) The following table shows the number of estimated nucleotide substitutions that have occurred since the divergence of seven species (a-g). b c d e f g a 39 72 128 126 159 269 b 81 130 128 158 268 c 129 127 157 267 d 56 154 271 e 151 268 f 273",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.50",
+     "points": 1,
+     "question": "(3 marks) The stoichiometry of aerobic and anaerobic degradation of glucose by yeast are as follows:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.51",
+     "points": 1,
+     "question": "(2 marks) Determine whether the following statements are true (T) or false (F). 51a. The greater the concentration gradient the faster the diffusion rate. 51b. If a cell doubled in diameter, it would have twice as much cytoplasm to maintain. 51c. The nucleus is the largest organelle in most cells. 51d. Osmosis is the movement of water from a region of low solute concentration to a region of high solute concentration.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.52",
+     "points": 1,
+     "question": "(1 mark) Cardiac output is defined as the amount of blood pumped by each ventricle over a period of time. It is determined by multiplying the heart rate and the stroke volume. The stroke volume is the amount of blood ejected by each ventricle with each beat. If the heart of a woman beats 56 times in a minute, the volume of blood in her heart is 120 ml immediately prior to contraction and 76 ml at the end of contraction, calculate her cardiac output in mL/min.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.53",
+     "points": 1,
+     "question": "(4 marks) The oocytes of a sea star grow within the follicle in the gonad. Eventually they cease meiosis at prophase I and are maintained as immature eggs. The immature eggs resume meiosis when stimulated and lose their nuclear envelop as shown below. nucleus follicles polar body It has been observed that the resumption of meiosis occurs in response to a signal from the nervous system of the adult sea star and the following hypotheses have been generated:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.54",
+     "points": 1,
+     "question": "(3 marks) On the basis of the photoperiod required for flowering, plants can be described as:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.55",
+     "points": 1,
+     "question": "(3 marks) For intracellular infectious bacteria and viruses to successfully invade a cell, they must bind to receptors on the cell surface. HIV specifically infects helper T cells, which express the CD4 molecule, but not CD8 on their cell surface, making it possible to distinguish helper T cells from other lymphocytes. Thus, CD4 is hypothesized to be a receptor for HIV.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.56",
+     "points": 1,
+     "question": "(1 mark) With regards to breathing, tidal volume is defined as the volume of air entering the lungs in a single inspiration, and is approximately equal to the volume exhaled during subsequent expiration on normal quiet breathing.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.57",
+     "points": 1,
+     "question": "(3 marks) HN is a recessive mutant of soybean that exhibits a hypernodulating phenotype. As shown in Figure 1, the roots of the HN mutant form more nodules than the wild-type (WT) roots, and the shoot growth of the HN mutant is retarded compared to WT. Figure 2 schematically shows the nodulation phenotypes observed in grafting experiments with WT and the HN mutant. In the absence of Rhizobium, the HN mutant is not phenotypically different from WT in any aspects. WT HN Shoot Root Normal number of Excessive number of nodules nodules Figure 1 Retarded Retarded Normal Normal Shoot growth Shoot Graft union Root Excessive Excessive Normal Normal Number of nodules Figure 2",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    }
+   ],
+   "solution": "Section A (Multiple Choice)\n         Question    Answer     Question     Answer      Question Answer\n            Q1             D       Q16            B         Q31       C\n            Q2             D       Q17            B         Q32       B\n            Q3             B       Q18            C         Q33       B\n            Q4             D       Q19            E         Q34       C\n            Q5             A       Q20            B         Q35       D\n            Q6             A       Q21            C         Q36       B\n            Q7             E       Q22            B         Q37       C\n            Q8             C       Q23            A         Q38       D\n            Q9             E       Q24            E         Q39       B\n            Q10            A       Q25            C         Q40       A\n            Q11            D       Q26            C         Q41       D\n            Q12            A       Q27            D         Q42       E\n            Q13            E       Q28            A         Q43       B\n            Q14            C       Q29            B         Q44       B\n            Q15            E       Q30            D         Q45       C\n\nSection B (Multiple Choice)\n                  Question     Answer    Question     Answer\n                    Q46           B        Q52              2464\n                    Q47a         III       Q53a         REJECTED\n                    Q47b         III       Q53b         REJECTED\n                    Q47c         IV        Q53c        NOT REJECTED\n                    Q48          C         Q53d        NOT REJECTED\n                    Q49           F        Q54a               II\n                    Q50a       40.0%       Q54b               III\n                    Q50b        01.5       Q54c                I\n                    Q50c        01.0       Q55a            I & IV\n                    Q50d       011.4g      Q55b              IV\n                    Q51a          T        Q56               C\n                    Q51b          F        Q57a                I\n                    Q51c          T        Q57b               II\n                    Q51d          T        Q57c               III\n\nSection C (Hand Written)\n\n58a.\n\n                                        Total O2             O2 consumption per\nAnimal             Body mass Mb (kg)    consumption           kilogram,\n                                        (litre O2 h-1)         (litre O2 kg-1 h-1)\nShrew              0.0048               0.0355                        7.40\n\nHarvest mouse      0.0090               0.0225                        2.50\n\nMouse              0.025                0.041                         1.64\n\nRat                0.290                0.25                          0.86\n\nCat                2.5                  1.70                          0.68\n\nSheep              42.7                 9.59                          0.22\n\nMan                70                   14.76                         0.21\n\nElephant           3833                 268.00                        0.07\n\n58b.\n\n58c.       Increasing oxygen consumption is associated decreasing body mass\n           and the rate of change is greatest with smaller mammals.\n\n58d.       Accept from 005 to 0.25kg\n\n58e.       Higher metabolic rate in smaller mammals, therefore higher oxygen\n           consumption. Surface area to volume ratio is larger in smaller animals.\n           More heat is lost, more energy required to maintain body heat\n           temperature.\n\n59a.\n\n59b.\n\n59c.\n\n59d.\n\n60a.   Ice Strain will compete with Ice + reducing number of Ice +\n\n60b.   Could colonise / affect the weeds. Weeds would then be less\n       susceptible to frost damage. Increased competition with crop plants.\n\n60c.   Plants treated the same but sprayed only with the carrier solution.\n\n60d.   Enables a large range of numbers to be plotted / grown is exponential\n       / can plot both small and large numbers on the same scale\n\n60e.   Survival time or number (e.g. relativity sort survival time / survival only\n       about 6 weeks so not likely to spread\n\n61a.   Prolific breeding / rapid reproduction rate / quick maturing / huge\n       reproductive capacity; abundant food supply enabling rapid growth /\n       little or no competition for food; no / few predators to reduce\n       numbers; could burrow under fences\n\n61b.   No / very low numbers with natural resistance / immunity to the virus;\n       rabbit population was dense / animals lived close together in burrows;\n       thus supported a huge flea population / fleas could easily jump from\n\n61c.   A random gene mutation in the population – a few rabbits developed\n       resistance / immunity to the virus; these rabbits survived and bred,\n       passing on the resistance to their offspring; these also developed\n       immunity to the virus (before it caused symptoms / killed them); thus\n       resistant rabbits were selected and non-resistant rabbits died\n\n61d.   Not all rabbits inherit the resistance gene and so some succumb to the\n       virus; the virus may have mutated changing its infectivity /\n       pathogencity\n\n62a.   Fat\n\n62b.   During prolonged exercise, a higher % of fat is consumed during\n       energy use\n\n62c.   excess sugar/glucose, if not respired for energy will be converted to fat\n       and stored; sugar/glucose has to be released from starch/glycogen\n       by digestion (before it is available); digestion is not 100% efficient/some\n       glucose from complex carbohydrate remains unavailable;\n       cellulose/pectins cannot be digested and make up dietary fibre;\n       reduces risk of constipation/diverticulosis/ulcerative colitis/cancer of\n       the colon/enhances formation/removal of faeces/ slows down fat\n       absorption\n\n63a.\n\n63.b   Metabolites of DDT have been shown to have oestrogenic and anti-\n       androgenic activities"
+  }
+ ]
+}

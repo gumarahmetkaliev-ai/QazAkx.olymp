@@ -11,13 +11,14 @@
     "test:ai": "node test-ai.js",
     "test:extract": "node test-extract.js",
     "test:tasks": "node test-tasks.js",
-    "build": "node -c server.js && node -c api/grade.js && node -c api/task-set.js && node scripts/build-catalog.js",
+    "build": "node -c server.js && node -c api/grade.js && node -c api/task-set.js && node scripts/build-catalog.js && node scripts/build-catalog.js --subject=biology",
     "scan-olympiads": "node scripts/scan-olympiads.js",
     "dev:fake-ai": "node -e \"process.env.QAZAKX_FAKE_AI='1';const p=process.env.PORT||3000;require('./server.js').listen(p,()=>console.log('http://localhost:'+p+' (фейковое ИИ-жюри)'))\"",
     "sync-chemistry": "node scripts/sync-chemistry.js",
-    "build-catalog": "node scripts/build-catalog.js",
+    "build-catalog": "node scripts/build-catalog.js && node scripts/build-catalog.js --subject=biology",
     "build-tasks": "node scripts/build-tasks.js",
-    "test:jury": "node tests/jury/run.js"
+    "test:jury": "node tests/jury/run.js",
+    "sync-biology": "node scripts/sync-chemistry.js --subject=biology"
   },
   "keywords": [
     "chemistry",

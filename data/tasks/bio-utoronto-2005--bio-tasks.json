@@ -1,0 +1,37 @@
+{
+ "setId": "bio-utoronto-2005--bio-tasks",
+ "olympiadId": "bio-utoronto-2005",
+ "title": "Биология → U of Toronto → 2005",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/utoronto/2005/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/utoronto/2005/bio-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T13:45:15.090Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 1,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "University of Toronto",
+   "weight": null,
+   "total": 10,
+   "statement": "National Biology Competition\n                 2005 Examination\n                    Answer Key\n\n1. a     2. e        3. b     4. d     5. a\n\n6. c     7. a        8. e     9. b     10. d\n\n11. a    12. d       13. c    14. d    15. d\n\n16. e    17. d       18. b    19. c    20. b\n\n21. c    22. a       23. e    24. c    25. b\n\n26. d    27. b       28. d    29. a    30. d\n\n31. e    32. b       33. e    34. b    35. c\n\n36. d    37. b       38. d    39. c    40. a\n\n41. c    42. a       43. e    44. a    45. b\n\n46. c    47. c       48. d    49. e    50. b",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 10,
+     "question": "a 2. e 3. b 4. d 5. a",
+     "reference": "1.   A biology teacher gave her students a culture of colourless single-celled organisms to study. The\n     students observed that each cell was about 100 :m in diameter, had a single nucleus, was rectangular\n     in shape, and did not burst when placed in a hypotonic solution. Which statements about these\n     organisms are supported by the observations?\n          i. They were eukaryotic.\n          ii. They were bacteria.\n          iii. They probably had a cell wall outside of the cell membrane.\n          iv. The organisms were cells that normally grew in salt water.\n          v. They were animal cells.\n     a.   i and iii\n     b.   i, iii, and v\n     c.   i and iv\n     d.   ii and iii\n     e.   ii and iv",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

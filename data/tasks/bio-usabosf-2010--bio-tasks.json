@@ -1,0 +1,775 @@
+{
+ "setId": "bio-usabosf-2010--bio-tasks",
+ "olympiadId": "bio-usabosf-2010",
+ "title": "Биология → USABO — Semifinal → 2010",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/usabosf/2010/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/usabosf/2010/bio-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T13:45:04.869Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 93,
+  "withPoints": 93,
+  "withReference": 93,
+  "withQuestion": 93,
+  "estimatedPoints": 93
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "USABO SEMIFINAL EXAMINATION",
+   "weight": null,
+   "total": 93,
+   "statement": "March 23-April 1, 2010\nPart A\n1. The function of an electron in the electron transport chain is to:\n    A. transfer energy from complex II to complex I.\n    B. pump hydrogen ions using complex II.\n    C. use its free energy to pump protons against the concentration gradient.\n    D. combine with phosphate when ATP is synthesized.\n    E. react with ATP synthase.\n\n2. Fatigue in iron deficiency anemia may be explained in part by all of the following\n    EXCEPT:\n    A. a lack of functional hemoglobin in the blood.\n    B. an inability to transport oxygen.\n    C. a lack of functional cytochromes in the electron transport chain.\n    D. the inability to synthesize ATP.\n    E. a lack of functional Coenzyme Q.\n\n3. Concerning the generation of ATP by oxidative phosphorylation, all of the following are\n    true EXCEPT:\n    A. NADH produced in the cytosol of the cell will generate approximately 2.5 ATPs.\n    B. NADH produced in the mitochondria will generate approximately 2.5 ATPs.\n    C. NADH produced by the succinate thiokinase reaction will generate approximately 1.5 GTPs.\n    D. FADH2 produced in the mitochondria will generate approximately 1.5 ATPs.\n    E. acetyl CoA entering the TCA cycle will produce approximately 10 ATPs.\n\n4. Comparing the effect of an inhibitor with an uncoupler of oxidative phosphorylation:\n    A. the uncoupler would stop the oxidation of NADH by the electron transport chain.\n    B. the inhibitor would allow electrons to pass through the electron transport chain.\n    C. the uncoupler would inhibit the reduction of oxygen by the electron transport chain.\n    D. the inhibitor would increase the pumping of protons by the electron transport chain.\n    E. the uncoupler would increase heat production by the mitochondria.\n\n5. What enzyme does a retrovirus primarily rely on to create a copy of its genome that is\n  ready for integration into the host genome?\n    A. DNA gyrase\n    B. RNA polymerase\n    C. Reverse transcriptase\n    D. DNA polymerase\n    E. DNA helicase\n\n6. Integral transmembrane proteins are proteins embedded in the cell membrane. Which of\n  the following amino acids would you MOST expect to find in the transmembrane region of\n  such proteins?\n    A. Tryptophan\n    B. Lysine\n    C. Arginine\n    D. Serine\n    E. Glutamate\n\n7. The expansion of plant cells occurs differently from that of animal cells. The primary\n  reason for this difference is associated with:\n    A. the presence of a central vacuole in a plant cell.\n    B. the presence of a cell wall in plant cells.\n    C. a difference in protein synthesis in plant cells.\n    D. the absence of golgi apparati in plant cells.\n    E. a difference in microtubular organization in plant cells.\n\n8. Isotonic solutions are used as saline wash for wounds because:\n     A. they kill contaminating bacteria.\n     B. they have lower salt concentration than the human body and would help healing.\n     C. they have the same salt concentration as the human body and will not irritate the wound.\n     D. they have higher salt concentration than the human body and would help healing.\n     E. they are bacteriostatic.\n\n9. One reason phospholipids are well suited to be the main structural component of\n  membranes is:\n    A. they are completely insoluble in water.\n    B. they provide energy for transport through the membrane.\n    C. they form a structure in which the hydrophobic portion faces outward.\n    D. they form a single sheet in water.\n    E. they form a selectively permeable structure.\n\n10. Certain amino acids are considered essential in an animal’s diet because they cannot be\n    produced within the organism. Which of the following cellular processes would be most\n    DIRECTLY affected by a dietary deficiency in essential amino acids?\n    A. Cell division\n    B. Cellular respiration\n    C. Translation of mRNA\n    D. Replication of DNA\n    E. Oxygen transport\n\n11. Which of the following cell types would you expect to be abundant in ER and Golgi\n    Bodies?\n           I.      Adipose cells\n           II. Islet of Langerhans cells\n           III. Plasma B cells\n           IV. Red blood cells\n     A. I only\n     B. III only\n     C. I and II only\n     D. II and III only\n     E. I, II, III, and IV\n\n12. A day in the sun will expose your skin to UV light. Which is not true about the resulting\n    DNA damage/repair pathway?\n    A. UV exposure will cause single bonded cross-linked thymine-thymine dimers which severely\n        distort the phosphate backbone.\n    B. UV exposure will cause double bonded perpendicular thymine-thymine dimers which kink\n        the phosphate backbone.\n    C. Photolyase will repair DNA damage by using energy from UV light to break open thymine\n        dimers.\n    D. During replication of damaged DNA, a single base pair deletion will be found on the newly\n        synthesized DNA strand opposite to the thymine dimer site.\n\n13. Why is it necessary to store harvested fruits in ventilated packaging?\n    A. Cells from harvested fruit need oxygen, because they are alive and still undergoing\n       respiration.\n    B. Cells from harvested fruit need oxygen, because they are alive and still undergoing\n       fermentation.\n    C. Cells from harvested fruit need atmospheric nitrogen, because they are alive and still\n       synthesizing amino acids.\n    D. Cells from harvested fruit need atmospheric nitrogen, because they are alive and still\n       synthesizing nucleic acids.\n    E. Cells from harvested fruit need atmospheric nitrogen, because they are alive and still\n       undergoing respiration.\n\n14. Photosynthesis is a process in which light energy is converted to chemical energy and\n    used to produce organic compounds within the chloroplasts. It consists of two stages,\n    the light reactions and the dark reactions. Which of the following processes would NOT\n    occur if carbon dioxide was removed from a plant’s growth chamber?\n    A. ATP energy forms from the conversion of light energy\n    B. NADP+ is reduced to NADPH\n    C. 5-carbon sugars, RuBP, is produced\n    D. photons are absorbed by photosynthetic pigments\n    E. oxygen is produced\n\n15. When considering the root and the stem in plants, their growth is similar in all but which\n    of the following ways:\n    A. both begin tissue differentiation in their meristematic regions.\n    B. both have cortex surrounding the central core.\n    C. both have meristems on the lateral surfaces.\n    D. both have growth that occurs primarily by cell enlargement.\n    E. both possess apical meristems.\n\n16. A heavy frost occurred one morning in early spring injuring young grape plants. The two\n    tissues commonly affected are the phloem and the xylem. Which of these observations is\n    made several weeks following the frost?\n    A. The leaves and new shoots are smaller than expected due to lack of nutrient and water\n    conduction.\n    B. The xylem tissue dies rendering the plant helpless against viral or bacterial infection.\n    C. Undamaged xylem tissue assumes the responsibilities of the damaged phloem and likewise\n    the undamaged phloem assumes the responsibilities of the damaged xylem.\n    D. The plants recover completely and the damaged vascular tissue is replaced by new tissue.\n    E. The plants die as a consequence of root death from lack of food.\n\n17. The first head of broccoli harvested from an individual broccoli plant is located at the\n    apex of the plant. Immediately after harvesting the head the plant produces side shoots\n    along the stem. Smaller but harvestable heads of broccoli grow at the apex of each of the\n    side shoots. The difference in time of harvest and size of the heads harvested between\n    the first head and the side shoot heads is best explained by the action of the plant\n    hormone:\n    A. gibberellin which stimulates bolting/flowering and causes the lateral shoots to be produced\n        after the first head is removed.\n    B. abscisic acid which triggers seed dormancy by inhibiting cell growth of the lateral shoots.\n    C. cytokinins which promote cell division in all regions of the herbaceous stem including the\n        lateral shoots.\n    D. auxin which is produced by the apical meristem and maintains the dormancy of lateral buds\n        until the terminal shoot is removed.\n    E. ethylene which encourages ripening and forces the plant to prematurely flower.\n\n18. The Washington, DC, area experienced a record snow fall during the winter of 2010. Road\n    crews worked overtime spreading salt on highways. In May 2010, a researcher compared\n    the leaves of plants 100 feet or more from the edge of highway to the leaves of plants\n    within 20 feet of the highway. Results showed vigorous, green growth on plants that were\n    distant from highway and weak, shriveled growth on plants that were near the highway.\n    The leaves of plants near the highway suffered because salt entered the plant and:\n    A. was transported to the leaf cells creating hypotonic conditions outside the cell.\n    B. restricted ion exchange mechanisms.\n    C. inhibited nutrient absorption restricting photosynthesis.\n    D. was transported to the leaf cells creating hypertonic conditions outside the cell.\n    E. acted as a metabolic poison to the cells.\n\n19. The rate of transpiration in a plant could be decreased through the application of which\n    of the following?\n    A. Abscisic acid\n    B. Gibberellin\n    C. Indoleacetic acid\n    D. Ethylene\n    E. Cytokinin\n\n20. Blue light plays a variety of roles in guard cell action. Which of the following is NOT a\n    role of blue light in guard cell action?\n    A. stimulates malate synthesis.\n    B. stimulates starch hydrolysis.\n    C. activates a calcium transporter.\n    D. activates a membrane bound proton ATPase.\n    E. stimulates potassium uptake.\n\n21. Before planting and landscaping an Arizona backyard it would advisable to first evaluate\n    the climatic conditions of this micro-ecosystem. Which of the following plants would\n    NOT be suitable for Arizona’s arid areas?\n    A. Hydrophytes.\n    B. Xerophytes.\n    C. Plants with a thicken hypodermis and sunken stomata.\n    D. Plants with succulent leaves.\n    E. Epiphytes.\n\n22. In C4 plant photosynthesis:\n    A. 3 PG (phosphoglyceraldehyde) is the first product of CO2 fixation.\n    B. four-carbon acids are formed by PEP (phosphoenolpyruvate) carboxylase in the bundle\n        sheath.\n    C. the process continues at lower CO2 levels than in C3 plants.\n    D. CO2 released from RuDP (ribulose diphosphate) is transferred to PEP.\n    E. the Calvin cycle is confined to chloroplasts of the mesophyll cells.\n\n23. A beaver gnawed completely around a tree trunk but did not proceed further. The leaves\n    on the tree remained green for a long period of time, but eventually the tree died. It is\n    probable that the tissue left intact by the gnawing of the beaver was the:\n    A. cork cambium.\n    B. cortex.\n    C. hypodermis.\n    D. phloem.\n    E. xylem.\n\n24. Which of the following would be most likely to increase transcription of a gene in a\n    eukaryotic cell?\n    A. winding the DNA around more histones.\n    B. increasing histone acetyltransferase activity.\n    C. mutating its TATA box.\n    D. methylating some of its DNA.\n    E. none of the above.\n\n25. Which of the following partly explains why your brain cells and your skin cells express\n    different proteins even though they have the same DNA in their nuclei?\n    A. alternative splicing.\n    B. imprinting.\n    C. linkage.\n    D. recombination.\n    E. synapsis.\n\n26. Which of the chemical reactions below would NOT be proceeding mainly in the\n    indicated direction as blood flows through cardiac muscle capillaries?\n    A. H2O + CO2 → H2CO3\n    B. H+ + HCO3- → H2CO3\n    C. Hb + CO2 → Hb-CO2\n    D. Hb + H+ → Hb-H\n    E. Hb-O2 → Hb + O2\n\n27. When the partial pressure of carbon dioxide rises slightly in blood, ____.\n    A. oxygen associates more tightly to hemoglobin.\n    B. the blood pH rises slightly.\n    C. oxygen dissociates more from hemoglobin.\n    D. respiratory rate decreases.\n    E. central chemoreceptors in the medulla are inhibited and send fewer impulses to the\n       inspiratory area.\n\n28. Gas exchange at the respiratory membrane is efficient because _____.\n         1.   the differences in partial pressure are substantial.\n         2.   the gases are lipid soluble.\n         3.   blood flow is very rapid.\n         4.   the distance is minimized by having only one cell layer.\n         5.   the total surface area is large.\n\n   A. 2, 3\n   B. 1, 4, 5\n   C. 1, 2, 5\n   D. 1, 3, 4, 5\n   E. All of the above\n\n29. The cells labeled Y are most likely responsible for _____.\n\n   A. the estrous cycle.\n   B. growth.\n   C. glucose metabolism.\n   D. increasing blood calcium concentration.\n   E. regulating the rate of oxygen use by cells.\n\n30. The pathology associated with Cholera is due to Cholera toxin, which leads to which of\n    the following?\n          1.    increased osmolarity of the intestine and diarrhea.\n          2.    active pumping of Ca2+ out of the cell.\n          3.    increased concentration of intracellular cAMP.\n          4.    ribosylation and activation Gs protein.\n          5.    ribosylation and activation of Gi protein.\n\n   A. 1, 2, 3, 4\n   B. 1, 3, 5\n   C. 1, 3, 4\n   D. 1, 2, 5\n   E. All of the above\n31. A person who has a hypersecreting tumor of the parathyroid gland would probably _____.\n    A. tend to form calcium containing kidney stones.\n    B. have hypocalcemia.\n    C. exhibit demineralization of his bones.\n    D. Both A and B.\n    E. Both A and C.\n\n32. The drug mevinolin is a potent inhibitor of HMG-CoA reductase, the key enzyme in the\nsynthesis of cholesterol. Patients taking this drug would most likely exhibit decreased\nproduction of what hormones?\n          1.    Prolactin.\n          2.    Glucagon.\n          3.    Estrogen.\n          4.    Aldosterone.\n          5.    Thyroxine.\n\n   A. 1, 4\n   B. 3, 4\n   C. 1, 2, 5\n   D. 3, 4, 5\n   E. 1, 3, 4\n\n33. Certain foods like soybeans contain compounds that interfere with the iodination of\n    tyrosine in the thyroid gland. What might result from this interference?\n          1.     Decreased concentrations of plasma TSH\n          2.     Increased concentrations of plasma calcitonin\n          3.     Decreased concentrations of thyroxine\n          4.     Goiter\n          5.     Reduced tolerance to cold\n\n   A. 4 only\n   B. 1, 3, 4\n   C. 1, 2\n   D. 3, 4\n   E. 3, 4, 5\n\n34. Food allergies are on the rise. Food chemicals do not usually stimulate an immune\n    response. Why?\n    A. foods do not contain antigens.\n    B. food contains antigens but they are generally ignored.\n    C. Food is sufficiently hydrolyzed and does not stimulate the immune system.\n    D. Antigen presenting cells are not made.\n    E. Cytokines are not released for activation.\n\n35. A blood typing test for ABO and Rh antigens showed that blood did not agglutinate in\n    any of the wells. These findings mean:\n          1.    The blood contained anti-A antibodies.\n          2.    The blood contained anti-B antibodies.\n          3.    The blood contained A antigens.\n          4.    The blood contained B antigens.\n          5.    The blood was Rh-.\n          6.    The blood was Rh+.\n          7.    The blood was type A.\n          8.    The blood was type B.\n          9.    The blood was type O.\n          10. The blood was type AB.\n\n    A. 1, 2, 3, 4, 5, 10\n    B. 1, 2, 5, 9\n    C. 1, 2, 6, 10\n    D. 3, 4, 6, 9\n    E. 3, 4, 5, 10\n\n36. Place the following in order of the propagation of a cardiac action potential:\n          1.     Purkinje fibers.\n          2.     SA node.\n          3.     right and left bundle branches.\n          4.     AV node.\n\n    A. 4, 2, 3, 1\n    B. 4, 3, 1, 2\n    C. 2, 3, 4, 1\n    D. 2, 4, 3, 1\n    E. 1, 3, 4, 2\n\n37. Acetone has a distinct smell, which many people associate with the smell of nail polish\n    remover. What might the smell of acetone in the urine or on the breath of a patient\n    indicate?\n    A. The patient might be degrading too many amino acids from muscle proteolysis.\n    B. The patient’s body might be oxidizing too many fatty acids.\n    C. The patient might have enteritis and is absorbing endproducts of fermentation.\n    D. The patient might have fructose toxicity.\n    E. Both B and C.\n\n38. Students conducted a renal function experiment. Before the experiment one group of\n    students limited their intake of fluids, while the other group consumed their usual\n    volume of fluids. At time t=0 both groups drank 750 mL of water. Use these data to\n    answer this question.\n\n                                         A\n                                         B\n\n                                         B\n                                         A\n\nWhich of the following is TRUE?\n   A. From t = 20 to 40 minutes, Group B excreted approximately 140 mL of urine.\n   B. In Group A students, blood level of aldosterone was probably highest at t = 60 minutes.\n   C. Group B probably represents the fluid-deprived groups.\n   D. The collecting ducts of Group B students were less permeable to water than those of Group\n       A students at t = 60 minutes.\n   E. none are correct.\n\nQuestions 39 to 41, refer to the following information:\nAn ecological community is defined as a group of actually or potentially interacting species living in\nthe same place. A community is bound together by the network of influences that species have on\none another. For each of the following types of interspecific and/or intraspecific interactions (left\ncolumn) match with the letter for the appropriate sign and effect, noted in the box, below.\n\n  Letter      Sign                            Effect\n    A         +/+             both species benefit from interaction\n    B         +/0            one species benefits, one is unaffected\n    C          -/-              each species is affected negatively\n   D          +/-           one species benefits, one is disadvantaged\n\nType of interaction\n39. _____ Herbivory\n40. _____ Competition\n41. _____ Commensalism\n\n42. Inbreeding and genetic drift share all of the following EXCEPT that they:\n    A. lead to changes in genotype frequencies.\n    B. lead to a decrease in heterozygosity.\n    C. lead to an increase in homozygosity.\n    D. lead to changes in allele frequencies.\n    E. are more common in small populations.\n\n43. When cladists organize species into groups, these groups depict:\n    A. physical similarities.\n    B. ecological niches.\n    C. chronological orders.\n    D. evolutionary relationships.\n    E. physiological similarities.\n\n44. In a population, there are two alleles of a gene–A and a at frequencies 0.7 and 0.3,\n     respectively. By chance, the frequency of A is 0.71 and the frequency for a is 0.29 in the\n     next generation. This change in allele frequency is:\n     A. the result of random mating.\n     B. the result of evolution.\n     C. the result of natural selection.\n     D. impossible in a small population.\n     E. too small to have any effect over long periods of time.\n\n45. In Fatalii's chilies, plants homozygous dominant for tall plants and smooth stems were\n    crossed with plants that were homozygous recessive for dwarf plants and hairy stems.\n    The F1 plants were test-crossed. The results were as follows:\n          Tall, smooth stems 36\n          Dwarf, hairy stems 39\n          Tall, hairy stems       12\n          Dwarf, smooth stems 13\n\nThese data indicate that\n   A. the genes for height and stem surface are on different chromosomes\n   B. the genes for height and stem surface are completely linked.\n   C. the genes for height and stem surface are linked and are 12.5 units apart.\n   D. the genes for height and stem surface are linked and are 25 units apart.\n   E. the genes for height and stem surface are linked and 33 units apart.\n\n46. Western Europe has many plant species closely related to those found in the eastern\n    United States. Which of the following best explains this?\n    A. convergent evolution.\n    B. geographic isolation.\n    C. genetic drift.\n    D. land bridge between the two continents.\n    E. reproductive barriers.\n\n47. The Black/Brown locus in rabbits is linked to the Solid/Himalayan color pattern. If a\n    homozygous Solid Black male is bred to a Brown Himalayan female. A mating of an F1\n    progeny with an individual that is homozygous recessive for both traits results in the\n    following phenotypic distribution {Black-Solid 345; Black-Himalayan 123; Brown-Solid\n    254; Brown-Himalayan 452}. What is the genetic distance between these two loci?\n    A. 32 centimorgans.\n    B. 40 centimorgans.\n    C. 49 centimorgans.\n    D. 51 centimorgans.\n    E. 68 centimorgans.\n\n48. A poultry breeder wants to market a million ducklings per year that are a terminal cross\n    of Pekin drakes mated to Campbell-Muscovy F1 females. The F1 females lay an average\n    of 165 eggs per year. Purebred Pekin females lay 105 eggs per year. Egg Hatchability is\n    95%, Duckling survival to market age is 92%. Survival from market age to breeding age\n    is 95%. The drake to hen ratio in the breeding flock is 1:40. How many (within 10) F1\n    females are needed to produce the million market offspring?\n    A. 10900\n    B. 6930\n    C. 6590\n    D. 6060\n    E. 275\n\nQuestions 49 to 52. Climate change scientists predict that in addition to continuing increases\nin atmospheric CO2 concentrations certain regions’ temperatures will increase and rainfall\nwill decrease. Determine whether the following statements are acceptable (A) or\nunacceptable (B) concerning the effect of these changes on the relative distributions of C3\nversus C4 plants.\n\n49. _____ Higher temperature and lower rainfall will have the same effect in terms of impact\n          on C3 and C4 population numbers.\n50. _____ C4 plants out-compete C3 plants under conditions of high temperature, so a trend\n          towards more hot, arid areas will mean that C4 plants will become more\n          predominant.\n51. _____ C3 plants are more effective at converting atmospheric carbon dioxide to food and\n          thus higher concentrations of this gas will allow C3 plants to out-compete C4\n          plants.\n52. _____ Desert C3 plants with CAM metabolism are less dependent on sunlight than C4\n          plants.\n\n53. When visiting a remote ocean island, a research botanist found a plant population that\n    reproduced annually and had two alternative flower-colors–orange and purple. Flower\n    color is known to be a monogenic trait. The frequencies of the two flower colors were\n    observed annually over a ten-year period. It was noted that the proportion of plants with\n    purple flowers declined steadily each year. From these data, it may reasonable to be\n    concluding that:\n    A. the increased frequency of orange-flowered plants was a result of genetic drift.\n    B. migration of orange-flowered plants into the population was the most likely cause of the\n        observed change.\n    C. mutation occurred more frequently in orange-flowered plants than in purple-flowered plants.\n    D. Purple-flowered plants had a lower genetic fitness than the orange-flowered plants.\n    E. orange-flowered plants were capable of crossing with other orange-flowered plants or with\n        purple-flowered plants but purple-flowered plants could only cross with other purple-\n        flowered plants.\n\n54. For populations that exhibit __________ population growth, maximum harvesting yield\n    is achieved when _________________.\n    A. exponential, population growth rate is highest\n    B. logistic, the population reaches its carrying capacity\n    C. logistic, population growth rate is highest\n    D. logistic, population growth rate is not changing with population size\n    E. exponential, the population reaches its carrying capacity\n\n55. Which combination of the following statements represents general principles of island\n    colonization?\n         1. more species are likely to be established on larger islands, and fewer on smaller\n         islands\n         2. there is a greater probability of colonization if the island is closer to another land\n         mass.\n         3. Over time, colonial populations become genetically divergent from their parent\n         population due to natural selection, mutation, and/or genetic drift.\n         4. The older the island, the more likely it will be colonized.\n         5. Geographic isolation reduces gene flow between populations.\n\n    A. only 3 and 4\n    B. only 1, 2, 4, and 5\n    C. 1, 2, 3, 4, and 5\n    D. only 1, 2, and 3\n    E. only 2 and 3\n\n56. If you traveled south from northern Canada to the southernmost tip of Florida, in what\n    order would cross (1) deciduous forest, (2) taiga, (3) tundra, (4) tropical rain forest?\n    A. 3, 2, 1, 4\n    B. 3, 4, 1, 2\n    C. 4, 2, 3, 1\n    D. 3, 4, 2, 1\n    E. 3, 1, 2, 4\n\n57. Which description best describes what would happen to the carbon cycle if all\n    detritivores suddenly went on “strike” and stopped working?\n    A. Carbon would increase in inorganic mass, while the atmospheric reservoir of carbon would\n        continue to increase and plants would not be jeopardized.\n    B. Carbon would increase in organic mass, while the atmospheric reservoir of carbon would\n        increase and plant-life would be starved for CO2.\n    C. Carbon would decrease in organic mass, while the atmospheric reservoir of carbon would\n        increase with the result that plant-life would be starved for CO2.\n    D. Carbon would decrease in organic mass, the atmospheric reservoir of carbon would increase,\n        and plants would maintain an even balance of CO2.\n    E. Carbon would accumulate in organic mass, the atmospheric reservoir of carbon would\n        decline, and plants would eventually be starved for CO2 .\n\n58. For the phosphorus cycle, why (in the short term) does phosphorus cycling tend to be\n    more localized than either carbon or nitrogen cycling?\n    A. Because phosphorus is ultimately transferred almost entirely via the atmosphere rather than\n        almost entirely via the soil (locally).\n    B. Because phosphorus is both transferred locally in the atmosphere, as well as in the soil (in\n        the short term).\n    C. Because carbon as well as phosphorus cycle in the soil (locally), while only nitrogen is\n        transferred atmospherically.\n    D. Because phosphorus is cycled almost entirely within the soil rather than transferred over\n        long distances via the atmosphere.\n    E. Because short term phosphorous cycling is not localized more in either carbon or nitrogen\n        cycling.\n\n59. Of the following characteristics, select the most distinctive key character for the\n    Magnoliophyta:\n    A. leaf type\n    B. pollen structure\n    C. presence of seeds\n    D. fruit\n    E. roots\n\n60. Use the information given in Figures 1 and 2 to answer the following question:\n\nFigure 1. An example of a phylogeny showing characters by which taxa are recognized. Characters 1 – 4 are\n     synapomorphies, 5 – 12 are autapomorphies and 13 is an attribute seen in the salmon and the shark.\n\nFigure 2. Two possible ways to organize the data from Figure 1.\n\nWhich of the following statements is MOST APPROPRIATE in regard to Figures 1 and 2\nabove?\n   A. Alternative 2 shows more parsimony than does Alternative 1.\n   B. The Lamprey and the Lizard are the oldest because they have the longest line.\n   C. The four groups shown in Figure 1 are equally related as they are all at the same horizontal\n       level.\n   D. X, Y and Z are characteristics common to all groups.\n   E. the Lamprey is more closely related to the Shark than to the Salmon or Lizard.\n\nPART B\nQuestions 61 to 65, Use the data in the two diagrams below. You identify a mutant protein of\ntransferrin. After purifying both mutant and wild-type proteins, you run two SDS PAGE gels\nloading equal amounts of protein. One gel is stained with Cerulean Blue, the other is blotted\nand hybridized with an antibody to transferrin. (8 points)\n\n61. Mutant transferrin is _____ than wild-type transferrin. (1 point)\n    A. longer\n    B. shorter\n\n62. What is the approximate molecular weight of mutant tranferrin? (2 points)\n    A. About 180 KDa\n    B. About 130 KDa\n    C. About 300 KDa\n    D. About 90 KDa\n    E. Impossible to determine from the information provided.\n\n63. The sample in lane 4 is called a _____ marker. (1 point)\n    A. reference\n    B. rate of diffusion\n    C. molecular weight\n    D. degree of polarity\n    E. degree of bonding\n\n64. Which of the following reasons most likely explains why the transferrin band in lane 2\nis darker than the band in lane 3? (2 points)\n    A. The mutant band in lane 3 is not transferrin.\n    B. HRP binds more efficiently to wild-type transferrin than to mutant transferrin.\n    C. Mutant transferrin has a similar, but not identical epitope to the primary antibody.\n    D. You added too much HRP in lane 2.\n    E. There is less mutant transferrin than wild-type transferrin.\n\n65. You develop your western blot and see purple coloring covering the entirety of the\n    nitrocellulose. Which step in the western blotting procedure probably was forgotten?\n    Why? (2 points)\n    A. Improper buffer used thus causing a secondary reaction that colored the nitrocellulose.\n    B. Contamination during separation with SDS-PAGE by a purple-colored compound\n    C. Milk proteins not added thus no protective coating formed over the nitrocellulose\n    D. Primary antibodies not added thus the specific protein is not bound\n    E. Secondary antibody-enzyme conjugate not added thus the primary antibody is not\n        recognized.\n\nQuestions 66 to 70. Use the following answers. A choice is used only once.\n     A. neurons\n     B. liver cells\n     C. cardiac myocytes\n     D. neutrophils\n     E. sperm cell midpiece\n\nIn terms of interaction between function and structure, in which cells would you expect the\ngreatest number/amount of: (1 pt. each)\n\n66. _____ rough endoplasmic reticulum?\n\n67. _____ peroxisomes?\n\n68. _____ gap junctions?\n\n69. _____ lysosomes?\n\n70. _____ mitochondria?\n\nQuestions 71 to 73. Which of the following is(are) part of RNA processing and synthesis?\nSelect Acceptable (A) or Unacceptable (B)\n71. _____ Polyadenylation\n\n72. _____ Transport to the nucleolus\n\n73. _____ Catalytic function of small nuclear RNA\n\n74. Consider the following data for a green plant\n         Maximum photosynthesis rate @ 20 mg glucose/dm-2/hr-1\n         Glucose heat of combustion @ 686 Kc/mole\n         Glucose gram molecular weight = 180gm\n\nHow much energy (Kcal/m) could be made over a 12-hr lighted period by a green plant\nhaving a total leaf surface area of 2000 dm-2? (3 points)?\n    A. 183.2 Kc\n    B. 1832 Kc\n    C. 1524.4 Kc\n    D. 916 Kc\n    E. 9.16 Kc\n\n75. There is a large difference in pH across the thylakoid membrane between the thylakoid\n    compartment and the stroma. From the list given below, choose those that are\n    appropriate in explaining the difference. (Choose A, B, C, or D) 3 points\n         i. the transport of protons into the thylakoid compartment by the electron\n              transfer system\n         ii. the transport of protons out of the thylakoid compartment into the stroma by\n              the electron transfer system\n         iii. protons splitting from water remaining in the thylakoid compartment\n         iv. protons splitting from water exiting the thylakoid compartment\n         v. the removal of hydrogen from the stroma during the reduction of NADP to\n              NADPH\n         vi. the retention of hydrogen in the stroma during the reduction of NADP to\n              NADPH\n\n    A. i, iv, and vi only\n    B. ii, iv and vi only\n    C. i, iv and v only\n    D. i, iii and v only\n\n76. In angiosperms, a spore differs from a seed in a variety of ways. Provided below is a list of\n    possible ways this occurs. Select A, B, C, D, or E (5 POINTS)\n          i. A spore is haploid, a seed has both haploid and diploid tissue\n          ii. A spore is diploid, a seed is haploid.\n          iii. spore is the consequence of meiosis, a seed the consequence of fertilization\n          iv. A spore develops into a gametophyte, a seed develops into a new sporophyte\n          v. A spore develops into a sporophyte, a seed develops into a gametophyte\n          vi. A spore is unicellular, a seed is multicellular (more complex: embryo,\n               endosperm, seed coat)\n          vii. A spore contains little or no stored food, a seed contains stored food\n               (endosperm)\n\n    A. ii, iii, v, vi, and vii only\n    B. i, iii, v, vi, and vii only\n    C. i, iii, v, and vi only\n    D. ii, v, vi, and vii only\n    E. i, iii, iv, vi, and vii only\n\n77. Chloroplasts and mitochondria are similar in certain respects. Given the following\n    characteristics, which are common to both chloroplasts and mitochondria? (Select A, B,\n    C, D, or E) (4 points)\n          i.    both are single-membrane bounded structures\n          ii.   both are double-membrane bounded structures\n          iii.  both undergo reactions that are primarily oxidative in nature\n          iv.   both have similar, although not identical, electron transfer systems\n          v.    both contain ribosomes\n          vi.   both undergo reactions that are primarily reductive in nature\n          vii. both contain DNA and RNA\n          viii. both undergo chemiosmosis\n\n    A. i, iii, v, vii, and viii only\n    B. i iv, vi, vii and viii only\n    C. ii iv, v, vii and viii only\n    D. ii, iii, vi , vii, and viii only\n    E. ii, iv, vi, vi, and viii only\n\nQuestions 78 to 82. Select Acceptable (A) or Unacceptable (B)\nMycorrhizae:\n\n78. _____ may transfer nutrients from one plant to another.\n\n79. _____ growth depends on nutrients obtained from the plant.\n\n80. _____ permit plants to survive in phosphorus-poor soil.\n\n81. _____ increase the absorptive surface of plants.\n\n82. _____ form nitrogen-fixing nodules on the roots of plants.\n\nQuestions 83 to 85. Refer to the diagram shown below. (6 points)\n\n83. In which one of the following ways do flowers A and B differ? (2 points)\n    A. flower A is zygomorphic whereas flower B is actinomorphic\n    B. flower A is imperfect whereas flower B is perfect\n    C. flower A is epigynous whereas flower B is hypogynous\n    D. flower A is apocarpous whereas flower B is syncarpous\n    E. flower A is epipetalous whereas flower B is sympetalous\n\n84. Of the two flowers depicted above, which has more carpels? (2 points)\n    A. flower A\n    B. flower B\n    C. both the same\n\n85. Placentation types depicted by the ovary cross-sections for flowers A and B are known as:\n    (2 points)\n    A. marginal, free central\n    B. free central, axile\n    C. marginal, axile\n    D. marginal, parietal\n    E. parietal, axile\n\nQuestions 86 to 88. Ammonia is produced in freshwater fish during metabolic processes.\nIndicate for each of the following statements which is(are) Acceptable (A) and which is(are)\nUnacceptable (B) explanations for why elevated ammonia levels are dangerous to the\norganism.\n\n86. Ammonia can substitute for a potassium ion in ion-exchange mechanisms.\n\n87. Ammonia can adversely affect amino acid transport.\n\n88. Ammonia can cause a decrease in body pH which can adversely affect the tertiary\n    structure of proteins.\n\n89. While hiking with your guide in the Saguaro National Park, you drop your canteen. As\n    you reach down to pick it up, you spy Crotalus atrox better know as a Western Diamond-\n    backed Rattlesnake. It inserts its fangs into your hand and has a firm hold on your hand\n    as it injects its venom. Your guide is able to extract you from the snake’s hold, but you\n    quickly experience hemolysis. Your guide rushes you to the nearest hospital where the\n    snake venom is analyzed. Three enzymes: phospholipase, neuraminidase, and protease\n    are found. Which of these enzymes do you think was responsible for your near fatal red\n    blood cell hemolysis and in what way would it lead to hemolysis? (Indicate which of the\n    following explanations would be appropriate) (2 points)\n    A. The neuraminidase lysis the carbohydrate rich glycocalyx leading to cell breakage since this\n         layer is responsible for strengthening the cell membrane.\n    B. The protease would degrade transmembrane proteins leading to cell lysis.\n    C. The phospholipase would degrade the phospholipids, the component of a membrane\n         creating a barrier\n\nQuestions 90 to 97. Use A for Acceptable and B for Unacceptable. The immune system is\ndesigned to recognize and eliminate foreign elements from the body.\n90. _____ The innate immune system is not well developed in invertebrates.\n\n91. _____ Inflammation is an orchestrated series of events initiated by WBC.\n\n92. _____ Toll-like receptors on helper T cells allow for direct activation by antigens.\n\n93. _____ Polyclonal antibodies may be directed to the same antigen but are produced by\n          different cells.\n\n95. _____ Fever can be induced by bacterial toxins and is detrimental to animal recovery.\n\n96. _____ Receptors present on T and B cells that recognize specific antigens are generated\n          after exposure to that antigen.\n\n97. _____ T cells kill virally infected cells by phagocytosis.\n\nQuestions 98 to102. Refer to the diagram below the diagram below. Select A if the state is\nAcceptable and B if the statement is Unacceptable.\n                                                                 Follicle development in the ovary\n                                                                                        3\n                                                                  2\n\n                                                          1\n\n                                                                                                     4\n                                                                               5\n\n98. _____ Leutenizing hormone stimulates these cells to proliferate and secrete estrogen.\n\n99. _____ These cells secrete estrogen in response to Leutenizing hormone.\n\n100. _____ These cells secrete inhibin that inhibits secretion of FSH.\n\n101. _____ Follicular fluid has high concentrations of estrogens that lead to stimulation of\n          GnRH.\n\n102. _____ These cells are stimulated by LH to produce progesterone.\n\nQuestions 103 to 106. Which of the following provide evidence for the “intentionality” of\nprimate alarm calls? Acceptable (A) or Unacceptable (B)\n\n103. _____ Calls are made when a predator is spotted\n\n104. _____ Individuals are more likely to call when their offspring are present\n\n105. _____ Males are more likely to call when females are present\n\n106. _____ Calls are made even when the individual is alone\n\nQuestions 107 to 110. Rapidly changing habitats generally are favorable to: Acceptable (A) or\nUnacceptable (B)\n107. _____ small organisms.\n\n108. _____ K-selected species.\n\n109. _____ species which reproduce numerous times in their lives.\n\n110. _____ organisms which practice exploitative competition.\n\nQuestions 111 to 115. Characterize the following selective events as one of the following\nchoices. Indicate the letter of the appropriate selection on your answer sheet for each of the\nfollowing examples.\n\n        A. Directional\n        B. Stabilizing\n        C. Disruptive\n        D. Positive Frequency-Dependent Selection\n        E. Negative Frequency-Dependent Selection\n\n111. Selection on the size of crabs results in differences in size between two populations.\n     This is because smaller ones can eat small prey efficiently but cannot eat large prey, and\n     the large ones can eat large prey, but don’t bother with prey that is too small.\n     Intermediate-sized crabs are not able to manipulate the smaller prey items, but they are\n     excluded from the larger prey items by the larger crabs.\n\n112. More intense red coloration in roses is favored by horticulturalists and the population of\n    roses becomes redder in color.\n\n113. Frogs call to attract mates. Most male frogs call in choruses at a specific time of night.\n    Females are attracted to males that call at this time of night because they are\n    preoccupied during earlier times, and they get sleepy at later times.\n\n114. Two populations of a species of frog live around the Gulf of Mexico. One population\n    has a brown back and lives on rocky islands with brown rocks and little vegetation. A\n    second population lives on the mainland among the vegetation and has a back that is\n    speckled with green and browns.\n\n115. Birds seek larvae of a certain species of butterflies that vary in their feeding behavior.\n    Some larvae feed on the under sides of leaves, some larvae feed beneath the bark, and\n    some larvae feed while resting on stems. The birds learn where they are likely to find\n    larvae and focus their feeding on places where they have been successful in finding\n    larvae. What sort of selection is exerted on the butterfly larvae?\n\nQuestions 116 to 120. The following pedigree is representative of a family with a history of\nWhiny syndrome, a disease causing the affected individual to speak with a high squeaky\nvoice. Based on the pedigree shown, which of the following are possible modes of\ninheritance assuming complete penetrance? Acceptable (A) or Unacceptable (B)\n\n116. _____ Autosomal dominant\n\n117. _____ Autosomal recessive\n\n118. _____ X-linked dominant\n\n119. _____ X-linked recessive\n\n120. _____ Mitochondrial inheritance\n\nQuestions 121 to 125. Refer to the figure below.\nThe figure below represents a food web in a particular ecosystem. Each letter represents a\nspecies. The arrows indicate the direction of energy flow. Select the correct letter or letters\nfor each question below (5 POINTS).\n\n                           (B)                  (C)\n\n(A)\n\n                                          (E)\n\n                     (D)                                             decomposer\n\n121. _____ Which species would most likely represent a primary producer?\n\n122. _____ Which species would most likely represent humans if they were part of this\n           ecosystem?\n\n123. _____ Which species is (are) most likely to be an herbivore?\n\n124. _____ Which species is (are) most likely to be a carnivore?\n\n125. _____ Which species is (are) most likely to be an omnivore?\n\nQuestions 126 to 128. Use Acceptable (A) or Unacceptable (B).\nImportant controls on the ultimate outcome of competition between species pairs that have\nrecently come together include:\n\n126. _____ the initial number of competitors in each species.\n\n127. _____ timing of the arrival of the members of the pair.\n\n128. _____ physical environment.\n\nQuestions 129 to 137. Use Acceptable (A) or Unacceptable (B). In plant systematics, three\nlines of evidence may be useful in determining relationships; xylotomical (wood anatomy),\nembryological and palynological. Match these three with the level for which they are most\nuseful.\n\nXylotomical:\n129. _____ Order\n\n130. _____ Family\n\n131. _____ Genus\n\nEmbryological:\n132. _____ Order\n\n133. _____ Family\n\n134. _____ Genus\n\nPalynological:\n135. _____ Order\n\n136. _____ Family\n\n137. _____ Genus\n\nPART C\n138. Compare and contrast a dicot root with the stem of that same plant placing the\nLETTER(S) of the correct contrasting member of a pair in the blanks provided in the\nfollowing table. Terms may be used more than once or not at all. A. endarch origin ; B.\nexarch origin C. endogenous ; D. exogenous E. generally present ; F. generally absent G. in\nbundles ; H. not in bundles (5 points)\n\n       Character                       Root                              Stem\nPith\n\nPrimary xylem\n\nPericycle\n\nVascular tissue\n\nLateral appendages\n\nQuestions 139 to 140. You and your partner are in lab. You use the oxygen probe to graph\noxygen production in a photosynthesis experiment (see graph below). You are distracted\nand forget to record the order in which you change the chlorophyll solution conditions. (4\npoints)\n\n139. Which area on the graph (1, 2, 3, or 4) most likely corresponds to the point at which\nDCMU was added? Why? (2 points)\n\n140. Which area on the graph (1, 2, 3, or 4) most likely corresponds to the point at which\nNH4Cl was added? Why? (2 points)\n\n                     Congratulations on being a semi-finalist!\n                        We hope to see you as a finalist!!",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 1,
+     "question": "The function of an electron in the electron transport chain is to: A. transfer energy from complex II to complex I. B. pump hydrogen ions using complex II. C. use its free energy to pump protons against the concentration gradient. D. combine with phosphate when ATP is synthesized. E. react with ATP synthase.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.2",
+     "points": 1,
+     "question": "Fatigue in iron deficiency anemia may be explained in part by all of the following EXCEPT: A. a lack of functional hemoglobin in the blood. B. an inability to transport oxygen. C. a lack of functional cytochromes in the electron transport chain. D. the inability to synthesize ATP. E. a lack of functional Coenzyme Q.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.3",
+     "points": 1,
+     "question": "Concerning the generation of ATP by oxidative phosphorylation, all of the following are true EXCEPT: A. NADH produced in the cytosol of the cell will generate approximately 2.5 ATPs. B. NADH produced in the mitochondria will generate approximately 2.5 ATPs. C. NADH produced by the succinate thiokinase reaction will generate approximately 1.5 GTPs. D. FADH2 produced in the mitochondria will generate approximately 1.5 ATPs. E. acetyl CoA entering the TCA cycle will produce approximately 10 ATPs.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.4",
+     "points": 1,
+     "question": "Comparing the effect of an inhibitor with an uncoupler of oxidative phosphorylation: A. the uncoupler would stop the oxidation of NADH by the electron transport chain. B. the inhibitor would allow electrons to pass through the electron transport chain. C. the uncoupler would inhibit the reduction of oxygen by the electron transport chain. D. the inhibitor would increase the pumping of protons by the electron transport chain. E. the uncoupler would increase heat production by the mitochondria.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.5",
+     "points": 1,
+     "question": "What enzyme does a retrovirus primarily rely on to create a copy of its genome that is ready for integration into the host genome? A. DNA gyrase B. RNA polymerase C. Reverse transcriptase D. DNA polymerase E. DNA helicase",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.6",
+     "points": 1,
+     "question": "Integral transmembrane proteins are proteins embedded in the cell membrane. Which of the following amino acids would you MOST expect to find in the transmembrane region of such proteins? A. Tryptophan B. Lysine C. Arginine D. Serine E. Glutamate",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.7",
+     "points": 1,
+     "question": "The expansion of plant cells occurs differently from that of animal cells. The primary reason for this difference is associated with: A. the presence of a central vacuole in a plant cell. B. the presence of a cell wall in plant cells. C. a difference in protein synthesis in plant cells. D. the absence of golgi apparati in plant cells. E. a difference in microtubular organization in plant cells.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.8",
+     "points": 1,
+     "question": "Isotonic solutions are used as saline wash for wounds because: A. they kill contaminating bacteria. B. they have lower salt concentration than the human body and would help healing. C. they have the same salt concentration as the human body and will not irritate the wound. D. they have higher salt concentration than the human body and would help healing. E. they are bacteriostatic.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.9",
+     "points": 1,
+     "question": "One reason phospholipids are well suited to be the main structural component of membranes is: A. they are completely insoluble in water. B. they provide energy for transport through the membrane. C. they form a structure in which the hydrophobic portion faces outward. D. they form a single sheet in water. E. they form a selectively permeable structure.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.10",
+     "points": 1,
+     "question": "Certain amino acids are considered essential in an animal’s diet because they cannot be produced within the organism. Which of the following cellular processes would be most DIRECTLY affected by a dietary deficiency in essential amino acids? A. Cell division B. Cellular respiration C. Translation of mRNA D. Replication of DNA E. Oxygen transport",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.11",
+     "points": 1,
+     "question": "Which of the following cell types would you expect to be abundant in ER and Golgi Bodies? I. Adipose cells II. Islet of Langerhans cells III. Plasma B cells IV. Red blood cells A. I only B. III only C. I and II only D. II and III only E. I, II, III, and IV",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.12",
+     "points": 1,
+     "question": "A day in the sun will expose your skin to UV light. Which is not true about the resulting DNA damage/repair pathway? A. UV exposure will cause single bonded cross-linked thymine-thymine dimers which severely distort the phosphate backbone. B. UV exposure will cause double bonded perpendicular thymine-thymine dimers which kink the phosphate backbone. C. Photolyase will repair DNA damage by using energy from UV light to break open thymine dimers. D. During replication of damaged DNA, a single base pair deletion will be found on the newly synthesized DNA strand opposite to the thymine dimer site.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.13",
+     "points": 1,
+     "question": "Why is it necessary to store harvested fruits in ventilated packaging? A. Cells from harvested fruit need oxygen, because they are alive and still undergoing respiration. B. Cells from harvested fruit need oxygen, because they are alive and still undergoing fermentation. C. Cells from harvested fruit need atmospheric nitrogen, because they are alive and still synthesizing amino acids. D. Cells from harvested fruit need atmospheric nitrogen, because they are alive and still synthesizing nucleic acids. E. Cells from harvested fruit need atmospheric nitrogen, because they are alive and still undergoing respiration.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.14",
+     "points": 1,
+     "question": "Photosynthesis is a process in which light energy is converted to chemical energy and used to produce organic compounds within the chloroplasts. It consists of two stages, the light reactions and the dark reactions. Which of the following processes would NOT occur if carbon dioxide was removed from a plant’s growth chamber? A. ATP energy forms from the conversion of light energy B. NADP+ is reduced to NADPH C. 5-carbon sugars, RuBP, is produced D. photons are absorbed by photosynthetic pigments E. oxygen is produced",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.15",
+     "points": 1,
+     "question": "When considering the root and the stem in plants, their growth is similar in all but which of the following ways: A. both begin tissue differentiation in their meristematic regions. B. both have cortex surrounding the central core. C. both have meristems on the lateral surfaces. D. both have growth that occurs primarily by cell enlargement. E. both possess apical meristems.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.16",
+     "points": 1,
+     "question": "A heavy frost occurred one morning in early spring injuring young grape plants. The two tissues commonly affected are the phloem and the xylem. Which of these observations is made several weeks following the frost? A. The leaves and new shoots are smaller than expected due to lack of nutrient and water conduction. B. The xylem tissue dies rendering the plant helpless against viral or bacterial infection. C. Undamaged xylem tissue assumes the responsibilities of the damaged phloem and likewise the undamaged phloem assumes the responsibilities of the damaged xylem. D. The plants recover completely and the damaged vascular tissue is replaced by new tissue. E. The plants die as a consequence of root death from lack of food.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.17",
+     "points": 1,
+     "question": "The first head of broccoli harvested from an individual broccoli plant is located at the apex of the plant. Immediately after harvesting the head the plant produces side shoots along the stem. Smaller but harvestable heads of broccoli grow at the apex of each of the side shoots. The difference in time of harvest and size of the heads harvested between the first head and the side shoot heads is best explained by the action of the plant hormone: A. gibberellin which stimulates bolting/flowering and causes the lateral shoots to be produced after the first head is removed. B. abscisic acid which triggers seed dormancy by inhibiting cell growth of the lateral shoots. C. cytokinins which promote cell division in all regions of the herbaceous stem including the lateral shoots. D. auxin which is produced by the apical meristem and maintains the dormancy of lateral buds until the terminal shoot is removed. E. ethylene which encourages ripening and forces the plant to prematurely flower.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.18",
+     "points": 1,
+     "question": "The Washington, DC, area experienced a record snow fall during the winter of 2010. Road crews worked overtime spreading salt on highways. In May 2010, a researcher compared the leaves of plants 100 feet or more from the edge of highway to the leaves of plants within 20 feet of the highway. Results showed vigorous, green growth on plants that were distant from highway and weak, shriveled growth on plants that were near the highway. The leaves of plants near the highway suffered because salt entered the plant and: A. was transported to the leaf cells creating hypotonic conditions outside the cell. B. restricted ion exchange mechanisms. C. inhibited nutrient absorption restricting photosynthesis. D. was transported to the leaf cells creating hypertonic conditions outside the cell. E. acted as a metabolic poison to the cells.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.19",
+     "points": 1,
+     "question": "The rate of transpiration in a plant could be decreased through the application of which of the following? A. Abscisic acid B. Gibberellin C. Indoleacetic acid D. Ethylene E. Cytokinin",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.20",
+     "points": 1,
+     "question": "Blue light plays a variety of roles in guard cell action. Which of the following is NOT a role of blue light in guard cell action? A. stimulates malate synthesis. B. stimulates starch hydrolysis. C. activates a calcium transporter. D. activates a membrane bound proton ATPase. E. stimulates potassium uptake.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.21",
+     "points": 1,
+     "question": "Before planting and landscaping an Arizona backyard it would advisable to first evaluate the climatic conditions of this micro-ecosystem. Which of the following plants would NOT be suitable for Arizona’s arid areas? A. Hydrophytes. B. Xerophytes. C. Plants with a thicken hypodermis and sunken stomata. D. Plants with succulent leaves. E. Epiphytes.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.22",
+     "points": 1,
+     "question": "In C4 plant photosynthesis: A. 3 PG (phosphoglyceraldehyde) is the first product of CO2 fixation. B. four-carbon acids are formed by PEP (phosphoenolpyruvate) carboxylase in the bundle sheath. C. the process continues at lower CO2 levels than in C3 plants. D. CO2 released from RuDP (ribulose diphosphate) is transferred to PEP. E. the Calvin cycle is confined to chloroplasts of the mesophyll cells.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.23",
+     "points": 1,
+     "question": "A beaver gnawed completely around a tree trunk but did not proceed further. The leaves on the tree remained green for a long period of time, but eventually the tree died. It is probable that the tissue left intact by the gnawing of the beaver was the: A. cork cambium. B. cortex. C. hypodermis. D. phloem. E. xylem.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.24",
+     "points": 1,
+     "question": "Which of the following would be most likely to increase transcription of a gene in a eukaryotic cell? A. winding the DNA around more histones. B. increasing histone acetyltransferase activity. C. mutating its TATA box. D. methylating some of its DNA. E. none of the above.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.25",
+     "points": 1,
+     "question": "Which of the following partly explains why your brain cells and your skin cells express different proteins even though they have the same DNA in their nuclei? A. alternative splicing. B. imprinting. C. linkage. D. recombination. E. synapsis.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.26",
+     "points": 1,
+     "question": "Which of the chemical reactions below would NOT be proceeding mainly in the indicated direction as blood flows through cardiac muscle capillaries? A. H2O + CO2 → H2CO3 B. H+ + HCO3→ H2CO3 C. Hb + CO2 → Hb-CO2 D. Hb + H+ → Hb-H E. Hb-O2 → Hb + O2",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.27",
+     "points": 1,
+     "question": "When the partial pressure of carbon dioxide rises slightly in blood, ____. A. oxygen associates more tightly to hemoglobin. B. the blood pH rises slightly. C. oxygen dissociates more from hemoglobin. D. respiratory rate decreases. E. central chemoreceptors in the medulla are inhibited and send fewer impulses to the inspiratory area.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.28",
+     "points": 1,
+     "question": "Gas exchange at the respiratory membrane is efficient because _____. 1. the differences in partial pressure are substantial. 2. the gases are lipid soluble. 3. blood flow is very rapid. 4. the distance is minimized by having only one cell layer. 5. the total surface area is large. A. 2, 3 B. 1, 4, 5 C. 1, 2, 5 D. 1, 3, 4, 5 E. All of the above",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.29",
+     "points": 1,
+     "question": "The cells labeled Y are most likely responsible for _____. A. the estrous cycle. B. growth. C. glucose metabolism. D. increasing blood calcium concentration. E. regulating the rate of oxygen use by cells.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.30",
+     "points": 1,
+     "question": "The pathology associated with Cholera is due to Cholera toxin, which leads to which of the following? 1. increased osmolarity of the intestine and diarrhea. 2. active pumping of Ca2+ out of the cell. 3. increased concentration of intracellular cAMP. 4. ribosylation and activation Gs protein. 5. ribosylation and activation of Gi protein. A. 1, 2, 3, 4 B. 1, 3, 5 C. 1, 3, 4 D. 1, 2, 5 E. All of the above",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.31",
+     "points": 1,
+     "question": "A person who has a hypersecreting tumor of the parathyroid gland would probably _____. A. tend to form calcium containing kidney stones. B. have hypocalcemia. C. exhibit demineralization of his bones. D. Both A and B. E. Both A and C.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.32",
+     "points": 1,
+     "question": "The drug mevinolin is a potent inhibitor of HMG-CoA reductase, the key enzyme in the",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.33",
+     "points": 1,
+     "question": "Certain foods like soybeans contain compounds that interfere with the iodination of tyrosine in the thyroid gland. What might result from this interference? 1. Decreased concentrations of plasma TSH 2. Increased concentrations of plasma calcitonin 3. Decreased concentrations of thyroxine 4. Goiter 5. Reduced tolerance to cold A. 4 only B. 1, 3, 4 C. 1, 2 D. 3, 4 E. 3, 4, 5",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.34",
+     "points": 1,
+     "question": "Food allergies are on the rise. Food chemicals do not usually stimulate an immune response. Why? A. foods do not contain antigens. B. food contains antigens but they are generally ignored. C. Food is sufficiently hydrolyzed and does not stimulate the immune system. D. Antigen presenting cells are not made. E. Cytokines are not released for activation.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.35",
+     "points": 1,
+     "question": "A blood typing test for ABO and Rh antigens showed that blood did not agglutinate in any of the wells. These findings mean: 1. The blood contained anti-A antibodies. 2. The blood contained anti-B antibodies. 3. The blood contained A antigens. 4. The blood contained B antigens. 5. The blood was Rh-. 6. The blood was Rh+. 7. The blood was type A. 8. The blood was type B. 9. The blood was type O. 10. The blood was type AB. A. 1, 2, 3, 4, 5, 10 B. 1, 2, 5, 9 C. 1, 2, 6, 10 D. 3, 4, 6, 9 E. 3, 4, 5, 10",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.36",
+     "points": 1,
+     "question": "Place the following in order of the propagation of a cardiac action potential: 1. Purkinje fibers. 2. SA node. 3. right and left bundle branches. 4. AV node. A. 4, 2, 3, 1 B. 4, 3, 1, 2 C. 2, 3, 4, 1 D. 2, 4, 3, 1 E. 1, 3, 4, 2",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.37",
+     "points": 1,
+     "question": "Acetone has a distinct smell, which many people associate with the smell of nail polish remover. What might the smell of acetone in the urine or on the breath of a patient indicate? A. The patient might be degrading too many amino acids from muscle proteolysis. B. The patient’s body might be oxidizing too many fatty acids. C. The patient might have enteritis and is absorbing endproducts of fermentation. D. The patient might have fructose toxicity. E. Both B and C.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.38",
+     "points": 1,
+     "question": "Students conducted a renal function experiment. Before the experiment one group of students limited their intake of fluids, while the other group consumed their usual volume of fluids. At time t=0 both groups drank 750 mL of water. Use these data to answer this question. A B B A",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.39",
+     "points": 1,
+     "question": "_____ Herbivory",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.40",
+     "points": 1,
+     "question": "_____ Competition",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.41",
+     "points": 1,
+     "question": "_____ Commensalism",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.42",
+     "points": 1,
+     "question": "Inbreeding and genetic drift share all of the following EXCEPT that they: A. lead to changes in genotype frequencies. B. lead to a decrease in heterozygosity. C. lead to an increase in homozygosity. D. lead to changes in allele frequencies. E. are more common in small populations.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.43",
+     "points": 1,
+     "question": "When cladists organize species into groups, these groups depict: A. physical similarities. B. ecological niches. C. chronological orders. D. evolutionary relationships. E. physiological similarities.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.44",
+     "points": 1,
+     "question": "In a population, there are two alleles of a gene–A and a at frequencies 0.7 and 0.3, respectively. By chance, the frequency of A is 0.71 and the frequency for a is 0.29 in the next generation. This change in allele frequency is: A. the result of random mating. B. the result of evolution. C. the result of natural selection. D. impossible in a small population. E. too small to have any effect over long periods of time.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.45",
+     "points": 1,
+     "question": "In Fatalii's chilies, plants homozygous dominant for tall plants and smooth stems were crossed with plants that were homozygous recessive for dwarf plants and hairy stems. The F1 plants were test-crossed. The results were as follows: Tall, smooth stems 36 Dwarf, hairy stems 39 Tall, hairy stems 12 Dwarf, smooth stems 13",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.46",
+     "points": 1,
+     "question": "Western Europe has many plant species closely related to those found in the eastern United States. Which of the following best explains this? A. convergent evolution. B. geographic isolation. C. genetic drift. D. land bridge between the two continents. E. reproductive barriers.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.47",
+     "points": 1,
+     "question": "The Black/Brown locus in rabbits is linked to the Solid/Himalayan color pattern. If a homozygous Solid Black male is bred to a Brown Himalayan female. A mating of an F1 progeny with an individual that is homozygous recessive for both traits results in the following phenotypic distribution {Black-Solid 345; Black-Himalayan 123; Brown-Solid 254; Brown-Himalayan 452}. What is the genetic distance between these two loci? A. 32 centimorgans. B. 40 centimorgans. C. 49 centimorgans. D. 51 centimorgans. E. 68 centimorgans.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.48",
+     "points": 1,
+     "question": "A poultry breeder wants to market a million ducklings per year that are a terminal cross of Pekin drakes mated to Campbell-Muscovy F1 females. The F1 females lay an average of 165 eggs per year. Purebred Pekin females lay 105 eggs per year. Egg Hatchability is 95%, Duckling survival to market age is 92%. Survival from market age to breeding age is 95%. The drake to hen ratio in the breeding flock is 1:40. How many (within 10) F1 females are needed to produce the million market offspring? A. 10900 B. 6930 C. 6590 D. 6060 E. 275",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.49",
+     "points": 1,
+     "question": "_____ Higher temperature and lower rainfall will have the same effect in terms of impact on C3 and C4 population numbers.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.50",
+     "points": 1,
+     "question": "_____ C4 plants out-compete C3 plants under conditions of high temperature, so a trend towards more hot, arid areas will mean that C4 plants will become more predominant.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.51",
+     "points": 1,
+     "question": "_____ C3 plants are more effective at converting atmospheric carbon dioxide to food and thus higher concentrations of this gas will allow C3 plants to out-compete C4 plants.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.52",
+     "points": 1,
+     "question": "_____ Desert C3 plants with CAM metabolism are less dependent on sunlight than C4 plants.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.53",
+     "points": 1,
+     "question": "When visiting a remote ocean island, a research botanist found a plant population that reproduced annually and had two alternative flower-colors–orange and purple. Flower color is known to be a monogenic trait. The frequencies of the two flower colors were observed annually over a ten-year period. It was noted that the proportion of plants with purple flowers declined steadily each year. From these data, it may reasonable to be concluding that: A. the increased frequency of orange-flowered plants was a result of genetic drift. B. migration of orange-flowered plants into the population was the most likely cause of the observed change. C. mutation occurred more frequently in orange-flowered plants than in purple-flowered plants. D. Purple-flowered plants had a lower genetic fitness than the orange-flowered plants. E. orange-flowered plants were capable of crossing with other orange-flowered plants or with purple-flowered plants but purple-flowered plants could only cross with other purpleflowered plants.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.54",
+     "points": 1,
+     "question": "For populations that exhibit __________ population growth, maximum harvesting yield is achieved when _________________. A. exponential, population growth rate is highest B. logistic, the population reaches its carrying capacity C. logistic, population growth rate is highest D. logistic, population growth rate is not changing with population size E. exponential, the population reaches its carrying capacity",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.55",
+     "points": 1,
+     "question": "Which combination of the following statements represents general principles of island colonization? 1. more species are likely to be established on larger islands, and fewer on smaller islands 2. there is a greater probability of colonization if the island is closer to another land mass. 3. Over time, colonial populations become genetically divergent from their parent population due to natural selection, mutation, and/or genetic drift. 4. The older the island, the more likely it will be colonized. 5. Geographic isolation reduces gene flow between populations. A. only 3 and 4 B. only 1, 2, 4, and 5 C. 1, 2, 3, 4, and 5 D. only 1, 2, and 3 E. only 2 and 3",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.56",
+     "points": 1,
+     "question": "If you traveled south from northern Canada to the southernmost tip of Florida, in what order would cross (1) deciduous forest, (2) taiga, (3) tundra, (4) tropical rain forest? A. 3, 2, 1, 4 B. 3, 4, 1, 2 C. 4, 2, 3, 1 D. 3, 4, 2, 1 E. 3, 1, 2, 4",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.57",
+     "points": 1,
+     "question": "Which description best describes what would happen to the carbon cycle if all detritivores suddenly went on “strike” and stopped working? A. Carbon would increase in inorganic mass, while the atmospheric reservoir of carbon would continue to increase and plants would not be jeopardized. B. Carbon would increase in organic mass, while the atmospheric reservoir of carbon would increase and plant-life would be starved for CO2. C. Carbon would decrease in organic mass, while the atmospheric reservoir of carbon would increase with the result that plant-life would be starved for CO2. D. Carbon would decrease in organic mass, the atmospheric reservoir of carbon would increase, and plants would maintain an even balance of CO2. E. Carbon would accumulate in organic mass, the atmospheric reservoir of carbon would decline, and plants would eventually be starved for CO2 .",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.58",
+     "points": 1,
+     "question": "For the phosphorus cycle, why (in the short term) does phosphorus cycling tend to be more localized than either carbon or nitrogen cycling? A. Because phosphorus is ultimately transferred almost entirely via the atmosphere rather than almost entirely via the soil (locally). B. Because phosphorus is both transferred locally in the atmosphere, as well as in the soil (in the short term). C. Because carbon as well as phosphorus cycle in the soil (locally), while only nitrogen is transferred atmospherically. D. Because phosphorus is cycled almost entirely within the soil rather than transferred over long distances via the atmosphere. E. Because short term phosphorous cycling is not localized more in either carbon or nitrogen cycling.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.59",
+     "points": 1,
+     "question": "Of the following characteristics, select the most distinctive key character for the Magnoliophyta: A. leaf type B. pollen structure C. presence of seeds D. fruit E. roots",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.60",
+     "points": 1,
+     "question": "Use the information given in Figures 1 and 2 to answer the following question:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.61",
+     "points": 1,
+     "question": "Mutant transferrin is _____ than wild-type transferrin. (1 point) A. longer B. shorter",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.62",
+     "points": 1,
+     "question": "What is the approximate molecular weight of mutant tranferrin? (2 points) A. About 180 KDa B. About 130 KDa C. About 300 KDa D. About 90 KDa E. Impossible to determine from the information provided.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.63",
+     "points": 1,
+     "question": "The sample in lane 4 is called a _____ marker. (1 point) A. reference B. rate of diffusion C. molecular weight D. degree of polarity E. degree of bonding",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.64",
+     "points": 1,
+     "question": "Which of the following reasons most likely explains why the transferrin band in lane 2",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.65",
+     "points": 1,
+     "question": "You develop your western blot and see purple coloring covering the entirety of the nitrocellulose. Which step in the western blotting procedure probably was forgotten? Why? (2 points) A. Improper buffer used thus causing a secondary reaction that colored the nitrocellulose. B. Contamination during separation with SDS-PAGE by a purple-colored compound C. Milk proteins not added thus no protective coating formed over the nitrocellulose D. Primary antibodies not added thus the specific protein is not bound E. Secondary antibody-enzyme conjugate not added thus the primary antibody is not recognized.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.66",
+     "points": 1,
+     "question": "_____ rough endoplasmic reticulum?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.67",
+     "points": 1,
+     "question": "_____ peroxisomes?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.68",
+     "points": 1,
+     "question": "_____ gap junctions?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.69",
+     "points": 1,
+     "question": "_____ lysosomes?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.70",
+     "points": 1,
+     "question": "_____ mitochondria?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.71",
+     "points": 1,
+     "question": "_____ Polyadenylation",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.72",
+     "points": 1,
+     "question": "_____ Transport to the nucleolus",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.73",
+     "points": 1,
+     "question": "_____ Catalytic function of small nuclear RNA",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.74",
+     "points": 1,
+     "question": "Consider the following data for a green plant Maximum photosynthesis rate @ 20 mg glucose/dm-2/hr-1 Glucose heat of combustion @ 686 Kc/mole Glucose gram molecular weight = 180gm",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.75",
+     "points": 1,
+     "question": "There is a large difference in pH across the thylakoid membrane between the thylakoid compartment and the stroma. From the list given below, choose those that are appropriate in explaining the difference. (Choose A, B, C, or D) 3 points i. the transport of protons into the thylakoid compartment by the electron transfer system ii. the transport of protons out of the thylakoid compartment into the stroma by the electron transfer system iii. protons splitting from water remaining in the thylakoid compartment iv. protons splitting from water exiting the thylakoid compartment v. the removal of hydrogen from the stroma during the reduction of NADP to NADPH vi. the retention of hydrogen in the stroma during the reduction of NADP to NADPH A. i, iv, and vi only B. ii, iv and vi only C. i, iv and v only D. i, iii and v only",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.76",
+     "points": 1,
+     "question": "In angiosperms, a spore differs from a seed in a variety of ways. Provided below is a list of possible ways this occurs. Select A, B, C, D, or E (5 POINTS) i. A spore is haploid, a seed has both haploid and diploid tissue ii. A spore is diploid, a seed is haploid. iii. spore is the consequence of meiosis, a seed the consequence of fertilization iv. A spore develops into a gametophyte, a seed develops into a new sporophyte v. A spore develops into a sporophyte, a seed develops into a gametophyte vi. A spore is unicellular, a seed is multicellular (more complex: embryo, endosperm, seed coat) vii. A spore contains little or no stored food, a seed contains stored food (endosperm) A. ii, iii, v, vi, and vii only B. i, iii, v, vi, and vii only C. i, iii, v, and vi only D. ii, v, vi, and vii only E. i, iii, iv, vi, and vii only",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.77",
+     "points": 1,
+     "question": "Chloroplasts and mitochondria are similar in certain respects. Given the following characteristics, which are common to both chloroplasts and mitochondria? (Select A, B, C, D, or E) (4 points) i. both are single-membrane bounded structures ii. both are double-membrane bounded structures iii. both undergo reactions that are primarily oxidative in nature iv. both have similar, although not identical, electron transfer systems v. both contain ribosomes vi. both undergo reactions that are primarily reductive in nature vii. both contain DNA and RNA viii. both undergo chemiosmosis A. i, iii, v, vii, and viii only B. i iv, vi, vii and viii only C. ii iv, v, vii and viii only D. ii, iii, vi , vii, and viii only E. ii, iv, vi, vi, and viii only",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.78",
+     "points": 1,
+     "question": "_____ may transfer nutrients from one plant to another.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.79",
+     "points": 1,
+     "question": "_____ growth depends on nutrients obtained from the plant.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.80",
+     "points": 1,
+     "question": "_____ permit plants to survive in phosphorus-poor soil.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.81",
+     "points": 1,
+     "question": "_____ increase the absorptive surface of plants.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.82",
+     "points": 1,
+     "question": "_____ form nitrogen-fixing nodules on the roots of plants.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.83",
+     "points": 1,
+     "question": "In which one of the following ways do flowers A and B differ? (2 points) A. flower A is zygomorphic whereas flower B is actinomorphic B. flower A is imperfect whereas flower B is perfect C. flower A is epigynous whereas flower B is hypogynous D. flower A is apocarpous whereas flower B is syncarpous E. flower A is epipetalous whereas flower B is sympetalous",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.84",
+     "points": 1,
+     "question": "Of the two flowers depicted above, which has more carpels? (2 points) A. flower A B. flower B C. both the same",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.85",
+     "points": 1,
+     "question": "Placentation types depicted by the ovary cross-sections for flowers A and B are known as: (2 points) A. marginal, free central B. free central, axile C. marginal, axile D. marginal, parietal E. parietal, axile",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.86",
+     "points": 1,
+     "question": "Ammonia can substitute for a potassium ion in ion-exchange mechanisms.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.87",
+     "points": 1,
+     "question": "Ammonia can adversely affect amino acid transport.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.88",
+     "points": 1,
+     "question": "Ammonia can cause a decrease in body pH which can adversely affect the tertiary structure of proteins.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.89",
+     "points": 1,
+     "question": "While hiking with your guide in the Saguaro National Park, you drop your canteen. As you reach down to pick it up, you spy Crotalus atrox better know as a Western Diamondbacked Rattlesnake. It inserts its fangs into your hand and has a firm hold on your hand as it injects its venom. Your guide is able to extract you from the snake’s hold, but you quickly experience hemolysis. Your guide rushes you to the nearest hospital where the snake venom is analyzed. Three enzymes: phospholipase, neuraminidase, and protease are found. Which of these enzymes do you think was responsible for your near fatal red blood cell hemolysis and in what way would it lead to hemolysis? (Indicate which of the following explanations would be appropriate) (2 points) A. The neuraminidase lysis the carbohydrate rich glycocalyx leading to cell breakage since this layer is responsible for strengthening the cell membrane. B. The protease would degrade transmembrane proteins leading to cell lysis. C. The phospholipase would degrade the phospholipids, the component of a membrane creating a barrier",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.90",
+     "points": 1,
+     "question": "_____ The innate immune system is not well developed in invertebrates.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.91",
+     "points": 1,
+     "question": "_____ Inflammation is an orchestrated series of events initiated by WBC.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.92",
+     "points": 1,
+     "question": "_____ Toll-like receptors on helper T cells allow for direct activation by antigens.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.93",
+     "points": 1,
+     "question": "_____ Polyclonal antibodies may be directed to the same antigen but are produced by different cells.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    }
+   ],
+   "solution": "Answer Key Parts A & В\n\n–ы–»–»_»<_<_<_»_»»»–_–_–_–и диод rr ЗА’ ees\nTotal no. of items: 137                Subjective Score:\n\nItem Answer     Weight  Penalty    Item Answer     Weight  Penalty\nрр о р м м\nПЕ И ПОС: ООС ООО И И ОТ ОСТ\nПЕ И ПОТ ПОС ОИ ИС С БЕШЕТГІ\nПЕ И ПО ООС Т СЕ Я ПОС ПОТ\nПЕ СИ ПО ПОС ООО Е О ЕНШІСІ БЕКІ\npea 000 И о С 0 J\nр р\nПС С CC\npe e006. -    7-79) ой\npo СИ ПОС ОС :\nШЕН ЕНЕҢ ЕКТІ ПОС Б СЕН СЕНИН ЕЛЕКТІ БЕКІ\nПЕ ЗИ ПО | 77%)  efx ИЗ\nИ И ОТ С per fe ПОТ 000\nae БЕКІ ОСТ  a Td ees\nПЕ ООО ОС 2759) И С Е ОС\nПС Со ООО ПО СТС  Бі 100\nЕЛІН И ЕЕЕ с\nО С ОКТ ООО С Ce oe ee\n 000  2\na Ve  ee ee\npa e000 ЕЕ БЕНЕН ШЕШЕСІ ОС\nПЕ 8} И С С 77756)\nОЕ И ОИ ОСТ  ПЕС О ПОСТ 000 |\nО oT  п м0] |\nЕН ООО О ОС БИ ИС о ОС ОИС\nр | 9 0\npare 00000] [8 0 09\nПО ПОСТ ОС ООО МС И О ЕНШІ\nПЕ ООО О ООС Б Бес С Е ОС\nЕН О ПОС ОСТ Б И С ИИ ОТ\nПЕ ООО ПОТ С НИ ЕСЕН И ПОС J\nЕСЕН С ПОС ООС БЕ СЕН о т ИО\nПЕ О ПОТ ООС Б И И ОК ОИС\nУЕ И ПО О ЕЕ лан о О ОС\nПЕ ООО С О ОИ И Е ОИС\nЕСЕН И ПОТ СС\nЕЛІН О ПО ОС БІ СЕН С ОЕ ООС\nЕЕЕ ООО 000] ЕЕЕ И О ОСТ\nПЕ СООО ПОТ ОС ООО И С т ОТ\nЕ С О ОС ОАО ИО И С ОИС\nПАС С ОС ЕРЕКЕ СЕН о ЕТ ОС\n| м ЕШКІ  |\nЕЛ SE ТТ ПОСТ\nПС СОНИ О 759) (|в о ПОТ ОСТ\n\n2010 USABO Semifinal Exam\nAnswer Key Parts A & B\neee ene\nTotal no. of items: 137                Subjective Score:\nItem – Answer                    Weight      Penalty\nЛЕН ЕНЕҢ ПОХ ОКТ\nИ ПЕСО БЕН\nЕСЕН fs БЕКІ ОИ\nЕСЕН О 00 | 0 |\nfor [a 00 0.0\nfoe [A ПО СС\npos [A 00 ОКТ\nШЕН [A 80 ШЕШЕСІ\nпы\nFos [ei ОС\nfor И ПО ОИС                                                             |\nFos И ПК И\nКЕН СИ ПО СС\nЕГЕН О БЕРЕТ: ОС\nО И ПО ИС\nО И ПО 00\nЕ И ПО ОИС\nО [et 7%\nШЕН e080\nfeed 100 080\n                                                                           |\nС И ПОТ ЕРКІ\nр [0\n1% |8---------71777591--7%9\n        0.0\nFeo\nГ И ШЕШЕГІ БЕКІ\nЕСТЕН СИ ПОВЕСТИ\n0\nЕРЕ И ПОХ ПОСТ\nм С\nО И АС ИСТ\n1% И ПЕК ПИ\nЕСЕН И ПОХ СТ                                                       |\n А                         400 [0.00\n A                 1.00         0.00\n A            77-100         0.00\n В      о                 77700         0.00\n В                     7777р00       0.00\n В                 ~~     77700      7 0.00\nЕСІН СИ ПОИСК\n\n138. Compare and contrast a dicot root with the stem of that same plant placing the\nLETTER(S) of the correct contrasting member of a рай in the blanks provided in the\nfollowing table. Terms may be used more than once or not at all. А. endarch origin ; В.\nexatch origin С. endogenous ; О. exogenous Е. generally present ; Е. generally absent С. in\nbundles ; H. not in bundles (5 points)\nPith                                                                                                    Е\nЕ\nBH\nPericycle                                          |                                                   Е\nЕ\nVascular tissue                                    в                                                       G\nНн\nLateral appendages                                                                                D\nQuestions 139 to 140. You and your partner are in lab. You use the oxygen probe to graph\noxygen production in a photosynthesis experiment (see graph below). You are distracted\nand forget to record the order in which you change the chlorophyll solution conditions. (4\npoints)\n                                                4\n2                          3\n1\nTime (min}\n139. Which area on the graph (1, 2, 3, or 4) most likely corresponds to the point at which\nDCMU was added? Why? (2 points)\nDCMU inhibits Photosystem II by inactivating the plastoquinone-binding protein in the electron\ntransport chain.  This ultimately results іп permanent reduction of the chlorophyll, cannot accept\nelectrons from water, water is not split, and O24s not released.                                                                                                                                                     |\n140. Which area on the graph (1, 2, 3, or 4) most likely corresponds to the point at which\nNH,CI was added? Why? (2 points)\nNH,Cl uncouples the electron transport chain from the electrochemical gradient, removing all\nnegative feedback... This increases the speed at which Oz is released."
+  }
+ ]
+}

@@ -103,3 +103,29 @@ console.log("format tests: OK");
   assert.strictEqual(cells.find((c) => c.key === P.dayKey(at(9))).solved, 1);
   console.log("progress tests: OK");
 }
+
+// Тесты с ключом (биология)
+{
+  const { parseAnswerKey, parseTestSet, testToTasks } = require("../lib/test-parser");
+  assert.deepStrictEqual(parseAnswerKey(" 1 D\n 2 B\n10.A\n11) Б\n12 – A, C"), { 1: "D", 2: "B", 10: "A", 11: "B", 12: "AC" });
+  assert.deepStrictEqual(parseAnswerKey("1 2 3 4 5\nC B A A Е"), { 1: "C", 2: "B", 3: "A", 4: "A", 5: "E" });
+  const tasks = Array.from({ length: 12 }, (_, i) => `${i + 1}. Вопрос про фотосинтез №${i + 1}?\nA) один\nB) два\nC) три\nD) четыре`).join("\n");
+  const key = Array.from({ length: 12 }, (_, i) => `${i + 1} ${"ABCD"[i % 4]}`).join("\n");
+  const set = parseTestSet("Вам дано 12 вопросов, каждый оценивается в 1 балл.\n" + tasks, key);
+  assert(set && set.questions.length === 12);
+  const blocks = testToTasks(set);
+  assert.strictEqual(blocks.length, 2);
+  assert.strictEqual(blocks[0].parts[1].answer, "B");
+  assert.strictEqual(blocks[0].parts[0].topic, "bio-photosynthesis");
+  const { normalizeResult } = require("../lib/jury");
+  console.log("test-parser tests: OK");
+}
+
+// Рекомендации книг
+{
+  const { recommend } = require("../lib/books");
+  const recs = recommend("bio-photosynthesis", { text: "цикл Кальвина", lang: "ru" });
+  assert(recs.length >= 2 && recs.every((r) => r.title && r.pages));
+  assert.strictEqual(new Set(recs.map((r) => r.book.replace(/-\d+$/, ""))).size, recs.length, "разные книги");
+  console.log("books tests: OK");
+}

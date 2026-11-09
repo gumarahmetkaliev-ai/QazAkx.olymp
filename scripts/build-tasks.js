@@ -11,16 +11,18 @@
  *   npm run build-tasks -- --ai --concurrency=3  – параллельные запросы к ИИ
  *
  * Текст из PDF берётся через `pdftotext -layout` (poppler, лучше всего) или pdf-parse.
+ * Сканы без текста распознаются через tesseract (нужны языки rus, kaz, eng), кеш — .cache/ocr.
  */
 
 const fs = require("fs");
 const path = require("path");
 const { execFileSync } = require("child_process");
 const { parseOlympiad, qualityReport } = require("../lib/task-parser");
+const { parseTestSet, testToTasks } = require("../lib/test-parser");
 
 const ROOT = path.join(__dirname, "..");
 const PUBLIC_DIR = path.join(ROOT, "public");
-const CATALOG_PATH = path.join(ROOT, "data", "catalog", "chemistry.json");
+const CATALOG_PATH = path.join(ROOT, "data", "catalog", `${(process.argv.find((a) => a.startsWith("--subject=")) || "--subject=chemistry").split("=")[1]}.json`);
 const TASKS_DIR = path.join(ROOT, "data", "tasks");
 
 const args = Object.fromEntries(
@@ -41,8 +43,55 @@ function loadEnv() {
   }
 }
 
+// Сканы без текстового слоя распознаём через tesseract (rus+kaz+eng), результат кешируем в .cache/ocr
+const OCR_DIR = path.join(ROOT, ".cache", "ocr");
+let hasTesseract = null;
+function ocrPdf(file) {
+  if (hasTesseract === null) {
+    try {
+      execFileSync("tesseract", ["--version"], { stdio: "ignore" });
+      hasTesseract = true;
+    } catch {
+      hasTesseract = false;
+    }
+  }
+  if (!hasTesseract) return "";
+  const cacheFile = path.join(OCR_DIR, path.relative(PUBLIC_DIR, file).replace(/[\\/]/g, "__") + ".txt");
+  if (fs.existsSync(cacheFile)) return fs.readFileSync(cacheFile, "utf8");
+  const tmp = fs.mkdtempSync(path.join(require("os").tmpdir(), "ocr-"));
+  try {
+    execFileSync("pdftoppm", ["-r", "300", "-gray", "-png", file, path.join(tmp, "p")], { stdio: "ignore" });
+    const langs = /kaz|qaz/i.test(file) ? "kaz+rus+eng" : "rus+eng";
+    const pages = fs.readdirSync(tmp).filter((f) => f.endsWith(".png")).sort();
+    const text = pages
+      .map((pg) => execFileSync("tesseract", [path.join(tmp, pg), "-", "-l", langs, "--psm", "6", "-c", "preserve_interword_spaces=1"], { stdio: ["ignore", "pipe", "ignore"], maxBuffer: 64 * 1024 * 1024 }).toString("utf8"))
+      .join("\f");
+    fs.mkdirSync(OCR_DIR, { recursive: true });
+    fs.writeFileSync(cacheFile, text);
+    console.log(`  OCR: ${path.relative(PUBLIC_DIR, file)} (${pages.length} стр.)`);
+    return text;
+  } catch (err) {
+    console.warn(`  ⚠ OCR ${file}: ${err.message}`);
+    return "";
+  } finally {
+    fs.rmSync(tmp, { recursive: true, force: true });
+  }
+}
+
 let hasPdftotext = null;
 async function pdfText(file) {
+  const text = await pdfTextLayer(file);
+  // скан = почти нет текста на страницу (короткий ключ ответов «1 D 2 C …» сканом не считаем)
+  let pages = 1;
+  try {
+    pages = Number((execFileSync("pdfinfo", [file]).toString().match(/Pages:\s+(\d+)/) || [])[1]) || 1;
+  } catch {}
+  if (text.replace(/\s/g, "").length >= Math.min(300, 40 * pages)) return text;
+  const ocr = ocrPdf(file);
+  return ocr.replace(/\s/g, "").length > text.replace(/\s/g, "").length ? ocr : text;
+}
+
+async function pdfTextLayer(file) {
   if (hasPdftotext === null) {
     try {
       execFileSync("pdftotext", ["-v"], { stdio: "ignore" });
@@ -155,7 +204,7 @@ function isGood(q) {
 
 async function main() {
   loadEnv();
-  if (!fs.existsSync(CATALOG_PATH)) execFileSync(process.execPath, [path.join(__dirname, "build-catalog.js")], { stdio: "inherit" });
+  if (!fs.existsSync(CATALOG_PATH)) execFileSync(process.execPath, [path.join(__dirname, "build-catalog.js"), `--subject=${args.subject || "chemistry"}`], { stdio: "inherit" });
   const catalog = JSON.parse(fs.readFileSync(CATALOG_PATH, "utf8"));
   fs.mkdirSync(TASKS_DIR, { recursive: true });
 
@@ -188,12 +237,14 @@ async function main() {
   async function runJob({ olymp, mat, sol, outPath }) {
     const tasksText = await pdfText(path.join(PUBLIC_DIR, mat.localPath));
     const solText = await pdfText(path.join(PUBLIC_DIR, sol.localPath));
-    let tasks = parseOlympiad(tasksText, solText);
+    // Тест с ключом (биология: «80 вопросов с одним правильным ответом») — проверяется без ИИ
+    const test = parseTestSet(tasksText, solText);
+    let tasks = test ? testToTasks(test) : parseOlympiad(tasksText, solText);
     let q = qualityReport(tasks);
-    let generatedBy = "parser";
+    let generatedBy = test ? "test-parser" : "parser";
     const label = `${olymp.title} · ${mat.label}`;
 
-    if (!isGood(q) && args.ai && tasksText.replace(/\s/g, "").length > 300) {
+    if (!test && !isGood(q) && args.ai && tasksText.replace(/\s/g, "").length > 300) {
       try {
         const t0 = Date.now();
         const ai = await structureWithAI(tasksText, solText);
@@ -226,6 +277,7 @@ async function main() {
       tasksFile: mat.localPath,
       solutionFile: sol.localPath,
       generatedBy,
+      ...(test ? { type: "test" } : {}),
       generatedAt: new Date().toISOString(),
       quality: q,
       tasks,
@@ -245,7 +297,7 @@ async function main() {
   );
   console.log(`\nГотово: собрано ${built}, пропущено (уже есть) ${skipped}, требуют проверки ${weak}.`);
   if (weak && !args.ai) console.log("Подсказка: запустите с --ai, чтобы слабые комплекты структурировал ИИ (нужен ключ OmniRoute или OpenRouter).");
-  execFileSync(process.execPath, [path.join(__dirname, "build-catalog.js")], { stdio: "inherit" });
+  execFileSync(process.execPath, [path.join(__dirname, "build-catalog.js"), `--subject=${args.subject || "chemistry"}`], { stdio: "inherit" });
 }
 
 main().catch((err) => {

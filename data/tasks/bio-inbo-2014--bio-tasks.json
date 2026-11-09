@@ -1,0 +1,527 @@
+{
+ "setId": "bio-inbo-2014--bio-tasks",
+ "olympiadId": "bio-inbo-2014",
+ "title": "Биология → INBO → 2014",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/inbo/2014/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/inbo/2014/bio-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T13:44:52.789Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 62,
+  "withPoints": 62,
+  "withReference": 62,
+  "withQuestion": 62,
+  "estimatedPoints": 62
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "INDIAN NATIONAL BIOLOGY OLYMPIAD – 2014",
+   "weight": null,
+   "total": 62,
+   "statement": "SECTION A\n\nCELL BIOLOGY (6 points)\n\n1. (1 point) Many molecules are chiral i.e. their mirror images are non-\n    superimposable. Which of the following could be affected if the chirality of a\n    molecule is changed in a biological system?\n      I.    Taste reception\n      II.   Smell perception\n     III.   Toxicity\n    IV.     Mode of action\na. I and II only\nb. I, II and III only\nc. III and IV only\nd. I, II, III and IV\n\n2. (1 point) In order to increase the excitability of a patch of neuronal cell\n    membrane:\na. the number of Na+ and K+ channels should be increased .\nb. the capacitance of the membrane should be increased.\nc. the thickness of the membrane should be reduced.\nd. the content of charged lipids in the membrane should be increased.\n\n3. (1 point) The best exercise regimen to lose excess body fat is the one which:\na. exercises as many muscles as possible.\nb. results in very little shortness of breath.\nc. results in shortness of breath with profuse sweating.\nd. stresses and compresses body regions that store most of the fat.\n\n4. (1 point) Lips are more sensitive to temperature or touch than forearm skin.\n    This is because of the:\na. higher frequency of action potentials.\n\n                                         1\n\nb. greater height of the action potential.\nc. faster transmission of the action potential.\nd. larger number of neurons stimulated in the CNS.\n\n5. (1 point) A cell has a fixed number of adenine nucleotides. Each of these\n   adenine nucleotides will be in monophosphate (AMP), diphosphate (ADP) or\n   triphosphate (ATP) form. Adenine nucleotides are constantly interconverted\n   from one form to another due to the metabolic activities of the cell as shown\n   below:\n\n   One of the key enzymes in this interconversion is adenylate kinase which\n   catalyzes the following reaction:\n\n                              ATP + AMP ⇄ 2ADP\n   Of the three forms, hydrolysis of only the triphosphate form (i.e., ATP) results\n   in energy that can be used to perform “work” by the cells.\n   Which one of the following ratios best describes the energy potentially\n   available to a cell?\n\n               ATP\n   a.\n         ATP  1 ADP\n                 2\n   b.\n         ATP  ADP\n   c.\n\n                                        2\n\n         ATP  2ADP\n   d.\n\n6. (1 point) There are various types of ATPase pumps found in different types of\n    cells. Of these, F-type ATPases, also known as ATP synthases, drive ATP\n    synthesis. They are found in all of the following EXCEPT:\na. inner membrane of mitochondria.\nb. thylakoid membrane of chloroplasts.\nc. plasma membrane of prokaryotes.\nd. plasma membrane of fungi.\n\nPLANT SCIENCES (10 points)\n\n7. (1 point) Lignin is a secondary metabolite found in plants. Which of the\n    following statement/s about this biomolecule is/are true?\n    I.      It is the most abundant organic compound on the earth.\n    II.     In many plants, lignin is sequestered in vacuoles in order to protect\n            other compounds of the cell.\n    III.    It waterproofs the cell wall and helps in transportation of water in\n            terrestrial plants.\n    IV.     Lignin is structurally very similar to tannins and like tannins, it is also an\n            important deterrent to herbivores.\na. I, II and III\nb. II and IV\nc. Only III\nd. I, III and IV\n\n8. (1 point) Study the photosynthetic pathway given. A few statements are made\n    about this pathway. Choose the appropriate one.\n\n                                           3\n\n                                              (P870)*\n                          -1.2                            QA\n\n                                                                QB\n                                                          H+\n                                                                     UQ   Proton flow\n                   Em (volts)                             H+\n                                   hυ\n                                                               Cyto C1\n\n                                                          Cyto C2\n                          +0.4                  (P870)\n\na. The pathway represents the cyclic photosynthesis that occurs in plants and\n   algae.\nb. The pathway represents the anoxygenic photosynthesis that is found in\n   bacteria.\nc. The pathway indicates photosynthesis of cyanobacteria but is erroneous as it\n   does not show synthesis of NADPH.\nd. The pathway indicates cyclic photosynthesis involving photosystem I that is\n   found in plants as well as bacteria.\n\n9. (1 point) In an experiment, the stem of a tomato plant was wounded in such a\n   way that portions of vascular bundles were removed. After the experiment,\n   which of the following will delay the recovery of the wounded tissue the most\n   by cutting off supply of cytokinins?\na. Cutting the young leaves and buds above the wound.\nb. Removing the flowers and leaves below the wound.\nc. Cutting the growing root tips and tilting the plant.\nd. Cutting the mature and senescing leaves below as well as above the wound.\n\n10. (1 point) Several experiments have been done to find how the ions enter the\n   mature vessels or tracheids of xylem. In one study, it was found that cells of\n   pea (Pisum sativum) roots had K+ ion concentration 75 times greater than that\n   of the nutrient solution. In another study, it was found that the rate of\n\n                                          4\n\n   phosphate absorption gradually reached zero over 4 days of continuous\n   darkness. Which of the following can be deduced from these experiments?\na. Ion uptake by plants is an active process.\nb. Ion uptake is a passive process but requires carrier proteins.\nc. Ion uptake is a light-driven process and transpirational pull plays an important\n   role in it.\nd. The two experiments cannot be compared as the ions studied in them are\n   different.\n\n11. (1 point) Ectomycorrhiza – a symbiotic association between plant roots and\n   fungi is important in obtaining phosphorus and other nutrients for the plant.\n   Which of the following points characterize the relationship?\n   1. Penetration of host cell by fungal hyphae.\n   2. Creation of a vast network of hyphae to absorb nutrients.\n   3. Change in soil pH.\n   4. Movement of organic carbon to fungi.\n\na. 1, 2, 3 and 4\nb. Only 1, 2 and 3\nc. Only 2 and 3\nd. Only 2, 3 and 4\n\n12. (1 point) What would be the water potential (Ψw), solute potential (Ψs) and\n   pressure potential (Ψp) at equilibrium when a cell with Ψs= – 0.7 MPa and\n   Ψp= 0.7 MPa is placed in a solution with Ψs= – 0.5 MPa?\na. Ψw= – 0.2 MPa, Ψs= – 0.5 MPa, Ψp= – 0.5 MPa\nb. Ψw= – 0.5 MPa, Ψs= – 0.7 MPa, Ψp= 0.2 MPa\nc. Ψw= – 0.5 MPa, Ψs= – 0.5 MPa, Ψp= 0 MPa\nd. Ψw= – 0.3 MPa, Ψs= – 0.3 MPa, Ψp= 0 MPa\n\n                                       5\n\n     13. (1 point) Heterospory is evolutionarily advanced feature over homosporous\n        condition which first appeared in pteridophytes. Which of the following cycles\n        correctly describes this feature in ferns?\n\n                                                                     b.\n                                                                                          Microgametophyte\na.\n                     Megagametophyte\n                                                                                           Megagametophyte        sperm\n                      Microgametophyte          Egg\n                                                                          Antheridium\n                                                                                          Archegonium            egg\n      Megaspore                                Sperm\n                    Microspore\n                                                                                Meiosis                           Fertilization\n           Meiosis                              Fertilization\n                                                                          Spore mother Spore mother\n                                                                              cell         cell                          zygote\n       Spore mother\n           cell                                        zygote\n                                                                                           Megasporangium       Embryo\n                                                                             microsporangium\n              Sporangium                       Embryo\n                                 Sporophyte                                                       Sporophyte\n\n c.                                                                                            Archegonium\n                      Microgametophyte                              d.\n                        Megagametophyte           sperm                                         Antheridium\n                                                                                                                 Egg\n       Microspore                                                              gametophyte\n                      Megaspore                  egg                                                           Sperm\n                                                                               spore\n            Meiosis                               Fertilization                                                 Fertilization\n                                                                             Meiosis\n      Spore mother Spore mother\n          cell         cell                              zygote\n                                                                           Spore mother                                zygote\n                                                                               cell\n                        Megasporangium          Embryo\n          microsporangium                                                        Sporangium                    Embryo\n                                                                                                 Sporophyte\n                                  Sporophyte\n\n     14. (1 point) In a laboratory experiment, with a particular pteridophyte, a normal\n        diploid sporophytic plant was grown in a poor nutrient medium without sucrose.\n        The gametophyte obtained was grown in a normal nutrient medium. Some\n        sporophytes obtained from such gametophytes were later observed to be\n        tetraploids. What may be the possible reason for this?\n\n                                                                6\n\na. The poor nutrient medium caused apospory to occur.\nb. The poor nutrient medium caused apogamy to occur.\nc. The sucrose deficient medium induced fusion of more than two gametes.\nd. It is random mutation and sucrose deficient nutrient medium has no role to\n   play.\n\n15. (1 point) Capsules/sporangia of sporophytes of some bryophytes and\n   pteridophytes produce elaters (kind of sterile cells) in addition to the spores.\n   What may be the probable major role played by them?\na. Dispersal of spores.\nb. Provision of reserve food to the developing spores.\nc. Protection of immature spores.\nd. Providing moisture to the developing spores.\n\n16. (1 point) Cytokinins influence the movement of nutrients into leaves from other\n   parts of the plant. This phenomenon is known as cytokinin-induced nutrient\n   mobilization. In an experiment with cucumber seedlings, the left cotyledon of a\n   seedling A and right of seedling B were treated with 50 mM kinetin. The [14C]\n   amino iso-butyric acid (AIBA) was injected into the right cotyledon of each of\n   these seedlings.\n\n                                    AIBA injected\n                                                                   AIBA injected\n\n                      Seedling A                     Seedling B\n\n                                       7\n\n        After a few hours the seedlings were subjected to autoradiography. What\n        would be the results?\n   a.\n\n               Seedling A                   Seedling B\n\n   b.\n\n             Seedling A                            Seedling B\n\n   c.\n\n          Seedling A                    Seedling B\n\n   d.\n\n                  Seedling A                       Seedling B\n\nANIMAL SCIENCES (9 points)\n\n17. (1 point) Poonam noticed a total of 64 setae in 4 bunches in each segment of\n   an annelid ‘X’ and 85 setae in a single ring in certain segments of the body of\n   annelid ‘Y’. She should classify ‘X’ and ‘Y’ as:\na. Oligochaetes\nb. Polychaetes\nc. Oligochaete and Polychaete respectively\n\n                                        8\n\nd. Polychaete and Oligochaete respectively\n\n18. (1 point) A blind cave fish can detect the approach of another aquatic\n   inhabitant predominantly by:\na. olfactory sense organs.\nb. lateral-line sense organs.\nc. gustatory sense organs.\nd. thermosensory organs.\n\n19. (1 point) When treated with proteases, the extract of which of the endocrine\n   glands would lose its hormonal influence?\na. Ovary\nb. Pineal gland\nc. Pituitary gland\nd. Adrenal cortex\n\n20. (1 point) If the stroke volume of heart increases with the total volume of blood\n   remaining the same, the heart beats per minute will:\na. decrease.\nb. remain unaltered.\nc. increase.\nd. become erratic.\n\n21. (1 point) In a women suspecting pregnancy, blood analysis showed low levels\n   of human chorionic gonadotropin (hCG), considerably high progesterone and\n   very high levels of estrogen. This is indicative of:\na. no pregnancy.\nb. early pregnancy.\nc. advanced pregnancy.\nd. pseudo-pregnancy.\n\n                                         9\n\n22. (1 point) When concentrations of O2 and CO2 were measured in an isolated\n   tidal pool on a rocky shore, the following data pattern was obtained. (Broken\n   lines indicate values for open sea.)\n   Graph I\n\n                              P                  Q                     R\n\n                      6 am              2 pm                10 pm\n\n   Graph II\n\n                       6 am               2 pm              10 pm\n\n   Mark the correct interpretation.\na. Graph I indicates oxygen levels and Zone P indicates high tide.\nb. Graph II indicates carbon dioxide levels and Zone Q indicates low tide.\nc. Graph I indicates carbon dioxide levels and Zone R indicates high tide.\nd. Graph II indicates carbon dioxide levels and Zone P indicates low tide.\n\n23. (1 point) A common eel (Anguilla vulgaris) is able to crawl considerable\n   distances over land and cross from one water body to another. When total\n   oxygen consumption of this fish was measured as against the individual\n   contribution from gills and skin under three different conditions (I, II and III), the\n   following graph is obtained.\n\n                                          10\n\n                                   I       II              III\n\n             O2 consumption ml/h\n                                                                    Total O2 consumption\n\n                                                                    O2 consumption by skin\n\n                                                                     O2 consumption by gills\n\n                                            time\n\n    Conditions I, II and III most likely are:\na. I: Water, 7°C                       II: Air, 21°C         III: Water, 7°C\nb. I: Water, 21°C                      II: Water, 7°C        III: Air, 7°C\nc. I: Air, 7°C                         II: Air, 21°C         III: Water, 21°C\nd. I: Air, 21°C                        II: Water, 21°C       III: Air, 7°C\n\n24. (1 point) The schematic representation of a circulatory system of a scorpion is\n   shown below.\n\n                                                                        Heart\n\n                                                         Ostia                       Arteries\n\n                                                Pericardial sinus               Peri-vascular spaces\n\n                                                                       Book lungs\n       Mark the correct interpretation:\n   a. The schematic represents a closed vascular system.\n   b. The heart receives only oxygenated blood.\n   c. Body parts receive oxygenated and de-oxygenated i.e. mixed type of blood.\n   d. The schematic is erroneous as it indicates that pericardial sinus receives\n       de-oxygenated blood.\n\n                                                11\n\n25. (1 point) An antibiotic was found to be very effective in a mammal. A\n   veterinary student used the same dose for a reptile with a similar body weight\n   and injected it into its hind limb. Even after repeated trials, it was found to be\n   totally ineffective. What could be the most probable reason?\na. The absorptive surfaces of the two animals vary greatly. As a result the\n   minimum effective concentration of the drug could not be reached in the blood\n   of the reptile.\nb. The body temperature of the reptile is quite low as compared to the mammal.\n   As a result, minimum effective concentration of the drug could not be reached\n   in the blood.\nc. The low metabolic rate of the reptile hindered the rate of diffusion of the drug in\n   the body. Hence, minimum effective concentration of the drug could not be\n   reached in the blood.\nd. The drug must have got excreted from the body of the reptile before it could\n   reach the minimum effective concentration in the blood.\n\nGENETICS & EVOLUTION (4 points)\n\n26. (1 point) If a gene exists in multiple copies, then the most likely outcome\n   would be that:\na. the concentration of the protein that it encodes for will be very high.\nb. it will be difficult to get a mutant phenotype for that gene.\nc. it is constitutively expressed.\nd. it encodes a protein with a very short half life.\n\n27. (1 point) A chromosome appears as shown below when the metaphase\n   chromosome plate is observed under a microscope. This chromosome is:\na. acrocentric.\nb. submetacentric.\nc. metacentric.\nd. telocentric.\n\n                                        12\n\n  28. (1 point) An organism uses 20 amino acids while its DNA is made up of 6\n     types of nitrogenous bases. What would be the minimum size of a codon?\n  a. 6\n  b. 4\n  c. 3\n  d. 2\n\n  29. (1 point) Study the following pedigree. The trait it represents is most likely to\n     be:\n                                                             Unaffected male\n\n                                                             Affected male\n                                                             Unaffected female\n\n                                                             Affected female\n\n  a. autosomal recessive which is incompletely expressed.\n  b. autosomal dominant with incomplete penetrance.\n  c. X-linked recessive.\n  d. paternally imprinted.\n\nECOLOGY (5 points)\n\n  30. (1 point) The malarial parasite Plasmodium azurophilum differentially infects\n     two lizard species found in the Caribbean, Anolis gingivinius and Anolis wattsi.\n     These lizards are found coexisting only when the parasite is present. Under\n     which of the following conditions would this be possible?\n\n                                         13\n\na. A. wattsi is a better competitor than A. gingivinius. A. gingivinius is more\n    susceptible to P. azurophilum than A. wattsi.\nb. A. gingivinius is a better competitor than A. wattsi. A. gingivinius is more\n    susceptible to P. azurophilum than A. wattsi.\nc. A. gingivinius is a better competitor than A. wattsi. A. gingivinius is more\n    resistant to P. azurophilum than A. wattsi.\nd. A. wattsi is a better competitor than A. gingivinius. A. watsii more resistant to\n    P. azurophilum than A. gingivinius.\n\n31. (1 point) While preparing a climograph for major types of biomes, a student\n    prepared the following diagram. Find the correct combination of biomes and\n    their respective characteristics shown in the diagram below.\n\n                                             500\n            Annual Mean Precipitation (cm)\n\n                                                                                        E\n\n                                             300\n                                                                                  D\n\n                                                                    B\n                                             100\n                                                         A                              C\n\n                                                   -15         0             15             30\n\n                                                         Annual Mean Temperature (°C)\n\n    i.      Tropical forest\n    ii.     Desert\n    iii.    Coniferous forests\n    iv.     Temperate broadleaved forest\n    v.      Alpine and arctic tundra\n\na. (i-E), (ii-A), (iii-C),(iv-B),(v-D)\nb. (i-E), (ii-C), (iii-B), (iv-D), (v-A)\nc. (i-E), (ii-C), (iii-D), (iv-B), (v-A)\nd. (i-E), (ii-A), (iii-D), (iv-B), (v-C)\n\n                                                                        14\n\n32. (1 point) An ecologist selected a few plants from different biomes. The\n   following table shows the characteristics of the region from which the plants\n   were collected. Identify the biome to which the plants belong.\n\n         Plant   Type          Associated animals Precipitation              Global\n       Specimen                                         Pattern           Distribution\n           X    Tree           Migratory birds,      Seasonal          Restricted to the\n                               mostly mammals,                         northern\n                               insects                                 Hemisphere\n             Y         Herb    Ambhibians, reptiles, Almost            Equatorial and\n                               mammals, birds,       constant          subequatorial\n                               arthropods                              regions\n             Z         Shrub   Mostly snakes,        Highly            Near the 30°N\n                               lizards, scorpions,   variable          and 30°S\n                               beetles, rodents                        latitudes\n\na. X – Temperate broad leaved forest, Y – Coniferous forest, Z – Desert\nb. X – Coniferous forest, Y – Tropical rain forest , Z – Grassland\nc. X – Coniferous forest, Y – Tropical rain forest , Z – Desert\nd. X – Temperate broad leaved forest, Y – Tropical rain forest, Z – Grassland\n\n33. (1 point) An artificial tank with a capacity of 15 kiloliters was used to study the\n   changes in the number of phytoplanktons during a 10 month study. The\n   following are the observations obtained from the study. (Ecological density is\n   calculated using the space available for a species to occupy).\n                 Month          Amount of water          Total no. of\n                                capacity present       phytoplanktons\n                                      (%)                   (105)\n           September                  100                    30\n           November                    80                    33\n           January                     60                    36\n           March                       20                    18\n\n   Based on the above data which of the following statements would be true?\n     I.     The month of January would have the highest crude density.\n     II.    The month of March would have the highest ecological density.\n\n                                        15\n\n     III.    The highest amount of phytoplanktons is present in the month of\n             January.\n    IV.      The lowest ecological density is present in the month of November\n\na. Only II and III\nb. I, II, and III.\nc. I, ,II, III and IV\nd. Only III and IV\n\n34. (1 point) The following table contains experimental data obtained on energy\n    partitioning by caterpillars at a specific trophic level in a food chain.\n                            Particulars               Amount of\n                                                      Energy (J)\n                     Plant material eaten                200\n                     Given out as feces                  100\n                     Production of new biomass            35\n                     Cellular respiration                 65\n\n             Which of the following statements would be true for the above data?\n             I.      The trophic efficiency is higher than the production efficiency.\n             II.     The production efficiency is 35%\n             III.    The caterpillar would be at the third link in the food chain.\n\na. Only I\nb. Only II\nc. Only III\nd. Only I and II\n\nETHOLOGY (1 point)\n\n35. (1 point) Tinbergen (1963) posed four distinct questions that may be\n    addressed when examining a biological or psychological phenomenon. Some\n    of these questions deal with the present (‘current’) and some with the past\n\n                                           16\n\n   (‘historical’). Again, some of these questions reflect more immediate\n   (‘proximate’) concerns while others relate to evolutionary (‘ultimate’) issues.\n   Mark the correct statement. The question ‘What function does birdsong serve?’\n   should be classified as:\na. proximate and historical perspective.\nb. current and ultimate perspective.\nc. current and proximate perspective.\nd. historical and ultimate perspective.\n\nBIOSYSTEMATICS (3 points)\n\n36. (1 point) Though earlier cnidarians and ctenophores were classified under\n   Coelenterata, ctenophores are now considered to have evolved later in the\n   course of evolution. Which of the following characteristics support this?\n   i.   True muscle cells\n   ii. Ciliary locomotion\n   iii. Presence of anal pores\n   iv. Bioluminescence\n   v.   Retractable tentacles\n\na. All of the above\nb. Only i and iii\nc. Only ii and iv\nd. Only i, iii and v\n\n37. (1 point) A student collected four plant specimen from the field. Following are\n   the characteristics of these plants.\n   Plant A had microspores and megaspores in special structures and showed\n   presence of seeds.\n   Plant B was dorsiventrally flat with presence of gametophytic structures. Plant\n   C bore microspores and megaspores in structures present on the leaves.\n\n                                          17\n\n   Plant D showed microspores and megaspores within specialized colourful\n   structures.\n   What would be the correct classification of these plants?\na. A – Angiosperm, B – Alga, C – Bryophyte, D – Gymnosperm\nb. A – Gymnosperm, B – Pteridophyte, C – Bryophyte, D – Angiosperm\nc. A – Gymnosperm B – Bryophyte, C – Pteridophyte, D – Angiosperm\nd. A – Bryophyte, B – Pteridophyte, C – Gymnosperm, D – Angiosperm\n\n38. (1 point) In the following scheme, three domain classification key with one\n   representative example on each domain is shown. A, B and C respectively are:\n\n                   A                 B                C\n\n             Cyanobacteria     Halophiles\n\n                                                 Ciliates\n\na. Plantae, Eubacteria, Animalia\nb. Plantae, Archaebacteria, Eukaryota\nc. Eubacteria, Archaebacteria, Eukaryota\nd. Plantae, Prokaryota, Eukaryota.\n\n                    ********* END OF SECTION A *******\n\n                                     18\n\n              INDIAN NATIONAL BIOLOGY OLYMPIAD – 2014\n\n                                     SECTION B\n\nNOTE:\n\n      Write all answers in the ANSWERHEET ONLY.\n      Only the answer sheets will be collected at the end of the examination.\n\nCELL BIOLOGY (15.5 points)\n\n39. (2 points) In a particular strain of E. coli, it was observed that DNA polymerase\n   could add nucleotides to a growing chain of DNA at the rate of 600 per second.\n   If the genome of this organism is 1.1mm long wherein a base pair occupies\n   0.34 nm, then how much time (in minutes) would be required for the complete\n   replication of the chromosomal DNA molecule?\n   (Report the closest integer value.)\n\n   Answer: ________________minutes\n\n40. (2 points) A few statements about prokaryotic and eukaryotic cells are made.\n\n   Fill in the table with tick marks (✔) in the appropriate places to indicate if these\n\n   statements are true or false:\na. The surface area available for cellular functions in a prokaryotic cell is less\n   than that in a eukaryotic cell.\nb. The total genome size of a prokaryotic cell is always less than that of a\n   eukaryotic cell.\nc. Unlike eukaryotes, no special respiratory organelles are found in prokaryotes.\n   Hence they respire at a much lesser rate than eukaryotes.\nd. Eukaryotic cells show various membrane bound organelles such as\n   chloroplasts and nucleus while ribosomes are the only membrane bound\n   organelles found in prokaryotes.\n\n                                         19\n\n                 a.\n\n                 b.\n\n                 c.\n\n                 d.\n\n41. (2+2 = 4 points) Hexokinase and glucokinase are two enzymes that catalyse\n      the first step of glycolysis, namely, conversion of glucose to glucose-6-\n      phosphate. They vary in their distribution in various tissues and also show\n      different Km values; 0.1mM for hexokinase and 10mM for glucokinase.\n\n(A) Which of the following statements is/are consistent with the above\n\n       information? Put tick marks (✔) in the appropriate boxes.\n\n I.      After the consumption of a carbohydrate rich meal, glucokinase will be\n         more abundant in the portal vein.\n II.     Hexokinase is likely to be found in most of the tissues as compared to\n         glucokinase.\nIII.     Both the enzymes are essential in brain tissue.\nIV.      Levels of glucokinase are more likely to be dependent on dietary and\n         hormonal status.\n\n                 Statement Consistent Not Consistent\n                      I\n\n                        II\n\n                        III\n\n                        IV\n\n                                        20\n\n(B) State which of the following graphs indicate glucokinase or hexokinase isozymes.\n\n   Fill in the table with tick marks (✔) in the appropriate places.\n\n                                  1                             II\n             Relative activity                                              IV\n\n                                 0.5\n                                                    I\n                                                          III\n\n                                             0.01        0,1     1.0   10\n                                                        Glucose mM\n\n                                  Graph Glucokinase Hexokinase\n                                    I\n\n                                       II\n\n                                       III\n\n                                       IV\n\n   42. (3+2 = 5 points) Three different mechanisms are involved in the movement of\n      solutes across biological membranes. 1. Simple diffusion, 2. Facilitated\n      diffusion and 3. Active transport.\n\n   (A) Mark against each property given in the table as applicable (✔) and not\n\n       applicable (X) for each of these mechanisms. (Note: Points will be given only\n       if all answers in a row are correct.)\n\n                                                                 21\n\n    No. Property                              Simple        Facilitated   Active\n                                              Diffusion     Diffusion     Transport\n    1.     Transport along the\n           concentration gradient\n\n    2.     Metabolic energy required\n\n    3.     Direction of transport can\n           switch from one side of the\n           membrane to the other\n\n    4.     Membrane protein/carrier\n           required\n\n    5.     Saturation kinetics observed\n\n    6.     Competitive inhibition\n           observed\n\n(B) Choose the uptake mechanism/s for each of the solutes listed in the table and\n\n    indicate yes by putting a tick mark (✔) and no by putting a cross mark (X) in\n\n    the appropriate places. (Note: Points will be given only if all answers in a row\n    are correct.)\n          Solute         Simple               Facilitated             Active\n                        Diffusion              Diffusion            Transport\n         H2O\n\n         Steroid\n\n         Ca++\n\n         Glucose\n\n43. (2.5 points) Cystic fibrosis is a fatal disease caused by a genetic defect in the\n   chloride transport protein. Complications of this disease are much severe in\n   lungs where abnormally thick mucus accumulates and provides the site for\n   bacterial multiplication. A few statements are listed below some of which relate\n\n                                         22\n\n     to the cellular events leading to the disease. Identify and arrange them in the\n     correct order.\n\n        I.     Chloride ions are secreted from the cells lining the airway.\n        II.    Regulatory site of the chloride transport protein is mutated.\n        III.   Cell interior remains hyper-osmotic and prevents movement of water\n               out of the cell.\n        IV.    Entry of chloride ions into the lumen of air passage is prevented\n               resulting in the inhibition of Na+ transport into the lumen.\n        V.     Water flows into the lumen due to the osmotic pressure.\n        VI.    Mucus remains insufficiently hydrated.\n        VII.   Cyclic AMP dependent protein kinase cannot activate chloride\n               transport protein.\n\n     Answer:________________________\n\nPLANT SCIENCES (10 points)\n\n  44. (2 points) Plant hormones are organic substances that play major role in plant\n     growth. Hormones are synthesized and transported to different parts either by\n     diffusion or via transport through vascular tissues. Among these, Indole Acetic\n     Acid (IAA), a weak organic acid, shows a peculiar mechanism of transport via\n     apoplast and symplast. The carrier proteins for this molecule are found to be\n     present in the basal portions of the cell. From the figures given below, choose\n\n     the one that depicts this pathway correctly and put a tick mark (✔) in the\n\n     appropriate box.\n\n                                         23\n\n a.                [IAA]                             b.        pH 7     [IAA]\n         pH 5\n\n            pH 7                                                 pH 7\n                                     To shoot                                         To shoot\n                    [IAA]                                                [IAA]\n                    -                                                    -\n\n                   [IAA]                                                [IAA]\n          pH 5                                                 pH 7\n\n            pH 7                                                pH 7\n                        [IAA]                                            [IAA]\n                        -                                                -\n\n                                     To root                                          To root\n\n c.              [IAA]                                           pH 5        [IAA]\n         pH 5                                             d.\n\n          pH 7                                                    pH 7                  To shoot\n                                     To shoot                                 [IAA]\n                    [IAA]                                                     -\n                    -\n\n                   [IAA]                                                     [IAA]\n         pH 5                                                   pH 5\n\n                                                                  pH 7\n          pH 7\n                    [IAA]                                                     [IAA]\n                    -                                                         -\n                                                                                        To root\n                                     To root\n                                                                             [IAA]\n\n                                a.   b.         c.         d.\n\n45. (2 points) The volume of liquid moving in a column per second is proportional\n      to the fourth power of the radius of the column, at a constant pressure. The\n\n                                               24\n\n   volume of a liquid moving in xylem of species of Ficus was found to be 4 X10 -7\n   ml/sec. What would be the amount of liquid moving per second in a xylem of\n   Polyalthia species with a diameter half that of Ficus species?\n\n   Answer: ____________ml/sec\n\n46. (2 points) An experiment was set up to see the role of root cap in a plant\n   species X.\n   Plant A – root cap was kept intact and the plant was kept horizontal\n   Plant B – root cap was removed and plant was kept horizontal\n   Plant C – root cap was removed from one side and the plant was kept upright.\n   Which of the following result will be observed?\n\n                         A                     B                    C\n   a.\n\n                         A                     B                    C\n   b.\n\n                             A                  B                   C\n   c.\n\n   d.                    A                           B                  C\n\n                                      25\n\n   Choose from the options and put a tick mark (✔) in the appropriate box.\n\n                                                  a.   b.           c.   d.\n\n47. (2 points) A graph depicting the carbon dioxide assimilation at various\n   intracellular partial pressures of CO2 is given below. Also a few statements\n   regarding the CO2 assimilation in C3 and C4 plants have been made. Choose\n\n   the correct statement and put a tick mark (✔) in the appropriate box.\n\n                                                            C4\n                                                 60\n\n                                                            plant\n               CO2 assimilation (µmolm-2 s-1 )\n\n                                                 50\n\n                                                                              C3\n                                                                              plant\n                                                 40\n                                                 30\n\n                                                                              CO2 compensation points\n                                                 20\n                                                 10\n\n                                                       20           40   60     80\n                       Intracellular CO2 partial pressure, Ci\n                       (Pa)\n   a. The CO2 compensation point in C3 plant reflects CO2 production because\n      of photorespiration.\n   b. The C3 plant does not exhibit increase in CO2 assimilation as intracellular\n      CO2 concentration increases.\n   c. The CO2 compensation point in C4 plants reflects high rate of CO 2 given\n      out in light.\n\n                                                                26\n\n   d. C4 plants are saturated at 15 Pa of CO2 depicting that increasing CO2\n      concentration does not change the rate of CO2 assimilation and they are\n      less efficient photo synthetically than C3 plants.\n\n                        a.       b.       c.        d.\n\n48. (2 points) Red Oak, Quercus rubra found in temperate region shows variation\n   in size and shape of leaves from the top to the bottom of the tree. Upper\n   canopy leaves are lobed, thick and small while lower bottom leaves are thin,\n   large and less lobed. The reason/s for this morphological difference is/are:\n\n                 Lower canopy                  Upper canopy\n\na. Upper canopy has to face high speed winds and smaller leaves offer less\n   resistance.\nb. Nutrients cannot reach easily to higher ends of such tall trees whereas lower\n   leaves are nutritionally benefitted.\nc. This morphological difference helps to increase overall surface area getting\n   exposed to available light.\nd. Small, lobed leaves of upper canopy can easily deal with high temperature of\n   direct light radiation.\n\n                                          27\n\n  e. Upper canopy leaves are young as compared to leaves at the lower canopy.\n\n      Choose from the options and put tick mark/s (✔) in the appropriate box/es.\n\n                          a.      b.       c.     d.      e.\n\nANIMAL SCIENCES (10.5 points)\n\n  49. (3.5 points) Arrange the following events involved in synaptic transmission in\n     appropriate order.\n           I.      Ligand-gated channels in the post-synaptic membrane open.\n          II.      Nerve impulse arrives at the synaptic end bulb of pre-synaptic\n                   neuron.\n         III.      Post- synaptic membrane is depolarized.\n         IV.       Neurotransmitters are released into synaptic cleft.\n          V.       Voltage gated Ca2+ channels in the membrane of synaptic end\n                   bulb are activated allowing inward flow of Ca2+\n         VI.       Neurotransmitters bind to receptors in the membrane of post\n                   synaptic neuron.\n        VII.       Depolarization of post-synaptic membrane reaches threshold\n                   triggering action potential.\n     Answer: _____________________________\n\n  50. (2.5 points) Composition of various parts of the circulatory system in humans is\n     depicted in the form of bar graphs. Assign appropriate part/structure against\n     each composition.\n\n                                          28\n\n               A\n               .\n\n               B\n               .\n\n               C\n               .\n\n               D\n               .\n\n               E\n               .\n                                                        Smooth muscle\n                                  Elastic tissue\n\n                                                                        Fibrous tissue\n                    Endothelium\n\nOptions:\n1. Vein\n2. Artery\n3. Venule\n4. Arteriole\n5. Capillary\n\nAnswers:\nA represents ____\n\nB represents ____\n\nC represents ____\n\nD represents ____\n\nE represents ____\n\n                                                   29\n\n51. (1.5 points) Structural and functional characteristics of specific animal groups\n   are described in columns A, B and C.\n\n   Characteristic                               A               B               C\n\n   Reproduction                          External        Internal        Internal\n                                         fertilization   fertilization   fertilization\n\n   Predominant excretory product         Ammonia         Uric acid       Urea\n\n   Position of the nerve cord            Dorsal          Ventral         Dorsal\n\n   Respiratory pigment in circulation    Intracellular   Extracellular   intracellular\n\n   Column A represents: ___\n\n   Column B represents: ___\n\n   Column C represents: ___\n\n   Choose the appropriate animal group for each of the above from the following\n   options and fill in the blanks with the corresponding numeral.\n   1.     Birds\n   2.     Mammals\n   3.     Fish\n   4.     Arthropods\n   5.     Annelids\n   6.     Reptiles\n\n52. (3 points) Various functions and habitats of terrestrial animals are listed in\n   column I while body characteristics adapted for these habitats are listed in\n   column II.     Match column I with column II and fill in the blanks with the\n   appropriate numeral/s.\n\n                                        30\n\n                 COLUMN I                                  COLUMN II\n\n      A) For digging burrows and for            1. Increase in limb length and\n         leading subterranian life                    decrease in limb mass (C)\n\n      B) For climbing and for leading           2. Tapering head with snout (A)\n         arboreal life.\n\n      C) For running on ground with             3. short and stout limb girdles (B)\n         speed.\n\n                                                4. Rudimentary external ear. (A)\n\n                                                5. Prehensile tail (B)\n\n                                                6. Reduced eye sight (A)\n\n   Answers:\n   A: ______________\n\n   B: ______________\n\n   C: ______________\n\nGENETICS & EVOLUTION (10.5 points)\n\n53. (2 points) Consider a population of 1000 squirrels. White patch on their\n   forehead is a X-linked recessive trait. If 200 males and 80 females are found to\n   have this patch on forehead, what is the frequency of this allele in the\n   population? (Assume 1:1 sex ratio.)\n\n   Answer: _____________________\n\n                                        31\n\n                                                             –          –         –\n         54. (2 points) A strain of E. coli denoted as met       bio        thr       (strain I) indicates an\n\n             auxotroph which can grow in a minimal media only when supplemented with\n                                                                    –             –\n             methionine, biotin and threonine. Similarly, leu               thi       (strain II) indicates a\n\n             strain that needs leucine and thiamine to be added to the minimal medium for\n             growth.\n             In an experiment, culture of strain I was collected, given a wash to remove\n             nutrients and centrifuged to collect cells. These cells were plated on a minimal\n             media and allowed to grow. No growth was obtained. Culture II was similarly\n             treated and plated on another plate containing minimal culture media. No\n             growth was obtained either. However, when the two cultures were mixed and\n             plated on a fresh minimal media, a few colonies appeared.\n             Now the two culture media were added to two arms of a U tube which was\n             partitioned by a filter that would allow only liquids to pass through. After a few\n             hours, when organisms in both the arms were plated separately on two\n             minimal media, no growth was observed.\n\n   (A)                                                                                   (B)\n\nStrain I                                                         Strain II\n                                                                                        Strain I              Strain II\n\n      Collect cells        Collect and mix         Collect cells\n                                                                                                     filter\n                           cells\n\n           Wash once                                  Wash once\n                               Wash once\n\n     Plate 108 cells                              Plate 108 cells\n                            Plate 108 cells                                                Plate 4             Plate 5\n\n             Plate 1              Plate 2                  Plate 3\n                                                 32\n\n   What can be concluded from this?\na. Growth in plate 2 is due to random mutations which converted non-functional\n   genes to functional ones resulting in growth of bacteria.\nb. Growth in plate 2 was due to cross-supply of metabolites from each strain to\n   the other. Thus cells growing on plate 2 are mixture of strain I and strain II.\nc. Growth on plate 2 is due to the recombination of the two strains leading to new\n   cells that did not require any external supplement for growth.\nd. Physical presence of both the strains resulted in the competition between the\n   two strains. The strain that required lesser number of amino acids for growth\n   survived. The plate 2 indicates growth of strain II.\n\n   Choose from the options and put a tick mark (✔) in the appropriate box.\n\n                       a.       b.       c.      d.\n\n55. (2 points) An imaginary operon (img) in E.coli contains several structural genes\n   encoding enzymes for the biosynthesis of an amino acid M. The regulator\n   gene (I) is located within the img operon, which encodes a regulator molecule.\n   When the end product (amino acid) is present in excess amount, it binds to the\n   regulator molecule. This complex then binds to the operator (O) sequence and\n   stops further synthesis of the end product. The promoter (P) sequence is\n   present between the I and the O.\n   For the strains with the genotypes given below in the table, predict whether the\n   final product of img operon will be synthesized or not. Indicate your answers by\n\n   putting tick marks (✔) in the appropriate boxes in the table.\n\n                                        33\n\n                     Genotype          Presence of      Synthesis         No synthesis\n                                       M in growth\n                                          media\n      i.          i+p+o+                 Excess\n\n      ii.         i-p+o+                 Excess\n\n      iii.        i+p-o+                 Absent\n\n      iv.         i+p+o-                 Excess\n\n   (+ sign indicates wild type allele and – indicates recessive mutant allele.)\n\n56. (2.5 points) In order to build a longitudinal dataset, data of adult finches\n   Geospiza fortis living on one of the Galapagos Islands were collected. The\n   beak shape data collected between 1973 -2001 are shown in the graph.\n\n                           Pointed\n\n                           +0.05\n\n                              0\n                                                        Null hypothesis\n                           -0.05\n                            Blunt\n                                1970         1980    1990         2000\n                                                     Year\n      Fill in the table with tick marks (✔) in the appropriate places to indicate\n\n      whether each statement is true or false:\n\n   a. The fluctuating direction in the beak shape is most probably due to change\n      in the environment.\n\n                                        34\n\n   b. The values of the beak shape that fall into the region of null hypothesis\n      indicate that there is no evolutionary change in the beak shape.\n   c. The graph as a whole does not indicate evolutionary change in beak shape\n      as the time interval is too small and evolution requires thousands of years\n      to occur.\n   d. The graph indicates that the beak shape may lead to convergent evolution\n      in the finches of Galapagos Islands.\n   e. The change in any phenotypic character requires selection to alter the\n      expression of large number of genes in coordinated fashion. Hence it is\n      unlikely that change in the beak shape depicted in the graph is a result of\n      evolution.\n\n               a.\n\n               b.\n\n               c.\n\n               d.\n\n               e.\n\n57. (2 points) A female genotype, shown as     abc / +++    produces 100 meiotic\n   tetrads. Among these, 68 showed no cross over (NCO) events; 20 showed\n   single crossover (SCO1) between a and b; 10 showed single crossover\n   between b and c (SCO2) and 2 showed a double crossover (DCO) between a\n   and b and between b and c. Of the 400 gametes produced, how many will be\n   of the following types?\n   Fill your answers in the table.\n\n                                     35\n\n                    Genotypes        Types No. of\n                                           gametes\n                                           produced\n          A.        +++ and abc      NCO\n\n          B.        +bc and a++      SCO1\n\n          C.        ab+ and ++c      SCO2\n\n          D.        a+c and +b+      DCO\n\nETHOLOGY (5 points)\n\n58. (5 points) In common langurs, groups of adult males practice infanticide soon\n   after they take over a new troop. Four hypotheses could be postulated to\n   explain this behaviour.\n\n   Hypothesis 1:\n   It is a social pathological condition brought about by overcrowding.\n   Hypothesis 2:\n   It is a regulation mechanism to restrict population growth and hence, good for\n   the group in the long run.\n   Hypothesis 3:\n   Cannibalising of infants serves to replenish the post-takeover low energy\n   reserves of the males.\n   Hypothesis 4:\n   It is a Darwinian trait resulting from inter-male sexual competition for\n   reproductive access to the new females.\n\n   Decide and indicate with tick marks (✔) which of the four hypotheses would\n\n   make the following predictions:\n   (Note: Points will be given only if all answers in a row are correct.)\n\n                                        36\n\n Predictions                       Hypothesis Hypothesis Hypothesis Hypothesis\n                                       1          2          3          4\n Infanticides will occur shortly\n after takeover and end when\n the infants of the males that\n have taken over are born\n Infanticides should occur at\n high population densities\n Females should become\n sexually receptive again\n after the new males have\n taken over\n Infanticides will occur shortly\n after takeover and end when\n the males have recovered\n from their energy deficits\n Reverse infanticide by\n females should be observed\n for preferential access to\n males which exhibit parental\n care\n\nECOLOGY (8 points)\n\n59. (3 points) In a study of a river ecosystem energy transfer is schematically\n   shown in the diagram below ( All values are in kcal/m2/yr; H: herbivore, C:\n   carnivore, TC: top carnivore)\n\n                                       37\n\n                                                                   4600\n                                                                    Respiration\n\n       Solar radiation\n       1700000                                                 Decomposers\n\nLight absorbed by\nplants 410000\n\nPlants gross             3368    H biomass     383    C biomass Respiration\nproduction 20810                                                            316\n                                   1478                    67\n\n       Respiration                   Respiration\n\n                                                      TC biomass\n                                                           6\n  11977                           1890\n                                                            Respiration\n\n                                                           4\n\n                                              Downstream export\n\n     In the above ecosystem:\n a. Efficiency of photosynthesis is: ______% (upto one decimal place only)\n b. Trophic Efficiency of Herbivores: _______ % (upto one decimal place only)\n c. Production Efficiency at second trophic level: ______ % (upto one decimal\n     place only)\n d. Community respiration:_____________\n\n 60. (2 points) The diagram below shows the process of algal succession on an\n     initially bare inter-tidal region over a two and half year period. Assume that no\n     major external influence occurred during the study period. Fill in the table with\n\n                                         38\n\n   tick marks (✔) in the appropriate places to indicate whether each of the\n\n   following statements is true or false:\n\nI. The diagram indicates a process of primary succession.\nII. Gelidium coulteri is the pioneer species in the current process of succession.\nIII. All the algal species recorded in the area survived till the end of the study.\nIV. The diagram indicates the process of autogenic succession.\n\n                I.\n\n                II.\n\n                III.\n\n                IV.\n\n61. (3 points) A few population characteristics are listed below. Determine whether\n   they belong to r - selected or K - selected populations and fill in the table with\n   the corresponding alphabet.\nA. Concave survivorship curves\n\n                                         39\n\nB. Low fecundity\nC. Population density usually below carrying capacity\nD. Good dispersal powers\nE. Parental care\nF. Large body size\n\n                r- selected             K – selected\n                populations             populations\n\nBIOSYSTEMATICS (2.5 points)\n\n62. (2.5 points) A cladogram depicting the position of certain animals with respect\n   to a common ancestor is given below. Study the cladogram and fill in the table\n\n   with tick marks (✔) in the appropriate places to indicate whether each\n\n   statement is true or false:\n\n   1. Lesser panda is closely related to the giant panda than raccoon.\n   2. Giant Panda is more closely related to bears as compared to lesser panda.\n   3. Lesser panda is primitive to giant panda but contemporary to raccoon.\n   4. Brown bear, giant panda and raccoon have a more recent common\n      ancestor as compared to the common ancestor of lesser panda and dog.\n   5. Dog is more distantly related to Brown bear than it is to spectacled bear.\n\n                                      40\n\n                  Spectacled     Giant    Lesser\n                  bear           panda             Raccoon\nBrown bear                                panda              Dog\n                                                                   0\n\n                                                                       X 106 yrs\n                                                                       ago\n\n                                                                    100\n                                               Ancestor\n\n             1.\n\n             2.\n\n             3.\n\n             4.\n\n             5.\n\n                  ********** END OF SECTION B ***********\n\n                                    41",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 1,
+     "question": "(1 point) Many molecules are chiral i.e. their mirror images are nonsuperimposable. Which of the following could be affected if the chirality of a molecule is changed in a biological system? I. Taste reception II. Smell perception III. Toxicity IV. Mode of action",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.2",
+     "points": 1,
+     "question": "(1 point) In order to increase the excitability of a patch of neuronal cell membrane:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.3",
+     "points": 1,
+     "question": "(1 point) The best exercise regimen to lose excess body fat is the one which:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.4",
+     "points": 1,
+     "question": "(1 point) Lips are more sensitive to temperature or touch than forearm skin. This is because of the:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.5",
+     "points": 1,
+     "question": "(1 point) A cell has a fixed number of adenine nucleotides. Each of these adenine nucleotides will be in monophosphate (AMP), diphosphate (ADP) or triphosphate (ATP) form. Adenine nucleotides are constantly interconverted from one form to another due to the metabolic activities of the cell as shown below: One of the key enzymes in this interconversion is adenylate kinase which catalyzes the following reaction: ATP + AMP ⇄ 2ADP Of the three forms, hydrolysis of only the triphosphate form (i.e., ATP) results in energy that can be used to perform “work” by the cells. Which one of the following ratios best describes the energy potentially available to a cell? ATP a. ATP  1 ADP 2 b. ATP  ADP c. 2 ATP  2ADP d.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.6",
+     "points": 1,
+     "question": "(1 point) There are various types of ATPase pumps found in different types of cells. Of these, F-type ATPases, also known as ATP synthases, drive ATP synthesis. They are found in all of the following EXCEPT:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.7",
+     "points": 1,
+     "question": "(1 point) Lignin is a secondary metabolite found in plants. Which of the following statement/s about this biomolecule is/are true? I. It is the most abundant organic compound on the earth. II. In many plants, lignin is sequestered in vacuoles in order to protect other compounds of the cell. III. It waterproofs the cell wall and helps in transportation of water in terrestrial plants. IV. Lignin is structurally very similar to tannins and like tannins, it is also an important deterrent to herbivores.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.8",
+     "points": 1,
+     "question": "(1 point) Study the photosynthetic pathway given. A few statements are made about this pathway. Choose the appropriate one. 3 (P870)* -1.2 QA QB H+ UQ Proton flow Em (volts) H+ hυ Cyto C1 Cyto C2 +0.4 (P870)",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.9",
+     "points": 1,
+     "question": "(1 point) In an experiment, the stem of a tomato plant was wounded in such a way that portions of vascular bundles were removed. After the experiment, which of the following will delay the recovery of the wounded tissue the most by cutting off supply of cytokinins?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.10",
+     "points": 1,
+     "question": "(1 point) Several experiments have been done to find how the ions enter the mature vessels or tracheids of xylem. In one study, it was found that cells of pea (Pisum sativum) roots had K+ ion concentration 75 times greater than that of the nutrient solution. In another study, it was found that the rate of 4 phosphate absorption gradually reached zero over 4 days of continuous darkness. Which of the following can be deduced from these experiments?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.11",
+     "points": 1,
+     "question": "(1 point) Ectomycorrhiza – a symbiotic association between plant roots and fungi is important in obtaining phosphorus and other nutrients for the plant. Which of the following points characterize the relationship? 1. Penetration of host cell by fungal hyphae. 2. Creation of a vast network of hyphae to absorb nutrients. 3. Change in soil pH. 4. Movement of organic carbon to fungi.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.12",
+     "points": 1,
+     "question": "(1 point) What would be the water potential (Ψw), solute potential (Ψs) and pressure potential (Ψp) at equilibrium when a cell with Ψs= – 0.7 MPa and Ψp= 0.7 MPa is placed in a solution with Ψs= – 0.5 MPa?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.13",
+     "points": 1,
+     "question": "(1 point) Heterospory is evolutionarily advanced feature over homosporous condition which first appeared in pteridophytes. Which of the following cycles correctly describes this feature in ferns? b. Microgametophyte",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.14",
+     "points": 1,
+     "question": "(1 point) In a laboratory experiment, with a particular pteridophyte, a normal diploid sporophytic plant was grown in a poor nutrient medium without sucrose. The gametophyte obtained was grown in a normal nutrient medium. Some sporophytes obtained from such gametophytes were later observed to be tetraploids. What may be the possible reason for this? 6",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.15",
+     "points": 1,
+     "question": "(1 point) Capsules/sporangia of sporophytes of some bryophytes and pteridophytes produce elaters (kind of sterile cells) in addition to the spores. What may be the probable major role played by them?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.16",
+     "points": 1,
+     "question": "(1 point) Cytokinins influence the movement of nutrients into leaves from other parts of the plant. This phenomenon is known as cytokinin-induced nutrient mobilization. In an experiment with cucumber seedlings, the left cotyledon of a seedling A and right of seedling B were treated with 50 mM kinetin. The [14C] amino iso-butyric acid (AIBA) was injected into the right cotyledon of each of these seedlings. AIBA injected AIBA injected Seedling A Seedling B 7 After a few hours the seedlings were subjected to autoradiography. What would be the results? a. Seedling A Seedling B b. Seedling A Seedling B c. Seedling A Seedling B d. Seedling A Seedling B",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.17",
+     "points": 1,
+     "question": "(1 point) Poonam noticed a total of 64 setae in 4 bunches in each segment of an annelid ‘X’ and 85 setae in a single ring in certain segments of the body of annelid ‘Y’. She should classify ‘X’ and ‘Y’ as:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.18",
+     "points": 1,
+     "question": "(1 point) A blind cave fish can detect the approach of another aquatic inhabitant predominantly by:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.19",
+     "points": 1,
+     "question": "(1 point) When treated with proteases, the extract of which of the endocrine glands would lose its hormonal influence?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.20",
+     "points": 1,
+     "question": "(1 point) If the stroke volume of heart increases with the total volume of blood remaining the same, the heart beats per minute will:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.21",
+     "points": 1,
+     "question": "(1 point) In a women suspecting pregnancy, blood analysis showed low levels of human chorionic gonadotropin (hCG), considerably high progesterone and very high levels of estrogen. This is indicative of:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.22",
+     "points": 1,
+     "question": "(1 point) When concentrations of O2 and CO2 were measured in an isolated tidal pool on a rocky shore, the following data pattern was obtained. (Broken lines indicate values for open sea.) Graph I P Q R 6 am 2 pm 10 pm Graph II 6 am 2 pm 10 pm Mark the correct interpretation.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.23",
+     "points": 1,
+     "question": "(1 point) A common eel (Anguilla vulgaris) is able to crawl considerable distances over land and cross from one water body to another. When total oxygen consumption of this fish was measured as against the individual contribution from gills and skin under three different conditions (I, II and III), the following graph is obtained. 10 I II III O2 consumption ml/h Total O2 consumption O2 consumption by skin O2 consumption by gills time Conditions I, II and III most likely are:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.24",
+     "points": 1,
+     "question": "(1 point) The schematic representation of a circulatory system of a scorpion is shown below. Heart Ostia Arteries Pericardial sinus Peri-vascular spaces Book lungs Mark the correct interpretation: a. The schematic represents a closed vascular system. b. The heart receives only oxygenated blood. c. Body parts receive oxygenated and de-oxygenated i.e. mixed type of blood. d. The schematic is erroneous as it indicates that pericardial sinus receives de-oxygenated blood. 11",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.25",
+     "points": 1,
+     "question": "(1 point) An antibiotic was found to be very effective in a mammal. A veterinary student used the same dose for a reptile with a similar body weight and injected it into its hind limb. Even after repeated trials, it was found to be totally ineffective. What could be the most probable reason?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.26",
+     "points": 1,
+     "question": "(1 point) If a gene exists in multiple copies, then the most likely outcome would be that:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.27",
+     "points": 1,
+     "question": "(1 point) A chromosome appears as shown below when the metaphase chromosome plate is observed under a microscope. This chromosome is:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.28",
+     "points": 1,
+     "question": "(1 point) An organism uses 20 amino acids while its DNA is made up of 6 types of nitrogenous bases. What would be the minimum size of a codon?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.29",
+     "points": 1,
+     "question": "(1 point) Study the following pedigree. The trait it represents is most likely to be: Unaffected male Affected male Unaffected female Affected female",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.30",
+     "points": 1,
+     "question": "(1 point) The malarial parasite Plasmodium azurophilum differentially infects two lizard species found in the Caribbean, Anolis gingivinius and Anolis wattsi. These lizards are found coexisting only when the parasite is present. Under which of the following conditions would this be possible? 13",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.31",
+     "points": 1,
+     "question": "(1 point) While preparing a climograph for major types of biomes, a student prepared the following diagram. Find the correct combination of biomes and their respective characteristics shown in the diagram below. 500 Annual Mean Precipitation (cm) E 300 D B 100 A C -15 0 15 30 Annual Mean Temperature (°C) i. Tropical forest ii. Desert iii. Coniferous forests iv. Temperate broadleaved forest v. Alpine and arctic tundra",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.32",
+     "points": 1,
+     "question": "(1 point) An ecologist selected a few plants from different biomes. The following table shows the characteristics of the region from which the plants were collected. Identify the biome to which the plants belong. Plant Type Associated animals Precipitation Global Specimen Pattern Distribution X Tree Migratory birds, Seasonal Restricted to the mostly mammals, northern insects Hemisphere Y Herb Ambhibians, reptiles, Almost Equatorial and mammals, birds, constant subequatorial arthropods regions Z Shrub Mostly snakes, Highly Near the 30°N lizards, scorpions, variable and 30°S beetles, rodents latitudes",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.33",
+     "points": 1,
+     "question": "(1 point) An artificial tank with a capacity of 15 kiloliters was used to study the changes in the number of phytoplanktons during a 10 month study. The following are the observations obtained from the study. (Ecological density is calculated using the space available for a species to occupy). Month Amount of water Total no. of capacity present phytoplanktons (%) (105) September 100 30 November 80 33 January 60 36 March 20 18 Based on the above data which of the following statements would be true? I. The month of January would have the highest crude density. II. The month of March would have the highest ecological density. 15 III. The highest amount of phytoplanktons is present in the month of January. IV. The lowest ecological density is present in the month of November",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.34",
+     "points": 1,
+     "question": "(1 point) The following table contains experimental data obtained on energy partitioning by caterpillars at a specific trophic level in a food chain. Particulars Amount of Energy (J) Plant material eaten 200 Given out as feces 100 Production of new biomass 35 Cellular respiration 65 Which of the following statements would be true for the above data? I. The trophic efficiency is higher than the production efficiency. II. The production efficiency is 35% III. The caterpillar would be at the third link in the food chain.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.35",
+     "points": 1,
+     "question": "(1 point) Tinbergen (1963) posed four distinct questions that may be addressed when examining a biological or psychological phenomenon. Some of these questions deal with the present (‘current’) and some with the past 16 (‘historical’). Again, some of these questions reflect more immediate (‘proximate’) concerns while others relate to evolutionary (‘ultimate’) issues. Mark the correct statement. The question ‘What function does birdsong serve?’ should be classified as:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.36",
+     "points": 1,
+     "question": "(1 point) Though earlier cnidarians and ctenophores were classified under Coelenterata, ctenophores are now considered to have evolved later in the course of evolution. Which of the following characteristics support this? i. True muscle cells ii. Ciliary locomotion iii. Presence of anal pores iv. Bioluminescence v. Retractable tentacles",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.37",
+     "points": 1,
+     "question": "(1 point) A student collected four plant specimen from the field. Following are the characteristics of these plants. Plant A had microspores and megaspores in special structures and showed presence of seeds. Plant B was dorsiventrally flat with presence of gametophytic structures. Plant C bore microspores and megaspores in structures present on the leaves. 17 Plant D showed microspores and megaspores within specialized colourful structures. What would be the correct classification of these plants?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.38",
+     "points": 1,
+     "question": "(1 point) In the following scheme, three domain classification key with one representative example on each domain is shown. A, B and C respectively are: A B C Cyanobacteria Halophiles Ciliates",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.39",
+     "points": 1,
+     "question": "(2 points) In a particular strain of E. coli, it was observed that DNA polymerase could add nucleotides to a growing chain of DNA at the rate of 600 per second. If the genome of this organism is 1.1mm long wherein a base pair occupies 0.34 nm, then how much time (in minutes) would be required for the complete replication of the chromosomal DNA molecule? (Report the closest integer value.) Answer: ________________minutes",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.40",
+     "points": 1,
+     "question": "(2 points) A few statements about prokaryotic and eukaryotic cells are made. Fill in the table with tick marks (✔) in the appropriate places to indicate if these statements are true or false:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.41",
+     "points": 1,
+     "question": "(2+2 = 4 points) Hexokinase and glucokinase are two enzymes that catalyse the first step of glycolysis, namely, conversion of glucose to glucose-6phosphate. They vary in their distribution in various tissues and also show different Km values; 0.1mM for hexokinase and 10mM for glucokinase.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.42",
+     "points": 1,
+     "question": "(3+2 = 5 points) Three different mechanisms are involved in the movement of solutes across biological membranes. 1. Simple diffusion, 2. Facilitated diffusion and 3. Active transport.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.43",
+     "points": 1,
+     "question": "(2.5 points) Cystic fibrosis is a fatal disease caused by a genetic defect in the chloride transport protein. Complications of this disease are much severe in lungs where abnormally thick mucus accumulates and provides the site for bacterial multiplication. A few statements are listed below some of which relate 22 to the cellular events leading to the disease. Identify and arrange them in the correct order. I. Chloride ions are secreted from the cells lining the airway. II. Regulatory site of the chloride transport protein is mutated. III. Cell interior remains hyper-osmotic and prevents movement of water out of the cell. IV. Entry of chloride ions into the lumen of air passage is prevented resulting in the inhibition of Na+ transport into the lumen. V. Water flows into the lumen due to the osmotic pressure. VI. Mucus remains insufficiently hydrated. VII. Cyclic AMP dependent protein kinase cannot activate chloride transport protein. Answer:________________________",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.44",
+     "points": 1,
+     "question": "(2 points) Plant hormones are organic substances that play major role in plant growth. Hormones are synthesized and transported to different parts either by diffusion or via transport through vascular tissues. Among these, Indole Acetic Acid (IAA), a weak organic acid, shows a peculiar mechanism of transport via apoplast and symplast. The carrier proteins for this molecule are found to be present in the basal portions of the cell. From the figures given below, choose the one that depicts this pathway correctly and put a tick mark (✔) in the appropriate box. 23",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.45",
+     "points": 1,
+     "question": "(2 points) The volume of liquid moving in a column per second is proportional to the fourth power of the radius of the column, at a constant pressure. The 24 volume of a liquid moving in xylem of species of Ficus was found to be 4 X10 -7 ml/sec. What would be the amount of liquid moving per second in a xylem of Polyalthia species with a diameter half that of Ficus species? Answer: ____________ml/sec",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.46",
+     "points": 1,
+     "question": "(2 points) An experiment was set up to see the role of root cap in a plant species X. Plant A – root cap was kept intact and the plant was kept horizontal Plant B – root cap was removed and plant was kept horizontal Plant C – root cap was removed from one side and the plant was kept upright. Which of the following result will be observed? A B C a. A B C b. A B C c. d. A B C 25 Choose from the options and put a tick mark (✔) in the appropriate box. a. b. c. d.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.47",
+     "points": 1,
+     "question": "(2 points) A graph depicting the carbon dioxide assimilation at various intracellular partial pressures of CO2 is given below. Also a few statements regarding the CO2 assimilation in C3 and C4 plants have been made. Choose the correct statement and put a tick mark (✔) in the appropriate box. C4 60 plant CO2 assimilation (µmolm-2 s-1 ) 50 C3 plant 40 30 CO2 compensation points 20 10 20 40 60 80 Intracellular CO2 partial pressure, Ci (Pa) a. The CO2 compensation point in C3 plant reflects CO2 production because of photorespiration. b. The C3 plant does not exhibit increase in CO2 assimilation as intracellular CO2 concentration increases. c. The CO2 compensation point in C4 plants reflects high rate of CO 2 given out in light. 26 d. C4 plants are saturated at 15 Pa of CO2 depicting that increasing CO2 concentration does not change the rate of CO2 assimilation and they are less efficient photo synthetically than C3 plants. a. b. c. d.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.48",
+     "points": 1,
+     "question": "(2 points) Red Oak, Quercus rubra found in temperate region shows variation in size and shape of leaves from the top to the bottom of the tree. Upper canopy leaves are lobed, thick and small while lower bottom leaves are thin, large and less lobed. The reason/s for this morphological difference is/are: Lower canopy Upper canopy",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.49",
+     "points": 1,
+     "question": "(3.5 points) Arrange the following events involved in synaptic transmission in appropriate order. I. Ligand-gated channels in the post-synaptic membrane open. II. Nerve impulse arrives at the synaptic end bulb of pre-synaptic neuron. III. Postsynaptic membrane is depolarized. IV. Neurotransmitters are released into synaptic cleft. V. Voltage gated Ca2+ channels in the membrane of synaptic end bulb are activated allowing inward flow of Ca2+ VI. Neurotransmitters bind to receptors in the membrane of post synaptic neuron. VII. Depolarization of post-synaptic membrane reaches threshold triggering action potential. Answer: _____________________________",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.50",
+     "points": 1,
+     "question": "(2.5 points) Composition of various parts of the circulatory system in humans is depicted in the form of bar graphs. Assign appropriate part/structure against each composition. 28 A . B . C . D . E . Smooth muscle Elastic tissue Fibrous tissue Endothelium",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.51",
+     "points": 1,
+     "question": "(1.5 points) Structural and functional characteristics of specific animal groups are described in columns A, B and C. Characteristic A B C Reproduction External Internal Internal fertilization fertilization fertilization Predominant excretory product Ammonia Uric acid Urea Position of the nerve cord Dorsal Ventral Dorsal Respiratory pigment in circulation Intracellular Extracellular intracellular Column A represents: ___ Column B represents: ___ Column C represents: ___ Choose the appropriate animal group for each of the above from the following options and fill in the blanks with the corresponding numeral. 1. Birds 2. Mammals 3. Fish 4. Arthropods 5. Annelids 6. Reptiles",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.52",
+     "points": 1,
+     "question": "(3 points) Various functions and habitats of terrestrial animals are listed in column I while body characteristics adapted for these habitats are listed in column II. Match column I with column II and fill in the blanks with the appropriate numeral/s. 30 COLUMN I COLUMN II A) For digging burrows and for 1. Increase in limb length and leading subterranian life decrease in limb mass (C) B) For climbing and for leading 2. Tapering head with snout (A) arboreal life. C) For running on ground with 3. short and stout limb girdles (B) speed. 4. Rudimentary external ear. (A) 5. Prehensile tail (B) 6. Reduced eye sight (A) Answers: A: ______________ B: ______________ C: ______________",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.53",
+     "points": 1,
+     "question": "(2 points) Consider a population of 1000 squirrels. White patch on their forehead is a X-linked recessive trait. If 200 males and 80 females are found to have this patch on forehead, what is the frequency of this allele in the population? (Assume 1:1 sex ratio.) Answer: _____________________ 31 – – –",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.54",
+     "points": 1,
+     "question": "(2 points) A strain of E. coli denoted as met bio thr (strain I) indicates an auxotroph which can grow in a minimal media only when supplemented with – – methionine, biotin and threonine. Similarly, leu thi (strain II) indicates a strain that needs leucine and thiamine to be added to the minimal medium for growth. In an experiment, culture of strain I was collected, given a wash to remove nutrients and centrifuged to collect cells. These cells were plated on a minimal media and allowed to grow. No growth was obtained. Culture II was similarly treated and plated on another plate containing minimal culture media. No growth was obtained either. However, when the two cultures were mixed and plated on a fresh minimal media, a few colonies appeared. Now the two culture media were added to two arms of a U tube which was partitioned by a filter that would allow only liquids to pass through. After a few hours, when organisms in both the arms were plated separately on two minimal media, no growth was observed.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.55",
+     "points": 1,
+     "question": "(2 points) An imaginary operon (img) in E.coli contains several structural genes encoding enzymes for the biosynthesis of an amino acid M. The regulator gene (I) is located within the img operon, which encodes a regulator molecule. When the end product (amino acid) is present in excess amount, it binds to the regulator molecule. This complex then binds to the operator (O) sequence and stops further synthesis of the end product. The promoter (P) sequence is present between the I and the O. For the strains with the genotypes given below in the table, predict whether the final product of img operon will be synthesized or not. Indicate your answers by putting tick marks (✔) in the appropriate boxes in the table. 33 Genotype Presence of Synthesis No synthesis M in growth media i. i+p+o+ Excess ii. i-p+o+ Excess iii. i+p-o+ Absent iv. i+p+oExcess (+ sign indicates wild type allele and – indicates recessive mutant allele.)",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.56",
+     "points": 1,
+     "question": "(2.5 points) In order to build a longitudinal dataset, data of adult finches Geospiza fortis living on one of the Galapagos Islands were collected. The beak shape data collected between 1973 -2001 are shown in the graph. Pointed +0.05 0 Null hypothesis -0.05 Blunt 1970 1980 1990 2000 Year Fill in the table with tick marks (✔) in the appropriate places to indicate whether each statement is true or false: a. The fluctuating direction in the beak shape is most probably due to change in the environment. 34 b. The values of the beak shape that fall into the region of null hypothesis indicate that there is no evolutionary change in the beak shape. c. The graph as a whole does not indicate evolutionary change in beak shape as the time interval is too small and evolution requires thousands of years to occur. d. The graph indicates that the beak shape may lead to convergent evolution in the finches of Galapagos Islands. e. The change in any phenotypic character requires selection to alter the expression of large number of genes in coordinated fashion. Hence it is unlikely that change in the beak shape depicted in the graph is a result of evolution. a. b. c. d. e.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.57",
+     "points": 1,
+     "question": "(2 points) A female genotype, shown as abc / +++ produces 100 meiotic tetrads. Among these, 68 showed no cross over (NCO) events; 20 showed single crossover (SCO1) between a and b; 10 showed single crossover between b and c (SCO2) and 2 showed a double crossover (DCO) between a and b and between b and c. Of the 400 gametes produced, how many will be of the following types? Fill your answers in the table. 35 Genotypes Types No. of gametes produced A. +++ and abc NCO B. +bc and a++ SCO1 C. ab+ and ++c SCO2 D. a+c and +b+ DCO",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.58",
+     "points": 1,
+     "question": "(5 points) In common langurs, groups of adult males practice infanticide soon after they take over a new troop. Four hypotheses could be postulated to explain this behaviour. Hypothesis 1: It is a social pathological condition brought about by overcrowding. Hypothesis 2: It is a regulation mechanism to restrict population growth and hence, good for the group in the long run. Hypothesis 3: Cannibalising of infants serves to replenish the post-takeover low energy reserves of the males. Hypothesis 4: It is a Darwinian trait resulting from inter-male sexual competition for reproductive access to the new females. Decide and indicate with tick marks (✔) which of the four hypotheses would make the following predictions: (Note: Points will be given only if all answers in a row are correct.) 36",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.59",
+     "points": 1,
+     "question": "(3 points) In a study of a river ecosystem energy transfer is schematically shown in the diagram below ( All values are in kcal/m2/yr; H: herbivore, C: carnivore, TC: top carnivore) 37 4600 Respiration Solar radiation 1700000 Decomposers",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.60",
+     "points": 1,
+     "question": "(2 points) The diagram below shows the process of algal succession on an initially bare inter-tidal region over a two and half year period. Assume that no major external influence occurred during the study period. Fill in the table with 38",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.61",
+     "points": 1,
+     "question": "(3 points) A few population characteristics are listed below. Determine whether they belong to r - selected or K - selected populations and fill in the table with the corresponding alphabet.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.62",
+     "points": 1,
+     "question": "(2.5 points) A cladogram depicting the position of certain animals with respect to a common ancestor is given below. Study the cladogram and fill in the table with tick marks (✔) in the appropriate places to indicate whether each statement is true or false: 1. Lesser panda is closely related to the giant panda than raccoon. 2. Giant Panda is more closely related to bears as compared to lesser panda. 3. Lesser panda is primitive to giant panda but contemporary to raccoon. 4. Brown bear, giant panda and raccoon have a more recent common ancestor as compared to the common ancestor of lesser panda and dog. 5. Dog is more distantly related to Brown bear than it is to spectacled bear. 40 Spectacled Giant Lesser bear panda Raccoon",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    }
+   ],
+   "solution": "SECTION A: ANSWER SHEET\n              Q.                          Q.\n              No.     a   b       c   d   No.   a     b        c   d\n               1.                     ✔   20.   ✔\n\n              2.      ✔                   21.               ✔\n\n              3.          ✔               22.                      ✔\n\n              4.                      ✔   23.         ✔\n\n              5.          ✔               24.         ✔\n\n              6.                      ✔   25.                      ✔\n\n              7.                  ✔       26.         ✔\n\n              8.          ✔               27.                      ✔\n\n              9.      ✔                   28.                      ✔\n\n              10.     ✔                   29.         ✔\n\n              11.                     ✔   30.         ✔\n\n              12.         ✔               31.         ✔\n\n              13.                 ✔       32.               ✔\n\n              14.     ✔                   33.         ✔\n\n              15.     ✔                   34.         ✔\n\n              16.                     ✔   35.         ✔\n\n              17.                     ✔   36.         ✔\n\n              18.         ✔               37.               ✔\n\n              19.                 ✔       38.               ✔\n\n                                      Not\n                    X         Y       attempted\n      SECTION A                                     3X - Y =\n      SECTION B                                     3X =\n      Total score =\n\n                                          -1-\n\n                                 SECTION B: ANSWER SHEET\n\n    CELL BIOLOGY (15.5 points)\n\n    39. (2 points)\n\n          Answer: _______45_________minutes\n\n    40. (2 points)\n\n                     a.        ✔\n\n                     b.                    ✔\n\n                     c.                    ✔\n\n                     d.                    ✔\n\n    41. (2+2 = 4 points)\n\n    (A)\n\n                     Statement Consistent Not Consistent\n                          I       ✔\n\n                           II\n                                       ✔\n                           III                    ✔\n                           IV\n                                       ✔\n\n                                           -2-\n\n    (B)\n\n                     Graph Glucokinase Hexokinase\n                       I                   ✔\n                        II                          ✔\n\n                        III                         ✔\n                        IV          ✔\n\n          42. (3+2 = 5 points)\n\n          (A)\n\n                No. Property                      Simple      Facilitated   Active\n                                                  Diffusion   Diffusion     Transport\n                1.   Transport    along     the         ✔         ✔             X\n                     concentration gradient\n\n                2.   Metabolic energy                   X         X            ✔\n                     required\n\n                3.   Direction of transport can         ✔         ✔            X\n                     switch from one side of\n                     the membrane to the\n                     other\n\n                4.   Membrane protein/carrier           X         ✔            ✔\n                     required\n\n                5.   Saturation kinetics                X         ✔            ✔\n                     observed\n\n                6.   Competitive inhibition             X         ✔            ✔\n                     observed\n\n                                              -3-\n\n   (B)\n              Solute           Simple                 Facilitated        Active\n                              Diffusion               Diffusion         Transport\n            H2O           ✔                    ✔                    X\n\n            Steroid       ✔                    X                    X\n\n            Ca++          X                    ✔                    ✔\n\n            Glucose       X                    ✔                    ✔\n\n   43. (2.5 points)\n\n         Answer:    II  VII  IV  III  VI\n\nPLANT SCIENCES (10 points)\n\n   44. (2 points)\n\n                              a.      b.         c.       d.\n\n                              ✔\n\n   45. (2 points)\n\n         Answer:    2.5 x 10 – 8 ml/sec or 10-7 / 4 ml/sec\n\n   46. (2 points)\n\n                              a.      b.         c.       d.\n\n                              ✔\n\n                                           -4-\n\n       47. (2 points)\n\n                                a.       b.         c.     d.\n\n                                ✔\n\n       48. (2 points)\n\n                                a.       b.         c.     d.   e.\n\n                                                  ✔        ✔\n\n    ANIMAL SCIENCES (10.5 points)\n\n       49. (3.5 points)\n\n          Answer:       ii  v  iv  vi  i  iii  vii\n\n       50. (2.5 points)\n          Answers:\n          A represents ____ 3\n\n          B represents ____ 5\n\n          C represents ____ 1\n\n          D represents ____ 4\n\n          E represents ____ 2\n\n                                              -5-\n\n     51. (1.5 points)\n\n        Column A represents: ___ 3\n\n        Column B represents: ___ 4\n\n        Column C represents: ___ 2\n\n     52. (3 points)\n\n        Answers:\n        A: ______________ 2, 4 and 6\n\n        B: ______________ 3 and 5\n\n        C: ______________ 1\n\n     GENETICS & EVOLUTION (10.5 points)\n\n     53. (2 points)\n\n        Answer: __________0.4___________\n\n     54. (2 points)\n\n                  a.    b.     c.       d.\n\n                               ✔\n\n                                       -6-\n\n     55. (2 points)\n\n                                Genotype   Presence of   Synthesis   No synthesis\n                                           M in growth\n                                              media\n            i.               i+p+o+          Excess                       ✔\n\n            ii.              i-p+o+             Excess      ✔\n\n            iii.             i+p-o+             Absent                    ✔\n\n            iv.              i+p+o-             Excess      ✔\n\n     56. (2.5 points)\n\n                        a.            ✔\n\n                        b.            ✔\n\n                        c.                  ✔\n\n                        d.                  ✔\n\n                        e.                  ✔\n\n                                           -7-\n\n        57. (2 points)\n                         Genotypes     Types No.    of\n                                             gametes\n                                             produced\n                   A.    +++ and abc   NCO      336\n\n                   B.    +bc and a++   SCO1      40\n\n                   C.    ab+ and ++c   SCO2      20\n\n                   D.    a+c and +b+   DCO        4\n\n        ETHOLOGY (5 points)\n\n        58. (5 points)\n\n         Predictions                     Hypothesis Hypothesis Hypothesis Hypothesis\n                                             1          2          3          4\n         Infanticides will occur shortly                                      ✔\n         after takeover and end when\n         the infants of the males that\n         have taken over are born\n         Infanticides should occur at        ✔          ✔\n         high population densities\n         Females should become                                                ✔\n         sexually receptive again\n         after the new males have\n         taken over\n         Infanticides will occur shortly                           ✔\n         after takeover and end when\n         the males have recovered\n         from their energy deficits\n         Reverse      infanticide    by                                       ✔\n         females should be observed\n         for preferential access to\n         males which exhibit parental\n         care\n\n                                       -8-\n\n     ECOLOGY (8 points)\n\n     59. (3 points)\n\n     a. __1.2____% (upto one decimal place only)\n\n     b. __16.7_____ % (upto one decimal place only)\n\n     c. __43.8 or 43.9____ % (upto one decimal place only)\n\n     d. _____18787________\n\n     60. (2 points)\n\n                      I.          ✔\n\n                      II.               ✔\n\n                      III.              ✔\n\n                      IV.         ✔\n\n     61. (3 points)\n\n                  r- selected           K – selected\n                  populations           populations\n                              A                   B\n\n                             C                     E\n\n                             D                     F\n\n                                      -9-\n\n      BIOSYSTEMATICS (2.5 points)\n\n      62. (2.5 points)\n\n                         1.                  ✔\n\n                         2.           ✔\n\n                         3.           ✔\n\n                         4.           ✔\n\n                         5.                  ✔\n\n                         ********** END OF SECTION B ***********\n\n                                           - 10 -"
+  }
+ ]
+}

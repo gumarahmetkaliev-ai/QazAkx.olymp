@@ -1,0 +1,1997 @@
+{
+ "setId": "bio-usaboopen-2007--bio-tasks",
+ "olympiadId": "bio-usaboopen-2007",
+ "title": "Биология → USABO — Open → 2007",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/usaboopen/2007/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/usaboopen/2007/bio-sol.pdf",
+ "generatedBy": "test-parser",
+ "type": "test",
+ "generatedAt": "2026-11-09T13:45:12.717Z",
+ "quality": {
+  "tasks": 5,
+  "parts": 50,
+  "withPoints": 50,
+  "withReference": 50,
+  "withQuestion": 50,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Тест: вопросы 1–10",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q1",
+     "kind": "choice",
+     "points": 1,
+     "question": "1. The production of the genetically engineered “golden rice” could be important to people of developing nations, especially in South-East Asia, because:",
+     "options": [
+      {
+       "key": "A",
+       "text": "people are more likely to consume yellow grains than white."
+      },
+      {
+       "key": "B",
+       "text": "golden rice is less expensive to grow and harvest than white rice."
+      },
+      {
+       "key": "C",
+       "text": "golden rice has been engineered to be resistant to most commercially available herbicides."
+      },
+      {
+       "key": "D",
+       "text": "golden rice has been engineered to contain higher concentrations of β-carotene than white rice."
+      },
+      {
+       "key": "E",
+       "text": "golden rice has been engineered to produce biodegradable plastics."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q2",
+     "kind": "choice",
+     "points": 1,
+     "question": "2. A large population of laboratory rats was allowed to breed randomly for a number of generations. In this population, agouti fur is encoded by the A allele and is dominant to the black fur trait encoded by the a allele. At the beginning of the breeding cycles, 49% of the rats had black fur. At the end of the breeding cycles, this percentage was the same. The rest of the animals had agouti fur. The heterozygotes with agouti fur were indistinguishable from homozygotes with agouti fur. What percentage of this population is probably heterozygous for the fur color trait assuming the rats are following Hardy-Weinberg population genetics?",
+     "options": [
+      {
+       "key": "A",
+       "text": "7%"
+      },
+      {
+       "key": "B",
+       "text": "30%"
+      },
+      {
+       "key": "C",
+       "text": "42%"
+      },
+      {
+       "key": "D",
+       "text": "49%"
+      },
+      {
+       "key": "E",
+       "text": "70%"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-popgen",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q3",
+     "kind": "choice",
+     "points": 1,
+     "question": "3. An individual suffers brain damage that results in respiratory failure. Which region of the brain was most likely damaged?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Substantia nigra"
+      },
+      {
+       "key": "B",
+       "text": "Pons"
+      },
+      {
+       "key": "C",
+       "text": "Red nucleus"
+      },
+      {
+       "key": "D",
+       "text": "Superior colliculus"
+      },
+      {
+       "key": "E",
+       "text": "Reticular formation"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q4",
+     "kind": "choice",
+     "points": 1,
+     "question": "4. To keep their dog breeds \"pure,\" breeders will keep dogs of different breeds in physically separate areas when the female is in heat. This aspect of artificial selection is most closely analogous to which of the following reproductive isolating mechanisms?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Mechanical isolation"
+      },
+      {
+       "key": "B",
+       "text": "Gametic isolation"
+      },
+      {
+       "key": "C",
+       "text": "Cooperative breeding"
+      },
+      {
+       "key": "D",
+       "text": "Ecological isolation"
+      },
+      {
+       "key": "E",
+       "text": "Hybrid breakdown"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-development",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q5",
+     "kind": "choice",
+     "points": 1,
+     "question": "5. A man and a woman get married and soon learn that they both have a rare, genetically inherited recessive disorder that makes them prone to dizziness. Worried about the fate of their children, they seek the advice of a genetic counselor. She sequences their genomes and assures them that none of their children will have the disorder. What information would she have to obtain from the sequencing procedure that allows her to make this claim?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The dizziness phenotype in the man is due to a mutation in a gene other than the gene responsible for the woman’s phenotype."
+      },
+      {
+       "key": "B",
+       "text": "The dizziness disorder is an autosomal recessive trait."
+      },
+      {
+       "key": "C",
+       "text": "The man and the woman are related genetically causing the same dizziness phenotype."
+      },
+      {
+       "key": "D",
+       "text": "The dizziness disorder is linked to the sex chromosomes."
+      },
+      {
+       "key": "E",
+       "text": "It is impossible for the man and the woman to have unaffected children - the genetic counselor is wrong. 1"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q6",
+     "kind": "choice",
+     "points": 1,
+     "question": "6. An animal experiences an acid-base imbalance in the arterial blood that results in acidosis. To increase pH toward normal, which direction would the ventilation rate be changed and what would be the corresponding change in arterial PCO2?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Ventilation rate increases, arterial PCO2 increases"
+      },
+      {
+       "key": "B",
+       "text": "Ventilation rate increases, arterial PCO2 decreases"
+      },
+      {
+       "key": "C",
+       "text": "Ventilation rate decreases, arterial PCO2 increases"
+      },
+      {
+       "key": "D",
+       "text": "Ventilation rate decreases, arterial PCO2 decreases"
+      },
+      {
+       "key": "E",
+       "text": "None of the above"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q7",
+     "kind": "choice",
+     "points": 1,
+     "question": "7. A valid taxonomic group for the cladogram shown above would include:",
+     "options": [
+      {
+       "key": "A",
+       "text": "Tamarin + Squirrel"
+      },
+      {
+       "key": "B",
+       "text": "Tamarin + Squirrel + Howler"
+      },
+      {
+       "key": "C",
+       "text": "Squirrel + Howler + Wooly"
+      },
+      {
+       "key": "D",
+       "text": "Wooly + Spider + Howler"
+      },
+      {
+       "key": "E",
+       "text": "all are valid groups"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q8",
+     "kind": "choice",
+     "points": 1,
+     "question": "8. Plants, animals and a quantity of air were sealed into a large glass bottle to comprise a balanced aquarium. After three months, the plants and animals in the aquarium appear to be alive and healthy. Which of the following statements is scientifically UNACCEPTABLE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "No energy has entered the bottle from the outside."
+      },
+      {
+       "key": "B",
+       "text": "Potential energy in one organism has entered another organism."
+      },
+      {
+       "key": "C",
+       "text": "Some atoms from water molecules have become part of organic compounds."
+      },
+      {
+       "key": "D",
+       "text": "The air above the water contains CO2."
+      },
+      {
+       "key": "E",
+       "text": "During the three months, the average biomass of plant matter was greater than the average biomass of animal matter."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q9",
+     "kind": "choice",
+     "points": 1,
+     "question": "9. Convergent evolution produces ________.",
+     "options": [
+      {
+       "key": "A",
+       "text": "analogous structures"
+      },
+      {
+       "key": "B",
+       "text": "homologous structures"
+      },
+      {
+       "key": "C",
+       "text": "divergent structures"
+      },
+      {
+       "key": "D",
+       "text": "both A and C"
+      },
+      {
+       "key": "E",
+       "text": "both B and C"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q10",
+     "kind": "choice",
+     "points": 1,
+     "question": "10. A lichen is composed of a fungus and a protobiont. The protobiont is most likely to be a:",
+     "options": [
+      {
+       "key": "A",
+       "text": "green or red algae."
+      },
+      {
+       "key": "B",
+       "text": "sponge."
+      },
+      {
+       "key": "C",
+       "text": "green alga or a cyanobacterium."
+      },
+      {
+       "key": "D",
+       "text": "bryophyte or brown algae."
+      },
+      {
+       "key": "E",
+       "text": "moss or a cyanobacterium. 2"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: C"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Тест: вопросы 11–20",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q11",
+     "kind": "choice",
+     "points": 1,
+     "question": "11. The strongest evidence for the endosymbiotic origin of animal organelles is the similarity between:",
+     "options": [
+      {
+       "key": "A",
+       "text": "eukaryotic and prokaryotic ribosomes."
+      },
+      {
+       "key": "B",
+       "text": "prokaryotic and eukaryotic flagella."
+      },
+      {
+       "key": "C",
+       "text": "prokaryotic and eukaryotic cell walls."
+      },
+      {
+       "key": "D",
+       "text": "some prokaryotes and mitochondria."
+      },
+      {
+       "key": "E",
+       "text": "some prokaryotes and ribosomes."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q12",
+     "kind": "choice",
+     "points": 1,
+     "question": "12. The military attempts to convince soldiers that they are part of a \"brotherhood,\" which increases the likelihood that they will protect and die for each other. In doing so the military is metaphorically—consciously or unconsciously—considering genes that were adaptive in our ancestors in relation to:",
+     "options": [
+      {
+       "key": "A",
+       "text": "individual selection."
+      },
+      {
+       "key": "B",
+       "text": "kin selection."
+      },
+      {
+       "key": "C",
+       "text": "neoteny."
+      },
+      {
+       "key": "D",
+       "text": "inclusive selection."
+      },
+      {
+       "key": "E",
+       "text": "heterochrony."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q13",
+     "kind": "choice",
+     "points": 1,
+     "question": "13. A red pigment is extracted from a marine alga. Which best supports the hypothesis that the pigment is involved in photosynthesis? The red pigment:",
+     "options": [
+      {
+       "key": "A",
+       "text": "has an absorption spectrum similar to that of chlorophyll."
+      },
+      {
+       "key": "B",
+       "text": "is also found in land plants together with a variety of other pigments and specific enzymes that are related to the action spectrum for photosynthesis."
+      },
+      {
+       "key": "C",
+       "text": "has a molecular structure similar to that of chlorophyll."
+      },
+      {
+       "key": "D",
+       "text": "contains iron which is a transition element similar to magnesium."
+      },
+      {
+       "key": "E",
+       "text": "has an absorption spectrum similar to the photosynthetic action spectrum for that same marine alga."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q14",
+     "kind": "choice",
+     "points": 1,
+     "question": "14. Given the following pedigree: Ignoring mutation and assuming complete penetrance, what is (are) the possible mode(s) of inheritance? I. Autosomal dominant II. Autosomal recessive III. X-linked dominant IV. X-linked recessive",
+     "options": [
+      {
+       "key": "A",
+       "text": "II only"
+      },
+      {
+       "key": "B",
+       "text": "I or III only"
+      },
+      {
+       "key": "C",
+       "text": "II or IV only"
+      },
+      {
+       "key": "D",
+       "text": "All four modes of inheritance (I, II, III and IV)"
+      },
+      {
+       "key": "E",
+       "text": "None of the above 3"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q15",
+     "kind": "choice",
+     "points": 1,
+     "question": "15. Group hunting can favorably influence the ability of an animal to obtain different food resources and the likelihood of a capture as a result of:",
+     "options": [
+      {
+       "key": "A",
+       "text": "decreased chance of catching prey."
+      },
+      {
+       "key": "B",
+       "text": "decreased success when competing with other species."
+      },
+      {
+       "key": "C",
+       "text": "increased chance of capturing larger prey."
+      },
+      {
+       "key": "D",
+       "text": "increased chance of active defense by prey."
+      },
+      {
+       "key": "E",
+       "text": "all of the above."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q16",
+     "kind": "choice",
+     "points": 1,
+     "question": "16. A strain of bacteria living in a hospital is found to have a plasmid containing two genes: one for sex pilus construction, and one for tetracycline resistance. If these bacteria were to undergo conjugation with bacteria lacking this plasmid, and thereby transferred the plasmid to the other bacteria, the most likely result would be:",
+     "options": [
+      {
+       "key": "A",
+       "text": "a genetically identical clone of bacteria containing the same plasmid."
+      },
+      {
+       "key": "B",
+       "text": "a possible spread of tetracycline resistance to other bacteria in the hospital."
+      },
+      {
+       "key": "C",
+       "text": "the subsequent loss of tetracycline resistance in the initially resistant strain."
+      },
+      {
+       "key": "D",
+       "text": "production of endospores in the bacterial progeny."
+      },
+      {
+       "key": "E",
+       "text": "temporary tetraploidy of the conjugating bacteria."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-gene-regulation",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q17",
+     "kind": "choice",
+     "points": 1,
+     "question": "17. Which of the following would act as an \"uncoupler\" of electron transport and ATP synthesis in the mitochondrion?",
+     "options": [
+      {
+       "key": "A",
+       "text": "NH4Cl"
+      },
+      {
+       "key": "B",
+       "text": "Urea"
+      },
+      {
+       "key": "C",
+       "text": "The F0 base piece of the ATP synthase (without the F1 subunit)"
+      },
+      {
+       "key": "D",
+       "text": "All of the above"
+      },
+      {
+       "key": "E",
+       "text": "A and C only"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q18",
+     "kind": "choice",
+     "points": 1,
+     "question": "18. A comparison of the energy expenditures in their native habitats (kcal/kg/day) for a penguin and for a python (assuming they are of equal size) would show that:",
+     "options": [
+      {
+       "key": "A",
+       "text": "the energy expenditure of the penguin is greater than that for the python."
+      },
+      {
+       "key": "B",
+       "text": "the energy expenditure of the penguin is less than that for the python."
+      },
+      {
+       "key": "C",
+       "text": "the energy expenditure of the penguin is equal to that for the python."
+      },
+      {
+       "key": "D",
+       "text": "the comparison is meaningless because they are not the same type of animal."
+      },
+      {
+       "key": "E",
+       "text": "the comparison is meaningless because the energy expenditure cannot be calculated."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q19",
+     "kind": "choice",
+     "points": 1,
+     "question": "19. What is the probability of obtaining offspring with the AAbbCCdd genotype from parents with the genotypes AaBbCcDd and AABbCcDd (assume independent assortment of all gene pairs)?",
+     "options": [
+      {
+       "key": "A",
+       "text": "1/64"
+      },
+      {
+       "key": "B",
+       "text": "1/128"
+      },
+      {
+       "key": "C",
+       "text": "3/128"
+      },
+      {
+       "key": "D",
+       "text": "9/256"
+      },
+      {
+       "key": "E",
+       "text": "none of the above"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q20",
+     "kind": "choice",
+     "points": 1,
+     "question": "20. Which of the following are characteristics of both bacteria and fungi?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Cell wall, unicellularity, and mitochondria"
+      },
+      {
+       "key": "B",
+       "text": "Cell wall, DNA, and plasma membrane"
+      },
+      {
+       "key": "C",
+       "text": "Nucleus, organelles, and unicellularity"
+      },
+      {
+       "key": "D",
+       "text": "Plasma membrane, multicellularity, and Golgi apparatus"
+      },
+      {
+       "key": "E",
+       "text": "Nucleus, RNA, and cell wall 4"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Тест: вопросы 21–30",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q21",
+     "kind": "choice",
+     "points": 1,
+     "question": "21. Terminally differentiated cells are most often found in which phase of the cell cycle?",
+     "options": [
+      {
+       "key": "A",
+       "text": "G0"
+      },
+      {
+       "key": "B",
+       "text": "G1"
+      },
+      {
+       "key": "C",
+       "text": "G2"
+      },
+      {
+       "key": "D",
+       "text": "M"
+      },
+      {
+       "key": "E",
+       "text": "S"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-cell-cycle",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q22",
+     "kind": "choice",
+     "points": 1,
+     "question": "22. After 12 weeks of gestation the principal source of estrogen and progesterone to a human fetus is the:",
+     "options": [
+      {
+       "key": "A",
+       "text": "ovarian follicle."
+      },
+      {
+       "key": "B",
+       "text": "corpus luteum."
+      },
+      {
+       "key": "C",
+       "text": "placenta."
+      },
+      {
+       "key": "D",
+       "text": "anterior pituitary."
+      },
+      {
+       "key": "E",
+       "text": "posterior pituitary."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q23",
+     "kind": "choice",
+     "points": 1,
+     "question": "23. A mutation in the gene encoding cyclin D:",
+     "options": [
+      {
+       "key": "A",
+       "text": "may result in the production of a mutated protein."
+      },
+      {
+       "key": "B",
+       "text": "may result in the production of a non-mutated protein."
+      },
+      {
+       "key": "C",
+       "text": "may prevent transcription of the cyclin D gene."
+      },
+      {
+       "key": "D",
+       "text": "A and B only."
+      },
+      {
+       "key": "E",
+       "text": "A, B or C."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q24",
+     "kind": "choice",
+     "points": 1,
+     "question": "24. A new ultramicroscopic (0.01 μm long) cell organelle is reported by an electron microscopist. Another biologist challenges the report and claims the organelle is an artifact formed by deposit of the chemical compounds used in preparation of the material for ultramicroscopic viewing. Which of the following procedures would provide the best test of this hypothesis?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Analyze the cells chemically to see if they contain the chemical compound in question."
+      },
+      {
+       "key": "B",
+       "text": "Look at living cells with a light microscope."
+      },
+      {
+       "key": "C",
+       "text": "Look in the literature to see if others have reported the organelle."
+      },
+      {
+       "key": "D",
+       "text": "Use a different electron microscope preparation procedure on cells from the same species and see if the structure is still present."
+      },
+      {
+       "key": "E",
+       "text": "Use the original procedure on cells of different species and see if they also have the organelle."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-cell",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q25",
+     "kind": "choice",
+     "points": 1,
+     "question": "25. A particular compound microscope, with the 43x objective in position, has a diameter of the field of view of approximately 0.31 mm and an area of approximately 0.1 mm2. The diameter of the field of view is inversely proportional to the magnification of the objective. Counting left to right one observes 15 rectangular onion epidermal cells across the field of view with the 43x objective in place. Counting from top to bottom it can be observed that four cells span the diameter of the field. Using the 43x objective, one sees an average of 12 stomates per field of view. What is the best estimate of the density of stomates per sq mm of epidermal surface?",
+     "options": [
+      {
+       "key": "A",
+       "text": "12"
+      },
+      {
+       "key": "B",
+       "text": "15"
+      },
+      {
+       "key": "C",
+       "text": "36"
+      },
+      {
+       "key": "D",
+       "text": "120"
+      },
+      {
+       "key": "E",
+       "text": "150"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q26",
+     "kind": "choice",
+     "points": 1,
+     "question": "26. Fat enters the venous system from the digestive system via the:",
+     "options": [
+      {
+       "key": "A",
+       "text": "hepatic artery."
+      },
+      {
+       "key": "B",
+       "text": "hepatic vein."
+      },
+      {
+       "key": "C",
+       "text": "thoracic duct."
+      },
+      {
+       "key": "D",
+       "text": "epithelial cells lining the duodenum."
+      },
+      {
+       "key": "E",
+       "text": "hepatic portal system. 5"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q27",
+     "kind": "choice",
+     "points": 1,
+     "question": "27. Injuries to the prefrontal cortex probably would cause problems related to:",
+     "options": [
+      {
+       "key": "A",
+       "text": "loss of long-term memory."
+      },
+      {
+       "key": "B",
+       "text": "weight loss."
+      },
+      {
+       "key": "C",
+       "text": "hearing loss."
+      },
+      {
+       "key": "D",
+       "text": "dehydration."
+      },
+      {
+       "key": "E",
+       "text": "impaired judgment, sequencing, initiative."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q28",
+     "kind": "choice",
+     "points": 1,
+     "question": "28. An individual produces excess cortisol. What would be the effect of this condition on the immune system?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Stimulates the immune system"
+      },
+      {
+       "key": "B",
+       "text": "Stimulates or depresses the immune system depending on blood pH"
+      },
+      {
+       "key": "C",
+       "text": "Depresses the immune system"
+      },
+      {
+       "key": "D",
+       "text": "Enhances B cell activity"
+      },
+      {
+       "key": "E",
+       "text": "No effect"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q29",
+     "kind": "choice",
+     "points": 1,
+     "question": "29. Water is transported in plants by a variety of means. However, transport over long distances is primarily the result of:",
+     "options": [
+      {
+       "key": "A",
+       "text": "root pressure."
+      },
+      {
+       "key": "B",
+       "text": "transpiration."
+      },
+      {
+       "key": "C",
+       "text": "active transport of water from xylem vessels into leaf cells."
+      },
+      {
+       "key": "D",
+       "text": "higher water potential in leaf cells as compared to root cells."
+      },
+      {
+       "key": "E",
+       "text": "active transport of water into xylem vessels."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q30",
+     "kind": "choice",
+     "points": 1,
+     "question": "30. Suppose a plant cell had a mutation that prevented the Golgi apparatus from functioning. Which of the following processes would not occur in the cell?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Cellular respiration"
+      },
+      {
+       "key": "B",
+       "text": "Photosynthesis"
+      },
+      {
+       "key": "C",
+       "text": "DNA replication"
+      },
+      {
+       "key": "D",
+       "text": "Mitosis"
+      },
+      {
+       "key": "E",
+       "text": "Cell wall formation"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: E"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Тест: вопросы 31–40",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q31",
+     "kind": "choice",
+     "points": 1,
+     "question": "31. Chelation in plants can be accomplished by:",
+     "options": [
+      {
+       "key": "A",
+       "text": "root cells releasing H+ to the soil."
+      },
+      {
+       "key": "B",
+       "text": "keeping some metal ions in solution during unfavorable soil pH conditions."
+      },
+      {
+       "key": "C",
+       "text": "root cells releasing organic acids into the soil."
+      },
+      {
+       "key": "D",
+       "text": "both A and C"
+      },
+      {
+       "key": "E",
+       "text": "all of the above"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q32",
+     "kind": "choice",
+     "points": 1,
+     "question": "32. Which of the following statements is NOT acceptable? Phloem unloading may:",
+     "options": [
+      {
+       "key": "A",
+       "text": "involve the conversion of sucrose to glucose and fructose during apoplastic transport."
+      },
+      {
+       "key": "B",
+       "text": "move sucrose through the plasmodesmata to sink cells in symplastic transport."
+      },
+      {
+       "key": "C",
+       "text": "more frequently involve apoplastic transport in root sinks and symplastic transport in fruit sinks."
+      },
+      {
+       "key": "D",
+       "text": "be inhibited by the endodermis which will prevent the lateral transport of photosynthates."
+      },
+      {
+       "key": "E",
+       "text": "involve the transport of photosynthates from sieve elements into parenchyma cells."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q33",
+     "kind": "choice",
+     "points": 1,
+     "question": "33. Most of the food stored in the root of a woody dicot would be found in which of the following tissues?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Pith"
+      },
+      {
+       "key": "B",
+       "text": "Endodermis"
+      },
+      {
+       "key": "C",
+       "text": "Cortical parenchyma"
+      },
+      {
+       "key": "D",
+       "text": "Xylem"
+      },
+      {
+       "key": "E",
+       "text": "Exodermis 6"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q34",
+     "kind": "choice",
+     "points": 1,
+     "question": "34. The diagram below illustrates the change that occurred in the physical appearance of a large and contained rabbit population over a 10-year period. Which of the following would best explain this change over time?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A decrease in the mutation rate of the rabbits with black fur"
+      },
+      {
+       "key": "B",
+       "text": "An increase in the advantage of having white fur"
+      },
+      {
+       "key": "C",
+       "text": "A decrease in the advantage of having white fur"
+      },
+      {
+       "key": "D",
+       "text": "An increase in the chromosome number of the rabbits with black fur"
+      },
+      {
+       "key": "E",
+       "text": "The dominance of the black fur allele"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q35",
+     "kind": "choice",
+     "points": 1,
+     "question": "35. The flow of energy through an ecosystem involves many energy transfers. The diagram below is a simplified version that summarizes the transfer of energy that eventually powers muscle activity. Sun Food ATP Muscle Activity A B C The process of cellular respiration is represented by:",
+     "options": [
+      {
+       "key": "A",
+       "text": "arrow A only."
+      },
+      {
+       "key": "B",
+       "text": "arrow B only."
+      },
+      {
+       "key": "C",
+       "text": "arrow C only."
+      },
+      {
+       "key": "D",
+       "text": "arrow B and C only."
+      },
+      {
+       "key": "E",
+       "text": "arrows A, B, and C."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q36",
+     "kind": "choice",
+     "points": 1,
+     "question": "36. Researchers gave a cholesterol-reducing drug to 2,335 people and a placebo to 2,081. Most of the volunteers were men who had normal cholesterol levels and no history of heart disease. After 5 years, 97 people getting the placebo had suffered heart attacks compared to only 57 people who had received the drug. The researchers recommended that to help prevent heart attacks, all people (even those without high cholesterol) take these cholesterol-reducing drugs. In addition to the information given, what is another piece of information that the researchers MUST have before support for the recommendation can be justified?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Were the eating habits of the two groups similar?"
+      },
+      {
+       "key": "B",
+       "text": "How does a heart attack affect cholesterol levels?"
+      },
+      {
+       "key": "C",
+       "text": "Did the heart attacks result in deaths?"
+      },
+      {
+       "key": "D",
+       "text": "What chemical is in the placebo?"
+      },
+      {
+       "key": "E",
+       "text": "If the test was repeated with exactly equal numbers of men in each group would similar results be obtained? 7"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q37",
+     "kind": "choice",
+     "points": 1,
+     "question": "37. “Natural ecosystems provide an array of basic processes that affect humans.” Which of the following statements does NOT support this quotation?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Bacteria help recycle materials."
+      },
+      {
+       "key": "B",
+       "text": "Algal populations of a lake help to oxygenate the water."
+      },
+      {
+       "key": "C",
+       "text": "Trees add to the amount of atmospheric oxygen."
+      },
+      {
+       "key": "D",
+       "text": "Lichens and mosses living on rocks help to break the rocks down, forming soil."
+      },
+      {
+       "key": "E",
+       "text": "Treated sewage is less damaging to the environment than untreated sewage."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q38",
+     "kind": "choice",
+     "points": 1,
+     "question": "38. Which of the following would be most effective for sequencing the exact 5’end of an mRNA transcript?",
+     "options": [
+      {
+       "key": "A",
+       "text": "PCR"
+      },
+      {
+       "key": "B",
+       "text": "Primer extension"
+      },
+      {
+       "key": "C",
+       "text": "Cloning"
+      },
+      {
+       "key": "D",
+       "text": "Southern blot"
+      },
+      {
+       "key": "E",
+       "text": "Linkage mapping"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q39",
+     "kind": "choice",
+     "points": 1,
+     "question": "39. A tissue type that consists of protein fiber secreting cells scattered throughout the extracellular matrix is common in:",
+     "options": [
+      {
+       "key": "A",
+       "text": "cardiac muscle."
+      },
+      {
+       "key": "B",
+       "text": "dendritic extensions."
+      },
+      {
+       "key": "C",
+       "text": "skin surface."
+      },
+      {
+       "key": "D",
+       "text": "lining of the pulmonary air sacs (alveoli)."
+      },
+      {
+       "key": "E",
+       "text": "tendons."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q40",
+     "kind": "choice",
+     "points": 1,
+     "question": "40. In the transcription of DNA to RNA the nitrogenous base cytosine will pair with: (note: the answers A, B, C, D, E are listed in columns.)",
+     "options": [
+      {
+       "key": "A",
+       "text": "D."
+      },
+      {
+       "key": "B",
+       "text": "E. C. 8"
+      }
+     ],
+     "choices": [
+      "A",
+      "B"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Тест: вопросы 41–50",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q41",
+     "kind": "choice",
+     "points": 1,
+     "question": "41. Which of the following statements about the energy yield of aerobic respiration is NOT true?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Less than 50% of the chemical energy stored in glucose is converted to ATP."
+      },
+      {
+       "key": "B",
+       "text": "Glycolysis and pyruvate oxidation together provide more NADH per glucose molecule than does the Krebs cycle."
+      },
+      {
+       "key": "C",
+       "text": "Each pair of electrons donated by an FADH2 or NADH molecule during electron transport results in the synthesis of more than one molecule of ATP."
+      },
+      {
+       "key": "D",
+       "text": "ATP is needed to transport NADH produced during glycolysis into the mitochondria."
+      },
+      {
+       "key": "E",
+       "text": "Most of the ATP derived during aerobic respiration results from the utilization of an electrochemical gradient."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q42",
+     "kind": "choice",
+     "points": 1,
+     "question": "42. Which of the following represents the correct sequence for protein digestion in humans?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Aminopeptidase, carboxypeptidase, chymotrypsin, pepsin"
+      },
+      {
+       "key": "B",
+       "text": "Aminopeptidase, pepsin, chymotrypsin, carboxypeptidase"
+      },
+      {
+       "key": "C",
+       "text": "Pepsin, carboxypeptidase, aminopeptidase, chymotrypsin"
+      },
+      {
+       "key": "D",
+       "text": "Chemotrypsin, aminopeptidase, carboxypeptidase, pepsin"
+      },
+      {
+       "key": "E",
+       "text": "Pepsin, chymotrypsin, carboxypeptidase, aminopeptidase"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q43",
+     "kind": "choice",
+     "points": 1,
+     "question": "43. Which of the following situations would result in the greatest degree of O2 saturation for hemoglobin, assuming PO2 remains constant?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Decreased PCO2, decreased temperature"
+      },
+      {
+       "key": "B",
+       "text": "Elevated levels of 2, 3 – DPG"
+      },
+      {
+       "key": "C",
+       "text": "Low pH"
+      },
+      {
+       "key": "D",
+       "text": "Decreased PCO2, increased temperature"
+      },
+      {
+       "key": "E",
+       "text": "Increased PCO2, decreased temperature"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q44",
+     "kind": "choice",
+     "points": 1,
+     "question": "44. A biologist collected seeds from 10 different plants, keeping all seeds under optimal conditions of storage. Within a week after collection the seeds were germinated under laboratory conditions. Each set of seeds was placed onto moist filter paper which was remoistened as necessary and subjected to room temperature of 23˚C. Half the seeds of each group received 24 hours of light, the other half were kept in darkness. Within variable periods of time the seeds of certain plants kept in the light germinated. The seeds of other plants kept in the dark germinated. Some sets of seeds germinated under both light regimes. One set of seeds did not germinate under either light condition. What might be a LOGICAL hypothesis, consistent with the data, for the lack of germination of the one set of seeds?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The seeds required 12 hours of light and 12 hours of darkness in order to germinate."
+      },
+      {
+       "key": "B",
+       "text": "All the seeds of that group were dead."
+      },
+      {
+       "key": "C",
+       "text": "The seeds required an elevated temperature in order to germinate."
+      },
+      {
+       "key": "D",
+       "text": "The seeds required vernalization in order to germinate."
+      },
+      {
+       "key": "E",
+       "text": "None of the above is logical."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q45",
+     "kind": "choice",
+     "points": 1,
+     "question": "45. Which of the following fibers binds to the cytoplasmic site of the cell-matrix adherens junctions?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Elastin"
+      },
+      {
+       "key": "B",
+       "text": "Actin"
+      },
+      {
+       "key": "C",
+       "text": "Tubulin"
+      },
+      {
+       "key": "D",
+       "text": "Reticular"
+      },
+      {
+       "key": "E",
+       "text": "Collagen 9"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q46",
+     "kind": "choice",
+     "points": 1,
+     "question": "46. Which of the following are NOT imbedded in the thylakoid membrane?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Enzymes associated with carbon dioxide fixation"
+      },
+      {
+       "key": "B",
+       "text": "Molecules of chlorophyll a and chlorophyll b"
+      },
+      {
+       "key": "C",
+       "text": "P700 and P680 molecules"
+      },
+      {
+       "key": "D",
+       "text": "Proton channels of the ATP synthase"
+      },
+      {
+       "key": "E",
+       "text": "Ferredoxin-NADP+"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q47",
+     "kind": "choice",
+     "points": 1,
+     "question": "47. Of the following, which is the most significant explanation for the lack of a continuing abiotic origin of life of Earth today?",
+     "options": [
+      {
+       "key": "A",
+       "text": "There are no molten surfaces on which weak solutions of organic molecules could polymerize."
+      },
+      {
+       "key": "B",
+       "text": "All habitable places on Earth are already filled to capacity."
+      },
+      {
+       "key": "C",
+       "text": "There is much less visible light reaching Earth now than when life first originated."
+      },
+      {
+       "key": "D",
+       "text": "There is not enough lightening to provide an energy source."
+      },
+      {
+       "key": "E",
+       "text": "The oxidizing atmosphere of today’s Earth is not conducive to spontaneous formation of complex molecules."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q48",
+     "kind": "choice",
+     "points": 1,
+     "question": "48. One of the extraembryonic membranes/structures produces proteins that suppress the maternal immune response against the fetus. This membrane/structure is the:",
+     "options": [
+      {
+       "key": "A",
+       "text": "allantois."
+      },
+      {
+       "key": "B",
+       "text": "chorion."
+      },
+      {
+       "key": "C",
+       "text": "yolk sac."
+      },
+      {
+       "key": "D",
+       "text": "amnion."
+      },
+      {
+       "key": "E",
+       "text": "trophoblast"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q49",
+     "kind": "choice",
+     "points": 1,
+     "question": "49. The normal human physiological response to a DECREASE in blood pressure and volume includes which of the following?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A decrease in arteriole pressure in the juxtagolmerular apparatus results in a decrease in the enzyme rennin."
+      },
+      {
+       "key": "B",
+       "text": "An increase in angiotensin II that constricts arterioles and decreases blood flow to the capillaries."
+      },
+      {
+       "key": "C",
+       "text": "Aldosterone is released from the kidneys and increases distal tubule reabsorption of sodium."
+      },
+      {
+       "key": "D",
+       "text": "Antidiuretic hormone is decreased with the decrease in the blood volume."
+      },
+      {
+       "key": "E",
+       "text": "An increase in atrial natriuretic factor from the walls of the atria increases the release of the enzyme rennin."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q50",
+     "kind": "choice",
+     "points": 1,
+     "question": "50. Sodium or chloride ions are placed in a Petri dish with adult C. elegans hermaphrodites Shortly thereafter an aversive stimulus such as garlic is placed in the Petri dish. Subsequently, when tested in a chemotaxis assay, the animals avoided the ion that had been paired with garlic. This is an example of:",
+     "options": [
+      {
+       "key": "A",
+       "text": "habituation."
+      },
+      {
+       "key": "B",
+       "text": "imprinting."
+      },
+      {
+       "key": "C",
+       "text": "associative learning."
+      },
+      {
+       "key": "D",
+       "text": "spatial learning."
+      },
+      {
+       "key": "E",
+       "text": "pheromone communication. 10"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-ethology",
+     "reference": "Правильный ответ: C"
+    }
+   ]
+  }
+ ]
+}

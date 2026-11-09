@@ -1,0 +1,37 @@
+{
+ "setId": "bio-utoronto-2006--bio-tasks",
+ "olympiadId": "bio-utoronto-2006",
+ "title": "Биология → U of Toronto → 2006",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/utoronto/2006/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/utoronto/2006/bio-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T13:45:14.317Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 1,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "University of Toronto",
+   "weight": null,
+   "total": 10,
+   "statement": "National Biology Competition\n                 2006 Examination\n                    Answer Key\n\n1. a     2. d        3. d            4. c    5. b\n\n6. e     7. d        8. c            9. a    10. d\n\n11. d    12. a       13. c           14. e   15. c\n\n16. b    17. e       18. d           19. e   20. a\n\n21. c    22. c       23. b           24. c   25. a\n\n26. e    27. d       28. b           29. a   30. c\n\n31. c    32. d       33. c           34. b   35. c\n\n36. b    37. b       38. a           39. e   40. d\n\n41. d    42. b       43. e           44. b   45. d\n\n46. a    47. d       48. b           49. d   50. a\n\n                      May 24, 2006",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 10,
+     "question": "a 2. d 3. d 4. c 5. b",
+     "reference": "1.   Of the following species interactions, which one does NOT reduce population size?\n     a.   Commensalism\n     b.   Predation\n     c.   Competition\n     d.   Brood parasitism\n     e.   Amensalism",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

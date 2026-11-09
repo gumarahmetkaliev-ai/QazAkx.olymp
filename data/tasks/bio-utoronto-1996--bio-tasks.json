@@ -1,0 +1,37 @@
+{
+ "setId": "bio-utoronto-1996--bio-tasks",
+ "olympiadId": "bio-utoronto-1996",
+ "title": "Биология → U of Toronto → 1996",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/utoronto/1996/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/utoronto/1996/bio-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T13:45:17.119Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 1,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "University of Toronto",
+   "weight": null,
+   "total": 10,
+   "statement": "Ontario Biology Competition\n\n                                             1996 Examination\n                                                Answer Key\n\n                       1. d             2. a             3. e            4. b             5. a\n                       6. c             7. c             8. b/d          9. e             10. a\n\n                       11. a/c          12. a            13. c           14. d            15. a/e\n\n                       16. b            17. d            18. c           19. b            20. b\n\n                       21. b            22. e            23. c           24. d            25. e\n\n                       26. c            27. d            28. c           29. c            30. d\n\n                       31. b            32. a            33. b           34. c            35. a\n\n                       36. a/e          37. b            38. d           39. c            40. a\n\n                       41. d            42. d            43. b           44. b            45. d\n\n                       46. b            47. e            48. a           49. e            50. d\n\n                       51. c            52. b            53. a           54. c            55. e\n\n                       56. a            57. d            58. e           59. e            60. c\n\nNote: In four questions two responses were given credit as being correct answers (i.e., if a student selected either of\nthese responses it was recorded as a correct response): in questions 8, 11, and 15 two responses were deemed to be\ncorrect (this was unintentional); response (a) of question 36 had a typographical error (O6, not O26) in the original\nversion of the test which made this response correct, in addition to response (e).",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "1. All cells have:\n\n    a. a cell wall and nucleus.\n    b. a nucleus and chloroplasts.\n    c. plastids and lysosomes.\n    d. a cell membrane and cytoplasm.\n    e. ribosomes and chloroplasts.",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

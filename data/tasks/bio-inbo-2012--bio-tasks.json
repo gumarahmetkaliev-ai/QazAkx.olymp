@@ -1,0 +1,463 @@
+{
+ "setId": "bio-inbo-2012--bio-tasks",
+ "olympiadId": "bio-inbo-2012",
+ "title": "Биология → INBO → 2012",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/inbo/2012/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/inbo/2012/bio-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T13:44:58.842Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 54,
+  "withPoints": 54,
+  "withReference": 54,
+  "withQuestion": 54,
+  "estimatedPoints": 54
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "INDIAN NATIONAL BIOLOGY OLYMPIAD – 2012",
+   "weight": null,
+   "total": 54,
+   "statement": "SECTION A\n\nCELL BIOLOGY (7 points)\n\n1. (1 point) According to the current concept of Central Dogma of molecular\n     biology, information transfer from proteins to nucleic acids does not occur.\n     Which of the following could be considered a violation of the Central Dogma?\n        I.        Synthesis of DNA on an RNA template by reverse transcriptase.\n        II.       Gene transcription being activated by a protein binding to regulatory\n                  sequences.\n        III.      Editing of RNA transcripts by the insertion and deletion of\n                  ribonucleotides.\n        IV.       A polynucleotide polymerase specifically synthesizing a gene\n                  encoding itself from free deoxyribonucleotides.\na. I\nb. IV\nc.   II and III\nd. None of the above\n\n2. (1 point) The coding ratio in all known organisms is three, i.e. three nucleotides\n     specify one amino acid. If DNA were to exclusively consist of only A-T base\n     pairs, what would the minimum coding ratio be assuming that there are only 20\n     amino acids to be encoded?\na. Two\nb. Three\nc. Four\nd. Five\n\n3. (1 point) The order of permeability for the following molecules across the\n     plasma membrane will be:\na. Cholesterol < Glycerol < Water\nb. Glycerol < Water < Cholesterol\n\n                                           1\n\nc. Water < Cholesterol < Glycerol\nd. Cholesterol < Water < Glycerol\n\n4. (1 point) Mammalian sulfite oxidase is the last enzyme in the pathway for\n   degradation of sulfur- containing amino acids. Sulfite oxidase catalyses the\n   oxidation of sulfite to sulfate, using the heme containing protein, cytochrome C,\n   as an electron acceptor.\n\n   SO3 2- + 2 cytochrome Coxidised + H2O ↔ SO4 2- + 2cytochrome Creduced + 2 H+\n\n   Amino acid that is most likely to be present at the substrate binding site of this\n   enzyme is:\n\n a.                                        b.\n\n       HN                                            H\n\n                          Leucine\n                                                                      Glutamic acid\n\n  c.                                            d.\n                                                         H\n\n          HN\n\n                                                                          Arginine\n\n                 Serine\n\n5. (1 point) Consider a chemical reaction in which substrate A is enzymatically\n   converted to product. The rate of change of substrate to product with\n\n                                       2\n\n                 increasing concentration of substrate is shown by broken line. The rate of\n                 reaction with increasing concentration of substrate A with a fixed amount of\n                 substance B is shown by unbroken line.\n\n                                                    [A]\n\n                                                       [A] + fixed amount of [B]\n                                    Velocity\n\n                                               0   Concentration\n\n                 If the same reaction is carried out with fixed quantity of substrate and\n                 increasing concentration of B, the expected result will be:\n\na.                                                                      b.\n                                                                              Velocity\n      Velocity\n\n                 0       Concentration                                                   0    Concentration\n\n     c.\n                                                                   d.\n                                                                         Velocity\n          Velocity\n\n                     0   Concentration                                              0        Concentration\n\n                                                                   3\n\n      6. (1 point) Which of the following will be true for a resting muscle cell as\n          compared to a moderately active muscle cell?\n              i.        Low [ATP] as compared to [ADP]\n              ii.       Low [NADH] as compared to [NAD+]\n              iii.      Low [FADH2] as compared to [FAD]\n              iv.       Slow rate of TCA cycle.\n\n      a. iii and iv\n      b. ii and iii\n      c. i and iv\n      d. Only iv.\n\n      7. (1 point) In the electron transport chain in mitochondria, several protein\n          complexes traverse the mitochondrial inner membrane. Mark the figure that\n          shows correct topology of these complexes.\n\na.\n                                  CoQ\n                                              matrix\n                                   ATPase\n\n b.\n\n                                  CoQ\n                     Complex II               matrix\n\n                                  ATPase\n                                                  4\n\nc.\n\n                                               CoQ\n\n                                                              matrix\n                                         ATPase\n\nd..\n\n                                               CoQ\n                                                            matrix\n                                        ATPase\n\n      PLANT SCIENCES (7 points)\n\n      8. (1 point) When two plants P and Q were grown in a heavily shaded\n        greenhouse, they showed the following changes in light compensation points.\n                                  100\n                    Light Compensation Point\n                          (foot candles)\n\n                                                             P\n\n                                                      Q\n\n                                                 0                              15\n                                                     Weeks of acclimatization\n\n                                                                 5\n\n   Mark the correct interpretation.\na. The graph P indicates acclimatization of sun plants to low light intensities.\nb. The graph Q indicates that the plant is a shade plant and cannot function at\n   light intensities below a critical level.\nc. The graph indicates that the plant P is a shade plant and acclimatizes much\n   faster to low light conditions as compared to Q.\nd. The graph indicates that plant Q is a sun plant and cannot acclimatize to low\n   light intensities.\n\n9. (1 point) A typical light response curve of photosynthesis is shown. The limiting\n   factor/s for photosynthesis at M and N is/are:\n\n                                                                  M\n                 Photosynthetic CO2 assimilation\n\n                                                       N\n\n                                                   0\n\n                                                       Light intensity\n\na. Temperature and CO2 respectively.\nb. CO2 and light respectively.\nc. Only CO2.\nd. Light and CO2 respectively.\n\n10. (1 point) Read the following description of a plant cell type.\n    “These are elongated tapering cells with cross walls, secondary thickenings\n   with pits and are dead at maturity”\n\n                                                              6\n\n   Which of the following is the correct statement about the function of cells\n   described?\na. They are the main food conducting cells of flowering plants.\nb. They are the main water conducting cells of flowering plants.\nc. They serve to protect the plants and retard water loss.\nd. They conduct water in all vascular plants.\n\n11. (1 point) Girdling is a procedure sometimes followed in plants in which bark of\n   the plant is removed in a circular pattern from any point. Which of the following\n   can result from this?\na. Improvement in fruit yield and quality.\nb. Improvement in activity of meristem below girdle region.\nc. Wilting of plant above the girdle region.\nd. Death of roots due to unavailability of sap.\n\n12. (1 point) Soil formation is a slow and continuous process. Following graph\n   indicates soil composition over time. In this graph P, Q and R must be:\n\n                                              P\n             Percentage of soil mass\n\n                                                    Q\n\n                                                        R\n\n                                       1000 years           Time              106 years\n\na. P:     Biomass                            Q: Clay               R: Humus\nb. P:     Humus                              Q: Biomass            R: Clay\nc. P:     Clay                               Q: Humus              R: Biomass\nd. P:     Biomass                            Q: Humus              R: Clay\n\n                                                              7\n\n    13. (1 point) In an experiment, the aleurone layer of Oat seeds is destroyed\n       chemically. It is observed that such seeds fail to germinate. Which of the\n       following treatments will be useful to trigger the germination?\n    a. Soaking the seeds in water containing glucose for long time.\n    b. Soaking the seeds in low concentration of abscisic acid.\n    c. Treating the seeds with amylase enzyme.\n    d. Treating the seeds with gibberellins.\n\n    14. (1 point) Arrange the embryo-sac development stages of angiosperms in\n       correct order:\n\n.\n\n    a. v Æ i Æ iv Æ ii Æ iii Æ vii Æ vi Æ viii\n    b. viii Æ v Æ ii Æ iv Æ iii Æ vii Æ vi Æ i\n    c. i Æ ii Æ iv Æ v Æ viii Æ iii Æ vii Æ vi\n    d. viii Æ i Æ v Æ ii Æ iv Æ iii Æ vi Æ vii\n\n    ANIMAL SCIENCES (5 points)\n\n    15. (1 point) The circulatory system shown below represents:\n\n                                            8\n\na. a bird.\nb. an amphibian.\nc. a mammal.\nd. a fish.\n\n16. (1 point) Consider three different types of mammalian skeletal muscles:\n       (i)                  Ocular muscle\n       (ii)                 Soleus muscle (involved in continual support of body against gravity)\n       (iii)                Gastrocnemius muscle (involved in velocity of limb movements)\n\n   Muscle contraction properties of these muscles are depicted in the graph.\n\n                                                      Y\n                                                                         Z\n                                           X\n                Force of contraction\n\n                                       0         40       80                   200\n                                                          milliseconds\n   The muscles represented by X, Y and Z are:\na. X:(i)       Y:(ii)                  Z:(iii)\nb. X:(ii)      Y:(i)                   Z:(iii)\nc. X:(iii)     Y:(ii)                  Z:(i)\nd. X:(i)       Y:(iii)                 Z:(ii)\n\n17. (1 point) In reptiles such as lizards and turtles, the solute concentration of urine\n   is never greater than that of plasma. This is due to the absence of:\na. glomerulus.\nb. Bowman’s capsule.\n\n                                                          9\n\nc. loop of Henle.\nd. collecting duct.\n\n18. (1 point) The rate of metabolism of an animal is depicted in the graph. The\n   animal is most likely:\n                Oxygen consumption\n\n                                                                            environment\n                                                                            Oxygen content of\n                                          Environmental Temperature\n\na. a fish.\nb. a terrestrial reptile.\nc. a dolphin.\nd. a mouse.\n\n19. (1 point) Hemoglobin molecule binds to oxygen and transports it across\n   various tissues in animals. It shows a characteristic binding pattern at various\n   partial pressures of oxygen. The three graphs P, Q and R in the figure\n   represent binding patterns in:\n                O2 content, ml / 100 ml\n\n                                             P\n\n                                                  Q       R\n\n                                                 pO2 (mm of Hg)       100\n\n                                                         10\n\na. P: individual adapted to sea level\n   Q: anemic individual\n   R: individual adapted to high altitudes\nb. P: maternal hemoglobin\n   Q: fetal hemoglobin\n   R: anemic individual\nc. P: individual adapted to high altitudes\n   Q: individual adapted to sea level\n   R: anemic individual\nd. P: anemic individual\n   Q: maternal hemoglobin\n   R: fetal hemoglobin\n\nGENETICS & EVOLUTION (6 points)\n\n20. (1 point) Phenylketonuria (PKU) results due to absence of phenylalanine\n   hydroxylase and Alkaptoneuria (AKU) results due to the absence of\n   homogenistic acid oxidase. The following pathway shows where these\n   enzymes function.\n\n                             Phenylalanine\n                                      Phenylalanine hydroxylase\n                               Tryosine\n\n                       P-Hydroxyphenylpyruvic acid\n\n                          Homogenistic acid\n                                      Homogenistic acid oxidase\n                       Maleyl acetoacetic acid\n\n   If a person is homozygous for recessive alleles of both PKU and AKU, he will\n   show symptoms of:\n\n                                          11\n\na. Only PKU.\nb. Only AKU.\nc. PKU and AKU simultaneously.\nd. PKU initially and later AKU.\n\n21. (1 point) You have cloned a human insulin cDNA and inserted it into E. coli.\n    However, the insulin gene was not expressed. Which of the following could be\n    the cause of your finding?\n    i.       The cDNA was inserted in opposite direction.\n    ii.      The cDNA had an altered Shine-Dalgarno sequence.\n    iii.     An intron was present in coding region.\n    iv.      The cDNA encoded the protein which was not processed post-\n             translationally in E.coli.\na. i , ii and iii\nb. i, ii and iv\nc. i, iii and iv\nd. only i and iii\n\n22. (1 point) A male child brought up in an orphanage was claimed by an old\n    couple. This old couple had lost their daughter and son-in-law in an accident,\n    when they were on a tour with the child, who was one year old. Another young\n    couple also claimed that the child belonged to them, however, the wife got\n    divorced after the child went missing and married another person.\n    Which test will be most appropriate to solve the parentage problem?\n\na. Blood group matching of the child, the old couple and wife among the young\n    couple.\nb. Matching of Genomic DNA fingerprints of all the members with that of the\n    child.\nc. Mitochondrial DNA fingerprint matching of the old and young women with that\n    of the child.\n\n                                          12\n\n   d. Matching of the Y-chromosome of the old man with the child.\n\n   23. (1 point) In rabbits, two genes A and B are present on two different\n      chromosomes. Products of both wild type A and B genes are essential for\n      normal hearing. Homozygous recessive mutants either for A, B or both results\n      in deafness.\n      If a double heterozygous male (AaBb) is crossed with a double heterozygous\n      female, the ratio of phenotypically normal and deaf rabbits will be:\n   a. 15:1\n   b. 7:9\n   c. 9:7\n   d. 13:3\n\n   24. (1 point) The figure shows the restriction enzyme cutting sites (R1-R3) in a wild\n      type (n) and mutant (n -) gene.\n\n             R1        500         R2\n\n                                                    R1        400        R3 100 R2\n              Wild type n gene                                 Mutant n - gene\n\nIf a radioactively labeled probe (that hybridises at a sequence close to R1) is used for\ndetecting the presence of DNA fragments after gel electrophoresis and Southern\nblotting, which of the following band patterns will you expect?\n\n      Note: L1: wild type DNA, L2: mutant DNA\n\n        a.                                           b.\n                  L1         L2                                     L1       L2\n\n         500 kb                                           500 kb\n\n         100 kb                                           100 kb\n\n                                           13\n\n               c.                                              d.\n                                                                          L1             L2\n                        L1           L2\n                                                               500 kb\n              500 kb                                           400 kb\n              400 kb\n                                                               100 kb\n\n       25. (1 point) The evolutionary force that is believed to be the driving force behind\n          sympatric evolution is:\n       a. directional selection\n       b. stabilizing selection\n       c. disruptive selection\n       d. balancing selection.\n\n       ECOLOGY (4 points)\n\n       26. (1 point) The biomass of two different plant species M and N were analyzed\n          and the respective fractions of the different plant parts were calculated. They\n          have been represented below.\n\n100%\n                                                             100%\n90%                                                                                                     Fruits & seeds\n                                                             90%                                       Flower\n80%                                Fruits & seeds\n                         Flower                              80%           Leaf                                Leaf\n70%\n                                                             70%                         Stem\n60%\n                          Leaf                               60%\n50%\n                                                             50%\n40%                       Stem                               40%\n30%\n                                                             30%\n20%                                                          20%                         Root\n                          Root\n10%                                                          10%\n 0%                                                           0%\n   July   September November December February      April           Jul   Sep     Nov.          Dec.    Feb.          Apr.\n\n                    Plant M                                                               Plant N\n\n                                                        14\n\n    Which of the following statements would be true for the above data?\n        I.             Plant M is an annual plant\n        II.            Plant N is a perennial plant\n        III.           Plant N is a deciduous plant\n        IV.            Plant M is an evergreen plant\na. I, II and III\nb. I and II only\nc. I and III only\nd. All the four\n\n27. (1 point) The following curves show the growth of two different species of\n    bacteria G and H. They were cultured in Petri plates of two different sizes (7cm\n    diameter and 10 cm diameter) with 20 ml of a similar nutrient media. (The\n    lighter colour indicates the population in the smaller Petri plate.)\n                Population\n\n                                                                           Species G\n               Population\n\n                                                                         Species H\n\n                                               Time        Time\n\n    Which of the following would be true for the above experiment?\n        I.             Species G has reached its carrying capacity.\n        II.            Species H has reached its carrying capacity.\n        III.           Species G is limited in its population by space\n        IV.            Species H is limited in its population by space\n\n                                                15\n\na. I, II and III only\nb. I and II only\nc. III and IV only\nd. I, II, III and IV\n\n28. (1 point) A community comprises of three species. The pyramids below show\n    the distribution of pre-reproductive, reproductive and post-reproductive\n    individuals. If the numerical representation of all the three species in the\n    community is similar, which of the following statements would be true?\n\n               Species K              Species L              Species M\n\n                                                                         Post-reproductive\n\n                                                                         Reproductive\n\n                                                                         Pre-reproductive\n\n        I.      Species K is a growing population\n        II.     Species L is a growing population\n        III.    Species M is a decreasing population\n        IV.     The community is increasing in population.\na. I and II only\nb. II and III only\nc. I, II and III only\nd. All the four\n\n29. (1 point) Satellite-based sensors identify different objects based on their\n    reflectance properties. Sensors are designed in a manner that they can identify\n    the feature of interest. The following are the typical reflectance curves of\n\n                                        16\n\n               vegetation, water and barren soil. The combination of which two spectral\n               bands will best discriminate vegetation?\n\n                                                                        Vegetation\n\n                                                                        Barren Soil\nReflectance\n\n                                                                Water\n\n              400   Blue   500    Green 600   Red      700   N-IR 800\n                                        Wavelength\n     a. Red and N-IR\n     b. Green and Red\n     c. Blue and Green\n     d. Blue and Red\n\n     ETHOLOGY (1 point)\n\n     30. (1 point) Which of the following behaviors has a ‘learning’ component in it?\n     a. Instinct\n     b. Homeostasis\n     c. Reflex action\n     d. Imprinting\n\n                                 ********* END OF SECTION A *******\n\n                                                  17\n\n                INDIAN NATIONAL BIOLOGY OLYMPIAD – 2012\n\n                                  SECTION B\n\nNOTE:\n\n   •   Write all answers in the ANSWERHEET ONLY.\n\n   •   Only the answer sheets will be collected at the end of the examination.\n\nCELL BIOLOGY (17 points)\n\n31. (2 points) A student made a pictorial representation of a eukaryotic cell\n   membrane and labeled the components as follows.\n                                                  cholesterol\n                 S                                                        Cell exterior\n\n                SH                                                        Cell interior\n           SH\n\nProtein A\n(Integral protein)                          Protein B (Peripheral protein)\n\n   Mark against each statement as true (T) or false (F) with respect to error/s or\n   correction/s required in the representation.\n\na. Protein A should be labeled as trans-membrane protein only and not as\n   integral protein. ________\n\n                                       18\n\nb. The polarity of the protein A should be reversed because the cytosolic phase\n   always shows reducing environment. __________\n\nc. Position of cholesterol molecule should be close to polar region as it contains a\n   polar group. ____________\n\nd. Protein B should be labeled as integral membrane protein and not as\n   peripheral glycoprotein. __________\n\n32. (3 points) Following are three different antibacterial agents that have different\n   mechanisms of action:\n   Type I antibacterial agent:\n   It kills bacteria by inhibiting DNA-dependent RNA polymerase in bacterial cells,\n   thus preventing transcription to RNA and subsequent translation to proteins.\n   (eg. Rifampicin)\n\n   Type II antibacterial agent:\n   It is a glycoside hydrolase and functions by attacking peptidoglycans of\n   bacterial cell wall thus leading to lysis of the cell. (eg. Lysozyme)\n\n   Type III antibacterial agent:\n   It inhibits growth of bacteria by affecting folic acid synthesis. (eg.Sulfonamide)\n   When bacteria were grown in three culture media to which one of these\n   antibacterial agents was added at the point shown by an arrow, growth\n   patterns (P, Q and R) were obtained.\n\n   Match them against the correct type of antibacterial agent added and fill in the\n   blanks.\n\n                                        19\n\n    P                                                         Q\n\n                                      Time                                             Time\n\nR\n\n                                                                                         : Total count\n\n                                                                                         : Viable count\n\n                                      Time\n\n                       P: Type __________\n                       Q: Type __________\n                       R: Type __________\n\n        33. (2 points) Consider a gene 25.5kb in length. The regulatory region is 500bp\n                       long. The number of exons and introns in a gene are 9 and 8 respectively with\n                       the mean size of each being 145bp and 2960 bp respectively.\n\n        (A) What percent of this gene is occupied by exons?\n\n                       Answer: ____________\n\n                                                         20\n\n(B) What will be the length of a polypeptide chain synthesized by this gene?\n\n34. (2 points) Restriction endonucleases are enzymes that recognize short\n   nucleotide sequences (restriction sites) in a DNA molecule and cleave the\n   molecule at that site. The recognition site of the enzyme TaqI is TCGA.\n   What would be the maximum number of recognition sites that this enzyme\n   would have on a DNA molecule that is 5kb long? Assume that the DNA\n   molecule has a random sequence with equal amount of each base.\n   Answer: _____________\n\n35. (4 points) Various methods can be used to isolate the chloroplasts from a plant\n   material. Based on the types of chemicals used, their concentrations as well as\n   treatment conditions, final results may vary. Study methods I to IV used to\n   isolate chloroplasts from a plant leaf and match the resultant structure and\n   function of chloroplast against each method.\n   Choose from the options given below and fill in the table.\n   Note: Only a completely correct row will be given one point.\n\n          Method                   Chloroplast CO2         Electron      NADP\n                                   morphology fixation     Transport     reduction\n\nI. Isolation in hypertonic\n       sugar solution.\n\nII. Isolation in hypotonic\n        sugar solution and\n        immediate transfer to\n        isotonic media.\n\nIII. Prolonged treatment in\n        hypotonic sugar\n        solution and later with\n        high salt concentration.\n\nIV. Plant extract subjected to\n       sonication and\n       detergent treatment.\n\n                                       21\n\nOptions for chloroplast morphology:\n(i) Sub-chloroplast particles\n(ii) Chloroplasts with broken envelop\n(iii) Free lamellar chloroplasts\n(iv) Intact chloroplasts\n\nOptions for CO2 fixation/electron transport/NADP reduction:\na. Unimpaired\nb. Partially impaired\nc. Absent\nd. Addition of ferrodoxin required\n\n36. (4 points) Heat produced by the oxidation of a foodstuff can be measured in\n   two ways:\n\n   Method I: by using Bomb’s calorimeter where the food is artificially oxidized\n   and the heat produced is measured\n\n   Method II: by placing the animal in an insulated chamber, feeding a known\n   quantity of food and measuring the heat production.\n\n(A) Among the three types of foods tested namely carbohydrates, proteins and\n   lipids, the values obtained by both the methods matched only for two\n   biomolecules. The biomolecule for which the values did not match is likely to\n   be:\na. Lipid\nb. Carbohydrate\nc. Protein\n\n                                        22\n\n                              a.       b.      c.\n\n  (B) Mark the statement/s that correctly interpret or reason the above result.\n          Note: This part of the question will be assessed only if the answer to part A is\n          correct.\n  (i)        The value obtained in Method I was higher than in Method II.\n  (ii)       The value obtained in Method II was higher than in Method I.\n  (iii)      Lipids contain a large excess of hydrogen as compared to carbon which will\n             not get oxidized at physiological conditions.\n  (iv)       Molecules of carbohydrate contain oxygen atoms which will reduce the\n             need for external oxygen.\n  (v)        Nitrogen present in the proteins is not oxidized physiologically.\n  (vi)       Lipids contain long chain fatty acids. These molecules being non-polar in\n             nature will not react with polar molecules such as oxygen.\n\n             Choose from the option/s and put tick mark/s (✔) in the appropriate box/es.\n\n                             (i)    (ii)    (iii)     (iv)     (v)     (vi)\n\nPLANT SCIENCES (10 points)\n\n  37. (2 points) A typical summer flowering plant shows 15 hours as critical period.\n          Which of the following treatment cycles respectively will make it flower in\n          winter but not in summer?\n  a. Winter: 10hr day – 14 hr night\n          Summer: 16hr day – 8 hr night\n  b. Winter: 10hr day – 6 hr night – 2 hr artificial light – 6 hr artificial darkness\n          Summer: 15hr day – 9 hr night\n\n                                              23\n\nc. Winter: 10hr day – 8 hr night – 6 hr artificial light\n   Summer: 10hr day – 8 hr night – 6 hr artificial darkness\nd. Winter: 10hr day – 6 hr artificial darkness – 8 hr night\n   Summer: 10hr day – 6 hr night – 3 hr artificial darkness – 5 hr artificial light\n\n                          a.     b.        c.      d.\n\n38. (2 points) Evolutionary tree of land plants is shown in the diagram. The correct\n   description of P, Q & R is:\n\n                           now         R\n\n                           200\n\n             mya\n                           300\n\n                                                               Q\n\n                           400\n\n                           500                             P\na. P : Protist ancestor\n   Q: Primitive tracheophyte\n   R: Spermatophytes\n\nb. P : Green algal ancestor\n   Q: Primitive tracheophyte\n\n                                           24\n\n   R: Bryophytes\n\nc. P : Protist ancestor\n   Q: Green algae\n   R: Primitive vascular plant\n\nd. P : Primitive tracheophyte\n   Q: Origin of seeds\n   R: Bryophytes\n\n                          a.     b.     c.       d.\n\n39. (2 points) Following are few peculiar structures found among plants. Indicate\n   the tissue responsible for the distinguishing feature in each. Choose from the\n   options below and write the number indicating the tissue type against each\n   structure.\na. Gritty texture of fruit such as pear: _____\nb. Linen fibre: ______\nc. Potato tuber: ______\nd. Walnut shell: ______\n\n                1. Collenchyma\n                2. Sclerenchyma\n                3. Parenchyma\n                4. Phloem\n\n40. (2 points) The pressure flow model explains phloem translocation as a flow of\n   solution driven by an osmotically generated pressure gradient between source\n\n                                       25\n\n   and sink. The values for water (Ψw), solute (Ψs) and pressure (Ψp) potentials in\n   four different regions of a plant are given in the table. Determine the correct\n   cell types that would have these values.\n\n                 Regions in a plant           Potentials\n                 I.                    Ψw = -0.4MPa\n                                       Ψp = 0.3MPa\n                                       Ψs = - 0.7MPa\n\n                 II.                   Ψw = -1.1MPa\n                                       Ψp = 0.6MPa\n                                       Ψs = -1.7MPa\n\n                 III.                  Ψw = -0.8MPa\n                                       Ψp = -0.7MPa\n                                       Ψs = -0.1MPa\n\n                 IV.                   Ψw = -0.6MPa\n                                       Ψp = -0.5MPa\n                                       Ψs = -0.1MPa\n   Options:\n                 A. Xylem vessel in leaf\n                 B. Phloem sieve element in leaf\n                 C. Phloem sieve element in root\n                 D. Xylem vessel element in root\nChoose from the options and fill in the blanks:\nI. _____\nII. _____\nIII. _____\nIV. _____\n\n                                       26\n\n  41. (2 points) The C3, C4 and CAM pathways are the major CO2 fixing pathways\n     present in plants. The following are a few statements relating to one or more of\n     the pathways. Assign all the possible pathway/s to each statement.\n     Options:\n                        A. C3 pathway\n                        B. C4 pathway\n                        C. CAM pathway\n     Note: Only an entirely correct answer in each blank will get 0.5 point.\n     Statements:-\n     (1) The Calvin cycle operates in the chloroplast: __________\n     (2) The primary carboxylation is catalysed by rubisco:__________\n     (3) The atmospheric CO2 is first fixed during the day:__________\n     (4) The whole process of CO2 uptake and it's fixation takes place in a single\n         cell:________\n\nANIMAL SCIENCES (10.5 points)\n\n  42. (2.5 points) A few life forms and the concentration of the environment relative\n     to body fluids are listed in column I and II of the table respectively.\n      Column I                                      Column II\n     Organism                 Environmental concentration relative to body fluids\n  A. Freshwater fishes (i) Iso-osmotic\n  B. Saltwater fishes     (ii) Hyperosmotic\n  C. Sharks               (iii) Hypo-osmotic\n  D. Amphibians\n  E. Marine mammals\n\n  Assign the correct environment (from Column II) to the animals A – E.\n  A: _____\n  B: _____\n  C: _____\n\n                                          27\n\nD: _____\nE: _____\n\n43. (8 points) Consider a 70 kg man whose initial plasma osmolarity is 280\n   mOsm/lt. Assume extracellular fluid (ECF) to be 20 % of the body weight and\n   intracellular fluid (ICF) volume to be 40% of the body weight.\n(A) Fill in the table:\n\n      Initial condition     Volume (lt)        Concentration (mOsm/lt)    Total (mOsm)\n            ECF                                         280\n             ICF                                        280\n      Total body fluid                                  280\n\n(B) This man is injected with 2 lt of 1.5% NaCl solution (infused into ECF\n   compartment)\n   Assuming that no solute or water is lost from the body and there is no\n   movement of NaCl into or out of the cells, what will be the concentration of\n   solutes in ECF (mOsm/lt) immediately after infusion?\n   Molecular Weight of NaCl: 58.5\n   Answer: _________(mOsm/lt)\n\n(C) What will be the net qualitative effect of this infusion after osmotic equilibrium?\n   Indicate as true (T) or false (F).\n\n                          Net Qualitative Effect                         True/False\n     (a) Extracellular volume will increase.\n     (b) Intracellular volume will decrease.\n     (c) Extracellular osmolarity will decrease.\n     (d) Intracellular osmolarity will decrease.\n     (e) There will be an increase in total body fluids.\n     (f) There will be an equal osmolarity between ECF and ICF.\n\n                                          28\n\nGENETICS & EVOLUTION (7 points)\n\n44. (5 points)Two genes 'p' and 'q' are present on third chromosome of fruitfly,\n   Drosophila melanogaster. The corresponding wild type alleles are represented\n   as p+ and q+. They were located at 60 and 68 cM positions respectively. A\n   female fly (pp/q+q+) was crossed with a male fly (p+p+/qq). All offspring were\n   phenotypically wild type.\n(A) What are the different kinds of gametes you expect from the F1 female and\n   male? What will be the proportions of gametes?\n       Answer: Of F1 female:\n       __________________________________________________________\n\n       Of F1 male:\n       __________________________________________________________\n\n(B) If you cross one F1 female with a double recessive (pq/pq) male, what\n   proportions of offspring will you expect?\n   Note: genes in male Drosophila melanogaster do not cross over.\n\n   Answer: _____________________________________________________\n\n45. (2 points) Study the characteristics of a population represented in the graphs\n   below.\n\n                                       29\n\n     offspring produced)\n\n                                                   Proportion in\n     Fitness (No. of\n\n                                                   population\n                                                                                 Body Size\n                               Body Size\n\n     (A). Mark the correct graph that represents the type of selection that this\n     population is likely to undergo.\n\na.                                                       b.\n\n                           Body Size                                               Body Size\n                                                                                                : Past\n\n                                                                                                :Future\n                                                             d.\n\nc\n\n                           Body Size                                                Body Size\n\n                                       a.    b.         c.               d.\n\n                                                     30\n\n  (B) Choose the type of selection that this population is likely to undergo and put a\n\n     tick mark (✔) in the appropriate box.\n\n  a. Directional selection\n  b. Stabilizing selection\n  c. Disruptive selection\n  d. Balancing selection\n\nETHOLOGY (5 points)\n\n  46. (2 points) A rat ‘A’ is familiarized with a three dimensional maze with some\n     doors opening and closing at definite intervals. Such a rat quickly reaches upto\n     a specific chamber where food is deposited as compared to a rat 'B' which is\n     not familiar with the maze. This is observed even if A and B are caged\n     together. Mark the following statements as true (T) or false (F):\n  i) Rats have an ability of cognitive learning. _______\n  ii) 'A' has a procedural knowledge of the maze. _______\n  iii) 'B' cannot perceive the direction of food. _______\n  iv) Temporal understanding is needed to succeed in crossing trap doors. _______\n\n  47. (3 points) There are basic differences in the physiology and life histories such\n     as mode of fertilization, bearing and rearing the young, etc in different groups\n     of animals. These can account for the differences in parental care as well as\n     mating systems in these groups.\n     For each of the following life history characteristics, assign the most probable\n     mating system and parental care type. Choose from the options given below\n     and fill in the table with the appropriate alphabets and numbers.\n\n                                          31\n\n            No.      Characteristics            Parental Care   Mating System\n                                                Type\n            1.       Large investment\n                     required for\n                     incubating and\n                     feeding the young\n                     for prolonged time\n            2.       Lactating females,\n                     internal fertilization\n            3.       External fertilization,\n                     females exhibit\n                     territorial behaviour\n\n        Options for Parental Care Type:\n     a. Male parental care\n     b. Female parental care\n     c. Biparental care\n     d. No parental care\n\n     Options for Mating System:\n     I. Monogamy\n     II. Polyandry\n     III. Polygyny\n     IV. Promiscuity\n\nECOLOGY (14 points)\n\n  48. (2 points) In a study on the mycorrhizal community found in the rhizosphere\n     (area around root system) of Abies pindrow (a conifer), the following\n     information was found.\n  1. Glomus aureus was found to form an association with the plant irrespective of\n     the presence of other species.\n\n                                               32\n\n2. Glomus virdis formed an association with the plant only in the presence of\n   another species of Glomus\n3. Glomus lobatus formed an association with Abies only when no other species\n   of Glomus was present\n4. Diaspora spectabilis formed an association with the plant in the presence of\n   Glomus virids only.\n\n     What would be the minimal composition of the mycorrhizal community\n     if D. spectabilis is detected? Indicate your answers by putting + or - against\n     each species in the table.\n\n                                 Species             + /-\n                     G. aureus\n                     G. virdis\n                     D.spectabilis\n                     G. lobatus\n\n49. (2 points) A two month study on a population of 500 rats showed that the\n   emigration of individuals from the population was 1.5 times the rate of\n   immigration. At the same time the birth rate was found to be two times the rate\n   of death. If the number of emigrants during the period of study was 75 and the\n   birth rate was 10 %, what would be the number of rat individuals in the\n   population at the end of the study?\n\n50. (2 points) A quadrate survey in a forest block revealed the following\n   information. The size of each quadrate was 50m x 50m.\n\n                                           33\n\n       Species                              No. of Individuals\n                                    Q1          Q2        Q3        Q4\n       Tectona grandis               7          8         5          6\n       Dillenia pentagyna            1          1          -         -\n       Cordia sebastiana             3          -         3          3\n       Terminalia arjuna             6          6         6          6\n       Oroxylum indicum               -         -          -         3\n       Fimrania colorata              -         -          -        12\n       Disopyros melanoxylon         16     8             8          2\n       Lagerstroemia                 43         31        35         -\n       parviflora\n       Dalbergia sisoo               31         -          -         -\n\n     State whether the following statements are true (T) or false (F).\n1. Dalbergia sisoo would have the highest abundance. _________\n2. The density of Tectona grandis would be 2600 trees per km.sq. _________\n3. Dillenia pentagyna would have the least abundance. _________\n4. Frequency of Dillenia pentagyna is lower than that of Oroxylum indicum. _____\n\n51. (3 points) The levels of organic waste in the path of a river are shown by line\n    (       ) in the figure.\n\n               P            Q        R          S\n\n                           Downstream 34\n\n(A) The lines ( ---------- ) and ( ______ ) most likely represent:\na. phosphorus and nitrogen levels\nb. nitrogen and oxygen levels\nc. dissolved oxygen and carbon dioxide levels\nd. decomposer microbes and oxygen levels\n\n                           a.        b.    c.         d.\n\n(B) Zone of recovery would be: P /        Q/    R/    S\n\n(C) The zone in which active swimmers will not be found would be:\n       P/    Q/   R/   S\n\n52. (3 points) Ecological pyramids depict the inter-relationships between the\n   various trophic levels. Four pyramids are shown below. Match them against\n   the correct description\n\n                         C3                                        C2\n                   D   C2                                        C1\n\n   I                       C1                   II                   P\n\n                           P                                         D\n\n                                                                          C3\n                                                                         C2\n       III                  C2                       IV                  C1\n                            C1                                           P\n                                 P\n                                           35\n\n     (A) Pyramid of biomass in a tree ecosystem: _______\n\n     (B) Number pyramid of grassland ecosystem: _________\n\n     (C) Pyramid of biomass in a pond: __________\n\n     53. (2 points) Soda lime is a mixture of sodium hydroxide and calcium hydroxide\n        and can be used to measure the rate of CO2 production by soil\n        microorganisms. It reacts with CO2 as follows:\n\n        Ca(OH)2 + 2 NaOH + 2CO2 Æ CaCO3 + Na2CO3 + 2H2O\n\n        Assume the following:\n\n     I. Weight of dry soda lime just before the experiment: ‘A’ gm\n\n     II. ‘A’ gm soda lime incubated with soil in airtight container for 4 days and\n        weighed: B gm\n\n     III. ‘A’ gm soda lime incubated without soil in airtight container for 4 days and\n        weighed: C gm\n\n     IV. Sample II dried and weighed: Bd\n\n     V. Sample III dried and weighed: Cd\n\n     (Assume that soil moisture has no effect on the results.)\n     Answer the following questions:\n\ni.      Amount of CO2 present in air inside the container:\n\n                                             36\n\n ii.   Amount of CO2 produced by soil organisms:\n\nBIOSYSTEMATICS (6.5 points)\n\n   54. (6.5 points) Analyse the following schematic figures depicting basic\n       architecture of body plan for multicellular animals and answer questions A – C.\n\n                                          37\n\n(A) A ‘true’ coelom is represented in:\na. A and B only\nb. A only\nc. B and C only\nd. A, C and D only\ne. B, C and G only\n\n(B) The most likely evolutionary sequence of body plans acquired by multicellular\n   animals is represented by:\na. E Æ F Æ G Æ C Æ A\nb. E Æ G Æ D Æ C Æ A\nc. F Æ E Æ G Æ D Æ C Æ B Æ A\nd. F Æ E Æ G Æ C Æ A\n\n(C) Choose the correct body plan from A to G and fill in the table.\n\n                                         38\n\nColumn I               Column II\nName of the animal Body Plan\n(i) Silverfish\n(ii) Planaria\n(iii) Jelly fish\n(iv) Lizard\n(v) Ascaris\n\n         ********** END OF SECTION B ***********\n\n                           39",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 1,
+     "question": "(1 point) According to the current concept of Central Dogma of molecular biology, information transfer from proteins to nucleic acids does not occur. Which of the following could be considered a violation of the Central Dogma? I. Synthesis of DNA on an RNA template by reverse transcriptase. II. Gene transcription being activated by a protein binding to regulatory sequences. III. Editing of RNA transcripts by the insertion and deletion of ribonucleotides. IV. A polynucleotide polymerase specifically synthesizing a gene encoding itself from free deoxyribonucleotides.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.2",
+     "points": 1,
+     "question": "(1 point) The coding ratio in all known organisms is three, i.e. three nucleotides specify one amino acid. If DNA were to exclusively consist of only A-T base pairs, what would the minimum coding ratio be assuming that there are only 20 amino acids to be encoded?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.3",
+     "points": 1,
+     "question": "(1 point) The order of permeability for the following molecules across the plasma membrane will be:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.4",
+     "points": 1,
+     "question": "(1 point) Mammalian sulfite oxidase is the last enzyme in the pathway for degradation of sulfurcontaining amino acids. Sulfite oxidase catalyses the oxidation of sulfite to sulfate, using the heme containing protein, cytochrome C, as an electron acceptor. SO3 2+ 2 cytochrome Coxidised + H2O ↔ SO4 2+ 2cytochrome Creduced + 2 H+ Amino acid that is most likely to be present at the substrate binding site of this enzyme is:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.5",
+     "points": 1,
+     "question": "(1 point) Consider a chemical reaction in which substrate A is enzymatically converted to product. The rate of change of substrate to product with 2 increasing concentration of substrate is shown by broken line. The rate of reaction with increasing concentration of substrate A with a fixed amount of substance B is shown by unbroken line. [A] [A] + fixed amount of [B] Velocity 0 Concentration If the same reaction is carried out with fixed quantity of substrate and increasing concentration of B, the expected result will be:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.6",
+     "points": 1,
+     "question": "(1 point) Which of the following will be true for a resting muscle cell as compared to a moderately active muscle cell? i. Low [ATP] as compared to [ADP] ii. Low [NADH] as compared to [NAD+] iii. Low [FADH2] as compared to [FAD] iv. Slow rate of TCA cycle.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.7",
+     "points": 1,
+     "question": "(1 point) In the electron transport chain in mitochondria, several protein complexes traverse the mitochondrial inner membrane. Mark the figure that shows correct topology of these complexes.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.8",
+     "points": 1,
+     "question": "(1 point) When two plants P and Q were grown in a heavily shaded greenhouse, they showed the following changes in light compensation points. 100 Light Compensation Point (foot candles) P Q 0 15 Weeks of acclimatization 5",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.9",
+     "points": 1,
+     "question": "(1 point) A typical light response curve of photosynthesis is shown. The limiting factor/s for photosynthesis at M and N is/are: M Photosynthetic CO2 assimilation N 0 Light intensity",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.10",
+     "points": 1,
+     "question": "(1 point) Read the following description of a plant cell type. “These are elongated tapering cells with cross walls, secondary thickenings with pits and are dead at maturity” 6 Which of the following is the correct statement about the function of cells described?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.11",
+     "points": 1,
+     "question": "(1 point) Girdling is a procedure sometimes followed in plants in which bark of the plant is removed in a circular pattern from any point. Which of the following can result from this?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.12",
+     "points": 1,
+     "question": "(1 point) Soil formation is a slow and continuous process. Following graph indicates soil composition over time. In this graph P, Q and R must be: P Percentage of soil mass Q R 1000 years Time 106 years",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.13",
+     "points": 1,
+     "question": "(1 point) In an experiment, the aleurone layer of Oat seeds is destroyed chemically. It is observed that such seeds fail to germinate. Which of the following treatments will be useful to trigger the germination?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.14",
+     "points": 1,
+     "question": "(1 point) Arrange the embryo-sac development stages of angiosperms in correct order:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.15",
+     "points": 1,
+     "question": "(1 point) The circulatory system shown below represents: 8",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.16",
+     "points": 1,
+     "question": "(1 point) Consider three different types of mammalian skeletal muscles: (i) Ocular muscle (ii) Soleus muscle (involved in continual support of body against gravity) (iii) Gastrocnemius muscle (involved in velocity of limb movements) Muscle contraction properties of these muscles are depicted in the graph. Y Z X Force of contraction 0 40 80 200 milliseconds The muscles represented by X, Y and Z are:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.17",
+     "points": 1,
+     "question": "(1 point) In reptiles such as lizards and turtles, the solute concentration of urine is never greater than that of plasma. This is due to the absence of:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.18",
+     "points": 1,
+     "question": "(1 point) The rate of metabolism of an animal is depicted in the graph. The animal is most likely: Oxygen consumption environment Oxygen content of Environmental Temperature",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.19",
+     "points": 1,
+     "question": "(1 point) Hemoglobin molecule binds to oxygen and transports it across various tissues in animals. It shows a characteristic binding pattern at various partial pressures of oxygen. The three graphs P, Q and R in the figure represent binding patterns in: O2 content, ml / 100 ml P Q R pO2 (mm of Hg) 100 10",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.20",
+     "points": 1,
+     "question": "(1 point) Phenylketonuria (PKU) results due to absence of phenylalanine hydroxylase and Alkaptoneuria (AKU) results due to the absence of homogenistic acid oxidase. The following pathway shows where these enzymes function. Phenylalanine Phenylalanine hydroxylase Tryosine P-Hydroxyphenylpyruvic acid Homogenistic acid Homogenistic acid oxidase Maleyl acetoacetic acid If a person is homozygous for recessive alleles of both PKU and AKU, he will show symptoms of: 11",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.21",
+     "points": 1,
+     "question": "(1 point) You have cloned a human insulin cDNA and inserted it into E. coli. However, the insulin gene was not expressed. Which of the following could be the cause of your finding? i. The cDNA was inserted in opposite direction. ii. The cDNA had an altered Shine-Dalgarno sequence. iii. An intron was present in coding region. iv. The cDNA encoded the protein which was not processed posttranslationally in E.coli.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.22",
+     "points": 1,
+     "question": "(1 point) A male child brought up in an orphanage was claimed by an old couple. This old couple had lost their daughter and son-in-law in an accident, when they were on a tour with the child, who was one year old. Another young couple also claimed that the child belonged to them, however, the wife got divorced after the child went missing and married another person. Which test will be most appropriate to solve the parentage problem?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.23",
+     "points": 1,
+     "question": "(1 point) In rabbits, two genes A and B are present on two different chromosomes. Products of both wild type A and B genes are essential for normal hearing. Homozygous recessive mutants either for A, B or both results in deafness. If a double heterozygous male (AaBb) is crossed with a double heterozygous female, the ratio of phenotypically normal and deaf rabbits will be:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.24",
+     "points": 1,
+     "question": "(1 point) The figure shows the restriction enzyme cutting sites (R1-R3) in a wild type (n) and mutant (n -) gene. R1 500 R2 R1 400 R3 100 R2 Wild type n gene Mutant n - gene",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.25",
+     "points": 1,
+     "question": "(1 point) The evolutionary force that is believed to be the driving force behind sympatric evolution is:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.26",
+     "points": 1,
+     "question": "(1 point) The biomass of two different plant species M and N were analyzed and the respective fractions of the different plant parts were calculated. They have been represented below.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.27",
+     "points": 1,
+     "question": "(1 point) The following curves show the growth of two different species of bacteria G and H. They were cultured in Petri plates of two different sizes (7cm diameter and 10 cm diameter) with 20 ml of a similar nutrient media. (The lighter colour indicates the population in the smaller Petri plate.) Population Species G Population Species H Time Time Which of the following would be true for the above experiment? I. Species G has reached its carrying capacity. II. Species H has reached its carrying capacity. III. Species G is limited in its population by space IV. Species H is limited in its population by space 15",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.28",
+     "points": 1,
+     "question": "(1 point) A community comprises of three species. The pyramids below show the distribution of pre-reproductive, reproductive and post-reproductive individuals. If the numerical representation of all the three species in the community is similar, which of the following statements would be true? Species K Species L Species M Post-reproductive Reproductive Pre-reproductive I. Species K is a growing population II. Species L is a growing population III. Species M is a decreasing population IV. The community is increasing in population.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.29",
+     "points": 1,
+     "question": "(1 point) Satellite-based sensors identify different objects based on their reflectance properties. Sensors are designed in a manner that they can identify the feature of interest. The following are the typical reflectance curves of 16 vegetation, water and barren soil. The combination of which two spectral bands will best discriminate vegetation? Vegetation Barren Soil",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.30",
+     "points": 1,
+     "question": "(1 point) Which of the following behaviors has a ‘learning’ component in it?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.31",
+     "points": 1,
+     "question": "(2 points) A student made a pictorial representation of a eukaryotic cell membrane and labeled the components as follows. cholesterol S Cell exterior SH Cell interior SH",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.32",
+     "points": 1,
+     "question": "(3 points) Following are three different antibacterial agents that have different mechanisms of action: Type I antibacterial agent: It kills bacteria by inhibiting DNA-dependent RNA polymerase in bacterial cells, thus preventing transcription to RNA and subsequent translation to proteins. (eg. Rifampicin) Type II antibacterial agent: It is a glycoside hydrolase and functions by attacking peptidoglycans of bacterial cell wall thus leading to lysis of the cell. (eg. Lysozyme) Type III antibacterial agent: It inhibits growth of bacteria by affecting folic acid synthesis. (eg.Sulfonamide) When bacteria were grown in three culture media to which one of these antibacterial agents was added at the point shown by an arrow, growth patterns (P, Q and R) were obtained. Match them against the correct type of antibacterial agent added and fill in the blanks. 19 P Q Time Time",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.33",
+     "points": 1,
+     "question": "(2 points) Consider a gene 25.5kb in length. The regulatory region is 500bp long. The number of exons and introns in a gene are 9 and 8 respectively with the mean size of each being 145bp and 2960 bp respectively.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.34",
+     "points": 1,
+     "question": "(2 points) Restriction endonucleases are enzymes that recognize short nucleotide sequences (restriction sites) in a DNA molecule and cleave the molecule at that site. The recognition site of the enzyme TaqI is TCGA. What would be the maximum number of recognition sites that this enzyme would have on a DNA molecule that is 5kb long? Assume that the DNA molecule has a random sequence with equal amount of each base. Answer: _____________",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.35",
+     "points": 1,
+     "question": "(4 points) Various methods can be used to isolate the chloroplasts from a plant material. Based on the types of chemicals used, their concentrations as well as treatment conditions, final results may vary. Study methods I to IV used to isolate chloroplasts from a plant leaf and match the resultant structure and function of chloroplast against each method. Choose from the options given below and fill in the table. Note: Only a completely correct row will be given one point. Method Chloroplast CO2 Electron NADP morphology fixation Transport reduction",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.36",
+     "points": 1,
+     "question": "(4 points) Heat produced by the oxidation of a foodstuff can be measured in two ways: Method I: by using Bomb’s calorimeter where the food is artificially oxidized and the heat produced is measured Method II: by placing the animal in an insulated chamber, feeding a known quantity of food and measuring the heat production.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.37",
+     "points": 1,
+     "question": "(2 points) A typical summer flowering plant shows 15 hours as critical period. Which of the following treatment cycles respectively will make it flower in winter but not in summer?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.38",
+     "points": 1,
+     "question": "(2 points) Evolutionary tree of land plants is shown in the diagram. The correct description of P, Q & R is: now R 200 mya 300 Q 400 500 P",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.39",
+     "points": 1,
+     "question": "(2 points) Following are few peculiar structures found among plants. Indicate the tissue responsible for the distinguishing feature in each. Choose from the options below and write the number indicating the tissue type against each structure.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.40",
+     "points": 1,
+     "question": "(2 points) The pressure flow model explains phloem translocation as a flow of solution driven by an osmotically generated pressure gradient between source 25 and sink. The values for water (Ψw), solute (Ψs) and pressure (Ψp) potentials in four different regions of a plant are given in the table. Determine the correct cell types that would have these values. Regions in a plant Potentials I. Ψw = -0.4MPa Ψp = 0.3MPa Ψs = - 0.7MPa II. Ψw = -1.1MPa Ψp = 0.6MPa Ψs = -1.7MPa III. Ψw = -0.8MPa Ψp = -0.7MPa Ψs = -0.1MPa IV. Ψw = -0.6MPa Ψp = -0.5MPa Ψs = -0.1MPa Options: A. Xylem vessel in leaf B. Phloem sieve element in leaf C. Phloem sieve element in root D. Xylem vessel element in root",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.41",
+     "points": 1,
+     "question": "(2 points) The C3, C4 and CAM pathways are the major CO2 fixing pathways present in plants. The following are a few statements relating to one or more of the pathways. Assign all the possible pathway/s to each statement. Options: A. C3 pathway B. C4 pathway C. CAM pathway Note: Only an entirely correct answer in each blank will get 0.5 point. Statements:(1) The Calvin cycle operates in the chloroplast: __________ (2) The primary carboxylation is catalysed by rubisco:__________ (3) The atmospheric CO2 is first fixed during the day:__________ (4) The whole process of CO2 uptake and it's fixation takes place in a single cell:________",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.42",
+     "points": 1,
+     "question": "(2.5 points) A few life forms and the concentration of the environment relative to body fluids are listed in column I and II of the table respectively. Column I Column II Organism Environmental concentration relative to body fluids",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.43",
+     "points": 1,
+     "question": "(8 points) Consider a 70 kg man whose initial plasma osmolarity is 280 mOsm/lt. Assume extracellular fluid (ECF) to be 20 % of the body weight and intracellular fluid (ICF) volume to be 40% of the body weight.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.44",
+     "points": 1,
+     "question": "(5 points)Two genes 'p' and 'q' are present on third chromosome of fruitfly, Drosophila melanogaster. The corresponding wild type alleles are represented as p+ and q+. They were located at 60 and 68 cM positions respectively. A female fly (pp/q+q+) was crossed with a male fly (p+p+/qq). All offspring were phenotypically wild type.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.45",
+     "points": 1,
+     "question": "(2 points) Study the characteristics of a population represented in the graphs below. 29 offspring produced) Proportion in Fitness (No. of population Body Size Body Size (A). Mark the correct graph that represents the type of selection that this population is likely to undergo.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.46",
+     "points": 1,
+     "question": "(2 points) A rat ‘A’ is familiarized with a three dimensional maze with some doors opening and closing at definite intervals. Such a rat quickly reaches upto a specific chamber where food is deposited as compared to a rat 'B' which is not familiar with the maze. This is observed even if A and B are caged together. Mark the following statements as true (T) or false (F):",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.47",
+     "points": 1,
+     "question": "(3 points) There are basic differences in the physiology and life histories such as mode of fertilization, bearing and rearing the young, etc in different groups of animals. These can account for the differences in parental care as well as mating systems in these groups. For each of the following life history characteristics, assign the most probable mating system and parental care type. Choose from the options given below and fill in the table with the appropriate alphabets and numbers. 31 No. Characteristics Parental Care Mating System Type 1. Large investment required for incubating and feeding the young for prolonged time 2. Lactating females, internal fertilization 3. External fertilization, females exhibit territorial behaviour Options for Parental Care Type: a. Male parental care b. Female parental care c. Biparental care d. No parental care Options for Mating System: I. Monogamy II. Polyandry III. Polygyny IV. Promiscuity",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.48",
+     "points": 1,
+     "question": "(2 points) In a study on the mycorrhizal community found in the rhizosphere (area around root system) of Abies pindrow (a conifer), the following information was found.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.49",
+     "points": 1,
+     "question": "(2 points) A two month study on a population of 500 rats showed that the emigration of individuals from the population was 1.5 times the rate of immigration. At the same time the birth rate was found to be two times the rate of death. If the number of emigrants during the period of study was 75 and the birth rate was 10 %, what would be the number of rat individuals in the population at the end of the study?",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.50",
+     "points": 1,
+     "question": "(2 points) A quadrate survey in a forest block revealed the following information. The size of each quadrate was 50m x 50m. 33 Species No. of Individuals Q1 Q2 Q3 Q4 Tectona grandis 7 8 5 6 Dillenia pentagyna 1 1 - - Cordia sebastiana 3 - 3 3 Terminalia arjuna 6 6 6 6 Oroxylum indicum - - - 3 Fimrania colorata - - - 12 Disopyros melanoxylon 16 8 8 2 Lagerstroemia 43 31 35 - parviflora Dalbergia sisoo 31 - - - State whether the following statements are true (T) or false (F).",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.51",
+     "points": 1,
+     "question": "(3 points) The levels of organic waste in the path of a river are shown by line ( ) in the figure. P Q R S Downstream 34",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.52",
+     "points": 1,
+     "question": "(3 points) Ecological pyramids depict the inter-relationships between the various trophic levels. Four pyramids are shown below. Match them against the correct description C3 C2 D C2 C1 I C1 II P P D C3 C2 III C2 IV C1 C1 P P 35 (A) Pyramid of biomass in a tree ecosystem: _______ (B) Number pyramid of grassland ecosystem: _________ (C) Pyramid of biomass in a pond: __________",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.53",
+     "points": 1,
+     "question": "(2 points) Soda lime is a mixture of sodium hydroxide and calcium hydroxide and can be used to measure the rate of CO2 production by soil microorganisms. It reacts with CO2 as follows: Ca(OH)2 + 2 NaOH + 2CO2 Æ CaCO3 + Na2CO3 + 2H2O Assume the following:",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.54",
+     "points": 1,
+     "question": "(6.5 points) Analyse the following schematic figures depicting basic architecture of body plan for multicellular animals and answer questions A – C. 37",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    }
+   ],
+   "solution": "ANSWER KEY: SECTION A\n              Q.                          Q.\n              No.   a   b       c   d     No.   a     b     c       d\n               1        ✔                 16                    ✔\n\n               2                    ✔     17                ✔\n\n               3        ✔                 18    ✔\n\n               4                    ✔     19                ✔\n\n               5            ✔             20    ✔\n\n               6                    ✔     21         ✔\n\n               7                    ✔     22                ✔\n\n               8    ✔                     23                ✔\n\n               9        ✔                 24                ✔\n\n              10                    ✔     25                ✔\n\n              11    ✔                     26    ✔\n\n              12                    ✔     27    ✔\n\n              13            ✔             28                    ✔\n\n              14                    ✔     29    ✔\n\n              15        ✔                 30                    ✔\n\n                                        Not\n                    X       Y           attempted\n        SECTION A                                   3X − Y =\n        SECTION B                                   3X =\n                                                    Total score =\n\n                                          -1-\n\nINBO - 2012                                              ROLL NO.\n\n                              ANSWER KEY: SECTION B\n\n     (Note: In Part B of the question paper, if a student has written full length\n     answer instead of the alphabet or number of the respective option, it is also\n     considered for marking.)\n\n        CELL BIOLOGY (17 points)\n\n        31.      (2 points)\n\n              a. ________F\n\n              b. ________F\n\n              c. ________T\n\n              d. ________ T\n\n        32.      (3 points)\n\n              P: Type __________III\n\n              Q: Type __________I\n\n              R: Type __________II\n\n        33.      (2 points)\n\n              (A) Answer: ____________5.1%\n\n              (B) Answer: ___________434\n\n        34.      (2 points)\n              Answer: _____________19\n\n                                            -2-\n\nINBO - 2012                                                             ROLL NO.\n\n      35.         (4 points)\n\n                    Method                      Chloroplast CO2                  Electron    NADP\n                                                morphology fixation              Transport   reduction\n\n      a. Isolation in hypertonic                iv                 a             a           a\n         sugar solution.\n\n      b. Isolation in hypotonic                 ii                 b             b           b\n         sugar solution and\n         immediate transfer to\n         isotonic media.\n\n      c. Prolonged treatment in                 iii                c             b           d\n         hypotonic sugar solution\n         and later with high salt\n         concentration.\n\n      d. Plant extract subjected to             i                  c             c           c\n         sonication and detergent\n         treatment.\n\n      36.         (2 + 2 = 4 points)\n            (A)\n\n                                    a.      b.              c.\n\n                                                       ✔\n\n            (B)\n\n                                 (i)     (ii)          (iii)     (iv)      (v)       (vi)\n\n                                ✔                                         ✔\n\n                                                      -3-\n\nINBO - 2012                                                    ROLL NO.\n\n PLANT SCIENCES (10 points)\n\n    37.          (2 points)\n\n                                 a.       b.         c.   d.\n\n                                                ✔\n\n    38.          (2 points)\n\n                                 a.       b.         c.   d.\n\n                                      ✔\n\n    39.          (2 points)\n\n                    a. _____2\n\n                    b. _____2\n\n                    c. _____ 3\n\n                    d. ______2\n\n    40.          (2 points)\n          I.        _____C\n\n          II.       _____B\n\n          III.      _____A\n\n          IV.       _____D\n\n                                               -4-\n\nINBO - 2012                                                  ROLL NO.\n\n       41.         (2 points)\n\n             (1) __________A, B and C\n\n             (2) __________A\n\n             (3) __________A and B\n\n             (4) __________A and C\n\n    ANIMAL SCIENCES (10.5 points)\n\n       42.         (2.5 points)\n\n             A: _____iii\n\n             B: _____ii\n\n             C: _____i\n\n             D: _____iii\n\n             E: _____ii\n\n       43.         (3+2+3 = 8 points)\n\n             (A)\n\n               Initial condition        Volume(lt)    Concentration (mOsm/lt)   Total (mOsm)\n                       ECF                 14                  280                 3920\n                       ICF                 28                  280                 7840\n               Total body fluid            42                  280                 11760\n\n             (B) Answer: __309.1_______(mOsm/lt)\n\n                                                -5-\n\nINBO - 2012                                                       ROLL NO.\n\n             (C)\n\n                                    Net Qualitative Effect                   True/False\n              (a) Extracellular volume will increase.                            T\n              (b) Intracellular volume will decrease.                            T\n              (c) Extracellular osmolarity will decrease.                        F\n              (d) Intracellular osmolarity will decrease.                        F\n              (e) There will be an increase in total body fluids.                T\n              (f) There will be an equal osmolarity between ECF and ICF.         T\n\n       GENETICS & EVOLUTION (7 points)\n\n       44.         (3 + 2 = 5 points)\n             (A)\n                   Answer: Of F1 female:\n                    ________46%pq+, 46%p+q, 4%pq, 4%p+q+_______________\n\n                   Of F1 male:\n                   __________50%pq+, 50%p+q____________________________\n\n             (B)\n\n             Answer:_____46%pq+, 46%p+q,4%pq, 4%p+q+_________________\n\n       45.         (2 points)\n\n             (A).\n                                   a.        b.         c.   d.\n\n                                         ✔\n\n                                                  -6-\n\nINBO - 2012                                                            ROLL NO.\n\n           (B).\n\n                                     a.        b.          c.     d.\n\n                                     ✔\n\n  ETHOLOGY (5 points)\n\n     46.          (2 points)\n           i)        _______T\n\n           ii)       _______T\n\n           iii)      _______F\n\n           iv)       _______T\n\n     47.          (3 points)\n\n                     No.       Characteristics             Parental Care    Mating System\n                                                           Type\n                     1.        Large investment            c                I\n                               required for\n                               incubating and\n                               feeding the young\n                               for prolonged time\n                     2.        Lactating females,          b                III\n                               internal fertilization\n                     3.        External                    a                II\n                               fertilization, females\n                               exhibit territorial\n                               behaviour\n\n                                                     -7-\n\nINBO - 2012                                                          ROLL NO.\n\n  ECOLOGY (14 points)\n\n     48.         (2 points)\n\n                              Species                         + /-\n                              G. aureus                        +\n                              G. virdis                        +\n                              D.spectabilis                    +\n                              G. lobatus                       -\n\n     49.         (2 points)\n\n           Answer: ___________500\n\n     50.         (2 points)\n\n           1. _________F\n\n           2. _________T\n\n           3. _________T\n\n           4. _________F\n\n     51.         (3 points)\n\n           (A)\n                                   a.         b.         c.   d.\n\n                                                              ✔\n\n           (B) P /    Q/ ✔R/            S\n\n                                                   -8-\n\nINBO - 2012                                                          ROLL NO.\n\n             (C) P /     ✔Q / ✔ R /    S (Any one of the two correct answers will get\n\n             one point.)\n\n       52.         (3 points)\n\n             (A) _______II\n\n             (B) _______II\n\n             (C) _______III\n\n       53.         (2 points)\n                   i.     Answer: ___________C - A\n\n                   ii.    Answer: ___________B - C\n\n    BIOSYSTEMATICS (6.5 points)\n\n       54.         (2+2+2.5 = 6.5 points)\n\n             (A)\n                                  a.        b.         c.       d.       e.\n\n                                                            ✔\n\n             (B)\n                                  a.        b.         c.       d.\n\n                                                                ✔\n\n                                                 -9-\n\nINBO - 2012                                         ROLL NO.\n\n        (C)\n\n              Column I              Column II\n              Name of the animal Body Plan\n              (i) Silverfish             C\n              (ii) Planaria              E\n              (iii) Jelly fish           F\n              (iv) Lizard                A\n              (v) Ascaris                G\n\n                  ********** END OF SECTION B ***********\n\n                                    - 10 -"
+  }
+ ]
+}

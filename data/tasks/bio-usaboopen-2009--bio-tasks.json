@@ -1,0 +1,1963 @@
+{
+ "setId": "bio-usaboopen-2009--bio-tasks",
+ "olympiadId": "bio-usaboopen-2009",
+ "title": "Биология → USABO — Open → 2009",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/usaboopen/2009/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/usaboopen/2009/bio-sol.pdf",
+ "generatedBy": "test-parser",
+ "type": "test",
+ "generatedAt": "2026-11-09T13:45:09.057Z",
+ "quality": {
+  "tasks": 5,
+  "parts": 50,
+  "withPoints": 50,
+  "withReference": 50,
+  "withQuestion": 50,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Тест: вопросы 1–10",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q1",
+     "kind": "choice",
+     "points": 1,
+     "question": "1. How many percent of Guanine is present in chromosome 2?",
+     "options": [
+      {
+       "key": "A",
+       "text": "10%"
+      },
+      {
+       "key": "B",
+       "text": "20%"
+      },
+      {
+       "key": "C",
+       "text": "30%"
+      },
+      {
+       "key": "D",
+       "text": "40 %"
+      },
+      {
+       "key": "E",
+       "text": "50%"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q2",
+     "kind": "choice",
+     "points": 1,
+     "question": "2. Assume that the entire sequence of the chromosome is transcribed. Which of the following is true for the content of Adenine in the transcribed RNA?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Adenine is 40% of the RNA."
+      },
+      {
+       "key": "B",
+       "text": "Adenine is 20% of the RNA."
+      },
+      {
+       "key": "C",
+       "text": "Adenine is at least 20% of the RNA."
+      },
+      {
+       "key": "D",
+       "text": "Adenine is at least 40% of the RNA."
+      },
+      {
+       "key": "E",
+       "text": "The content of Adenine is not possible to determine based on the information provided."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q3",
+     "kind": "choice",
+     "points": 1,
+     "question": "3. Which of the following is a primary organ or structure of the immune system?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Spleen"
+      },
+      {
+       "key": "B",
+       "text": "Thymus"
+      },
+      {
+       "key": "C",
+       "text": "Tonsils"
+      },
+      {
+       "key": "D",
+       "text": "Lymph nodes"
+      },
+      {
+       "key": "E",
+       "text": "Appendix"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-immunology",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q4",
+     "kind": "choice",
+     "points": 1,
+     "question": "4. “Hairs” (such as trichomes) on the surface of leaves may limit:",
+     "options": [
+      {
+       "key": "A",
+       "text": "photosynthesis."
+      },
+      {
+       "key": "B",
+       "text": "intake of carbon dioxide."
+      },
+      {
+       "key": "C",
+       "text": "evapotranspiration."
+      },
+      {
+       "key": "D",
+       "text": "drought adaptations."
+      },
+      {
+       "key": "E",
+       "text": "movement of water in the vessels. 1"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q5",
+     "kind": "choice",
+     "points": 1,
+     "question": "5. You discover a worm-like organism that inhabits soil samples that has the following characteristics: segmented body and few bristle-like extensions. To which one of the following groups will you assign this organism?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Cestoda"
+      },
+      {
+       "key": "B",
+       "text": "Polychaeta"
+      },
+      {
+       "key": "C",
+       "text": "Oligochatea"
+      },
+      {
+       "key": "D",
+       "text": "Onychophora"
+      },
+      {
+       "key": "E",
+       "text": "Myriapoda"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q6",
+     "kind": "choice",
+     "points": 1,
+     "question": "6. Evolution is a product of:",
+     "options": [
+      {
+       "key": "A",
+       "text": "realized niche and biomagnification."
+      },
+      {
+       "key": "B",
+       "text": "phenotypic variation and selective pressures."
+      },
+      {
+       "key": "C",
+       "text": "rainfall and temperature."
+      },
+      {
+       "key": "D",
+       "text": "adaptability within one generation."
+      },
+      {
+       "key": "E",
+       "text": "extinction and landscape variability."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q7",
+     "kind": "choice",
+     "points": 1,
+     "question": "7. Which of the following is NOT true of allosterically regulated enzymes?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Their activity can be modulated by effector molecules."
+      },
+      {
+       "key": "B",
+       "text": "They demonstrate cooperativity."
+      },
+      {
+       "key": "C",
+       "text": "Their activity can be modulated by substrate concentration."
+      },
+      {
+       "key": "D",
+       "text": "They follow Michaelis-Menten kinetics."
+      },
+      {
+       "key": "E",
+       "text": "Plots of their rate of product formation versus substrate concentration are sigmoidal in shape."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q8",
+     "kind": "choice",
+     "points": 1,
+     "question": "8. Why can glycolysis proceed under anaerobic or aerobic conditions while the citric acid cycle only proceeds under aerobic conditions?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Oxygen is a byproduct of the conversion of the glycolytic intermediate glucose-6-phosphate to fructose-6-phosphate."
+      },
+      {
+       "key": "B",
+       "text": "Enzymes of glycolysis do not use oxygen as cofactors, while enzymes of the citric acid cycle require oxygen for proper folding."
+      },
+      {
+       "key": "C",
+       "text": "Enzyme catalysis during the citric acid cycle is regulated by allosteric effectors, which include oxygen."
+      },
+      {
+       "key": "D",
+       "text": "NAD+ is produced during three steps of glycolysis and only one step of the citric acid cycle."
+      },
+      {
+       "key": "E",
+       "text": "Under anaerobic conditions, NAD+ (for glycolysis) can be regenerated through the conversion of pyruvate into lactate."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q9",
+     "kind": "choice",
+     "points": 1,
+     "question": "9. If a child is blood type O, which of the following blood types is IMPOSSIBLE for either parent?",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q10",
+     "kind": "choice",
+     "points": 1,
+     "question": "10. Which of the following initiates blood clotting?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Mechanical or chemical damage to blood vessel endothelium"
+      },
+      {
+       "key": "B",
+       "text": "Lymphocyte response to pathogen"
+      },
+      {
+       "key": "C",
+       "text": "Conversion of fibrinogen to fibrin"
+      },
+      {
+       "key": "D",
+       "text": "Hemophilia factor XIII"
+      },
+      {
+       "key": "E",
+       "text": "Release of clotting factor I"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-immunology",
+     "reference": "Правильный ответ: A"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Тест: вопросы 11–20",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q11",
+     "kind": "choice",
+     "points": 1,
+     "question": "11. Glomerular filtration rate increases if:",
+     "options": [
+      {
+       "key": "A",
+       "text": "a kidney stone obstructs the ureter."
+      },
+      {
+       "key": "B",
+       "text": "there is efferent arteriolar dilation."
+      },
+      {
+       "key": "C",
+       "text": "plasma protein concentration decreases."
+      },
+      {
+       "key": "D",
+       "text": "ATP is released by the macula densa cells."
+      },
+      {
+       "key": "E",
+       "text": "extracellular volume decreases."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q12",
+     "kind": "choice",
+     "points": 1,
+     "question": "12. An individual with rampant untreated type I diabetes is brought to the emergency room. Following an emergency injection of insulin all of the following would occur EXCEPT a:",
+     "options": [
+      {
+       "key": "A",
+       "text": "decrease in the renal clearance of glucose."
+      },
+      {
+       "key": "B",
+       "text": "decrease in plasma K+."
+      },
+      {
+       "key": "C",
+       "text": "decrease in blood pH."
+      },
+      {
+       "key": "D",
+       "text": "decrease in rate of lipolysis."
+      },
+      {
+       "key": "E",
+       "text": "decrease in respiratory rate."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q13",
+     "kind": "choice",
+     "points": 1,
+     "question": "13. Which of the following statements about the cardiac cycle is correct? A At no time during the cardiac cycle are the mitral and aortic valves both open. B. The pressure in the left atrium exceeds that of the left ventricle throughout the ventricular ejection period. C. Most filling of the ventricle in diastole in a resting individual occurs with atrial contraction. D. The second heart sound is most closely associated with the closure of the left atrioventricular (mitral) valve. E. The first heart sound is the result of turbulence associated with ventricular filling.",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q14",
+     "kind": "choice",
+     "points": 1,
+     "question": "14. During supination the:",
+     "options": [
+      {
+       "key": "A",
+       "text": "humerus is flexed laterally by the action of the triceps brachii."
+      },
+      {
+       "key": "B",
+       "text": "humerus is adducted by the action of the deltoid."
+      },
+      {
+       "key": "C",
+       "text": "radius is rotated by the action of the biceps brachii."
+      },
+      {
+       "key": "D",
+       "text": "ulna is rotated by the action of the brachialis."
+      },
+      {
+       "key": "E",
+       "text": "ulna and radius rotate around each other through the joint actions of the supinator and coracobrachialis. 3"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q15",
+     "kind": "choice",
+     "points": 1,
+     "question": "15. What is the difference between orienting behavior and piloting?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Orienting movements are fast responses to geomagnetic stimuli; piloting is finding a way using familiar landmarks."
+      },
+      {
+       "key": "B",
+       "text": "Orienting is the ability to follow a compass during navigation; piloting is the ability to use map information during navigation."
+      },
+      {
+       "key": "C",
+       "text": "Orienting is used during long-distance movements such as migration; piloting is used in short-distance movements involving homing."
+      },
+      {
+       "key": "D",
+       "text": "Orienting is the ability to use a sun or star compass; piloting is the ability to use a magnetic compass."
+      },
+      {
+       "key": "E",
+       "text": "Orienting operates only during daylight hours; piloting operates both day and night."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-ethology",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q16",
+     "kind": "choice",
+     "points": 1,
+     "question": "16. Which of the following joints are present after birth but absent later in life?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Pubic symphysis"
+      },
+      {
+       "key": "B",
+       "text": "Tibio-fibular fusion joint"
+      },
+      {
+       "key": "C",
+       "text": "Sutures in the skull"
+      },
+      {
+       "key": "D",
+       "text": "Radio-ulnar joint"
+      },
+      {
+       "key": "E",
+       "text": "Epiphyseal plate"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q17",
+     "kind": "choice",
+     "points": 1,
+     "question": "17. Mice fur coloration is a trait determined from 2 genes positioned on different chromosomes. Gene A has a dominant allele (A) for black color and a recessive allele (a) for white color. The dominant allele of gene B causes white colored fur regardless which of the alleles of A is present. A homozygous dominant mouse was crossed with homozygous recessive mouse. The offspring of this cross (the first filial generation or F1) were self-fertilized. What is the expected ratio of white to black mice in the second filial generation (F2)?",
+     "options": [
+      {
+       "key": "A",
+       "text": "3 white : 1 black"
+      },
+      {
+       "key": "B",
+       "text": "13 white : 3 black"
+      },
+      {
+       "key": "C",
+       "text": "5 white : 3 black"
+      },
+      {
+       "key": "D",
+       "text": "9 white : 7 black"
+      },
+      {
+       "key": "E",
+       "text": "1 white : 1 black"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q18",
+     "kind": "choice",
+     "points": 1,
+     "question": "18. A complication of mitral stenosis (partial blockage of the mitral valve) is the formation of thrombi in the hypertrophic (enlarged) left atrium. On its first pass through the circulatory system (before returning to the right atrium) a thrombus dislodged from the left aspect of the interatrial septum valve may produce all the following EXCEPT:",
+     "options": [
+      {
+       "key": "A",
+       "text": "gangrene in the posterior aspect of the left leg by occluding the profunda femoris (deep femoral) artery."
+      },
+      {
+       "key": "B",
+       "text": "myocardial infarction by occluding the left coronary artery."
+      },
+      {
+       "key": "C",
+       "text": "renal infarction by occluding a branch of the right renal artery."
+      },
+      {
+       "key": "D",
+       "text": "stroke by occluding the basilar artery."
+      },
+      {
+       "key": "E",
+       "text": "pulmonary embolus by occluding the right pulmonary artery. 4"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q19",
+     "kind": "choice",
+     "points": 1,
+     "question": "19. You decide to become an oceanographer and study the productivity of open oceans because they are so important on a global scale. You tell your friend of your intended career switch. Your friend says, “But don’t oceans have the same productivity as deserts? How could they possibly be important on a global scale?” Which of the following statements explains how both you and your friend are correct?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Because oceans occupy such a large percentage (~2/3) of the Earth’s surface area, they contribute nearly half of global net primary productivity (NPP)."
+      },
+      {
+       "key": "B",
+       "text": "The turnover rates or production to biomass (P:B) ratios are greater in the ocean."
+      },
+      {
+       "key": "C",
+       "text": "There is little biomass per unit area in the ocean."
+      },
+      {
+       "key": "D",
+       "text": "The photosynthetic populations of oceans are largely plankton forms which have a lower rate of photosynthesis than terrestrial plants."
+      },
+      {
+       "key": "E",
+       "text": "The nitrogen in the ocean tends to be bound in sediments and thus is unavailable for use in photosynthesis."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q20",
+     "kind": "choice",
+     "points": 1,
+     "question": "20. You have discovered a new insect that has the following characteristics: four membranous wings and long slender abdomens. To which one of the following orders will you assign this insect?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Hymenoptera"
+      },
+      {
+       "key": "B",
+       "text": "Hemiptera"
+      },
+      {
+       "key": "C",
+       "text": "Trichoptera"
+      },
+      {
+       "key": "D",
+       "text": "Odonata"
+      },
+      {
+       "key": "E",
+       "text": "Lepidoptera"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-animal-anatomy",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Тест: вопросы 21–30",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q21",
+     "kind": "choice",
+     "points": 1,
+     "question": "21. If a strand of DNA has the following nucleotide sequence — ATTCGCTAGACC — what will be the nucleotide sequence of micro RNA (miRNA) be?",
+     "options": [
+      {
+       "key": "A",
+       "text": "UAAGCGAUCUGG"
+      },
+      {
+       "key": "B",
+       "text": "AUUCGCUAGACC"
+      },
+      {
+       "key": "C",
+       "text": "TAAGCGATCAGG"
+      },
+      {
+       "key": "D",
+       "text": "ATTCGCTAGACC"
+      },
+      {
+       "key": "E",
+       "text": "None of the above"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q22",
+     "kind": "choice",
+     "points": 1,
+     "question": "22. The most significant carbon reservoir (sink) is:",
+     "options": [
+      {
+       "key": "A",
+       "text": "the Amazonian rain forest."
+      },
+      {
+       "key": "B",
+       "text": "the rainforests of southeast Asia."
+      },
+      {
+       "key": "C",
+       "text": "the underground petroleum supplies of Siberia."
+      },
+      {
+       "key": "D",
+       "text": "photosynthetic oceanic microorganisms."
+      },
+      {
+       "key": "E",
+       "text": "stable isotopes found in igneous rock. 5 The shown family pedigree reflects the inheritance pattern of a rare form of anemia. *"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q23",
+     "kind": "choice",
+     "points": 1,
+     "question": "23. What is the pattern of inheritance?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Autosomal recessive"
+      },
+      {
+       "key": "B",
+       "text": "Autosomal dominant"
+      },
+      {
+       "key": "C",
+       "text": "X-linked recessive"
+      },
+      {
+       "key": "D",
+       "text": "X-linked dominant"
+      },
+      {
+       "key": "E",
+       "text": "Y-linked dominant"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q24",
+     "kind": "choice",
+     "points": 1,
+     "question": "24. You are a genetic counselor and a couple has come to you asking your advice. The female of the couple, Jane, has a rare disease of the eye that causes blindness at puberty. In addition, all of Jane's siblings have this disease. Jane's mother has the disease as do both of Jane's maternal uncles and her maternal grandmother. Jane's father does not have the disease nor does Jane's maternal grandfather. The male of the couple, Joe, has no history of this disease in his family. Using only the above information, what is the probability the couple's son will go blind at puberty?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Most likely 100%"
+      },
+      {
+       "key": "B",
+       "text": "Most likely 50%"
+      },
+      {
+       "key": "C",
+       "text": "Most likely 25%"
+      },
+      {
+       "key": "D",
+       "text": "Most likely 12.5%"
+      },
+      {
+       "key": "E",
+       "text": "Most likely 6.25%"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q25",
+     "kind": "choice",
+     "points": 1,
+     "question": "25. You construct a phylogenic tree of various species of worms you discover at a refuse site using physiological differences. Your collaborator suspects that two groups that seem to be closely related physiologically are in fact significantly different. Which of the following methods would provide the most accurate information to resolve this problem?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Morphological and anatomical comparison of the organisms"
+      },
+      {
+       "key": "B",
+       "text": "Sequencing of mitochondrial DNA from these organisms"
+      },
+      {
+       "key": "C",
+       "text": "DNA restriction mapping of these organisms"
+      },
+      {
+       "key": "D",
+       "text": "Analysis of niche speciation"
+      },
+      {
+       "key": "E",
+       "text": "Analysis by numerical taxonomy 6"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q26",
+     "kind": "choice",
+     "points": 1,
+     "question": "26. A patient previously diagnosed with Graves disease (an antibodymediated autoimmune disorder) comes to your clinic for a routine follow-up exam. Your patient complains of nervousness, fatigue, and diarrhea all of which are worse when they forget to take their medications for Graves. Upon finding a goiter of the thyroid gland, you draw a complete blood screen and assay iodine uptake by the thyroid gland. You expect to find the following:",
+     "options": [
+      {
+       "key": "A",
+       "text": "increased serum TSH, decreased triiodothyronine (T3) and thyroxine (T4) levels, increased iodine uptake by the thyroid gland"
+      },
+      {
+       "key": "B",
+       "text": "decreased T3 and T4, increased serum cholesterol"
+      },
+      {
+       "key": "C",
+       "text": "decreased iodine uptake by the thyroid gland, decreased serum cholesterol"
+      },
+      {
+       "key": "D",
+       "text": "increased calcium, increased serum TSH"
+      },
+      {
+       "key": "E",
+       "text": "decreased serum TSH, decreased T3, increased T4"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-immunology",
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q27",
+     "kind": "choice",
+     "points": 1,
+     "question": "27. What evidence suggests that there is a critical period for song learning in some bird species?",
+     "options": [
+      {
+       "key": "A",
+       "text": "In mynahs and mockingbirds, individuals continue to sing new songs throughout their lives."
+      },
+      {
+       "key": "B",
+       "text": "Individuals sing songs they are exposed to as juveniles."
+      },
+      {
+       "key": "C",
+       "text": "Individuals that never hear their species’ specific song, can still sing normally as adults."
+      },
+      {
+       "key": "D",
+       "text": "Birds that are deafened soon after hatching never sing normally, but birds that are deafened several months after hatching sing normally."
+      },
+      {
+       "key": "E",
+       "text": "Birds that hatch in the nest of another species will sing the song of that different species."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-animal-anatomy",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q28",
+     "kind": "choice",
+     "points": 1,
+     "question": "28. A UNIQUE feature of fertilization in angiosperms is that:",
+     "options": [
+      {
+       "key": "A",
+       "text": "it is a double fusion event; one sperm fertilizes the egg, the other sperm combines with the polar or fusion nucleus."
+      },
+      {
+       "key": "B",
+       "text": "the sperm may be carried by the wind to the female gametophyte."
+      },
+      {
+       "key": "C",
+       "text": "a pollen tube carries two sperm nuclei into the female gametophyte."
+      },
+      {
+       "key": "D",
+       "text": "a chemical attractant guides the sperm toward the egg."
+      },
+      {
+       "key": "E",
+       "text": "the sperm cells have flagella for locomotion. 7"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q29",
+     "kind": "choice",
+     "points": 1,
+     "question": "29. Imagine that you are a molecule of RNA polymerase that is sliding along DNA and encountering a gene with typical structure (promoter, coding sequence and terminator) depicted below. Which of the choices below presents the most accurate order of DNA segments (labeled 1, 2, 3……) in which the affinity of the RNA polymerase binding to DNA progressively diminishes? 5’ 3’ 3’ 5’ 1 2 3 4 5 6",
+     "options": [
+      {
+       "key": "A",
+       "text": "2, 1, 4"
+      },
+      {
+       "key": "B",
+       "text": "2, 5, 3"
+      },
+      {
+       "key": "C",
+       "text": "6, 5, 2"
+      },
+      {
+       "key": "D",
+       "text": "2, 4, 5"
+      },
+      {
+       "key": "E",
+       "text": "2, 3, 6"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q30",
+     "kind": "choice",
+     "points": 1,
+     "question": "30. The anatomical structure of the pelvis differs between male and females. Which of the following correctly describes the female pelvis as compared to that of the male? The female pelvis has:",
+     "options": [
+      {
+       "key": "A",
+       "text": "prominent sacrum, wider and rounder pubic arch, true (lesser) pelvis is deeper."
+      },
+      {
+       "key": "B",
+       "text": "shorter and wider sacrum, oval shaped pelvic inlet, straight coccyx."
+      },
+      {
+       "key": "C",
+       "text": "ischial spines turn inward, Greater (false) pelvis is shallower, heart shaped pelvic inlet."
+      },
+      {
+       "key": "D",
+       "text": "curved coccyx, narrow pubic arch, wide greater sciatic notch."
+      },
+      {
+       "key": "E",
+       "text": "pelvic girdle tilts forward, deep iliac fossa, true (lesser) pelvis is shallower."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: null"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Тест: вопросы 31–40",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q31",
+     "kind": "choice",
+     "points": 1,
+     "question": "31. Plant cells maintain their structural integrity partially by ________________ while animal cells maintain structural integrity partially by __________________.",
+     "options": [
+      {
+       "key": "A",
+       "text": "turgor pressure, cholesterol."
+      },
+      {
+       "key": "B",
+       "text": "high specific heat, cuticle."
+      },
+      {
+       "key": "C",
+       "text": "cuticle, cholesterol."
+      },
+      {
+       "key": "D",
+       "text": "cholesterol, turgor pressure."
+      },
+      {
+       "key": "E",
+       "text": "tightly packed cells, loosely packed cells. 8"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q32",
+     "kind": "choice",
+     "points": 1,
+     "question": "32. A person suffering from nerve gas exposure is given atropine to counteract the effects. Why?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Atropine binds to the nerve gas and inactivates it."
+      },
+      {
+       "key": "B",
+       "text": "Atropine inactivates acetylcholine esterase and allows more acetylcholine to cross the synaptic cleft."
+      },
+      {
+       "key": "C",
+       "text": "Atropine blocks the acetylcholine receptor which blocks the excess acetylcholine lingering in the synaptic cleft."
+      },
+      {
+       "key": "D",
+       "text": "Atropine blocks the sites where nerve gas acts."
+      },
+      {
+       "key": "E",
+       "text": "Atropine stimulates the production of an enzyme that breaks down the nerve gas."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q33",
+     "kind": "choice",
+     "points": 1,
+     "question": "33. The protein Fluorollin is made of 3 domains which are tightly packed together when the protein is in its native state. Each of the domains absorbs and emits light at the following wavelengths: Domain A Absorbs: 230-270 nm Emits: 280-310 nm Domain B Absorbs: 290-310 nm Emits: 330-360 nm Domain C Absorbs: 340-360 nm Emits: 390-420 nm If you wanted to determine the subcellular location of properly folded Fluorollin protein by fluorescence microscopy, which of the following emission wavelengths would you monitor if you excite at 240 nm?",
+     "options": [
+      {
+       "key": "A",
+       "text": "290 nm"
+      },
+      {
+       "key": "B",
+       "text": "310 nm"
+      },
+      {
+       "key": "C",
+       "text": "320 nm"
+      },
+      {
+       "key": "D",
+       "text": "350 nm"
+      },
+      {
+       "key": "E",
+       "text": "400 nm"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q34",
+     "kind": "choice",
+     "points": 1,
+     "question": "34. A beaver gnaws through both inner and outer bark, all the way around a tree trunk. Why does this usually cause the eventually death of the tree?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The transport of sugars between leaves and roots is interrupted."
+      },
+      {
+       "key": "B",
+       "text": "The tree is more susceptible to insect and fungal diseases."
+      },
+      {
+       "key": "C",
+       "text": "The supply of water and minerals to the leaves is no longer possible."
+      },
+      {
+       "key": "D",
+       "text": "The transport of sugars between leaves and twigs is interrupted."
+      },
+      {
+       "key": "E",
+       "text": "Cells of the apical meristem can no longer divide."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q35",
+     "kind": "choice",
+     "points": 1,
+     "question": "35. A yeast extract contains all the enzymes required for alcohol production. The extract is incubated under anaerobic conditions in 1 liter of media containing: 200 mM glucose, 20 mM ADP, 40 mM ATP, 2 mM NADH, 2 mM NAD+ and 20 mM Pi (inorganic phosphates). What is the maximum amount of ethanol that can be produced in these conditions?",
+     "options": [
+      {
+       "key": "A",
+       "text": "2 mM"
+      },
+      {
+       "key": "B",
+       "text": "20 mM"
+      },
+      {
+       "key": "C",
+       "text": "40 mM D.200 mM E. 400 mM 9"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q36",
+     "kind": "choice",
+     "points": 1,
+     "question": "36. Lowering the level of a hedge with a hedge trimmer stimulates the hedge to become bushy because:",
+     "options": [
+      {
+       "key": "A",
+       "text": "it stimulates the production of ethylene gas."
+      },
+      {
+       "key": "B",
+       "text": "removing the apical meristems makes more auxin which stimulates lateral branch buds to grow."
+      },
+      {
+       "key": "C",
+       "text": "removing the apical meristems results in less auxin which then allows lateral branches to grow."
+      },
+      {
+       "key": "D",
+       "text": "removing the apical meristems makes less ethylene which stimulates lateral branches to grow."
+      },
+      {
+       "key": "E",
+       "text": "removing the lateral buds results in apical dominance under the influence of cytokinins."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q37",
+     "kind": "choice",
+     "points": 1,
+     "question": "37. You mow the lawn with a lawn mower and during good growing conditions you soon have to mow it again. This growth is likely due to what growth region?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Cork cambium"
+      },
+      {
+       "key": "B",
+       "text": "Vascular cambium"
+      },
+      {
+       "key": "C",
+       "text": "Basal meristem"
+      },
+      {
+       "key": "D",
+       "text": "Root apical meristem"
+      },
+      {
+       "key": "E",
+       "text": "Shoot apical meristem"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q38",
+     "kind": "choice",
+     "points": 1,
+     "question": "38. Lawns in the United States take up more land than cultivated corn. Further:",
+     "options": [
+      {
+       "key": "A",
+       "text": "they do not require fertilizer."
+      },
+      {
+       "key": "B",
+       "text": "they preserve water resources."
+      },
+      {
+       "key": "C",
+       "text": "they do not benefit from pesticides."
+      },
+      {
+       "key": "D",
+       "text": "they do not cause habitat fragmentation."
+      },
+      {
+       "key": "E",
+       "text": "they require a large amount of resources."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-development",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q39",
+     "kind": "choice",
+     "points": 1,
+     "question": "39. Several artificial cells are created with various dimensions. Which of the following dimensions would be most conducive to diffusion? A cell with:",
+     "options": [
+      {
+       "key": "A",
+       "text": "surface area of 10 and a volume of 30."
+      },
+      {
+       "key": "B",
+       "text": "surface area of 8 and a volume of 2."
+      },
+      {
+       "key": "C",
+       "text": "surface area of 40 and a volume of 30."
+      },
+      {
+       "key": "D",
+       "text": "surface area of 20 and a volume of 10."
+      },
+      {
+       "key": "E",
+       "text": "surface area of 5 with a volume of 5. 10"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q40",
+     "kind": "choice",
+     "points": 1,
+     "question": "40. The cell shown in the image below is most likely a:",
+     "options": [
+      {
+       "key": "A",
+       "text": "companion cell."
+      },
+      {
+       "key": "B",
+       "text": "vessel element."
+      },
+      {
+       "key": "C",
+       "text": "sieve tube element."
+      },
+      {
+       "key": "D",
+       "text": "sclerid."
+      },
+      {
+       "key": "E",
+       "text": "fiber."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Тест: вопросы 41–50",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q41",
+     "kind": "choice",
+     "points": 1,
+     "question": "41. Why are there two primary pulmonary arteries leaving the heart and four pulmonary veins returning to the heart?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Pulmonary veins are the primary site of gas exchange."
+      },
+      {
+       "key": "B",
+       "text": "Rate of blood flow is directly proportional to vessel radius."
+      },
+      {
+       "key": "C",
+       "text": "Pulmonary venous valves inhibit venous return."
+      },
+      {
+       "key": "D",
+       "text": "Stenosis (occlusion) of the pulmonary veins is common."
+      },
+      {
+       "key": "E",
+       "text": "Pulmonary venous return must equal pulmonary arterial outflow."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-human-physiology",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q42",
+     "kind": "choice",
+     "points": 1,
+     "question": "42. Which of the following will result after an extended period of vomiting gastric fluid?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Decreased plasma [HCO3-]"
+      },
+      {
+       "key": "B",
+       "text": "Decreased filtrate pH"
+      },
+      {
+       "key": "C",
+       "text": "Increased excretion of HCO3-"
+      },
+      {
+       "key": "D",
+       "text": "Increased digestion"
+      },
+      {
+       "key": "E",
+       "text": "Onset of post-micturition convulsion syndrome 11"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q43",
+     "kind": "choice",
+     "points": 1,
+     "question": "43. During the summer you conduct a study of a thermally stratified lake. Which of the following statements is acceptable concerning this ecosystem?",
+     "options": [
+      {
+       "key": "A",
+       "text": "H2S concentrations will be the highest at the lowest level of the lake."
+      },
+      {
+       "key": "B",
+       "text": "The pH of the water in the lake will gradually decrease from the surface of the water to the sediment."
+      },
+      {
+       "key": "C",
+       "text": "Oxygen concentrations will be the highest at the surface of the water."
+      },
+      {
+       "key": "D",
+       "text": "Oxidizing bacteria will use the H2S as an energy source."
+      },
+      {
+       "key": "E",
+       "text": "The temperature of the water in the lake will gradually decrease from the surface of the water to the sediment."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q44",
+     "kind": "choice",
+     "points": 1,
+     "question": "44. While hiking in Yellowstone National Park, a 54 year-old man slipped and fell, landing awkwardly on one leg. He experienced sharp pain but was able to drive home where he went to bed. The next morning he awoke in severe pain and had a friend take him to the local emergency room. Upon examining this patient, to what would you MOST LIKELY attribute the swelling, discoloration, and pain in his lateral lower leg?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Torn sciatic nerve"
+      },
+      {
+       "key": "B",
+       "text": "Dislocated hip"
+      },
+      {
+       "key": "C",
+       "text": "Lumbar hernia"
+      },
+      {
+       "key": "D",
+       "text": "Compartment syndrome"
+      },
+      {
+       "key": "E",
+       "text": "Fractured femur"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q45",
+     "kind": "choice",
+     "points": 1,
+     "question": "45. Joan and Claude come to you seeking genetic counseling. Claude was married before, and he and his first wife had a child with cystic fibrosis, an autosomal recessive condition. A brother of Joan’s died of cystic fibrosis and Joan has never been tested for the gene. If they marry, what is the probability that Joan and Claude will have a son that WILL NOT be a carrier for or have cystic fibrosis?",
+     "options": [
+      {
+       "key": "A",
+       "text": "1/2"
+      },
+      {
+       "key": "B",
+       "text": "1/4"
+      },
+      {
+       "key": "C",
+       "text": "1/12"
+      },
+      {
+       "key": "D",
+       "text": "1/6"
+      },
+      {
+       "key": "E",
+       "text": "1/8"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q46",
+     "kind": "choice",
+     "points": 1,
+     "question": "46. The best description of the relationships between fundamental niches (FN) and realized niches (RN) of two competing species that coexist is:",
+     "options": [
+      {
+       "key": "A",
+       "text": "FNA = RNA; FNB = RNB B"
+      },
+      {
+       "key": "B",
+       "text": "FNA > RNA; FNB = RNB B"
+      },
+      {
+       "key": "C",
+       "text": "FNA < RNA; FNB < RNB B"
+      },
+      {
+       "key": "D",
+       "text": "FNA > RNA; FNB > RNB B B"
+      },
+      {
+       "key": "E",
+       "text": "FNA = RNA; FNS > RNS 12"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q47",
+     "kind": "choice",
+     "points": 1,
+     "question": "47. The diagram below represents a section of undisturbed layers of sedimentary rock in New York State and shows the location of fossils of several closely related species. According to currently accepted evolutionary theory, which is the most probable assumption about species A, B and C?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Species B is more abundant than species C."
+      },
+      {
+       "key": "B",
+       "text": "Species A and B are genetically identical."
+      },
+      {
+       "key": "C",
+       "text": "Both species A and C are descended from species B."
+      },
+      {
+       "key": "D",
+       "text": "Species B descended from species A."
+      },
+      {
+       "key": "E",
+       "text": "Species C existed before species B."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-evolution",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q48",
+     "kind": "choice",
+     "points": 1,
+     "question": "48. Population genetics shows us that certain traits of a species will become more abundant if they benefit the species. The diagram below illustrates the change that occurred in the frequency of phenotypes in an insect population over 10 generations. A probable explanation for this change would be that over time there was:",
+     "options": [
+      {
+       "key": "A",
+       "text": "a decrease in the population of this insect."
+      },
+      {
+       "key": "B",
+       "text": "an increase in the population of this insect."
+      },
+      {
+       "key": "C",
+       "text": "a decrease in the adaptive value of allele a."
+      },
+      {
+       "key": "D",
+       "text": "an increase in the adaptive value of allele a."
+      },
+      {
+       "key": "E",
+       "text": "a decrease in the mutation rate of allele A. 13"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q49",
+     "kind": "choice",
+     "points": 1,
+     "question": "49. In the fox, there are 9 coat colors: red, standard silver, Alaskan silver, double-black, smoky red, cross-red, blended-cross, substandard silver, and sub-Alaskan silver. A red fox was crossed with a double-black fox and their offspring were then crossed with each other. The F2 phenotypes were - 10 red : 18 smoky red : 20 cross-red : 39 blendedcross : 9 standard silver : 19 substandard silver : 12 Alaskan silver : 22 sub-Alaskan silver : 8 double-black. How many genes are involved in this cross?",
+     "options": [
+      {
+       "key": "A",
+       "text": "18 genes"
+      },
+      {
+       "key": "B",
+       "text": "4 pairs of genes"
+      },
+      {
+       "key": "C",
+       "text": "9 genes"
+      },
+      {
+       "key": "D",
+       "text": "9 pairs of genes"
+      },
+      {
+       "key": "E",
+       "text": "4 genes"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q50",
+     "kind": "choice",
+     "points": 1,
+     "question": "50. The above pedigree results from a rare SEX-LINKED disease. If individual 1 and 2 have a baby, what is the likelihood that the child denoted by “?”, will have the disease?",
+     "options": [
+      {
+       "key": "A",
+       "text": "50% if it is a girl; 50% if it is a boy"
+      },
+      {
+       "key": "B",
+       "text": "0% if it is a girl; 50% if it is a boy"
+      },
+      {
+       "key": "C",
+       "text": "50% if it is a girl; 0% if it is a boy"
+      },
+      {
+       "key": "D",
+       "text": "0% if it is a girl; 0% if it is a boy"
+      },
+      {
+       "key": "E",
+       "text": "0% if it is a girl; 25% if it is a boy 14"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: B"
+    }
+   ]
+  }
+ ]
+}

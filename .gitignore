@@ -28,3 +28,6 @@ data/**/*.db
 
 # Скачанные PDF (npm run sync-chemistry -- --download). Закоммитьте нужные вручную: git add -f
 public/olympiads/
+
+# OCR-кеш сканов (npm run build-tasks)
+.cache/

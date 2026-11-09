@@ -1,0 +1,37 @@
+{
+ "setId": "bio-utoronto-1997--bio-tasks",
+ "olympiadId": "bio-utoronto-1997",
+ "title": "Биология → U of Toronto → 1997",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/utoronto/1997/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/utoronto/1997/bio-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T13:45:17.023Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 1,
+  "withPoints": 1,
+  "withReference": 1,
+  "withQuestion": 1,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "University of Toronto",
+   "weight": null,
+   "total": 10,
+   "statement": "Ontario Biology Competition\n\n               1997 Examination\n                  Answer Key\n\n1. b       2. c      3. a     4. e    5. a\n6. d       7. b      8. d     9. e    10. c\n\n11. c      12. d     13. d    14. c   15. b\n\n16. e      17. e     18. b    19. a   20. b\n\n21. c      22. d     23. a    24. b   25. c\n\n26. b      27. e     28. e    29. c   30. d\n\n31. b      32. d     33. b    34. e   35. d\n\n36. d      37. a     38. a    39. b   40. e\n\n41. e      42. b     43. a    44. c   45. a\n\n46. e      47. b     48. c    49. d   50. a\n\n51. a      52. e     53. c    54. d   55. b\n\n56. d      57. d     58. c    59. e   60. a",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 10,
+     "question": "b 2. c 3. a 4. e 5. a",
+     "reference": "1. Which statement is FALSE?\n\n    a. A ribosome is smaller than a centriole.\n    b. The nucleus has one membrane surrounding it.\n    c. Plant cells contain mitochondria.\n    d. A centriole contains microtubules.\n    e. The largest organelle in a typical plant cell is the vacuole.",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}

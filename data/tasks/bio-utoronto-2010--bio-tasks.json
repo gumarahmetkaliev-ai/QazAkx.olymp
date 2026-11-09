@@ -1,0 +1,1953 @@
+{
+ "setId": "bio-utoronto-2010--bio-tasks",
+ "olympiadId": "bio-utoronto-2010",
+ "title": "Биология → U of Toronto → 2010",
+ "materialLabel": "Теоретический тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/utoronto/2010/bio-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/utoronto/2010/bio-sol.pdf",
+ "generatedBy": "test-parser",
+ "type": "test",
+ "generatedAt": "2026-11-09T13:45:05.344Z",
+ "quality": {
+  "tasks": 5,
+  "parts": 50,
+  "withPoints": 50,
+  "withReference": 50,
+  "withQuestion": 50,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Тест: вопросы 1–10",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q1",
+     "kind": "choice",
+     "points": 1,
+     "question": "1. The most important human cause of the loss of biodiversity is attributable to which factor?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Habitat alteration or loss"
+      },
+      {
+       "key": "B",
+       "text": "Acid rain"
+      },
+      {
+       "key": "C",
+       "text": "Introduced (non-native) species"
+      },
+      {
+       "key": "D",
+       "text": "Industrial pollution"
+      },
+      {
+       "key": "E",
+       "text": "Global warming"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q2",
+     "kind": "choice",
+     "points": 1,
+     "question": "2. Two populations of frogs are in Hardy-Weinberg equilibrium for a gene with two alleles, M and m. The frequency of m alleles in population 1 is 0.2 and 0.4 in population 2. If there are 100 frogs in each population, what is the difference in the number of heterozygous frogs between the two populations?",
+     "options": [
+      {
+       "key": "A",
+       "text": "12"
+      },
+      {
+       "key": "B",
+       "text": "8"
+      },
+      {
+       "key": "C",
+       "text": "32"
+      },
+      {
+       "key": "D",
+       "text": "16"
+      },
+      {
+       "key": "E",
+       "text": "24"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-popgen",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q3",
+     "kind": "choice",
+     "points": 1,
+     "question": "3. On the pedigree shown at right, squares represent males and circles represent females. Black squares or circles represent individuals affected with an identifiable genetic disorder. Which mode of inheritance best explains the pattern of occurrence of the disorder in this pedigree?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Autosomal recessive only"
+      },
+      {
+       "key": "B",
+       "text": "X-linked dominant only"
+      },
+      {
+       "key": "C",
+       "text": "X-linked recessive only"
+      },
+      {
+       "key": "D",
+       "text": "Autosomal recessive or X-linked dominant"
+      },
+      {
+       "key": "E",
+       "text": "Autosomal dominant only"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q4",
+     "kind": "choice",
+     "points": 1,
+     "question": "4. Which of the following pairs of organisms are most closely related to each other?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Zebra mussel and E. coli."
+      },
+      {
+       "key": "B",
+       "text": "A human and a tapeworm."
+      },
+      {
+       "key": "C",
+       "text": "Bread mould and an amoeba."
+      },
+      {
+       "key": "D",
+       "text": "Blue-green algae and a maple tree."
+      },
+      {
+       "key": "E",
+       "text": "A sea coral and a slime mould."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q5",
+     "kind": "choice",
+     "points": 1,
+     "question": "5. Insulin, a protein hormone, must be injected directly into the bloodstream. Why can insulin NOT be taken orally?",
+     "options": [
+      {
+       "key": "A",
+       "text": "It would interfere with the digestion of proteins and fats."
+      },
+      {
+       "key": "B",
+       "text": "Absorption of insulin by the intestines occurs too slowly, and insulin would degrade by the time it reaches the pancreas."
+      },
+      {
+       "key": "C",
+       "text": "The acidity of the stomach would denature it, rendering it inactive, after which it would be hydrolysed by pepsin."
+      },
+      {
+       "key": "D",
+       "text": "It would encounter its hormone antagonist (glucagon) in the digestive tract."
+      },
+      {
+       "key": "E",
+       "text": "In the stomach, the body’s immune system would immediately recognize insulin as a synthetic hormone and attempt to destroy it. © 2010 University of Toronto U of T National Biology Competition / 3"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q6",
+     "kind": "choice",
+     "points": 1,
+     "question": "6. Which statement about microtubules is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Microtubules make up the core of a eukaryotic flagellum."
+      },
+      {
+       "key": "B",
+       "text": "Microtubules are part of the cell’s transport system, moving vesicles across the cytoplasm."
+      },
+      {
+       "key": "C",
+       "text": "Microtubules make up the spindle apparatus, which pulls chromatids to opposite ends of the cell during cellular division."
+      },
+      {
+       "key": "D",
+       "text": "As part of the cell’s cytoskeleton, microtubules help organize the internal structure of the cell."
+      },
+      {
+       "key": "E",
+       "text": "Microtubules can cross the cell wall to form cytoplasmic connections between plant cells."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q7",
+     "kind": "choice",
+     "points": 1,
+     "question": "7. Which statement about the following eukaryotic organelles and their roles is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Smooth endoplasmic reticulum is involved in phospholipid synthesis."
+      },
+      {
+       "key": "B",
+       "text": "The nucleolus is involved in ribosome synthesis."
+      },
+      {
+       "key": "C",
+       "text": "Ribosomes are involved in translation."
+      },
+      {
+       "key": "D",
+       "text": "The Golgi apparatus is involved in extracellular secretion."
+      },
+      {
+       "key": "E",
+       "text": "Rough endoplasmic reticulum is involved in transcription."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q8",
+     "kind": "choice",
+     "points": 1,
+     "question": "8. You are invited to a dinner party and decide to make salad dressing. You mix olive oil and balsamic vinegar (which is mostly water) together and notice they don’t mix. Which of the following, when added to this mixture, would allow these two substances to mix?",
+     "options": [
+      {
+       "key": "A",
+       "text": "ATP"
+      },
+      {
+       "key": "B",
+       "text": "Phospholipid"
+      },
+      {
+       "key": "C",
+       "text": "Starch"
+      },
+      {
+       "key": "D",
+       "text": "Phosphoglycerate (PGA)"
+      },
+      {
+       "key": "E",
+       "text": "Salt"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q9",
+     "kind": "choice",
+     "points": 1,
+     "question": "9. During synapsis, the synaptonemal complex ensures that:",
+     "options": [
+      {
+       "key": "A",
+       "text": "crossing over only occurs during metaphase II."
+      },
+      {
+       "key": "B",
+       "text": "sister chromatids are pulled to either end of the cell at the same rate during telophase II."
+      },
+      {
+       "key": "C",
+       "text": "homologous chromosomes are closely paired during prophase I."
+      },
+      {
+       "key": "D",
+       "text": "maternal and paternal homologues align on the same side of the metaphase plate during metaphase I."
+      },
+      {
+       "key": "E",
+       "text": "spindle fibres attach only at the kinetochores of the sister chromatids."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q10",
+     "kind": "choice",
+     "points": 1,
+     "question": "10. In E. coli, when glucose levels are high and lactose is present, what, if anything, will remain bound to the control region of the lac operon?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Nothing will remain bound to the lac operon."
+      },
+      {
+       "key": "B",
+       "text": "CAP activator with cAMP, and repressor without lactose inducer."
+      },
+      {
+       "key": "C",
+       "text": "Repressor without lactose inducer only."
+      },
+      {
+       "key": "D",
+       "text": "Repressor with lactose inducer only."
+      },
+      {
+       "key": "E",
+       "text": "CAP activator with cAMP only."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-gene-regulation",
+     "reference": "Правильный ответ: A"
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Тест: вопросы 11–20",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q11",
+     "kind": "choice",
+     "points": 1,
+     "question": "11. Which of the following hormones is correctly paired with its action?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Aldosterone – maintains the body’s circadian rhythm"
+      },
+      {
+       "key": "B",
+       "text": "Melatonin – prevents the bones from losing calcium"
+      },
+      {
+       "key": "C",
+       "text": "Cortisol – raises the heart rate and blood pressure"
+      },
+      {
+       "key": "D",
+       "text": "Oxytocin – triggers uterine contractions during childbirth"
+      },
+      {
+       "key": "E",
+       "text": "Estradiol – regulates kidney function © 2010 University of Toronto 4 / U of T National Biology Competition"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q12",
+     "kind": "choice",
+     "points": 1,
+     "question": "12. While studying Darwin’s finches on the Galapagos Islands you observe two species of ground finch that appear to successfully coexist on one island. One species has a large beak, the other a small beak. What is the best explanation for their coexistence?",
+     "options": [
+      {
+       "key": "A",
+       "text": "One of the species is migratory and only spends half of the year on the island."
+      },
+      {
+       "key": "B",
+       "text": "They exploit different food resources."
+      },
+      {
+       "key": "C",
+       "text": "They are able to interbreed, forming hybrids with a median-sized beak."
+      },
+      {
+       "key": "D",
+       "text": "The two species have only recently come into contact, through migration from other islands."
+      },
+      {
+       "key": "E",
+       "text": "They have non-overlapping ranges, thereby eliminating competition."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-ecology",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q13",
+     "kind": "choice",
+     "points": 1,
+     "question": "13. Which of the following effects would most likely be seen if there was an injury to the vertebrate cerebellum?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Reduced ability to control precise bodily movement"
+      },
+      {
+       "key": "B",
+       "text": "A change in pituitary hormone levels"
+      },
+      {
+       "key": "C",
+       "text": "Blindness in part of the visual field"
+      },
+      {
+       "key": "D",
+       "text": "General paralysis"
+      },
+      {
+       "key": "E",
+       "text": "Loss of short-term memory"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q14",
+     "kind": "choice",
+     "points": 1,
+     "question": "14. What substance stimulates the human male testes to produce spermatozoa?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Progesterone"
+      },
+      {
+       "key": "B",
+       "text": "Prostatic fluid"
+      },
+      {
+       "key": "C",
+       "text": "Follicle-stimulating hormone"
+      },
+      {
+       "key": "D",
+       "text": "Human chorionic gonadotropin"
+      },
+      {
+       "key": "E",
+       "text": "Testosterone"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q15",
+     "kind": "choice",
+     "points": 1,
+     "question": "15. Why is the energy output of aerobic cellular respiration greater than the energy output of anaerobic cellular respiration?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The chemical end products of aerobic respiration are higher energy than those of anaerobic respiration."
+      },
+      {
+       "key": "B",
+       "text": "The enzymes specific to aerobic respiration increase its efficiency more than those involved in anaerobic respiration."
+      },
+      {
+       "key": "C",
+       "text": "The energy released from pyruvate production when glycolysis precedes the citric acid cycle is greater than when glycolysis precedes fermentation."
+      },
+      {
+       "key": "D",
+       "text": "In aerobic respiration, the processing of one molecule of glucose requires two turns of the citric acid cycle."
+      },
+      {
+       "key": "E",
+       "text": "Aerobic respiration more completely oxidizes glucose than does anaerobic respiration."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q16",
+     "kind": "choice",
+     "points": 1,
+     "question": "16. In mice, black hair (B) shows complete dominance over white hair (b), and long hair (L) shows complete dominance over short hair (l). Which of the following crosses would produce a ratio of genotype to phenotype of 1:1 in the offspring (that is, each phenotype is generated by only one genotype)?",
+     "options": [
+      {
+       "key": "A",
+       "text": "BbLl x BBLL"
+      },
+      {
+       "key": "B",
+       "text": "BBll x BbLl"
+      },
+      {
+       "key": "C",
+       "text": "BbLl x bbll"
+      },
+      {
+       "key": "D",
+       "text": "bbLL x BBLl"
+      },
+      {
+       "key": "E",
+       "text": "BBLL x bbLl © 2010 University of Toronto U of T National Biology Competition / 5"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q17",
+     "kind": "choice",
+     "points": 1,
+     "question": "17. A molecular biologist would use a restriction enzyme (restriction endonuclease) for which of the following tasks?",
+     "options": [
+      {
+       "key": "A",
+       "text": "To excise a specific sequence from a genome for the creation of recombinant DNA."
+      },
+      {
+       "key": "B",
+       "text": "To discover which genes have been expressed in a cell by reverse-transcribing from mRNA."
+      },
+      {
+       "key": "C",
+       "text": "To join a specific sequence of DNA to a plasmid, creating a vector."
+      },
+      {
+       "key": "D",
+       "text": "To isolate a specific clone from a mixture of DNA."
+      },
+      {
+       "key": "E",
+       "text": "To denature the DNA double helix prior to replication in PCR (polymerase chain reaction)."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q18",
+     "kind": "choice",
+     "points": 1,
+     "question": "18. Which statement about the placenta and its interaction with the developing human fetus is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "It allows O2 to diffuse from the maternal blood into the fetal blood and CO2 to diffuse out."
+      },
+      {
+       "key": "B",
+       "text": "It is composed of both fetal and maternal tissue."
+      },
+      {
+       "key": "C",
+       "text": "It produces the hormone (hCG, human chorionic gonadotropin) that stimulates the mother’s body to prevent menstruation and ovulation."
+      },
+      {
+       "key": "D",
+       "text": "It provides connections to allow maternal blood to enter the fetal circulation system."
+      },
+      {
+       "key": "E",
+       "text": "It stops some harmful substances in the maternal blood from reaching the fetal circulation, but cannot provide absolute protection."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q19",
+     "kind": "choice",
+     "points": 1,
+     "question": "19. Water homeostasis is an important function of the kidney. Which of the following would likely cause the secretion of ADH (antidiuretic hormone) to be high?",
+     "options": [
+      {
+       "key": "A",
+       "text": "High blood pressure"
+      },
+      {
+       "key": "B",
+       "text": "A high level of physical exercise"
+      },
+      {
+       "key": "C",
+       "text": "High fluid intake"
+      },
+      {
+       "key": "D",
+       "text": "A low sodium concentration in the blood"
+      },
+      {
+       "key": "E",
+       "text": "Consuming medication that is high in caffeine"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-neuro",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q20",
+     "kind": "choice",
+     "points": 1,
+     "question": "20. An exothermic reaction in the body uses an enzyme to generate a metabolic product, B, from a reactant A ()H = !100 kJ). The activation energy is 40 kJ. Using the same catalyst, what is the activation energy for the reverse reaction (that is, generating A from B)?",
+     "options": [
+      {
+       "key": "A",
+       "text": "60 kJ"
+      },
+      {
+       "key": "B",
+       "text": "40 kJ"
+      },
+      {
+       "key": "C",
+       "text": "140 kJ"
+      },
+      {
+       "key": "D",
+       "text": "160 kJ"
+      },
+      {
+       "key": "E",
+       "text": "100 kJ"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Тест: вопросы 21–30",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q21",
+     "kind": "choice",
+     "points": 1,
+     "question": "21. Which of the following sources of nitrogen are suitable for metabolic use by plants and do NOT need to undergo nitrogen fixation? i. Atmospheric nitrogen gas (N2) ii. Urea iii. Ammonium salts (NH4) iv. Ammonia produced from decomposition",
+     "options": [
+      {
+       "key": "A",
+       "text": "i and ii"
+      },
+      {
+       "key": "B",
+       "text": "ii and iv"
+      },
+      {
+       "key": "C",
+       "text": "ii, iii, and iv"
+      },
+      {
+       "key": "D",
+       "text": "iii only"
+      },
+      {
+       "key": "E",
+       "text": "iii and iv © 2010 University of Toronto 6 / U of T National Biology Competition"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": true,
+     "answer": "CE",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: CE"
+    },
+    {
+     "id": "q22",
+     "kind": "choice",
+     "points": 1,
+     "question": "22. Which statement about adenosine triphosphate (ATP) is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "When the energy stored in an ATP molecule is used, the outermost phosphate group is cleaved from the molecule."
+      },
+      {
+       "key": "B",
+       "text": "Though the end product of cellular respiration is ATP, ATP must also be consumed in order to begin cellular respiration."
+      },
+      {
+       "key": "C",
+       "text": "The energy stored in ATP molecules is used by cells to drive endergonic (endothermic) reactions."
+      },
+      {
+       "key": "D",
+       "text": "ATP is used by cells as a building block for the construction of RNA molecules."
+      },
+      {
+       "key": "E",
+       "text": "ATP is used by cells for long-term energy storage because its high-energy phosphate bonds are stable at 37.0 /C."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-metabolism",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q23",
+     "kind": "choice",
+     "points": 1,
+     "question": "23. Thalidomide is a drug that was prescribed to pregnant women in the late 1950s to counteract morning sickness. Because thalidomide was not adequately tested, thousands of babies exposed to the drug in utero were born with birth defects. It was soon learned that one optical isomer (enantiomer) of the drug worked against nausea while the other caused mutations. Which statement about thalidomide is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The mutagenic optical isomer of thalidomide has more high-energy double bonds than the beneficial optical isomer, making it mutagenic once those bonds are broken."
+      },
+      {
+       "key": "B",
+       "text": "The two optical isomers of thalidomide have different molecular formulas, giving them different biological effects."
+      },
+      {
+       "key": "C",
+       "text": "The mutagenic optical isomer of thalidomide has a functional group attached to its basic molecular structure, which accounts for its different biological effect."
+      },
+      {
+       "key": "D",
+       "text": "The two optical isomers of thalidomide have identical molecular formulas, but their structures are mirror images of each other, giving them different biological effects."
+      },
+      {
+       "key": "E",
+       "text": "There is a third optical isomer of thalidomide that acts as both an anti-nausea agent and as a mutagen."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q24",
+     "kind": "choice",
+     "points": 1,
+     "question": "24. How does removing a plant’s apical meristems affect its growth?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Secondary growth of the plant’s stems and roots will stop."
+      },
+      {
+       "key": "B",
+       "text": "The transport of nutrients between its leaves and roots will stop."
+      },
+      {
+       "key": "C",
+       "text": "Existing shoots and roots will no longer grow in length."
+      },
+      {
+       "key": "D",
+       "text": "It will stop producing viable offspring."
+      },
+      {
+       "key": "E",
+       "text": "It will not be able to produce new leaves."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q25",
+     "kind": "choice",
+     "points": 1,
+     "question": "25. What does the theory of endosymbiosis suggest about eukaryotic cells?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Mitochondria and chloroplasts may have originated as independent prokaryotic cells that were engulfed by other cells."
+      },
+      {
+       "key": "B",
+       "text": "Eukaryotic cells can only survive in association with other cells, suggesting that they originated as a colony of prokaryotic cells."
+      },
+      {
+       "key": "C",
+       "text": "Because prokaryotic and eukaryotic mitochondria are very similar, they may share a common evolutionary origin."
+      },
+      {
+       "key": "D",
+       "text": "Vesicles containing enzymes, such as lysosomes, may bud off from the cell and become independently living cells."
+      },
+      {
+       "key": "E",
+       "text": "Eukaryotic cells likely arose from prokaryotic cells when the prokaryotic plasma membrane infolded, enclosing the cell’s DNA and forming an endomembrane system. © 2010 University of Toronto U of T National Biology Competition / 7"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q26",
+     "kind": "choice",
+     "points": 1,
+     "question": "26. Why would a community in the early stages of secondary succession be less productive than a community in the later stages of secondary succession?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Because a community in the early stages of secondary succession is likely to be invaded and disturbed by other species of plants."
+      },
+      {
+       "key": "B",
+       "text": "Because biomass is low, and communities with less biomass tend to be less productive."
+      },
+      {
+       "key": "C",
+       "text": "Because the weedy species common in the early stages of secondary succession create an environment that is inhospitable to the growth of other, more productive species."
+      },
+      {
+       "key": "D",
+       "text": "Because the species of plants common in the early stages of secondary succession are more sensitive to nutrient deficiencies than plants common at later stages of succession."
+      },
+      {
+       "key": "E",
+       "text": "Because a community in the early stages of secondary succession is more vulnerable to erosion than communities at later stages of succession."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q27",
+     "kind": "choice",
+     "points": 1,
+     "question": "27. In which one of the following will there be a net osmotic flow into the cell? (In each, assume all other substances have equal concentrations outside and inside the cell.)",
+     "options": [
+      {
+       "key": "A",
+       "text": "Salt (NaCl) concentration is greater outside than inside the cell."
+      },
+      {
+       "key": "B",
+       "text": "A non-polar red dye is introduced outside the cell only."
+      },
+      {
+       "key": "C",
+       "text": "Five grams of glucose are placed outside the cell and 6 grams of starch are placed inside the cell (assume the volume of water outside the cell is the same as inside the cell)."
+      },
+      {
+       "key": "D",
+       "text": "The same concentration of a fat molecule is introduced on both sides of the cell."
+      },
+      {
+       "key": "E",
+       "text": "Outside the cell, the concentration of glucose is 0.3 mol/L; inside, the concentration of glucose is 0.2 mol/L, and sucrose is 0.2 mol/L."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q28",
+     "kind": "choice",
+     "points": 1,
+     "question": "28. You replicate Mendel’s breeding experiments and cross a white-flowered pea plant with a purpleflowered pea plant, producing an F1 generation of all purple-flowered plants. In the F2 generation, you discover that the purple colouration of the F1 generation does not breed true. What does this tell you about the inheritance of colour in the pea plants in your experiment?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The purple flowers of the F1 generation must have been heterozygous."
+      },
+      {
+       "key": "B",
+       "text": "The original parental purple-flowered pea plant must have been heterozygous for floral colour."
+      },
+      {
+       "key": "C",
+       "text": "All of the purple flowers in the F3 generation will be homozygous."
+      },
+      {
+       "key": "D",
+       "text": "Only white flower colouration can breed true."
+      },
+      {
+       "key": "E",
+       "text": "There will be no purple flowers in the F3 generation."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q29",
+     "kind": "choice",
+     "points": 1,
+     "question": "29. You examine a cell with stained chromosomes under a microscope and observe that the cell’s chromosomes are arranged in a single line at the middle of the cell. The cell you are examining may be: i. about to undergo the reductive division of meiosis. ii. in the midst of mitosis. iii. in metaphase II of meiosis. iv. an asexually reproducing yeast cell preparing to bud. v. in prophase I of meiosis.",
+     "options": [
+      {
+       "key": "A",
+       "text": "i and v"
+      },
+      {
+       "key": "B",
+       "text": "i, iii, and v"
+      },
+      {
+       "key": "C",
+       "text": "i, ii, iii, and v"
+      },
+      {
+       "key": "D",
+       "text": "ii and iv"
+      },
+      {
+       "key": "E",
+       "text": "ii, iii, and iv © 2010 University of Toronto 8 / U of T National Biology Competition"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-cell-cycle",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q30",
+     "kind": "choice",
+     "points": 1,
+     "question": "30. A population of butterflies shows a high degree of variation in the number of spots on their wings. Some have many spots and some have few spots. Butterflies with many spots have offspring with many spots. Butterflies with few spots have offspring with few spots. These butterflies are preyed upon by birds. Which one of the following statements suggests that the number of wing spots is subject to natural selection?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Butterflies in this population freely interbreed, regardless of number of wing spots."
+      },
+      {
+       "key": "B",
+       "text": "Wing spots do not appear until late in a butterfly’s larval development."
+      },
+      {
+       "key": "C",
+       "text": "New mutants with an average number of wing spots appear in every generation."
+      },
+      {
+       "key": "D",
+       "text": "Butterflies of the same species with more wing spots are better camouflaged against the vegetation in which they feed."
+      },
+      {
+       "key": "E",
+       "text": "Butterflies migrate regularly between this population and a neighbouring population of the same species."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-animal-anatomy",
+     "reference": "Правильный ответ: D"
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Тест: вопросы 31–40",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q31",
+     "kind": "choice",
+     "points": 1,
+     "question": "31. As a maple tree emerges from dormancy in the spring, many steps occur. Which one of the following steps contains a factual error?",
+     "options": [
+      {
+       "key": "A",
+       "text": "As the ground warms in spring, the roots absorb water via osmosis."
+      },
+      {
+       "key": "B",
+       "text": "As root growth ensues, rapid mitosis in the meristem region of the root occurs."
+      },
+      {
+       "key": "C",
+       "text": "Water flows up through the xylem in the centre of the root."
+      },
+      {
+       "key": "D",
+       "text": "Glucose converted from stored starch travels up through the trunk in the phloem to provide energy for the buds."
+      },
+      {
+       "key": "E",
+       "text": "Newly emerged leaves begin photosynthesizing, eventually producing more glucose."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q32",
+     "kind": "choice",
+     "points": 1,
+     "question": "32. The tendency of water molecules to form hydrogen bonds amongst themselves, as well as with other polar molecules, accounts for which of the following biologically significant phenomena? i. Heat produced by the chemical reactions within an organism’s cells is absorbed by water, helping the organism maintain a stable body temperature. ii. Hydrophobic components of a protein are forced to the interior of the molecule, contributing to its three-dimensional structure. iii. Human blood has a normal pH of about 7.4, which is maintained by a buffering system in which CO2 reacts with H2O. iv. Water travels upward, through the vessels of a tree’s xylem, from its roots to its branches.",
+     "options": [
+      {
+       "key": "A",
+       "text": "i and ii"
+      },
+      {
+       "key": "B",
+       "text": "i, ii, and iii"
+      },
+      {
+       "key": "C",
+       "text": "i, ii, and iv"
+      },
+      {
+       "key": "D",
+       "text": "ii, iii, and iv"
+      },
+      {
+       "key": "E",
+       "text": "iii and iv"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q33",
+     "kind": "choice",
+     "points": 1,
+     "question": "33. The consumption of trans fat is a current health concern. Trans fats are made from the trans isomers of fatty acids. Which fatty acid among the following could not form a trans isomer?",
+     "options": [
+      {
+       "key": "A",
+       "text": "CH3CH2CH2COOH"
+      },
+      {
+       "key": "B",
+       "text": "CH3CH=CHCOOH"
+      },
+      {
+       "key": "C",
+       "text": "CH2=CHCH=CHCOOH"
+      },
+      {
+       "key": "D",
+       "text": "CH3CH2CH=CHCOOH"
+      },
+      {
+       "key": "E",
+       "text": "CH3(CH2)7CH=CH(CH2)7COOH © 2010 University of Toronto U of T National Biology Competition / 9"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-ecology",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q34",
+     "kind": "choice",
+     "points": 1,
+     "question": "34. Which of the following immune system responses is a nonspecific defence against infection?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Activated cytotoxic T cells circulating in the body detect foreign peptides attached to the surface of virus-infected cells, bind to the cells, and induce programmed cell death."
+      },
+      {
+       "key": "B",
+       "text": "Naïve B cells in the lymphatic system are activated after encountering a new antigen."
+      },
+      {
+       "key": "C",
+       "text": "Natural killer cells circulating in the body respond to the presence of cytokines, binding to virus- infected cells and inducing cell death."
+      },
+      {
+       "key": "D",
+       "text": "Plasma B cells release antibodies (immunoglobulins) that bind to many different forms of an antigen, marking the antigen for destruction by other immune-system cells."
+      },
+      {
+       "key": "E",
+       "text": "Activated helper T cells secrete a variety of cytokines to stimulate immune response."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": true,
+     "answer": "CE",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: CE"
+    },
+    {
+     "id": "q35",
+     "kind": "choice",
+     "points": 1,
+     "question": "35. I am a plant that is small in size. My gametophyte can photosynthesize and is the dominant generation. I depend on osmosis and diffusion to transport my nutrients. What am I?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A gymnosperm"
+      },
+      {
+       "key": "B",
+       "text": "A bryophyte"
+      },
+      {
+       "key": "C",
+       "text": "A monocot"
+      },
+      {
+       "key": "D",
+       "text": "A club moss"
+      },
+      {
+       "key": "E",
+       "text": "A fern"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q36",
+     "kind": "choice",
+     "points": 1,
+     "question": "36. Plants and animals share many aspects of reproduction. Which of the following is true of animal reproduction, but is never true of plant reproduction?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Stages of the sexual life cycle include both haploid reproductive cells and diploid individuals."
+      },
+      {
+       "key": "B",
+       "text": "A single individual may produce both male and female gametes, allowing for self-fertilization."
+      },
+      {
+       "key": "C",
+       "text": "In asexual reproduction, haploid cells may undergo mitosis, generating an individual organism composed completely of haploid cells."
+      },
+      {
+       "key": "D",
+       "text": "In sexual reproduction, diploid germ line cells are segregated from the rest of the organism’s cells early in development."
+      },
+      {
+       "key": "E",
+       "text": "Motile gametes are adapted to travelling through liquid environments to achieve fertilization. [Questions #37 and #38 were removed from the exam at the time of grading.] © 2010 University of Toronto 10 / U of T National Biology Competition"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-cell-cycle",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q37",
+     "kind": "choice",
+     "points": 1,
+     "question": "37. Условие этого вопроса — в PDF (рисунок или таблица).",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q38",
+     "kind": "choice",
+     "points": 1,
+     "question": "38. Условие этого вопроса — в PDF (рисунок или таблица).",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": null,
+     "reference": "Правильный ответ: null"
+    },
+    {
+     "id": "q39",
+     "kind": "choice",
+     "points": 1,
+     "question": "39. Residents of a lake populated by pike, a carnivorous fish, have recently noticed that new fishing regulations allowing increased fishing activity have decreased the lake’s pike population, causing a rise in the population of smaller fishes that eat zooplankton. At the same time, they have seen algal blooms increase dramatically. Based on these observations, what ecological process is most likely to be occurring in this lake?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A trophic cascade"
+      },
+      {
+       "key": "B",
+       "text": "An increase in productivity among the lake’s primary producers"
+      },
+      {
+       "key": "C",
+       "text": "Bottom-up effects"
+      },
+      {
+       "key": "D",
+       "text": "Excess nutrients have been introduced into the lake’s ecosystem by the increased human population"
+      },
+      {
+       "key": "E",
+       "text": "The lake’s biomass pyramid has been inverted"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q40",
+     "kind": "choice",
+     "points": 1,
+     "question": "40. Which statement about genetic drift is FALSE?",
+     "options": [
+      {
+       "key": "A",
+       "text": "It decreases the average heterozygosity in a population."
+      },
+      {
+       "key": "B",
+       "text": "It is more common on small islands than on large continents."
+      },
+      {
+       "key": "C",
+       "text": "It is dependent on the kind of genotype an individual possesses."
+      },
+      {
+       "key": "D",
+       "text": "It is not dependent on the kind of phenotype an individual possesses."
+      },
+      {
+       "key": "E",
+       "text": "It can produce changes that have positive or negative effects on fitness."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-genetics",
+     "reference": "Правильный ответ: C"
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Тест: вопросы 41–50",
+   "weight": null,
+   "total": 10,
+   "statement": "",
+   "kind": "test",
+   "parts": [
+    {
+     "id": "q41",
+     "kind": "choice",
+     "points": 1,
+     "question": "41. Female bees possess stingers; male bees do not. Stingers are organs similar in structure and mechanism to the ovipositors that bees use to lay eggs. The stinger and the ovipositor are considered examples of evolutionary homology. What does this suggest about the evolution of the stinger and the ovipositor?",
+     "options": [
+      {
+       "key": "A",
+       "text": "An ancestor of bees possessed a structure similar to the ovipositor and stinger, from which both organs evolved."
+      },
+      {
+       "key": "B",
+       "text": "Different species of bees underwent sympatric speciation in the distant past as a result of evolved differences between their stingers and ovipositors."
+      },
+      {
+       "key": "C",
+       "text": "Differences between the stinger and ovipositor must be a result of homoplasy."
+      },
+      {
+       "key": "D",
+       "text": "The stinger and the ovipositor have not evolved since bees diverged from other insect lineages in the distant past."
+      },
+      {
+       "key": "E",
+       "text": "The stinger and the ovipositor are products of convergent evolution."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-animal-anatomy",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q42",
+     "kind": "choice",
+     "points": 1,
+     "question": "42. Why are the villi that cover the epithelial wall of the small intestine in humans critical to digestion?",
+     "options": [
+      {
+       "key": "A",
+       "text": "They produce trypsin, which breaks down proteins."
+      },
+      {
+       "key": "B",
+       "text": "They generate peristaltic contractions, moving digested food through the intestine."
+      },
+      {
+       "key": "C",
+       "text": "They increase the small intestine’s absorptive surface area."
+      },
+      {
+       "key": "D",
+       "text": "The promote the growth of bacteria that break down otherwise indigestible fibre."
+      },
+      {
+       "key": "E",
+       "text": "They restrict blood flow to the small intestine, which improves the organ’s ability to absorb nutrients."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "C",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "q43",
+     "kind": "choice",
+     "points": 1,
+     "question": "43. Populations of organisms have the potential to increase at exponential rates, yet most population growth fits a logistic model of growth. Why is this?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Exponential population growth can only occur after carrying capacity has been exceeded."
+      },
+      {
+       "key": "B",
+       "text": "Density-dependent effects alter birthrate, death rate, or both."
+      },
+      {
+       "key": "C",
+       "text": "Predator-prey interactions force population levels into oscillations."
+      },
+      {
+       "key": "D",
+       "text": "Abiotic factors, particularly climatic fluctuations, constrain population growth."
+      },
+      {
+       "key": "E",
+       "text": "At high population levels, r-selected organisms out-compete K-selected organisms. © 2010 University of Toronto U of T National Biology Competition / 11"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-ecology",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q44",
+     "kind": "choice",
+     "points": 1,
+     "question": "44. During the G2 phase of the eukaryotic cell cycle:",
+     "options": [
+      {
+       "key": "A",
+       "text": "cellular organelles replicate and chromosomes prepare to condense."
+      },
+      {
+       "key": "B",
+       "text": "the cell contains a single copy of the organism’s genome."
+      },
+      {
+       "key": "C",
+       "text": "half of the cell cycle occurs, making this the longest phase of the cell cycle."
+      },
+      {
+       "key": "D",
+       "text": "the spindle apparatus attaches to the kinetochores of the chromosomes, preparing to pull apart the sister chromatids."
+      },
+      {
+       "key": "E",
+       "text": "many proteins are synthesized, making this the “synthesis phase” of the cell cycle."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "q45",
+     "kind": "choice",
+     "points": 1,
+     "question": "45. The graph below compares the rates of protein digestion when catalysed by the digestive enzyme pepsin and when left uncatalysed: one curve represents the catalysed reaction and the other represents the uncatalysed reaction. Which point on the graph (a, b, c, d, or e) represents the point in the catalysed reaction when the reactants have gained their activation energy and the reaction can proceed?",
+     "options": [],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-biochem",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q46",
+     "kind": "choice",
+     "points": 1,
+     "question": "46. In which part of photosynthesis is carbon fixation achieved?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Noncyclic phosphorylation"
+      },
+      {
+       "key": "B",
+       "text": "ATP synthesis"
+      },
+      {
+       "key": "C",
+       "text": "The activation of photosystem II"
+      },
+      {
+       "key": "D",
+       "text": "Regeneration of RuBP"
+      },
+      {
+       "key": "E",
+       "text": "The Calvin cycle"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-photosynthesis",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q47",
+     "kind": "choice",
+     "points": 1,
+     "question": "47. Which of the following has an “open transport system”?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A jellyfish"
+      },
+      {
+       "key": "B",
+       "text": "A lobster"
+      },
+      {
+       "key": "C",
+       "text": "An earthworm"
+      },
+      {
+       "key": "D",
+       "text": "A tiger shark"
+      },
+      {
+       "key": "E",
+       "text": "A house cat"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "B",
+     "topic": "bio-plants",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "q48",
+     "kind": "choice",
+     "points": 1,
+     "question": "48. It has been hypothesized that life began first with abiotic chemical reactions that generated simple organic molecules. In 1953, Stanley Miller and Harold Urey demonstrated the plausibility of this hypothesis. Which of the following was a component of this famous experiment?",
+     "options": [
+      {
+       "key": "A",
+       "text": "A mixture of phospholipids that spontaneously formed lipid bilayers resembling rudimentary cell membranes."
+      },
+      {
+       "key": "B",
+       "text": "Surges of heat representing sudden bursts of volcanic activity."
+      },
+      {
+       "key": "C",
+       "text": "A mixture of oxidizing gases, creating an environment conducive for the generation of simple carbon compounds."
+      },
+      {
+       "key": "D",
+       "text": "A mixture of reducing gases replicating the atmosphere of early Earth."
+      },
+      {
+       "key": "E",
+       "text": "A reservoir of water held near freezing, replicating the primordial sea after the Earth’s bombardment by meteors had slowed down. © 2010 University of Toronto 12 / U of T National Biology Competition"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "D",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "q49",
+     "kind": "choice",
+     "points": 1,
+     "question": "49. DNA replication is considered a semiconservative process. What part of DNA is conserved during replication?",
+     "options": [
+      {
+       "key": "A",
+       "text": "The phosphodiester backbone of both strands of the DNA double helix is conserved, while the base pairs are replaced by their complements, A for T and C for G."
+      },
+      {
+       "key": "B",
+       "text": "After cellular division, one daughter cell contains all newly replicated DNA, while the other daughter cell contains the conserved parental DNA."
+      },
+      {
+       "key": "C",
+       "text": "In replication, purines (A and C) are replaced by their complementary pyrimidines (T and G), but the proportion of purines to pyrimidines is conserved."
+      },
+      {
+       "key": "D",
+       "text": "Only the sequence of the original parental DNA is conserved; the actual molecules of DNA are completely replaced by new base pairs and a new phosphodiester backbone."
+      },
+      {
+       "key": "E",
+       "text": "One strand of the original parental DNA acts as a template for replication, and is thus conserved as one strand in a new DNA double helix."
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "E",
+     "topic": "bio-molecular",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "q50",
+     "kind": "choice",
+     "points": 1,
+     "question": "50. The tree diagram shown at right represents a hypothesis about the evolutionary relationships among six taxa of Eukarya. Which statement is CORRECT?",
+     "options": [
+      {
+       "key": "A",
+       "text": "Species of birds, lizards, baboons, chimps and humans living today are united by unique homologous structures."
+      },
+      {
+       "key": "B",
+       "text": "Humans are more closely related to fungi than they are to fish."
+      },
+      {
+       "key": "C",
+       "text": "Humans evolved from baboons."
+      },
+      {
+       "key": "D",
+       "text": "Species of fish living today must all have evolved earlier than humans."
+      },
+      {
+       "key": "E",
+       "text": "The most recent common ancestor of birds and humans is the same as the common ancestor of fish and humans. End of exam. © 2010 University of Toronto"
+      }
+     ],
+     "choices": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "multi": false,
+     "answer": "A",
+     "topic": "bio-microbio",
+     "reference": "Правильный ответ: A"
+    }
+   ]
+  }
+ ]
+}

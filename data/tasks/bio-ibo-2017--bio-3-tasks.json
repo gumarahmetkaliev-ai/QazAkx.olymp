@@ -1,0 +1,233 @@
+{
+ "setId": "bio-ibo-2017--bio-3-tasks",
+ "olympiadId": "bio-ibo-2017",
+ "title": "Биология → IBO (международная) → 2017",
+ "materialLabel": "3 тур (Задачи)",
+ "lang": "ru",
+ "tasksFile": "olympiads/biology/s/ibo/2017/bio-3-tasks.pdf",
+ "solutionFile": "olympiads/biology/s/ibo/2017/bio-3-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-09T13:44:40.765Z",
+ "quality": {
+  "tasks": 8,
+  "parts": 20,
+  "withPoints": 20,
+  "withReference": 0,
+  "withQuestion": 20,
+  "estimatedPoints": 20
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "d",
+   "weight": null,
+   "total": 10.5,
+   "statement": "Using the values you have obtained (included in Table 3.), establish the classification in terms of size of\nblood cells and levels of haemoglobin of the blood of sample F, M and D.\n\nYou should answer from one of the following options for each patient (N.B. you can use any of the options\nmore than once):\n  A. Macrocytic, normochromic\n  B. Microcytic, hypochromic\n  C. Normocytic, normochromic\n\n​(3 marks)\n\nPatient                               Classification (A, B or C)\n\nDaughter (D)\n\nIBO 2017, United Kingdom                             7/19                                English (official), 24.7. 22:49\n\n  QUESTION 2\nAssay of pyruvate kinase activity\nBiochemistry can be utilised to determine properties of well characterised enzymes by studying the\nvariation in their kinetics. Enzyme activity is usually determined by monitoring the disappearance of a\nsubstrate or the appearance of a product, often using changes in spectrophotometric properties of the\nreaction mixture.\n\nPK is conveniently assayed by a coupled assay in which the product of the reaction, pyruvate (Equation\n1), is used as substrate for the NADH-linked enzyme lactate dehydrogenase (LD) (Equation 2), which is\nadded to the reaction mixture in sufficient amounts to convert all of the pyruvate produced during the\nreaction to lactate. The reaction can be monitored by following the decrease in absorbance at 340 nm\nover time. The equations for the coupled reaction is shown (Fig. 3).\n\n                                                                               PK\n        (equation 1)                    Phosphoenol pyruvate (PEP) + ADP                  ATP + pyruvate\n                                                                               LD\n        (equation 2)                    Pyruvate (from equation 1) + NADH                 NAD+ + lactate\n\n       Figure 3. Pyruvate kinase and Lactate dehydrogenase-catalysed breakdown of Phosphenol\n       pyruvate (PEP) (Equation 1) and Pyruvate (Equation 2)\n\nAn enzyme’s kinetic properties can be determined by varying the PEP substrate concentration (Equation\n1).\n\nAims of the experiment\nTo determine the functionality of PK from the three patient plasma samples, Father (F), Mother (M) and\nthe Daughter (D).\n     Determination of activity of PK in patient plasma samples through the use of the coupled assay.\n      Calculation of the kinetic properties of PK in absolute units.\n\nMethods: pyruvate kinase assay\nBefore starting the assay, please note the following:\n  1. Solution A, C and patient samples F (father), M (mother) and D (daughter) should be kept on ice,\n     whilst Solution B (H2O) should be kept at room temperature.\n   2. The spectrophotometer should be blanked against water (provided) at 340 nm.\n   3. Make up the reaction mix by pipetting the reagents shown in Table 4 directly into a plastic 1 ml\n      cuvette. You should add all the components except the plasma sample, then add the plasma sample\n      last when you are ready to start the reaction.\n\nTable 4. Pyruvate kinase assay components\n\nYou are provided with the following reagents\n                                                               2x stock concentration Reaction Master Mix\n                                                               (10 ml)\nSolution A\n                                                               (the working concentration for the Reaction\n                                                               Master Mix is 1x)\nSolution B                                                     H2O (10 ml)\nSolution C                                                     10 mM phosphoenol pyruvate (PEP) (1.5 ml)\nDiluted patient plasma labelled F (Father), M\n                                                               Diluted plasma from each patient (0.5 ml each)\n(mother), or D (Daughter)\n\nIBO 2017, United Kingdom                               8/19                               English (official), 24.7. 22:49",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 3.5,
+     "question": "Solution A, C and patient samples F (father), M (mother) and D (daughter) should be kept on ice, whilst Solution B (H2O) should be kept at room temperature.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.2",
+     "points": 3.5,
+     "question": "The spectrophotometer should be blanked against water (provided) at 340 nm.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "1.3",
+     "points": 3.5,
+     "question": "Make up the reaction mix by pipetting the reagents shown in Table 4 directly into a plastic 1 ml cuvette. You should add all the components except the plasma sample, then add the plasma sample last when you are ready to start the reaction.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "d, e and f – Devise and perform an experiment to identify the activity of three pharmacological",
+   "weight": null,
+   "total": 10,
+   "statement": "agents acting on the dorsal vessel (45 Marks)\n\nThis is a test of fine dissection skills, observation and experimental design.\n\n    Please remember to write your name, your student code and your country in the given boxes.\n      Write your answers in this question booklet and place your dissection specimens into the 6 welled\n      microscope slide. Both items will be collected.\n      Make sure that you have received all the materials and equipment listed. If any of these items are\n      missing, please raise your Red card immediately.\n      During experiments, ensure to handle equipment properly. Any spilled solutions or equipment\n      damaged by you will not be replenished.\n      Stop answering and put down your pen immediately when the whistle sounds at the end of the\n      exam.\n      Attach your graph paper and your plain paper on to this question booklet with a paper-clip and put\n      in the envelope provided. Ensure to stick your small identification sticker onto the white section of\n      the 6 welled microscope slide.\n\nIBO 2017, United Kingdom                             2/15                               English (official), 24.7. 22:33\n\n  MATERIALS AND EQUIPMENT\n\n      1 x Dissection Stereo Microscope\n      1 x Desk Lamp\n      2 x Pairs Dissecting forceps\n      1 x Pair fine forceps - for moving larvae\n      10 x Dead larvae in a Universal tube. Those have been treated overnight with ethyl acetate (Task 1).\n      More can be made available if required.\n      10 x Larvae treated with a lethal dose of anaesthetic in a glass petri-dish (Task 2). These have been\n      treated for I hour with ethyl acetate – these will be provided when requested\n      2 x Plastic dissecting dish filled with a black silicone base\n      Approximately 20 minutian pins have been stuck around the edge of each dissecting dish. To move\n      them grip the pins with dissecting forceps close to the the bottom of the pin where it penetrates\n      into the black silicone\n      1 x P1000 pipette plus tips\n      1 x P200 pipette plus tips\n      Three 1.5 ml Eppendorfs - labelled A, B, and C, containing Acetylcholine, Adrenaline and\n      Octopamine respectively\n      1.5 ml Eppendorfs for your dilutions\n      PBS – Phosphate Buffered Saline – 100 mls\n      Gelvitol - mounting media\n      Counting clicker - available for beat counts\n      1 x timer\n      Microscope slide with six hydrophobic wells marked 1-6 (Do not touch the hydrophobic wells)\n      Sheets of paper towel\n      1 x Marker pen\n      1 x Graph paper\n      1 x Plain paper sheet\n      1 x Paper clip\n      1 x Red Flag (dark if colourblind)\n      1 x Green flag (light if colourblind)\n      1 x Waste beaker\n\nIBO 2017, United Kingdom                              3/15                             English (official), 24.7. 22:33\n\n  QUESTION 1: IDENTIFYING TISSUES OF A FLY LARVA\nIntroduction:\nThe Calliphoridae are typical members of the Order Diptera. Larval anatomy, while often different to the\nadult, retains many of the adult features. In the first set of experiments you will be required to identify a\nnumber of tissues in the larval stages of a C. vicina.\n\n       Figure 1. Lateral view of a third-instar larva (a developmental stage) of Calliphora\n       vicina, anterior is to the left. i) Pseudocephalon ii) Spiracle field iii) Spinose band iv) Anal\n       division\n\nAnterior to the anal division is the spiracle field where access of air into the tracheal system is gained\nthrough a pair of small brown ringed structures called spiracles containing a number of brown slits.\n\nFollowing dissection using a stereo dissecting microscope, the anatomy of the internal tissues of a larva\ncan be viewed. The structures are represented in Fig.2. Of importance to Experiment 1 is the nervous\nsystem, the fat bodies, the alimentary system, the tracheal system and the imaginal discs. The imaginal\ndiscs are discrete sheets of epithelia that will form the adult integument following metamorphosis.\n\nIBO 2017, United Kingdom                             4/15                                English (official), 24.7. 22:33\n\n       A                                                                   C                      Brain\n                               Appended crop\n                                                                           Mouthparts\n\n                                                           Midgut\n\n       Foregut                                             Malpighian\n                           Salivary glands                 Tubules\n                                                                                         Mouth hook\n       B                                       Wing disc\n                                                                           D\n                                                                                            Nub\n\n                                                                                        Teeth\n\n                                Leg discs\n\n       Figure 2. Lateral diagrams of anterior internal structures of a highly derived\n       dipteran larva. A. Note position of crop and salivary glands. B. Note the position of the\n       wing disc in relation to the mouthparts and brain. C. The anterior part of the mouthparts, the\n       “mouth hook”, is decorated by a number of teeth both on the hook and on the nub. These\n       number from 0 – 12 depending on the species and developmental stage e.g. in D. ​\n\n        A                      Mouth hooks\n                                                                           B\n                               Mouthparts                                               Imaginal Discs:\n                                                                                                Antennal\n                                                                                                Eye\n                               Salivary glands\n                               Foregut                                                          Leg 1, 2, 3\n                               Midgut\n                                                                                                Wing\n                               Malpighian\n                               Tubules                                                          Haltere\n\n                                                                                                Brain\n                               Midgut\n                               Hindgut\n\n                                                                                                Genital\n                               Anus\n\n       Figure 3. Dorsal representations of a dipteran larvae (not C.vicina) A. Alimentary\n       system (without crop) B. A dorsal representation of the relationship between the brain, major\n       tracheal tubes, dorsal vessel and imaginal discs. Note the relative size and position of the\n       wing disc in the diagrams – in C.vicina it is found attached to lateral trachea slightly more\n       anterior to the brain than the diagram here (compare to Fig. 2B).\n\nIn the diagrams above, the fat tissue is not shown . Fig. 4 shows two partially prepared larvae showing\nthis material – and the natural lack of colour and shading in such preparations.\nIBO 2017, United Kingdom                                            5/15                                        English (official), 24.7. 22:33\n\n       Figure 4. Initial Dissection A. Freshly pinned larva, following careful ripping of cuticle.\n       B. Filleted and pinned preparation – larger white arrow shows the bright white fat body\n       material making up much of the internal contents. Small white arrows point to minutian pins.\n       Note the thin white/silver trachea throughout the body",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "– Prepare stem sections and identify vascular structure and stem organisation. (9",
+   "weight": null,
+   "total": 9,
+   "statement": "Higher plants stems are comprised of plant vascular tissues made up of xylem vessels,\nphloem sieve tube elements and companion cells, and schlerenchyma fibres. Xylem vessels,\nphloem cells and sclerenchyma fibres can be identified by their structure.\n\nIBO 2017, United Kingdom                     6/20                          English (official), 24.7. 20:38\n\n                                                                                    Sclerenchyma\n  Feature                  Xylem vessels                  Phloem\n                                                                                        fibres\n                  Transport of water\n                                                                                    Structural\nFunction          and mineral ions         Transport of dissolved carbohydrates\n                                                                                    support\n                  Structural support\n                                                                         Separate cells\n           Hollow tubes made of Hollow tubes made of many connected\nStructure                                                                joined together\n           many connected cells cells\n                                                                         to form fibres\n                                 Sieve tube elements kept alive by\nDead/alive Dead cells                                                    Dead cells\n                                 connections to companion cells\n                                 No special modifications\n           Thickened and possess (plasmodesmata between sieve tube       Thickened and\nCell wall\n           lignin                element and companion cells, also sieve possess lignin\n                                 plates at the end of cells)\n           Completely hollow –\n                                 Hollow centre with thin layer of\nCell       some perforated or                                            Hollow dead\n                                 cytoplasm around the edge. Sieve\ncontents slitted end plates of                                           cells\n                                 plates at the end of each cell.\n           cells remain\nYou can see examples of these cells and the way the vascular tissue is organised in these\npictures of transverse sections of buttercup (A) and celery (B).\n\n       Transverse sections of stems. i = sclerenchyma fibres, ii = phloem, iii = xylem. A\n       = buttercup, B = celery.\n\nIBO 2017, United Kingdom                           7/20                           English (official), 24.7. 20:38\n\nVascular tissues of the stem are organized in continuous strands in several ways,\ndepending on the spatial location of the cells:\n    In bicollateral vascular bundle organization the phloem is located towards both the\n    inside and the outside and the xylem is located between the phloem poles.\n      In collateral vascular bundle organization the phloem is located towards the outside\n      and the xylem is located towards the inside.\n      In concentric amphivasal vascular bundle organization the xylem encloses the\n      phloem.\n      In concentric amphicribral vascular bundle organization the phloem surrounds the\n      xylem.\n      In monocotyledons (monocots), there are scattered vascular bundles, dispered\n      over the stem, although more towards the periphery\n      In dicotyledons (dicots), there are is a ring​ of vascular bundles, arranged in the\n      stem to form a cylinder\n      In woody species, thickening of the stem occurs, visible as annual ring formation.\n\nStem rigidity is maintained either by turgor pressure inside cells, or secondary wall\nmaterial (termed secondary thickening).\nYou are provided with 3 pre-prepared stained transverse stem sections labelled K, L, & M.\nYou are also provided with 3 plant specimens labelled E, I & J (Specimens from the same\nspecies (E and I) are used in tasks 2 AND 3). Prepare and stain transverse sections of\nstems from these plants.\n\n  1. Hold the stem of the plant in a vertical angle between the thumb and the index of your\n     non-dominant hand.\n  2. Hold the razor with your dominant hand and start cutting transverse sections of the\n     stem, as thin as possible.\n  3. In one petri dish, add a few drops of solution A (blue stain).\n  4. Place the transverse sections into the stain and stain for 3-5 minutes; staining time\n     depends on the thickness of the section.\n  5. In a second petri dish, add Solution B (distilled water). Once the staining is completed,\n     transfer the sections into the Solution B, swirl and remove the Solution B. Repeat until\n     excess stain washes out.\n  6. Carefully transfer the cross-section to a microscope slide, mount in water, add a\n     coverslip over the section and label the slide with the relevant letter (E, I & J).\n\nExamine the transverse sections on both the pre-prepared slides (K,L,M), and those that\nyou have prepared, under low and medium magnification, using both the dissecting and\ncompound microscopes. Based on your observations complete the following table using the\nONE code that you think best fits the sample character. You can use each code more than\nonce within the table.\nSection specimen key\n\nVascular bundle type                                            Type code\nBicollateral                                                    1\nCollateral                                                      2\nConcentric amphivasal                                           3\nConcentric amphicribral                                         4\n\nIBO 2017, United Kingdom                      8/20                          English (official), 24.7. 20:38\n\nBundle organisation                                       Bundle code\nArranged in a ring                                        5\nScattered                                                 6\nAnnual rings                                              7\nStem rigidity                                            Rigidity code\nTurgor pressure                                          8\nSecondary thickening                                     9\nSection table ​(9 marks)\n\n                 ​Vascular bundle   ​Vascular bundle             ​Provision of stem\n​Specimen\n                  type code          organisation code            rigidity code\n\nE\n\nI\n\nJ\n\nK\n\nL\n\nM",
+   "parts": [
+    {
+     "id": "3.1",
+     "points": 1.5,
+     "question": "Hold the stem of the plant in a vertical angle between the thumb and the index of your non-dominant hand.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.2",
+     "points": 1.5,
+     "question": "Hold the razor with your dominant hand and start cutting transverse sections of the stem, as thin as possible.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.3",
+     "points": 1.5,
+     "question": "In one petri dish, add a few drops of solution A (blue stain).",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.4",
+     "points": 1.5,
+     "question": "Place the transverse sections into the stain and stain for 3-5 minutes; staining time depends on the thickness of the section.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.5",
+     "points": 1.5,
+     "question": "In a second petri dish, add Solution B (distilled water). Once the staining is completed, transfer the sections into the Solution B, swirl and remove the Solution B. Repeat until excess stain washes out.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "3.6",
+     "points": 1.5,
+     "question": "Carefully transfer the cross-section to a microscope slide, mount in water, add a coverslip over the section and label the slide with the relevant letter (E, I & J).",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "– Determine the phylogeny of species used in tasks 1-3. (3 Marks)",
+   "weight": null,
+   "total": 10,
+   "statement": "Taxonomy\nFor plant species A-E & I-L, annotate the tree with the most likely position of each\nspecimen species A-E and I-L in the boxes. Each box may include one or more than one\nspecimen, or no specimens.\nIn addition, annotate the tree with the presence of three evolutionary events (each box may\ninclude one or more than one event, or no events):\n   I. Development of first flowers\n  II. Development of first vasculature\n III. Development of first seeds\n\nIBO 2017, United Kingdom                     9/20                         English (official), 24.7. 20:38\n\n                                    Specimens\n\n                                             Bryophytes\n\n                                                Pteridophytes\n\n                                                Gingkos\n\n                                                Conifers\n\n                                                Monocots\n\n                                                Angiosperms\n\n                                                Eudicots\n\n       Evolutionary events\n\n       Taxonomic tree ​(3 points)\n\nIBO 2017, United Kingdom             10/20                      English (official), 24.7. 20:38\n\n  QUESTION 2: ​FLORAL MORPHOLOGY\nWild-type eudicotyledon flowers are comprised of four whorls of floral organs in the\nfollowing order (outside to inside): sepals, petals, stamens, carpels. The figure below shows\nyou the wild-type floral organ structure of Arabidopsis thaliana in longitudinal (A) and cross\nsection (B). The floral organ identity of each whorl is determined by the action or\ninteraction of three classes of ‘homeotic’ gene activity, A, B, C; as shown.\n\n                           Stamen                  Carpel\n                           Anther                  Stigma\n                            Filament               Style\n                                                   Ovary\n                                                                        B\n                           Petal\n\n                           Sepal\n\n                                   A\n\n                                               B\n                                       A                   C\n                                   1       2           3           4   whorls\n\n      Expression of gene A specifies sepals.\n      Expression of genes A and B together specifies petals.\n      Expression of genes B and C together specifies stamens.\n      Expression of gene C specifies carpels.\n      Genes A and C repress expression of each other, thus are mutually exclusive.",
+   "parts": [
+    {
+     "id": "4.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "b",
+   "weight": null,
+   "total": 10,
+   "statement": "Complete the table below choosing ONE appropriate code for each answer. You can use\neach code more than once.\nPhenotype codes\n\nPhenotype                                               Phenotype code\nLeaves in all four whorls                               1\nSepals in all four whorls                               2\nPetals in all four whorls                               3\nCarpels in all four whorls                              4\nStamens in all four whorls                              5\n(1 mark)\n\n                                                                          Phenotype\n                                                                          code\n\nWhat is the flower phenotype in a homozygous knockout BC double\nmutant?\n\nWhat is the flower phenotype in a homozygous knockout ABC triple\nmutant?\n\nIBO 2017, United Kingdom                      12/20                       English (official), 24.7. 20:38\n\n  QUESTION 3: SEED AND EMBRYO DEVELOPMENT\nIn wild-type plants, after double fertilisation, each ovule in the carpel of Arabidopsis\nthaliana develops into a seed. As the many seeds develop, the carpel structure enlarges and\nis termed a silique (seed pod). Arabidopsis thaliana plant inflorescence (flowering stem)\ndevelopment is indeterminate, thus on a single plant there are many flowers and siliques at\na range of developmental stages (see image of Arabidopsis thaliana inflorescence below).\nWithin each developing seed, the embryo progressively grows and develops, and a number\nof stages have been named based on the morphology (see figure below).\n\n       Fertilised egg                                             Heart            Torpedo               Mature embryo\n\n               2 cell\n\n                           Octant\n                                    Globular\n\n                 Seed\n                                                Triangular\n                                                   Suspensor\n                                                     Basal cell\n\n                                                                    Cotyledons\n                                                             Shoot apical meristem\n                                                                Root apical meristem\n\n                                    Seed coat\n                                                                                       Vascular tissue\n\n       Arabidopsis​ embryo developemnt\n\n       Silique age progression. i = youngest flowers, ii = older embryos and seeds.\n\nIBO 2017, United Kingdom                                             13/20                                   English (official), 24.7. 20:38",
+   "parts": [
+    {
+     "id": "5.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "a",
+   "weight": null,
+   "total": 9,
+   "statement": "You have been provided with 2 tubes containing inflorescences that are developing siliques\nof Arabidopsis thaliana plants labelled R and S. These are different plant lines. Dissect\nTWO 1.3-1.7cm long siliques from plant R and TWO 1.3-1.7cm siliques from plant S as\ndescribed below; the silique is attached by a stalk to the plant stem - only measure the\nsilique length. You must dissect 1.3-1.7cm long siliques as embryo development at this\nstage will enable you to observe clear differences between plants R and S.\nSilique dissection procedure\n 1. Make two slide chambers. You will use these in step 4. To do this, first cut a ~4cm\n     strip of the yellow electrical tape and stick it onto a microscope slide. With a razor\n     blade, cut out and remove two small squares from this strip and ensure that the cut\n     edges are flat.\n 2. Stick a 5cm long piece of double sided sticky tape on to a second microscope slide.\n     Mount the siliques on the sticky tape so that each silique is flat. Observing the slide\n     under a dissecting microscope, use a hypodermic needle to remove the top layer of\n     silique tissue, without damaging the seeds within. Removing this in two strips, on\n     either side of the central silique vein is recommended; the figure below illustrates a\n     cross section of a mounted silique, showing the position of the hypodermic needle for\n     dissection.\n 3. Observing the slide under a dissecting microscope, record the number of seeds and\n     the number of aborted seeds (if any) within the silique.\n 4. Wearing gloves, pipette a drop of Solution C (Hoyer’s solution) into each slide\n     chamber. NB Solution C is an irritant so do not get it on your skin. Using the\n     hypodermic needle or a teasing needle, transfer all of the seeds from each silique into\n     Solution C in the prepared slide chamber; do this under the dissecting microscope, or\n     by eye. Transfer seeds from plant R into one slide chamber, and seeds from plant S\n     into the other slide chamber.\n  5. Place a cover slip over the seeds. Store the slides at room temperature for 1 hour to\n     enable the tissue to be cleared (this reaction makes the tissue more transparent so you\n     can see the developing embryos through the seed coat).\n  6. Observe the samples at high magnification using a compound microscope (e.g. you can\n     see a heart-shaped embryo in this cleared seed).\n\nIBO 2017, United Kingdom                    14/20                          English (official), 24.7. 20:38\n\n             A\n                                       Electrical tape\n                           Microscope slide\n                                                                 Cut out 2 holes\n                                                                 (slide chambers)\n\n                                      Slits along sides of silique\n\n             B             Microscope slide\n                                    Double-sided tape\n\n                  Needle\n\n                                          Peel top off\n\n       Silique dissection\n\nUsing an average of both siliques dissected, record the number of developing seeds per\nsilique within each plant line in the table below. Then examine the stage of embryo\ndevelopment for the seeds within the siliques. Record the % of seeds at each stage of\nembryo development.\nSilique morphology (4 marks)\n\n           Average number of             % globular              % heart       % torpedo          % mature\nPlant\n                 seeds                     stage                  stage          stage              stage\n\nR\n\nS",
+   "parts": [
+    {
+     "id": "6.1",
+     "points": 1.5,
+     "question": "Make two slide chambers. You will use these in step 4. To do this, first cut a ~4cm strip of the yellow electrical tape and stick it onto a microscope slide. With a razor blade, cut out and remove two small squares from this strip and ensure that the cut edges are flat.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.2",
+     "points": 1.5,
+     "question": "Stick a 5cm long piece of double sided sticky tape on to a second microscope slide. Mount the siliques on the sticky tape so that each silique is flat. Observing the slide under a dissecting microscope, use a hypodermic needle to remove the top layer of silique tissue, without damaging the seeds within. Removing this in two strips, on either side of the central silique vein is recommended; the figure below illustrates a cross section of a mounted silique, showing the position of the hypodermic needle for dissection.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.3",
+     "points": 1.5,
+     "question": "Observing the slide under a dissecting microscope, record the number of seeds and the number of aborted seeds (if any) within the silique.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.4",
+     "points": 1.5,
+     "question": "Wearing gloves, pipette a drop of Solution C (Hoyer’s solution) into each slide chamber. NB Solution C is an irritant so do not get it on your skin. Using the hypodermic needle or a teasing needle, transfer all of the seeds from each silique into Solution C in the prepared slide chamber; do this under the dissecting microscope, or by eye. Transfer seeds from plant R into one slide chamber, and seeds from plant S into the other slide chamber.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.5",
+     "points": 1.5,
+     "question": "Place a cover slip over the seeds. Store the slides at room temperature for 1 hour to enable the tissue to be cleared (this reaction makes the tissue more transparent so you can see the developing embryos through the seed coat).",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "6.6",
+     "points": 1.5,
+     "question": "Observe the samples at high magnification using a compound microscope (e.g. you can see a heart-shaped embryo in this cleared seed).",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "a",
+   "weight": null,
+   "total": 10,
+   "statement": "Analyse lines U, V, W & X by following the same procedure. Complete the table with ONE\ncode that best describes the phenotype that you observe. You can use each phenotype more\nthan once.\n\nIBO 2017, United Kingdom                       17/20                           English (official), 24.7. 20:38\n\nRoot phenotype codes\n\nRoot phenotype                                                          Code\nShort root hairs                                                        1\nNo root hairs                                                           2\nLonger root hairs                                                       3\nFewer root hairs                                                        4\nMore root hairs                                                         5\nShorter lateral roots                                                   6\nLonger lateral roots                                                    7\nNo lateral roots                                                        8\nRoot phenotypes ​(6 marks)\n\n       Specimen                       Root development phenotype code\n\n              U\n\n              V\n\n             W\n\n              X",
+   "parts": [
+    {
+     "id": "7.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "b",
+   "weight": null,
+   "total": 10,
+   "statement": "Complete the Punnet square for the expected genotypes of a cross between a WEREWOLF\nwild-type (BB) plant and a werewolf recessive homozygote (bb).\n(0.5 marks)\n\nblank                                            Wild-type            Allele 1             Allele 2\n\n               Recessive homozygote              blank\n\n                                      Allele 1\n\n                                      Allele 2\n\nTwo other plants were crossed and the progeny had the phenotypes shown in the table.\n​Phenotype                            ​Number of progeny\n Normal roots                          24\n No root hairs                         8\nFill in the table about this cross.\n\nIBO 2017, United Kingdom                         19/20                           English (official), 24.7. 20:38\n\n(1.5 marks)\n\n                                                                                           ?? x ??\nWhat were the genotypes of the two plants that were crossed (in terms of B or b)?\n\nHow many progeny have the genotype Bb?\n\nHow many progeny have the genotype BB?\n\nIBO 2017, United Kingdom                   20/20                         English (official), 24.7. 20:38\n\n!\n!\n\n                                                                                             !\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n\n                                                 !\n!\n\n                           Student name:           Student code:      Country:\n\n                                           Practical Exam 2\n                                           BIOCHEMISTRY\n\n                                               Total points: 78\n\nIBO 2017, United Kingdom                               1/19                      English (official), 24.7. 22:49\n\nIn this practical test you have TWO hours to do THREE Questions .\n\nYou should perform the tasks in the order given here:\n\nQuestion 1: Analysis of blood markers (11 marks). This section should take approximately 15 minutes to\ncomplete. You will be provided with some data to analyse.\n\nQuestion 2: Practical determination of kinetic parameters (60 marks). This section should take\napproximately 90 minutes to complete. You will be generating your own data.\n\nQuestion 3: Analysis of genetic markers (7 marks). This section should take approximately 5 minutes to\ncomplete. You will be provided with some data.\n\nIn this exam you will analyse a patient history through blood marker characteristics, enzyme kinetics and\nfamily inheritance of a genetic disorder.\n\n    Please remember to write your name, your student code and your country in the given boxes.\n      Write your answers in this question booklet. Only the answers given in this question booklet will be\n      evaluated.​\n      Make sure that you have received all the materials and equipment listed. If any of these items are\n      missing, please raise your Green card immediately.\n      During experiments, ensure to handle equipment properly. Any spilled solutions or equipment\n      damaged by you will not be replenished.\n      Stop answering and put down your pen immediately when the whistle sounds at the end of the\n      exam.\n      Leave the question booklet on your desk at the end of the exam.\n\nIBO 2017, United Kingdom                            2/19                               English (official), 24.7. 22:49\n\n  MATERIALS\n\n      Ice Box\n      Solution A: 2 x Concentration Reaction Master Mix containing: 50 mM potassium phosphate buffer,\n      pH 7.6; 14 mM MgSO4; 2.64 mM ADP; 40 U Lactate Dehydrogenase; 0.4 mM NADH (10 ml) (in ice\n      box)\n      Solution B: H2O (10 ml)\n      Solution C: 10 mM phosphoenol pyruvate (PEP) in 0.1 M potassium phosphate buffer, pH 7.6 (1.5\n      ml) (in ice box)\n      Diluted plasma samples F, M and D (0.5 mL each) (in ice box)\n      A 20-200 µl pipette\n      A 100-1000 µl pipette or 200-1000 µl pipette\n      Pipette tips, to suit pipettes\n      1 ml plastic cuvettes (1 cm path length) x 20\n      Waste tip and cuvette disposal vessel\n      A visible light spectrophotometer - check the Spectrophotometer Guide sheet, included as a\n      separate document, for instructions on using you spectrophotometer\n      - a cuvette will be placed in sample chamber to indicate the correct orientation.\n      A Cuvette stand\n      Parafilm® squares x 30\n      Digital Timer\n      30 cm ruler\n      Scientific Calculator\n      Pen\n      Pencils\n\nIBO 2017, United Kingdom                              3/19                           English (official), 24.7. 22:49\n\n  INTRODUCTION\n\nImportant Background Information\nPyruvate kinase (PK), a 58 kiloDalton (kDa) protein, functions as a homotetramer and has a pivotal role\nin the glycolytic pathway (Fig. 1), converting its substrate phosphoenol pyruvate (PEP) into pyruvate in a\nreaction that also generates ATP.\n\nPK deficiency (PKD) is the commonest cause of hereditary non-spherocytic haemolytic anaemia, a group\nof genetically inherited diseases associated with a net loss of red blood cells. In the PKD disorder, red\nblood cells are broken down (undergo haemolysis) prematurely, resulting in a shortage of red blood cells\n(anaemia). In hereditary non-spherocytic haemolytic anaemia, the red blood cells do not assume a\nspherical shape as they do in some other forms of haemolytic anaemia. Blood analysis can also be helpful\nin understanding the PKD disease. In addition, the disease is often associated with reticulocytosis; an\nincrease in number of reticulocytes (immature red blood cells).\n\nPKD is inherited in an autosomal recessive pattern. The parents of an individual with an autosomal\nrecessive condition may, or may not, show signs and symptoms of the condition depending on the alleles\nthat they possess.\n\nGiven equal subunit expression and random association, PK in either simple heterozygotes or compound\nheterozygotes (heterozygotes where there are two different recessive alleles) is a spectrum of\nheterotetrameric isozymes (A4, A3B, A2B2, B3A, B4) in a theoretic ratio of 1:4:6:4:1. If B is a variant and\nA is normal, some 94% of all PK in PKD patients contains one or more mutant subunits; in vivo, non-\nassembled monomers are prone to protease digestion. It is important to note that specific alleles code for\nPK proteins that form tetramers, whilst other alleles code for PK proteins that remain as monomers.\n\nClinical symptoms usually observed in simple heterozygotes, compound heterozygotes and homozygotes\nare variable, ranging from neo-natal jaundice requiring blood transfusions, to haemolytic anaemias that\nare self-regulated and show minimal clinical signs. Many of the mutant PKs have been identified on the\nbasis of the biochemical characteristics of the defective enzyme.\n\n                    Glucose                      Phosphoenol Pyruvate\n                                Glycolysis               (PEP)\n                              (multiple steps)\n                                                     ADP          Pyruvate Kinase\n                                                                        (PK)\n                                                    ATP\n                                                          Pyruvate\n       Figure 1: The role of pyruvate kinase (PK)\n\nA clinical scenario:\nVarious family members have been diagnosed with non-spherocytic haemolytic anaemia, perhaps\nassociated with PK deficiency. Numerous tests can be conducted including blood work to determine the\nparameters of the blood composition (haemogram) and an enzyme analysis of plasma specifically for PK\nactivity. Additionally, a genetic analysis including identification of PK proteins from individual members\nand an analysis of a family pedigree to confirm the likely inheritance pattern can be undertaken.\n\nYou will analyse and collect data from the 3 family members: Father (F), Mother (M) and Daughter (D), in\norder to determine the family pedigree.\n\nIBO 2017, United Kingdom                                   4/19                         English (official), 24.7. 22:49\n\n  QUESTION 1\nBlood Analysis:\nWhole blood samples were collected from the Father (F), Mother (M) and their Daughter (D). After blood\nis taken and analysed the following partial results were obtained (Table 1):\n\nTable 1\n\n                                     Patient F (Father) Patient M (Mother)              Patient D (Daughter)\nRed Blood Cells (RBCs) count             5.35x1012/l            3.65x1012/l                   3.01x1012/l\nWhite Cell count                          7.5x10 9/l             4.2x10 9/l                    3.4x10 9/l\nHaemoglobin concentration                  14.4 g/dl              10.5 g/dl                     8.5 g/dl\nReticulocytes (% of RBCs)                   1.67 %                 2.63 %                       10.46 %\n\nVarious analyses can be undertaken, including the determination of the haematocrit, the packed red\nblood cell volume, given as a percentage of total blood volume. The haematocrit is produced by taking up\na sample of blood into a micro-capillary tube and centrifuging the sample so that the red blood cells\nbecome packed. The percentage of red blood cells is calculated by measuring the packed volume as a\nfunction of the total volume in the capillary tube.",
+   "parts": [
+    {
+     "id": "8.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "",
+     "pointsEstimated": true
+    }
+   ]
+  }
+ ]
+}
