@@ -54,7 +54,11 @@
 
   function saveResult(setId, n, answers, result) {
     data[setId] = data[setId] || {};
-    data[setId][n] = { answers: { ...answers }, result, updatedAt: Date.now(), checkedAt: Date.now() };
+    const prev = data[setId][n] || {};
+    const now = Date.now();
+    // История всех проверок — для календаря активности, серий и графика роста
+    const history = mergeHistory(prev.history || legacyHistory(prev), [{ at: now, score: result.score, max: result.max }]);
+    data[setId][n] = { answers: { ...answers }, result, history, updatedAt: now, checkedAt: now };
     persist();
     pushCloud(setId, n);
     emit();
@@ -69,6 +73,17 @@
     timers.set(key, setTimeout(() => pushCloud(setId, n), 2500));
   }
 
+  function legacyHistory(t) {
+    return t && t.result && t.result.max ? [{ at: t.checkedAt || t.updatedAt || 0, score: t.result.score, max: t.result.max }] : [];
+  }
+
+  /** Объединение историй (локальной и из облака) без дублей, не больше 200 записей на задачу */
+  function mergeHistory(a, b) {
+    const seen = new Map();
+    for (const h of [...(a || []), ...(b || [])]) if (h && h.at) seen.set(h.at, { at: h.at, score: Number(h.score) || 0, max: Number(h.max) || 0 });
+    return [...seen.values()].sort((x, y) => x.at - y.at).slice(-200);
+  }
+
   async function pushCloud(setId, n) {
     if (!supabase || !user) return;
     const t = getTask(setId, n);
@@ -78,7 +93,7 @@
       olympiad_id: setId,
       task_id: String(n),
       parts: t.answers || {},
-      ai_result: t.result || null,
+      ai_result: t.result ? { ...t.result, history: t.history || legacyHistory(t) } : null,
       score: t.result ? Math.round(t.result.score) : null,
       status: t.result ? "checked" : "draft",
       last_saved: new Date(t.updatedAt || Date.now()).toISOString(),
@@ -95,16 +110,21 @@
     if (error) return console.warn("Не удалось загрузить прогресс:", error.message);
     const toPush = [];
     for (const r of rows || []) {
+      const { history: cloudHistory, ...result } = r.ai_result || {};
       const cloud = {
         answers: r.parts || {},
-        result: r.ai_result || null,
+        result: r.ai_result ? result : null,
         updatedAt: Date.parse(r.last_saved) || 0,
         checkedAt: r.checked_at ? Date.parse(r.checked_at) : null,
       };
+      cloud.history = mergeHistory(cloudHistory || legacyHistory(cloud), []);
       const local = getTask(r.olympiad_id, r.task_id);
+      data[r.olympiad_id] = data[r.olympiad_id] || {};
       if (!local || (cloud.updatedAt || 0) > (local.updatedAt || 0)) {
-        data[r.olympiad_id] = data[r.olympiad_id] || {};
-        data[r.olympiad_id][r.task_id] = cloud;
+        data[r.olympiad_id][r.task_id] = { ...cloud, history: mergeHistory(cloud.history, local && (local.history || legacyHistory(local))) };
+      } else {
+        // локальная версия новее, но история проверок с другого устройства тоже нужна
+        local.history = mergeHistory(local.history || legacyHistory(local), cloud.history);
       }
     }
     // Upload local-only / newer entries

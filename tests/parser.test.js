@@ -66,3 +66,40 @@ console.log("format tests: OK");
   assert(!isBareAnswer("2KOH + H2SO4 → K2SO4 + 2H2O"));
   console.log("jury guard tests: OK");
 }
+
+// Прогресс в стиле Codeforces
+{
+  const P = require("../public/js/progress.js");
+  const DAY = 86400000;
+  const now = new Date(2026, 10, 9, 15).getTime();
+  const at = (daysAgo) => now - daysAgo * DAY;
+  const data = {
+    setA: {
+      1: { history: [{ at: at(10), score: 2, max: 10 }, { at: at(9), score: 10, max: 10 }] }, // решена 9 дней назад
+      2: { history: [{ at: at(1), score: 7, max: 10 }] }, // почти
+      3: { history: [{ at: at(0), score: 0, max: 5 }] }, // ноль
+    },
+    setB: {
+      1: { result: { score: 1, max: 4, percent: 25 }, checkedAt: at(400) }, // старая запись без history
+      2: { answers: { "2.1": "черновик" } }, // не проверялась
+    },
+  };
+  assert.strictEqual(P.level(100), "solved");
+  assert.strictEqual(P.level(70), "strong");
+  assert.strictEqual(P.level(1), "partial");
+  assert.strictEqual(P.level(0), "zero");
+  const s = P.summarize(data, now);
+  assert.deepStrictEqual(s.byLevel, { solved: 1, strong: 1, partial: 1, zero: 1 });
+  assert.strictEqual(s.solvedTotal, 1);
+  assert.strictEqual(s.solvedMonth, 1);
+  assert.strictEqual(s.totalChecks, 5);
+  assert.strictEqual(s.streak.current, 2, "сегодня и вчера");
+  assert.strictEqual(s.streak.max, 2);
+  const tl = P.scoreTimeline(data);
+  assert.strictEqual(tl[tl.length - 1].total, 1 + 10 + 7, "сумма лучших баллов");
+  const grid = P.yearGrid(2026, s.activity);
+  const cells = grid.weeks.flat().filter(Boolean);
+  assert.strictEqual(cells.length, 365);
+  assert.strictEqual(cells.find((c) => c.key === P.dayKey(at(9))).solved, 1);
+  console.log("progress tests: OK");
+}

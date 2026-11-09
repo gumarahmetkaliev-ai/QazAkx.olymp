@@ -44,7 +44,8 @@
     let checked = 0, score = 0, max = 0, weighted = 0, weightSum = 0, fullMax = 0;
     for (const t of set.tasks) {
       fullMax += Number(t.total) || 0;
-      const r = saved[t.number] && saved[t.number].result;
+      const best = QProgress.taskSummary(saved[t.number]).best; // лучшая попытка, как в профиле
+      const r = best ? { score: best.score, max: best.max } : null;
       weightSum += Number(t.weight) || 0;
       if (!r) continue;
       checked++;
@@ -58,11 +59,19 @@
   /** Cheap progress for catalog chips without loading the set */
   function quickProgress(setId) {
     const saved = QStore.getSet(setId);
-    const results = Object.values(saved).map((t) => t.result).filter(Boolean);
-    if (!results.length) return null;
-    const score = results.reduce((s, r) => s + r.score, 0);
-    const max = results.reduce((s, r) => s + r.max, 0);
-    return { checked: results.length, percent: max ? Math.round((score / max) * 100) : 0 };
+    const sums = Object.values(saved).map((t) => QProgress.taskSummary(t)).filter((x) => x.level !== "none");
+    if (!sums.length) return null;
+    const score = sums.reduce((s, x) => s + x.best.score, 0);
+    const max = sums.reduce((s, x) => s + x.best.max, 0);
+    return { checked: sums.length, solved: sums.filter((x) => x.level === "solved").length, percent: max ? Math.round((score / max) * 100) : 0 };
+  }
+
+  /** Полоска из клеток по задачам комплекта: цвет = уровень лучшей попытки */
+  function setStrip(set) {
+    return `<div class="strip">${set.tasks.map((t) => {
+      const st = taskStatus(set.setId, t.number);
+      return `<i class="${st.cls}" title="Задача №${t.number}${st.tip ? " — " + esc(st.tip) : " — не решалась"}"></i>`;
+    }).join("")}</div>`;
   }
 
   function pdfUrl(olymp, m, download) {
@@ -194,9 +203,15 @@
     if (o.stage === "pagodane") label = `${o.edition || ""} · ${o.gradeLabel || ""}`.replace(/^ · | · $/g, "");
     const progresses = solvable.map((m) => quickProgress(m.setId)).filter(Boolean);
     const pct = progresses.length ? Math.round(progresses.reduce((s, p) => s + p.percent, 0) / progresses.length) : null;
-    const sub = solvable.length ? `✎ ИИ-проверка${pct != null ? ` · ${pct}%` : ""}` : `${o.materials.length} PDF`;
+    const solved = progresses.reduce((s, p) => s + p.solved, 0);
+    const sub = !solvable.length
+      ? `${o.materials.length} PDF`
+      : pct == null
+        ? "✎ ИИ-проверка"
+        : `${solved ? `✓ ${solved} ${plural(solved, "решена", "решены", "решено")} · ` : ""}${pct}%`;
+    const lvl = pct == null ? "" : `lvl-${QProgress.level(pct)}`;
     return `<a class="grade ${solvable.length ? "solvable" : ""}" href="/olympiads/${o.id}" data-link>
-      <b>${esc(label)}</b><small>${sub}</small>${pct != null ? `<i class="bar" style="width:${Math.max(6, pct)}%"></i>` : ""}</a>`;
+      <b>${esc(label)}</b><small>${sub}</small>${pct != null ? `<i class="bar ${lvl}" style="width:${Math.max(6, pct)}%"></i>` : ""}</a>`;
   }
 
   function plural(n, one, few, many) {
@@ -295,12 +310,13 @@
   // ---------------------------------------------------------------- solver
   function taskStatus(setId, number) {
     const saved = QStore.getTask(setId, number);
-    if (saved && saved.result) {
-      const p = saved.result.percent;
-      return { cls: p >= 80 ? "good" : p >= 40 ? "mid" : "low", label: `${p}%` };
+    const sum = QProgress.taskSummary(saved);
+    if (sum.level !== "none") {
+      const tip = `${QProgress.LEVEL_LABEL[sum.level]} · лучшая попытка ${fmt(sum.best.score)}/${fmt(sum.best.max)} (${sum.bestPercent}%) · попыток: ${sum.attempts}`;
+      return { cls: `lvl-${sum.level}`, label: sum.level === "solved" ? "✓" : `${sum.bestPercent}%`, tip };
     }
-    if (saved && saved.answers && Object.values(saved.answers).some((v) => String(v).trim())) return { cls: "draft", label: "✎" };
-    return { cls: "", label: "" };
+    if (saved && saved.answers && Object.values(saved.answers).some((v) => String(v).trim())) return { cls: "draft", label: "✎", tip: "Черновик" };
+    return { cls: "", label: "", tip: "" };
   }
 
   function renderSolver() {
@@ -328,7 +344,7 @@
       ${weightedLine}
       <div class="task-chips">${set.tasks.map((t) => {
         const st = taskStatus(set.setId, t.number);
-        return `<button class="task-chip ${st.cls} ${t.number === taskNumber ? "active" : ""}" data-task="${t.number}" title="${esc(t.title)}">${t.number}${st.label && st.cls !== "draft" ? `<span class="small">· ${st.label}</span>` : st.cls === "draft" ? "·" : ""}</button>`;
+        return `<button class="task-chip ${st.cls} ${t.number === taskNumber ? "active" : ""}" data-task="${t.number}" title="${esc(t.title + (st.tip ? " — " + st.tip : ""))}">${t.number}${st.label && st.cls !== "draft" ? `<span class="small">${st.label}</span>` : st.cls === "draft" ? "·" : ""}</button>`;
       }).join("")}</div>`;
     head.querySelectorAll("[data-task]").forEach((b) =>
       b.addEventListener("click", () => {
@@ -491,41 +507,103 @@
   }
 
   // ---------------------------------------------------------------- progress
-  function renderProgress() {
+  const MONTHS = ["Янв", "Фев", "Мар", "Апр", "Май", "Июн", "Июл", "Авг", "Сен", "Окт", "Ноя", "Дек"];
+
+  function heatmapHtml(year, activity) {
+    const { weeks, months } = QProgress.yearGrid(year, activity);
+    const cell = 13, gap = 3, left = 30, top = 18;
+    const w = left + weeks.length * (cell + gap), h = top + 7 * (cell + gap);
+    const rects = weeks.map((col, wi) => col.map((d, di) => {
+      if (!d) return "";
+      const tip = `${d.date.toLocaleDateString("ru-RU", { day: "numeric", month: "long", year: "numeric" })}: ${d.checks ? `${d.checks} ${plural(d.checks, "проверка", "проверки", "проверок")}${d.solved ? `, решено ${d.solved}` : ""}` : "нет активности"}`;
+      return `<rect x="${left + wi * (cell + gap)}" y="${top + di * (cell + gap)}" width="${cell}" height="${cell}" rx="2" class="hm hm${d.level}${d.solved ? " hm-solved" : ""}"><title>${tip}</title></rect>`;
+    }).join("")).join("");
+    const monthLabels = months.map((m) => `<text x="${left + m.week * (cell + gap)}" y="11" class="hm-label">${MONTHS[m.month]}</text>`).join("");
+    const dayLabels = ["Пн", "", "Ср", "", "Пт", "", "Вс"].map((d, i) => (d ? `<text x="0" y="${top + i * (cell + gap) + 10}" class="hm-label">${d}</text>` : "")).join("");
+    return `<svg class="heatmap" viewBox="0 0 ${w} ${h}" role="img" aria-label="Активность за ${year} год">${monthLabels}${dayLabels}${rects}</svg>
+      <div class="hm-legend small dim">меньше <i class="hm0"></i><i class="hm1"></i><i class="hm2"></i><i class="hm3"></i><i class="hm4"></i> больше · <i class="hm2 hm-solved"></i> есть решённая задача</div>`;
+  }
+
+  function timelineHtml(points) {
+    if (points.length < 2) return `<div class="empty small">График появится после проверок в разные дни.</div>`;
+    const W = 640, H = 200, L = 40, R = 12, T = 12, B = 26;
+    const t0 = points[0].at, t1 = points[points.length - 1].at;
+    const maxY = Math.max(10, ...points.map((p) => p.total));
+    const step = [5, 10, 20, 25, 50, 100, 200, 250, 500, 1000].find((st) => maxY / st <= 5) || 2000;
+    const niceMax = Math.ceil(maxY / step) * step;
+    const x = (t) => L + (t1 === t0 ? 0 : ((t - t0) / (t1 - t0)) * (W - L - R));
+    const y = (v) => T + (1 - v / niceMax) * (H - T - B);
+    const path = points.map((p, i) => `${i ? "L" : "M"}${x(p.at).toFixed(1)},${y(p.total).toFixed(1)}`).join(" ");
+    const grid = Array.from({ length: niceMax / step + 1 }, (_, i) => i * step).map((v) => {
+      return `<line x1="${L}" x2="${W - R}" y1="${y(v)}" y2="${y(v)}" class="tl-grid"/><text x="${L - 6}" y="${y(v) + 4}" class="tl-label" text-anchor="end">${v}</text>`;
+    }).join("");
+    const fmtD = (t) => new Date(t).toLocaleDateString("ru-RU", { day: "numeric", month: "short" });
+    const dots = points.map((p) => `<circle cx="${x(p.at).toFixed(1)}" cy="${y(p.total).toFixed(1)}" r="3.5" class="tl-dot"><title>${fmtD(p.at)}: ${fmt(p.total)} б.</title></circle>`).join("");
+    return `<svg class="timeline" viewBox="0 0 ${W} ${H}" role="img" aria-label="Рост баллов">${grid}
+      <path d="${path} L${x(t1).toFixed(1)},${y(0)} L${x(t0).toFixed(1)},${y(0)} Z" class="tl-area"/><path d="${path}" class="tl-line"/>${dots}
+      <text x="${L}" y="${H - 6}" class="tl-label">${fmtD(t0)}</text><text x="${W - R}" y="${H - 6}" class="tl-label" text-anchor="end">${fmtD(t1)}</text></svg>`;
+  }
+
+  async function renderProgress() {
     const all = QStore.all();
-    const attempts = [];
+    const sum = QProgress.summarize(all);
+    const years = [...new Set([new Date().getFullYear(), ...[...sum.activity.keys()].map((k) => Number(k.slice(0, 4)))])].sort((a, b) => b - a);
+    const year = Number(new URLSearchParams(location.search).get("year")) || years[0];
     const topicCount = new Map();
+    const attempts = [];
     for (const [setId, tasks] of Object.entries(all)) {
       const ref = App.bySet.get(setId);
       for (const [n, t] of Object.entries(tasks)) {
         if (!t.result) continue;
-        attempts.push({ setId, n: Number(n), ref, result: t.result, at: t.checkedAt || t.updatedAt });
+        attempts.push({ setId, n: Number(n), ref, result: t.result, at: t.checkedAt || t.updatedAt, st: QProgress.taskSummary(t) });
         for (const r of t.result.review || []) topicCount.set(r.id, (topicCount.get(r.id) || 0) + r.count);
       }
     }
     attempts.sort((a, b) => b.at - a.at);
-    const score = attempts.reduce((s, a) => s + a.result.score, 0);
-    const max = attempts.reduce((s, a) => s + a.result.max, 0);
-    const setsStarted = new Set(Object.keys(all).filter((k) => Object.keys(all[k]).length)).size;
     const topics = [...topicCount.entries()].sort((a, b) => b[1] - a[1]);
+    const setIds = [...new Set(attempts.map((a) => a.setId))];
+    const L = sum.byLevel;
 
     view().innerHTML = `<div class="page page-narrow">
       <h1>Мой прогресс</h1>
-      <div class="stats">
-        <div class="card stat"><b>${attempts.length}</b><span>задач проверено</span></div>
-        <div class="card stat"><b>${max ? Math.round((score / max) * 100) : 0}%</b><span>средний результат</span></div>
-        <div class="card stat"><b>${fmt(score)}</b><span>баллов набрано</span></div>
-        <div class="card stat"><b>${setsStarted}</b><span>олимпиад начато</span></div>
+      <div class="cf-stats card">
+        <div><b>${sum.solvedTotal}</b><span>${plural(sum.solvedTotal, "задача решена", "задачи решено", "задач решено")} за всё время</span></div>
+        <div><b>${sum.solvedYear}</b><span>за последний год</span></div>
+        <div><b>${sum.solvedMonth}</b><span>за последний месяц</span></div>
+        <div><b>${sum.streak.max} ${plural(sum.streak.max, "день", "дня", "дней")}</b><span>подряд — рекорд</span></div>
+        <div><b>${sum.streak.maxYear} ${plural(sum.streak.maxYear, "день", "дня", "дней")}</b><span>подряд за последний год</span></div>
+        <div><b>${sum.streak.current} ${plural(sum.streak.current, "день", "дня", "дней")}</b><span>текущая серия${sum.streak.current ? " 🔥" : ""}</span></div>
       </div>
+
+      <div class="card cf-block">
+        <div class="row"><h2 style="margin:0">Активность</h2>
+          <div class="year-pick">${years.map((y) => `<a href="/progress?year=${y}" data-link class="${y === year ? "active" : ""}">${y}</a>`).join("")}</div></div>
+        ${heatmapHtml(year, sum.activity)}
+      </div>
+
+      <div class="levels">
+        <div class="lvl-card lvl-solved"><b>${L.solved}</b><span>решено полностью</span></div>
+        <div class="lvl-card lvl-strong"><b>${L.strong}</b><span>почти (≥70%)</span></div>
+        <div class="lvl-card lvl-partial"><b>${L.partial}</b><span>частично</span></div>
+        <div class="lvl-card lvl-zero"><b>${L.zero}</b><span>0 баллов</span></div>
+        <div class="lvl-card"><b>${sum.totalChecks}</b><span>${plural(sum.totalChecks, "проверка", "проверки", "проверок")} · ${sum.percent}% в среднем</span></div>
+      </div>
+
+      <div class="card cf-block"><div class="row"><h2 style="margin:0">Рост баллов</h2><span class="small muted">сумма лучших результатов по задачам: ${fmt(sum.score)} б.</span></div>
+        ${timelineHtml(QProgress.scoreTimeline(all))}</div>
+
+      <section class="cf-block"><h2>Олимпиады</h2>
+        <div class="card" id="olymp-progress">${setIds.length ? `<div class="empty small">Загружаю…</div>` : `<div class="empty">Пока нет проверенных задач. <a href="/?ai=1" data-link>Выбрать олимпиаду →</a></div>`}</div>
+      </section>
+
       <div class="two-col">
         <section><h2>Последние проверки</h2>
-          <div class="card">${attempts.length ? attempts.slice(0, 40).map((a) => {
+          <div class="card">${attempts.length ? attempts.slice(0, 30).map((a) => {
             const title = a.ref ? `${a.ref.olymp.title} · ${a.ref.material.label}` : a.setId;
             const href = a.ref ? `/olympiads/${a.ref.olymp.id}?m=${a.ref.material.id}&t=${a.n}` : "/";
-            const cls = a.result.percent >= 80 ? "good" : a.result.percent >= 40 ? "warn" : "bad";
             return `<a class="list-row" href="${href}" data-link><span><b>Задача №${a.n}</b><br><span class="small muted">${esc(title)}</span></span>
-              <span class="pill ${cls}">${fmt(a.result.score)} / ${fmt(a.result.max)}</span></a>`;
-          }).join("") : `<div class="empty">Пока нет проверенных задач. <a href="/?ai=1" data-link>Выбрать олимпиаду →</a></div>`}</div>
+              <span class="pill lvl-${QProgress.level(a.result.percent)}">${fmt(a.result.score)} / ${fmt(a.result.max)}</span></a>`;
+          }).join("") : `<div class="empty">Здесь появятся твои проверки.</div>`}</div>
         </section>
         <section><h2>Что повторить</h2>
           ${topics.length ? `<div class="review" style="margin:0">${topics.slice(0, 8).map(([id, c]) => topicHtml(id, c)).join("")}</div>` : `<div class="card empty">Здесь появятся темы, в которых ты ошибаешься, и видеоуроки к ним.</div>`}
@@ -533,6 +611,24 @@
       </div>
       <p class="dim small" style="margin-top:28px">${QStore.auth.user() ? "Прогресс синхронизируется с аккаунтом." : `Прогресс хранится в этом браузере. <a href="/account" data-link>Войди</a>, чтобы не потерять его.`}</p>
     </div>`;
+
+    // Комплекты: «решено N из M» + клетки задач (нужен список задач — подгружаем)
+    if (setIds.length) {
+      const sets = (await Promise.all(setIds.map((id) => loadSet(id).catch(() => null)))).filter(Boolean);
+      const host = document.getElementById("olymp-progress");
+      if (!host) return;
+      const rows = sets.map((set) => {
+        const ref = App.bySet.get(set.setId);
+        const sums = set.tasks.map((t) => QProgress.taskSummary(QStore.getTask(set.setId, t.number)));
+        const solved = sums.filter((x) => x.level === "solved").length;
+        const href = ref ? `/olympiads/${ref.olymp.id}?m=${ref.material.id}` : "/";
+        return { solved, total: set.tasks.length, html: `<a class="list-row olymp-row" href="${href}" data-link>
+          <span><b>${esc(ref ? ref.olymp.title.replace(/^Химия → /, "") : set.title)}</b><br><span class="small muted">${esc(ref ? ref.material.label : "")}</span></span>
+          <span class="olymp-right">${setStrip(set)}<span class="small ${solved === set.tasks.length ? "solved-all" : "muted"}">${solved === set.tasks.length ? "🏆 " : ""}решено ${solved} из ${set.tasks.length}</span></span></a>` };
+      });
+      rows.sort((a, b) => b.solved / b.total - a.solved / a.total);
+      host.innerHTML = rows.map((r) => r.html).join("");
+    }
   }
 
   // ---------------------------------------------------------------- account
