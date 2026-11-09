@@ -394,11 +394,13 @@ async function callGemini(apiKey, systemPrompt, userPrompt, model = null) {
   const configuredModel = process.env.GEMINI_MODEL || model || "gemini-2.5-flash";
   // Only include models that are actually supported by the current Gemini API.
   // gemini-1.5-pro and gemini-1.5-flash are deprecated and return 404.
+  // gemini-2.5-* и 1.5-* для новых ключей больше недоступны — сначала алиасы на актуальные модели
   const candidateModels = [
     configuredModel,
+    "gemini-flash-latest",
+    "gemini-pro-latest",
+    "gemini-3.1-pro-preview",
     "gemini-2.5-flash",
-    "gemini-1.5-flash",
-    "gemini-2.5-pro",
   ];
 
   const modelsToTry = [...new Set(candidateModels)];
