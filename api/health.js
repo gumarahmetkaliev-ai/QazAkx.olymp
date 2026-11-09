@@ -1,4 +1,4 @@
-const { getAIHealth } = require("./lib/ai-service");
+const { getAIHealth } = require("./_lib/ai-service");
 
 function setCorsHeaders(res) {
   res.setHeader("Access-Control-Allow-Origin", "*");

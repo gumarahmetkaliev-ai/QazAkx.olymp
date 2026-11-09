@@ -3,7 +3,7 @@
  * Never returns service-role keys.
  */
 
-const { loadEnv } = require("./lib/ai-service");
+const { loadEnv } = require("./_lib/ai-service");
 const { publicSupabaseConfig } = require("../lib/auth");
 
 function setCors(res) {

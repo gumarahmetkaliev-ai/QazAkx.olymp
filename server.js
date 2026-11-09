@@ -19,7 +19,7 @@ const pdfProxyHandler = lazy("./api/pdf-proxy");
 const publicConfigHandler = lazy("./api/public-config");
 const gradeHandler = lazy("./api/grade");
 const taskSetHandler = lazy("./api/task-set");
-const { loadEnv, getAIHealth } = require("./api/lib/ai-service");
+const { loadEnv, getAIHealth } = require("./api/_lib/ai-service");
 
 loadEnv();
 

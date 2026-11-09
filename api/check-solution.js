@@ -2,7 +2,7 @@
  * Chemistry Olympiad Solution Checker API Endpoint
  */
 
-const { checkChemistrySolution } = require("./lib/ai-service");
+const { checkChemistrySolution } = require("./_lib/ai-service");
 
 async function getParsedBody(req) {
   if (req.body && typeof req.body === "object") return req.body;

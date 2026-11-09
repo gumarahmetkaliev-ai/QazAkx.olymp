@@ -15,11 +15,11 @@ const fs = require("fs");
 const path = require("path");
 const http = require("http");
 const server = require("./server");
-const { detectTasks } = require("./api/task-detector");
+const { detectTasks } = require("./api/_task-detector");
 const { extractPdfText, safeOlympiadPath } = require("./api/extract-tasks");
 const detectTasksHandler = require("./api/detect-tasks");
 const checkTaskHandler = require("./api/check-task");
-const { getAIHealth } = require("./api/lib/ai-service");
+const { getAIHealth } = require("./api/_lib/ai-service");
 
 let passed = 0;
 let failed = 0;

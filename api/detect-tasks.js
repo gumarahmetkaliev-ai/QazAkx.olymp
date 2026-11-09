@@ -5,7 +5,7 @@
 
 const fs = require("fs");
 const path = require("path");
-const { detectTasks } = require("./task-detector");
+const { detectTasks } = require("./_task-detector");
 const { extractPdfText, safeOlympiadPath } = require("./extract-tasks");
 
 function setCorsHeaders(res) {
