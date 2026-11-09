@@ -398,6 +398,7 @@ async function callGemini(apiKey, systemPrompt, userPrompt, model = null) {
   const candidateModels = [
     configuredModel,
     "gemini-flash-latest",
+    "gemini-flash-lite-latest",
     "gemini-pro-latest",
     "gemini-3.1-pro-preview",
     "gemini-2.5-flash",
@@ -449,9 +450,7 @@ async function callGemini(apiKey, systemPrompt, userPrompt, model = null) {
         if (response.status === 400 && errorMsg.toLowerCase().includes("key")) {
           throw new Error(`Invalid Gemini API Key: ${errorMsg}`);
         }
-        if (response.status === 429) {
-          throw new Error(`Gemini API Quota Exceeded (429): ${errorMsg}`);
-        }
+        if (response.status === 429) continue; // у каждой модели своя квота — пробуем следующую
         continue;
       }
 
@@ -716,7 +715,7 @@ async function processAIRequest({ prompt, systemPrompt, mode = "analyze", langua
     error: "AI_CALL_FAILED",
     message: "Не удалось получить ответ от AI провайдеров. Попробуйте ещё раз позже.",
     // Причины от провайдеров (без ключей) — чтобы было видно, что чинить
-    details: errors.map((e) => String(e).replace(/key=[^&\s]+/gi, "key=***").slice(0, 300)),
+    details: errors.map((e) => String(e).replace(/key=[^&\s]+/gi, "key=***").slice(0, 900)),
   };
 }
 
