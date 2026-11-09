@@ -405,6 +405,7 @@ async function callGemini(apiKey, systemPrompt, userPrompt, model = null) {
 
   const modelsToTry = [...new Set(candidateModels)];
   let lastError = null;
+  const tried = [];
 
   for (const currentModel of modelsToTry) {
     try {
@@ -422,7 +423,8 @@ async function callGemini(apiKey, systemPrompt, userPrompt, model = null) {
         generationConfig: {
           temperature: 0.2,
           topP: 0.95,
-          maxOutputTokens: 3000,
+          // новые модели Gemini «думают» за счёт этого лимита — при 3000 ответ приходил пустым
+          maxOutputTokens: 16384,
         },
       };
 
@@ -433,13 +435,14 @@ async function callGemini(apiKey, systemPrompt, userPrompt, model = null) {
           "x-goog-api-key": apiKey,
         },
         body: JSON.stringify(payload),
-      });
+      }, Number(process.env.GEMINI_TIMEOUT_MS) || 50000);
 
       const data = await response.json();
 
       if (!response.ok || data.error) {
         const errorMsg = data.error?.message || `HTTP ${response.status}: ${response.statusText}`;
         lastError = new Error(`Gemini (${currentModel}): ${errorMsg}`);
+        tried.push(`${currentModel}: ${String(errorMsg).slice(0, 160)}`);
         if (response.status === 404 || errorMsg.includes("not found") || errorMsg.includes("deprecated")) {
           continue;
         }
@@ -453,7 +456,10 @@ async function callGemini(apiKey, systemPrompt, userPrompt, model = null) {
       }
 
       const candidate = data.candidates?.[0];
-      const text = candidate?.content?.parts?.[0]?.text;
+      const text = (candidate?.content?.parts || [])
+        .filter((p) => p && p.text && !p.thought)
+        .map((p) => p.text)
+        .join("");
 
       if (!text) {
         if (candidate?.finishReason === "SAFETY") {
@@ -469,12 +475,14 @@ async function callGemini(apiKey, systemPrompt, userPrompt, model = null) {
       };
     } catch (err) {
       lastError = err;
+      tried.push(`${currentModel}: ${String(err.message).slice(0, 160)}`);
       if (err.message.includes("Invalid Gemini API Key") || err.message.includes("Quota Exceeded")) {
         throw err;
       }
     }
   }
 
+  if (tried.length > 1) throw new Error(`Gemini: ${tried.join(" | ")}`);
   throw lastError || new Error("Не удалось получить ответ от моделей Gemini API.");
 }
 
@@ -707,6 +715,8 @@ async function processAIRequest({ prompt, systemPrompt, mode = "analyze", langua
     success: false,
     error: "AI_CALL_FAILED",
     message: "Не удалось получить ответ от AI провайдеров. Попробуйте ещё раз позже.",
+    // Причины от провайдеров (без ключей) — чтобы было видно, что чинить
+    details: errors.map((e) => String(e).replace(/key=[^&\s]+/gi, "key=***").slice(0, 300)),
   };
 }
 
