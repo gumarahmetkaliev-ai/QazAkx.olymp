@@ -214,3 +214,17 @@ h3 { font-size: 1rem; margin: 0 0 8px; }
   .pdf-wrap { height: auto; min-height: 0; }
   .pdf-fallback { display: flex; flex-direction: column; gap: 10px; align-items: center; justify-content: center; text-align: center; padding: 28px; }
 }
+
+/* ── Аккаунт: вкладки, пароль, уведомления */
+.auth-tabs { display: flex; gap: 4px; padding: 4px; margin-bottom: 14px; background: var(--bg-2); border: 1px solid var(--line); border-radius: 10px; }
+.auth-tabs a { flex: 1; text-align: center; padding: 8px; border-radius: 7px; color: var(--muted); font-weight: 600; }
+.auth-tabs a.active { background: var(--panel-2); color: var(--text); }
+.pw-wrap { position: relative; display: flex; flex-direction: column; }
+.pw-wrap input { padding-right: 42px; width: 100%; box-sizing: border-box; }
+.pw-toggle { position: absolute; right: 6px; top: 50%; transform: translateY(-50%); background: none; border: 0; cursor: pointer; opacity: 0.6; font-size: 1rem; padding: 4px 6px; }
+.pw-toggle:hover { opacity: 1; }
+.notice { margin-top: 12px; padding: 12px 14px; border-radius: 10px; background: var(--good-bg); color: var(--text); border: 1px solid transparent; }
+.pw-change { margin-top: 18px; border-top: 1px solid var(--line); padding-top: 12px; }
+.pw-change summary { cursor: pointer; color: var(--accent-2); font-weight: 600; }
+.pw-change form { margin-top: 10px; }
+.auth-card button:disabled { opacity: 0.6; cursor: wait; }

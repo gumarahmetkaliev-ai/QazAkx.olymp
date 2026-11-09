@@ -126,13 +126,23 @@
       const cfg = (await res.json()).supabase || {};
       if (!cfg.configured || !root.supabase) return { configured: false };
       supabase = root.supabase.createClient(cfg.url, cfg.publishableKey, {
-        auth: { persistSession: true, detectSessionInUrl: true, autoRefreshToken: true },
+        // implicit: ссылка из письма (подтверждение, сброс пароля) работает и на другом устройстве
+        auth: { persistSession: true, detectSessionInUrl: true, autoRefreshToken: true, flowType: "implicit" },
       });
+      // Какие способы входа включены в Supabase (кнопку Google показываем только если он настроен)
+      try {
+        const st = await fetch(cfg.url + "/auth/v1/settings", { headers: { apikey: cfg.publishableKey } }).then((r) => r.json());
+        providers = (st && st.external) || {};
+      } catch {
+        providers = {};
+      }
       const { data: s } = await supabase.auth.getSession();
       user = s && s.session ? s.session.user : null;
-      supabase.auth.onAuthStateChange(async (_e, session) => {
+      supabase.auth.onAuthStateChange(async (event, session) => {
         const was = user && user.id;
         user = session ? session.user : null;
+        // Переход по ссылке «сбросить пароль» из письма — показать форму нового пароля
+        if (event === "PASSWORD_RECOVERY") recovery = true;
         if (user && user.id !== was) await pullAndMerge();
         emit();
       });
@@ -145,8 +155,33 @@
     }
   }
 
+  let recovery = /type=recovery/.test(location.hash);
+  let providers = {};
+
   function redirectUrl() {
     return location.origin + "/account";
+  }
+
+  // Сообщения Supabase → понятный русский текст
+  const AUTH_ERRORS = [
+    [/invalid login credentials/i, "Неверный email или пароль."],
+    [/email not confirmed/i, "Email не подтверждён — открой письмо со ссылкой подтверждения."],
+    [/user already registered|already been registered/i, "Аккаунт с таким email уже есть — войди или восстанови пароль."],
+    [/password should be at least|weak password|password is too weak/i, "Пароль слишком простой: минимум 8 символов, лучше с цифрами."],
+    [/same.*password|different from the old/i, "Новый пароль должен отличаться от старого."],
+    [/rate limit|too many|for security purposes/i, "Слишком много попыток. Подожди минуту и попробуй снова."],
+    [/unable to validate email|invalid email|email address .* is invalid/i, "Проверь email — похоже, в нём ошибка."],
+    [/expired|invalid.*(token|link)|otp/i, "Ссылка устарела или уже использована. Запроси новую."],
+    [/auth session missing|not authenticated/i, "Сессия истекла. Запроси новую ссылку для сброса пароля."],
+    [/signups not allowed/i, "Регистрация сейчас закрыта."],
+    [/failed to fetch|network/i, "Нет связи с сервером. Проверь интернет."],
+  ];
+  function friendly(error) {
+    const msg = String((error && error.message) || error || "");
+    const hit = AUTH_ERRORS.find(([re]) => re.test(msg));
+    const e = new Error(hit ? hit[1] : msg || "Что-то пошло не так. Попробуй ещё раз.");
+    e.original = msg;
+    return e;
   }
 
   const auth = {
@@ -157,16 +192,34 @@
       if (error) throw error;
     },
     async signIn(email, password) {
-      const { error } = await supabase.auth.signInWithPassword({ email, password });
-      if (error) throw error;
+      const { error } = await supabase.auth.signInWithPassword({ email: email.trim(), password });
+      if (error) throw friendly(error);
     },
     async signUp(email, password) {
-      const { data: d, error } = await supabase.auth.signUp({ email, password, options: { emailRedirectTo: redirectUrl() } });
-      if (error) throw error;
+      const { data: d, error } = await supabase.auth.signUp({ email: email.trim(), password, options: { emailRedirectTo: redirectUrl() } });
+      if (error) throw friendly(error);
+      // Supabase не раскрывает, занят ли email: у существующего аккаунта identities пустые
+      if (d && d.user && Array.isArray(d.user.identities) && d.user.identities.length === 0) {
+        throw friendly("User already registered");
+      }
       return d;
     },
+    /** Письмо со ссылкой для сброса пароля */
+    async resetPassword(email) {
+      const { error } = await supabase.auth.resetPasswordForEmail(email.trim(), { redirectTo: location.origin + "/auth/reset" });
+      if (error) throw friendly(error);
+    },
+    /** Новый пароль: после перехода по ссылке из письма или в настройках аккаунта */
+    async updatePassword(password) {
+      const { error } = await supabase.auth.updateUser({ password });
+      if (error) throw friendly(error);
+      recovery = false;
+    },
+    isRecovery: () => recovery,
+    googleEnabled: () => Boolean(providers.google),
     async signOut() {
       await supabase.auth.signOut();
+      recovery = false;
     },
   };
 

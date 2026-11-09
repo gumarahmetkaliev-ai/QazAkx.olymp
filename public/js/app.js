@@ -536,58 +536,177 @@
   }
 
   // ---------------------------------------------------------------- account
+  const MIN_PASSWORD = 8;
+
+  function passwordFields(label = "Пароль", autocomplete = "new-password") {
+    return `
+      <div class="field"><label class="small muted">${label}</label>
+        <div class="pw-wrap"><input type="password" name="password" required minlength="${MIN_PASSWORD}" autocomplete="${autocomplete}">
+        <button type="button" class="pw-toggle" aria-label="Показать пароль">👁</button></div></div>
+      <div class="field"><label class="small muted">Повтори пароль</label>
+        <input type="password" name="password2" required minlength="${MIN_PASSWORD}" autocomplete="${autocomplete}"></div>
+      <p class="dim small">Минимум ${MIN_PASSWORD} символов.</p>`;
+  }
+
+  function checkPasswords(form) {
+    const p1 = form.password.value;
+    const p2 = form.password2 ? form.password2.value : p1;
+    if (p1.length < MIN_PASSWORD) throw new Error(`Пароль должен быть не короче ${MIN_PASSWORD} символов.`);
+    if (p1 !== p2) throw new Error("Пароли не совпадают.");
+    return p1;
+  }
+
+  /** Обработчик формы: ошибки в #auth-error, кнопка блокируется на время запроса */
+  function bindForm(form, fn) {
+    const errBox = form.querySelector(".error");
+    const btn = form.querySelector('button[type="submit"]');
+    form.querySelectorAll(".pw-toggle").forEach((t) =>
+      t.addEventListener("click", () => {
+        form.querySelectorAll('input[type="password"], input[data-pw]').forEach((i) => {
+          i.dataset.pw = "1";
+          i.type = i.type === "password" ? "text" : "password";
+        });
+      })
+    );
+    form.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      errBox.textContent = "";
+      btn.disabled = true;
+      try {
+        await fn();
+      } catch (err) {
+        errBox.textContent = err.message || "Ошибка";
+      } finally {
+        btn.disabled = false;
+      }
+    });
+  }
+
   function renderAccount() {
-    const user = QStore.auth.user();
+    const params = new URLSearchParams(location.search);
+    const path = location.pathname.replace(/\/+$/, "");
     if (!QStore.auth.isConfigured()) {
       view().innerHTML = `<div class="page"><div class="card auth-card"><h2>Аккаунт</h2>
         <p class="muted">Вход пока не настроен на этом сервере (нужны переменные Supabase, см. SUPABASE_SETUP.md). Прогресс сохраняется в этом браузере.</p></div></div>`;
       return;
     }
-    if (user) {
-      view().innerHTML = `<div class="page"><div class="card auth-card"><h2>Аккаунт</h2>
-        <p>${esc(user.email || "")}</p><p class="muted small">Прогресс синхронизируется между устройствами.</p>
-        <div class="actions"><a class="btn" href="/progress" data-link>Мой прогресс</a><button class="btn btn-ghost" id="logout">Выйти</button></div></div></div>`;
-      document.getElementById("logout").addEventListener("click", async () => {
-        await QStore.auth.signOut();
+    const user = QStore.auth.user();
+
+    // Переход по ссылке «сбросить пароль» из письма
+    if (QStore.auth.isRecovery() || path === "/auth/reset") {
+      if (!user) {
+        view().innerHTML = `<div class="page"><div class="card auth-card"><h2>Новый пароль</h2>
+          <p class="muted">Ссылка устарела или уже использована. Запроси новую.</p>
+          <div class="actions"><a class="btn btn-primary" href="/account?mode=forgot" data-link>Восстановить пароль</a></div></div></div>`;
+        return;
+      }
+      view().innerHTML = `<div class="page"><div class="card auth-card"><h2>Новый пароль</h2>
+        <p class="muted small">Для ${esc(user.email || "")}</p>
+        <form id="reset-form">${passwordFields("Новый пароль")}
+          <div class="actions"><button class="btn btn-primary" type="submit">Сохранить пароль</button></div>
+          <p class="error"></p></form></div></div>`;
+      const form = document.getElementById("reset-form");
+      bindForm(form, async () => {
+        await QStore.auth.updatePassword(checkPasswords(form));
+        history.replaceState(null, "", "/account");
+        toast("Пароль изменён. Ты вошёл в аккаунт.");
         renderAccount();
       });
       return;
     }
-    view().innerHTML = `<div class="page"><div class="card auth-card">
-      <h2>Вход</h2><p class="muted small">Войди, чтобы прогресс сохранялся на всех устройствах.</p>
-      <button class="btn" id="google" style="width:100%;margin:8px 0 16px">Войти через Google</button>
-      <form id="auth-form">
-        <div class="field"><label class="small muted">Email</label><input type="email" name="email" required autocomplete="email"></div>
-        <div class="field"><label class="small muted">Пароль</label><input type="password" name="password" required minlength="6" autocomplete="current-password"></div>
-        <div class="actions" style="margin-top:6px"><button class="btn btn-primary" type="submit">Войти</button><button class="btn btn-ghost" type="button" id="signup">Создать аккаунт</button></div>
-        <p class="error" id="auth-error"></p>
-      </form></div></div>`;
-    const form = document.getElementById("auth-form");
-    const errBox = document.getElementById("auth-error");
-    const run = async (fn) => {
-      errBox.textContent = "";
-      try {
-        await fn();
-      } catch (e) {
-        errBox.textContent = e.message || "Ошибка";
-      }
-    };
-    document.getElementById("google").addEventListener("click", () => run(() => QStore.auth.google()));
-    form.addEventListener("submit", (e) => {
-      e.preventDefault();
-      run(async () => {
-        await QStore.auth.signIn(form.email.value, form.password.value);
+
+    if (user) {
+      view().innerHTML = `<div class="page"><div class="card auth-card"><h2>Аккаунт</h2>
+        <p>${esc(user.email || "")}</p><p class="muted small">Прогресс синхронизируется между устройствами.</p>
+        <div class="actions"><a class="btn" href="/progress" data-link>Мой прогресс</a><button class="btn btn-ghost" id="logout">Выйти</button></div>
+        <details class="pw-change"><summary>Сменить пароль</summary>
+          <form id="change-form">${passwordFields("Новый пароль")}
+            <div class="actions"><button class="btn btn-primary" type="submit">Сохранить</button></div>
+            <p class="error"></p></form></details></div></div>`;
+      document.getElementById("logout").addEventListener("click", async () => {
+        await QStore.auth.signOut();
         renderAccount();
       });
+      const form = document.getElementById("change-form");
+      bindForm(form, async () => {
+        await QStore.auth.updatePassword(checkPasswords(form));
+        form.reset();
+        form.closest("details").open = false;
+        toast("Пароль изменён.");
+      });
+      return;
+    }
+
+    const mode = ["signup", "forgot"].includes(params.get("mode")) ? params.get("mode") : "login";
+    const tabs = `<div class="auth-tabs">
+      <a href="/account" data-link class="${mode === "login" ? "active" : ""}">Вход</a>
+      <a href="/account?mode=signup" data-link class="${mode === "signup" ? "active" : ""}">Регистрация</a></div>`;
+    const google = QStore.auth.googleEnabled()
+      ? `<button class="btn" id="google" type="button" style="width:100%;margin:8px 0 16px">Войти через Google</button>`
+      : "";
+    const emailField = `<div class="field"><label class="small muted">Email</label><input type="email" name="email" required autocomplete="email" value="${esc(params.get("email") || "")}"></div>`;
+
+    if (mode === "forgot") {
+      view().innerHTML = `<div class="page"><div class="card auth-card"><h2>Восстановление пароля</h2>
+        <p class="muted small">Укажи email аккаунта — пришлём ссылку, по которой можно задать новый пароль.</p>
+        <form id="forgot-form">${emailField}
+          <div class="actions"><button class="btn btn-primary" type="submit">Отправить ссылку</button><a class="btn btn-ghost" href="/account" data-link>Назад ко входу</a></div>
+          <p class="error"></p></form>
+        <div id="forgot-done" class="notice" hidden></div></div></div>`;
+      const form = document.getElementById("forgot-form");
+      bindForm(form, async () => {
+        await QStore.auth.resetPassword(form.email.value);
+        const done = document.getElementById("forgot-done");
+        done.hidden = false;
+        done.innerHTML = `Если аккаунт с адресом <b>${esc(form.email.value.trim())}</b> существует, письмо со ссылкой уже в пути. Проверь «Входящие» и «Спам». Ссылка действует 1 час.`;
+      });
+      return;
+    }
+
+    if (mode === "signup") {
+      view().innerHTML = `<div class="page"><div class="card auth-card">${tabs}
+        <p class="muted small">Аккаунт нужен, чтобы прогресс сохранялся на всех устройствах.</p>${google}
+        <form id="signup-form">${emailField}${passwordFields()}
+          <div class="actions"><button class="btn btn-primary" type="submit">Создать аккаунт</button></div>
+          <p class="error"></p></form>
+        <div id="signup-done" class="notice" hidden></div></div></div>`;
+      const form = document.getElementById("signup-form");
+      bindForm(form, async () => {
+        const d = await QStore.auth.signUp(form.email.value, checkPasswords(form));
+        if (d && d.session) {
+          toast("Аккаунт создан.");
+          navigate("/account", true);
+        } else {
+          form.hidden = true;
+          const done = document.getElementById("signup-done");
+          done.hidden = false;
+          done.innerHTML = `Почти готово! Мы отправили письмо на <b>${esc(form.email.value.trim())}</b> — открой ссылку в нём, чтобы подтвердить email и войти.`;
+        }
+      });
+      document.getElementById("google")?.addEventListener("click", () => QStore.auth.google().catch((e) => toast(e.message)));
+      return;
+    }
+
+    view().innerHTML = `<div class="page"><div class="card auth-card">${tabs}
+      <p class="muted small">Войди, чтобы прогресс сохранялся на всех устройствах.</p>${google}
+      <form id="login-form">${emailField}
+        <div class="field"><label class="small muted">Пароль</label>
+          <div class="pw-wrap"><input type="password" name="password" required autocomplete="current-password">
+          <button type="button" class="pw-toggle" aria-label="Показать пароль">👁</button></div></div>
+        <div class="actions" style="margin-top:6px"><button class="btn btn-primary" type="submit">Войти</button>
+          <a class="small" href="/account?mode=forgot" data-link id="forgot-link">Забыли пароль?</a></div>
+        <p class="error"></p></form></div></div>`;
+    const form = document.getElementById("login-form");
+    document.getElementById("forgot-link").addEventListener("click", (e) => {
+      e.preventDefault();
+      e.stopPropagation(); // иначе общий обработчик data-link уведёт без введённого email
+      navigate(`/account?mode=forgot${form.email.value ? "&email=" + enc(form.email.value.trim()) : ""}`, true);
     });
-    document.getElementById("signup").addEventListener("click", () =>
-      run(async () => {
-        if (!form.reportValidity()) return;
-        const d = await QStore.auth.signUp(form.email.value, form.password.value);
-        if (d && d.session) renderAccount();
-        else toast("Проверь почту — мы отправили ссылку для подтверждения.");
-      })
-    );
+    bindForm(form, async () => {
+      await QStore.auth.signIn(form.email.value, form.password.value);
+      renderAccount();
+    });
+    document.getElementById("google")?.addEventListener("click", () => QStore.auth.google().catch((e) => toast(e.message)));
   }
 
   function toast(text) {
@@ -609,7 +728,7 @@
     render();
     QStore.onChange(() => {
       const path = location.pathname;
-      if (path === "/progress" || path === "/account") render();
+      if (path === "/progress" || path === "/account" || path.startsWith("/auth")) render();
     });
     QStore.initAuth();
   }
