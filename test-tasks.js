@@ -4,7 +4,7 @@
 
 const fs = require("fs");
 const { PDFParse } = require("pdf-parse");
-const { detectTasks, detectSubParts } = require("./api/task-detector");
+const { detectTasks, detectSubParts } = require("./api/_task-detector");
 const detectTasksHandler = require("./api/detect-tasks");
 
 let passed = 0;

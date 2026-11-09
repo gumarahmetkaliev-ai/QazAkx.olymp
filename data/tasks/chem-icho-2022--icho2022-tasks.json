@@ -1,0 +1,523 @@
+{
+ "setId": "chem-icho-2022--icho2022-tasks",
+ "olympiadId": "chem-icho-2022",
+ "title": "Химия → IChO (международная) → 2022",
+ "materialLabel": "Теоретический тур (Задачи на английском)",
+ "lang": "en",
+ "tasksFile": "olympiads/chemistry/s/icho/2022/icho2022-tasks.pdf",
+ "solutionFile": "olympiads/chemistry/s/icho/2022/icho2022-sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-08T16:59:03.057Z",
+ "quality": {
+  "tasks": 9,
+  "parts": 70,
+  "withPoints": 70,
+  "withReference": 0,
+  "withQuestion": 70,
+  "estimatedPoints": 1
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Rapid and Visual Nucleic Acid Testing for COVID-19",
+   "weight": 1.1,
+   "total": 1.2,
+   "statement": "Theory\n\nRapid and Visual Nucleic Acid Testing for COVID-19\n\n                              Points      1      1     4     4     4      14\n                               Score\n\nFast and simple methods for early detection of COVID-19 are urgently needed. Gold nanoparticles-aided\ndetection is one of the promising methods. Gold nanoparticles are widely used as a visible readout for\ntest strips due to their high molar extinction coefficients (molar absorptivity). The color appearance of\ngold nanoparticles is closely associated with their sizes and dispersity. Generally, the larger the gold\nnanoparticles, the more reddish the color is. Once the nanoparticles are aggregated, the color shifts\nfrom red to blue.\n\nWhen the surface of gold nanoparticles is modified with two kinds of single-stranded nucleic acid frag-\nments a and b, the gold nanoparticles would aggregate in the presence of the target nucleic acid (a’b’),\ncausing the color change of the solution from red to blue in several minutes (as indicated below). Based\non this principle, the target nucleic acids collected from the coronavirus in a sample can be detected.\n\n                           Dispersed (Red)                   Aggregated (Blue）\n\n    1.1     Indicate the absorption band region of the dispersed gold nanoparti-                1.0 pt\n            cles with an appropriate letter (a-f in the color wheel of Figure 0.1 in\n            General Instructions)\n\nTheory\n\n    1.2     Indicate the change in the absorption spectrum of the gold nanoparticles once         1.0 pt\n            they are aggregated. Compared to the absorption wavelength of the dispersed\n            gold nanoparticles, the wavelength of the aggregated nanoparticles\n            (a) becomes longer\n            (b) becomes shorter\n            (c) does not change\n\nGold nanoparticles are composed of gold atoms that are closely packed as solid gold (density\n𝜌 = 19.3 g cm−3 ).\n\n    1.3     Calculate how many gold atoms (𝑁 ) are there in a spherical gold nanoparticle         4.0 pt\n            with a diameter of 30.0 nm.\n\nThe synthesis of gold nanoparticles depends on the redox reaction between hydrogen tetrachloroau-\nrate(III) (HAuCl4 · 3H2 O, MW = 394) and reducing substances (such as sodium citrate). 5.2 mg of HAuCl4 ·\n3H2 O was completely converted into uniform spherical gold nanoparticles with a diameter of 30.0 nm\nin a 100.0 mL reaction solution. The absorbance of the resulting red solution was 0.800 measured at\n530 nm by a UV-Vis spectrometer.\n\n    1.4     Calculate the molar extinction coefficient (molar absorptivity) of the resulting      4.0 pt\n            gold nanoparticles solution at 530 nm per mol of gold nanoparticles. The optical\n            path of the cuvette used is 1 cm. If you failed to get the number of gold atoms\n            (𝑁 ) in 1.3 , use 𝑁 = 1.00 × 105 .\n\nThe standard addition method was used for colorimetric detection of the target nucleic acid. The original\nthroat swab sample was collected and divided equally into two portions. After addition of the probe\nsolutions and water (as indicated below), the absorbance of the two resulting solutions was measured\nat 600 nm separately.\n\n     No.    Volume of     Volume of solution of    Volume of standard         Volume of   Absorbance\n           throat swab      gold nanoparticles      solution containing        water\n           sample (mL)    modified with nucleic     2.0 μg mL   −1\n                                                                     target     (mL)\n                           acid fragments (mL)       nucleic acid (mL)\n      1        0.10                0.80                     0.00                0.10        0.400\n      2        0.10                0.80                     0.10                0.00        0.900\n\n    1.5     Calculate the concentration of the viral nucleic acids in the original throat swab    4.0 pt\n            sample.",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 1,
+     "question": "Indicate the absorption band region of the dispersed gold nanoparticles with an appropriate letter (a-f in the color wheel of Figure 0.1 in General Instructions)",
+     "reference": ""
+    },
+    {
+     "id": "1.2",
+     "points": 1,
+     "question": "Indicate the change in the absorption spectrum of the gold nanoparticles once they are aggregated. Compared to the absorption wavelength of the dispersed gold nanoparticles, the wavelength of the aggregated nanoparticles (a) becomes longer (b) becomes shorter (c) does not change",
+     "reference": ""
+    },
+    {
+     "id": "1.3",
+     "points": 4,
+     "question": "Calculate how many gold atoms (𝑁 ) are there in a spherical gold nanoparticle with a diameter of 30.0 nm.",
+     "reference": ""
+    },
+    {
+     "id": "1.4",
+     "points": 4,
+     "question": "Calculate the molar extinction coefficient (molar absorptivity) of the resulting gold nanoparticles solution at 530 nm per mol of gold nanoparticles. The optical path of the cuvette used is 1 cm. If you failed to get the number of gold atoms (𝑁 ) in 1.3 , use 𝑁 = 1.00 × 105 .",
+     "reference": ""
+    },
+    {
+     "id": "1.5",
+     "points": 4,
+     "question": "Calculate the concentration of the viral nucleic acids in the original throat swab sample.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Chromium in Ancient and Modern Times",
+   "weight": 2.1,
+   "total": 2.2,
+   "statement": "Theory\n\nChromium in Ancient and Modern Times\n\n                  Points      2    1     6        1     2     1    1     5     2      21\n                   Score\n\n                           (The photo is from the website of Palace Museum)\n\nBlack glazed porcelain is a special Chinese porcelain and was popular in the Tang and Song dynasties\n(ca. 1000 years ago). The ceramic ware contained iron oxides as the main color rendering agent, which\nwas mixed with other transition metal oxides to exhibit different color appearance such as auburn, dark\nbrown or black. Currently, the black glazed porcelain is still popular in China.\n\nTheory\n\nThe typical black glaze is composed of Fe-containing oxides with a spinel structure. Spinel oxides have the\n                                                                                       2−\ngeneral formula AB2 O4 and the structure consists of a cubic close packing array of O ions in which the\nA cations occupy one-eighth of the tetrahedral vacancies and the B cations occupy half of the octahedral\nvacancies, as shown in Figure 2.1(a) for a unit cell.\n\n                                Figure 2.1 Illustration of spinel structure\n\nThe cubic unit cell of a spinel structure can be divided into 8 cubic subunits, and the dashed lines repre-\nsent the internal edges of the subunits. 4 of the subunits belong to type I, and the other 4 subunits are\ntype II (Figure 2.1(b)). The details of adjacent subunits of type I and type II are shown in Figure 2.1(c).\n\n    2.1     How many cations of type A and B are there in a unit cell?                           2.0 pt\n\nThe black ceramic glaze with spinel structure can be produced by roasting Fe2 O3 and Cr2 O3 in a certain\nproportion in a reducing atmosphere (reaction (I)). When Fe2 O3 and Cr2 O3 are reacted with the mass\nratio of 63.6 ∶ 36.4, they completely transform into a pure stoichiometric compound. The product has a\nspinel structure, in which the tetrahedral A sites are occupied by iron cations only.\n\nTheory\n\n    2.2     In reaction (I), which element is reduced?                                        1.0 pt\n\n    2.3     Calculate the numbers of Fe3+ and Cr3+ in the B sites of one unit cell.           6.0 pt\n\nBesides doping in black ceramic glaze, chromium-containing pigments are used in painting and printing\ndue to the abundant color originating from chromium with different oxidation states, such as +2, +3\nand +6. The pigment, chrome green (Cr2 O3 ) can be converted into a series of other compounds (D-G) in\nthe following process, where E, F, G are yellow, orange and red respectively.\n\n    2.4     Write the chemical formula of E.                                                  1.0 pt\n\n    2.5     Write the reaction equation of F ⟶ G.                                             2.0 pt\n\n    2.6     Choose the agent which could be H.                                                1.0 pt\n            (A) FeSO4\n            (B) FeCl3\n            (C) ZnSO4\n            (D) CuSO4\n\nTheory\n\nThe variable valence of chromium is not only important for the production of pigments, but also use-\nful for catalysis. For example, a typical Phillips catalyst for the polymerization of ethylene consists of\nchromium oxide species grafted onto a porous support material such as amorphous silica. The tetra-\ncoordinated Cr(VI) specie is the core in the pre-catalyst (1), which is proposed to be reduced quickly into\na six-coordinated Cr(II) specie (2) by the ethylene molecules at the beginning. 2 is proposed to further\ncatalyze polymerization of ethylene molecules.\n\n    2.7     The reaction of 1 with ethylene can be traced by UV–vis spectra, which show the        1.0 pt\n            light absorption of 1 at 21500 cm−1 and the light absorption of 2 at 16700 cm−1\n            in the visible region, respectively. Choose the appropriate combination of col-\n            ors of 1 and 2.\n            (A) orange and white, respectively\n            (B) orange and blue, respectively\n            (C) blue and orange, respectively\n            (D) blue and white, respectively\n\n    2.8     Assuming that the Cr(II) ion in 2 is located in a regular octahedral crystal field     5.0 pt\n            with a splitting energy Δo of 16000 cm−1 , draw the configurations of d electrons\n            of the Cr(II) ion in 2, and calculate the crystal field stabilization energy (CFSE)\n            for the Cr(II) ion in 2. (Note: The pairing energy P for Cr(II) in 2 is 23500 cm−1 )\n\n    2.9     Coordination compounds/ions exhibit paramagnetism when containing un-                  2.0 pt\n            paired electrons, and the corresponding magnetic moment (𝜇) of transition\n            metal cations is calculated by the function 𝜇 = √𝑛(𝑛 + 2) 𝜇B where 𝑛 is the num-\n            ber of unpaired electrons. Calculate the magnetic moment in term of 𝜇B for the\n            Cr(II) ion in 2.",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 2,
+     "question": "How many cations of type A and B are there in a unit cell?",
+     "reference": ""
+    },
+    {
+     "id": "2.2",
+     "points": 1,
+     "question": "In reaction (I), which element is reduced?",
+     "reference": ""
+    },
+    {
+     "id": "2.3",
+     "points": 6,
+     "question": "Calculate the numbers of Fe3+ and Cr3+ in the B sites of one unit cell.",
+     "reference": ""
+    },
+    {
+     "id": "2.4",
+     "points": 1,
+     "question": "Write the chemical formula of E.",
+     "reference": ""
+    },
+    {
+     "id": "2.5",
+     "points": 2,
+     "question": "Write the reaction equation of F ⟶ G.",
+     "reference": ""
+    },
+    {
+     "id": "2.6",
+     "points": 1,
+     "question": "Choose the agent which could be H. (A) FeSO4 (B) FeCl3 (C) ZnSO4 (D) CuSO4",
+     "reference": ""
+    },
+    {
+     "id": "2.7",
+     "points": 1,
+     "question": "The reaction of 1 with ethylene can be traced by UV–vis spectra, which show the light absorption of 1 at 21500 cm−1 and the light absorption of 2 at 16700 cm−1 in the visible region, respectively. Choose the appropriate combination of colors of 1 and 2. (A) orange and white, respectively (B) orange and blue, respectively (C) blue and orange, respectively (D) blue and white, respectively",
+     "reference": ""
+    },
+    {
+     "id": "2.8",
+     "points": 5,
+     "question": "Assuming that the Cr(II) ion in 2 is located in a regular octahedral crystal field with a splitting energy Δo of 16000 cm−1 , draw the configurations of d electrons of the Cr(II) ion in 2, and calculate the crystal field stabilization energy (CFSE) for the Cr(II) ion in 2. (Note: The pairing energy P for Cr(II) in 2 is 23500 cm−1 )",
+     "reference": ""
+    },
+    {
+     "id": "2.9",
+     "points": 2,
+     "question": "Coordination compounds/ions exhibit paramagnetism when containing unpaired electrons, and the corresponding magnetic moment (𝜇) of transition metal cations is calculated by the function 𝜇 = √𝑛(𝑛 + 2) 𝜇B where 𝑛 is the number of unpaired electrons. Calculate the magnetic moment in term of 𝜇B for the Cr(II) ion in 2.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Capture and Transformation of Carbon Dioxide",
+   "weight": 3.1,
+   "total": 3.2,
+   "statement": "Theory\n\nCapture and Transformation of Carbon Dioxide\n\n          Points    2     5     2    3     2     8     2        2   5      7      2      2         42\n          Score\n\nClimate change is one of the most critical global challenges nowadays. The increase of CO2 concentration\nin the atmosphere has been recognized as the primary driver of global warming. The study of the capture\nand transformation of CO2 has attracted considerable attention.\n\nDirect air capture (DAC) technology which aims to extract CO2 directly from ambient air is promising. The\nconventional method of DAC is wet scrubbing with alkaline hydroxide solutions (typically NaOH), where\nCO2 in air is absorbed till pH ≈ 10 (step 1). The spent sorbent is regenerated by dosing calcium hydroxide\ninto the system (step 2). The white precipitate A received in step 2 decomposes at 700 °C, giving rise\nto CO2 and another white compound B (step 3). Finally, calcium hydroxide can be generated by the\nhydration of B. This process is highly energy-demanding. ( H2 CO3 ∶ 𝐾a1 = 4.5 × 10−7 , 𝐾a2 = 4.7 × 10−11 )\n\n    3.1      Write the formulas for A and B respectively.                                            2.0 pt\n\n    3.2      Write the balanced equations of all possible reactions in steps 1-3. NaOH so-           5.0 pt\n             lution is used as sorbent.\n\nRecently, an electrochemical process was developed for regenerating the alkaline solution in the wet\nscrubbing process for DAC application, and pure CO2 gas could be recovered that is suitable for storage\nor utilization. The process is based on a H2 -recycling electrochemical system (HRES), as shown in Figure\n3.1.\n\nTheory\n\n                        Figure 3.1 Schematic drawing of the experimental setup\n\nThe electrochemical cell contains three compartments: an anode region (A), an acidifying region (B),\nand a cathode region (C). They are separated by ion-selective permeable membranes M1 and M2. Dur-\ning the operation, protons produced from H2 oxidation at the anode are transported to the acidifying\ncompartment where the spent solution (Na2 CO3 -NaHCO3 ) coming from the air contactor is fed. The de-\ncreasing pH of the solution leads to the conversions of carbonate to hydrocarbonate (reaction 1) and\nhydrocarbonate to carbonic acid (reaction 2). When the solution is saturated by dissolved CO2 (solubility:\n0.033 mol L−1 ), a further pH decrease leads to the release of CO2 gas (reaction 3). H2 generated in the\ncathode is introduced to the anode and the solution from the cathode can be reused as a DAC absorbent.\n\n    3.3     Write the electrode reactions in the anode (A) and the cathode (C) respectively.    2.0 pt\n\n    3.4     Write the balanced equations for the reactions 1–3 in the acidifying region (B).    3.0 pt\n\n    3.5     Check all that correctly describe the movement of cations during the system         2.0 pt\n            operation.\n            (a) H+ ions permeate through M1 from A to B.\n            (b) H+ ions permeate through M2 from B to C.\n            (c) Na+ ions permeate through M1 from B to A.\n            (d) Na+ ions permeate through M2 from B to C.\n            (e) Both H+ and Na+ ions can permeate through M1and M2.\n\nThe cell works at a steady state when the current passing through the cell is 2.00 A and the flow rate of\nthe solution (0.050 mol L−1 Na2 CO3 - 0.10 mol L−1 NaHCO3 ) into the region B is 10.0 mL min−1 . The pH in\nthe anode compartment is maintained at 1 in the steady state.\n\n    3.6     Calculate the generation rate of CO2 gas (in mmol min−1 ).                          8.0 pt\n\nZeolitic imidazolate frameworks (ZIFs), a sub-class of metal–organic frameworks (MOFs) are promising\n\nTheory\n\nmaterials for the capture and utilization of CO2 . The structures of ZIFs resemble zeolites. They form\n3D frameworks with tetrahedrally coordinated metal ions (e.g. Zn2+ , Co2+ ) bridged by imidazolate (Im )\n                                                                                                        −\n\nand its derivatives. As the conjugated base of imidazole (HIm), imidazolate anion binds to metal cations\n(M) by its two N atoms. The fact that the M-Im-M angle is similar to the Si-O-Si angle (145°) preferred in\nzeolites (as shown below) has led to the synthesis of a large number of ZIFs with zeolite-type tetrahedral\ntopologies.\n\nZIF-8 is one of the representative ZIFs, which adopts a sodalite framework (SOD), as shown in Figure\n3.2. ZIF-8 was firstly synthesized by Chinese scientists Xiao-Ming Chen et al. (they named it as MAF-4) by\nthe reaction of Zn2+ with 2-methylimidazole (CH3 (C3 N2 H3 ), HmIm). It crystalizes in the cubic system with\nthe cell parameter 𝑎 = 1.632 nm for a solvent-free phase with the effective pore diameter (shown by the\ninside virtual sphere in Figure 3.2d) of 1.16 nm.\n\nTheory\n\n                            Figure 3.2 Topology of SOD and structure of ZIF-8\n  (a)   Topology of SOD cage;\n  (b)   SOD cage in ZIF-8 formed by Zn2+ (at the centers of the tetrahedra) and imidazolate (H atoms\n        are omitted for clarity);\n  (c)   Framework of SOD with the unit cell shown by the square box;\n  (d)   Some of the pores are highlighted by virtual spheres in ZIF-8.\n\nNote: If you wish, you may use the symbol \"HmIm\" and \"mIm\" representing 2-methylimidazole and 2-\nmethylimidazolate respectively in solving the following questions.\n\n    3.7      Write the formula of the single sodalite cage.                                  2.0 pt\n\nTheory\n\n    3.8     Write the composition of the unit cell of ZIF-8.                                    2.0 pt\n\n    3.9     Calculate the inner surface area (𝑆) of the pores (modeled by the virtual           5.0 pt\n            spheres) of 1 g ZIF-8 (in m2 ). If you failed to get the composition of the unit\n            cell, use 3500 as the formula weight of the unit cell.\n\n    3.10    Calculate the porosity 𝑅 of ZIF-8 (𝑅 is the ratio of pore volume to the actual      7.0 pt\n            volume of the material) and the pore volume of 1 g ZIF-8 (𝑉𝑝 , in cm3 ).\n\nZIF-8 can also act as a catalyst to promote the conversion of CO2 to high value-added chemicals. One of\nthe most promising routes for CO2 fixation is the preparation of cyclic carbonates via CO2 cycloaddition.\nAn example is shown as below:\n\nA mechanism of catalytic conversion of CO2 to cyclic carbonate over ZIF-8 catalyst is proposed:\n\nTheory\n\n    3.11    If ZIF-8 provides acid sites in the above catalytic process, complete the mecha-    2.0 pt\n            nism by choosing the reasonable intermediates from the following species:\n\n            Choose the intermediates corresponding to I and II respectively.\n\nZIF-8 shows a relatively high thermal stability. However, a recent study revealed that its structure would\nbe destroyed if applied in a wet acidic environment. The co-existence of CO2 and H2 O with ZIF-8 resulted\nin the formation of ZnCO3 .\n\n    3.12    Write the balanced equation of ZIF-8 with CO2 and H2 O.                             2.0 pt",
+   "parts": [
+    {
+     "id": "3.1",
+     "points": 2,
+     "question": "Write the formulas for A and B respectively.",
+     "reference": ""
+    },
+    {
+     "id": "3.2",
+     "points": 5,
+     "question": "Write the balanced equations of all possible reactions in steps 1-3. NaOH solution is used as sorbent.",
+     "reference": ""
+    },
+    {
+     "id": "3.3",
+     "points": 2,
+     "question": "Write the electrode reactions in the anode (A) and the cathode (C) respectively.",
+     "reference": ""
+    },
+    {
+     "id": "3.4",
+     "points": 3,
+     "question": "Write the balanced equations for the reactions 1–3 in the acidifying region (B).",
+     "reference": ""
+    },
+    {
+     "id": "3.5",
+     "points": 2,
+     "question": "Check all that correctly describe the movement of cations during the system operation. (a) H+ ions permeate through M1 from A to B. (b) H+ ions permeate through M2 from B to C. (c) Na+ ions permeate through M1 from B to A. (d) Na+ ions permeate through M2 from B to C. (e) Both H+ and Na+ ions can permeate through M1and M2.",
+     "reference": ""
+    },
+    {
+     "id": "3.6",
+     "points": 8,
+     "question": "Calculate the generation rate of CO2 gas (in mmol min−1 ).",
+     "reference": ""
+    },
+    {
+     "id": "3.7",
+     "points": 2,
+     "question": "Write the formula of the single sodalite cage.",
+     "reference": ""
+    },
+    {
+     "id": "3.8",
+     "points": 2,
+     "question": "Write the composition of the unit cell of ZIF-8.",
+     "reference": ""
+    },
+    {
+     "id": "3.9",
+     "points": 5,
+     "question": "Calculate the inner surface area (𝑆) of the pores (modeled by the virtual spheres) of 1 g ZIF-8 (in m2 ). If you failed to get the composition of the unit cell, use 3500 as the formula weight of the unit cell.",
+     "reference": ""
+    },
+    {
+     "id": "3.10",
+     "points": 7,
+     "question": "Calculate the porosity 𝑅 of ZIF-8 (𝑅 is the ratio of pore volume to the actual volume of the material) and the pore volume of 1 g ZIF-8 (𝑉𝑝 , in cm3 ).",
+     "reference": ""
+    },
+    {
+     "id": "3.11",
+     "points": 2,
+     "question": "If ZIF-8 provides acid sites in the above catalytic process, complete the mechanism by choosing the reasonable intermediates from the following species: Choose the intermediates corresponding to I and II respectively.",
+     "reference": ""
+    },
+    {
+     "id": "3.12",
+     "points": 2,
+     "question": "Write the balanced equation of ZIF-8 with CO2 and H2 O.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "A New Journey for Ancient Sulfur",
+   "weight": 4.1,
+   "total": 4.2,
+   "statement": "Theory\n\nA New Journey for Ancient Sulfur\n\n          Points     2     4     4    3     1     5     2        4   5      4      6      5         45\n          Score\n\nSulfur has been known and used since the ancient times. Nowadays, sulfur is widely used in chemical\nproduction and pharmaceutical industry as an inexpensive chemical raw material.\n\nPyrite (FeS2 ) is commonly used as a raw material in the industrial production of elemental sulfur. By\nheating pyrite in the presence of limited air supply, the theoretical yield of elemental sulfur is 100% and\na black magnetic oxide (Fe3 O4 ) is the other product.\n\n    4.1      Write the balanced reaction equation that describes the above conversion.                2.0 pt\n\nIn addition to sulfur, a small amount of SO2 is generated as a by-product during the actual process.\nThis reaction can be monitored by measuring the amount of SO2 . The following recipe is used for the\nmonitoring:\n\nRaw ore powder is heated in a temperature-controlled tube furnace. The generated SO2 is absorbed by\n2 mol L−1 NaOH solution. When the reaction is completed, the solution is transferred to a 500 mL volu-\nmetric flask and diluted by distilled water to the mark. 25.00 mL of this diluted solution is then added into\nan iodine flask containing 50.00 mL 0.05122 mol L−1 I2 standard solution and 5 mL 20% H2 SO4 solution.\nAfter maintaining the iodine flask in dark for 5 min, the solution is titrated with 0.1012 mol L−1 Na2 S2 O3\n\nTheory\n\nstandard solution. When the color of the solution turns light brown, 3 mL 0.5% starch indicator is added.\nContinue the titration until the blue color disappears.\n\n     4.2     Write the balanced reaction equations involving I2 in the above measurement.           4.0 pt\n\n     4.3     In such a test experiment starting from pyrite, 17.6 g of elemental sulfur was         4.0 pt\n             collected. The analysis of the by-product gases according to the above proce-\n             dure resulted in the consumption of 18.47 mL of Na2 S2 O3 standard solution. As-\n             suming that no other sulfur containing species were produced, calculate what\n             percentage of the sulfur in pyrite was lost as the by-product?\n\nThe lithium-sulfur battery is a compelling energy storage system because its high theoretical energy den-\nsity exceeds conventional Li-ion batteries. The net reaction of a lithium-sulfur battery can be simplified\nas: 16 Li + S8 −−→ 8 Li2 S. Sulfur is the cathode and metallic lithium is the anode active material during\ndischarge.\n\n     4.4     Write the balanced equations for reactions that take place at cathode (a) and          3.0 pt\n             anode (b) during discharge.\n\n     4.5     Calculate the mass ratio of the cathode active material to the anode active ma-        1.0 pt\n             terial, according to the net battery reaction.\n\nA lithium-ion battery (LIB) that possesses an average operating voltage of 3.8 V and a deliverable capacity\nof 3110 mAh can provide energy for a mobile phone to play videos continuously for 22 hours upon a full\ncharge.\n\n     4.6     If the LIB is replaced by an ideal lithium-sulfur battery pack, which has an av-       5.0 pt\n             erage operating voltage of 4.2 V and contains 23 g sulfur as the active elec-\n             trode material that can react stoichiometrically during discharge, calculate\n             how many hours the new battery pack will provide energy for the phone to\n             play videos continuously after a full charge.\n\nElemental sulfur generally exist as S8 molecules. In real lithium-sulfur batteries, S8 is not directly reduced\nto Li2 S during discharge, but it undergoes stepwise reactions generating different soluble lithium poly-\nsulfides (Li2 Sn , n = 3 − 8). These lithium polysulfides could diffuse to the anode and corrode it, which\nresults in the loss of active electrode materials. This phenomenon is called \"shuttle effect\".\n\n     4.7     Write the balanced reaction equation for the corrosion of anode by soluble             2.0 pt\n             lithium polysulfides (Li2 Sn ) that produces Li2 S.\n\nIn order to suppress the \"shuttle effect\", the forms of polysulfides in an electrolyte have been extensively\nstudied. Li2 S6 is one of the most representative intermediate products:\n\nTheory\n\n                                       2Li+ + S8 + 2e− ⟶ Li2 S6 + 2S\n\nA theoretical study shows that two conformers with comparable energies, Li2 S6 (I) and Li2 S6 (II) coexist in\n1,2-dimethoxyethane (DME), a common electrolyte solvent in lithium-sulfur batteries. The dissociation\nof Li2 S6 in DME is shown below:\n\n                                                                  2−\n                          Chemical equilibria of Li2 S6 , LiS−\n                                                             6 , S6 and LiS3 in DME\n                                                                           •\n\n     Table 4.1 Dissociation Gibbs energies (kJ mol−1 ) of different reactions in DME (298.15 K, 1 bar)\n  Δ𝐺−\n    ⊖−\n    d1 (I)              Δ𝐺−\n                          ⊖−\n                          d1 (II)            Δ𝐺−\n                                               ⊖−\n                                               d2                 Δ𝐺−\n                                                                    ⊖−\n                                                                    dr (I)             Δ𝐺−\n                                                                                         ⊖−\n                                                                                         dr (II)\n  20.68                 18.92                100.55               45.13                43.37\n\nTheory\n\n    4.8     Using the data from Table 4.1, calculate the equilibrium concentration ratio of                                               4.0 pt\n                                                     [Li S (II)]\n            two conformers in DME (298.15 K, 1 bar), 2 6           .\n                                                      [Li2 S6 (I)]\n\n    4.9     Using the data from Table 4.1, calculate the apparent dissociation constant of                                                5.0 pt\n            Li2 S6 ⟶ Li+ + LiS−\n                              6 in DME (298.15 K, 1 bar).\n\n    4.10    Sort the following equilibrium concentrations in decreasing order: [Li2 S6 ],                                                 4.0 pt\n                       2−\n                6 ], [S6 ], [LiS3 ] in DME.\n            [LiS−               •\n\n    4.11    The standard reduction potential of metallic lithium in water at 298.15 K and                                                 6.0 pt\n            1 bar is:\n                                                                              +\n                                                               𝐸 −⊖− (Li /Li) = −3.040 V\n\n                                              The standard solvation Gibbs energies of\n                                        gaseous Li+ (g) to Li+ (sol) in different solvents.\n                                                                               Li+ (H2 O)                      Li+ (DME)\n                         Δ𝐺−⊖− /kJ mol−1                                          −116.9                        −114.6\n\n            Calculate the standard reduction potential of metallic lithium electrode in DME.\n\nStudies have shown that electromotive force of a lithium-sulfur battery would be increased by replac-\ning DME with dimethyl sulfoxide (DMSO). Therefore, the forms of polysulfides in DMSO also attract re-\nsearchers' attention.\n\nIn a test, a certain amount of Li2 S and 4.81 mg sulfur powder were added into 10.00 mL DMSO, then\nheated and stirred until completely dissolved (ignoring the change in volume). Suppose that only the\n                                                        2−  2−  2−   2−   2−\nfollowing polysulfides were present in the DMSO: S•−3 ，S4 ，S5 ，S6 ，S7 ，S8 . The equilibrium concen-\ntration ratio of the sulfur containing species was:\n\n                         2−             2−             2−             2−             2−\n           [S•−\n             3 ] ∶ [S4        ] ∶ [S5        ] ∶ [S6        ] ∶ [S7        ] ∶ [S8        ] = 17.50 ∶ 1.00 ∶ 4.50 ∶ 55.00 ∶ 5.00 ∶ 0.75\n\n    4.12    Calculate the original mass 𝑚 (in mg) of Li2 S added to DMSO.                                                                 5.0 pt",
+   "parts": [
+    {
+     "id": "4.1",
+     "points": 2,
+     "question": "Write the balanced reaction equation that describes the above conversion.",
+     "reference": ""
+    },
+    {
+     "id": "4.2",
+     "points": 4,
+     "question": "Write the balanced reaction equations involving I2 in the above measurement.",
+     "reference": ""
+    },
+    {
+     "id": "4.3",
+     "points": 4,
+     "question": "In such a test experiment starting from pyrite, 17.6 g of elemental sulfur was collected. The analysis of the by-product gases according to the above procedure resulted in the consumption of 18.47 mL of Na2 S2 O3 standard solution. Assuming that no other sulfur containing species were produced, calculate what percentage of the sulfur in pyrite was lost as the by-product?",
+     "reference": ""
+    },
+    {
+     "id": "4.4",
+     "points": 3,
+     "question": "Write the balanced equations for reactions that take place at cathode (a) and anode (b) during discharge.",
+     "reference": ""
+    },
+    {
+     "id": "4.5",
+     "points": 1,
+     "question": "Calculate the mass ratio of the cathode active material to the anode active material, according to the net battery reaction.",
+     "reference": ""
+    },
+    {
+     "id": "4.6",
+     "points": 5,
+     "question": "If the LIB is replaced by an ideal lithium-sulfur battery pack, which has an average operating voltage of 4.2 V and contains 23 g sulfur as the active electrode material that can react stoichiometrically during discharge, calculate how many hours the new battery pack will provide energy for the phone to play videos continuously after a full charge.",
+     "reference": ""
+    },
+    {
+     "id": "4.7",
+     "points": 2,
+     "question": "Write the balanced reaction equation for the corrosion of anode by soluble lithium polysulfides (Li2 Sn ) that produces Li2 S.",
+     "reference": ""
+    },
+    {
+     "id": "4.8",
+     "points": 4,
+     "question": "Using the data from Table 4.1, calculate the equilibrium concentration ratio of [Li S (II)] two conformers in DME (298.15 K, 1 bar), 2 6 . [Li2 S6 (I)]",
+     "reference": ""
+    },
+    {
+     "id": "4.9",
+     "points": 5,
+     "question": "Using the data from Table 4.1, calculate the apparent dissociation constant of Li2 S6 ⟶ Li+ + LiS− 6 in DME (298.15 K, 1 bar).",
+     "reference": ""
+    },
+    {
+     "id": "4.10",
+     "points": 4,
+     "question": "Sort the following equilibrium concentrations in decreasing order: [Li2 S6 ], 2− 6 ], [S6 ], [LiS3 ] in DME. [LiS− •",
+     "reference": ""
+    },
+    {
+     "id": "4.11",
+     "points": 6,
+     "question": "The standard reduction potential of metallic lithium in water at 298.15 K and 1 bar is: + 𝐸 −⊖− (Li /Li) = −3.040 V The standard solvation Gibbs energies of gaseous Li+ (g) to Li+ (sol) in different solvents. Li+ (H2 O) Li+ (DME) Δ𝐺−⊖− /kJ mol−1 −116.9 −114.6 Calculate the standard reduction potential of metallic lithium electrode in DME.",
+     "reference": ""
+    },
+    {
+     "id": "4.12",
+     "points": 5,
+     "question": "Calculate the original mass 𝑚 (in mg) of Li2 S added to DMSO.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Interconversion among Nitrogen Oxides",
+   "weight": 5.1,
+   "total": 5.2,
+   "statement": "Theory\n\nInterconversion among Nitrogen Oxides\n\n                Points     4     4     2      4     3    8       4     6     4      6      45\n                Score\n\nNitrogen oxides (including N2 O, NO, NO2 , N2 O4 and etc., usually written as NOx ) are one of the main air\npollutants that can cause a series of problems such as ozone depletion, acid rain, photochemical smog,\nand greenhouse effect. Therefore, the emission and conversion of NOx must be controlled to improve\nair quality. Here let us investigate the oxidation of NO to NO2 via the reaction of 2NO + O2 ⟶ 2NO2 .\n\nPart A\n\nIt is generally accepted that this reaction proceeds through the following mechanism in the atmosphere:\n\n                                              2 NO −\n                                                   ↽−\n                                                    −− N2 O2\n                                                     ⇀                                                       (1)\n\n                                            N2 O2 + O2 −−→ 2 NO2                                             (2)\n\nReaction (1) and (2) and the reverse of reaction (1) are elementary reactions. Reaction (1) is a pre-\nequilibrium reaction, and its equilibrium constant in terms of concentrations is denoted as 𝐾𝑐1 . Reaction\n(2) is the rate-determining step of the overall reaction, and its rate constant is 𝑘2 .\n\n    5.1     Deduce the rate expression for the overall reaction of 2NO + O2 ⟶ 2NO2 as a             4.0 pt\n            function of [NO], [O2 ], 𝐾𝑐1 and 𝑘2 .\n\nThe temperature dependence of 𝐾𝑐1 could be approximately described as ln 𝐾𝑐1 = 𝑀 − (𝑁 /𝑇 ) (𝑀 and\n𝑁 are constants). The change of 𝑘2 with temperature follows the Arrhenius equation with the pre-\nexponential factor of 𝐴2 and apparent activation energy of 𝐸𝑎,2 . Assume that 𝐸a,2 and 𝐴2 are independent\nof the temperature.\n\n    5.2     Deduce the expressions for the pre-exponential factor (𝐴+ ) and apparent acti-          4.0 pt\n            vation energy (𝐸𝑎+ ) of the reaction of 2NO + O2 ⟶ 2NO2 as functions of 𝑀 , 𝑁 ,\n            𝐴2 and 𝐸𝑎,2 .\n\nTheory\n\nThe apparent rate constant (𝑘+ ) of the overall reaction is 6.63 × 105 L2 mol−2 min−1 at 600 K, and its ap-\nparent activation energy is 1.20 kJ mol−1 .\n\n    5.3     Calculate the rate constant (in L2 mol−2 min−1 ) of this reaction at 700 K.            2.0 pt\n\nThe standard enthalpies of formation (Δf H−\n                                          m ) and standard entropies (Sm ) at 298.15 K are as follows:\n                                          ⊖−                           −\n                                                                       ⊖−\n\n                                                       NO(g)   O2 (g)   NO2 (g)\n                               Δ f 𝐻m−⊖−\n                                         (kJ mol−1 )   91.3              33.1\n                                −\n                               𝑆m⊖−\n                                    (J K−1 mol−1 )     210.8   205.2    240.1\n\nThe standard reaction enthalpy and entropy changes of 2NO + O2 ⟶ 2NO2 can be regarded as temper-\nature independent. All the gases are taken to be ideal for the following questions.\n\n    5.4     Calculate the thermodynamic equilibrium constant (𝐾𝑝−⊖− ) of this reaction at          4.0 pt\n            600 K.\n\n    5.5     Calculate the standard internal energy change Δr 𝑈m\n                                                              −\n                                                              ⊖−\n                                                                 (in kJ mol−1 ) of this reac-      3.0 pt\n            tion at 600 K.\n\nExperimental observation shows that the rate of the reaction of 2NO2 ⟶ 2NO + O2 is independent on\nthe concentration of NO and O2 .\n\n    5.6     Deduce the expression of the rate for this reaction (the apparent rate constant        8.0 pt\n            could be directly used as 𝑘− ) and calculate the value of 𝑘− apparent at 600 K.\n            (If you failed to find the 𝐾𝑝−⊖− (600 K) in question 5.4, use 𝐾𝑝−⊖− (600 K) = 350.0)\n\nNO2 gas is introduced to a container with a fixed volume which is held at 600 K and allowed to reach\nequilibrium. 20 percent of the reactant is converted to NO and O2 . All the gases are taken to be ideal.\n\n    5.7     Calculate the total pressure of this reaction system at equilibrium. (If you failed    4.0 pt\n            to find the 𝐾𝑝−⊖− (600 K) in question 5.4, use 𝐾𝑝−⊖− (600 K) = 350.0)\n\nPart B\n\nIndustrial exhaust is a main source of NOx . One of the approaches to reduce the emission of NOx is\nthrough the oxidation of NO to NO2 and the subsequent absorption of the formed NO2 by absorbents.\nHowever, because of the low concentration of NO in exhaust, its spontaneous oxidation in the atmo-\nsphere is too slow to meet the demand of industry. Generally, solid catalysts are used to accelerate this\nreaction. The NO oxidation proceeds on the surface of a specific catalyst (CatX) through the following\nmechanism (adsorption site is denoted as Site):\n\nTheory\n\n                                                             kS+1\n                                        O2 (g) + 2 Site −\n                                                        ↽−− 2 O-Site\n                                                         −⇀                                             (S1)\n                                                             kS−1\n\n                                   𝑟S+1 = 𝑘S+1 [O2 ] 𝜃𝑣2                         2\n                                                                    𝑟S−1 = 𝑘S−1 𝜃O\n\n                                                             kS+2\n                                        NO (g) + Site −\n                                                      ↽−− NO-Site\n                                                       −⇀                                               (S2)\n                                                             kS−2\n\n                                   𝑟S+2 = 𝑘S+2 [NO]𝜃𝑣           𝑟S−2 = 𝑘s−2 𝜃NO\n\n                                                             kS+3\n                                      NO (g) + O-Site −−→ NO2 -Site                                     (S3)\n\n                                          𝑟S+3 = 𝑘S+3 [NO]𝜃O\n\n                                                     kS+4\n                                       NO2 -Site −\n                                                 ↽−− NO2 (g) + Site\n                                                  −⇀                                                    (S4)\n                                                     kS−4\n\n                                  𝑟S+4 = 𝑘S+4 𝜃NO2          𝑟S−4 = 𝑘S−4 [NO2 ] 𝜃𝑣\n\nAssume that the adsorptions of NO, NO2 and O (from the dissociation of O2 ) cannot proceed beyond a\nmonolayer coverage, and these species are adsorbed by the same kind of surface sites. Their fractional\ncoverages (𝜃, defined as the ratio of the number of adsorption sites occupied to the number of total ad-\nsorption sites) are denoted as 𝜃NO , 𝜃NO2 and 𝜃O , respectively. Thus, the fraction of unoccupied adsorption\nsites (𝜃v ) is 𝜃v = 1 − 𝜃NO − 𝜃NO2 − 𝜃O . Assume that all the adsorption and desorption processes are much\nfaster than reaction (S3).\n\n    5.8     Deduce the expression for 𝜃v as a function of [NO], [O2 ], [NO2 ] and the rate        6.0 pt\n            constants involved in reactions (S1)−(S4).\n\nTheory\n\n    5.9      Choose the correct expression for the rate of 2 NO (g) + O2 (g) −−→ 2 NO2 (g) at   4.0 pt\n             the beginning of the reaction. Assume that the concentration and adsorption\n             of NO2 are both negligible.\n                            𝑘S+3 (𝑘S+1 /𝑘S−1 )0.5 [NO][O2 ]0.5\n             (A) 𝑟S+ =\n                       1 + (𝑘S+1 [O2 ]/𝑘S−1 )0.5 + 𝑘S+2 [NO]/𝑘S−2\n                          0.5𝑘S+3 (𝑘S+1 /𝑘S−1 )0.5 [NO][O2 ]0.5\n             (B) 𝑟S+ =\n                       1 + (𝑘S+1 [O2 ]/𝑘S−1 )0.5 + 𝑘S+2 [NO]/𝑘S−2\n                           𝑘S+3 (𝑘S+1 /𝑘S−1 )[NO][O2 ]0.5\n             (C) 𝑟S+ =\n                       1 + 𝑘S+1 [O2 ]/𝑘S−1 + 𝑘S+2 [NO]/𝑘S−2\n                       𝑘 𝑘 (𝑘 /𝑘 )0.5 [NO][O2 ]0.5 /𝑘S−4\n             (D) 𝑟S+ = S+4 S+3 S+1 S−1 0.5\n                       1 + 𝑘S+1 ([O2 ]/𝑘S−1 ) + 𝑘S+2 [NO]/𝑘S−2\n\nFor some catalysts, the surface reaction proceeds via an alternative way instead of reaction (S3):\n\n                                                     kS+5\n                                  NO-Site + O-Site −−→ Site + NO2 -Site                               (S5)\n\n                                             𝑟S+5 = 𝑘S+5 𝜃NO 𝜃O\n\nThis step is also rate-determining for the overall reaction.\n\nA catalyst (CatY) is used to promote the reaction of 2NO + O2 ⟶ 2NO2 . When the temperature and NO\nconcentration are constant, the initial reaction rate changes with the concentration of O2 as follows:\n\nTheory\n\n  5.10   Choose a mechanism that is consistent with this curve.            6.0 pt\n         (A) S3\n         (B) S5\n         (C) cannot be determined",
+   "parts": [
+    {
+     "id": "5.1",
+     "points": 4,
+     "question": "Deduce the rate expression for the overall reaction of 2NO + O2 ⟶ 2NO2 as a function of [NO], [O2 ], 𝐾𝑐1 and 𝑘2 .",
+     "reference": ""
+    },
+    {
+     "id": "5.2",
+     "points": 4,
+     "question": "Deduce the expressions for the pre-exponential factor (𝐴+ ) and apparent activation energy (𝐸𝑎+ ) of the reaction of 2NO + O2 ⟶ 2NO2 as functions of 𝑀 , 𝑁 , 𝐴2 and 𝐸𝑎,2 .",
+     "reference": ""
+    },
+    {
+     "id": "5.3",
+     "points": 2,
+     "question": "Calculate the rate constant (in L2 mol−2 min−1 ) of this reaction at 700 K.",
+     "reference": ""
+    },
+    {
+     "id": "5.4",
+     "points": 4,
+     "question": "Calculate the thermodynamic equilibrium constant (𝐾𝑝−⊖− ) of this reaction at 600 K.",
+     "reference": ""
+    },
+    {
+     "id": "5.5",
+     "points": 4.5,
+     "question": "Calculate the standard internal energy change Δr 𝑈m − ⊖− (in kJ mol−1 ) of this reac3.0 pt tion at 600 K.",
+     "reference": "",
+     "pointsEstimated": true
+    },
+    {
+     "id": "5.6",
+     "points": 8,
+     "question": "Deduce the expression of the rate for this reaction (the apparent rate constant could be directly used as 𝑘− ) and calculate the value of 𝑘− apparent at 600 K. (If you failed to find the 𝐾𝑝−⊖− (600 K) in question 5.4, use 𝐾𝑝−⊖− (600 K) = 350.0)",
+     "reference": ""
+    },
+    {
+     "id": "5.7",
+     "points": 4,
+     "question": "Calculate the total pressure of this reaction system at equilibrium. (If you failed to find the 𝐾𝑝−⊖− (600 K) in question 5.4, use 𝐾𝑝−⊖− (600 K) = 350.0)",
+     "reference": ""
+    },
+    {
+     "id": "5.8",
+     "points": 6,
+     "question": "Deduce the expression for 𝜃v as a function of [NO], [O2 ], [NO2 ] and the rate constants involved in reactions (S1)−(S4).",
+     "reference": ""
+    },
+    {
+     "id": "5.9",
+     "points": 4,
+     "question": "Choose the correct expression for the rate of 2 NO (g) + O2 (g) −−→ 2 NO2 (g) at the beginning of the reaction. Assume that the concentration and adsorption of NO2 are both negligible. 𝑘S+3 (𝑘S+1 /𝑘S−1 )0.5 [NO][O2 ]0.5 (A) 𝑟S+ = 1 + (𝑘S+1 [O2 ]/𝑘S−1 )0.5 + 𝑘S+2 [NO]/𝑘S−2 0.5𝑘S+3 (𝑘S+1 /𝑘S−1 )0.5 [NO][O2 ]0.5 (B) 𝑟S+ = 1 + (𝑘S+1 [O2 ]/𝑘S−1 )0.5 + 𝑘S+2 [NO]/𝑘S−2 𝑘S+3 (𝑘S+1 /𝑘S−1 )[NO][O2 ]0.5 (C) 𝑟S+ = 1 + 𝑘S+1 [O2 ]/𝑘S−1 + 𝑘S+2 [NO]/𝑘S−2 𝑘 𝑘 (𝑘 /𝑘 )0.5 [NO][O2 ]0.5 /𝑘S−4 (D) 𝑟S+ = S+4 S+3 S+1 S−1 0.5 1 + 𝑘S+1 ([O2 ]/𝑘S−1 ) + 𝑘S+2 [NO]/𝑘S−2",
+     "reference": ""
+    },
+    {
+     "id": "5.10",
+     "points": 6,
+     "question": "Choose a mechanism that is consistent with this curve. (A) S3 (B) S5 (C) cannot be determined",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Enabling Phosphines",
+   "weight": 6.1,
+   "total": 6.2,
+   "statement": "Theory\n\nEnabling Phosphines\n\n                          Points     3     6      8     5     6     3     5      36\n                          Score\n\nPhosphines are phosphorus analogues of amines. They also carry a lone pair of electrons at the phos-\nphorus atom and thus exhibit Lewis basicity or nucleophilicity. But in contrast with tertiary amines, chiral\nphosphines like P1 with three different substituents can be isolated as single enantiomers. Chiral phos-\nphines are often used as chiral ligands in transition metal catalysis.\n\n    6.1     Using R/S symbol, assign the absolute configuration of P1.                            3.0 pt\n\nIn the past two decades, as organocatalysis grew rapidly, a large number of nucleophilic phosphine-\ncatalyzed synthetic reactions have emerged. Among them, one of the most famous phosphine-catalyzed\nreactions is the Lu (3+2) cycloaddition reaction, which was first developed by Chinese scientist Xiyan Lu.\nFor instance, under the catalysis of triphenylphosphine, ethyl allenoate 1 and methyl acrylate 2 smoothly\nproduce two cyclopentene derivatives 3 (major) and 4 (minor).\n\nLu (3+2) cycloaddition:\n\nTheory\n\nIn a generally accepted mechanism, the Lu (3+2) reaction is a formal cycloaddition reaction. Initially,\nthe catalyst triphenylphosphine engages in a nucleophilic addition to ethyl allenoate 1 to generate a\nzwitterionic intermediate A, which subsequently cyclizes with methyl acrylate 2 by two paths. In the\npath leading to compound 3, an in situ generated phosphorus ylide intermediate B reversibly converts\ninto intermediate C via proton transfer; C undergoes an elimination to deliver the major product 3 and\nrelease the phosphine catalyst. In the path leading to compound 4, a phosphorus ylide intermediate\nB' is formed, which also reversibly converts into intermediate C' via proton transfer; C' undergoes an\nelimination to give the minor product 4 and regenerate the phosphine catalyst.\n\nMechanism:\n\n    6.2     Draw the two major resonance structures that make up the shown resonance          6.0 pt\n            hybrid A (the involvement of ester group is not considered, and stereochemistry\n            is not required).\n\nTheory\n\n       6.3    Draw the structures of intermediates B' and C' (stereochemistry is not re-         8.0 pt\n              quired).\n\nUnder similar conditions, ethyl allenoate 1 and diethyl fumarate 5 readily deliver the corresponding cy-\ncloaddition product 6.\n\n       6.4    Draw the structure of compound 6 (stereochemistry is not required).                5.0 pt\n\nAsymmetric Lu (3+2) cycloaddition reaction can be readily realized by utilizing chiral phosphine catalysts.\nFor example, under the catalysis of a chiral bicyclic phosphine P2, ethyl allenoate 1 and methyl acrylate\n2 smoothly delivered an enantio-enriched cycloaddition product 3 in 80% ee (enantiomeric excess).\n\nAsymmetric Lu (3+2) cycloaddition:\n\nCalculation equation of ee:\n\n       𝑛major − 𝑛minor\nee =                   × 100%\n       𝑛major + 𝑛minor\n\n𝑛major = the amount of major enantiomer\n\n𝑛minor = the amount of minor enantiomer\n\nTheory\n\n     6.5     Mark the chirality centers in the chiral phosphine P2 by using asterisks. (Note:        6.0 pt\n             points will be deducted for every wrong asterisk until 0 points)\n\n     6.6     Give the ratio of 𝑛major /𝑛minor of product 3.                                          3.0 pt\n\nLu (3+2) cycloaddition reaction is a versatile tool in organic synthesis. For example, it was success-\nfully used to synthesize (–)-hinesol, an important component of the Chinese medicinal herb Chang Zhu\n(Atractylodes lancea var Chinensis). Under the catalysis of PPh3 , a chiral cyclohexanone 7 cyclized with tert-\nbutyl allenoate 8, affording a major product 9 and three minor products 10, 11 and 12. Minor products\n10−12 are all the isomers of 9. Compound 9 could be readily transformed into (–)-hinesol by a multistep\nprocess.\n\nTheory\n\n  6.7    In the following compounds, choose which one does not belong to the minor    5.0 pt\n         products 10‒12.",
+   "parts": [
+    {
+     "id": "6.1",
+     "points": 3,
+     "question": "Using R/S symbol, assign the absolute configuration of P1.",
+     "reference": ""
+    },
+    {
+     "id": "6.2",
+     "points": 6,
+     "question": "Draw the two major resonance structures that make up the shown resonance hybrid A (the involvement of ester group is not considered, and stereochemistry is not required).",
+     "reference": ""
+    },
+    {
+     "id": "6.3",
+     "points": 8,
+     "question": "Draw the structures of intermediates B' and C' (stereochemistry is not required).",
+     "reference": ""
+    },
+    {
+     "id": "6.4",
+     "points": 5,
+     "question": "Draw the structure of compound 6 (stereochemistry is not required).",
+     "reference": ""
+    },
+    {
+     "id": "6.5",
+     "points": 6,
+     "question": "Mark the chirality centers in the chiral phosphine P2 by using asterisks. (Note: points will be deducted for every wrong asterisk until 0 points)",
+     "reference": ""
+    },
+    {
+     "id": "6.6",
+     "points": 3,
+     "question": "Give the ratio of 𝑛major /𝑛minor of product 3.",
+     "reference": ""
+    },
+    {
+     "id": "6.7",
+     "points": 5,
+     "question": "In the following compounds, choose which one does not belong to the minor products 10‒12.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Organic Molecules in Life",
+   "weight": 7.1,
+   "total": 7.2,
+   "statement": "Theory\n\nOrganic Molecules in Life\n\n                                       Points     12     8    12      32\n                                       Score\n\nThe synthesis of complex peptides and proteins is a challenging task. On September 17, 1965, Chinese\nscientists synthesized crystalline bovine insulin artificially for the first time, marking a crucial step in the\njourney of exploring the secret of life and opening the era of protein synthesis.\n\n     Stamp issued on the 50th anniversary (2015) of the first synthesis of crystalline bovine insulin\n\nCoupling of carboxylic acid groups with amine groups to forge an amide bond is the most elementary\nreaction in the synthesis of peptides and proteins. Allenone 2 was reported to be able to activate the\ncarboxylic acid 1 under mild reaction conditions forming the intermediate 3. Intermediate 3 then reacts\nwith amine 4 to give amide 5 with high yield, along with the byproduct 6.\n\nTheory\n\nSimilarly, N-ethynyl-N-methyl-p-toluenesulfonamide (MYTsA) with its major resonance structure 7 (in-\nvolvement of Ts group is not considered) can activate carboxylic acid in the same way as allenone 2.\n\n    7.1     Draw the structures of 7, intermediate 9 and compound 12. Show the stereo-            12.0 pt\n            chemistry of any stereocenters.\n\nAs the length of peptide chain grows, formation of amide bonds becomes more difficult, and conven-\ntional condensation methods are not applicable in the synthesis of proteins. In the first synthesis of crys-\ntalline bovine insulin, a method based on the chemistry of acylhydrazine 13 was developed to achieve\nthe challenging amide coupling between two peptides. As the following equations, compound 15 reacts\n\nTheory\n\nwith 16 smoothly in the presence of triethylamine.\n\n     Note: P1, P2 = peptides\n\n    7.2     Draw the structures of compounds 15 and 16.                                         8.0 pt\n\nIn addition to de novo synthesis, scientists can modify existing proteins. Although there are multiple re-\nactive sites on the surface of protein, such as amino groups, thiol groups, and carboxyl groups, the most\nnucleophilic thiol groups are the preferred site when the protein is treated with electrophilic reagents\nsuch as N-phenyl maleimide 18 via Michael addition.\n\nUnder mild basic conditions (pH = 7.5), reagent 19 was proposed to react with the thiol group of protein\n20 to give a neutral intermediate 21 which is attacked by hydroxide to give compound 22. Compound 22\ncan equilibrate with an acyclic form 23, and subsequently react with another protein 20. The resulting\nmajor product can exist either in the acyclic form 24 or in the cyclic form 25 in a similar way as the\nequilibration between 22 and 23.\n\nTheory\n\n  7.3    Draw the structures of intermediate 21, compounds 24 and 25. Stereochem-    12.0 pt\n         istry is not required.",
+   "parts": [
+    {
+     "id": "7.1",
+     "points": 12,
+     "question": "Draw the structures of 7, intermediate 9 and compound 12. Show the stereochemistry of any stereocenters.",
+     "reference": ""
+    },
+    {
+     "id": "7.2",
+     "points": 8,
+     "question": "Draw the structures of compounds 15 and 16.",
+     "reference": ""
+    },
+    {
+     "id": "7.3",
+     "points": 12,
+     "question": "Draw the structures of intermediate 21, compounds 24 and 25. Stereochemistry is not required.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Amazing Chiral Spiro Catalyst",
+   "weight": 8.1,
+   "total": 8.2,
+   "statement": "Theory\n\nAmazing Chiral Spiro Catalyst\n\n                           Points    16    2     2     2     2      8     2     2      36\n                           Score\n\nChiral compounds are important for human health, for example, more than 50% of the medicines cur-\nrently in clinical use are single enantiomers of chiral molecules. However, synthesizing chiral molecules\nin enantio-enriched form is a great challenge. Professor Qilin Zhou's team in Nankai University in China\ndeveloped a series of chiral spiro catalysts with high activity, raising the efficiency of asymmetric synthe-\nsis to a new height, and being widely used in the pharmaceutical industry. These catalysts can give up\nto (reach up to) 99.9% ee and can be used down to 0.00002 mol% loading. This research result won the\nfirst prize of the 2019 National Natural Science Award of China.\n\nNote:\n\nAr = 3, 5-(𝑡 Bu)2 C6 H3\n\nPart A\n\nThe synthetic route of the chiral ligand SpiroPAP is shown in the following scheme.\n\nTheory\n\n     Note:\n\n               𝑡\n     Ar = 3, 5-( Bu)2 C6 H3\n\n    8.1      Draw the structures of 1, 2, 4, 5. (Stereochemistry is not considered)           16.0 pt\n\n    8.2      From the following reagents, which reagent A can NOT be used for the trans-      2.0 pt\n             formation of 8 to 9?\n             (a) NaBH(OAc)3\n             (b) NaBH3 CN\n             (c) NH2 NH2 , NaOH\n             (d) NaBH4\n\nThe racemic spiro compound 6 reacts with (–)-menthyl chloroformate (10) to generate compounds 11a\nand 11b, which can be separated by column chromatography, followed by hydrazinolysis to obtain opti-\ncally pure (+)-6 and (–)-6.\n\nTheory\n\n     Note:\n\n    8.3      Choose the correct statement below.                                             2.0 pt\n             (a) Compounds 11a and 11b are a pair of enantiomers.\n             (b) Compounds 11a and 11b are a pair of diastereomers.\n             (c) Compounds 11a and 11b are a pair of cis-trans isomers.\n             (d) Compounds 11a and 11b are a pair of conformational isomers.\n\nPart B\n\nThe Ir-SpiroPAP was prepared by reaction of SpiroPAP with [Ir(cod)Cl]2 (cod is cycloocta-1,5-diene) in\nMeOH under hydrogen as shown below.\n\nTheory\n\nNote:\n\n           𝑡\nAr = 3, 5-( Bu)2 C6 H3\n\n     8.4       Write the oxidation number of Ir in the catalyst Ir-SpiroPAP.                      2.0 pt\n\n     8.5       Write the number of valence electrons of d orbitals for metal Ir in the catalyst   2.0 pt\n               Ir-SpiroPAP.\n\nThe chiral spiro catalyst Ir-SpiroPAP was used for the asymmetric total synthesis of Mulinane-type diter-\npene 22 as shown below.\n\n     8.6       Draw the structures of 15 and 16, including the appropriate stereochemistry.       8.0 pt\n\nTheory\n\n  8.7    From the following reagents, choose the best for B.            2.0 pt\n         (a) MeLi/CeCl3\n         (b) MeLi/CuI\n         (c) MePh3 P+ I– , 𝑛 BuLi\n         (d) Me3 S+ I– , NaH\n\n  8.8    From the following reagents, choose the best for C.            2.0 pt\n         (a) MeLi/CeCl3\n         (b) MeLi/CuI\n         (c) MePh3 P+ I– , 𝑛 BuLi\n         (d) Me3 S+ I– , NaH",
+   "parts": [
+    {
+     "id": "8.1",
+     "points": 16,
+     "question": "Draw the structures of 1, 2, 4, 5. (Stereochemistry is not considered)",
+     "reference": ""
+    },
+    {
+     "id": "8.2",
+     "points": 2,
+     "question": "From the following reagents, which reagent A can NOT be used for the transformation of 8 to 9? (a) NaBH(OAc)3 (b) NaBH3 CN (c) NH2 NH2 , NaOH (d) NaBH4",
+     "reference": ""
+    },
+    {
+     "id": "8.3",
+     "points": 2,
+     "question": "Choose the correct statement below. (a) Compounds 11a and 11b are a pair of enantiomers. (b) Compounds 11a and 11b are a pair of diastereomers. (c) Compounds 11a and 11b are a pair of cis-trans isomers. (d) Compounds 11a and 11b are a pair of conformational isomers.",
+     "reference": ""
+    },
+    {
+     "id": "8.4",
+     "points": 2,
+     "question": "Write the oxidation number of Ir in the catalyst Ir-SpiroPAP.",
+     "reference": ""
+    },
+    {
+     "id": "8.5",
+     "points": 2,
+     "question": "Write the number of valence electrons of d orbitals for metal Ir in the catalyst Ir-SpiroPAP.",
+     "reference": ""
+    },
+    {
+     "id": "8.6",
+     "points": 8,
+     "question": "Draw the structures of 15 and 16, including the appropriate stereochemistry.",
+     "reference": ""
+    },
+    {
+     "id": "8.7",
+     "points": 2,
+     "question": "From the following reagents, choose the best for B. (a) MeLi/CeCl3 (b) MeLi/CuI (c) MePh3 P+ I– , 𝑛 BuLi (d) Me3 S+ I– , NaH",
+     "reference": ""
+    },
+    {
+     "id": "8.8",
+     "points": 2,
+     "question": "From the following reagents, choose the best for C. (a) MeLi/CeCl3 (b) MeLi/CuI (c) MePh3 P+ I– , 𝑛 BuLi (d) Me3 S+ I– , NaH",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Total Synthesis of Capitulactone",
+   "weight": 9.1,
+   "total": 9.2,
+   "statement": "Theory\n\nTotal Synthesis of Capitulactone\n\n                                 Points     24    2    16     2      44\n                                 Score\n\nThe plant of Curculigo capitulata grows in the Southern China and has long been used in traditional Chi-\nnese herbal medicine for the treatment of many diseases. Capitulactone (1) was isolated from the roots\nof Curculigo capitulata. Its structure with absolute configuration was unambiguously established by a\ncombination of spectroscopic data and total synthesis.\n\nThe total synthesis of 1 began with the iodination of commercially available 4-bromoveratrole 2 through\na key intermediate 12 as shown in the following scheme.\n\nTheory\n\nNote:\n\ncat = catalyst\n\n     9.1     Draw the structures of compounds 3-5, 8, 9 and 11 and show the stereochem-    24.0 pt\n             istry of any stereocenters.\n\nTheory\n\n(R)-Epichlorohydrin (7) was prepared from (+)-mannitol (13) through a route as shown below.\n\nNote:\n\nconc = concentrated\n\nTheory\n\n    9.2     From the following conditions, choose the best for A.                            2.0 pt\n            (a) Pyridine\n            (b) 5% KOH/H2 O\n            (c) 1% HCl/H2 O\n            (d) Anhydrous ZnCl2\n\n    9.3     Draw the structures of intermediate products 15, 16, 18 and 19 and show the      16.0 pt\n            stereochemistry of any stereocenters.\n\nThe diketal 14 can also be prepared by treating (+)-mannitol (13) with 2-methoxypropene (23) in the\npresence of catalytic amount of tolunesulfonic acid (TsOH) in anhydrous toluene. The model reaction is\nshown below.\n\n    9.4     The proposed mechanism for this reaction involves key intermediates (I-V) as     2.0 pt\n            shown above, choose the correct order of the formation of the key intermedi-\n            ates during the reaction process.\n            (a) I, II, III, IV, V\n            (b) III, II, I, V, IV\n            (c) III, I, II, IV, V\n            (d) III, I, II, V, IV",
+   "parts": [
+    {
+     "id": "9.1",
+     "points": 24,
+     "question": "Draw the structures of compounds 3-5, 8, 9 and 11 and show the stereochemistry of any stereocenters.",
+     "reference": ""
+    },
+    {
+     "id": "9.2",
+     "points": 2,
+     "question": "From the following conditions, choose the best for A. (a) Pyridine (b) 5% KOH/H2 O (c) 1% HCl/H2 O (d) Anhydrous ZnCl2",
+     "reference": ""
+    },
+    {
+     "id": "9.3",
+     "points": 16,
+     "question": "Draw the structures of intermediate products 15, 16, 18 and 19 and show the stereochemistry of any stereocenters.",
+     "reference": ""
+    },
+    {
+     "id": "9.4",
+     "points": 2,
+     "question": "The proposed mechanism for this reaction involves key intermediates (I-V) as shown above, choose the correct order of the formation of the key intermediates during the reaction process. (a) I, II, III, IV, V (b) III, II, I, V, IV (c) III, I, II, IV, V (d) III, I, II, V, IV",
+     "reference": ""
+    }
+   ]
+  }
+ ]
+}

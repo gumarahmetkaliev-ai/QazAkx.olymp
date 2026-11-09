@@ -2,7 +2,7 @@
  * Chat API Endpoint for QazAkx.olymp
  */
 
-const { handleChat } = require("./lib/ai-service");
+const { handleChat } = require("./_lib/ai-service");
 
 async function getParsedBody(req) {
   if (req.body && typeof req.body === "object") return req.body;

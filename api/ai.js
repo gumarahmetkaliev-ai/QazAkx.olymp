@@ -7,7 +7,7 @@ const {
   handleChat,
   checkChemistrySolution,
   getAIHealth,
-} = require("./lib/ai-service");
+} = require("./_lib/ai-service");
 
 // Helper to parse JSON body across different server environments
 async function getParsedBody(req) {

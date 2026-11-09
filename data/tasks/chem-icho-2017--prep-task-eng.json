@@ -1,0 +1,647 @@
+{
+ "setId": "chem-icho-2017--prep-task-eng",
+ "olympiadId": "chem-icho-2017",
+ "title": "Химия → IChO (международная) → 2017",
+ "materialLabel": "Подготовительные (Задачи на английском)",
+ "lang": "en",
+ "tasksFile": "olympiads/chemistry/s/icho/2017/prep_task_eng.pdf",
+ "solutionFile": "olympiads/chemistry/s/icho/2017/prep_sol.pdf",
+ "generatedBy": "parser",
+ "generatedAt": "2026-11-08T16:59:28.476Z",
+ "quality": {
+  "tasks": 33,
+  "parts": 45,
+  "withPoints": 45,
+  "withReference": 45,
+  "withQuestion": 45,
+  "estimatedPoints": 45
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Dimerization of Acetic Acid",
+   "weight": null,
+   "total": 10,
+   "statement": "Ethanoic acid or acetic acid (CH3COOH) is partially dimerized into dimers in the vapor\nphase. At a total pressure of 0.200 atm, ethanoic acid is 92.0% dimerized at 298 K. By increasing\nthe temperature to 318 K, the degree of dimerization is lowered, with Kp = 37.3.\n\n       1.1) Calculate the enthalpy and the entropy changes for the reaction, assuming that ΔHo\nand ΔSo do not vary with temperature.\n\n        1.2) Applying the Le Chatelier’s principle, an increase of pressure should (select one\ncorrect answer)\n        ⃝ favor the dimerization.\n        ⃝ not favor the dimerization.\n\n        1.3) Continued from question 1.2, the extent of dimerization (select one correct answer)\n        ⃝ decreases with increasing the temperature.\n        ⃝ increases with increasing the temperature.",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "1.1) The reaction can be represented as 2CH3COOH ⇌ (CH3COOH)2.\nIf we begin with, say, 100.0 mol CH3COOH and 92.0% dimerizes, then 8.0 mol will be present\nat equilibrium. The 92.0 mol that react give rise to 46.0 mol dimers. The total number of moles\npresent is therefore 54.0. Hence using the data at 298 K, the equilibrium constant, Kp, is given by\n        P(CH COOH )           X (CH COOH ) Ptot\n              3         2            3          2         ( 46 .0 / 54 .0)(0.200 )\nKp                                                                               194\n                         2                          2                           2\n        ( PCH COOH )          ( X CH COOH Ptot )         [(8.0 / 54 .0)(0.200 ]\n              3                      3\nFrom equation G = -RT ln Kp,\n                  o\n\nAt 298 K,      Go = -RT ln Kp\n                    = -(8.314 J K-1mol-1)(298 K) ln (194)\n                    = -13.0 kJ mol-1\nAt 318 K,      Go = -RT ln Kp\n                    = -(8.314 J K-1mol-1)(318 K) ln (37.3)\n                    = -9.57 kJ mol-1\nApplying the equation Go = Ho-TSo:\nThe method for the calculation is to write the two equations\n               Go(298 K)= -13.0 kJ mol-1 = Ho- (298) So\n               Go(318 K)= -9.57 kJ mol-1 = Ho- (318) So\nand solve the equations simultaneously.\nThen Ho = -64.1 kJ mol-1 and So = -170 J K-1 mol-1.\n\n1.2) Applying the Le Chatelier’s principle, an increase of pressure should\n        favor the dimerization.\n       ⃝ not favor the dimerization.\n\n1.3) The extent of dimerization\n        decreases with increasing the temperature.\n       ⃝ increases with increasing the temperature.\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                   4",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Solubility of Calcite",
+   "weight": null,
+   "total": 10,
+   "statement": "Calcite is a stable form of calcium carbonate (CaCO3). The solubility product (Ksp) is\ndecreased with increasing temperature; Ksp are 9.50 × 10-9 and 2.30 × 10-9 at 0 C and 50 C,\nrespectively. Estimate the enthalpy change for the solubility process of calcite.",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "According to Gosol = -RT ln Ksp = Hosol -TSosol,\nwe have ln Ksp = -Hosol/(RT) + Sosol/R.\nAssuming that Hosol and Sosol are temperature-independent,\nln (Ksp1/Ksp2) = -Hosol/R (1/T1-1/T2)\nln (9.50/2.30) = -Hosol/R (1/273 – 1/323)\nSolving this equation to get Hosol = -21 kJ mol-1.",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Expansion of Ideal Gas and Thermodynamics of Liquid Mixing",
+   "weight": null,
+   "total": 10,
+   "statement": "3.1) A quantity of 0.10 mol of an ideal gas A initially at 22.2 oC is expanded from\n0.200 dm3 to 2.42 dm3. Calculate the values of work (w), heat (q), internal energy change (U),\nentropy change of the system (Ssys), entropy change of the surroundings (Ssurr), and total entropy\nchange (Suniv) if the process is carried out isothermally and irreversibly against an external\npressure of 1.00 atm.\n\n        3.2) If 3.00 mol of A is condensed into liquid state and is mixed with 5.00 mol of liquid B,\ncalculate the changes in entropy and Gibbs free energy upon such mixing at 25.0 C. This mixture\ncan be assumed to be ideal.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                    13",
+   "parts": [
+    {
+     "id": "3.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "3.1) U = 0, q = -w\nw = -(1.00 atm)(2.42-0.200 dm3)(101.325 J dm-3 atm-1)\n  = -225 J\nq = 225 J\nSsurr = -225 J/295.4 K = -0.762 J K-1\nSsys =[(0.100 mol)(8.3145 J mol-1 K-1) (295.4 K) ln(2.42 dm3/0.200 dm3)]/(295.4 K) = 2.07 J K-1\nSuniv = 2.07 + (-0.762) = 1.31 J K-1\n\n3.2) Hmix = Vmix = 0\nThe other functions are given by these equations:\n     mix                             mix\nG          RT  xi ln xi and S            R  xi ln xi .\n                i                                i\nThe mole fraction of A is 3.00/(3.00+5.00) = 0.375.\nThe mole fraction of B is 1.000-0.375 = 0.625.\n                        -1\nG mix = (8.314 J mol        K-1)(298.0 K){0.375ln(0.375)+0.625ln(0.625)} = -1639 J mol-1\n                         -1\nS mix = -(8.314 J mol        K-1){0.375ln(0.375)+0.625ln(0.625)} = 5.50 J K-1 mol-1\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                5",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Vibrational Frequency of a Diatomic Molecule",
+   "weight": null,
+   "total": 10,
+   "statement": "For the vibrational motion of a diatomic molecule using a harmonic oscillator model, the\nallowed vibrational energy levels can be described as\n                                 1\n                           E    h          ;   0, 1, 2, ...\n                                 2\nwhere υ is the vibrational quantum number and ν is the vibrational frequency. The vibrational\nfrequency represented by the harmonic oscillator model is\n                      1     k\n                              , where k is the force constant and μ is the reduced mass.\n                      2    \n        For molecule CX, where X is an unknown atom, the vibrational absorption energy from\nvibrational ground state to the first vibrational excited state is 2170.0 cm-1 and the force constant\nis 1.903 × 103 kg s-2.\n        4.1) Find the reduced mass of CX in amu.\n\n        4.2) What is atom X?",
+   "parts": [
+    {
+     "id": "4.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "4.1) To find the reduced mass of CX, μCX:\n          1\nE 0   0  h  1 h\n          2      2\n       1\nE1  1  h  3 h\n       2         2\n                3 1\nE  E1  E 2    h  h\n                2 2\n       1      1          k           1    k\nE  hc   h                 ; \n            2                    2    \n\n 1 1           k\nc  \n    2        \n                      2\n              1\nk  4 c   \n         2   2\n\n              \n           k\n                2\n             1\n    4 2 c 2  \n              \n                      1.903  10 3\n\n    4(3.14) 2 (2.9979  1010 cm  s 1 ) 2 2170.0 cm-1 \n                                                         2\n\nμ  1.140  10 -26 kg  6.866 amu\n  6.866 amu\n\n4.2) To find mass of the atom X, mx:\n\n       mC mX\nCX \n      mC  mX\n CX (mC  m X )  mC m X\n CX mC   CX m X  mC m X\nmC m X   CX m X   CX mC\n         CX mC\nmX \n        mC  CX\n       6.866  12.011 82.47 =16.03\nmX                  \n       12.011  6.866 5.145\nThus, atom X should be oxygen.\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017   6",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Water-gas-shift Reaction",
+   "weight": null,
+   "total": 2,
+   "statement": "In a drive toward cleaner energy production, fuel cell holds great promise because of its\ncapability of generating electricity directly from chemical reactions with environmentally-benign\nbyproducts. In particular, for hydrogen fuel cell, the only waste produced by the device is just\nwater.\n\n        In order to use fuel cell at an industrial scale, continuous production of hydrogen that\ndirectly feeds into a fuel cell module is required. One option to mass produce hydrogen for this\npurpose is the conversion of hydrocarbon fuel using hot steam. However, this kind of reaction\noften leads to mixed products that consist of H2, CO2, and CO. Moreover, CO is not only hazardous\nto human health, but it also degrades fuel cell’s active material. The reversible water-gas-shift\n(WGS) reaction, CO + H2O ⇌ CO2 + H2, provides one method of converting toxic CO into CO2\nand useful H2. The efficiency of this reaction strongly depends on the solid catalyst used.\n\n       5.1) In one process, an equimolar mixture of CO and steam is continuously passed to a\nWGS reactor containing catalyst at atmospheric pressure and 0 °C. Assuming that the catalyst is\n95.0% efficient in converting the reactants into the products and that the reaction in the reactor is\napproximately at equilibrium in this condition, estimate the free energy change for this reaction?\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                   14\n\n       5.2) Now assume that a large surface of catalyst is initially available to reacting molecules,\nand the rate of reaction is measured immediately at the onset of the reaction. Below are the initial\nrates measured at different initial pressures of CO and H2O.\n                                                  PH 2O , atm     dPH 2\n                   Trial       PCO , atm                                   , atm s-1\n                                                                        dt\n                         1         0.10            0.90             4.0 × 10-4\n\n                         2         0.15            0.85             5.6 × 10-4\n\n                         3         0.25            0.75             8.2 × 10-4\n\n                         4         0.28            0.72                 X\n\n        What is X?\n\n                                                                                             dPH 2\n        5.3) In another condition where the pressure of hydrogen is found to be 0.50 atm,\n                                                                                                  dt\n           -7       -1\n= 3.0 × 10 atm s . According to the information given in questions 5.1, 5.2, and this question,\nestimate the rate of hydrogen production when the pressures in the reactor of CO, H 2O, CO2, and\nH2 are 0.14, 0.14, 0.36, and 0.36 atm, respectively. (Give your answer to three significant figures.)\n\n        5.4) Calculate the Gibbs free energy change for the conditions described in question 5.3.\n\n        5.5) Surface coverage, θ, is an important kinetics parameter, especially for reactions on\nsolid surfaces. It can be defined as the number of adsorbed molecules on a surface divided by the\ntotal number of adsorbing sites on that surface. For WGS, after the adsorption of CO and H2O on\nthe catalyst’s surface, a carbonyl intermediate can be formed, which then dissociates to give\nsurface-bound CO2 and H atom. If the carbon dioxide is produced at a rate of\n1.0 × 1011 molecules s-1 cm-2 with associated rate constant of 2.0 × 1012 molecules s-1 cm-2,\nwhat is the value of θ for this intermediate?",
+   "parts": [
+    {
+     "id": "5.1",
+     "points": 2,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "nH 2                   0.475\n5.1) The mole fraction of H2 in the reactor, X H 2 =                                              = 0.475.\n                                                           n H 2  nCO2  n H 2O  nCO        1 .0\nThus, PH 2  X H 2 Ptotal = (0.475)(1.00 atm) = 0.475 atm.\nAnd likewise, PCO2 = 0.475 atm and PH 2O = PCO = 0.025 atm\n      PH 2 PCO2       (0.475 )(0.475 )\nK                                    = 3.6 × 102\n      PH 2O PCO       (0.025 )(0.025 )\nTherefore, Go = -RT ln K = -(8.314 J K-1 mol-1)(273 K) ln(3.6 × 102) = -13.4 kJ mol-1.\n\n5.2) The kinetics data given reflects the forward rate of the WGS reaction. The only rate law that\nis consistent with the given data is r f  k f PCO PH 2O , and kf = 4.4 × 10-3 atm-1 s-1.\n\nThus, X = (4.4 × 10-3 atm-1 s-1)(0.28 atm)(0.72 atm) = 8.9 × 10-4 atm s-1.\n\n5.3) kb = kf /K = (4.4 × 10-3 atm-1 s-1)/(3.6 × 102) = 1.2 × 10-5 atm-1 s-1.\nSo during the normal course of the reaction,\nr  r f  rb  k f PCO PH 2O  k b PCO2 PH 2 = (4.4 × 10-3 atm-1 s-1)(0.14 atm)(0.14 atm)–(1.2 × 10-5 atm-1 s-1)\n(0.36 atm)(0.36 atm) = 8.44 × 10-5 atm s-1.\n\n                                                                            (0.36 )(0.36 ) \n5.4) G = Go + RT ln Q = (-13.4 kJ mol-1) + (8.314 J mol-1 K-1)(273 K) ln                  = -9.1\n                                                                             (0.14 )(0.14 ) \nkJ mol-1\n\n5.5) The reaction CO2H(ads) → CO2(ads) + H(ads) is first-order, whose rate can be expressed as\nrate = k[CO2H] = k  S0 = k′  , where S0 denotes the maximum number of adsorbed intermediates\nfor this surface.\nThus, θ= rate/k′ = (1.0 × 1011 molecules s-1 cm-2)/(2.0 × 1012 molecules s-1 cm-2) = 0.050.\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                               7",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Camphor in Benzene",
+   "weight": null,
+   "total": 10,
+   "statement": "The vapor pressure of pure benzene (C6H6) is 100 torr at 26.1 oC. Calculate the vapor\npressure and the freezing point of a solution containing 24.6 g of camphor (C10H16O) dissolved in\n100 cm3 of benzene. The density of benzene is 0.877 g cm-3. The freezing point and the cryoscopic\nconstant (Kf) of pure benzene are 5.50 oC and 5.12 oC kg mol-1, respectively.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                       15",
+   "parts": [
+    {
+     "id": "6.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "Xben = nben/(nben + ncam)\nnben = (100 cm3)(0.877 g cm-3)(1 mol/78.1 g) = 1.12 mol\nncam = (24.6 g)(1 mol/152.2 g) = 0.162 mol\nXben = (1.12 mol)/(1.12 mol + 0.162 mol) = 0.874\nPben = (Xben)(Poben ) = (0.874)(100 torr) = 87.4 torr\n\nmassben = (100 cm3)(0.877 g cm-3)(1 kg/1000 g) = 0.0877 kg\n\nmolality of camphor in solution = 0.162 mol camphor/0.0877 kg benzene = 1.85 mol kg-1\nΔT = Kf m = (5.12 oC kg mol-1)(1.85 mol kg-1) = 9.46 oC\nSince pure benzene freezes at 5.50 oC, the solution will freeze at -3.96 oC.",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Gas and Liquid",
+   "weight": null,
+   "total": 10,
+   "statement": "7.1) At temperatures above the boiling point, A behaves like an ideal gas. In a hypothetical\nsituation, Jacques Charles performed an experiment about the volume-temperature relationship\nand obtained the following result (which is not necessarily drawn to scale):\n\n        What is the volume of A at 100 oC?\n\n       7.2) At equilibrium, the vapor pressures above liquids B and C are 100.1 kPa and\n60.4 kPa, respectively. The two liquids B and C are mixed thoroughly at 298 K. What is the vapor\npressure above a mixture containing 3 mol B and 4 mol C?\n\n        7.3) What are the mole fractions of B and C above the mixture explained in question 7.2?",
+   "parts": [
+    {
+     "id": "7.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "7.1) According to the graph, the volume becomes zero at T = -100 oC. This means that the absolute\ntemperature should be calculated as T (K) = oC + 100 (not T (K) = oC + 273.15).\n\nIf V1 = 15 cm3, T1 = -50 oC + 100 = 50 K, and T2 = 100 oC + 100 = 200 K, then we have\n(15 cm3/50 K) = (V2/200 K).\nTherefore, V2 = (15 cm3)(200 K)/(50 K) = 60 cm3.\n7.2) From Dalton’s law, the total vapor pressure is the sum of the individual vapor pressures:\n                Ptotal = PB + PC                                           (1)\n\nUsing the Raoult’s law, the total pressure may be obtained by substituting each P term with\nPi  Xi, where Pi is vapor pressure above pure liquid i and Xi is mole fraction of liquid i:\n                            o            o\n                Ptotal = ( PB  XB) + ( PC  XC)                           (2)\n\nWe know from the question that there are 7 mol of liquid. We obtain the respective mole fractions\nX: the mole fraction of B is 3/7 and the mole fraction of C is 4/7.\nSubstituting values of Xi and Pi into equation (2) yields the total pressure Ptotal as follows\n\n                Ptotal    = (100.1 kPa  3/7) + (60.4 kPa  4/7)\n                          = (42.9 kPa) + (34.5 kPa)\n                So Ptotal = 77.4 kPa\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                  8\n\n7.3) From the definition of mole fraction X, we say\n\n                                        moles of B in the vapor\n                 X vapor B \n                               total number of moles in the vapor phase\n\nThe number of moles ni are directly proportional to the partial pressure Pi if we assume that each\nvapor behaves as an ideal gas (we assume here that T and V are constant). Accordingly, we say\n                           pressure of B\n               X vapor B \n                           total pressure\nSubstituting numbers from question 7.2:\n                               42.9 kPa\n                 X vapor B              0.554\n                               77.4 kPa\nThe mole fraction of B in the vapor is 0.554, so it contains 55.4% B. The remainder of the vapor\nmust be C, so the vapor also contains (100-55.4)% = 44.6% of C.\nNote that the liquid phase comprises 43% B and 57% C, but the vapor contains proportionately\nmore of the volatile B. We should expect the vapor to be richer in the more volatile component.",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Decomposition of Nitrous Oxide",
+   "weight": null,
+   "total": 10,
+   "statement": "Nitrous oxide decomposes exothermically into nitrogen and oxygen, at a temperature of\napproximately 565 °C.\n        2N2O  2N2(g) + O2(g)\nThis reaction follows the second-order kinetics when carried out entirely in the gas phase.\n\n       8.1) If the reaction is initiated with [N2O] equal to 0.108 mol dm-3, what will its\nconcentration be after 1250 s have elapsed at 565 °C? The rate constant for the second order\ndecomposition of N2O is 1.10 × 10-3 dm3 mol-1 s-1 at this temperature.\n\n        8.2) The activation energy for the second order reaction at 565 °C is 234 kJ mol-1. What is\nthe rate constant for the reaction at 600 oC?\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                  16",
+   "parts": [
+    {
+     "id": "8.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "8.1) Because the reaction is second order, therefore\n                   1              1\n                         -                  = (1.10 × 10-3 dm3 mol-1 s-1) (1250 s)\n               [ N 2 O] t 0.108 mol dm   -3\n\n               [N2O]t = 0.0940 mol dm-3\n8.2) Using Arrhenius equation,\n                                   k2                     234  10 3 J mol -1    1     1 \n                ln                                   =-                             -      \n                     1.10  10 -3 dm 3 mol -1 s -1        8.314 J K -1 mol -1  873 K 838 K \n\n                               k2 = 4.23 × 10-3 dm3 mol-1 s-1\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                  9",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Avogadro’s Number",
+   "weight": null,
+   "total": 10,
+   "statement": "An internationally accepted procedure is as follows.\n\n        We start with a “perfect” sphere of pure 28Si isotope. The weight of this sphere is W g. The\nvolume V of the sphere is found from the accurate measurement of the diameter of the sphere. The\nunit cell of a crystal of silicon is a “diamond cubic lattice”, i.e. a face-centered unit cell but with\n4 Si atoms inside the cube. The length of the unit cell can be determined precisely from X-ray\ncrystallographic measurements of a single crystal of 28Si isotope.\n        The experimental data are as follow:\n        Weight of sphere, W: 1000.064 543(15) g\n        Volume of sphere: 431.049 110(10) cm3\n        Length of unit cell, α: 543.099 619(20) pm\n        Atomic weight of 28Si, A: 27.976 970 029(23) g mol-1\n        Number of Si atoms in unit cell, n:\n\n      9.1) Write down the equation for calculating Avogadro’s number NA in terms of the\nparameters.\n\n        9.2) How many silicon atoms are in the unit cell?\n\n        9.3) Calculate Avogadro’s number using the above data. Give answer to 7 significant\nfigures.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                     17",
+   "parts": [
+    {
+     "id": "9.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "9.1)    Let v = α3, the volume of the unit cell\n        The number of unit cell in volume V of the silicon sphere = (V/v)\n        If n is the number of silicon atoms in the unit cell, the number of silicon atoms in silicon\n        sphere = n(V/v)\n        The number of moles of Si in the sphere = (W/A)\n        The number of silicon atoms in sphere = moles x NA.\n        i.e.             (W/A).NA = n(V/v)\n                         NA = n(V/v).(A/W)\n\n9.2) For a face-centered unit cell, the number of atoms at the 8 corners of cell = 8; the number\nat the 6 faces = 6. Each corner has (1/8) of atom in unit cell and each face has (1/2) of atom. Thus\ntotal number of Si atoms in unit cell = 8x(1/8) + 6x(1/2) + 4 = 1 + 3 + 4 = 8.\n        n = 8\n\n9.3)    The volume v of the unit cell must be in unit of cm3.\n        1 pm = 10-12 m = 10-10 cm\n        NA = 6.022 141 x 1023",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Buffer from Biological Acid: Lysine",
+   "weight": null,
+   "total": 10,
+   "statement": "Acid Dissociation Constants\n        10.1)\n\n            Name             Carboxylic acid pKa    Ammonium pKa           Substituent pKa\n\n           Lysine                     2.16                9.06                   10.54\n\n        One of essential amino acids, lysine, is normally depicted using the molecular structure\nbelow: Note that the amine group on the left is part of the substituent group. Is lysine likely to\nexist in this form when dissolved in neutral aqueous solution? If not, write the correct form.\n\n       10.2) Draw the molecular structures for dominant forms of lysine that are present in\naqueous solution and arrange them in order from the most acidic form to the most basic form. Use\nNa+ or Cl- to balance the charge. Label each structure with the name of the compound.\n\n       10.3) To prepare buffer solution, you start with the most acidic form of lysine that has the\nconcentration of 0.100 mol dm-3 with the volume of 100 cm3. How many cm3 of 0.500 mol dm-3\nKOH should you add to obtain a pH of 9.5?\n\n      10.4) Dissolve 5.00 g of the neutral zwitterion form of lysine in 100.0 cm3 of pure water.\nDetermine pH of the solution once equilibrium is reached.\n\n        10.5) Determine the equilibrium concentrations of all other forms of lysine present in the\nsolution prepared in question 10.4.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                 18",
+   "parts": [
+    {
+     "id": "10.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "Acid Dissociation Constants\n10.1)\n\n        No, the correct form is shown:\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                    10\n\n10.2)\n\n10.3) Given that         H3L2+ : the most acidic form\n                         H2L+ : the first intermediate form\n                         HL : the second intermediate form\n                         L-: the most basic form\n        CH3 L2+ = [H3L2+] + [H2L+] + [HL] + [L-] = 0.1 mol dm-3\n\n        total mol of H3L2+ = (0.100 mol dm-3)(0.1 dm3) = 0.01 mol\n\n        total mol of H3L2+ = (mol H3L2+) + (mol H2L+) + (mol HL) + (mol L-) = 0.01 mol\n\n        At pH = 9.5, [H+] = 10-9.5 mol dm-3\n\n        At pH = 9.5, the equilibrium moles of all forms can be calculated as follow;\n                                                      [𝐻 + ]3\n        mol H3L2+ = total molH3 L2+ ([𝐻+]3 +𝐾 [𝐻+ ]2 +𝐾 𝐾 [𝐻 +]+𝐾 𝐾 𝐾 ) = 1.14 × 10−8 mol (negligible)\n                                               1          1 2        1 2 3\n\n                                                   𝐾 [𝐻 + ]2\n        mol H2L+ = total molH3 L2+ ([𝐻+]3 +𝐾 [𝐻+]21+𝐾 𝐾 [𝐻 +]+𝐾 𝐾 𝐾 ) = 2.497 x 10-3 mol\n                                              1          1 2        1 2 3\n\n                                                   𝐾1 𝐾2 [𝐻 + ]\n        mol HL = total molH3 L2+ (                                            ) = 6.88 x 10-3 mol\n                                   [𝐻 + ]3 +𝐾1 [𝐻 + ]2 +𝐾1 𝐾2 [𝐻 + ]+𝐾1 𝐾2 𝐾3\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                          11\n\n                                                         𝐾 𝐾 𝐾\n        mol L- = total molH3 L2+ ([𝐻+]3 +𝐾 [𝐻+ ]2 1+𝐾2 𝐾3 [𝐻 +]+𝐾 𝐾 𝐾 ) = 6.27 x 10-4 mol\n                                                   1         1 2         1 2 3\n\nTitration reaction to convert H3L2+ to the desired forms;\n\n        H3L2+ + OH-  H2O + H2L+\n\n        H2L+ + OH-  H2O + HL\n\n        HL + OH-  H2O + L-\n\n        mol of KOH required = (2.497 x 10-3) + 2(6.88 x 10-3) + 3(6.27 x 10-4)\n\n                                           = 1.814 x 10-2 mol\n                                              1000 cm3\n        cm3 of KOH required = = ( 0.5 𝑚𝑜𝑙 )(1.813 x 10−2 𝑚𝑜𝑙) = 36.28 cm3\n\n10.4) In this case, Ka1 is carboxylic acid Ka, Ka2 is ammonium Ka, and Ka3 is substituent Ka.\n        HL is the second intermediate form\n                   𝐾 𝐾 [𝐻𝐿]+𝐾𝑎2 𝐾𝑤\n        [H+] = √ 𝑎2 𝑎3\n                      𝐾𝑎2 +[𝐻𝐿]\n\n        Since Ka2 and Ka3 are small;\n                              1 𝑚𝑜𝑙\n                 (5.00 𝑔)(            )\n                             146.19 𝑔\n        [HL] =        0.100 dm3\n                                          = 0.342 mol dm-3\n\n                  [10−9.06 10−10.54 (0.342)]+[10−9.06 10−14 )\n        [H+] = √               10−9.06 +0.342\n                                                              = 1.59𝑥10−10 mol dm-3\n\n        pH = 9.80\n\n        The alternative calculation is pH = (pKa2 + pKa3)/ 2 = (9.06 + 10.54)/2 = 9.80.\n\n10.5) 𝐻𝐿         𝐿− + 𝐻 +                                    Ka3 = 10-10.54\n                                                                   𝐾       10−14\n        𝐻𝐿 + 𝐻2 𝑂              𝐻2 𝐿+ + 𝑂𝐻 −                  Kb2 = 𝐾𝑊 = 10−9.06 = 1.15 × 10−5\n                                                                    𝑎2\n\n        From question 10.4; [H+] = 1.59𝑥10−10 mol dm-3\n                  𝐾             10−14\n        [OH-] = [𝐻𝑊+ ] = 1.59𝑥10−10 = 6.29 × 10−5 mol dm-3\n\n        At equilibrium;\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                 12\n\n                                                           𝐾 𝐾 [𝐻 + ]\n        [HL]                        = 𝐶𝐻𝐿 ([𝐻+]3 +𝐾 [𝐻+]21+𝐾\n                                                           2\n                                                             𝐾 [𝐻 + ]+𝐾 𝐾 𝐾\n                                                                            )\n                                                       1         1 2     1 2 3\n\n                                    Where; CHL=0.342 M\n        [HL] = 0.250 M\n                             [𝐿− ][𝐻 + ]\n        Ka3 =                  [𝐻𝐿]\n\n                                        𝐾𝑎3 [𝐻𝐿]   10−10.54 (0.250)\n         [L-] =                         [𝐻 ]+   =   1.59𝑥10−10\n                                                                    = 0.0453 mol dm-3\n\n                             [𝐻2 𝐿+ ][𝑂𝐻 − ]\n        Kb2 =                     [𝐻𝐿]\n\n                                            𝐾   [𝐻𝐿]   1.15×10−5 (0.25)\n         [H2L+] = [𝑂𝐻\n                    𝑏2\n                       −] =                               6.29𝑥10−5\n                                                                        = 0.0457 mol dm-3\n\n                                                                                 𝐾𝑊    10−14\n        𝐻2 𝐿+ + 𝐻2 𝑂                               𝐻3 𝐿2+ + 𝑂𝐻 −         Kb3 =       = −2.16 = 1.45 × 10−12\n                                                                                 𝐾𝑎1  10\n\n                             [𝐻3 𝐿2+ ][𝑂𝐻 − ]\n        Kb3 =\n                                 [𝐻2 𝐿 + ]\n\n                                            𝐾𝑏3 [𝐻2 𝐿+ ]   1.45×10−12 (0.0457)\n         [H3L2+] =                               −      =                     = 1.05 × 10−9 mol dm-3\n                                              [𝑂𝐻 ]            6.29𝑥10−5",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Amperometric Titration: Titration of Pb2+ with Cr2O72-",
+   "weight": null,
+   "total": 10,
+   "statement": "Amperometry is one of the sensitive electroanalytical methods used for quantitative\ndetermination of electroactive species. A working electrode is held at a certain voltage (vs\nreference electrode) that is suitable for oxidation or reduction of an analyte. The analyte will be\noxidized or reduced at the surface of the working electrode and the current passing through this\nelectrode is measured. This current is directly proportional to the concentration of analyte and is\nused for quantitative purpose. It can be used for detection of titration end-point. In this example\namperometric detection was used for monitoring a titration progress. 20-cm3 of lead (II) ion\nsolution was titrated with 0.0020 mol dm-3 potassium dichromate solution. A dropping mercury\nelectrode (DME) was used as a working electrode and the potential of -0.8 V (vs SCE, saturated\ncalomel electrode) was applied to this electrode for enabling the reduction of lead (II) ion and\ndichromate ion with potassium nitrate as supporting electrolyte. The current-volume of titrant data\nare shown in Table 1.\nReference: Vogel’s Textbook of Quantitative Chemical Analysis, 5th edition, John Wiley & Sons,\nNew York, pp630.\nTable 1. Titration data\n\n                      Volume of 0.0020 mol dm-3\n                                                      Current (microampere)\n                          dichromate (cm3)\n                                   0.00                         9.8\n                                   2.00                         8.0\n                                   4.00                         6.0\n                                   6.00                         4.0\n                                   8.00                         2.2\n                                  10.00                         3.5\n                                  12.00                         5.5\n                                  14.00                         7.6\n                                  16.00                         9.5\n\n        11.1) Plot the titration curve and find the titration end point. (The point where the change\nin the slope of titration curve occurs)\n\n        11.2) Write the titration reaction.\n\n        11.3) Calculate the concentration of lead (II).\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                  19",
+   "parts": [
+    {
+     "id": "11.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "11.1) By extrapolating the two straight lines, the titration end-point is located.\n\n                                   12\n            Current, microampere\n\n                                   10\n\n                                    8\n\n                                    6\n\n                                    4\n\n                                    2\n\n                                    0\n                                        0        5       10         15   20\n                                                  Volume titrant, mL\n\n11.2) Pb2+(aq) + Cr2O72-(aq)                                    PbCr2O7(s)\n\n11.3) mol Pb = mol dichromate\n        0.0020 mol dm-3 x 8.0 cm3 = 20.0 cm3 x Clead\n        Therefore, [lead] = 0.0020 x 8.0 / 20.0 = 8.0x10-4 mol dm-3\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                               13",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Conductometric Titration",
+   "weight": null,
+   "total": 10,
+   "statement": "Conductivity detector is an electrochemical technique which applies alternating current\n(AC) signal to two identical electrodes. The applied AC signal induces ions to move in solution\nand switching of polarity of the AC voltage avoids electrolytic reaction at the electrode. As a result,\nthe mobility of ions in solution relates to the conductivity of ions in solution. Conductivity probe\nwas used in acid-base titration of 25.00 cm3 HCl vs 0.100 mol dm-3 NaOH. The conductivity signal\nwas recorded during NaOH addition. The conductometric titration setup is shown in Fig 1. When\nstandard NaOH solution was dropped under gravity force to the titration cell at 3 drops per second\nand the conductivity value from conductometer recorded, the plot of conductivity of solution vs\ntitration time is shown in Fig 2.\n\n                                                                                              HCl vs NaOH\n                                                                        4000\n\n      NaOH\n                                                                        3000\n                                                  Conductivity, uS/cm\n\n                         Conductometer\n\n                                                                        2000\n\n                             Recorder                                   1000\n\n   HCl                    Conductivity probe                               0\n                                                                               0   50   100   150       200       250   300   350   400\n             Magnetic                                                                          Titration time, second\n              stirrer\n\n Fig 1. Conductometric titration setup.                                 Fig 2. Plot of conductivity of an initial 25.00 cm3\n                                                                                         HCl vs titration time.\n\n         12.1) Explain why the slope of titration curve before and after the turning point is different.\n\n       12.2) Calculate the concentration of HCl, if the volume of NaOH of each drop is\n0.029 cm3 and the turning point is at 108 second.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                                                       20",
+   "parts": [
+    {
+     "id": "12.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "12.1) The conductivity value before turning point comes from the mobility of H + and Cl- from\nHCl. After NaOH was added to the titration vessel, the H+ reacted with OH- and the solution\nconductivity due to H+ decreases. After the turning point, NaOH becomes excess in solution. The\nconductivity value increases with amount of added NaOH. The ion mobility of H+ is higher than\nthat of OH-, hence the slope of titration curve before and after turning point is different.\n12.2) From titration curve, the turning point is the end point, and is at 108 seconds.\n        Flow rate of NaOH = 3 drops / sec.\n        Therefore, the volume of NaOH is 108 x 3 = 324 drops =          324 x 0.029 cm3 = 9.39 cm3\n        The concentration of HCl = 9.39 x 0.100/ 25 = 0.037 mol dm-3.",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Titration of Cu and Zn in Metal Alloy",
+   "weight": null,
+   "total": 10,
+   "statement": "A metal alloy which contains mainly Cu and Zn was analyzed for its metal content.\nAn alloy sample of 2.300 g was placed in a 250 cm3 erlenmeyer flask. To this flask,\n5.00 cm3 of mixed acid (concentrated nitric acid and concentrated hydrochloric acid) was added\nin a fume hood for dissolution of the alloy. The resulting solution was transferred quantitatively\ninto 250 cm3 volumetric flask and adjusted to volume with deionized water.\n\n        A 25.00 cm3 aliquot of sample solution was adjusted to pH 5.5 and titrated with\n0.100 mol dm-3 EDTA solution using 1-(2-pyridinezao)-2-naphthol or PAN as indicator. The\nindicator changed color when 33.40 cm3 0.100 mol dm-3 EDTA was added to the sample solution.\n\n       Another 25.00 cm3 aliquot of sample solution was adjusted to neutral pH and mixed with\nexcess KI. The mixture was then filtered and the resulting solution was titrated against\n0.100 mol dm-3 sodium thiosulfate using starch solution as indicator. The titration required\n29.35 cm3 sodium thiosulfate to reach the endpoint. Note: KSP(CuI) = 1.1 x 10-12\n\n      13.1) Write the oxidative dissolution reaction(s) of an alloy with nitric acid and\nhydrochloric acid.\n\n        13.2) Determine the %w/w of Cu and Zn in alloy.",
+   "parts": [
+    {
+     "id": "13.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "13.1) Cu(s) + 4HNO3(aq)          Cu2+ + 2NO3-(aq) + 2NO2(g) + 2H2O(l)\n        Zn + 2HCl         Zn2+ + H2(g) + 2Cl-\n\n13.2) Total metal by EDTA titration = mol EDTA used = 33.4 x 0.1/1000 = 3.34x10-3 mol\n        Mol Cu by redox titration\n        2Cu2+ + 4I-       CuI(s) + I2\n        I2 + 2S2O32-       2I- + S4O62-\n        mol Cu = mol thiosulfate used = 29.35x0.1/1000 = 2.935x10-3 mol\n        grams Cu = 2.935x10-3 mol x 63.5 = 0.1864 grams in 25.00 mL aliquot\n        Therefore, a 250 cm3 sample solution will contain = 0.1864 x250/25 = 1.864 gram\n        Thus %w/w Cu = 1.864/2.300 x 100 = 81.0 %\n        mol Zn = total metal – Cu = 3.34x10-3 – 2.935x10-3 = 4.05x10-4 mol\n        grams Zn = 4.05x10-4 mol x 65.4 = 2.649x10-2 grams in 25.00 aliquot\n        Therefore, 250 cm3 sample solution will contain = 2.649x10-2 x250/25 = 0.2649 gram\n        Thus %w/w Zn = 0.2649/2.300 x 100 = 11.5 %\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                  14",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Spectrophotometric Determination of Iron",
+   "weight": null,
+   "total": 10,
+   "statement": "To study in vitro gastric digestion of iron, the following procedure is carried out.\nDried and homogeneously ground supplement tablet of 0.4215 g is accurately weighed, mixed\nwith 10 cm3 of water, adjusted to pH 2.0 with 6 mol dm-3 HCl, 0.375 cm3 of pepsin solution\n(16% w/v) added, and adjusted to 12.50 cm3 with 0.01 mol dm-3 HCl. This mixture was\nquantitatively transferred into a dialysis bag of a fixed volume, which is further immersed for\n2 hours in a 20.00 cm3 solution containing 0.01 mol dm-3 HCl. Iron released by gastric digestion\nis dialyzed until the concentration of iron inside and outside the dialysis bag are equal.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                21\n\n                                                                       0.01 mol dm-3 HCl of 20.00 cm3\n\n                                                        Magnetic stirrer\n\n                          Dialysis bag\n\n                           Dried sample of 0.4215 g, mixed with 10 cm3 of water, adjusted\n                           to pH 2.0 with 6 mol dm-3 HCl, added with 0.375 cm3 of pepsin\n                           solution, and adjusted to 12.50 cm3 using with 0.01 mol dm-3 HCl\n\n        To determine the gastric digestible iron from the supplement tablet, colorimetric\nmeasurement after complex formation between ferrous ion (M) and complexing agent (L) is\ncarried out at pH 5.0. The resulting ML3 complex exhibits light absorption at 520 nm, whereas M\nand L do not absorb light at this particular wavelength. Within the visible wavelength region,\nferrous ion (M) does not absorb light, the complex ML absorbs light at X nm with the molar\nabsorptivity of 50 L mol-1 cm-1, and the complex ML2 absorbs light at Y nm with the molar\nabsorptivity of 200 L mol-1 cm-1.\n\n        14.1) The stepwise constants, K1, K2 and K3 , refer to the formation of the complexes one\nstep at a time.\n\n               (i) At equilibrium, the absorbance of the solution (in 1.0-cm cuvette) at X nm is\n0.400. This solution also contains 1 x 10-5 mol dm-3 of M and 2 x 10-6 mol dm-3 of L. Calculate\nthe stepwise formation constant of ML (K1).\n\n                (ii) Then, L is added into the solution. At equilibrium, the absorbance of the\nsolution (in 1.0-cm cuvette) at Y nm is 0.400. This solution also contains 2 x 10-6 mol dm-3 of ML\nand 2 x 10-4 mol dm-3 of L. Calculate the stepwise formation constant of ML2 (K2).\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                         22\n\n                (iii) In an excess of L, all of iron is in the form of ML3.\n        Consider the following table:\n\n             [M], mol dm-3       [L], mol dm-3    Abs (at 520 nm), pathlength (b) = 1 cm\n               6.25 x 10-5        2.20 x 10-2                      0.750\n               3.25 x 10-5        9.25 x 10-5                      0.360\n\n                a) Calculate the molar absorptivity (Ɛ) of ML3 complex\n                b) Calculate the overall formation constant (Kf) of ML3 complex\n                c) Calculate the stepwise formation constant (K3) of the complex\n\n       14.2) The CHN analysis shows that the complexing agent (L) contains 80% C,\n4.44% H, and 15.56% N. The molar mass of this compound is 180 g. Determine the molecular\nformula of L.\n\n        14.3) The Fe2+ complexes, ML, ML2 and ML3, adopt the octahedral structure (assume\nperfect octahedral geometry for each isomer of these three complexes). Sketch the d-orbital\nsplitting diagram for ML3. Draw all possible isomers of Fe2+ complexes. Order the magnitudes of\no (crystal field splitting) of these three complexes and explain.(Spectrochemical series:\nI-< Br-<Cl-≈ SCN-< F- ≈ urea < ONO-≈ OH-< H2O < NCS-< pyridine ≈ NH3< en < bipy <o-phen\n< NO2-< CN-≈ CO)\n\n        14.4) To determine the dialyzable iron concentration (iron outside the dialysis bag),\n5.00 cm3 of the solution outside the dialysis bag is added with a reducing agent to ensure that all\nof dissolved iron is in the ferrous ion form. Then, the solution is adjusted to the suitable pH,\nfollowed by addition of excess amount of complexing agent (L) and deionized water added to\nmake up the volume to 50.00 cm3 in a volumetric flask. The absorbance measured at 520 nm is\n0.550. Calculate the concentration of dialyzable iron (in unit of mg dm-3).\n\n       14.5) Presume all of the iron in the supplement tablet is completely digestible in the gastric\ncondition. Determine in mg the iron in 1.0000 g of supplement tablet.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                   23",
+   "parts": [
+    {
+     "id": "14.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "14.1)\n         a)      At CL = 2.20 x 10-2 mol dm-3, [ML3] = 6.25 x 10-5\n                 A = ƐbC, therefore Ɛ = A/bC = 0.750/6.25 x 10-5 = 12,000 L mol-1 cm-1\n         b)      M + 3L         ML3\n                 Kf      = [ML3] / [M] [L]3                              (1)\n                 at CL = 9.25 x 10-5 M, [ML3] = 0.360 / 12000\n                 [ML3] = 3.0x 10-5 mol dm-3               (2)\n        therefore,       [M]     = (3.25 x 10-5) – (3.0x 10-5)\n                         [M]     = 0.25 x 10-5 mol dm-3                  (3)\n                         [L]     = (9.25 x 10-5) – 3 x (3.0x 10-5)\n                         [L]     = 0.25 x 10-5 mol dm-3                  (4)\n        Hence            Kf      = (3.0x 10-5) / (0.25 x 10-5) (0.25 x 10-5)3\n                         Kf      = 7.68 x 1017 dm3 mol-3\n\n14.2) mole of C : mole of H : mole of N           =       80/12 : 4.44/1 : 15.56/14\n                                                  =       6.67 : 4.44 : 1.11\n                                                  =       6:4:1\n        therefore, the empirical formula of L is C6H4N\n        The empirical molar mass = (6 x 12) + (4 x 1) + (1 x 14) = 90\n        molar mass/ empirical molar mass = 180 / 2\n        Therefore, the molecular formula of L is C12H8N2.\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                          15\n\n14.3) d-orbital splitting diagram for ML3\n\n    Possible isomers of Fe2+ complexes\n    ML :\n\n    ML2 :\n\n    ML3 :\n\n    o of ML < ML2 < ML3 H2O is a weaker field ligand as compared with bipyridine.\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                       16\n\n14.4)\n        A = ƐbC, therefore C = A/Ɛb = 0.550/12000 = 4.58 x 10-5 mol dm-3\n        The concentration of dialyzable iron is\n        4.58 x 10-5 mol dm-3 x 50.00/5.00          = 4.58 x 10-4 mol dm-3\n        4.58 x 10-4 mol dm-3 x 55.845 g mol-1 x 1000 mg g-1 = 25.58 mg dm-3\n\n14.5)\n\n        From 14.4), the concentration of dialyzable iron is 25.58 mg dm-3 which is also equal to the\n        concentration of iron inside the dialysis bag.\n        The total volume is 12.50 cm3 (inside the dialysis bag) + 20.00 cm3 (outside the bag)\n        = 32.50 cm3.\n\n        Therefore, the total amount of digestible iron is\n        (25.58 mg dm-3 x 32.50 cm3) / (1000 cm3 dm-3) = 0.8314 mg\n        For the supplement of 0.4215 g, the iron content is 0.8314 mg\n        For the supplement of 1.0000 g, the iron content is 0.8314 mg x 1.0000 g / 0.4215 g\n                                                            = 1.972 mg",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Basic Electrochemistry",
+   "weight": null,
+   "total": 10,
+   "statement": "Consider the following electrochemical cell:\n\nPt(s)MnO4- (0.00100 mol dm-3), Mn2+(0.00200 mol dm-3), pH=3.00 ∥ Ce4+(0.0100 mol dm-3),\n\nCe3+(0.0100 mol dm-3)Pt(s)\n        The relevant reduction half-reactions are:\n        Ce4+ + e- ⟶ Ce3+                                      Eo = 1.70 V\n        MnO4- + 8H+ + 5e- ⟶ Mn2+ + 4H2O                       Eo = 1.507 V\n\n        15.1) Write a balanced net reaction for this cell and determine the values of Eocell and K for\nthe net reaction.\n\n        15.2) How many Coulombs of electron charge are transferred when 5.0 mg of Ce4+ are\nconsumed in the reaction from question 15.1?\n\n        15.3) Determine the cell potential for the electrochemical cell shown in the cell diagram.",
+   "parts": [
+    {
+     "id": "15.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "15.1)\nAnode: Mn2+ + 4H2O                 MnO4- + 8H+ + 5e-\nCathode: : 5Ce4+ + 5e-                5Ce3+\nNet : Mn2+ + 4H2O + 5Ce4+                 MnO4- + 8H+ + 5Ce3+\n         Eocell = Eocathode- Eoanode\n         Eocell = 1.70-1.507 = 0.193V\n                    0.05916\n         Eocell =          log K\n                      𝑛\n                    0.05916\n         0.193=               log K\n                       5\n\n         K = 2.051016\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                  17\n\n15.2)\n               1𝑔           1 𝑚𝑜𝑙 𝐶𝑒 4+            5 𝑚𝑜𝑙 𝑒 −       96,485 𝐶\n5 mg Ce4+(1000 𝑚𝑔) (140.12 𝑔 𝐶𝑒 4+) (5 𝑚𝑜𝑙 𝐶𝑒 4+) (1 𝑚𝑜𝑙 𝑒 −) = 3.44 C\n\n15.3)\n                           0.05916\n        Ecell = Eocell –             logQ\n                             𝑛\n\n        Where Q is a reaction quotient.\n                           0.05916          [𝑀𝑛𝑂4− ][𝐻 + ]8 [𝐶𝑒 3+ ]5\n        Ecell = Eocell –             log[      [𝑀𝑛2+ ][𝐶𝑒 4+ ]5\n                                                                        ]\n                             𝑛\n\n                           0.05916           [0.001][.001]8 [0.01]5\n        Ecell = 0.193 –              log[        [0.002][0.01]5\n                                                                        ]\n                              5\n\n        Ecell = 0.481V",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 16,
+   "title": "Calculation of Concentration",
+   "weight": null,
+   "total": 10,
+   "statement": "16.1) What is the concentration of Cu (in mol dm-3) prepared by mixing CuCl2 1.345 g\nwith 50.00 cm3 of CuSO4 31.9 g dm-3 and adjusting the volume to 500 cm3 by 0.01 mol dm-3 HCl?\n\n        16.2) Calculate whether or not a precipitate will form if 25.00 cm3 aliquot of the resulting\nsolution in 16.1 is adjusted to pH 8.0 with NaOH and the final volume is 100.0 cm3.\nNote: KSP(Cu(OH)2) = 4.8 x 10-20\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                    24",
+   "parts": [
+    {
+     "id": "16.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "16.1) mol Cu in CuCl2 1.345 g = 1.345 g/ (63.55 + 2(35.45) g mol-1) = 0.0100 mol Cu\nmol Cu in 50.00 cm3 of CuSO4 31.9 g dm-3\n        = (50 cm3 /1000 cm3 dm-3) x (31.9 g dm-3 /159.62 g mol-1) = 0.00999 mol Cu\nTherefore, the total mol Cu is 0.0100 + 0.00999 = 0.01999 = 0.02 mol\n500 cm3 contains 0.02 mol Cu, therefore the concentration is 0.04 mol dm-3.\n\n16.2) The concentration of Cu in 100.0 cm3\n        = (25.00 cm3 / 100.0 cm3) x 0.04 mol dm-3 = 0.01 mol dm-3 or 10-2 mol dm-3\npH = 8.0, implying that [OH-] = 10-6 mol dm-3\n[Cu2+][OH-]2 = (10-2) (10-6)2 = 10-14 which is greater than the KSP(Cu(OH)2), i.e., 4.8 x 10-20\n\nTherefore, the precipitate of Cu(OH)2 is formed.\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                   18",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 17,
+   "title": "Small Molecule Activation by Frustrated Lewis Pairs",
+   "weight": null,
+   "total": 10,
+   "statement": "Electron acceptors and electron donors are usually called Lewis acids and Lewis bases,\nrespectively.\n\n        17.1) Trispentafluorophenylborane is a well-known Lewis acid for the polymerization of\nolefin. Propose a reaction to prepare trispentafluorophenyborane from boron trichloride and\nbromopentafluorobenzene.\n\n      17.2) The steric hindrance precludes the formation of classical bonds between Lewis acid\nand Lewis base. Propose a structure of Frustrated Lewis Pairs from the reaction of B(C 6F5)3 and\nPH(t-Bu)2 if a zwitterion product is only obtained. (See Reference: Welch, G. C.; Juan, R. R. S.;\nMasuda, J. D.; Stephan, D. W. Science 2006, 314, 1124-1126.)\n\n        17.3) Propose a reaction between the obtained zwitterion in 17.2 and Me2SiHCl.\n\n      17.4) Show the structure of the product obtained from the B(C6F5)3 and P(t-Bu)3 under\nhydrogen gas atmosphere.\n\n        17.5) If HD is used instead of dihydrogen gas, write down all possible products.\n\n       17.6) Only one product is obtained from the reaction of B(C6F5)3 and P(t-Bu)3 under\nethylene gas atmosphere. Draw its structure.\n\n        17.7) Draw the structure of the product if the reaction of the isolated product from 17.6 is\ncarried out under nitric oxide gas atmosphere.\n\n       17.8) Only one product is obtained from the reaction of B(C6F5)3 and P(t-Bu)3 under carbon\ndioxide gas atmosphere. Draw its structure.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                  25",
+   "parts": [
+    {
+     "id": "17.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "17.1)\n\n17.2)\n\n17.3)\n\n17.4)\n\n17.5)\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017   19\n\n17.6)\n\n17.7)\n\n17.8)",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 18,
+   "title": "Silver Iodide",
+   "weight": null,
+   "total": 10,
+   "statement": "The crystalline structure of -AgI is similar to that of ice, allowing it to induce freezing\nby the process known as heterogeneous nucleation (cloud seeding). -AgI is a bright yellow solid\nand has the wurtzite structure.\n       18.1) When the solid silver iodide is exposed to sunlight, it will darken rapidly. What is\nthe oxidation state of silver in the darkened solid?\n\n        18.2) What is the solubility trend in AgF, AgCl, AgBr, AgI?\n\n        18.3) Consider:\n               (a) Ag+ (aq) + e– ⟶ Ag (s)                              Eo = +0.80 V\n                (b) AgI (s)           Ag+ (aq) + I– (aq)               Ksp = 8.51 x 10-17\n                (c) Ag+ (aq) + 3 I– (aq)           [AgI3]2– (aq)       K = 1014\n        From the given information, find the standard reduction potential of [AgI3]2–.\n\n        18.4) The salt [PPh3Me]2[AgI3] contains a triiodoargentate(I) ion [AgI3]2– with\napproximate trigonal planar geometry. (See reference: Bowmaker, G. A.; Camus, A.; Skelton, B.\nW.; White, A. H. J. Chem. Soc., Dalton Trans., 1990, 727-731.) The structure of [AgI3]2– is shown\nbelow. Draw the crystal field splitting diagram for the d orbitals of silver and fill in all appropriate\nelectrons.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                      26",
+   "parts": [
+    {
+     "id": "18.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "18.1) 0\n      The reduction of Ag+ to Ag0 causes the change of color.\n\n18.2) AgF > AgCl > AgBr > AgI\n      The stronger interaction between Ag+ and I– as well as the low hydration energy of I–\n      result in the poor solubility of AgI. The smaller size of other halide ions led to poorer\n      interaction with Ag+; hence, higher solubility.\n\n18.3) – 0.028 V\n                       Go = – nFEo\n        For (a),       Goa = – (– 1)(96,500)(0.80) = – 77,200 J (mol Ag)–1\n                       Go = – RT lnK\n        For (c),       Goc = – (8.314)(298)(ln1014) = – 79,867 J mol–1\n        The reduction half reaction of [AgI3]2– :\n        (d) [AgI3]2– (aq) + e–          Ag (s) + 3 I– (aq)\n        Eqn (d) = (a) – (c)\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                   20\n\n        Therefore,       God = Goa − Goc = – 77,200 – (– 79,867) = 2,667 J mol–1\n                         Eo   = −God/(nF) = – (2,667)/(96,500) = – 0.028 V\n\n18.4) For trigonal planar,\n\n        The ligands lie in the xy plane, then the 𝑑x2 -y2 and 𝑑xy orbitals that have their electron\ndensity concentrated in this plane will have the highest energy. The 𝑑xz and 𝑑yz orbitals have their\nelectron density out of this xy plane, so their energies are the lowest. The 𝑑z2 orbital has its electron\ndensity mostly out of the xy plane, but there is a ring of electron density in the xy plane, so the 𝑑z2\norbital will have energy higher than the 𝑑xz and 𝑑yz orbitals but still lower than the 𝑑x2-y2 and 𝑑xy\norbitals. In addition, the number of d-electrons for silver in [AgI3] 2– is 10. Therefore, all d-orbitals\nshould be filled.",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 19,
+   "title": "Perovskite Structure",
+   "weight": null,
+   "total": 10,
+   "statement": "A mineral perovskite crystallizes in the cubic unit cell in which Ca2+ and O2– ions constitute\na ccp arrangement and Ti4+ ion occupies an interstitial hole as shown here.\n\n                                                                Ca2+\n\n                                                    Ti4+        O2-\n\n        19.1) Based on the unit cell above, what is the empirical formula of perovskite?\n\n        19.2) Name types of interstitial holes present in the ccp unit cell. How many holes are there,\nfor each type, within the unit cell?\n\n        19.3) From your answer in 19.2, which type of interstitial hole is occupied by Ti4+ ion?\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                    27",
+   "parts": [
+    {
+     "id": "19.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "19.1) Number of Ca2+ ions: 8 corners x 1/8 ion Ca2+/corner = 1\n        Number of O2- ions: 6 cube faces x 1/2 O2- ion/cube face = 3\n        Number of Ti4+ ions: one Ti4+ ion in the cube center = 1\n        Therefore, the empirical formula is CaTiO3.\n\n19.2) (1) octahedral hole (4 per unit cell), (2) tetrahedral hole (8 per unit cell)\n\n19.3) Octahedral hole\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                       21",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 20,
+   "title": "Quantum Numbers and Atomic Orbitals",
+   "weight": null,
+   "total": 10,
+   "statement": "20.1) Each of the following sets of quantum numbers is not permissible for an orbital.\nWhy?\n\n                           n           l          ml     ms\n                  (i)      1          1           0     +1/2\n                 (ii)      3          1           -2    -1/2\n                 (iii)     2          -1          0     +1/2\n\n        20.2) Give the notation for the subshells denoted by the following quantum numbers.\n                (i) n = 6, l = 2\n                (ii) n = 4, l = 3\n                (iii) n = 6, l = 1\n\n        20.3) What is the number of different orbitals in each of the following subshells?\n                (i) 3d\n                (ii) n = 5, l = 3\n                (iii) n = 3, l = 0\n\nPreparatory problems: 49th IChO, Thailand, 2017                                               28",
+   "parts": [
+    {
+     "id": "20.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "20.1) (i) l = n is not allowed. For a certain value of n, l can be any value from 0 to n-1 (i.e., less\nthan n).\n\n         (ii) ml = -2 is not possible for l =1, because the magnitude of the ml must not be greater\nthan l. (For a certain value of l, ml = l, l-1,…, - l.)\n        (iii) l = -1 is not possible. l cannot have a negative value.\n\n20.2) (i) 6d\n        (ii) 4f\n        (iii) 6p\n\n20.3) (i) five\n        (ii) seven\n        (iii) one",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 21,
+   "title": "Radioactivity of Iodine and Nuclear Equations",
+   "weight": null,
+   "total": 10,
+   "statement": "21.1) The half-life of I-131 is 8 days. If a freshly prepared solution of I-131 has a\nconcentration of 0.1 mol dm-3,\n                (i) what will be the concentration of I-131 after 2 half-lives?\n                (ii) what will be the concentration of I-131 after 40 days?\n\n        21.2) Identify X in each of the following nuclear equations:\n\n                (i) X  147N + -\n\n                (ii)     38\n                         19K    38\n                                 18Ar + X\n\n                (iii)    55\n                         26Fe   + −10𝑒  X\n\n                (iv) X  234     4\n                          90Th + 2He\n\n                (v)     14\n                         7N    + X  146C + 11H\n\n                            47Ag    X + \n                         110𝑚\n                (vi)\n\n                                  92U  53I + X + 4 0n\n                               + 235\n                          1             136         1\n                (vii)     0n\n\n                (viii)    2\n                          1H    + 31H  X + 10n",
+   "parts": [
+    {
+     "id": "21.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "21.1)\n        (i) After 2 half-lives, the remaining concentration of I-131 will be as follows:\n\n    [I-131]\n\n       (ii) After 40 days which is equal to 5 half-lives, the remaining concentration of I-131 will\n    be as follows:\n   [I-131]\n\n21.2) (i) 146C           (ii) +10𝑒 or +          (iii) 55\n                                                        25Mn            (iv) 238\n                                                                              92U\n\n        (v) 10n          (vi) 110\n                               47Ag               (vii) 96\n                                                        39Y             (viii) 42He or \n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                    22",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 22,
+   "title": "Structure and Chemistry of Sodium Chloride",
+   "weight": null,
+   "total": 10,
+   "statement": "22.1) The unit cell of NaCl is shown below:\n\n                (i) What is the coordination number of Na+ and Cl-?\n\n                (ii)What is the number of formula units in the unit cell?\n\n                (iii) If the length of the unit cell of NaCl is 560 pm and the mass of NaCl is\n58.5 g mol-1, what is the density of NaCl?\n\nPreparatory problems: 49th IChO, Thailand, 2017                                             29\n\n        22.2) NaCl can be prepared by a reaction between Na(s) and Cl2(g):\n\n                  Na(s) + 1/2Cl2(g)  NaCl                   Hformation = -411 kJ\n\n                (i) What are the values of n and l for the valence electrons of a Na atom?\n\n                (ii) Compare the size of Na vs. Cl and Na+ vs. Cl-.\n\n                (iii) Draw the Lewis structure of Cl2.\n\n                (iv) Calculate the lattice energy of NaCl.\n\n                where Hsublimation for Na = 107 kJ mol-1, IE1 for Na = 496 kJ mol-1,\n                ClCl dissociation = 244 kJ mol-1, Electron Affinity of Cl = -349 kJ mol-1\n\n        22.3) Chemistry of NaCl:\n\n                (i) Write the reaction between NaCl(aq) and Br2(l).\n\n                (ii) Write the ionic equation between NaCl(aq) and AgNO3(aq).\n\n                (iii) What is the flame color when NaCl is placed in the flame?\n\nPreparatory problems: 49th IChO, Thailand, 2017                                              30",
+   "parts": [
+    {
+     "id": "22.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "22.1) (i) 6 and 6\n\n        (ii) 4\n\n        (iii) 2.21 g cm-3\n\n        Density = m/V\n\n        V = a3 = (560 pm)3 = 1.76 x 10-22 cm3\n\n        mass = (4 x 58.5 g)/(6.022 x 1023) = 3.89 x 10-22 g\n\n        Density = 3.89 x 10-22 g / 1.76 x 10-22 cm3 = 2.21 g cm-3\n\n22.2) (i) n = 3, l = 0\n\n        (ii) Na is larger than Cl, but Cl- is larger than Na+.\n\n        (iii)\n\n        (iv) -787 kJ mol-1\n\n        Hoverall = -411 kJ mol-1 = Hsublimation for Na + IE1 for Na + ½(Cl-Cl dissociation) +\n\n                                         Electron affinity of Cl + lattice energy\n\n        -411 kJ mol-1 = 107 kJ mol-1 + ½ (224) kJ mol-1 + 496 kJ mol-1 – 349 kJ mol-1 + lattice\n        energy\n\n        lattice energy = -787 kJ mol-1\n\n22.3) (i) Br2(l) + Cl-(aq)  no reaction\n\n        (ii) Cl-(aq) + Ag+(aq)  AgCl(s)\n\n        (iii) Yellow\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                   23",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 23,
+   "title": "Natural Chelator from Shrimp Shell",
+   "weight": null,
+   "total": 10,
+   "statement": "Chitosan is a linear polysaccharide composed of β-(1-4)-linked D-glucosamine\n(deacetylated unit) and N-acetyl-D-glucosamine (acetylated unit). It is made by treating the chitin\nshells of shrimp or other crustaceans with a strong base, like sodium hydroxide. The deacetylation\nof chitin by a strong base yields partially-acetylated chitosan as shown below:\n\n        Chitosan can be used for a variety of purposes like helping plants to fight off fungal\ninfections, preventing spoilage in wine, helping deliver drugs through the skin, being applied to\nreduce bleeding, and as an antibacterial agent. In the environmental aspect, chitosan can be used\nas an effective metal ion adsorbent. The adsorption capacities of chitosan for Cu(II), Hg(II), Pb(II)\nand Zn(II) are 79.94, 109.55, 37.2, 47.15 mg (g chitosan)-1, respectively.\n\n        23.1) Suggest the preferred binding sites in completely-deacetylated chitosan for metal ion.\n\n        The selectivity of chitosan towards Pb2+ can be increased by modification with CS2 yielding\npartially modified chitosan (PMCS) as in the structure below:\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                   31\n\n      The absorption capacity toward Pb2+ was increased from 37.2 to 156.0 mg g-1 chitosan\n(Wang, N.; Zheng, P.; Ma, X. Powder Technol. 2016, 301, 1-9.)\n\n        23.2) Suggest the most preferred site(s) in chitosan for Pb2+ and draw the bond(s) between\nthat preferred site(s) and Pb2+. Explain the increase in absorption capacity of PMCS toward Pb2+.\n\n       To increase the sensitivity of the chitosan toward metal ion, the dye like meso-tetra(p-\ncarboxyphenyl)porphyrin is chemically bonded with chitosan matrix. After the two acidic protons\nare removed, the four nitrogen atoms will bind with metal ion. The two axial sites of the metal ion\nnormally bind with water molecules yielding the octahedral complex. Each metal ion gives\ncharacteristic absorption maximum in the visible range.\n\n      23.3) Suggest the bonds between meso-tetra(p-carboxyphenyl)porphyrin and chitosan if a\nweak protonic acid is used as a catalyst.\n\n       23.4) If Fe2+ is being adsorbed by the chitosan-porphyrin adsorbent, draw the structure of\nthe complex and predict the approximate d-orbital splitting in the proposed complex.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                 32",
+   "parts": [
+    {
+     "id": "23.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "23.1) The preferred binding sites are indicated in the circles as follows:\n\n23.2)\n\n          Pb2+ is a soft metal ion so it prefers to form bond with sulfur. This helps PMCS adsorb Pb2+\nbetter.\n\n23.3) meso-tetra(p-carboxyphenyl)porphyrin can form ester bond with chitosan as shown in the\nproposed structure below:\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                    24\n\n        Or amide bonds are formed as below:\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017   25\n\n23.4) One of the structures in question 23.3 was chosen to bond with Fe2+ as the proposed\nstructure below.\n\n        The two vacant axial sites are bonding with water molecules.\n\n       Assuming that the crystal fields are equivalent along the x, y, and z axes, the splitting\ndiagram of Fe2+ d orbitals is shown below:\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                              26",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 24,
+   "title": "Compound Identification and Related Chemistry",
+   "weight": null,
+   "total": 10,
+   "statement": "A reaction between M and Cl2 gives the only product MxCly. The following results are\nobtained under various conditions:\n\n                       M (mol)              Cl2 (mol)        Product (g)\n                         0.20                     0.80           26.7\n                         0.30                     0.70           40.0\n                         0.40                     0.60           53.3\n                         0.50                     0.50           44.4\n                         0.60                     0.40           35.6\n                         0.70                     0.30           26.7\n                         0.80                     0.20           17.8\n\n        24.1) What is the chemical formula of MxCly? Identify M.\n\n        24.2) Write balanced chemical equations of:\n                (i) complete hydrolysis of MxCly\n                (ii) MxCly + H2SO4\n\n        24.3) At certain temperatures, MxCly exists in equilibrium as a dimer:\n\n      Draw a chemical structure of the dimer.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                               33",
+   "parts": [
+    {
+     "id": "24.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "24.1) MCl3 and M = Al\n         Theoretically, the maximum amount of the product is obtained when the mole fraction of\nM and Cl2 are in the correct stoichiometric ratio. Based on the experiments, M:Cl2 = 0.4:0.6 or 2/3\nis the stoichiometric ratio needed to form MxCly. Thus, the equation is as follows:\n                                        2 M + 3 Cl2  2 MCl3.\n         the chemical formula of MxCly = MCl3\nSince 0.4 mole of M generates 0.4 mole of MCl3, the molar mass of MCl3 and atomic mass of M\ncan be derived:\nMolar mass of MCl3 = 53.3 g/0.40 mol = 133 g mol-1\nAtomic mass of M = 133 – (3  atomic mass Cl) = 133.3 – (3  35.45) = 26.9 g mol-1\n         M = Al\n\n24.2) (i) AlCl3 + 3 H2O  Al(OH)3 + 3 HCl\n        (ii) 2 AlCl3 + 3 H2SO4  Al2(SO4)3 + 6 HCl\n\n24.3)   Cl    Cl    Cl\n           Al    Al Cl\n        Cl    Cl\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                 27",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 25,
+   "title": "Isomerism of Octahedral Fe Complexes",
+   "weight": null,
+   "total": 10,
+   "statement": "Fe(N,N')2Cl2 has an octahedral structure featuring two bidentate, neutral -iminopyridine\n(N,N') ligands, whose structure is shown below.\n\n        25.1) Draw all possible isomers of Fe(N,N')2Cl2.\n\n        25.2) Which isomers of Fe(N,N')2Cl2 are optically active?",
+   "parts": [
+    {
+     "id": "25.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "25.1)\n\n25.2)   isomers A, A*, B, B*, E, and E*\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017   28",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 26,
+   "title": "Stoichiometry and Structure Determination",
+   "weight": null,
+   "total": 10,
+   "statement": "Compound A consists only of three elements C, H, and O. Under standard conditions, A\nis a yellow solid with molar mass of 166.2 g mo1-1. By weight, A has 28.9% O and 65.0% C.\n\n26.1) Determine chemical formula of A.\n\n26.2) A contains a phenol functional group with intramolecular hydrogen bonding. The 1H and\n13\n  C{1H} NMR spectra of A in CDCl3 are shown below. Based on your answer in 26.1, draw a\nchemical structure of A, and show the intramolecular hydrogen bond(s).\n\n                                                  *NMR data were obtained from Sigma-aldrich.com.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                34\n\n26.3) From the reaction scheme below, draw chemical structures of X, Y, and Z.\n\n                                                              Cu(OOCCH3) 2\n                 2   A +                                X                       Z\n                             H 2N      NH 2       -2Y        - 2 CH3COOH",
+   "parts": [
+    {
+     "id": "26.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "26.1)           C9H10O3\nSolution:       % by weight C : H : O = 65.0 : 6.10 : 28.9\n                                            65.0   6.10   28.9\n                % by mol C : H : O       = 12.0 : 1.01 : 16.0\n\n                                         = 5.42 : 6.04 : 1.81\n\n                 empirical formula C : H : O = 9 : 10 : 3\n\n26.2)\n\n26.3)\n                                                                 Y=\n         X=\n\n         Z=\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017       29",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 27,
+   "title": "Atropine",
+   "weight": null,
+   "total": 10,
+   "statement": "Atropine is an organic compound used to treat certain types of nerve agent and pesticide\npoisonings. This compound can be synthesized from tropine and tropic acid in one step.\n\n       27.1) Tropine can be prepared as shown in the diagram below. The first step of this\nsynthesis is “double Mannich reaction” (Robinson, 1917).\n      Write down the structural formulae of compounds A and B.\n\n       27.2) Tropic acid can be prepared from the reaction of acetophenone and HCN followed\nby hydrolysis, elimination, addition and nucleophilic substitution (Mackenzie and Ward, 1919). In\nthis synthesis, it should be noted that the electrophilic addition by HCl did not follow\nMarkovnikov's Rule, and the anti-Markovnikov product (E) was obtained.\n\n       Tropic acid (F) can also be prepared in only three steps from ethyl 2-bromo-2-\nphenylacetate and paraformaldehyde (Pernot, 1950). NMR data of tropic acid (F) are provided\nbelow.\n        H NMR (400 MHz, CDCl3) δ 3.76-3.83 (2H, m), 4.80 (1H, dd, J = 8.1 Hz), 7.21-7.30 (5H,\n        1\n\nm) and 2 broad peaks at ~5 ppm and ~12 ppm.\n        13\n            C NMR (100 MHz, CD3OD) δ 55.9, 65.1, 128.5, 129.2, 129.7, 137.9, 176.1\n        Write down the structural formulae of compounds C-G in the diagram below.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                               35\n\n       27.3) When tropine was combined with tropic acid under acidic conditions, atropine was\nproduced. Write down the structural formula of atropine.\n\n        27.4) Predict the major products of the reactions shown below. 13C NMR spectrum of\ncompound I shows nine signals in the range of 0-80 ppm, four signals in the range of\n120-140 ppm, and one signal at 155 ppm. 13C NMR spectrum of compound J shows eight signals\nin the range of 0-80 ppm and one signal at 155 ppm. 13C NMR spectrum of compound K shows\nseven signals in the range of 0-80 ppm and four signals in the range of 120-140 ppm.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                            36",
+   "parts": [
+    {
+     "id": "27.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "27.1)\n\n27.2)\n\n27.3)\n\n27.4)\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017   30",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 28,
+   "title": "Synthesis of Building Blocks for Fluorescent Markers",
+   "weight": null,
+   "total": 10,
+   "statement": "Carboxy-functionalized fluorescein dyes, which have been employed as important\nconjugated fluorescent markers of biologically active compounds, can be synthesized based on the\nimproved synthetic route developed by M.H. Lyttle and co-workers (Lyttle, M. H.; Carter, T. G.;\nand Cook, R. M. Org. Proc. Res. Dev. 2001, 5, 45–49). In these synthetic sequences, two different\nprecursors (C and I) were required and they were synthesized as followed.\n\n        Identify compounds A-I.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                               37",
+   "parts": [
+    {
+     "id": "28.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "Compounds A-I are shown below:\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017   31",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 29,
+   "title": "Synthesis towards Anatoxin-a",
+   "weight": null,
+   "total": 10,
+   "statement": "Anatoxin-a (I) is a secondary amine alkaloid with acute neurotoxicity that can cause death\nby respiratory paralysis. This compound is produced by several different genera of cyanobacteria\nfound all over the world. In 2004, Jehrod B. Brenneman and Stephen F. Martin reported a concise\nsynthesis of anatoxin-a from commercially available D-methyl pyroglutamate, which was\nconverted to compound A. Write down the structural formulae of compounds B, C, F, H and I in\nthe boxes provided.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                               38",
+   "parts": [
+    {
+     "id": "29.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "Solutions to the Preparatory problems: 49th IChO, Thailand 2017   32",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 30,
+   "title": "Total Synthesis of Illudin C",
+   "weight": null,
+   "total": 10,
+   "statement": "During the synthesis of sesquiterpene ()-illudin C, R. L. Funk required the building block\nC which could be prepared based on the short synthesis shown below (Aungst, Jr., R. A.;\nChan, C.; Funk, R. L. Org. Lett. 2001, 3, 2611–2613.) Compound C was then carried on in the\nsynthesis as shown. Provide the correct structures of A, B, C and D.",
+   "parts": [
+    {
+     "id": "30.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "The structures of A, B, C and D:",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 31,
+   "title": "Total Synthesis of -Opioid Receptor (MOR) Agonists",
+   "weight": null,
+   "total": 10,
+   "statement": "In the studies of pain management, -opioid receptor has been an important protein target\nin the central nervous system which interacts with specific small molecules and may therefore\nalleviate pain in patients. In studying this target, one needs to have access to these compounds.\nNature has been a major source of these small compounds which may be used in the research. In\naddition to the parent compounds in plants which are known to reduce pain, synthetic derivatives\nare also equally important for the study. In a recent pharmacological evaluation of the synthetic\nmitragynine and derivatives, the principle alkaloids found in the Southeast Asian plant Mitragyna\nspeciosa (known as Kratom in Thailand), by Sames and co-workers (Kruegel, A. C.;\nGassaway, M. M.; Kapoor, A.; Váradi, A.; Majumdar, S. Filizola, M.; Javitch, J. A.; and\nSames, D. J. Am. Chem. Soc. 2016, 138, 6754–6764), the materials for the evaluation were\naccessed via total synthesis. The brief synthesis is illustrated in the scheme below.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                39\n\n        31.1) Draw the correct structure of compound A.\n        31.2) Identify the structures of compounds B-D with correct stereochemistry.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                        40",
+   "parts": [
+    {
+     "id": "31.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "Solutions to the Preparatory problems: 49th IChO, Thailand 2017   33",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 32,
+   "title": "Pericyclic Reaction",
+   "weight": null,
+   "total": 10,
+   "statement": "32.1) A series of pericyclic reaction can be used to construct complex organic molecular\nstructure in a stereocontrolled manner. For example, Moore, et al. (J. Org. Chem. 1998, 63,\n6905.) reported the synthesis of triquinane derivatives from the corresponding cyclobutenone as\nshown in scheme below.\n\n        Propose structures of intermediates A and B.\n\n        32.2) In the synthesis of prostaglandin, Corey, et al. (J. Am. Chem. Soc. 1969, 91, 5675.)\nused cycloaddition reaction as a key step along with a series of straightforward chemical\ntransformations to set up stereochemistry at the periphery of cyclopentyl structure as shown in\nscheme below.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                41\n\n                (i) Identify structures of compounds C-G with correct relative stereochemistry.\n\n                (ii) There is a carbon, labeled with an asterisk in compound 3. Indicate the position\nof this labeled carbon in either compound 1 or 2 by placing an asterisk on the carbon in the given\nstructure.\n\n              (iii) If a student synthesizes compound 3 from compounds 1 and 2 by following the\nsynthetic scheme above, how many possible stereoisomers of compound 3 can the student obtain?\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                   42\n\n        32.3) 1,3-Dipolar cycloaddition is a powerful tool for the construction of heterocyclic\nstructure. For example, upon heating, compound H undergoes intramolecular [4+2]-cycloaddition\nto yield compound I. Reduction of a weak N-O bond of compound I by catalytic hydrogenation\ngave product J.\n\n              (i) Propose structures of compounds I and J.\n\n             (ii) If a racemic mixture of H is used in the reaction, write all possible stereoisomer(s)\nof products J.",
+   "parts": [
+    {
+     "id": "32.1",
+     "points": 10,
+     "question": "Решите задачу полностью и запишите ответ.",
+     "reference": "32.1)\n\n32.2)\n        (i) Structures of compounds C-G\n\n        C                                D                        E\n\n        F                                G\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017       34\n\n        (ii)\n\n                Either position on compound 1 is correct.\n\n        (iii) Two.\n\n               Reaction between 1 and 2 will give a pair of enantiomers which are inseparable.\n               (Note: the two enantiomers can be resolved but this process is not mentioned in the\ncontext.) The subsequent processes, although generated a few new chiral centers, employed achiral\nreagent and the newly formed stereocenters were controlled by the existing stereochemistry.\nTherefore, stereochemical information was carried over from compound C to compound 3.\n\n32.3)\n        (i)\n\n       (ii) Racemic mixture of H will give product I which has a plane of symmetry. Therefore,\nreduction of I (only a stereoisomer) will give only 1 possible product J.\n\n        Note: Compound I has a plane of symmetry, thus its mirror image (compound I’) is\nidentical (meso-compound).\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                                35",
+     "pointsEstimated": true
+    }
+   ]
+  },
+  {
+   "number": 33,
+   "title": "Stereoisomers without Stereocenter",
+   "weight": null,
+   "total": 13,
+   "statement": "Axial chirality refers to stereoisomerism of a special case of chirality in which a molecule\ndoes not possess a stereogenic center but an axis of chirality. An axis of chirality is defined as an\naxis about which a set of substituents is held in a spatial arrangement that is not superimposable\non its mirror image.\n\n        Two necessary preconditions for axial chirality are:\n              i. A rotationally stable axis\n              ii. Presence of different substituents on both sides of the axis\n\n        Axial chirality is most commonly observed in atropisomeric biaryl compounds wherein the\nrotation about the aryl-aryl bond is restricted, for example, biphenyl, binaphthyls. Certain allene\ncompounds also display axial chirality.\n        33.1) From the given structures, draw 3-D structure and the corresponding mirror image of\nthe given compounds. Use plane of symmetry to determine whether they are chiral or achiral.\n                (i)\n\n                (ii)\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                     43\n\n                (iii)\n\n                (iv)\n\n        33.2) Enantiomers of medium ring trans-cycloalkenes exist. For example, trans-\ncyclooctene can be resolved and its enantiomers are stable at room temperature. On the other\nhand, trans-cyclononene has also been resolved but it racemizes with a half-life of 4 min. at 0oC.\n\n              (i) Draw mirror images of the given structures of trans-cyclooctene and trans-\n      cyclononene.\n\n                (ii) Why does trans-cyclononone racemize faster than trans-cyclooctene?\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                44\n\n                                    Part 2. Practical Tasks\n\n                               The safety rules and regulations\n\n           Regulations of the International Chemistry Olympiad (IChO)\n\nSafety\n\n         1. During the experimental part, the competitors must wear laboratory coats and eye\nprotection. The competitors are expected to bring their own laboratory coats. Other means of\nprotection for laboratory work are provided by the organizer.\n         2. When handling liquids, each student must be provided with a pipette ball or filler.\nPipetting by mouth is strictly forbidden.\n         3. The use of acutely toxic substances (GHS hazard statement H300, H310, H330) is\nstrictly forbidden. The use of toxic substances is not recommended, but may be allowed if special\nprecautions are taken. Substances with GHS hazard statements H340, H350, H360 (proven\nmutagens, carcinogens, and teratogens) must not be used under any circumstances (see\nAppendix B for definitions of these categories).\n         4. Detailed recommendations involving students’ safety and the handling and disposal of\nchemicals can be found in Appendices A 1, A 2, and B.\n         Appendix A 1: Safety Rules for Students in the laboratory.\n         Appendix A 2: Safety Rules and Recommendations for the Host Country of the IChO.\n         Appendix B contains a reference to the hazard symbols and statements of the Globally\nHarmonized System of Classification of Chemicals (GHS), the use of which is expected in labeling\nand classifying materials used at the IChO.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                               45\n\nTask P1. Quantitative Determination of Ascorbic Acid and Citric Acid in Beverages\n        The weather in Thailand is generally hot and humid which may cause discomfort and\nfatigue. Therefore drinking of water or beverage is optional choice to refresh and reduce an\nappetite. There are various brands of drink available in the markets. The main components in the\nbeverage are sweetener, organic acid, minerals as well as color and flavor. These components\nbasically improve the taste and texture.\n\n      In this task, you will determine the amount of ascorbic acid (C6H8O6) and citric acid\n(C3H5O(COOH)3) that are in a beverage sample by two titrations.\n        A) Determination of ascorbic acid by redox titration\n        B) Determination of total acid content by acid-base titration\nSource: S. B. Sigmann and D. E. Wheeler, J. Chem. Educ., 2004, 81, 1479.\n\n        0.001 mol dm-3 KIO3\n        1 mol dm-3 HCl\n        0.5% w/v starch solution\n        0.1 mol dm-3 NaOH*\n        0.5% w/w phenolphthalein indicator\n        KI\n        Sample (containing 1.28x10-3 mol dm-3 ascorbic acid and 6.76x10-2 mol dm-3 citric acid)\n\n        2 burets\n        50 cm3 -volumetric pipet\n        10 cm3 -volumetric pipet\n        pipet bulb\n        6 Erlenmeyer flasks\n\n* This solution must be standardized. Use potassium hydrogen phthalate, KHP for the\nstandardization.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                               46\n\nA) Determination of ascorbic acid by redox titration\n   1. Fill a buret with 0.001 mol dm-3 KIO3\n\n   2. Pipet a 50.00 cm3 aliquot of sample solution and quantitatively transfer it to an Erlenmeyer\n      flask. Add 1 gram of KI, 5 cm3 of 1 M HCl and 3 cm3 of 0.5 % starch solution to the flask.\n   3. Titrate with 0.001 mol dm-3 KIO3 immediately.\n   4. Endpoint is marked by the appearance of the blue starch–I3−complex.\n   5. Repeat with two additional 50.00 cm3 aliquots.\n\nThe amount of ascorbic acid is determined by titration with KIO3. The reaction equations are\nshown as equations (1) – (4).\n                IO3- + 5I- + 6H+                  3I2 + 3H2O                      (1)\n                C6H8O6 + I2                       C6H6O6 + 2H+ + 2I-              (2)\n                I2 + I-                           I3-                             (3)\n                I3- + starch                      starch - I3- complex            (4)\n                                                            (blue)\n(i) Fill the data in the Table.\n\n       Titration no.                                    1                2        3\n       Initial reading of the burette, cm3\n       Final reading of the burette, cm3\n       Consumed KIO3 volume, cm3\n\n(ii) Calculate mg of ascorbic acid per 100 cm3 of sample.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                47\n\nB) Determination of total acid content by acid-base titration\n   1. Pipet a 10.00 cm3 aliquot of the sample solution and quantitatively transfer it to Erlenmeyer\n      flask.\n   2. Add 2-3 drops of phenolphthalein indicator to the flask.\n   3. Slowly add NaOH from the buret to the flask.\n   4. At the endpoint, color of the indicator will change from colorless to pink.\n   5. Repeat with two additional 10.00 cm3 aliquots.\n\nTitration with NaOH therefore determines the amount of total acid in the sample. The reaction\nequations are shown as equations (5) – (6).\n\n                C6H8O6 + NaOH                     C6H7O6Na + H2O                    (5)\n        C3H5O(COOH)3 + 3NaOH                      C3H5O(COO)3Na3 + 3H2O             (6)\n\n(i) Fill the below Table\n\n       Titration no.                                  1             2               3\n       Initial reading of the buret, cm3\n       Final reading of the buret, cm3\n       Consumed base volume, cm3\n\n(ii) Calculate number of moles of reacted hydroxide\n\nThe amount of citric acid determined by difference as shown below.\nmoles NaOH neutralized (total acid) - moles NaOH neutralized (ascorbic acid)\n                                 = moles NaOH neutralized (citric acid)\n\n(iii) Calculate grams of citric acid per 100 cm3 of sample\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                 48\n\nTask P2. Spectrophotometric Determination of Chromium and Manganese\n        According to Beer’s law, the net absorbance is an additive of each solute, provided there\nis no reaction between the two solutes.\n                   λ1\n                 A total  A λX1  A Yλ1\n                   λ2\n                 A total  A λX2  A Yλ 2\n\n       where Atotalλ1 and Atotal λ2 are the net measured absorbances at λ1 and λ2 respectively, and\nA X and A Y are the absorbances of the two solutes.\n\n        0.5 mol dm-3 H2SO4\n        0.01 mol dm-3KMnO4\n        0.01 mol dm-3K2Cr2O7\n\nInstrument\n\n        Visible Spectrophotometer\n\n        2.00 cm3 measuring pipet (2)\n        10.00 cm3 measuring pipet (2)\n        50.00 cm3 volumetric flask (13)\n        pipet bulb\n\nA) Determination of molar absorption coefficients of KMnO4 and K2Cr2O7\n    1. Prepare standard KMnO4 solutions of 0.5 x 10-4, 1.0 x 10-4, 2.0 x 10-4, 5.0 x 10-4 mol dm-3\n    in 0.5 mol dm-3 H2SO4 by appropriate dilution from standard 0.01mol dm-3 KMnO4 solution to\n    the final volume of 50.00 cm3 in volumetric flask.\n\n    2. Prepare standard K2Cr2O7 solutions of 2.0 x 10-4, 3.0 x 10-4, 4.0 x 10-4, 6.0 x 10-4 mol dm-3\n    in 0.5 mol dm-3 H2SO4 by appropriate dilution from standard 0.01 mol dm-3 K2Cr2O7 solution\n    to the final volume of 50.00 cm3 in volumetric flask.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                  49\n\n    3. Record the absorbance values of all solutions at 440 and 545 nm\n\n                                Absorbance        Absorbance    Molar absorption   Molar absorption\n             KMnO4\n                                     (A)              (A)         coefficient        coefficient\n            (mol dm-3)\n                                (at 440 nm)       (at 545 nm)    (at 440 nm)        (at 545 nm)\n           0.5 x 10-4\n           1.0 x 10-4\n           2.0 x 10-4\n           5.0 x 10-4\n       Molar absorption coefficient (average)\n\n                                Absorbance        Absorbance    Molar absorption   Molar absorption\n       K2Cr2O7\n                                    (A)               (A)         coefficient        coefficient\n       (mol dm-3)\n                                (at 440 nm)       (at 545 nm)    (at 440 nm)        (at 545 nm)\n         2.0 x 10-4\n         3.0 x 10-4\n         4.0 x 10-4\n         6.0 x 10-4\n       Molar absorption coefficient (average)\n\nB) Determination the concentrations of KMnO4 and K2Cr2O7 in solution mixture\n    1. Prepare a solution containing 5.0 cm3 of KMnO4 0.5 x 10-4 mol dm-3 and 5.0 cm3 of\n       K2Cr2O7 6.0 x 10-4 mol dm-3 (Solution A)\n\n    2. Prepare a solution containing 5.0 cm3 of KMnO4 2.5 x 10-4 mol dm-3 and 5.0 cm3 of\n       K2Cr2O7 4.0 x 10-4 mol dm-3 (Solution B)\n\n    3. Prepare a solution containing 5.0 cm3 of KMnO4 5.0 x 10-4 mol dm-3 and 5.0 cm3 of\n       K2Cr2O7 2.0 x 10-4 mol dm-3 (Solution C)\n    4. Record the absorbance values of all solutions at 440 and 545 nm\n\n                                        Absorbance                   Absorbance\n              Solution                      (A)                          (A)\n                                        (at 440 nm)                  (at 545 nm)\n                  A\n                  B\n                  C\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                  50\n\nCalculate the concentration of KMnO4 and K2Cr2O7 in each solution (from the experimental\nabsorbance values)\n\n                                    KMnO4                    K2Cr2O7\n              Solution                            % error                % error\n                                   (mol dm-3)               (mol dm-3)\n                  A\n                  B\n                  C\n\nPreparatory problems: 49th IChO, Thailand, 2017                                       51\n\nTask P3. Synthesis of “Ferrocenated” Iron Oxide Nanoparticles and Their Activities in the\nDecolorization of Methylene Blue\n       Ferrocenated compounds are a mixture containing ferrocene, iron oxide, and\ncyclopentadienyl radical. The preparation of ferrocenated compounds can be done by the\ndecomposition of ferrocenium in basic condition. Cyclopentadienyl radical in ferrocenated\ncompounds is an active specie to generate reactive oxygen species for the decolorization of\nmethylene blue.\n\n       Perform the synthesis of ferrocenated iron oxide nanoparticles by coprecipitation.\n       Perform the decolorization of methylene blue by ferrocenated iron oxide, and follow\n        reaction by spectrophotometric analysis.\n\n        Ferric chloride hexahydrate (FeCl3∙6H2O)        De-ionized water\n        Ferrous chloride tetrahydrate (FeCl2∙4H2O)      Sodium hydroxide\n        Ferrocene                                       Barium chloride\n        Concentrated sulfuric acid                      Methylene blue\n\n        Round-bottomed flask, 250 cm3                   Beaker, 25 cm3\n        Beaker, 100 cm3                                 Beaker, 250 cm3\n        Erlenmeyer flask, 250 cm3                       Volumetric flask, 250 cm3\n        Graduated cylinder, 10 cm3                      Graduated cylinder, 100 cm3\n        Test tubes                                      Pasteur pipets and rubber bulb\n        Magnetic bars                                   Stirring rods\n        Evaporation dish                                Centrifuge tubes\n        Aluminum foil\n\n        Stirrer                                         4-digit balance\n        pH meter                                        Centrifuge\n        Oven                                            Visible Spectrophotometer\n\nPreparatory problems: 49th IChO, Thailand, 2017                                          52\n\nSynthesis of ferrocenated iron oxide nanoparticles\n            1. Add concentrated sulfuric acid (0.5 cm3) to ferrocene (6.84 g) to yield a\n               ferrocenium solution. Do this experiment in a fume hood.\n            2. Add the ferrocenium solution to water (5 cm3) and stir for 30 minutes.\n            3. Prepare a mixed solution of ferrous chloride tetrahydrate (1.55 g) and ferric chloride\n               hexahydrate (4.15 g) in de-ionized water (80 cm3).\n            4. Add the mixed solution into the blue solution of ferrocenium and then stir for\n               1 hour.\n            5. Add a saturated NaOH solution slowly until the pH of solution is 12.\n            6. Collect the orange precipitate by centrifugation at 4500 rpm for 20 minutes.\n            7. Wash the precipitate with de-ionized water. Be sure that sulfate ion is completely\n               washed by checking with BaCl2 solution.\n            8. Dry orange solid at 100 °C for 1 hour. Record the weight and calculate the yield of\n               the ferrocenated iron oxide.\n\nDecolorization of methylene blue\n\n            1. Prepare a solution of methylene blue (9.9710-6 mol dm-3).\n            2. Add 100 cm3 of methylene blue in a 250 cm3-Erlenmeyer flask which is wrapped\n               with aluminum foil. Keep this flask in a dark box while stirring.\n            3. Add the prepared orange solid (0.100 g) into the solution of methylene blue.\n            4. Collect 3 cm3 of the mixture at every 5 minutes.\n            5. Centrifuge the mixture at 4500 rpm for 3 minutes.\n            6. Take the clear supernatant for spectrophotometric analysis.\n            7. Plot a graph between the absorbance at a specific wavelength and reaction time.\n\n           You may prepare iron oxide by repeating the above experiments without the addition\nferrocene and perform the decolorization of methylene blue for comparison with ferrocenated iron\noxide.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                   53\n\nTask P4. Synthesis of Aspirin\n      Aspirin or acetylsalicylic acid (ASA) is a well-known medication for the treatment of pain,\nfever, and inflammation. It is a nonsteroidal anti-inflammatory drug (NSAID). Aspirin irreversibly\ninhibits COX enzyme results in the decrease in the production of prostaglandins and\nthromboxanes, the key molecules that affect various physiological responses including\ntransmission of pain, regulation of inflammation and fever, as well as aggregation of platelets.\n\n     Perform the synthesis of acetylsalicylic acid via the esterification of salicylic acid with acetic\nanhydride.\n     Calculate % yield of the purified product.\n     Perform thin layer chromatography analysis.\n\n        Acetic anhydride                               Ethyl acetate\n        Concentrated H2SO4 (18 mol dm-3)               Hexane\n        Distilled Water                                Ice (for an ice bath)\n        Ethanol                                        Salicylic acid\n\n        Beaker, 100 cm3\n        Buchner funnel\n        Crystallizing dish (for a hot water bath and an ice bath)\n        Erlenmeyer flasks, 125 cm3 and 250 cm3\n        Filter paper\n        Graduated cylinder, 25 cm3\n        Pasteur pipet and rubber bulb\n        Stirring rod\n        Spatula\n        Suction flask\n        Capillary tube for TLC\n        TLC plate on aluminum foil or glass supports and TLC jar\n\n        Analytical balance ( 0.0001 g)\n        Hotplate\n        Water aspirator or vacuum pump\n        Stand and clamps\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                     54\n\nProcedure:\n       1. Weigh out 5.00 g of salicylic acid. Transfer this to a 125 cm3 Erlenmeyer flask. Record\nthe mass.\n        2. In the hood, add 7.0 cm3 of acetic anhydride to the flask contained salicylic acid.\n        3. Carefully add 8 drops of concentrated sulfuric acid (18 mol dm-3) to the reaction flask.\n        4. Assemble a hot water bath using a beaker and a hotplate.\n       5. Place the flask in the water bath and heat. After the water begins to boil, heat for an\nadditional 15 minutes.\n        6. Allow the reaction flask to cool down for few minutes.\n       7. Carefully add 15.0 cm3 of room temperature water to the flask. Swirl the flask to mix the\ncontents.\n        8. Place the reaction flask in an ice bath. Let it cool down until the crystallization of the\nproduct completes (approx. 15 minutes). If crystals do not appear, scratch the walls of the flask\nwith a stirring rod to induce crystallization.\n        9. Collect the solid product by vacuum filtration using a Buchner funnel.\n       10. Transfer the solid product from the Buchner funnel to a 250 cm3 Erlenmeyer flask.\nRecrystallize the crude product with ethanol and water.\nRecrystallization Protocol: Add preheated ethanol until the product is all dissolved. While heating the\nsolution, add water dropwise and swirl. Keep adding water until the solution becomes cloudy. To the cloudy\nsolution, hot ethanol is added dropwise until the solution becomes clear. Remove the flask from heating\nand allow the solution to cool down undisturbed to the room temperature. Crystals should form. Chill the\nflask containing crystals in an ice-water bath to complete crystallization.\n\n        11. Collect the crystalline product using by vacuum filtration using a Buchner funnel.\n        12. Dry the product. Record weight and determine % yield\n       13. Perform thin layer chromatography (TLC) to determine the purity of the purified\nproduct.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                        55\n\nTask P5. Synthesis of Benzopinacolone\n       The pinacol–pinacolone rearrangement can be used to convert 1,2-diol to carbonyl\ncompound. The reaction takes place under acidic conditions. In this experiment, benzopinacol\ncould be transformed to benzopinacolone via acid-catalyzed carbocation rearrangement.\n\n        Perform the acid catalyzed pinacol–pinacolone rearrangement.\n        Calculate % yield of the purified product.\n\n        Benzopinacol\n        Ethyl acetate\n        Glacial acetic acid\n        Hexane\n        Iodine\n        Ice (for an ice bath)\n        Silicone oil or alike for oil bath\n\n        Beaker, 600 cm3                                   Round-bottomed flask , 100 cm3\n        Buchner funnel                                    Reflux condenser\n        Erlenmeyer flask, 125 cm3                         Stirring rod\n        Filter paper                                      Suction flask\n        Ice bath                                          Oil bath\n        Graduated cylinder, 25 cm3                        Spatula\n        Magnetic bar or boiling chip                      Pasteur pipette and rubber bulb\n\n        Analytical balance ( 0.0001 g)\n        Hotplate stirrer\n        Water aspirator or vacuum pump\n        Stand and clamps\n\nPreparatory problems: 49th IChO, Thailand, 2017                                             56\n\nProcedure:\n        1. Place 25 cm3 of glacial acetic acid and 0.1 g of iodine in a 100 cm3 round-bottomed flask\nequipped with a reflux condenser.\n        2. Add 0.015 mol of benzopinacol. (Benzopinacol could be prepared from photochemical\nreaction of benzophenone and isopropyl alcohol, see appendix C.)\n        3. Reflux the solution for 10 minutes in a hot oil bath.\n        4. Cool the reaction mixture to room temperature.\n        5. Collect the solid by vacuum filtration using Buchner funnel. Record the mass of crude\nproduct.\n        6. Recrystallize the crude product with the mixture of ethyl acetate and hexane (The\nrecrystallization protocol is similar to that described in Task P4).\n        7. Collect the crystals by vacuum filtration using Buchner funnel. Record the mass of\nrecrystallized product.\n        8. Determine the yield of the product.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                  57\n\n                                          APPENDICES\n\nAPPENDIX A\n\nA1: SAFETY RULES FOR STUDENTS IN THE LABORATORY\n        All students of chemistry must recognize that hazardous materials cannot be completely\navoided. Chemists must learn to handle all materials in an appropriate fashion. While it is not\nexpected that all students participating in the International Chemistry Olympiad know the hazards\nof every chemical, the organizers of the competition will assume that all participating students\nknow the basic safety procedures. For example, the organizers will assume that students know that\neating, drinking or smoking in the laboratory or tasting a chemical is strictly forbidden.\n\n        In addition to the common-sense safety considerations to which students should have been\npreviously exposed, some specific rules, listed below, must also be followed during the Olympiad.\nIf any question arises concerning safety procedures during the practical exam, the student should\nnot hesitate to ask the nearest supervisor for direction.\n\nRules regarding personal protection\n        1. Eye protection must be worn in the laboratories at all times. If the student wears contact\nlenses, full protection goggles must also be worn. Eye protection will be provided by the host\ncountry.\n        2. A laboratory coat is required. Each student will supply this item for himself/herself.\n        3. Long pants and closed-toed shoes are recommended for individual safety. Long hair and\nloose clothing should be confined.\n        4. Pipetting by mouth is strictly forbidden. Each student must be provided with pipette bulb\nor pipette filler.\n\nRules for Handling Materials\n        1. Specific instructions for handling hazardous materials will be included by the host\ncountry in the procedures of the practical exam. All potentially dangerous materials will be labeled\nusing the GHS symbols. Each student is responsible for recognizing these symbols and knowing\ntheir meaning (see Appendix B).\n        2. Do not indiscriminately dispose chemicals in the sink. Follow all disposal rules provided\nby the host country.\n\nA2: SAFETY RULES AND RECOMMENDATIONS FOR THE HOST COUNTRY OF\nTHE INTERNATIONAL CHEMISTRY OLYMPIAD\n       Certainly it can be assumed that all students participating in the IChO have at least modest\nexperience with safety laboratory procedures. However, it is the responsibility of the International\nJury and the organizing country to be sure that the welfare of the students is carefully considered.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                   58\n\nReference to the Safety Rules for Students in the Laboratory will show that the students carry some\nof the burden for their own safety. Other safety matters will vary from year to year, depending on\npractical tasks. The organizers of these tasks for the host country are therefore assigned\nresponsibility in the areas listed below. The organizers are advised to carefully test the practical\ntasks in advance to ensure the safety of the experiments. This can best be accomplished by having\nstudents of ability similar to that of IChO participants carry out the testing.\n\nAPPENDIX B\nHAZARD WARNING SYMBOLS AND HAZARD DESIGNATIONS\n        Chemicals used in the IChO laboratory experiments need to be labeled according to the\nGlobally Harmonized System of Labelling of Chemicals (GHS) standard developed by the United\nNations. The organizing country should use the locally legislated GHS system (pictograms, hazard\nstatements, etc.) if it exists. If such rules do not exist, the original GHS directives\n(http://www.unece.org/trans/danger/publi/ghs/ghs_welcome_e.html) and the GHS compliant\ndocumentation by the chemical providers should be used.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                  59\n\nAPPENDIX C\n\nSynthesis of benzopinacol\nOrg. Synth. 1934, 14, 8.\nDOI: 10.15227/orgsyn.014.0008\n\nProcedure\n\nA mixture of 150 g (0.82 mol) of benzophenone, 1 drop of glacial acetic acid, and 665 g (850 cm3,\n11 mol) of isopropyl alcohol in a 1L round-bottomed flask is warmed to 45 °C. The flask is closed\nwith a tight cork firmly wired or tied in place, and is supported in an inverted position in\na tripod and exposed to direct sunlight. After 3-5 hours under the sunlight, crystals of benzopinacol\nshould be observed; after 8-10 days of exposure to the sunlight (See Note), the crystals\nof benzopinacol should be completely formed. Chill the reaction flask containing crystals in the\nice bath to complete crystallization. The crystalline product is collected by vacuum filtration,\nfiltered using Buchner funnel. The crystalline product is washed with a small quantity of isopropyl\nalcohol, and allowed to air dry. The product should be sufficiently pure for most purposes. It may\nbe crystallized by dissolving it in hot benzene, filtering, and adding 400 cm3 of hot ligroin\n(b.p. 90–100 °C) to the hot filtrate. After cooling in ice and filtering there is obtained\n129–130 g of purified product.\n\nNote:\n\nAbout 5 days of bright sunlight exposure are required to complete the reduction. The reaction can\nbe interrupted at any time, the crystals filtered, and the filtrate then exposed further.\n\nPreparatory problems: 49th IChO, Thailand, 2017                                                   60",
+   "parts": [
+    {
+     "id": "33.1",
+     "points": 1,
+     "question": "During the experimental part, the competitors must wear laboratory coats and eye",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "33.2",
+     "points": 1,
+     "question": "When handling liquids, each student must be provided with a pipette ball or filler.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "33.3",
+     "points": 1,
+     "question": "The use of acutely toxic substances (GHS hazard statement H300, H310, H330) is",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "33.4",
+     "points": 1,
+     "question": "Detailed recommendations involving students’ safety and the handling and disposal of",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "33.5",
+     "points": 1,
+     "question": "Repeat with two additional 50.00 cm3 aliquots.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "33.6",
+     "points": 1,
+     "question": "Allow the reaction flask to cool down for few minutes.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "33.7",
+     "points": 1,
+     "question": "Carefully add 15.0 cm3 of room temperature water to the flask. Swirl the flask to mix the",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "33.8",
+     "points": 1,
+     "question": "Place the reaction flask in an ice bath. Let it cool down until the crystallization of the",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "33.9",
+     "points": 1,
+     "question": "Collect the solid product by vacuum filtration using a Buchner funnel.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "33.10",
+     "points": 1,
+     "question": "Transfer the solid product from the Buchner funnel to a 250 cm3 Erlenmeyer flask.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "33.11",
+     "points": 1,
+     "question": "Collect the crystalline product using by vacuum filtration using a Buchner funnel.",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "33.12",
+     "points": 1,
+     "question": "Dry the product. Record weight and determine % yield",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    },
+    {
+     "id": "33.13",
+     "points": 1,
+     "question": "Perform thin layer chromatography (TLC) to determine the purity of the purified",
+     "reference": "",
+     "useTaskSolution": true,
+     "pointsEstimated": true
+    }
+   ],
+   "solution": "Hint: Student is encouraged to use chemistry model to figure out the plane of symmetry and the\nC2–symmetry in each molecule.\n33.1)   (i) From the possible enantiomeric pair,\n\n        The molecule has a plane of symmetry, therefore, the structure is achiral.\n\n        (ii) From the possible enantiomeric pair,\n\n        There is no plane of symmetry in these two molecules. Therefore, these two mirror image\nstructures are non-superimposable. The structure is chiral.\n        (iii) From the structure of cumulene,\n\n      This molecule is flat. As a result, there is a plane of symmetry in this molecule.\nConsequently, its mirror image is achiral.\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                             36\n\n        (iv) From the possible enantiomeric pair,\n\n        There is no plane of symmetry in these two molecules. Therefore, these two mirror image\nstructures are non-superimposable. The structure is chiral.\n\n33.2    (i)\n\n        Enantiomers of trans-cyclooctene and trans-cyclononene are shown above. The two\ndifferent structures are mirror images of each other and they are non-superimposable.\n\n        (ii) The enantiomers of both cycloalkanes are configurational isomers. The enantiomers\ncan be interconverted via the ring flipping, similar to that of the chair cyclohexane. The trans\ndouble bond adds a considerable degree of rigidity to the ring. Since the trans-cyclononene has\nmore carbon atoms so it is more flexible and can undergo the configuration inter-conversion more\nreadily.\n\nSolutions to the Preparatory problems: 49th IChO, Thailand 2017                              37"
+  }
+ ]
+}

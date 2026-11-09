@@ -1,0 +1,51 @@
+{
+ "setId": "chem-national-2023-9--chem9-2-tasks",
+ "olympiadId": "chem-national-2023-9",
+ "title": "Химия → Республиканская → 2023 → 9 класс",
+ "materialLabel": "2 тур (Практика)",
+ "lang": "ru",
+ "tasksFile": "olympiads/chemistry/national/2023/9/chem9-2-tasks.pdf",
+ "solutionFile": "olympiads/chemistry/national/2023/9/chem9-2-sol.pdf",
+ "generatedBy": "ai:agy/claude-sonnet-4-6",
+ "generatedAt": "2026-11-09T10:24:26.074Z",
+ "quality": {
+  "tasks": 1,
+  "parts": 3,
+  "withPoints": 3,
+  "withReference": 3,
+  "withQuestion": 3,
+  "estimatedPoints": 0
+ },
+ "tasks": [
+  {
+   "number": 1,
+   "title": "Определение веществ в пронумерованных пробирках",
+   "weight": 30,
+   "total": 30,
+   "statement": "В 7 пронумерованных пробирках находятся растворы соляной кислоты, нитрата свинца(II), хлорида бария, гидроксида натрия, карбоната натрия, гидрофосфата натрия, бихромата калия. Используя только эти растворы в качестве реактивов, определите, в какой из пронумерованных пробирок какое вещество находится. Предложите план проведения анализа. Запишите уравнения всех соответствующих реакций в молекулярном и ионном виде.",
+   "parts": [
+    {
+     "id": "1.1",
+     "points": 10,
+     "pointsEstimated": false,
+     "question": "Предложите план работы и составьте теоретическую матрицу взаимодействий всех 7 веществ между собой.",
+     "reference": "План работы, матрицы – 10 баллов (3 б + 5 б + 2 б).\n\nТеоретическая матрица:\n\nРеагент | НCl | Pb(NO3)2 | BaCl2 | NaOH | Na2CO3 | Na2HPO4 | K2Cr2O7 | Σ\nНCl | - | PbCl2↓ бел. | - | - | CO2↑ | - | - | ↓ бел., ↑\nPb(NO3)2 | PbCl2↓ бел. | - | PbCl2↓ бел. | Pb(OH)2↓* бел. | PbCO3↓ бел. | Pb3(PO4)2↓ бел. | PbCrO4↓ жел. | 5↓(↓*) бел., ↓ жел.\nBaCl2 | - | PbCl2↓ бел. | - | - | BaCO3↓ бел. | BaHPO4↓ бел. | BaCrO4↓ жел. | 3↓ бел., ↓ жел.\nNaOH | - | Pb(OH)2↓* бел. | - | - | - | - | CrO42-, желт. | 2↓(↓*) бел., жел.цв.\nNa2CO3 | CO2↑ | PbCO3↓ бел. | BaCO3↓ бел. | - | - | - | CrO42-, желт. | 3↓ бел., ↑, жел.цв.\nNa2HPO4 | - | Pb3(PO4)2↓ бел. | BaHPO4↓ бел. | - | - | - | CrO42-, желт. | 3↓ бел., жел.цв.\nK2Cr2O7 | - | PbCrO4↓ жел. | BaCrO4↓ жел. | CrO42-, желт. | CrO42-, желт. | CrO42-, желт. | - | 2↓ жел., 3 жел.цв.\nΣ | ↓ бел., ↑ | 5↓(↓*) бел., ↓ жел. | 3↓ бел., ↓ жел. | 2↓(↓*) бел., жел.цв. | 3↓ бел., ↑, жел.цв. | 3↓ бел., жел.цв. | 2↓ жел., 3 жел.цв. |"
+    },
+    {
+     "id": "1.2",
+     "points": 9.5,
+     "pointsEstimated": false,
+     "question": "Запишите уравнения всех протекающих химических реакций в молекулярном и ионном виде.",
+     "reference": "Химические реакции: 38 реакций × 0.25 б. = 9.5 баллов.\n\n(Каждая реакция в молекулярной и ионной форме в паре считается за одну единицу; всего 19 пар = 38 уравнений; каждое уравнение — 0.25 балла.)\n\n1. 2HCl + Pb(NO3)2 = PbCl2↓ + 2HNO3\n   Pb2+ + 2Cl- = PbCl2↓\n2. HCl + NaOH = NaCl + H2O\n   H+ + OH- = H2O\n3. 2HCl + Na2CO3 = 2NaCl + H2O + CO2↑\n   2H+ + CO32- = H2O + CO2↑\n4. 2HCl + Na2HPO4 = H3PO4 + 2NaCl\n   2H+ + HPO42- = H3PO4\n5. 2HCl + K2Cr2O7 = H2Cr2O7 + 2KCl\n   2H+ + Cr2O72- = H2Cr2O7\n6. Pb(NO3)2 + BaCl2 = PbCl2↓ + Ba(NO3)2\n   Pb2+ + 2Cl- = PbCl2↓\n7. Pb(NO3)2 + 2NaOH = Pb(OH)2↓ + 2NaNO3\n   Pb2+ + 2OH- = Pb(OH)2↓\n8. Pb(OH)2↓ + 2NaOH = Na2[Pb(OH)4]\n   Pb(OH)2↓ + 2OH- = [Pb(OH)4]2-\n9. Pb(NO3)2 + Na2CO3 = PbCO3↓ + 2NaNO3\n   Pb2+ + CO32- = PbCO3↓\n10. 3Pb(NO3)2 + 4Na2HPO4 = Pb3(PO4)2↓ + 6NaNO3 + 2NaH2PO4\n    3Pb2+ + 4HPO42- = Pb3(PO4)2↓ + 2H2PO4-\n11. 2Pb(NO3)2 + K2Cr2O7 + H2O = 2PbCrO4↓ + 2KNO3 + 2HNO3\n    2Pb2+ + Cr2O72- + H2O = 2PbCrO4↓ + 2H+\n12. BaCl2 + Na2CO3 = BaCO3↓ + 2NaCl\n    Ba2+ + CO32- = BaCO3↓\n13. BaCl2 + Na2HPO4 = BaHPO4↓ + 2NaCl\n    Ba2+ + HPO42- = BaHPO4↓\n14. 2BaCl2 + K2Cr2O7 + H2O = 2BaCrO4↓ + 2KCl + 2HCl\n    2Ba2+ + Cr2O72- + H2O = 2BaCrO4↓ + 2H+\n15. Na2HPO4 + NaOH = Na3PO4 + H2O\n    HPO42- + OH- = PO43- + H2O\n16. K2Cr2O7 + 2NaOH = K2CrO4 + Na2CrO4 + H2O\n    Cr2O72- + 2OH- = 2CrO42- + H2O\n17. Na2CO3 + Na2HPO4 = Na3PO4 + NaHCO3\n    CO32- + HPO42- = PO43- + HCO3-\n18. Na2CO3 + K2Cr2O7 = K2CrO4 + Na2CrO4 + CO2↑\n    CO32- + Cr2O72- = 2CrO42- + CO2↑\n19. 2Na2HPO4 + K2Cr2O7 + H2O = K2CrO4 + Na2CrO4 + 2NaH2PO4\n    2HPO42- + Cr2O72- + H2O = 2CrO42- + 2H2PO4-"
+    },
+    {
+     "id": "1.3",
+     "points": 10.5,
+     "pointsEstimated": false,
+     "question": "Определите (обнаружьте) каждое из 7 веществ в пронумерованных пробирках на основании проведённого анализа.",
+     "reference": "Обнаружение веществ: 7 веществ × 1.5 б. = 10.5 баллов.\n\nКаждое правильно идентифицированное вещество (HCl, Pb(NO3)2, BaCl2, NaOH, Na2CO3, Na2HPO4, K2Cr2O7) оценивается в 1.5 балла.\n\nОснования для идентификации (из матрицы):\n— HCl: даёт белый осадок только с Pb(NO3)2 (PbCl2↓) и газ (CO2↑) с Na2CO3; суммарно: ↓ бел., ↑.\n— Pb(NO3)2: даёт наибольшее число осадков — 5 белых (↓*) и 1 жёлтый (PbCrO4↓) — максимум реакций среди всех.\n— BaCl2: даёт 3 белых осадка (BaCO3↓, BaHPO4↓, PbCl2↓) и 1 жёлтый (BaCrO4↓).\n— NaOH: даёт 2 белых осадка (↓*) и жёлтое окрашивание раствора (CrO42-).\n— Na2CO3: даёт 3 белых осадка, газ (CO2↑ с HCl) и жёлтое окрашивание (CrO42- с K2Cr2O7).\n— Na2HPO4: даёт 3 белых осадка и жёлтое окрашивание (CrO42- с K2Cr2O7), без газа.\n— K2Cr2O7: даёт 2 жёлтых осадка (PbCrO4↓, BaCrO4↓) и 3 жёлтых окрашивания раствора."
+    }
+   ]
+  }
+ ]
+}

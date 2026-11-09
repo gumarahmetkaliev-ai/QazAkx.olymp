@@ -3,7 +3,7 @@
  * POST /api/check-task
  */
 
-const { checkOlympiadTask } = require("./lib/ai-service");
+const { checkOlympiadTask } = require("./_lib/ai-service");
 
 function setCorsHeaders(res) {
   res.setHeader("Access-Control-Allow-Origin", "*");

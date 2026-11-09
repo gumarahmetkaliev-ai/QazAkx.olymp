@@ -1,25 +1,73 @@
 {
   "cleanUrls": false,
-  "routes": [
-    { "src": "/olympiads/(.+)\\.pdf", "dest": "/public/olympiads/$1.pdf" },
-    { "src": "/olympiads/.*", "dest": "/index.html" },
-    { "src": "/auth/.*", "dest": "/index.html" }
+  "functions": {
+    "api/grade.js": {
+      "maxDuration": 60,
+      "includeFiles": "data/**"
+    },
+    "api/task-set.js": {
+      "includeFiles": "data/tasks/**"
+    },
+    "api/pdf-proxy.js": {
+      "maxDuration": 30,
+      "includeFiles": "data/chemistry-sources.json"
+    }
+  },
+  "redirects": [
+    {
+      "source": "/data/tasks/:path*",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/data/chemistry-sources.json",
+      "destination": "/",
+      "permanent": false
+    },
+    {
+      "source": "/(lib|scripts|tests|supabase)/:path*",
+      "destination": "/",
+      "permanent": false
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/olympiads/:path(.*\\.pdf)",
+      "destination": "/public/olympiads/:path"
+    },
+    {
+      "source": "/olympiads/:id",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/progress",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/account",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/auth/:path*",
+      "destination": "/index.html"
+    }
   ],
   "headers": [
     {
-      "source": "/olympiads/:path.pdf",
+      "source": "/public/olympiads/(.*)",
       "headers": [
-        { "key": "Content-Type", "value": "application/pdf" },
-        { "key": "Content-Disposition", "value": "inline" },
-        { "key": "X-Content-Type-Options", "value": "nosniff" }
-      ]
-    },
-    {
-      "source": "/public/olympiads/:path.pdf",
-      "headers": [
-        { "key": "Content-Type", "value": "application/pdf" },
-        { "key": "Content-Disposition", "value": "inline" },
-        { "key": "X-Content-Type-Options", "value": "nosniff" }
+        {
+          "key": "Content-Type",
+          "value": "application/pdf"
+        },
+        {
+          "key": "Content-Disposition",
+          "value": "inline"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400"
+        }
       ]
     }
   ]

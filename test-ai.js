@@ -3,7 +3,7 @@
  */
 
 const http = require("http");
-const { buildSystemPrompt, getAIHealth, checkChemistrySolution, checkOlympiadTask, handleChat } = require("./api/lib/ai-service");
+const { buildSystemPrompt, getAIHealth, checkChemistrySolution, checkOlympiadTask, handleChat } = require("./api/_lib/ai-service");
 const server = require("./server");
 
 let passed = 0;
