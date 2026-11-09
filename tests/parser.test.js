@@ -56,3 +56,13 @@ assert.strictEqual(matchTaskHeader("Задача №1. Олеум (10%)         
   assert.deepStrictEqual(t.parts.map((p) => [p.points, Boolean(p.pointsEstimated)]), [[5, true], [5, true]]);
 }
 console.log("format tests: OK");
+
+// Страховка регламента: голые ответы без хода решения
+{
+  const { isBareAnswer } = require("../lib/jury");
+  assert(isBareAnswer("89,11%; 9,77% и 90,23%; 328,77 г; 58,5%"));
+  assert(isBareAnswer("0,7 моль"));
+  assert(!isBareAnswer("n(KOH) = 39,2/56 = 0,7 моль"));
+  assert(!isBareAnswer("2KOH + H2SO4 → K2SO4 + 2H2O"));
+  console.log("jury guard tests: OK");
+}
