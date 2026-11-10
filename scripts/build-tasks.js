@@ -470,7 +470,7 @@ async function main() {
         const ai = await structureWithAI(linearize(tasksText).text, linearize(solText).text, mat.lang);
         const aq = qualityReport(ai.tasks);
         // ИИ-разбор берём, если у него есть баллы у всех пунктов и эталонов не меньше, чем у парсера
-        if (aq.tasks && aq.withPoints === aq.parts && aq.withReference >= Math.min(q.withReference, aq.parts * 0.6)) {
+        if (aq.tasks && aq.withPoints === aq.parts && (aq.withReference >= aq.parts * 0.6 || aq.withReference >= Math.min(q.withReference, aq.parts * 0.6))) {
           tasks = ai.tasks;
           q = aq;
           generatedBy = `ai:${ai.model}`;
