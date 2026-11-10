@@ -7,148 +7,172 @@
  "tasksFile": "olympiads/geography/s/igeo/2021/geo-2-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T18:10:05.874Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:39:37.013Z",
  "quality": {
-  "tasks": 9,
-  "parts": 9,
-  "withPoints": 9,
+  "tasks": 6,
+  "parts": 15,
+  "withPoints": 15,
   "withReference": 0,
-  "withQuestion": 9,
-  "estimatedPoints": 9
+  "withQuestion": 15,
+  "estimatedPoints": 15
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
-   "statement": "You have the printed Map of the FWE-I area. Use this map to orient yourself and find the location of\nfive topical sites. The sites are marked on the map, but not labelled.",
-   "total": 7,
+   "title": "Site 1. Istanbul Heights",
+   "weight": 3,
+   "total": 15,
+   "statement": "Site 1 is right across the road from an unfinished building of a hotel. Analyze the map extract and assuming that each floor of this building is 2.5 meters in height and the terrace on its roof is the same height, answer the questions from the next slide.",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.A",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Is the absolute height (elevation) of the hotel building higher than pillars of bridges over The Bosphorus strait?",
+     "reference": ""
+    },
+    {
+     "id": "1.B",
+     "points": 2,
+     "pointsEstimated": true,
+     "question": "Estimate the difference (in meters) of the height of this building and the pillars of the highest bridge over The Bosphorus.",
      "reference": ""
     }
    ]
   },
   {
    "number": 2,
-   "title": "Задача 2",
-   "statement": "The sequence of moving from one site to another is in numeric order: Site 1 (Start) → Site 2 → Site 3\n→ Site 4 → Site 5 (Finish).",
-   "total": 7,
+   "title": "Site 2 – Mediterranean Vegetation",
+   "weight": 3,
+   "total": 15,
+   "statement": "Site 2 is in the middle of the Ataturk urban forest, established in 2021. This is a park with native and planted trees, developed on the unbuilt area in Sariyer district. Be an expert in Mediterranean vegetation and answer the questions 2.A. and 2.B.",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "2.A",
+     "points": 2,
      "pointsEstimated": true,
+     "question": "The Mediterranean forests, woodlands and shrubs biome is spread worldwide. Provide the common names of five different Mediterranean types of vegetation and specify the continents where each of these types is represented.",
+     "reference": ""
+    },
+    {
+     "id": "2.B",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Select the species from the photos which are NOT native for the forests of modern Istanbul city area and write down on the Response Sheet the corresponding letter codes (A-F).",
      "reference": ""
     }
    ]
   },
   {
    "number": 3,
-   "title": "Задача 3",
-   "statement": "The absolute height (elevation) at each site is lower than of the previous one on the route. Always go\ndown!",
-   "total": 7,
+   "title": "Site 3 – Geology of Eastern Thrace",
+   "weight": 4,
+   "total": 15,
+   "statement": "Site 3 is near a rock outcrop.",
    "parts": [
     {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "3.A",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Identify the exposed rock and its origin.",
+     "reference": ""
+    },
+    {
+     "id": "3.B",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "The chronostratigraphic chart below contains the results from drilling a geological borehole here. Which geological system (period) name is omitted in Column 1?",
+     "reference": ""
+    },
+    {
+     "id": "3.C",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Match the rocks, shown on figures 3.A.-3.F., to the layers 2-6 in the Chronostratigraphic chart.",
+     "reference": ""
+    },
+    {
+     "id": "3.D",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Identify the rock from the Figure 3 NOT found in this borehole and give their origin.",
      "reference": ""
     }
    ]
   },
   {
    "number": 4,
-   "title": "Задача 4",
-   "statement": "“Leaving” one site and “arriving” at the next one, do not return. Always move forward!",
-   "total": 7,
+   "title": "Site 4 – River",
+   "weight": 3,
+   "total": 15,
+   "statement": "Site 4 is located on the dam over a small river running through the Ataturk urban forest. Consult the map extract and circle on the printed map the catchment area of this river.",
    "parts": [
     {
-     "id": "4",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "4.A",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Estimate the annual runoff of this river (m3).",
+     "reference": ""
+    },
+    {
+     "id": "4.B",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "In urban households equipped with water pipe and sanitation systems, the water consumption norm per capita is 150 liters. How many people could hypothetically get all the water they need from this river? (provide a number)",
+     "reference": ""
+    },
+    {
+     "id": "4.C",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Why in real life, is this number much lower, and what are the options for make it closer to the hypothetic number?",
      "reference": ""
     }
    ]
   },
   {
    "number": 5,
-   "title": "Задача 5",
-   "statement": "At each site you will get tasks you need to complete. For FWE-I you can gain maximum 15 marks.",
-   "total": 7,
+   "title": "Site 5 – Building on Slopes",
+   "weight": 3,
+   "total": 15,
+   "statement": "Site 5 corresponds to the spot marked with ‘X’ on the map extract in the Response Sheet.",
    "parts": [
     {
-     "id": "5",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "5.A",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Mark Spot ‘Y’ on this fragment, which is located 40 meters from Spot X on a bearing of 60 degrees (in azimuth 60 degrees).",
+     "reference": ""
+    },
+    {
+     "id": "5.B",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Estimate the steepness of the slope (inclination angle in degrees) between spots X and Y.",
+     "reference": ""
+    },
+    {
+     "id": "5.C",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which types of mass wasting (slope movement) represent danger for building on slopes with similar steepness near the Ataturk Urban Forest: a) avalanche, b) creep, c) lahar, d) landslide, e) rock-fall, f) solifluction?",
      "reference": ""
     }
    ]
   },
   {
    "number": 6,
-   "title": "Задача 6",
-   "statement": "You are to decide for how long you will be “staying” at each site.",
-   "total": 7,
+   "title": "Concluding Question",
+   "weight": 2,
+   "total": 15,
+   "statement": "Near the Ataturk urban forest several traditional rural style houses can be found. Until 1937, there was a settlement here, named Çamlıtepe Village.",
    "parts": [
     {
-     "id": "6",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "6.1",
+     "points": 2,
      "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 7,
-   "title": "Задача 7",
-   "statement": "Answers should be written in English on the Response Sheet. For answers use a pen with a dark blue\ntint only. Do not forget to write your participant code in the upper right corner of both pages of the\nResponse Sheet.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "7",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 8,
-   "title": "Задача 8",
-   "statement": "This presentation will be stopped when 60 minutes end, regardless of whether you have visited all five\nsites, or not. Deliver your Response Sheet to the supervisor of your exam immediately then.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "8",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 9,
-   "title": "Задача 9",
-   "statement": "Keep the Map with you, it can be used as reference for Part II of the Fieldwork exercise (FWE-II).\n\n                                                Good luck!\n\nARRIVING TO THE STARTING POINT\nImagine you to the Hacıosman\nmetro station (green line), located\nin the Eastern Thrace, 2 km from\nthe Bosphorus.\n\nSITE 1. ISTANBUL HEIGHTS\n\nSite 1 is right across the road\nfrom an unfinished building of a\nhotel.\nAnalyze the map extract and\nassuming that each floor of this\nbuilding is 2.5 meters in height\nand the terrace on its roof is the\nsame height, answer the\nquestions from the next slide.\n\n                                     SITE 1. ISTANBUL HEIGHTS",
-   "total": 7,
-   "parts": [
-    {
-     "id": "9",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
+     "question": "Which features of this geographical location have benefited the development of this settlement?",
      "reference": ""
     }
    ]

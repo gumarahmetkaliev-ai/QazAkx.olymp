@@ -7,223 +7,66 @@
  "tasksFile": "olympiads/astronomy/s/ioaa/2011/astro-1-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T18:02:26.022Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:17:47.388Z",
  "quality": {
-  "tasks": 14,
-  "parts": 14,
-  "withPoints": 14,
+  "tasks": 2,
+  "parts": 5,
+  "withPoints": 5,
   "withReference": 0,
-  "withQuestion": 14,
-  "estimatedPoints": 14
+  "withQuestion": 5,
+  "estimatedPoints": 5
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
-   "statement": "In your envelope you will receive an English and native language versions of the questions.",
-   "total": 7,
+   "title": "Analysis of times of minima",
+   "weight": 25,
+   "total": 25,
+   "statement": "Figure 1 shows the light curve of the eclipsing binary V1107 Cas, classified as a W Ursae Majoris type. Table 1 contains a list of observed minima of the light variation. The columns contain: the number of the minimum, the date on which the minimum was observed, the heliocentric time of minimum expressed in Julian days and an error (in fractions of a day). Using these data:",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
+     "id": "1.a",
+     "points": 6,
+     "pointsEstimated": true,
+     "question": "Determine an initial period of V1107 Cas, assuming that the period of the star is constant during the interval of observations. Assume that observations during one night are continuous. Duration of the transit is negligible.",
+     "reference": ""
+    },
+    {
+     "id": "1.b",
+     "points": 6,
+     "pointsEstimated": true,
+     "question": "Make what is known as an (O−C) diagram (for “observed − calculated”) of the times of minima, as follows: on the x-axis put the number of periods elapsed (the “epoch”) since a chosen initial moment Mo ; on the y-axis the difference between the observed moment of minimum Mobs and the moment of minimum calculated using the formula (“ephemeris”): Mcalc = Mo + P × E, where E, the epoch, is exactly an integer or half-integer, and P is the period in days.",
+     "reference": ""
+    },
+    {
+     "id": "1.c",
      "points": 7,
      "pointsEstimated": true,
+     "question": "Using this (O−C) diagram, improve the determination of the initial moment Mo and the period P, and estimate the errors in their values.",
+     "reference": ""
+    },
+    {
+     "id": "1.d",
+     "points": 6,
+     "pointsEstimated": true,
+     "question": "Calculate the predicted times of minima of V1107 Cas given in heliocentric JD occurring between 19h, 1 September 2011 UT and 02h, 2 September 2011 UT.",
      "reference": ""
     }
    ]
   },
   {
    "number": 2,
-   "title": "Задача 2",
-   "statement": "You have 2.5 hours to solve 2 tasks.",
-   "total": 7,
+   "title": "Weighing a galaxy",
+   "weight": 25,
+   "total": 25,
+   "statement": "The attached images show a photograph of the spiral galaxy NGC 7083, which lies at a distance of 40 Mpc, and a fragment of its spectrum. The slit of the spectrograph was aligned with the major axis of the image of the galaxy. The x-axis of the spectrum represents wavelength, and the y-axis represents the angular distance of the emitting region from the core of the galaxy, where 1 pixel = 0.82 arcsec. Two bright emission lines are visible, with rest wavelengths of λ1 = 6564 Å, λ2 = 6584 Å. Assumption: central bulge is spherical. The photograph of the galaxy has the correct proportions.",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "2.1",
+     "points": 25,
      "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 3,
-   "title": "Задача 3",
-   "statement": "You can get maximum 25 points for each task.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 4,
-   "title": "Задача 4",
-   "statement": "You can use only the pen and tools given on the desk.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "4",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 5,
-   "title": "Задача 5",
-   "statement": "The solutions of each task should be written on the answer sheets, starting each question on a new page.\n     Only the answer sheets will be assessed.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "5",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 6,
-   "title": "Задача 6",
-   "statement": "You may use the blank sheets for additional working. These work sheets will not be assessed",
-   "total": 7,
-   "parts": [
-    {
-     "id": "6",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 7,
-   "title": "Задача 7",
-   "statement": "At the top of each page you should put down your code and task number.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "7",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 8,
-   "title": "Задача 8",
-   "statement": "If solution exceeds one page, please number the pages for each task.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "8",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 9,
-   "title": "Задача 9",
-   "statement": "Draw a box around your final answer.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "9",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 10,
-   "title": "Задача 10",
-   "statement": "Numerical results should be given with appropriate number of significant digits with units.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "10",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 11,
-   "title": "Задача 11",
-   "statement": "You should use SI or units commonly used in astronomy. Points will be deducted if there is a lack    of\n    units or inappropriate number of significant digits.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "11",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 12,
-   "title": "Задача 12",
-   "statement": "At the end of the test, all sheets of paper should be put into the envelope and left on the desk.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "12",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 13,
-   "title": "Задача 13",
-   "statement": "In your solution please write down each step and partial results.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "13",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 14,
-   "title": "Задача 14",
-   "statement": "Graphs for tasks number 1 and 2 should be prepared on the plotting paper.\n\n                                                                                                 v2\n\n                                  Data Analysis questions",
-   "total": 7,
-   "parts": [
-    {
-     "id": "14",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
+     "question": "Use the spectrum to plot the rotation curve of the galaxy and estimate the mass of the central bulge.",
      "reference": ""
     }
    ]

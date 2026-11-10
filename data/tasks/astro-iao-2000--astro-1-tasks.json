@@ -7,43 +7,148 @@
  "tasksFile": "olympiads/astronomy/s/iao/2000/astro-1-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T18:09:54.124Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:23:53.872Z",
  "quality": {
-  "tasks": 2,
-  "parts": 2,
-  "withPoints": 2,
+  "tasks": 8,
+  "parts": 9,
+  "withPoints": 9,
   "withReference": 0,
-  "withQuestion": 2,
-  "estimatedPoints": 2
+  "withQuestion": 9,
+  "estimatedPoints": 9
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
-   "statement": "As you know, the most widely used calendar in the middle centuries was Julian. Just now most countries use\nthe Gregorian calendar and the difference between Julian and Gregorian calendars is 13 days: for the same\ndays dates in the Julian calendar fall behind the dates in the Gregorian calendar by 13. Last time the dates in\nthese calendars coincided were in the 3rd century.\nCalculate in what century such a difference will be 1 year and the 22 nd of October (for example) in\nGregorian calendar will coincide with the 22nd of October in the Julian once again.",
-   "total": 7,
+   "title": "Julian and Gregorian calendars",
+   "weight": 10,
+   "total": 10,
+   "statement": "As you know, the most widely used calendar in the middle centuries was Julian. Just now most countries use the Gregorian calendar and the difference between Julian and Gregorian calendars is 13 days: for the same days dates in the Julian calendar fall behind the dates in the Gregorian calendar by 13. Last time the dates in these calendars coincided were in the 3rd century.",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Calculate in what century such a difference will be 1 year and the 22 nd of October (for example) in Gregorian calendar will coincide with the 22nd of October in the Julian once again.",
      "reference": ""
     }
    ]
   },
   {
    "number": 2,
-   "title": "Задача 2",
-   "statement": "Two stars have the same apparent magnitude and are of the same spectral type. One is twice as far away as\nthe other. What is the relative size of the two stars?\n\nGroup B.",
-   "total": 7,
+   "title": "Two stars",
+   "weight": 10,
+   "total": 10,
+   "statement": "Two stars have the same apparent magnitude and are of the same spectral type. One is twice as far away as the other.",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "2.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "What is the relative size of the two stars?",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Quasar",
+   "weight": 10,
+   "total": 10,
+   "statement": "A quasar is observed and it is found that a line whose rest wavelenght is 3000 Ao is observed at 15000 Ao. Estimate (Both answers may be done with an accuracy of 30 %):",
+   "parts": [
+    {
+     "id": "3.1",
+     "points": 5,
+     "pointsEstimated": true,
+     "question": "How fast is the quasar receding?",
+     "reference": ""
+    },
+    {
+     "id": "3.2",
+     "points": 5,
+     "pointsEstimated": true,
+     "question": "How far away is it if its distance is given by the Hubble relation (The Hubble constant is H = 75 km/s/Mpc)?",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Black cats on a small body",
+   "weight": 10,
+   "total": 10,
+   "statement": "Young scientists from the Komi-Republic territory (in the Russian Federation) registered a few days ago a new object looking like an eclipsing binary star. But the period of this star was not stable: the stellar magnitude of the object is usually equal to 24.32m. Once every 7-11 seconds it is rising to 24.52m for 0.2-0.3 seconds. After investigations it was clear that the shining object is eyes of a group of absolutely black cats sitting on a small absolutely black body in our Solar System and looking towards the Sun! And one of the cats is blinking! Draw a picture explaining your solution. Consider that all the cats are equal in size.",
+   "parts": [
+    {
+     "id": "4.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Calculate the number of cats in the group sitting on the small body and looking to the Sun. Draw a picture explaining your solution.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Moon's orbit eccentricity",
+   "weight": 10,
+   "total": 10,
+   "statement": "There are two photos of the Moon taken by the same camera mounted on the same telescope (the telescope is placed on the Earth). The first photo has been made while the Moon was near its perigee and the second one – near the apogee.",
+   "parts": [
+    {
+     "id": "5.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Find from these data the value of the Moon's orbit eccentricity. Estimate the minimal period between the moments at which these two photos could be taken.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Cosmonaut and astronaut",
+   "weight": 10,
+   "total": 10,
+   "statement": "A cosmonaut in a spacecraft is moving over the Moon surface through the Mare Frigoris at an altitude of 100 km. An astronaut is walking on the Moon's surface at Mare Frigoris and it is daytime at that place (the Sun is shining).",
+   "parts": [
+    {
+     "id": "6.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Can the cosmonaut register the astronaut using binoculars with a magnification of 20x. Take into account all the possibilities.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Radio source on a satellite of Olympia",
+   "weight": 10,
+   "total": 10,
+   "statement": "There is a radio source placed on a satellite of some planet named \"Olympia\". The radio source is working all the time but an observer does not register the signal all the time due to eclipses. The figure shows the level of the receiving signal by the observer vs time. Take into account that the orbit of the satellite is circular, the observer is in the plane of the satellite's orbit and \"Olympia\" is far away from the observer. (Sorry, picture couldn’t load)",
+   "parts": [
+    {
+     "id": "7.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Find from these data the average density of the planet.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Schmidt camera and sky coverage",
+   "weight": 10,
+   "total": 10,
+   "statement": "An 1.2-meter Schmidt camera has a 6°  6° field of view. Explain your calculations. Where do you have to place your telescope to be able to do this?",
+   "parts": [
+    {
+     "id": "8.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Estimate how many photographs you would have to take to cover the whole sky. (Please, make an estimation of the maximum and minimum number of photos.)",
      "reference": ""
     }
    ]

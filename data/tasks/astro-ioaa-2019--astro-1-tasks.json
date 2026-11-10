@@ -6,44 +6,122 @@
  "lang": "ru",
  "tasksFile": "olympiads/astronomy/s/ioaa/2019/astro-1-tasks.pdf",
  "solutionFile": "olympiads/astronomy/s/ioaa/2019/astro-1-sol.pdf",
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:50:39.632Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:13:45.092Z",
  "quality": {
   "tasks": 2,
-  "parts": 2,
-  "withPoints": 2,
-  "withReference": 2,
-  "withQuestion": 2,
-  "estimatedPoints": 2
+  "parts": 15,
+  "withPoints": 15,
+  "withReference": 15,
+  "withQuestion": 15,
+  "estimatedPoints": 0
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
-   "statement": "Photometry and spectroscopy of Nova Del 2013                                                               (60 p)\n   Classical nova V339 Del (Nova Delphini 2013) was discovered by Koichi Itagaki at 6.8 magnitude on\n   14 August 2013 at 14:01 UT (MJD = 56518.584). Both professional and amateur astronomers analysed\n   the photometry and spectroscopy of the nova. Less than 10 hours after the alert, when the night falls\n   at the Piszkéstető Mountain Station of the Konkoly Observatory of the Hungarian Academy of\n   Sciences, Hungarian astronomers took the first spectrum data of the nova using the eShel echelle\n   spectrograph in the Gothard Astrophysical Observatory of Loránd Eötvös University attached to the 1\n   meter telescope of the Konkoly Observatory.\n   Refer to Fig 1.1 and Fig 1.2 to complete the questions. The larger versions of Fig 1.1 and Fig 1.2 are\n   found on separate A3 papers.\n\n       Fig. 1.1: Nova Del 2013 – Johnson V light curve          Fig. 1.2: Nova Del 2013 – Spectra around Hα line\n\n   Fig. 1.1 shows the visual light curve of the nova based on the data downloaded from the website of\n   AAVSO (American Association of Variable Star Observers). On the horizontal and vertical axes, the\n   Modified Julian Date (MJD = JD−2 400 000.5) of the observations and the Johnson V magnitudes are\n   plotted, respectively. The grey circles (about 38000 data points) represent the measured values, while\n   the continuous black line is the result of smoothing the data with a Gaussian filter (Full Width at Half\n   Maximum = 0.5 day) to define an \"average\" light curve from the data points.\n   The rate of decline can be characterized by the values 𝑡2 and 𝑡3 , which show the time interval in days\n   in which a nova fades from its maximum brightness by 2 and 3 magnitudes.\n   A few empirical formulae between the peak of the absolute magnitude in the V band (𝑀0 ) and 𝑡2 , 𝑡3\n   values can be found in the following literature:\n                                           1.32−log 𝑡2\n      (a) 𝑀0 = −7.92 − 0.81 arctan                          (Della Valle, M. & Livio, M.: 1995, ApJ 452, 704)\n                                              0.23\n\n      (b) 𝑀0 = −11.32 + 2.55 log 𝑡2                      (Downes, R.A. & Durbeck, H.W.: 2000, AJ 120, 2007)\n      (c) 𝑀0 = −11.99 + 2.54 log 𝑡3                      (Downes, R.A. & Durbeck, H.W.: 2000, AJ 120, 2007)\n   The 𝐸 (𝐵 − 𝑉 ) color excess of Nova Del 2013 (Chochol, D. et al.: 2014, Contrib. Astron. Obs. Skalnaté\n   Pleso 43, 330) is:\n          𝐸 (𝐵 − 𝑉 ) = 0.184 ± 0.035\n   Fig 1.2 shows the nova spectra taken in the wavelength region around the Hα line on six consecutive\n   nights before and after the time of the maximum brightness (𝑡0 ). The individual spectra have been\n\n                      Data analysis problem sheet                                           Page 2 of 5\n\nshifted vertically for clarity. The Modified Julian Dates (MJD) of the observations are listed on the\nright hand side of each spectrum slice.\nThe Hα line shows the so-called P Cygni profile with very broad wings, which is typical not of novae\nonly, but is present in almost all spectral types and is a reliable sign of a massive radial motion of\nmatter ejected from the star. The P Cygni profile is composed of a strong, broad emission peak which\nis considered to be centered at the rest wavelength in air 𝜆0 of the line – for Hα 𝜆0 = 6562.82 Å – and\na usually weaker, blueshifted absorption component. The expansion (radial) velocity of the shell can\nbe approximated from the measured wavelength 𝜆 of the absorption peak using the well known\nDoppler formula connecting the displacement ∆𝜆 = 𝜆 − 𝜆0 , the radial velocity 𝑣r , and 𝑐, the speed of\nlight.\nAssume that the Hα line showing P Cygni profile is excited in the outermost part of the spherically\nexpanding shell, and its extent at the moment of taking the first spectrum was still negligible.\n   a) From Fig. 1.1, estimate the Modified Julian Date of the peak magnitude (MJD0 ) and the value\n      of the peak magnitude itself. Consider the error of this brightness value to be 0.05 m. (3 p)\n   b) Estimate the Modified Julian Dates based on the time interval (days) in which the nova has\n      faded by 2 and 3 magnitudes, then calculate 𝑡2 and 𝑡3 values.                         (6 p)\n   c) With reference to 𝑡2 and 𝑡3 from (b), determine the peak absolute magnitude of the nova using\n      all three empirical formulae listed earlier, calculate their mean (𝑀0 ) and their standard\n      deviation, and consider this latter as the uncertainty of 𝑀0 .                          (5 p)\n       The formula for standard deviation:\n\n                                              ∑𝑛𝑖=1(𝑥𝑖 − 𝑥̅ )2\n                                          𝜎= √\n                                                   𝑛−1\n\n   d) Using the value of the color excess 𝐸 (𝐵 − 𝑉 ), determine the interstellar extinction 𝐴𝑉 and its\n      uncertainty in the direction of the nova. Use 𝑅𝑉 = 3.1, without error.                     (4 p)\n   e) Estimate the distance to the nova and its uncertainty. Give the result in kpc.             (11 p)\n   f) Measure the central wavelengths of the P Cygni absorption features plotted in Fig. 1.2 (refer to\n      magnified version), and calculate the corresponding radial velocities. No error estimation is\n      needed.                                                                                  (14 p)\n   g) Plot these radial velocities against the Modified Julian Dates of the observations.         (6 p)\n   h) From the graph in (g), estimate the physical radius of the envelope at the end of the time\n      interval. Give the answer in astronomical units (au).                                 (7 p)\n   i) Knowing the distance to the nova and the physical radius of the spherical envelope 5 days after\n      the discovery, estimate the apparent angular diameter of the envelope then.               (4 p)\n\n                             Data analysis problem sheet                                                         Page 3 of 5",
-   "total": 7,
+   "title": "Photometry and spectroscopy of Nova Del 2013",
+   "weight": 60,
+   "total": 60,
+   "statement": "Classical nova V339 Del (Nova Delphini 2013) was discovered by Koichi Itagaki at 6.8 magnitude on 14 August 2013 at 14:01 UT (MJD = 56518.584). Both professional and amateur astronomers analysed the photometry and spectroscopy of the nova. Less than 10 hours after the alert, when the night falls at the Piszkéstető Mountain Station of the Konkoly Observatory of the Hungarian Academy of Sciences, Hungarian astronomers took the first spectrum data of the nova using the eShel echelle spectrograph in the Gothard Astrophysical Observatory of Loránd Eötvös University attached to the 1 meter telescope of the Konkoly Observatory.\nRefer to Fig 1.1 and Fig 1.2 to complete the questions. The larger versions of Fig 1.1 and Fig 1.2 are found on separate A3 papers.\nFig. 1.1 shows the visual light curve of the nova based on the data downloaded from the website of AAVSO (American Association of Variable Star Observers). On the horizontal and vertical axes, the Modified Julian Date (MJD = JD−2 400 000.5) of the observations and the Johnson V magnitudes are plotted, respectively. The grey circles (about 38000 data points) represent the measured values, while the continuous black line is the result of smoothing the data with a Gaussian filter (Full Width at Half Maximum = 0.5 day) to define an \"average\" light curve from the data points.\nThe rate of decline can be characterized by the values t2 and t3, which show the time interval in days in which a nova fades from its maximum brightness by 2 and 3 magnitudes.\nA few empirical formulae between the peak of the absolute magnitude in the V band (M0) and t2, t3 values can be found in the following literature:\n(a) M0 = -7.92 - 0.81 arctan((1.32 - log t2) / 0.23) (Della Valle, M. & Livio, M.: 1995, ApJ 452, 704)\n(b) M0 = -11.32 + 2.55 log t2 (Downes, R.A. & Durbeck, H.W.: 2000, AJ 120, 2007)\n(c) M0 = -11.99 + 2.54 log t3 (Downes, R.A. & Durbeck, H.W.: 2000, AJ 120, 2007)\nThe E(B - V) color excess of Nova Del 2013 (Chochol, D. et al.: 2014, Contrib. Astron. Obs. Skalnaté Pleso 43, 330) is:\nE(B - V) = 0.184 ± 0.035\nFig 1.2 shows the nova spectra taken in the wavelength region around the Hα line on six consecutive nights before and after the time of the maximum brightness (t0). The individual spectra have been shifted vertically for clarity. The Modified Julian Dates (MJD) of the observations are listed on the right hand side of each spectrum slice.\nThe Hα line shows the so-called P Cygni profile with very broad wings, which is typical not of novae only, but is present in almost all spectral types and is a reliable sign of a massive radial motion of matter ejected from the star. The P Cygni profile is composed of a strong, broad emission peak which is considered to be centered at the rest wavelength in air λ0 of the line – for Hα λ0 = 6562.82 Å – and a usually weaker, blueshifted absorption component. The expansion (radial) velocity of the shell can be approximated from the measured wavelength λ of the absorption peak using the well known Doppler formula connecting the displacement Δλ = λ - λ0, the radial velocity vr, and c, the speed of light.\nAssume that the Hα line showing P Cygni profile is excited in the outermost part of the spherically expanding shell, and its extent at the moment of taking the first spectrum was still negligible.",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
+     "id": "1.a",
+     "points": 3,
+     "question": "From Fig. 1.1, estimate the Modified Julian Date of the peak magnitude (MJD0) and the value of the peak magnitude itself. Consider the error of this brightness value to be 0.05 m.",
+     "reference": "MJD0 = 56521.9 ± 0.5 (or similar value in range 56521.5 - 56522.5), V0 = 4.45 ± 0.05 (or in range 4.4 - 4.5)."
+    },
+    {
+     "id": "1.b",
+     "points": 6,
+     "question": "Estimate the Modified Julian Dates based on the time interval (days) in which the nova has faded by 2 and 3 magnitudes, then calculate t2 and t3 values.",
+     "reference": "Peak V = 4.45. V+2 = 6.45 -> MJD(V+2) ~ 56534.5. t2 = 56534.5 - 56521.9 = 12.6 days (accept range 12 - 14 days). V+3 = 7.45 -> MJD(V+3) ~ 56549.5. t3 = 56549.5 - 56521.9 = 27.6 days (accept range 26 - 29 days)."
+    },
+    {
+     "id": "1.c",
+     "points": 5,
+     "question": "With reference to t2 and t3 from (b), determine the peak absolute magnitude of the nova using all three empirical formulae listed earlier, calculate their mean (M0) and their standard deviation, and consider this latter as the uncertainty of M0.",
+     "reference": "Using t2 = 12.6, t3 = 27.6:\n(a) M01 = -7.92 - 0.81 arctan((1.32 - log(12.6))/0.23) = -8.57\n(b) M02 = -11.32 + 2.55 log(12.6) = -8.56\n(c) M03 = -11.99 + 2.54 log(27.6) = -8.24\nMean M0 = (-8.57 - 8.56 - 8.24)/3 = -8.46. Standard deviation σ = 0.19."
+    },
+    {
+     "id": "1.d",
+     "points": 4,
+     "question": "Using the value of the color excess E(B - V), determine the interstellar extinction AV and its uncertainty in the direction of the nova. Use RV = 3.1, without error.",
+     "reference": "AV = RV * E(B - V) = 3.1 * 0.184 = 0.570.\nUncertainty σ(AV) = RV * σ(E(B-V)) = 3.1 * 0.035 = 0.109 (or 0.11)."
+    },
+    {
+     "id": "1.e",
+     "points": 11,
+     "question": "Estimate the distance to the nova and its uncertainty. Give the result in kpc.",
+     "reference": "m - M = 5 log d - 5 + AV => 4.45 - (-8.46) = 5 log d - 5 + 0.57 => 12.91 = 5 log d - 5 + 0.57 => 5 log d = 17.34 => log d = 3.468 => d = 2938 pc = 2.94 kpc.\nUncertainty propagated from errors of m (0.05), M (0.19), AV (0.11)."
+    },
+    {
+     "id": "1.f",
+     "points": 14,
+     "question": "Measure the central wavelengths of the P Cygni absorption features plotted in Fig. 1.2 (refer to magnified version), and calculate the corresponding radial velocities. No error estimation is needed.",
+     "reference": "Measured wavelengths and corresponding vr = c * (λ - λ0) / λ0 for 6 epochs."
+    },
+    {
+     "id": "1.g",
+     "points": 6,
+     "question": "Plot these radial velocities against the Modified Julian Dates of the observations.",
+     "reference": "Correct plot of radial velocity vs MJD."
+    },
+    {
+     "id": "1.h",
      "points": 7,
-     "pointsEstimated": true,
-     "reference": "b)\n\n             event no. closer component\n\n                1\n\n                2\n\n                3\n\n                4\n\n                5"
+     "question": "From the graph in (g), estimate the physical radius of the envelope at the end of the time interval. Give the answer in astronomical units (au).",
+     "reference": "Integration of velocity over time or R = v * t calculation yielding radius in au."
+    },
+    {
+     "id": "1.i",
+     "points": 4,
+     "question": "Knowing the distance to the nova and the physical radius of the spherical envelope 5 days after the discovery, estimate the apparent angular diameter of the envelope then.",
+     "reference": "Angular diameter calculation using distance and physical radius."
     }
    ]
   },
   {
    "number": 2,
-   "title": "Задача 2",
-   "statement": "Triply eclipsing hierarchical triple stellar system                                                                 (90 p)\n   HD 181068 was one of the brightest targets which was continuously observed during the almost 4-\n   year-long primary mission of NASA’s exoplanet-hunter Kepler space telescope. The spacecraft\n   observed ≈ 3 − 4 × 10−3 magnitude dimmings every 0.453 days. (Note: The even dimmings were\n   slightly smaller amplitude than the odd ones.) Furthermore, additional 0.007 magnitude, 2.3-day-long\n   dimmings were detected every 22.7 days.\n   The correct explanation of this very unusual photometric behaviour was given by Hungarian\n   astronomers. They found that HD 181068 is a compact hierarchical triple stellar system seen almost\n   edge-on.\n   Hierarchical triple star systems consist of three stars; A, B, and C. Two of these stars (B and C) form\n   an inner or close stellar binary system, whilst the outer component (star A) orbits at a distance from\n   the inner system significantly larger (usually orders of magnitude) than the semi-major axis of the inner\n   system. The schematic view of an example of a triple star system is illustrated in Fig. 2.1.\n\n     Fig. 2.1: The schematic pole-on view of a hypothetical , hierarchical triple stellar system. The black arrow is directed\n       towards the Earth. The thick segments of the three orbits represent the stars’ orbital arcs during an outer eclipse.\n\n   Mathematically, the motion of a hierarchical triple system can be well approximated with two\n   unperturbed Keplerian two-body motions; (1) Keplerian motion of the inner binary. (2) The centre of\n   mass of this close binary and the third star revolves on a second Keplerian orbit, “outer binary”.\n   In this problem, stars B and C form a P1 = 0.9056768-day-period eclipsing binary, while the centre of\n   mass of these stars with star A forms the P2 = 45.4711-day-period outer binary. As the orbital plane of\n   this outer orbit is seen almost edge-on from the Kepler spacecraft (and from the Earth), during their\n   revolution on the outer orbit, stars B and C eclipse not only each other, but also star A or, a half outer\n   revolution later are eclipsed by it, causing the extra dimmings.\n\n                        Data analysis problem sheet                                              Page 4 of 5\n\ni.   Determination of the physical stellar sizes (and other quantities) from the geometry of the eclipses\n     These assumptions are used throughout this section: (1) both the inner and outer orbits are exactly\n     circular, (2) the orbital planes of the inner and outer orbits are identical, and (3) this plane is seen\n     exactly edge-on (i.e. 𝑖1 = 𝑖2 = 90° and 𝑖rel = 0°). Let’s consider the extra dimmings, which are\n     central eclipses (i.e. either occultations or transits – annular eclipses), therefore, these events have\n     four contacts. In the case of an ordinary eclipsing binary (or of a transiting exoplanet) at the times\n     of the outer contacts the sky-projected disks of the two objects connect with each other at one point\n     from outside, while at the inner contacts they approach each other from inside. While this last\n     statement is also valid for outer eclipses, the situation becomes more complex, because instead of\n     two, three stars are involved into the eclipses. However, despite this fact, we can certainly define\n     the times of each contact from the light curve, and furthermore, we can also decide explicitly which\n     member of the inner binary is involved in a given contact. (The other member, of course, is always\n     star A.)\n     In the table below, the accurate times of some contacts of different eclipses observed by the Kepler\n     spacecraft, the contact types and the stars are documented. Time is expressed in barycentric Julian\n     Days (BJD).\n             event no. contact stars          BJD          𝜑1         𝜑2\n                1         I    A, B       2455476.1096 1111111111 1111111111\n                          II   A, C       2455476.4245\n                         III   A, B       2455477.9677\n                         IV    A, B       2455478.4722\n                2         I    A, B       2455521.5217\n                3        III   A, C       2455568.9434\n                4         I    A, C       2455612.4733\n                         III   A, C       2455614.3571\n                5        III   A, B       2455659.9241\n                         IV    A, C       2455660.2422\n\n        a) Given that 𝑇01 = 2455051.2361 and 𝑇02 = 2455522.7318 denote the time of an inferior\n           conjunction of the inner and outer binaries respectively (i.e. that time, when, from the\n           perspective of the observer, star C eclipses star B, and when star A eclipses the centre of\n           mass of stars B and C.)\n            Define\n            𝜑1 (𝑡) = {(𝑡 − 𝑇01 )⁄𝑃1 }, and 𝜑2 (𝑡) = {(𝑡 − 𝑇02 )⁄𝑃2 }\n            as the photometric phases of the inner and outer binaries respectively. {𝑥 } denotes the\n            decimal part of the real number 𝑥. If {𝑥 } < 0, use {𝑥 } + 1 instead. Calculate the phases for\n            the times of the tabulated contact events and write the answers in the appropriate\n            columns of the table on the answer sheet. Round your answers to four decimal places.\n                                                                                                    (10 p)\n        b) Determine, whether star A, or the close binary (i.e. stars B and C) were closer to the\n           observer during each eclipsing event. Write your answer in the table on the answer\n           sheet.                                                                           (5 p)\n        c) Using the table above, calculate (1) the dimensionless radius of each star relative to the\n           semi-major axis of the outer orbit (𝑅A,B,C ⁄𝑎2 ), (2) the ratio of the semi-major axes of the\n\n                          Data analysis problem sheet                                              Page 5 of 5\n\n               two orbits (𝑎1 ⁄𝑎2 ) and (3) the mass ratio of stars B and C (𝑞1 = 𝑚C ⁄𝑚B ). Hint: Use at least\n               four decimal place accuracy in your calculations. Be cautious, it may not be possible to use\n               all theoretically possible contact combinations with a given limited accuracy of time data.\n                                                                                                       (30 p)\n          d) Based on the results obtained above, calculate the outer mass ratio (𝑞2 = 𝑚BC ⁄𝑚A). (8 p)\n ii.   Dynamical determination of the stellar masses using radial velocity (RV) and eclipse timing\n       variations (ETV) measurements\n       To obtain RV data, ground-based spectroscopic follow up observations were carried out with four\n       different instruments. Only the lines of star A were detectable in all spectra. Plotting all the\n       measurements against time, the RV curve was nicely fitted in the following form:\n                                             𝑉rad,A = 𝑉𝛾 + 𝐾A sin 𝜙RV ,\n\n       where 𝑉𝛾 is the systemic velocity and 𝐾𝐴 is the velocity amplitude:\n\n                          𝑉𝛾 = 6.993 ± 0.011 km s −1 , 𝐾A = 37.195 ± 0.053 km s −1,\n                                                          2𝜋\n                    𝑃2 = 45.4711 ± 0.0002 d, 𝜙RV = 𝑃 [𝑡 − (2455522.7318 ± 0.0095)].\n                                                           2\n\n       Furthermore, the researchers determined the mid-times of the regular eclipses of the close binary\n       (formed by stars B and C), and found that the occurrence of for example the eclipsing minima\n       belonging to the Nth orbital revolution can be described by the simple expression:\n                                                                   2𝜋\n                                    𝑇𝑁 = 𝑇0 + 𝑃1 𝑁 + 𝐴ETV sin ( 𝑃 𝑃1 𝑁 + 𝜙0 ),\n                                                                    2\n\n       where\n                   𝑇0 = BJD 2455051.23607 ± 5 × 10−5 , 𝑃1 = 0.9056768 ± 3 × 10−7 d,\n                      𝐴ETV = 0.001446 ± 0.000110 d, 𝜙0 = −0.76779 ± 0.01937 rad.\n       In this expression AETV is the amplitude of the eclipse timing variation, 𝑇0 denotes the mid-eclipse\n       time of the reference (zeroth) primary eclipse, and N is the cycle number, which is an integer for\n       primary eclipses (i.e. when the slightly fainter star C eclipses star B), and half-integer for secondary\n       ones (i.e. when star B eclipses star C).\n       Determine (1) again the mass ratio (𝑞2 = 𝑚BC ⁄𝑚A) of the centre of mass of the inner binary and\n       star A using only the results obtained in point ii., (2) the mass of component A (𝑚A ) and (3) the\n       total mass of the inner, close binary (𝑚BC ). Calculate the errors for (1), (2), and (3) in masses. Hint:\n       You can save much time by expressing the masses in solar mass and the orbital separations either\n       in solar radius or au.                                                                             (22 p)\niii.   Using results obtained in questions 1 and 2, determine the masses of stars B and C respectively and\n       calculate the physical dimensions of all three stars (i.e. stellar radii in physical units). (15 p)",
-   "total": 7,
+   "title": "Triply eclipsing hierarchical triple stellar system",
+   "weight": 90,
+   "total": 90,
+   "statement": "HD 181068 was one of the brightest targets which was continuously observed during the almost 4-year-long primary mission of NASA’s exoplanet-hunter Kepler space telescope. The spacecraft observed ≈ 3 - 4 × 10^-3 magnitude dimmings every 0.453 days. (Note: The even dimmings were slightly smaller amplitude than the odd ones.) Furthermore, additional 0.007 magnitude, 2.3-day-long dimmings were detected every 22.7 days.\nThe correct explanation of this very unusual photometric behaviour was given by Hungarian astronomers. They found that HD 181068 is a compact hierarchical triple stellar system seen almost edge-on.\nHierarchical triple star systems consist of three stars; A, B, and C. Two of these stars (B and C) form an inner or close stellar binary system, whilst the outer component (star A) orbits at a distance from the inner system significantly larger (usually orders of magnitude) than the semi-major axis of the inner system. The schematic view of an example of a triple star system is illustrated in Fig. 2.1.\nMathematically, the motion of a hierarchical triple system can be well approximated with two unperturbed Keplerian two-body motions; (1) Keplerian motion of the inner binary. (2) The centre of mass of this close binary and the third star revolves on a second Keplerian orbit, “outer binary”.\nIn this problem, stars B and C form a P1 = 0.9056768-day-period eclipsing binary, while the centre of mass of these stars with star A forms the P2 = 45.4711-day-period outer binary. As the orbital plane of this outer orbit is seen almost edge-on from the Kepler spacecraft (and from the Earth), during their revolution on the outer orbit, stars B and C eclipse not only each other, but also star A or, a half outer revolution later are eclipsed by it, causing the extra dimmings.",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "1. a)\n\n             event no. contact stars      BJD           𝜑1      𝜑2\n\n                1         I    A, B 2455476.1096 1111111111 1111111111\n\n                         II    A, C 2455476.4245\n\n                         III   A, B 2455477.9677\n\n                         IV    A, B 2455478.4722\n\n                2         I    A, B 2455521.5217\n\n                3        III   A, C 2455568.9434\n\n                4         I    A, C 2455612.4733\n\n                         III   A, C 2455614.3571\n\n                5        III   A, B 2455659.9241\n\n                         IV    A, C 2455660.2422"
+     "id": "2.i.a",
+     "points": 10,
+     "question": "Given that T01 = 2455051.2361 and T02 = 2455522.7318 denote the time of an inferior conjunction of the inner and outer binaries respectively... Calculate the phases for the times of the tabulated contact events and write the answers in the appropriate columns of the table on the answer sheet. Round your answers to four decimal places.",
+     "reference": "Correctly calculated photometric phases φ1 and φ2 for the tabulated contact events."
+    },
+    {
+     "id": "2.i.b",
+     "points": 5,
+     "question": "Determine, whether star A, or the close binary (i.e. stars B and C) were closer to the observer during each eclipsing event. Write your answer in the table on the answer sheet.",
+     "reference": "Correct identification of the closer component for each event based on phase/geometry."
+    },
+    {
+     "id": "2.i.c",
+     "points": 30,
+     "question": "Using the table above, calculate (1) the dimensionless radius of each star relative to the semi-major axis of the outer orbit (RA,B,C / a2), (2) the ratio of the semi-major axes of the two orbits (a1 / a2) and (3) the mass ratio of stars B and C (q1 = mC / mB).",
+     "reference": "Derivation of relative stellar radii, semi-major axis ratio, and mass ratio q1 from contact timings."
+    },
+    {
+     "id": "2.i.d",
+     "points": 8,
+     "question": "Based on the results obtained above, calculate the outer mass ratio (q2 = mBC / mA).",
+     "reference": "Calculation of q2 using outer orbit and inner binary geometry."
+    },
+    {
+     "id": "2.ii",
+     "points": 22,
+     "question": "Determine (1) again the mass ratio (q2 = mBC / mA) of the centre of mass of the inner binary and star A using only the results obtained in point ii., (2) the mass of component A (mA) and (3) the total mass of the inner, close binary (mBC). Calculate the errors for (1), (2), and (3) in masses.",
+     "reference": "Mass ratio q2, mass of star A, and mass of mBC derived from RV and ETV amplitudes and periods with error calculations."
+    },
+    {
+     "id": "2.iii",
+     "points": 15,
+     "question": "Using results obtained in questions 1 and 2, determine the masses of stars B and C respectively and calculate the physical dimensions of all three stars (i.e. stellar radii in physical units).",
+     "reference": "Individual masses of stars B and C and physical radii of all three stars calculated."
     }
    ]
   }

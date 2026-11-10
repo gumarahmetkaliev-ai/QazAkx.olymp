@@ -7,28 +7,701 @@
  "tasksFile": "olympiads/geography/s/ieso/2018/ieso-wt.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "whole-document",
- "generatedAt": "2026-11-09T19:25:52.240Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:47:16.053Z",
  "quality": {
-  "tasks": 1,
-  "parts": 1,
-  "withPoints": 1,
+  "tasks": 29,
+  "parts": 61,
+  "withPoints": 61,
   "withReference": 0,
-  "withQuestion": 1,
-  "estimatedPoints": 1
+  "withQuestion": 61,
+  "estimatedPoints": 61
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задания тура",
-   "statement": "IESO 2018 Thaila d: W i e Te\n\nW           T     , Pa     1 (3           )\nG adi g f Q e i\nEach e i       ih l     e c ec a  e       ill be c ed a f ll    :\n- if he c ec a   e i ch e : +1 i .\n- if he i c ec a   e i ch e : 0 i .\n- if e e al a  e a e ch e : 0 i .\n\nEach e i        he e e m e c ec a          e       ible ill be c ed a f ll   :\n- each c ec a      e : +1 i .\n- each i c ec a      e : -0.5 i .\n- if he c mbi a i     fa     e i cl de c ec a     e a di c     ec a   e , he mi im m\ng ade ecei ed i 0.\n\n                                              1\n\n                            IESO 2018 Thaila d: W i e Te\n\nI        c              1 4:\nGe l gical e ide ce gge   ha d i g he la glacial ma im m (Plei ce e), 1/3 f he\nEa h'      face a c e ed i h ice. The m  ece e e     f ma im m glacia i  cc ed\n18,000 ea ag , i e ded ab   10,000 ea ag he ice c e ed l 10% f he Ea h'\n   face.\n\nQ.1) ​Which f he f ll i g i / a e ​c c ​? ( e m e c ec a     e       ible).\n   a) The gl bal cea le el d i g he Plei ce e a highe ha i i da .\n   b) The gl bal cea le el d i g he Plei ce e a he ame a i i da .\n   c) The gl bal cea le el d i g he Plei ce e a l e ha i i da .\n   d) Gl bal cea le el a de e mi ed b he a e f cea ice mel .\n   e) The cha ge i gl bal cea le el a de e mi ed b he hick e   f ice     he\n       c i e .\n\nQ.2) ​Which a eme bel be de c ibe a glacial de i i al e i me ? ( l                 e\na    e     ible).\n   a) P l           ed de i , ligh l      ded a icle ; m de a el ma ked a a.\n   b) Ve          l       ed de i , e a g la ebble , fi e a d a g la a icle .\n   c) Ve          l       ed de i , m de a el a g la ebble ,      ded a d a icle .\n   d) M de a el          ed de i , m de a el a g la ebble ,      ded a d a icle .\n   e) Well      ed de i , ell        ded ebble , m de a el      ded a d a icle a d il .\n\nQ.3)​ Whe e l i g a a ea, hich f he f ll i g ma i dica e he        e e ce f a Plei    ce e\nglacie ? ( e m e c ec a          e      ible).\n    a) Al i e      e ege a i .\n    b) Pa allel j i    hich ma be b e ed        he face.\n    c) Valle c m le el         -c e ed.\n    d) Pa allel eak hich ma be i ible          he face.\n    e) V- ha ed alle .\n    f) A c ic clima e.\n    g) U- ha ed alle .\n\nQ.4)​ Which f he f ll i g a eme i / a e c ec : ( e m e c ec a              e         ible).\n   a) Mel i g glacie a e he e l f a cha ge i em e a e           he Ea h'   face.\n   b) Mel i g glacie i fl e ce he em e a e a he Ea h'         face.\n   c) Mel i g glacie i fl e ce he h d       he e.\n   d) Mel i g glacie   ill ca e gl bal c li g i he h     e m.\n   e) Mel i g glacie   ill accele a e gl bal a mi g i he h     e m.\n\n                                            2\n\n                             IESO 2018 Thaila d: W i e Te\n\nQ.5)​ The   g a hic ma bel    h      he c       li e (i me e ) f a ge m h l gical\n   c e de el ed i a b      ical clima e. Wha i he ge l gical    c e c ai ed i he ed\nec a gle? ( e m e c ec a         e       ible).\n\n   a) A i e lca ic c a e\n   b) Me e i e im ac c a e\n   c) E i al a icli e\n   d) E i al      cli e\n   e) Pla ea\n\n                                           3\n\n                               IESO 2018 Thaila d: W i e Te\n\nI        c                   6 8:\n       I Thaila d, a mall e ca e i di c e ed i ide ca b a e ck . I i l ca ed igh\na ld i e bed. The fl          f he ca e i c e ed i h a e i e a d ff ab              e ce ime e\n hick; he ma im m heigh f he ceili g i a           ima el 3.5 me e . D i g he e ea , he\nca e fl     i ab    20 me e highe ha he c e i e a e le el. D i g he d ea , he\ndiffe e ce be ee he          i i c ea ed ab      25 me e .\n       The cha ac e i ic      c e f he ca e, i cl di g alac i e , alagmi e a d he\n( ele hem ) ca ea il be b e ed. B ea hi g i ea a he e a ce                   he ca e; h e e , 60\nme e f m he e a ce             he ca e, a i a      , i bec me b h diffic l         a a d\nb ea he. B ea hi g bec me alm im            ible ea he ca e fl       d e    he e e ce f a\nce ai ga . The c ce a i           f hi ga eem       i c ea e f m he ceili g       he fl   f he\nca e.\nA im le me h d a          ed ide if hi ga , a d he e i ha e f d:\n(i) Y ca        ligh a ligh e flame ea he ca e fl . B           e ca ligh i ea il ea he ceili g,\na d he flame b         ell.\n(ii) Whe he li ligh e i m ed l l              a d he g       d, he flame e d      m ea a f m\n he ligh e . The di a ce be ee he ligh e a d he flame g ad all i c ea e a               a   ach\n he g      d. E e all he flame g e          a g     d le el.\n\nQ.6)​ C ide i g he c di i         f he e e ime     a d all he fac       i   l ed, hi ga i\n   babl ( l    ea    e         ible):\n   a) NO​2\n   b) He\n   c) SO​2\n   d) CO​2\n   e) CO\n\nQ.7) ​Whe i he i c ea e i he c ce a i          f hi ga likel ? (    l       ea    e     ible)\n   a) Th gh       he ea .\n   b) The fi   i m h f he ea .\n   c) Mai l d i g he d ea .\n   d) Mai l d i g he e ea .\n   e) Ra d ml .\n\n                                               4\n\n                            IESO 2018 Thaila d: W i e Te\n\nQ.8)​ Which f he f ll i g a eme i c ec i ela i        he hea ie ga i he ca e?\n( l     ea   e       ible).\n   a) The a ea a ce f hi ga i he ca e i he e l f h ma ac i i .\n   b) The a ea a ce f hi ga i he ca e i he e l f l i e ac i       be ee he\n       h d    he e a d ge he e.\n   c) The a ea a ce f hi ga i he ca e i he e l f l i e ac i       be ee he\n       a m he e, h d        he e, a d ge he e.\n   d) The a ea a ce f hi ga i he ca e i he e l f a di ec i e ac i be ee he\n       bi he e, h d       he e, a d ge he e.\n   e) The a ea a ce f hi ga i he ca e i he e l f a di ec i e ac i be ee he\n       bi he e, h d       he e, a m he e a d ge he e.\n\nI       c               9:\nThe g a h bel    h    he e l i   f em e a e (deg ee Cel i ) a d a m       he ic\nc ce a i (      m) f ca b di ide (CO​2​) d i g a a m i e glacial e i d.\n\nQ.9)​ Which f he f ll i g be e lai he 800- ea lag i he g a h ab e? ( l         ea    e\n    ible).\n   a) CO​2​ i    e     ible f clima e cha ge a ma     e le hi k. If hi e e he ca e he\n       ma im m CO​2​ c ce a i          ld a he ha e cc ed a he ame ime,       eceded\n        he ma im m em e a e.\n   b) The cea ac a a b ffe f b h em e a e a d he le el f CO​2​ i he a m he e.\n   c) A cha ge i he e i a i      f all la ca ed hi 800- ea ga .\n   d) Cha ge i ea le el ca ed hi 800- ea ga .\n\n                                           5\n\n                          IESO 2018 Thaila d: W i e Te\n\nQ.10) ​Which f he f ll i g a eme i / a e c ec ? ( e m e c ec a         e     ible).\n   a) The a mi g f cea a e i c ea e he di l i         f ca b a e .\n   b) Wa mi g cea a e ed ce he di l i        f ca b a e .\n   c) Wa mi g f cea a e i c ea e gl bal a mi g.\n   d) Wa mi g f cea a e ed ce gl bal a mi g.\n   e) Wa mi g cea a e ed ce ca b a e edime a i .\n   f) Wa mi g cea a e i c ea e he edime a i       f ca b a e .\n\nQ.11)​ Which f he f ll i g a eme c ld e lai h he e e e m e de e a ea           he\nea h'    face d i g he Ice Age ha  da ? ( e m e c ec a     e   ible).\n   a) D i g he e ime he Ea h' a m he e c ai ed le      ae a .\n   b) D i g he e ime he am        f eci i a i  Ea h i le ha he eci i a i\n        da .\n   c) D i g he e ime he e a le e a a i i c le a ea .\n   d) D i g he e ime he e a le      cea e a a i .\n\nQ.12)​ Which f he f ll i g i he m c ec e la a i        ible? ( l     ea   e\n    ible).\n   a) The i c ea i g de e ifica i f he Ea h e d i c ea e he l cal albed maki g he\n        egi   a me .\n   b) The i c ea i g de e ifica i f he Ea h e d  ed ce he l cal albed maki g he\n        egi   a me .\n   c) The i c ea i g de e ifica i f he Ea h e d i c ea e he l cal albed maki g he\n        egi c lde .\n   d) The i c ea i g de e ifica i f he Ea h e d dec ea e he l cal albed maki g he\n        egi c lde .\n\n                                        6\n\n                           IESO 2018 Thaila d: W i e Te\n\nU       a b                 13 a 14.\nThe -a i e e e  ime, B.P a d f     Bef e e e . The -a i e e e           he ela i e\nem e a e a mal c m a ed    he a e age em e a e f he la 150 ea .\n\nQ.13) ​Which f he f ll i g a eme be e lai he e i       g a h? ( e m e c ec\na   e       ible).\n   a) The e a e e i d be ee he Ice Age ha a e a me ha he a e age em e a e f\n        he a 150 ea .\n   b) Ice age e d fa e ha he a .\n   c) Ice age a fa e ha he e d.\n   d) The ge e al e d f he la 5 milli  ea ha bee gl bal c li g.\n\nQ.14)​ Which f he f ll i g be e lai he ab e g a h? ( e m e c ec a              e\n    ible).\n   a) D i g he a        milli      ea each ice age ha la ed h e ha each a m e i d.\n   b) D i g he la       milli     ea , a m i e glacial e i d ha e la ed h e ha ice\n       age .\n   c) L ki g a he a         milli     ea , ice age ill l ge ha e        Ea h.\n   d) The em e a e cha ge e he e 100 ea i likel              be      4 C highe ha i\n        he la ce     .\n\n                                         7\n\n                           IESO 2018 Thaila d: W i e Te\n\nQ.15) ​F m he Mila k i ch c cle diag am bel , hich f he f ll   i g i he be\ni e eai      f em e a e a ia i ? ( l       e c ec a   e ).\n\n   a) F   he a 400,000 ea , he Ea h' gl bal em e a     e ha cha ged i a c cle f\n      a     ima el 25,000 ea .\n   b) F   he a 400,000 ea , he Ea h' gl bal em e a     e ha cha ged i a c cle f\n      a     ima el 50,000 ea .\n   c) F   he a 400,000 ea , he Ea h' gl bal em e a     e ha cha ged i a c cle f\n      a     ima el 75,000 ea .\n   d) F   he a 400,000 ea , he Ea h' gl bal em e a     e ha cha ged i a c cle f\n      a     ima el 100,000 ea .\n\n                                         8\n\n                          IESO 2018 Thaila d: W i e Te\n\nI        c              16.\nAcc di g       he a da d la m del, ab   4 billi  ea ag , he e e g adia ed b he\n  a     l 70% f da ' le el. If all he a iable e e de da ' c di i , he e l\n     ld ha e bee a all f e la e . Ge l gical da a h     ha d i g hi e i d a\n ela i el a m em e a e e ailed a he face i h he e e ce f li id a e .\n\nQ.16)​ Which f he f ll i g a eme c ld e lai Ea h' a me ( ha e ec ed) clima e 4\nbilli    ea ag ? ( e m e c ec a          e     ible).\n     a) The e e e m e g ee h e ga e i he igi al a m he e.\n     b) I he a , he ge he mal e e g elea ed b adi ac i e deca a c ide abl g ea e\n         ha i i da .\n     c) The m      had m ch m e ck ha Ea h billi      f ea ag , hich e lai h he\n         elea e f e e g f m idal f ce a m ch highe .\n     d) Lack f ege a i      a he ca e f highe la e a albed .\n     e) The malle c i e al a ea a ea billi   f ea ag a he ca e f a l e la e a\n        albed .\n\nI     c                17 a 18.\nThe h   bel   i a i ible ligh image f E celad , a m      f Sa   .\n\nFig e Q.17: The dime i   f E celad   i 513.2 km 502.8 km 496.6 km\n\n                                         9\n\n                          IESO 2018 Thaila d: W i e Te\n\nQ.17)​ Wha ca e lea f m b e i g he face          c e f E celad ? (   e   m e\nc ec a     e       ible).\n   a) The c      f E celad i ac i e.\n   b) The c      f E celad i a ic.\n   c) The e a e c al la e b da ie     E celad .\n   d) The e ha e bee ece me e i e im ac       E celad .\n   e) The e i     e ide ce f ece me e i e im ac     E celad .\n   f) The e i a h d l gical    em E celad .\n\nQ.18)​ Wha c ld be a ea able e la a i f he l cal em e a e diffe e ce a he      face\n f E celad ? ( e m e c ec a       e       ible).\n    a) The a ia i i he e e g i e i     f la adia i a a f c i   f la i de.\n    b) The a m he e f E celad    a he mal e e g .\n    c) C al f ma i       ce e elea e hea f m he de h i     me egi .\n    d) The bd c i      e a e c le ha he c al e a i        e.\n\nQ.19)​ The h  bel   i a image f he a d d e     he face f Ma . Which f he\nf ll i g ffe a ea    able i e e a i f hi image? ( e m e c ec a     e\n    ible).\n\nFig e Q.19: The id h f he h   i ab   4km.\n\n                                       10\n\n                           IESO 2018 Thaila d: W i e Te\n\n   a) The i d a bl i g f m he igh ide f he h .\n   b) The i d a bl i g f m he lef ide f he h .\n   c) Ae lia e i          ce e a e ac i e     he face f Ma .\n   d) Wa e - ela ed e i         ce e a e ac i e   he face f Ma .\n   e) Ae lia de i i          ce e a e ac i e    he face f Ma .\n   f) Ma had, b         l ge ha , a a m he e.\n   g) De i i         ce e ca ed b a e a e ac i e        he face f Ma .\n   h) Ma ha a a m he e.\n   i) Ma c e l ha a h d            he e.\n   j) Ma had, b         l ge ha , a ac i e h d    he e.\n   k) E i        ce e ca ed b me e i e a e ac i e        he face f Ma .\n   l) The face f Ma ha e e ie ced h d            he e-ge he e i e ac i .\n   m) The face f Ma ha e e ie ced a m he e-ge he e i e ac i .\n     ) Ma ha      a ig a hic la e j bel i         face.\n\nQ.20) ​The h bel i a he image f he face f Ma . Which f he f ll             i g ffe a\nea able i e e a i  f hi image? ( e m e c ec a   e     ible).\n\nFig e Q.20: The id h f he h     i a     ima el 2 km.\n\n                                         11\n\n                            IESO 2018 Thaila d: W i e Te\n\n   a) The i d a bl i g f m he igh ide f he h .\n   b) The i d a bl i g f m he lef ide f he h .\n   c) Ae lia e i        ce e a e ac i e    he face f Ma .\n   d) Ae lia de i i        ce e a e ac i e   he face f Ma .\n   e) Ma had, b       l ge ha , a a m he e.\n   f) Ma c e l ha a h d          he e.\n   g) Ma had, b       l ge ha , a ac i e h d    he e.\n   h) E i      ce e ca ed b a e a e ac i e         he face f Ma .\n   i) Wa e -ca ed de i i        ce e e e / a e ac i e   he face f Ma .\n   j) E i      ce e ca ed b me e i e a e ac i e       he face f Ma .\n   k) Ma ha     a ig a hic la e .\n\nI        c               21-22:\nThe d c me bel i a ma f G ea B i ai . I e e           he eed f he e ical m eme\n  f he c   (i mm / ea ). Nega i e al e i dica e i ki g a d  i i e al e i dica e lif i g.\nA al i f hi da a h        ha he m eme a e ema kabl fa          e a la ge a ea.\n\n                                           12\n\n                            IESO 2018 Thaila d: W i e Te\n\nQ.21) ​Which f he f ll i g ffe he be e la a i f egi al a ia i          i ele a i ?\n( l     ea   e       ible).\n   a) Tec ic ac i i ca ed b a ac i e la e ma gi .\n   b) E gla d i      i i ed ab e a ma le h      .\n   c) L cal cha ge i ea le el affec he ele a i    f he la d.\n   d) The e        i     a ic e ilib i m f he c  af e he la ice age.\n\nQ.22) ​Which f he f ll i g ffe he be e la a i f he i ki g a ea ? ( l    ea    e\n    ible).\n   a) The i ki g a ea i l ca ed ea a bd c i     e.\n   b) The i ki g a ea i he e l f a i    a ic he me .\n   c) The a ea a i ki g beca e he ea le el e fa e he e.\n   d) Thi a ea a i ki g beca e he m i g f g        d a e ca ed egi al b ide ce.\n\nI        c               23:\nThe lef fig e bel e lai he f ma i a d e l i           f he la     em hich ha\n  a ed 4.6 billi   ea ag i h he g a i a i al c lla e f a mall a f a gia m lec la\ncl d. M       f he ma e c lla ed i he ce e     f m he    , hile he e , fla e ed i   a\n       la e a di c,    d ced he la e , m    , a e id a d he mall b die f he la\n    em. Ke le ' la de c ibe he m eme       f he la e a     d he",
-   "total": 10,
+   "title": "Вопросы 1-4: Геологические свидетельства ледникового максимума",
+   "weight": 1,
+   "total": 4,
+   "statement": "Геологические свидетельства показывают, что во время последнего ледникового максимума (плейстоцен) 1/3 поверхности Земли была покрыта льдом. Последнее из максимумов оледенения произошло 18 000 лет назад, и около 10 000 лет назад ледяной покров покрывал лишь 10% поверхности Земли.",
    "parts": [
     {
-     "id": "1",
-     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
-     "points": 10,
+     "id": "1.1",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Q.1) Which of the following is / are correct? (one more correct answer is possible).\na) The global sea level during the Pleistocene was higher than it is today.\nb) The global sea level during the Pleistocene was the same as it is today.\nc) The global sea level during the Pleistocene was lower than it is today.\nd) Global sea level was determined by the amount of ocean ice melt.\ne) The change in global sea level was determined by the thickness of ice on the continent.",
+     "reference": ""
+    },
+    {
+     "id": "1.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.2) Which statement below best describe a glacial depositional sediment? (only one answer is possible).\na) Poorly sorted deposit, lightly rounded particles; moderately marked asara.\nb) Very well sorted deposit, ear angular pebbles, fine and angular particles.\nc) Very well sorted deposit, moderately angular pebbles, rounded and angular particles.\nd) Moderately sorted deposit, moderately angular pebbles, rounded and angular particles.\ne) Well sorted deposit, well rounded pebbles, moderately rounded particles and soil.",
+     "reference": ""
+    },
+    {
+     "id": "1.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.3) When walking an area, which of the following may indicate the presence of a Pleistocene glacier? (one more correct answer is possible).\na) Alpine vegetation.\nb) Parallel joints which may be observed on the face.\nc) Valley completely V-crossed.\nd) Parallel breaks which may be visible on the face.\ne) V-shaped valley.\nf) An arctic climate.\ng) U-shaped valley.",
+     "reference": ""
+    },
+    {
+     "id": "1.4",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.4) Which of the following statement is / are correct: (one more correct answer is possible).\na) Melting glaciers are the result of a change in temperature at the Earth's surface.\nb) Melting glaciers influence the temperature at the Earth's surface.\nc) Melting glaciers influence the hydrosphere.\nd) Melting glaciers will cause global cooling in the hemisphere.\ne) Melting glaciers will accelerate global warming in the hemisphere.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Вопрос 5: Геоморфологическая структура в тропическом климате",
+   "weight": 1,
+   "total": 1,
+   "statement": "The geographic map below shows the contour lines (in meters) of a geomorphological structure developed in a tropical climate. What is the geological structure contained in the red rectangle? (one more correct answer is possible).\nOptions:\na) An active volcanic crater\nb) Meteorite impact crater\nc) Erosional anticline\nd) Erosional syncline\ne) Plateau",
+   "parts": [
+    {
+     "id": "5.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.5) Выберите правильный вариант ответа для структуры в красном прямоугольнике.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Вопросы 6-8: Пещера в карбонатных породах",
+   "weight": 1,
+   "total": 3,
+   "statement": "In Thailand, a small cave is discovered inside carbonate rock. It is located right at a river bed. The floor of the cave is covered with water and is off about several centimeters thick; the maximum height of the ceiling is approximately 3.5 meters. During the wet season, the cave floor is about 20 meters higher than the coast line area level. During the dry season, the difference between the levels increased about 25 meters.\nThe characteristic shapes of the cave, including stalactites, stalagmites and other (speleothems) cave soil can be observed. Breathing is easy near the entrance of the cave; however, 60 meters from the entrance of the cave, air in a, it becomes both difficult to walk and to breathe. Breathing becomes almost impossible near the cave floor due to the presence of a certain gas. The concentration of this gas seems to increase from the ceiling to the floor of the cave.\nA simple method was used to identify this gas, and there is a phase of found:\n(i) You can light a lighter flame near the cave floor. But when you can light it easily near the ceiling, the flame burns well.\n(ii) When the lit lighter is moved down toward the ground, the flame tends to move away from the lighter. The distance between the lighter and the flame gradually increases as you approach the ground. Eventually the flame goes off at ground level.",
+   "parts": [
+    {
+     "id": "6.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.6) Considering the conditions of the experiment and all the factors involved, this gas is probably (only lease answer is possible):\na) NO2\nb) He\nc) SO2\nd) CO2\ne) CO",
+     "reference": ""
+    },
+    {
+     "id": "6.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.7) When is the increase in the concentration of this gas likely? (only lease answer is possible)\na) Through out the year.\nb) The first month of the year.\nc) Mainly during the dry season.\nd) Mainly during the wet season.\ne) Randomly.",
+     "reference": ""
+    },
+    {
+     "id": "6.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.8) Which of the following statement is correct in relation to the heavier gas in the cave? (only lease answer is possible).\na) The appearance of this gas in the cave is the result of human activities.\nb) The appearance of this gas in the cave is the result of a linear action between the hydrosphere and geosphere.\nc) The appearance of this gas in the cave is the result of a linear action between the atmosphere, hydrosphere, and geosphere.\nd) The appearance of this gas in the cave is the result of a directive action between the biosphere, hydrosphere, and geosphere.\ne) The appearance of this gas in the cave is the result of a directive action between the biosphere, hydrosphere, atmosphere and geosphere.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Вопрос 9: Температура и концентрация CO2 в ледниковый период",
+   "weight": 1,
+   "total": 1,
+   "statement": "The graph below shows the evolution of temperature (degree Celsius) and atmospheric concentration (ppm) of carbon dioxide (CO2) during an antarctic glacial period.",
+   "parts": [
+    {
+     "id": "9.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.9) Which of the following best explains the 800-year lag in the graph above? (only lease answer is possible).\na) CO2 is responsible for climate change as a massive length. If this were the case the maximum CO2 concentration would rather have occurred at the same time, or preceded the maximum temperature.\nb) The ocean acts as a buffer of both temperature and the level of CO2 in the atmosphere.\nc) A change in the position of all lakes caused this 800-year gap.\nd) Changes in sea level caused this 800-year gap.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Вопрос 10: Потепление океанов и карбонаты",
+   "weight": 1,
+   "total": 1,
+   "statement": "Вопросы о влиянии потепления океанов на растворимость карбонатов.",
+   "parts": [
+    {
+     "id": "10.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.10) Which of the following statement / are correct? (one more correct answer is possible).\na) The warming of ocean water is increase the dissolution of carbonates.\nb) Warming ocean water reduce the dissolution of carbonates.\nc) Warming of ocean water is increase global warming.\nd) Warming of ocean water reduce global warming.\ne) Warming ocean water reduce carbonate sedimentation.\nf) Warming of ocean water is increase the sedimentation of carbonates.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Вопрос 11: Условия засушливости во время Ледникового периода",
+   "weight": 1,
+   "total": 1,
+   "statement": "Вопросы об особенностях климата Ледникового периода.",
+   "parts": [
+    {
+     "id": "11.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.11) Which of the following statement could explain why there were more desert areas on the earth's surface during the Ice Age than today? (one more correct answer is possible).\na) During this time the Earth's atmosphere contained less water vapor.\nb) During this time the amount of precipitation in Earth is less than the precipitation today.\nc) During this time there was less evaporation in colder areas.\nd) During this time there was less ocean evaporation.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Вопрос 12: Опустынивание и альбедо",
+   "weight": 1,
+   "total": 1,
+   "statement": "Вопросы о связи опустынивания и альбедо.",
+   "parts": [
+    {
+     "id": "12.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.12) Which of the following is the most correct explanation possible? (only lease answer is possible).\na) The increasing desertification of the Earth tends to increase the local albedo making the region warmer.\nb) The increasing desertification of the Earth tends to reduce the local albedo making the region warmer.\nc) The increasing desertification of the Earth tends to increase the local albedo making the region colder.\nd) The increasing desertification of the Earth tends decrease the local albedo making the region colder.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Вопросы 13-14: Палеотемпературные данные и циклы",
+   "weight": 1,
+   "total": 2,
+   "statement": "The z-axis event, B.P and for Before present. The z-axis event the relative temperature anomaly compared to the average temperature of the last 150 years.",
+   "parts": [
+    {
+     "id": "13.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.13) Which of the following statement best explains the ensuing graph? (one more correct answer is possible).\na) The temperate period between the Ice Age that are warmer than the average temperature of the last 150 years.\nb) Ice age end faster than the warm.\nc) Ice age are faster than the trend.\nd) The general trend of the last 5 million years has been global cooling.",
+     "reference": ""
+    },
+    {
+     "id": "13.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.14) Which of the following best explains the above graph? (one more correct answer is possible).\na) During the last million year each ice age has lasted more than each warm period.\nb) During the last million year, a more glacial period has lasted more than ice ages.\nc) Looking at the last million year, ice age will longer than Earth.\nd) The temperature change over the next 100 years is likely to be 4 C higher than in the last century.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Вопрос 15: Циклы Миланковича",
+   "weight": 1,
+   "total": 1,
+   "statement": "From the Milankovitch cycle diagram below, which of the following is the best interpretation of temperature variation? (only e correct answer).",
+   "parts": [
+    {
+     "id": "15.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.15) Выберите лучшую интерпретацию температурных вариаций по диаграмме Миланковича.\na) For the last 400,000 years, the Earth's global temperature has changed in a cycle of approximately 25,000 years.\nb) For the last 400,000 years, the Earth's global temperature has changed in a cycle of approximately 50,000 years.\nc) For the last 400,000 years, the Earth's global temperature has changed in a cycle of approximately 75,000 years.\nd) For the last 400,000 years, the Earth's global temperature has changed in a cycle of approximately 100,000 years.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 16,
+   "title": "Вопрос 16: Климат Земли 4 миллиарда года назад",
+   "weight": 1,
+   "total": 1,
+   "statement": "According to the standard law model, about 4 billion years ago, the energy radiated by the sun was 70% of day's level. If all the variables were dependent today's conditions, the result would have been a ball of frozen. Geological data shows that during this period a relatively warm temperature prevailed at the surface with the presence of liquid water.",
+   "parts": [
+    {
+     "id": "16.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.16) Which of the following statement could explain Earth's warmer (than expected) climate 4 billion years ago? (one more correct answer is possible).\na) There were extreme greenhouse gases in the original atmosphere.\nb) In the past, the geothermal energy released by radioactive decay is considerably greater than it is today.\nc) The moon had much more rock than Earth billions of years ago, which explains the release of energy from tidal force at much higher.\nd) Lack of vegetation was the cause of highest planetary albedo.\ne) The smaller continental area area billions of years ago is the cause of a lower planetary albedo.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 17,
+   "title": "Вопросы 17-18: Энцелад (спутник Сатурна)",
+   "weight": 1,
+   "total": 2,
+   "statement": "The photo below is a visible light image of Enceladus, a moon of Saturn.",
+   "parts": [
+    {
+     "id": "17.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.17) What can we learn from observing the surface features of Enceladus? (one more correct answer is possible).\na) The crust of Enceladus is active.\nb) The crust of Enceladus is static.\nc) There are crustal layer boundaries on Enceladus.\nd) There have been recent meteorite impacts on Enceladus.\ne) There is no evidence of recent meteorite impacts on Enceladus.\nf) There is a hydrological system on Enceladus.",
+     "reference": ""
+    },
+    {
+     "id": "17.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.18) What could be a reasonable explanation of the local temperature difference at the surface of Enceladus? (one more correct answer is possible).\na) The variation in the energy intensity of solar radiation as a function of solar index.\nb) The atmosphere of Enceladus traps thermal energy.\nc) Crustal formation processes release heat from the depth in some regions.\nd) The bedrock is colder than the crustal material above.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 19,
+   "title": "Вопрос 19: Поверхность Марса (эоловые процессы)",
+   "weight": 1,
+   "total": 1,
+   "statement": "The photo below is an image of the sand dunes on the surface of Mars. Which of the following offer a reasonable interpretation of this image? (one more correct answer is possible).",
+   "parts": [
+    {
+     "id": "19.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.19) Выберите объяснения для изображения дюн на Марсе.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 20,
+   "title": "Вопрос 20: Поверхность Марса",
+   "weight": 1,
+   "total": 1,
+   "statement": "The photo below is an other image of the surface of Mars. Which of the following offer a reasonable interpretation of this image? (one more correct answer is possible).",
+   "parts": [
+    {
+     "id": "20.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.20) Выберите правильные интерпретации второго изображения поверхности Марса.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 21,
+   "title": "Вопросы 21-22: Вертикальные движения земной коры в Великобритании",
+   "weight": 1,
+   "total": 2,
+   "statement": "The document below is a map of Great Britain. It represents the speed of the vertical movement of the crust (in mm/year). Negative values indicate sinking and positive values indicate lifting. An analysis of this data shows that the movements are remarkably fast over a large area.",
+   "parts": [
+    {
+     "id": "21.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.21) Which of the following offer the best explanation of regional variation in elevation? (only lease answer is possible).\na) Tectonic activity caused by an active plate margin.\nb) England is initiated above a mantle plume.\nc) Local changes in sea level affect the elevation of the land.\nd) There is a post-glacial equilibrium of the crust after the last ice age.",
+     "reference": ""
+    },
+    {
+     "id": "21.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.22) Which of the following offer the best explanation of the sinking areas? (only lease answer is possible).\na) The sinking area is located near a subduction zone.\nb) The sinking area is the result of an isostatic heime.\nc) The area is sinking because the sea level is falling there.\nd) This area is sinking because the moving of ground water caused regional subsidence.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 23,
+   "title": "Вопрос 23: Законы Кеплера и образование Солнечной системы",
+   "weight": 1,
+   "total": 1,
+   "statement": "The left figure below explains the formation and evolution of the solar system which has started 4.6 billion years ago with the gravitational collapse of a small part of a giant molecular cloud. Most of the matter collapsed in the center to form the sun, while the rest, flattened into a protoplanetary disk, produced the planets, moons, asteroids and the smaller bodies of the solar system. Kepler's laws describe the movement of the planets around the sun. The graph on the right below shows the relationship between the average distance of a planet from the sun and its orbital period known as Kepler's 3rd law.",
+   "parts": [
+    {
+     "id": "23.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.23) Which of the following statement could be a reasonable interpretation of data shown above? (one more correct answer is possible).\na) All the planets in the solar system orbit in the same direction.\nb) The direction of the axial rotation of the sun is the same as the direction of the orbital motion of the planets.\nc) The direction of the axial rotation of all the planets in the solar system is the same as the direction of their orbital motion.\nd) Planets further from the sun have larger orbital periods.\ne) An asteroid with an average orbital distance of 2 AU will orbit slightly faster than Mars.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 24,
+   "title": "Вопросы 24-25: Изменения глобального уровня моря",
+   "weight": 1,
+   "total": 2,
+   "statement": "The graph below represent data on the intensity of global sea level for the last 24,000 years...",
+   "parts": [
+    {
+     "id": "24.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.24) Which of the following correctly describes the above graphic and the information given? (one more correct answer is possible).\na) Sea level has been relatively stable for the last 6,000 years.\nb) Sea level has increase rapidly for the last 6,000 years.\nc) Sea level began to rise gradually at the end of the last maximum of glaciation 14,000 years ago.\nd) Over the last 20,000 years, the rate of sea level rise has been exceptional.\ne) The rate of sea level rise has exceeded 4m / 100 years at several times in the last 20,000 years.\nf) The rate of sea level rise has exceeded 10m / 100 years at several times in the last 20,000 years.",
+     "reference": ""
+    },
+    {
+     "id": "24.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.25) Which of the following best explains the periods of rapid sea level rise that have occurred in the last 24,000 years? (only lease answer is possible).\na) Rapid melting of ocean ice.\nb) Period of rapid warming of ocean waters.\nc) Melting glacier in the ocean.\nd) The melting sea ice already floating in the ocean.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 26,
+   "title": "Вопрос 26: Изменение климата атмосферы и океана",
+   "weight": 1,
+   "total": 1,
+   "statement": "The line graph below shows the atmospheric and oceanic climate change of Earth...",
+   "parts": [
+    {
+     "id": "26.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.26) Which of the following offer a reasonable interpretation based on the graph above? (one more correct answer is possible).\na) Comparison of the line graph shows a general trend of decreasing and increasing temperature and thermal energy in the atmosphere and hydrosphere.\nb) Comparison of the line graph shows a general trend of decrease of temperature and thermal energy increase in the atmosphere and hydrosphere.\nc) During the period 1980-2012, a large majority of the energy increase in the Earth system took place in the hydrosphere.\nd) During the period 1980-2012, a large majority of the increase in energy in the Earth system took place in the atmosphere.\ne) When the temperature of the atmosphere decreases, the thermal energy contained in the ocean increases.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 27,
+   "title": "Вопросы 27-28: Извержение вулкана Тоба и альбедо",
+   "weight": 1,
+   "total": 2,
+   "statement": "The Toba volcano, located in Indonesia, erupted about 75,000 years ago...",
+   "parts": [
+    {
+     "id": "27.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.27) Which of the following could be a reasonable explanation of the modification of the planetary albedo after the Toba eruption? (one more correct answer is possible).\na) A layer of volcanic ash covers a large area of soil.\nb) The atmosphere has condensation nuclei which increasing the cloud cover.\nc) The atmosphere has condensation nuclei which reducing the cloud cover.\nd) A large amount of volcanic sulfur dioxide in the atmosphere cause the albedo increase.\ne) The drop in temperature that caused an increase in snow cover.",
+     "reference": ""
+    },
+    {
+     "id": "27.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.28) Which of the following could be a reasonable explanation of the return from the overall albedo level to normal levels after the Toba eruption? (one more correct answer is possible).\na) Vegetation began growing on the ash.\nb) As the ash gradually removed from the atmosphere.\nc) Sulfur dioxide has been removed from the atmosphere.\nd) The amount of snow cover has returned to normal.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 29,
+   "title": "Вопрос 29: Сокращение морского льда у Северного полюса",
+   "weight": 1,
+   "total": 1,
+   "statement": "As a result of the ocean temperature increase over the last 100 years there has been less sea ice during most of the year at the North Pole.",
+   "parts": [
+    {
+     "id": "29.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.29) Which of the following possibilities is the most likely outcome of this process? (only lease answer is possible).\na) The acceleration of global warming because more energy has been absorbed.\nb) A slowing of global warming caused by lower energy uptake.\nc) No impact on the rate of climate change.\nd) It is impossible to know how this will affect the future climate.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 30,
+   "title": "Вопросы 30-31: Большое тихоокеанское мусорное пятно и циркуляция атмосферы",
+   "weight": 1,
+   "total": 2,
+   "statement": "In the figure below, the symbols indicate the location of the Great Pacific Garbage Patch (GPGP)...",
+   "parts": [
+    {
+     "id": "30.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.30) Based on the diagram above, which of the following statement could be a reasonable interpretation of the existence of the Great Pacific Garbage Patch at the position shown in the diagram above? (one more correct answer is possible).\na) The Garbage Patch is created by the North Pacific Gyre.\nb) The patch of waste can be created in the Atlantic and Indian Ocean.\nc) The patch of waste will gradually shrink in time.\nd) Water from land arealed along ocean coasts can aggregate at the same location.",
+     "reference": ""
+    },
+    {
+     "id": "30.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.31) Which of the following statement /are correct? (one more correct answer is possible).\na) The currents in the North Pacific are related to the trade wind (NE trade wind in the diagram) and the prevailing western wind (Westerlies in the diagram).\nb) The prevailing western wind (Westerlies) create ocean currents going from east to west.\nc) The path of the trade wind and the prevailing western wind are bend because the Earth rotates.\nd) The Hadley cell moves towards the Northern Hemisphere in the summer.\ne) At 30 N, there is a low pressure system.\nf) General atmospheric circulation and ocean currents are a steady state region.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 32,
+   "title": "Вопрос 32: Морфология ландшафтов Корсики",
+   "weight": 1,
+   "total": 1,
+   "statement": "The four photos (A-D) below represent lakes in Corsica. These are landscapes with different morphologies...",
+   "parts": [
+    {
+     "id": "32.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.32) From the information given above, choose the correct proposal(s) relating to the morphology of the landscape. (one more correct answer is possible).\na) The landscape result from an active action between atmosphere, hydrosphere and geosphere.\nb) The landscape result from an active action between atmosphere and geosphere only.\nc) Moraine can be found at the edge of the valleys.\nd) The morphology of the trough valley indicate erosion by ice.\ne) It is highly probable that a glacier are expanding during the last glaciation.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 33,
+   "title": "Вопрос 33: Черные сосны на Корсике",
+   "weight": 1,
+   "total": 1,
+   "statement": "There are two varieties of black pine in Corsica...",
+   "parts": [
+    {
+     "id": "33.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.33) Based on the information given above, which of the following is correct of black pine from Corsica? (only lease answer is possible).\na) We have the best chance of finding the Corsican pine in the highest area of photo C.\nb) We have the best chance of finding the Calabrian pine in the highest area of photo C.\nc) The highest area of photo C is an acceptable environment for the growth of Calabrian pine thanks to the state of the soil.\nd) Both varieties of black pine can be found in a karst system.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 34,
+   "title": "Вопросы 34-41: Загрязнение воздуха в Бангкоке и термодинамика атмосферы",
+   "weight": 1,
+   "total": 8,
+   "statement": "On February 8, 2018, the concentration of fine particles in the atmosphere reached health levels in several districts of Bangkok...",
+   "parts": [
+    {
+     "id": "34.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.34) Given the adiabatic vertical lapse rate is fixed at 10 degree Celsius per kilometer, and we consider that the temperature of a mass of polluted air released by a car at a factory is 35 degree Celsius. What will be the temperature of this mass of air at an altitude of 2 km? (Only one answer is possible).\na) 25 degree Celsius.\nb) 15 degree Celsius.\nc) 10 degree Celsius.\nd) 5 degree Celsius.\ne) 0 degree Celsius.",
+     "reference": ""
+    },
+    {
+     "id": "34.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.35) Using the adiabatic vertical lapse rate from item 34, what is the highest altitude that the polluted air mass of 35 degree is likely to reach? (Only lease answer is possible.)\na) 200 m\nb) 600 m\nc) 1000 m\nd) 1200 m\ne) 1600 m\nf) 2000 m",
+     "reference": ""
+    },
+    {
+     "id": "34.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.36) During the middle of summer, the ground is heated by the mass of polluted air. If the temperature of this mass of polluted air is 40 degree Celsius at the ground, what will be the maximum altitude that this mass of air can reach? Use the adiabatic vertical lapse rate given in item 34. (Only one answer is possible).\na) between 1200 m and 1400 m\nb) between 1400 m and 1600 m\nc) between 1600 m and 1800 m\nd) between 2000 m and 2200 m\ne) Beyond 2200 m",
+     "reference": ""
+    },
+    {
+     "id": "34.4",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.37) Considering graphs on the vertical iteration where the mass of polluted air is 50 degree Celsius at the ground, what will be the maximum altitude that this mass of air can reach? Use the adiabatic vertical lapse rate given in item 34. (Only one answer is possible).\na) between 1400 m and 1600 m\nb) between 1600 m and 1800 m\nc) between 1800 m and 2000 m\nd) between 2000 m and 2200 m\ne) Beyond 2200 m",
+     "reference": ""
+    },
+    {
+     "id": "34.5",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.38) Given below are five thermal profiles: height in meters as a function of temperature in degree Celsius. What is the thermal profile that ever since the most severe case of pollution?\na) Thermal profile a\nb) Thermal profile b\nc) Thermal profile c\nd) Thermal profile d\ne) Thermal profile e",
+     "reference": ""
+    },
+    {
+     "id": "34.6",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.39) Considering the thermal profile of item 38, what is generally the time of day that the air pollution is most severe? It is also considered that the emission of pollutant remains constant. (Only lease answer is possible)\na) 12am - 3am\nb) 5am - 8am\nc) 12 m - 3 m\nd) 4 m - 7 m\ne) 9 m - 12am",
+     "reference": ""
+    },
+    {
+     "id": "34.7",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.40) In order to reduce pollution, what can be done to reduce the local concentration of pollutants at the ground? (One more correct answer is possible).\na) Release the polluted air at a temperature above 30 degree Celsius.\nb) Release the polluted air at a temperature below 30 degree Celsius.\nc) Release the polluted air from a chimney higher than 80 meters.\nd) Release the polluted air from a chimney lower than 80 meters.",
+     "reference": ""
+    },
+    {
+     "id": "34.8",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.41) In a tropical country like Thailand, what time of year is the pollution problem worst, assuming that the source of pollution is constant through out the year? (Only lease answer is possible)\na) The middle of summer.\nb) The middle of winter.\nc) When the mass of cold air replace the mass of moist air.\nd) When the mass of hot air replace the mass of cold air.\ne) When the mass of moist air replace the mass of hot air.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 42,
+   "title": "Вопросы 42-44: Сравнение Марса и Земли",
+   "weight": 1,
+   "total": 3,
+   "statement": "Использование глобальной гипсометрической карты Марса для анализа геологических особенностей планеты.",
+   "parts": [
+    {
+     "id": "42.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.42) Choose from the following statements, the statement that CANNOT explain why Mars has more craters than Earth. (Only lease answer is possible).\na) There has been little water on Mars for a long time.\nb) The Martian atmosphere is much thinner than that of Earth.\nc) Earth is larger than Mars.\nd) Mars' orbit around the Sun circles the asteroid belt.",
+     "reference": ""
+    },
+    {
+     "id": "42.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.43) Mons Olympus is the highest mountain and volcano in the solar system. Its altitude is two and a half times greater than Mount Everest Earth. The Asia, Pacific and Arcane Mountains are all higher than Mount Everest. What is the following statement that explains the phenomenon described above? (Only lease answer is possible)\na) The lower gravity on Mars allowed for the formation of volcanoes higher than on Earth.\nb) Earth has a large moon than the planet Mars.\nc) The difference in composition of the mantle between the Earth and Mars allowed the formation of Mons Olympus.\nd) There is caused by plate island on Mars is in excess.",
+     "reference": ""
+    },
+    {
+     "id": "42.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.44) The drawing of the Moon above were drawn by Galileo Galilei... Which of the following theme contributes to the morphological phase of the Moon? (only e correct answer).\na) The Earth blocks the Sun light and thus casts a shadow on the Moon.\nb) The axis of the Moon around it is increasing the morphological phase.\nc) The fact that the Moon is orbiting the Earth creates the morphological phase of the Moon.\nd) The fact that the Earth is orbiting around the sun creates the morphological phase of the Moon.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 45,
+   "title": "Вопросы 45-48: Луна (кратеры, состав, магнитное поле)",
+   "weight": 1,
+   "total": 4,
+   "statement": "Данные о видимой стороне Луны, ее составе, плотности и кратерах.",
+   "parts": [
+    {
+     "id": "45.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.45) Given above is a model photograph of the visible side of the Moon, which is constantly facing the Earth... Which of the following best explains why one side of the moon is invisible from Earth? (only e correct answer).\na) The time it takes for the Moon to revolve around the Earth is equal in time of axis and a rotation.\nb) The other side of the Moon is made of rock with a low albedo.\nc) Only one side of the moon face the Sun.\nd) The density and gravity of the Moon is influenced in rotation and orbit.",
+     "reference": ""
+    },
+    {
+     "id": "45.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.46) Which of the following explain the abundance of craters on the Moon relative to Earth? (only e correct answer is possible).\na) The absence of an atmosphere on the Moon.\nb) The Earth's intense magnetic field protection from meteoric impact.\nc) The low density of the Moon attract object from space.\nd) The Moon's orbit go through more asteroid than Earth's orbit.",
+     "reference": ""
+    },
+    {
+     "id": "45.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.47) The above graph shows the chemical element composition of the surface rock that make the mountains and lowlands of the Moon as well as the surface rock of the Earth... Which of the following statement is / are correct? (one more correct answer is possible).\na) The higher iron concentration of the lowlands of the Moon indicate that the crust contain a high level of iron-rich and dense.\nb) The higher iron concentration of the lowlands of the Moon indicate that the are mainly made of basalt.\nc) The iron, magnesium, and titanium composition of the lunar lowlands would indicate that the crust contain rock rock that does exist in the highland region (lunar mountain and earth's crust).\nd) The difference in titanium and calcium composition between the Earth and the Moon indicate that the Earth contain rock rock which do not exist in the surface of the Moon.\ne) The highest concentration of aluminum and calcium in the lunar mountains compared to the regions indicate that the crust contain a high level of carbonate and clay.\nf) The low sodium and potassium concentration show a greater degree of crustal differentiation in Earth than the Moon.",
+     "reference": ""
+    },
+    {
+     "id": "45.4",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.48) What could be the reason(s) of the absence of a magnetic field on the Moon while the rocks of the lunar lowlands have a weak residual magnetism? (one more correct answer is possible)\na) Since the surface of the Moon has a lower concentration of iron compared to the Earth, a global magnetic field could be created.\nb) In relation to the low density of the Moon, the iron concentration of the lunar core is insufficient for the creation of a magnetic field.\nc) The Moon's gravitational field weakens magnetic field.\nd) The moon cooled rapidly due to its size and this influenced the amount of liquid in its core.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 49,
+   "title": "Вопросы 49-51: Венера (кратеры, магматизм, состав)",
+   "weight": 1,
+   "total": 3,
+   "statement": "Изображения Венеры, полученные космическими аппаратами (Магеллан, Венера-13), и данные о ее поверхности.",
+   "parts": [
+    {
+     "id": "49.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.49) Based on the data presented in the 3 images above, which of the following statement could explain the aion of impact craters on Venus? (one more correct answer is possible)\na) The thick atmosphere of Venus influence the surface of Venus.\nb) The orbit of Venus does not cross region which is asteroid.\nc) Erosion on the surface of Venus have erased ancient craters.\nd) Magmatic activities covered ancient craters.\ne) The interaction between the magnetosphere and the atmosphere of Venus.",
+     "reference": ""
+    },
+    {
+     "id": "49.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.50) The atmosphere of Venus contain mostly CO2 with initially a water. The graph shown above is a phase diagram illustrating the effect of water on the genesis of magma. The rocks of the mantle of Venus are considered to be a hydrous. Based on the information given above, what is the mechanism that can initiate magmatic activity on Venus? (only e correct answer is possible).\na) Subduction of tectonic plates.\nb) Heat releasing water.\nc) Comets that can regularly impact Venus.\nd) Decompression of the basalt material into a plume.",
+     "reference": ""
+    },
+    {
+     "id": "49.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.51) The photos shown above represent taken by the Magellan probe, showing a dune on Venus. White hue denote ridge and fault... What can be deduced about the composition of the grains of sand? (only e correct answer is possible).\na) Basalt\nb) Quartz\nc) Clay mineral\nd) A mixture of basalt and sand grain",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 52,
+   "title": "Вопросы 52-56: Гипотеза Геи и альбедо Земли",
+   "weight": 1,
+   "total": 5,
+   "statement": "The Gaia hypothesis is the idea that living things interact with their environment and form a self-regulating system...",
+   "parts": [
+    {
+     "id": "52.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.52) Suppose the initial surface temperature at 20 C. A temperature increase of 6 C will result in ........... (only e correct answer).\na) The surface temperature will stabilise at 26 C.\nb) Daisy coverage will increase.\nc) Daisy coverage will decrease.\nd) All the daisies will disappear.",
+     "reference": ""
+    },
+    {
+     "id": "52.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.53) Suppose the initial surface temperature at 30 C. A temperature increase of 1 C will cause ....... (only e correct answer).\na) The temperature will stabilise at 31 C.\nb) The temperature will reduce to 30 C.\nc) All the daisies will disappear.\nd) Coverage of daisies will increase.",
+     "reference": ""
+    },
+    {
+     "id": "52.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.54) Suppose the initial surface temperature at 20 C and the temperature will decrease by 5 C. Which of the following possibilities IS NOT likely to happen? (one more correct answer is possible).\na) The Earth will reach a new state of equilibrium with a surface temperature of 15 C.\nb) Daisy coverage will decrease.\nc) The Earth will absorb more solar radiation.\nd) All the daisies will disappear.",
+     "reference": ""
+    },
+    {
+     "id": "52.4",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.55) With the evolution of a flora, trees begin to cover the surface of the continents since the Upper Paleolithic (350 Ma), before the continents were covered by sand. A direct consequence of the vegetation on the continent is the change of the albedo: the albedo of a sand and desert is 0.4 and that of a forest is 0.15. Which of the following statement is correct? (only lease answer is possible).\na) The Earth has absorbed more solar radiation over the last 350 million years.\nb) The Earth has absorbed less solar radiation over the last 350 million years.\nc) The entire system will collapse because the temperature are high.\nd) The entire system will collapse because the temperature are low.",
+     "reference": ""
+    },
+    {
+     "id": "52.5",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.56) Based on the fact given in item 55, assume that ocean covers 70% of the Earth's surface with an albedo of 0.1 while continents cover 30%. After the continents were covered by forest, which of the following statement is correct? (only lease answer is possible).\na) Solar radiation absorbed by the Earth's surface will increase by 7%.\nb) Solar radiation absorbed by the Earth's surface will decrease by 7%.\nc) Solar radiation absorbed by the Earth's surface will increase by 30%.\nd) Solar radiation absorbed by the Earth's surface will decrease by 30%.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 57,
+   "title": "Вопросы 57-60: Каменноугольный период (оледенение, бокситы)",
+   "weight": 1,
+   "total": 4,
+   "statement": "Diamictite is an unsorted or poorly sorted sediment, containing particles ranging in size from clay to conglomerate, is a clastic and dense material...",
+   "parts": [
+    {
+     "id": "57.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.57) Geologists have discovered many diamictites in India, Australia and South Africa in layers dating from the Upper Carboniferous to the Lower Permian, suggesting the occurrence of glaciation. Which of the following statement is correct? (one more correct answer is possible).\na) The glaciation was triggered by a decrease in solar radiation absorbed into the evolution of effect.\nb) Glaciation was triggered by an increase in heat the incinerated by forest vegetation.\nc) The atmospheric CO2 level must have decreased.\nd) India, Australia and South Africa were located near the southern polar region during the Carboniferous.",
+     "reference": ""
+    },
+    {
+     "id": "57.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.58) The Carboniferous is the oldest and most massive period of coal formation. Which of the following describe the essential impact of significant coal formation on Earth? (one more correct answer is possible).\na) The formation of coal at the consequence of the evolution of the forest.\nb) The formation of coal triggered by glaciation.\nc) The formation of coal caused a decrease in atmospheric CO2.\nd) The formation of coal caused an increase in atmospheric O2.",
+     "reference": ""
+    },
+    {
+     "id": "57.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.59) As the characteristic of the Carboniferous is the presence of giant insects, such as the giant dragonfly, e.g., meganeura. What could be the reason of the presence of giant insects? (only lease answer is possible).\na) High temperature.\nb) Low temperature.\nc) A high level of O2 in the atmosphere.\nd) A low level of CO2 in the atmosphere.",
+     "reference": ""
+    },
+    {
+     "id": "57.4",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.60) According to the above text, which of the following statement is correct? (one more correct answer is possible).\na) Vegetation played a key role in the formation of both of bauxite.\nb) Glaciation increases chemical weathering and may be responsible for the formation of bauxite.\nc) The formation of carbonate bauxite is more dependent on the interaction with the biosphere than lateritic bauxite.\nd) The formation of lateritic bauxite is more dependent on interaction with the biosphere than carbonate bauxite.\ne) The formation of lateritic bauxite is more dependent on the interaction with the atmosphere than carbonate bauxite.\nf) The formation of carbonate bauxite is more dependent on the interaction with the atmosphere than lateritic bauxite.\ng) The existence of lateritic bauxite is a direct indication of ancient tropical forest.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 61,
+   "title": "Вопрос 61: Сейсмичность в Оклахоме и антропогенная активность",
+   "weight": 1,
+   "total": 1,
+   "statement": "The map below shows a USGS (United States Geological Survey) long-term seismic risk forecast for the USA. The region indicated by the number '1' is the state of Oklahoma...",
+   "parts": [
+    {
+     "id": "61.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.61) Based on the data, which of the following statement are correct? (one more correct answer is possible).\na) The state of Oklahoma is located at an active tectonic plate boundary.\nb) The states of high seismic risk areas from Oklahoma to the east coast indicate that the North America plate is moving from east to west.\nc) The increase in seismicity in the state of Oklahoma is likely due to human activities.\nd) The increase in seismicity in the state of Oklahoma is due to interaction between the 4 Earth system (geosphere, hydrosphere, atmosphere and biosphere).\ne) The increase in seismicity in the state of Oklahoma is mainly due to interaction between the geosphere and the hydrosphere.\nf) The increase in seismicity in the state of Oklahoma is mainly due to interaction between the geosphere and the biosphere.\ng) The increase in seismicity in the state of Oklahoma is mainly due to interaction between the geosphere, hydrosphere and biosphere.",
      "reference": ""
     }
    ]

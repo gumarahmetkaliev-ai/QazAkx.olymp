@@ -6,30 +6,86 @@
  "lang": "ru",
  "tasksFile": "olympiads/astronomy/s/iao/2012/astro-2-tasks.pdf",
  "solutionFile": "olympiads/astronomy/s/iao/2012/astro-2-sol.pdf",
- "generatedBy": "parser",
- "generatedAt": "2026-11-09T18:02:00.564Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:17:17.188Z",
  "quality": {
-  "tasks": 1,
-  "parts": 1,
-  "withPoints": 1,
-  "withReference": 1,
-  "withQuestion": 1,
-  "estimatedPoints": 1
+  "tasks": 4,
+  "parts": 6,
+  "withPoints": 6,
+  "withReference": 6,
+  "withQuestion": 6,
+  "estimatedPoints": 0
  },
  "tasks": [
   {
-   "number": 1,
-   "title": "АСТРОНОМИЧЕСКОЕ",
-   "weight": null,
-   "total": 42,
-   "statement": "ОБЩЕСТВО                           AS\n\n               XVII Международная астрономическая олимпи\n\n                  XVII International Astronomy Olympiad\n\n                     Корея, Кванджу   16 – 24. X. 2012\n\n          Вопросы         Observational round.\n    наблюдательного тура.     Questions.\n         Чистое небо           Clean sky\n\n                   Русский\n           В Вашем распоряжении фонарик\n\n     9. Покажите экзаменатору направление\n        на следующие объекты.\n       9.1. Полярную звезду,\n       9.2. Эклиптику (проведите рукой вдоль\n       линии эклиптики).\n\n    10. Расположите NGC 869 и NGC 884 в\n        поле зрения телескопа.\n        После нахождения объектов покажите\n        их экзаменатору.\n        10.2. Оцените часовой угол этих\n        объектов (с точностью ± 10 градусов).\n         Ответ в градусах:\n\n.                                                 .\n    11. Расположите M15 в поле зрения\n        телескопа. Карта прилагается.\n        После нахождения объекта покажите\n        его экзаменатору.\n\n    12. Приблизительно оцените зенитное\n        расстояние Меркурия.\n         Ответ:\n\n           Максимальное время выполнения\n                задания – 17 минут.\n\n               Корея, Кванджу\n\n        EURO–ASIAN                Round Obs \nTRONOMICAL SOCIETY\n\n                                 Group  \nада\n                                 язык\n                               language\n                                          Русский\n                                 язык\n                               language\n                                          English\n                         Code of participant\n\n                          English\n                   You are provided with a light\n\n    9. Point the direction of the following objects\n       (show it to examiner):\n         9.1. the Polaris,\n         9.2. the Ecliptic (draw the line following the\n         ecliptic).\n\n  10. Place NGC 869 and NGC 884 in the field\n       of view of the telescope.\n       After identifying the objects, show them to\n       the examiner.\n       10.2. Estimate the current hour angle of\n       them (to ± 10 degree accuracy).\n        Answer in degrees:\n\n  11. Place M15 in the field of view of the\n      telescope. The finding chart is given.\n      After identifying the object, show it to the\n      examiner.\n\n  12. Estimate the approximate zenith distance\n      of Mercury.\n       Answer:\n\n               The maximum total time for all tasks\n                        is 17 minutes.\n\n 2012                          Gwangju, Korea\n\n  АСТРОНОМИЧЕСКОЕ\n      ОБЩЕСТВО                          ASTRONOMI\n\n XVII Международная астрономическая олимпиада\n\n    XVII International Astronomy Olympiad\n\n        Корея, Кванджу   16 – 24. X. 2012\n\nНаблюдательный тур.\n    Чистое небо\n\n                           Карта поиска М15\n\n  Корея, Кванджу                            2012\n\n  EURO–ASIAN            Round Obs \nCAL SOCIETY\n\n                       Group   \n\n                        язык\n                      language\n                                 Русский\n                        язык\n                      language\n                                 English\n\n             Observational round.\n                  Clean sky",
+   "number": 9,
+   "title": "Указание объектов на небе",
+   "weight": 4,
+   "total": 4,
+   "statement": "В Вашем распоряжении фонарик. Покажите экзаменатору направление на следующие объекты.",
    "parts": [
     {
-     "id": "1.1",
-     "points": 42,
-     "question": "Решите задачу полностью и запишите ответ.",
-     "reference": "Round Obs \n                        ОБЩЕСТВО                                 ASTRONOMICAL SOCIETY\n\n                 XVII Международная астрономическая олимпиада\n                                                                                                     Group         \n                    XVII International Astronomy Olympiad\n                                                                                                     язык\n                          Корея, Кванджу          16 – 24. X. 2012          Gwangju, Korea         language\n                                                                                                                   English\n\n                                Observational round. Basic grading criteria\n\n 9. Pointing objects in the sky (the Polaris and the Ecliptic): 4 pt.\n        9-1. If pointed correctly, 2 pt, if not, 0 pt.\n        9-2. If pointed correctly, 2 pt, if not, 0 pt.\n\n10. NGC869/884 (The Perseus double cluster): 6 pt.\n       10-1. If the cluster is in the field of view of the telescope, 3 pt. If not, 0 pt\n       10-2. Hour angle of the double cluster\n                 Time Hour angle\n                 21:00 -60 or 300 degree\n                 22:00 -45 or 315 degree\n                 23:00 -30 or 330 degree\n                 4 min shift = 1 degree shift\n                 The end time of the exam for each group was recorded.\n                 If the hour angle at the end time and the answer agree within ±10 degree, 3 pt.\n                 If the difference is more than ±10 degree, -1 pt for each interval of an additional difference of 0 degree < hour\n                 angle ≤5 degree. This means that 0 pt for the answer with more than ±20 degree offset.\n                 If two answers were given for each object with separation more than 1 degree, 0 pt.\n\n11. M15: 5 pt.\n       If the target was within the field of view of the telescope, 5 pt.\n       If not, 0 pt.\n\n12. Zenith distance of Mercury: 5 pt.\n        Mercury always stays close to the Sun, but RA of it is about 15h 04m, while RA of the Sun is 13h 38m. The combination of\n        the knowledge of the latitude of the site, and the location of the Sun, and at the time when the observation started, it was\n        already well below the horizon.\n                  On October 19, the Zenith distance of Mercury was the following.\n                                               Time               Zenith distance (degree)\n                                                21:00                          116\n                                                21:15                          120\n                                                21:30                          123\n                                                21:45                          126\n                                                22:00                          129\n                                                22:15                          132\n                                                22:30                          135\n                                                22:45                          138\n                                                23:00                          140\n                                                 23:15                        143\n                  If the zenith distance at the time closest to the above table and the answer agree within 15 degree, 5 pt.\n                  For the additional difference at intervals of 0 degree < difference ≤ 5 degree beyond the ±15 degree, -1 pt was\n                  taken off. This means that 0 pt was given if the difference is more than 35 degree.\n\n                  Корея, Кванджу                                     2012                         Gwangju, Korea",
-     "pointsEstimated": true
+     "id": "9.1",
+     "points": 2,
+     "question": "Полярную звезду",
+     "reference": "If pointed correctly, 2 pt, if not, 0 pt."
+    },
+    {
+     "id": "9.2",
+     "points": 2,
+     "question": "Эклиптику (проведите рукой вдоль линии эклиптики)",
+     "reference": "If pointed correctly, 2 pt, if not, 0 pt."
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Двойное скопление в Персее (NGC 869 и NGC 884)",
+   "weight": 6,
+   "total": 6,
+   "statement": "Расположите NGC 869 и NGC 884 в поле зрения телескопа. После нахождения объектов покажите их экзаменатору.",
+   "parts": [
+    {
+     "id": "10.1",
+     "points": 3,
+     "question": "Расположите NGC 869 и NGC 884 в поле зрения телескопа и покажите экзаменатору.",
+     "reference": "If the cluster is in the field of view of the telescope, 3 pt. If not, 0 pt"
+    },
+    {
+     "id": "10.2",
+     "points": 3,
+     "question": "Оцените часовой угол этих объектов (с точностью ± 10 градусов). Ответ в градусах:",
+     "reference": "Hour angle of the double cluster:\n21:00 -60 or 300 degree\n22:00 -45 or 315 degree\n23:00 -30 or 330 degree\n4 min shift = 1 degree shift\nThe end time of the exam for each group was recorded.\nIf the hour angle at the end time and the answer agree within ±10 degree, 3 pt.\nIf the difference is more than ±10 degree, -1 pt for each interval of an additional difference of 0 degree < hour angle <= 5 degree. This means that 0 pt for the answer with more than ±20 degree offset.\nIf two answers were given for each object with separation more than 1 degree, 0 pt."
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Шаровое скопление M15",
+   "weight": 5,
+   "total": 5,
+   "statement": "Расположите M15 в поле зрения телескопа. Карта прилагается. После нахождения объекта покажите его экзаменатору.",
+   "parts": [
+    {
+     "id": "11.1",
+     "points": 5,
+     "question": "Расположите M15 в поле зрения телескопа и покажите экзаменатору.",
+     "reference": "If the target was within the field of view of the telescope, 5 pt. If not, 0 pt."
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Зенитное расстояние Меркурия",
+   "weight": 5,
+   "total": 5,
+   "statement": "Приблизительно оцените зенитное расстояние Меркурия. Ответ:",
+   "parts": [
+    {
+     "id": "12.1",
+     "points": 5,
+     "question": "Приблизительно оцените зенитное расстояние Меркурия.",
+     "reference": "Mercury always stays close to the Sun, but RA of it is about 15h 04m, while RA of the Sun is 13h 38m. The combination of the knowledge of the latitude of the site, and the location of the Sun, and at the time when the observation started, it was already well below the horizon.\nOn October 19, the Zenith distance of Mercury was the following:\n21:00 - 116\n21:15 - 120\n21:30 - 123\n21:45 - 126\n22:00 - 129\n22:15 - 132\n22:30 - 135\n22:45 - 138\n23:00 - 140\n23:15 - 143\nIf the zenith distance at the time closest to the above table and the answer agree within 15 degree, 5 pt.\nFor the additional difference at intervals of 0 degree < difference <= 5 degree beyond the ±15 degree, -1 pt was taken off. This means that 0 pt was given if the difference is more than 35 degree."
     }
    ]
   }

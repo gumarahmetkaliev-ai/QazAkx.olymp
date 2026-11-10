@@ -6,149 +6,355 @@
  "lang": "ru",
  "tasksFile": "olympiads/astronomy/s/ioaa/2018/astro-4-tasks.pdf",
  "solutionFile": "olympiads/astronomy/s/ioaa/2018/astro-4-sol.pdf",
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:52:52.587Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:14:34.455Z",
  "quality": {
-  "tasks": 9,
-  "parts": 9,
-  "withPoints": 9,
-  "withReference": 0,
-  "withQuestion": 9,
-  "estimatedPoints": 9
+  "tasks": 11,
+  "parts": 40,
+  "withPoints": 40,
+  "withReference": 39,
+  "withQuestion": 40,
+  "estimatedPoints": 2
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
-   "statement": "The theoretical competition will be 5 hours in duration and is marked out of a total of 300 points.",
-   "total": 7,
+   "title": "Super Luminal Galaxies",
+   "weight": 10,
+   "total": 10,
+   "statement": "Read the statements given below and state if they are true or false:\n(a) For some galaxies the apparent recession speed exceeds the speed of light.\n(b) The velocity – Distance relation as given by Hubble cannot allow recession velocities to exceed the speed of light.\n(c) Hubble-Lemaitre’s law (formerly known as Hubble’s Law) does not violate special relativity.\n(d) If some galaxies would have an apparent recession speed exceeding the speed of light, then the photons from those galaxies can never reach us.\n(e) As the expansion of Universe is accelerating, photons emitted right now from galaxies which have apparent recession speed equal to the speed of light will never reach us.",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
+     "id": "1.1",
+     "points": 10,
+     "question": "Read the statements given below and state if they are true or false.",
+     "reference": "T F T F F (2 points each)"
     }
    ]
   },
   {
    "number": 2,
-   "title": "Задача 2",
-   "statement": "There are Answer Sheets for carrying out detailed work/rough work. On each Answer Sheet, please fill\nin\n         Student Code\n         Question No.\n         Page no. and total number of pages.",
-   "total": 7,
+   "title": "Distance",
+   "weight": 10,
+   "total": 10,
+   "statement": "An observer measured trigonometric parallaxes of stars in a star cluster. Due to random errors, the measured parallax values are distributed symmetrically around the expected value with standard deviation equal to 0.05 mas (milliarcsec). Assume there are no systematic errors and assume all stars in the said cluster have the same luminosity. It is known that the distance of this cluster from us is R= 5 kpc.\nHe gave the data table to 4 of his students (A, B, C and D) and they estimated the distance to the cluster in the following ways:\n     A. Convert each parallax measurement into distance and then find the average distance (RA)\n     B. Take the average of all parallaxes first and then convert the average parallax into distance. (RB)\n     C. Convert each parallax measurement into distance and then take the median distance value. (RC)\n     D. Find the median value of the parallaxes and then convert the median value into distance. (RD)\n     State if the following statements are true or false. In case a given mathematical relation is false, give\nthe correct relation.\n      (l) If the ith star gave the smallest value of parallax and the jth star gave the highest value of parallax, in\nall likelihood Ri-R > R-Rj\n     (m) RA = R (i.e. there is a high chance that the distance estimated by A fairly matches the true distance)\n     (n) RB = R (i.e. there is a high chance that the distance estimated by B fairly matches the true distance)\n      (o) RC < R (i.e. there is a high chance that the distance estimated by C will be systematically lower than\nthe true distance)\n     (p) RD = R (i.e. there is a high chance that the distance estimated by D fairly matches the true distance)",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
+     "id": "2.1",
+     "points": 10,
+     "question": "State if the statements (l), (m), (n), (o), (p) are true or false. In case a given mathematical relation is false, give the correct relation.",
+     "reference": "T F T F T (2 points each). For parallaxes, we have a Gaussian with µ=0.2 mas and σ=0.05 mas i.e. 25% of the expectation value. If we assume that the lowest and highest values of parallax are symmetric w.r.t. the expected value (reasonable assumption if cluster has large number of stars), then their distances would not be symmetric w.r.t. the true distance. RA > R, RC = R (for statement m and o, marks will be given only if this relation is stated)"
     }
    ]
   },
   {
    "number": 3,
-   "title": "Задача 3",
-   "statement": "Start each problem on a separate Answer Sheet. Please write only on the printed side of the sheet. Do not\nuse the reverse side. If you have written something on any sheet which you do not want to be marked, cross\nit out.",
-   "total": 7,
+   "title": "Atmospheric Refraction",
+   "weight": 10,
+   "total": 10,
+   "statement": "Consider sunrise at Beijing (φ=40°) on the vernal equinox day.",
    "parts": [
     {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
+     "id": "3.1",
+     "points": 4,
+     "question": "Let us say rl, rd, rr and ru are distances from the centre of the undistorted disk of the Sun to the edge of the disk towards the directions left, down, right and up respectively. What will be the hierarchical relation (<, =, >) between the four radii just after the sunrise?",
+     "reference": "rd < ru < rl = rr (4 points)"
+    },
+    {
+     "id": "3.2",
+     "points": 6,
+     "question": "What is the correction in the time of rise of the top edge of the disk as compared to the case without atmosphere? You may assume that typically atmospheric refraction near the horizon is 35′. Please only consider the apparent diurnal motion.",
+     "reference": "ω = 15.0411 '⁅m (2 points). Ideally one should find time taken by mean sun to travel from 50' below horizon to 15' below true horizon. Δt = 3.04 mins (4 points)"
     }
    ]
   },
   {
    "number": 4,
-   "title": "Задача 4",
-   "statement": "Please remember that the graders may not understand your language. As far as possible, write your\nsolutions only using mathematical expressions and numbers. If it is necessary to explain something in words,\nplease use short phrases (if possible in English).",
-   "total": 7,
+   "title": "Height of a Hill",
+   "weight": 10,
+   "total": 10,
+   "statement": "Two friends wanted to measure the height of the hill next to their village (latitude φ=40°). One of the friends climbed to the top of the hill and she agreed to send a light signal to her friend in the village as soon as she sees the sunset. On March 21, when they did this experiment, the friend in village received the light signal 4.1 minutes after the sunset from the village. Estimate the height of the hill and horizon distance for the person at the hill top. Ignore atmospheric refraction.",
    "parts": [
     {
-     "id": "4",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
+     "id": "4.1",
+     "points": 4,
+     "question": "Estimate the horizon depression x.",
+     "reference": "x = 15.0411' × 4.1 × sinθ = 1.03' sin50° = 0.787°. (4 points)"
+    },
+    {
+     "id": "4.2",
+     "points": 3,
+     "question": "Estimate the height of the hill H.",
+     "reference": "H = R⊕(1/cos x - 1) = 602 metres. (3 points)"
+    },
+    {
+     "id": "4.3",
+     "points": 3,
+     "question": "Estimate the horizon distance for the person at the hill top.",
+     "reference": "D = (R⊕ + H) sin x ≈ R⊕ sin x = 87.6 km (Alternatively, D = R⊕ x = 87.6 km). (3 points)"
     }
    ]
   },
   {
    "number": 5,
-   "title": "Задача 5",
-   "statement": "You are not allowed to leave your working desk without permission. If you need any assistance\n(malfunctioning calculator, need to visit a restroom, need more Answer Sheets, etc.), please put up your hand\nto signal the proctor.",
-   "total": 7,
+   "title": "Sidereal Time",
+   "weight": 10,
+   "total": 10,
+   "statement": "It is very interesting to observe that on one particular calendar day each year, the mean sidereal time will twice be 00:00:00.\nYou may assume that at the Royal Greenwich Observatory, the mean sidereal time (GMST0) was 6.706h at 0h, 1st January, 2018 (JD2458119.5).",
    "parts": [
     {
-     "id": "5",
-     "question": "Приведите полное решение (с доказательством или выводом).",
+     "id": "5.1",
+     "points": 3,
+     "question": "What will be the approximate R.A. of the Sun when this event happens?",
+     "reference": "Approximate R.A. of the Sun is 18h. (3 points)"
+    },
+    {
+     "id": "5.2",
      "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
+     "question": "Estimate the exact date in 2018 for this event.",
+     "reference": "Calculation of days: T = 263.20. GMST will be 00:00:00 on 264th day. The 264th day in the calendar of 2018 is 21st September 2018. (3 points for calculation, 2 points for day/time, 2 points for date)"
     }
    ]
   },
   {
    "number": 6,
-   "title": "Задача 6",
-   "statement": "The beginning and end of the competition will be indicated by a long sound signal. Additionally, there will\nbe a short sound signal fifteen minutes before the end of the competition (before the final long sound signal).",
-   "total": 7,
+   "title": "Observe the Sun with FAST",
+   "weight": 25,
+   "total": 25,
+   "statement": "The Five-hundred-meter Aperture Spherical radio Telescope (FAST) is a single-dish radio telescope located in Guizhou Province, China. The physical diameter of the dish is 500 m, but during observations, the effective diameter of the collecting area is 300 m.\nConsider observations of the thermal radio emission from the photosphere of the Sun at 3.0 GHz with this telescope and a receiver with bandwidth 0.3 GHz.",
    "parts": [
     {
-     "id": "6",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "6.1",
+     "points": 19,
      "pointsEstimated": true,
-     "reference": ""
+     "question": "Calculate the total energy (⊙) that the receiver will collect during 1 hour of observation.",
+     "reference": "Rayleigh-Jeans law Bν = 2kTν^2/c^2. Lν = Bν · 4πR⊙^2 (3 points). Monochromatic flux fν = Lν / (4πD^2), Energy flux Fν = fν · Δν · π(d_eff/2)^2 (8 points). Total energy E⊙ = 8.5 × 10^(-13) J (8 points)."
+    },
+    {
+     "id": "6.2",
+     "points": 5,
+     "pointsEstimated": true,
+     "question": "Estimate the energy needed to turn over one page of your answer sheet (E′). Hint: the typical surface density of paper is 80 gm-2.",
+     "reference": "Mass m = ρ · L_1 · L_2 (2 points). Energy E_w = mg · (L_1/2) ≈ 5 × 10^(-3) J (3 points)."
+    },
+    {
+     "id": "6.3",
+     "points": 1,
+     "question": "Which one is larger?",
+     "reference": "E_w > E⊙ (1 point)."
     }
    ]
   },
   {
    "number": 7,
-   "title": "Задача 7",
-   "statement": "At the end of the competition you must stop writing immediately. Sort and put your sheets in\nseparate stacks,\n     (a) Stack 1: answer sheets of part 1\n     (b) Stack 2: answer sheets of part 2\n     (c) Stack 3: answer sheets of part 3\n     (d) Stack 4: question papers and paper sheets that you do not want to be graded.",
-   "total": 7,
+   "title": "Sunspot",
+   "weight": 25,
+   "total": 25,
+   "statement": "Magnetic fields are, important in the physics of stars and sunspots. As an approximation, we can model the photosphere of the Sun consisting of a plasma, which can be simply treated as a single component ideal gas, and a magnetic field (B), which has an associated magnetic pressure p_B = B^2 / (2μ_0). It behaves like any other physical pressure except that it is carried by the magnetic field rather than by the kinetic energy of particles.\nAssume that the number density of particles in the photosphere is constant everywhere, but the magnetic field inside the sunspot (B_in=0.1T) is much stronger than outside (B_out=5×10^-3T). From the blackbody spectrum, the temperature inside the sunspot is T_in~4000K, while the temperature outside is T_out~6000K (which is why the sunspot looks darker). For the sunspot to be stable, the inside must be in equilibrium with the outside.",
    "parts": [
     {
-     "id": "7",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
+     "id": "7.1",
+     "points": 20,
+     "question": "Estimate the number density of plasma particles in the solar photosphere.",
+     "reference": "Kinetic pressure inside p_in = n_in k T_in, p_out = n_out k T_out (3 points). Equilibrium equation n k T_in + B_in^2/(2μ_0) = n k T_out + B_out^2/(2μ_0) (8 points). n = (B_in^2 - B_out^2) / [2μ_0 k (T_out - T_in)] = 1.43 × 10^23 m^-3 (6 points)."
+    },
+    {
+     "id": "7.2",
+     "points": 5,
+     "question": "Compare your answer with an estimate of the number density of particles in the atmosphere at the surface of the Earth.",
+     "reference": "n_E = P_E / (k T_E) = 2.4 × 10^25 m^-3 (4 points). Earth's atmospheric number density is at least 100 times larger (1 point)."
     }
    ]
   },
   {
    "number": 8,
-   "title": "Задача 8",
-   "statement": "Wait at your table until your envelope is collected. Once all envelopes are collected, your student guide\nwill escort you out of the competition room.",
-   "total": 7,
+   "title": "A Possible Dark Matter Deficient Galaxy",
+   "weight": 25,
+   "total": 25,
+   "statement": "Earlier this year, a team of astronomers reported their discovery of a galaxy with much less dark matter than the galaxy evolution model predicted (van Dokkum et al. 2018, Nature). This galaxy, named NGC 1052-DF2, is located close to the elliptical galaxy NGC 1052 (D=20Mpc from the Sun) in the sky. The shape of NGC 1052-DF2 resembles an ellipse with semi major axis (a) of 22.6\" and b/a = 0.85. Half of the total light from the galaxy comes from within this ellipse and the mean surface brightness within the ellipse is about 24.7 mag arcsec-2.",
    "parts": [
     {
-     "id": "8",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
+     "id": "8.1",
+     "points": 6,
+     "question": "Calculate the total apparent magnitude of this galaxy.",
+     "reference": "Total area within half-light ellipse (2 points). Magnitude of the part within the ellipse (2 points). Total magnitude of the whole galaxy (2 points)."
+    },
+    {
+     "id": "8.2",
+     "points": 6,
+     "question": "The team suggested the galaxy is a companion of NGC 1052. Determine the total mass of stars in NGC 1052-DF2, assuming it has a mass to light ratio (M/L) of 2.0.",
+     "reference": "Absolute magnitude of the galaxy (2 points). Convert to solar luminosity L / L_⊙ = 1.2 × 10^8 (2 points). Total stellar mass M = 2.4 × 10^8 M_⊙ (2 points)."
+    },
+    {
+     "id": "8.3",
+     "points": 9,
+     "question": "The team identified 10 globular clusters in NGC 1052-DF2 with a mean galactocentric distance of 78.4\". They also measured the velocity dispersion of these clusters to be not more than 8.4 km/s. Estimate the dynamical mass of this galaxy. For simplicity, assume the mass distribution in the galaxies is uniform and is spherically symmetric.",
+     "reference": "Mean galactocentric distance r_gc = 7.6 kpc (2 points). Using virial theorem ⟨U⟩ = ... (4 points). Maximal dynamical mass M_dyn = 2.1 × 10^7 M_⊙ (3 points)."
+    },
+    {
+     "id": "8.4",
+     "points": 4,
+     "question": "This discovery was challenged by other groups (Kroupa et al., Nature, 2018, Truijlo et al., MNRAS, 2018), who claimed that NGC 1052-DF2 is not a satellite of NGC 1052, and it is located at a much smaller distance to us. Show why a smaller distance would weaken the assertion of the dark matter deficiency in NGC 1052-DF2.",
+     "reference": "M_dyn ∝ D (2 points). If distance is smaller, stellar mass to dynamical mass ratio increases by the same factor, weakening dark matter deficiency (2 points)."
     }
    ]
   },
   {
    "number": 9,
-   "title": "Задача 9",
-   "statement": "A list of constants for this competition is given on the next page.\n\n                                        Point distribution of this exam\n                                          Problem number          Points\n                                                T1                  10\n                                                T2                  10\n                                                T3                  10\n                                                T4                  10\n                                                T5                  10\n                                                T6                  25\n                                                T7                  25\n                                                T8                  25\n                                                T9                  25\n                                                T10                 75\n                                                T11                 75\n                                               Total               300\n\n                                 Theoretic\n                                 Theoretic\n\nMass (M⊕)\nRadius (R⊕)\nAcceleration of gravity (g)\nObliquity of Ecliptic\nLength of Tropical Year\nLength of Sidereal Year\nAlbedo\n\nMass (M☾)\nRadius (R☾)\nMean Earth-Moon distance\n\nOrbital inclination with the Ecliptic\nAlbedo\nApparent magnitude (mean full moon)\n\nMass (M☉)\nRadius (R☉)\nLuminosity (L☉)\n\nAbsolute Magnitude\nSurface Temperature\nAngular diameter at Earth\nOrbital velocity in Galaxy\nDistance from Galactic center\n\n1 au\n1 pc\nGravitational constant (G)\nPlanck constant (h)\nBoltzmann constant (kB)\nStefan-Boltzmann constant (σ)\nHubble constant (H0)\n\nSpeed of light in vacuum (c)\nMagnetic Permeability of free space (μ0)\n1 Jansky (Jy)\n\n                                        2\ud835\nRayleigh-Jeans law is given by 𝐵𝜈 =\n\nsteradian, per unit frequency.\n\nal\nalCompetition\n   Competition\n                                                        Page 2 of 8\n\n Table of constants\n\n            5.98 × 1024 kg\n            6.38 × 106 m\n            9.81 ms−2\n            23°27’                                   Earth\n            365.2422 mean solar days\n            365.2564 mean solar days\n            0.39\n\n            7.35 × 1022 kg\n            1.74 × 106 m\n            3.84 × 108 m\n                                                     Moon\n            5.14°\n            0.14\n            −12.74\n\n            1.99 × 1030 kg\n            6.96 × 108 m\n            3.83 × 1026 W\n                                                      Sun\n            4.80 mag\n            5772 K\n            30′\n            220 kms−1\n            8.5 kpc\n\n            1.50 × 1011 m\n            206265 au\n            6.67 × 10−11 Nm2 kg −2\n            6.62 × 10−34 Js\n            1.38 × 10−23 JK −1\n            5.67 × 10−8 Wm−2 K −4\n            67.8 kms−1 Mpc −1\n                                                   Physical\n            299792458 ms −1                        constants\n            4π×10-7 Hm-1\n            10-26 W m-2Hz-1\n\n\udc58𝐵 𝑇 2\n 𝑐2\n   𝜈 , which is the power emitted per unit emitting area, per\n\n                                      Theoretical\n                                      TheoreticalCompetition\n                                                  Competition\n                                                                                                               Page 3 of 8\n(T1) Super Luminal Galaxies                                                                             (10 points)\nRead the statements given below and state if they are true or false:\n(a) For some galaxies the apparent recession speed exceeds the speed of light.\n(b) The velocity – Distance relation as given by Hubble cannot allow recession velocities to exceed the speed\nof light.\n(c) Hubble-Lemaitre’s law (formerly known as Hubble’s Law) does not violate special relativity.\n(d) If some galaxies would have an apparent recession speed exceeding the speed of light, then the photons\nfrom those galaxies can never reach us.\n(e) As the expansion of Universe is accelerating, photons emitted right now from galaxies which have\napparent recession speed equal to the speed of light will never reach us.\n\n(T2) Distance                                                                                           (10 points)\n\nAn observer measured trigonometric parallaxes of stars in a star cluster. Due to random errors, the measured\nparallax values are distributed symmetrically around the expected value with standard deviation equal to 0.05\nmas (milliarcsec). Assume there are no systematic errors and assume all stars in the said cluster have the\nsame luminosity. It is known that the distance of this cluster from us is R= 5 kpc.\nHe gave the data table to 4 of his students (A, B, C and D) and they estimated the distance to the cluster in\nthe following ways:\n     A. Convert each parallax measurement into distance and then find the average distance (RA)\n     B. Take the average of all parallaxes first and then convert the average parallax into distance. (RB)\n     C. Convert each parallax measurement into distance and then take the median distance value. (RC)\n     D. Find the median value of the parallaxes and then convert the median value into distance. (RD)\n     State if the following statements are true or false. In case a given mathematical relation is false, give\nthe correct relation.\n      (l) If the ith star gave the smallest value of parallax and the jth star gave the highest value of parallax, in\nall likelihood Ri-R > R-Rj\n     (m) RA = R (i.e. there is a high chance that the distance estimated by A fairly matches the true distance)\n     (n) RB = R (i.e. there is a high chance that the distance estimated by B fairly matches the true distance)\n      (o) RC < R (i.e. there is a high chance that the distance estimated by C will be systematically lower than\nthe true distance)\n     (p) RD = R (i.e. there is a high chance that the distance estimated by D fairly matches the true distance)\n\n(T3) Atmospheric Refraction                                                                             (10 points)\n\nConsider sunrise at Beijing (φ=40°) on the vernal equinox day.\n(a) Let us say rl, rd, rr and ru are distances from the centre of the undistorted disk of the Sun to the edge of the\ndisk towards the directions left, down, right and up respectively. What will be the hierarchical relation (<,\n=, >) between the four radii just after the sunrise?\n(b) What is the correction in the time of rise of the top edge of the disk as compared to the case without\natmosphere? You may assume that typically atmospheric refraction near the horizon is 35’. Please only\nconsider the apparent diurnal motion.\n\n                                     Theoretical\n                                     TheoreticalCompetition\n                                                 Competition\n                                                                                                               Page 4 of 8\n(T4) Height of a Hill                                                                                 (10 points)\n\nTwo friends wanted to measure the height of the hill next to their village (latitude φ=40°). One of the friends\nclimbed to the top of the hill and she agreed to send a light signal to her friend in the village as soon as she\nsees the sunset. On March 21, when they did this experiment, the friend in village received the light signal\n4.1 minutes after the sunset from the village. Estimate the height of the hill and horizon distance for the\nperson at the hill top. Ignore atmospheric refraction.\n\n(T5) Sidereal Time                                                                                    (10 points)\n\nIt is very interesting to observe that on one particular calendar day each year, the mean sidereal time will\ntwice be 00:00:00.\n(a) What will be the approximate R.A. of the Sun when this event happens?\n(b) Estimate the exact date in 2018 for this event.\n\nYou may assume that at the Royal Greenwich Observatory, the mean sidereal time (GMST0) was 6.706h at\n0h, 1st January, 2018 (JD2458119.5).\n\n(T6) Observe the Sun with FAST                                                                        (25 points)\n\nThe Five-hundred-meter Aperture Spherical radio Telescope (FAST) is a single-dish radio telescope located\nin Guizhou Province, China. The physical diameter of the dish is 500 m, but during observations, the\neffective diameter of the collecting area is 300 m.\nConsider observations of the thermal radio emission from the photosphere of the Sun at 3.0 GHz with this\ntelescope and a receiver with bandwidth 0.3 GHz.\n(a) Calculate the total energy (E⊙) that the receiver will collect during 1 hour of observation.\n(b) Estimate the energy needed to turn over one page of your answer sheet (E′). Hint: the typical surface\n    density of paper is 80 gm-2.\n(c) Which one is larger?\n\n(T7) Sunspot                                                                                          (25 points)\n\nMagnetic fields are important in the physics of stars and sunspots. As an approximation, we can model the\nphotosphere of the Sun consisting of a plasma, which can be simply treated as a single component ideal gas,\n                                                                                  𝐵2\nand a magnetic field (B), which has an associated magnetic pressure 𝑝𝐵 =              . It behaves like any other\n                                                                                  2𝜇0\nphysical pressure except that it is carried by the magnetic field rather than by the kinetic energy of particles.\nAssume that the number density of particles in the photosphere is constant everywhere, but the magnetic\nfield inside the sunspot (Bin=0.1T) is much stronger than outside (Bout=5×10-3T). From the blackbody\nspectrum, the temperature inside the sunspot is Tin~4000K, while the temperature outside is Tout~6000K\n(which is why the sunspot looks darker). For the sunspot to be stable, the inside must be in equilibrium with\nthe outside.\n(a) Estimate the number density of plasma particles in the solar photosphere.\n(b) Compare your answer with an estimate of the number density of particles in the atmosphere at the surface\nof the Earth.\n\n                                    Theoretical\n                                    TheoreticalCompetition\n                                                Competition\n                                                                                                          Page 5 of 8\n(T8) A Possible Dark Matter Deficient Galaxy                                                       (25 points)\n\nEarlier this year, a team of astronomers reported their discovery of a galaxy with much less dark matter than\nthe galaxy evolution model predicted (van Dokkum et al. 2018, Nature). This galaxy, named NGC 1052-DF2,\nis located close to the elliptical galaxy NGC 1052 (D=20Mpc from the Sun) in the sky. The shape of NGC\n                                                                        𝑏\n1052-DF2 resembles an ellipse with semi major axis (a) of 22.6\" and 𝑎 = 0.85. Half of the total light from\nthe galaxy comes from within this ellipse and the mean surface brightness within the ellipse is about 24.7\nmag arcsec-2.\n(a) Calculate the total apparent magnitude of this galaxy.\n(b) The team suggested the galaxy is a companion of NGC 1052. Determine the total mass of stars in\n                                                        𝑀⁄𝑀\nNGC 1052-DF2, assuming it has a mass to light ratio ( ⁄ ⊙ ) of 2.0.\n                                                        𝐿 𝐿⊙\n\n(c) The team identified 10 globular clusters in NGC 1052-DF2 with a mean galactocentric distance of 78.4\".\nThey also measured the velocity dispersion of these clusters to be not more than 8.4 km/s. Estimate the\ndynamical mass of this galaxy. For simplicity, assume the mass distribution in the galaxies is uniform and is\nspherically symmetric.\n(d) This discovery was challenged by other groups (Kroupa et al., Nature, 2018, Truijlo et al., MNRAS,\n2018), who claimed that NGC 1052-DF2 is not a satellite of NGC 1052, and it is located at a much smaller\ndistance to us. Show why a smaller distance would weaken the assertion of the dark matter deficiency in\nNGC 1052-DF2.\n\n(T9) Radio Galaxy                                                                                  (25 points)\n\nAn observer wants to use the Five-hundred-meter Aperture Spherical radio Telescope (FAST) in China to\nobserve a radio galaxy at redshift of 𝑧 = 0.06. We assume that the radio source is compact compared to the\nbeam size of the telescope at the observing frequencies, i.e., the source is point-like as seen through the\ntelescope. To detect a point source with FAST, it must be sufficiently strong (bright) relative to the noise\nlevel (for single polarization observations), σ, which depends on the bandwidth, 𝛥𝜈, and the integration time\n(the radio astronomy equivalent of exposure time), ti, as follows:\n                                                      2𝑘𝐵 𝑇𝑠𝑦𝑠\n                                                𝜎=\n                                                     𝐴𝑒 √𝑡𝑖 𝛥𝜈\nwhere 𝑇𝑠𝑦𝑠 is the system temperature (about 150 K in the frequency range of 0.28 GHz – 0.56 GHz and 25 K\nin the frequency range of 1.05 GHz – 1.45 GHz), and Ae = 4.6x104 m2 is the effective area of the telescope\ntaking into account the total efficiency of the instrument.\nThis radio galaxy has an observed continuum flux density of 𝑓𝜈 = 2.5 × 10−3 𝐽𝑦 at an observing frequency\nof 0.4 GHz. The bandwidth 𝛥𝜈 for the continuum observation centered at 0.4 GHz is 2.8×108 Hz.\n(a) In order to detect the continuum flux density at 0.4 GHz with a signal-to-noise ratio of 30 (a so-called\n30σ detection), what is the required integration time, ti?\n(b) We want to search for the neutral Hydrogen (HI) in the galaxy using 21cm absorption line. The HI 21cm\nline, with rest frame frequency of 1.4204 GHz. Calculate the observed frequency (υ obs) of the HI line for this\ngalaxy.\n(c) The radio continuum emission from this galaxy can be described by a power law 𝑓𝜈 ∼ 𝜈 𝛼 , with a spectral\nindex of 𝛼 = −0.2. Calculate the continuum flux density at 𝜈𝑜𝑏𝑠 for this galaxy.\n(d) The line width of the HI 21cm absorption line is 90 km/s. Calculate the line width in Hz at the observing\nfrequency of 𝜈𝑜𝑏𝑠 . According to Figure 1, the HI 21cm line absorbs 4% of the continuum flux density (on\naverage) over the line width of 90 kms-1. In order to detect the absorption line at ≥3σ in three consecutive 30\nkms-1 channels, what is the required integration time?\n\n                                     Theoretical\n                                     TheoreticalCompetition\n                                                 Competition\n                                                                                                           Page 6 of 8\n\nFigure 1: Spectrum of the HI 21cm absorption relative to the continuum emission in the radio galaxy\n\n(T10) Vega and Altair                                                                               (75 points)\n\nAs per a very famous Chinese folklore about love, Vega and Altair are two lovers. It is said that they can\nmeet each other once every year on a bridge made up of birds over the Milky Way. The parameters of two\nstars are given in the table below. For the purpose of this question, assume that the coordinate frame is fixed\n(i.e. not affected by precession or motion of the Sun).\n\n  Star    Right Ascension      Declination      Parallax               Proper Motion                 Radial\n             (J2000.0)          (J2000.0)        (mas)                                              Velocity\n                                                                                                     (km/s)\n                                                             μα cosδ (mas/year) μδ (mas/year)\n  Vega      18h36m56.49s     +38o 47’ 07.7”      130.23           +200.94            +286.23          -13.9\n\n Altair     19h50m47.70s      +8o 52’ 13.3”      194.95           +536.23            +385.29          -26.1\nBased on this data, answer the following questions：\n(a) (9 points) What is the angular separation of the two stars?\n(b) (6 points) Calculate the distance (in parsecs) between Vega and Altair.\n(c) (3 points) Calculate position angles of the proper motion vectors of each of these two stars.\n\nFor parts d-g, assume that the angular velocity of the stars on the celestial sphere remains constant. This is\nnot a physical situation but this is an assumption to simplify the problem.\n(d) (2 points) How many common points on the celestial sphere are there which can be reached by both these\nstars?\n(e) (20 points) Find the coordinates of the closest such point.\n(Note: Drawing the situation on a celestial sphere will help you in visualising the situation)\n(f) (8 points) Find when (which year) each of these stars were / will be at that point.\n(g) (5 points) When Altair was / will be at that point, what would be its angular separation from Vega?\n(h) (22 points) Find coordinates of any point (if it exists) in 3-D space which was /will be visited by both\nthese stars. Do not ignore radial velocities for this part of the question.\n\n                                     Theoretical\n                                     TheoreticalCompetition\n                                                 Competition\n                                                                                                              Page 7 of 8\n(T11) Thermal History of the Universe                                                                 (75 points)\nBased on Einstein’s general relativity, Russian physicist Alexander Friedmann derived the Friedmann\nEquation by which the dynamics of a homogeneous and isotropic universe can be well described. The\nFriedmann Equation is usually written as follows:\n                                      𝑎˙ 2 8𝜋𝐺              𝛬𝑐 2 𝑘𝑐 2\n                                     ( ) =     (𝜌𝑚 + 𝜌𝑟 ) +     − 2.\n                                      𝑎     3                3   𝑎\n                                          𝑎˙\nWe define the Hubble parameter as = 𝑎 , where 𝑎 is the scale factor and 𝑎˙ is the rate of change of scale\nfactor with time. Thus, the Hubble parameter is a function of cosmic time. In the Friedmann Equation, 𝜌𝑚 is\nthe density of matter, including dark matter and baryons, 𝜌𝑟 is the density of radiation, 𝛬 is the cosmological\nconstant, and 𝑘 is the curvature of space. Subscript 0 indicates the value of a physical quantity at present day,\ne.g. 𝐻0 is the present value Hubble parameter. Also, to avoid confusion with the reduced Hubble parameter,\nwe use the reduced Planck Constant ℏ = ℎ/(2𝜋) instead of the Planck constant ℎ.\n(a) (5 points) What are the dimensions of Hubble parameter? One can define a characteristic timescale for\nthe expansion of the Universe (i.e. Hubble time 𝑡𝐻 ) using the Hubble parameter. Calculate the present-day\nHubble time 𝑡𝐻0 .\n(b) (5 points) Let us define the critical density 𝜌𝑐 as the matter density required to explain the expansion of a\nflat universe without any radiation or dark energy. Find an expression of the critical density, in terms H and\nG. Calculate the present critical density 𝜌𝑐0 .\n                                                                                                        𝜌\n(c) (6 points) It is convenient to define all density parameters in a dimensionless manner like 𝛺𝑖 = 𝜌 𝑖 , i.e. the\n                                                                                                         𝑐\nratio of density to critical density. The Friedmann Equation can be rewritten using these dimensionless\ndensity parameters simply as, Ωm + Ωr + ΩΛ + Ωk = 1.\nUse this information to find expression for ΩΛ and Ωk, in terms H, c, Λ, k and a.\n(d) (7 points) Another equation which is valid for matter, radiation and dark energy is often called the Fluid\n                 𝑎˙      𝑝\nEquation: 𝜌˙ + 3 (𝜌 + 2 ) = 0, where 𝑝 is the pressure of some component, 𝜌 is the density and 𝜌˙ is the rate\n                 𝑎       𝑐\nof change of density over time. Radiation contains photons and massless neutrinos, and they both travel at\nthe speed of light. The pressure exerted by these particles is 1/3 of their energy density. Show that the density\n                                                                                       𝜌˙     𝑎˙\nof radiation 𝜌𝑟 ∝ (1 + 𝑧)4 , where 𝑧 is cosmological redshift. You may note that if = 𝑛 , then ρ ∝ 𝑎𝑛\n                                                                                       𝜌       𝑎\n\n(e) (4 points) We know that the value of the cosmological constant 𝛬 doesn’t evolve. Its equation of state has\na form 𝑝 = 𝑤𝜌𝛬 𝑐 2 , where w is an integer. Find the value of w.\n(f) (13 points) Planck time, defines a characteristic timescale before which our present physical laws are no\nlonger valid, and where quantum gravity is needed. The expression for Planck time can be written in terms of\nℏ, G and c and non-dimensional coefficient of this expression in SI units is of the order of unity. Using\ndimensional analysis, find expression for Planck time and estimate its value.\n(g) (7 points) Planck length defines the length scale associated with Planck time is given by 𝑙𝑃 = 𝑐𝑡𝑃 . The\nminimal mass of a black hole, also called Planck mass, is defined as the mass of a black hole whose\nSchwarzschild radius is two times the Planck length.\nDerive the Planck mass 𝑀𝑃 and calculate 𝑀𝑃 𝑐 2 in GeV. This mass is considered to be an upper threshold for\nelementary particles, beyond which they will collapse to a black hole.\n(h) (4 points) At the very beginning (soon after the Planck time), all the particles were in thermal equilibrium\nin a primordial soup. As temperature decreased, different particles then decoupled from the primordial soup\none by one and could travel freely in the Universe. Photons decoupled at ~300000 years after the Big Bang.\nThese photons emitted at that time are what constitutes the cosmic microwave background (CMB), which\nfollows the Stefan-Boltzmann law for blackbody radiation.\n                                                        𝜋2\n                                               𝜀𝑟 =           (𝑘 𝑇)4 ,\n                                                      15ℏ3 𝑐 3 𝐵\n\n                                   Theoretical\n                                   TheoreticalCompetition\n                                               Competition\n                                                                                                       Page 8 of 8\nShow that the temperature of the CMB follows 𝑇⁄(1 + 𝑧) = 𝑐𝑜𝑛𝑠𝑡𝑎𝑛𝑡.\n(i) (16 points) With the expansion of the Universe, radiation density dropped more quickly than matter\ndensity, and at some epoch the matter density was equal to the radiation density. Radiation contains both\nphotons and neutrinos. Apart from photons, neutrinos additionally contribute to the radiation energy density\nby 68% (i.e. 𝛺𝑟0 = 1.68𝛺𝛾0 , where γ indicates photons). Estimate the redshift of matter-radiation equality\n                                                            0        𝐻\n𝑧𝑒𝑞 in terms of 𝛺𝑚0 and reduced Hubble parameter ℎ = 100𝑘𝑚 𝑠−1 𝑀𝑝𝑐 −1\n                                                                      You may use the current\ntemperature of the CMB: 𝑇0 = 2.73𝐾.\n(j) (8 points) The neutrinos decoupled from the primordial soup when the temperature of the universe was\naround 1 MeV. At this time, the radiation density in the universe was much more than all other components.\n                        1\nEstimate the time (𝑡 = 2𝐻) when neutrinos decoupled, and express it in seconds since the big bang.",
-   "total": 7,
+   "title": "Radio Galaxy",
+   "weight": 25,
+   "total": 25,
+   "statement": "An observer wants to use the Five-hundred-meter Aperture Spherical radio Telescope (FAST) in China to observe a radio galaxy at redshift of z = 0.06. We assume that the radio source is compact compared to the beam size of the telescope at the observing frequencies, i.e., the source is point-like as seen through the telescope. To detect a point source with FAST, it must be sufficiently strong (bright) relative to the noise level (for single polarization observations), σ, which depends on the bandwidth, Δν, and the integration time (the radio astronomy equivalent of exposure time), t_i, as follows:\nσ = 2 k_B T_sys / (A_e √(t_i Δν))\nwhere T_sys is the system temperature (about 150 K in the frequency range of 0.28 GHz – 0.56 GHz and 25 K in the frequency range of 1.05 GHz – 1.45 GHz), and A_e = 4.6x10^4 m^2 is the effective area of the telescope taking into account the total efficiency of the instrument.\nThis radio galaxy has an observed continuum flux density of f_ν = 2.5 × 10^-3 Jy at an observing frequency of 0.4 GHz. The bandwidth Δν for the continuum observation centered at 0.4 GHz is 2.8×10^8 Hz.",
    "parts": [
     {
-     "id": "9",
-     "question": "Приведите полное решение (с доказательством или выводом).",
+     "id": "9.1",
      "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
+     "question": "In order to detect the continuum flux density at 0.4 GHz with a signal-to-noise ratio of 30 (a so-called 30σ detection), what is the required integration time, t_i?",
+     "reference": "σ = 8.33 × 10^-5 Jy = 8.33 × 10^-31 Wm^-2Hz^-1 (4 points). T_sys = 150 K, Δν = 280 MHz, t_int ~ 42 s (3 points)."
+    },
+    {
+     "id": "9.2",
+     "points": 3,
+     "question": "We want to search for the neutral Hydrogen (HI) in the galaxy using 21cm absorption line. The HI 21cm line, with rest frame frequency of 1.4204 GHz. Calculate the observed frequency (υ_obs) of the HI line for this galaxy.",
+     "reference": "υ_obs = 1.4204 GHz / (1+z) = 1.34 GHz (3 points)."
+    },
+    {
+     "id": "9.3",
+     "points": 3,
+     "question": "The radio continuum emission from this galaxy can be described by a power law f_ν ∼ ν^α, with a spectral index of α = -0.2. Calculate the continuum flux density at υ_obs for this galaxy.",
+     "reference": "f_ν(υ_obs) = f_ν(0.4 GHz) × (υ_obs / 0.4)^α = 1.96 × 10^-3 Jy (3 points)."
+    },
+    {
+     "id": "9.4",
+     "points": 12,
+     "question": "The line width of the HI 21cm absorption line is 90 km/s. Calculate the line width in Hz at the observing frequency of υ_obs. According to Figure 1, the HI 21cm line absorbs 4% of the continuum flux density (on average) over the line width of 90 kms-1. In order to detect the absorption line at ≥3σ in three consecutive 30 kms-1 channels, what is the required integration time?",
+     "reference": "Line width: 0.402 MHz (2 points). 4% absorption = 7.84 × 10^-5 Jy (1 point). ≥ 3σ means σ = 2.61 × 10^-5 Jy, Δν = 0.134 MHz (6 points). T_sys = 25 K, t_int = 24700s ≈ 6.9 hours (3 points)."
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Vega and Altair",
+   "weight": 75,
+   "total": 75,
+   "statement": "As per a very famous Chinese folklore about love, Vega and Altair are two lovers. It is said that they can meet each other once every year on a bridge made up of birds over the Milky Way. The parameters of two stars are given in the table below. For the purpose of this question, assume that the coordinate frame is fixed (i.e. not affected by precession or motion of the Sun).\nVega: RA 18h36m56.49s, Dec +38º 47’ 07.7”, Parallax 130.23 mas, μ_α cosδ +200.94 mas/yr, μ_δ +286.23 mas/yr, RV -13.9 km/s\nAltair: RA 19h50m47.70s, Dec +8º 52’ 13.3”, Parallax 194.95 mas, μ_α cosδ +536.23 mas/yr, μ_δ +385.29 mas/yr, RV -26.1 km/s",
+   "parts": [
+    {
+     "id": "10.1",
+     "points": 9,
+     "question": "What is the angular separation of the two stars?",
+     "reference": "Spherical cosine formula, β = 34.19582° (9 points)."
+    },
+    {
+     "id": "10.2",
+     "points": 6,
+     "question": "Calculate the distance (in parsecs) between Vega and Altair.",
+     "reference": "r_Vega = 7.6787 pc, r_Altair = 5.1295 pc (2 points). Law of cosines d^2 = r_1^2 + r_2^2 - 2r_1 r_2 cos β (2 points). d = 4.4855 pc (2 points)."
+    },
+    {
+     "id": "10.3",
+     "points": 3,
+     "question": "Calculate position angles of the proper motion vectors of each of these two stars.",
+     "reference": "Vega θ_1 = 35.0697° (2 points), Altair θ_2 = 54.302° (1 point)."
+    },
+    {
+     "id": "10.4",
+     "points": 2,
+     "question": "How many common points on the celestial sphere are there which can be reached by both these stars?",
+     "reference": "Two points (2 points)."
+    },
+    {
+     "id": "10.5",
+     "points": 20,
+     "question": "Find the coordinates of the closest such point.",
+     "reference": "Triangle PVA angles (5 points). VI = 76.085°, AI = 66.715° (5 points). δ_3 = -27.945° (4 points). α_3 = 240.087° ≈ 16h 00m 21s, with 1 point for realizing it is in the past path (5 points)."
+    },
+    {
+     "id": "10.6",
+     "points": 8,
+     "question": "Find when (which year) each of these stars were / will be at that point.",
+     "reference": "Vega proper motion μ_1 = 349.72 mas/year, ~783200 years ago, year 781200 BCE (4 points). Altair proper motion μ_2 = 660.30 mas/year, ~363700 years ago, year 3617 BCE (4 points)."
+    },
+    {
+     "id": "10.7",
+     "points": 5,
+     "question": "When Altair was / will be at that point, what would be its angular separation from Vega?",
+     "reference": "Vega traversed 35.335° (3 points). Separation = 40.750° (2 points)."
+    },
+    {
+     "id": "10.8",
+     "points": 22,
+     "question": "Find coordinates of any point (if it exists) in 3-D space which was /will be visited by both these stars. Do not ignore radial velocities for this part of the question.",
+     "reference": "Cartesian coordinates of Vega and Altair (6 points). Velocity vectors in Cartesian coordinates (8 points). Determinant non-zero (-72.47), so direction vectors do not cross; no such point exists (8 points)."
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Thermal History of the Universe",
+   "weight": 75,
+   "total": 75,
+   "statement": "Based on Einstein’s general relativity, Russian physicist Alexander Friedmann derived the Friedmann Equation by which the dynamics of a homogeneous and isotropic universe can be well described. The Friedmann Equation is usually written as follows:\n(ȧ/a)^2 = 8πG/3 (ρ_m + ρ_r) + Λ c^2 / 3 - k c^2 / a^2.\nWe define the Hubble parameter as H = ȧ/a, where a is the scale factor and ȧ is the rate of change of scale factor with time. Thus, the Hubble parameter is a function of cosmic time. In the Friedmann Equation, ρ_m is the density of matter, including dark matter and baryons, ρ_r is the density of radiation, Λ is the cosmological constant, and k is the curvature of space. Subscript 0 indicates the value of a physical quantity at present day, e.g. H_0 is the present value Hubble parameter. Also, to avoid confusion with the reduced Hubble parameter, we use the reduced Planck Constant ħ = h/(2π) instead of the Planck constant h.",
+   "parts": [
+    {
+     "id": "11.1",
+     "points": 5,
+     "question": "What are the dimensions of Hubble parameter? One can define a characteristic timescale for the expansion of the Universe (i.e. Hubble time t_H) using the Hubble parameter. Calculate the present-day Hubble time t_H0.",
+     "reference": "Inverse of time [T^-1] (1 point). Timescale t_H = 1/H (2 points). Present-day Hubble time t_H0 = 14.46 Gyr (2 points)."
+    },
+    {
+     "id": "11.2",
+     "points": 5,
+     "question": "Let us define the critical density ρ_c as the matter density required to explain the expansion of a flat universe without any radiation or dark energy. Find an expression of the critical density, in terms H and G. Calculate the present critical density ρ_c0.",
+     "reference": "ρ_c = 3H^2 / (8πG) (2 points). Present critical density ρ_c0 = 8.59 × 10^-27 kg/m^3 (3 points)."
+    },
+    {
+     "id": "11.3",
+     "points": 6,
+     "question": "It is convenient to define all density parameters in a dimensionless manner like Ω_i = ρ_i / ρ_c, i.e. the ratio of density to critical density. The Friedmann Equation can be rewritten using these dimensionless density parameters simply as, Ω_m + Ω_r + Ω_Λ + Ω_k = 1.\nUse this information to find expression for Ω_Λ and Ω_k, in terms H, c, Λ, k and a.",
+     "reference": "Substitution and comparison with Friedmann equation (2 points). Ω_Λ = Λ c^2 / (3 H^2) and Ω_k = -k c^2 / (a^2 H^2) (4 points)."
+    },
+    {
+     "id": "11.4",
+     "points": 7,
+     "question": "Another equation which is valid for matter, radiation and dark energy is often called the Fluid Equation: ρ̇ + 3 (ȧ/a) (ρ + p/c^2) = 0, where p is the pressure of some component, ρ is the density and ρ̇ is the rate of change of density over time. Radiation contains photons and massless neutrinos, and they both travel at the speed of light. The pressure exerted by these particles is 1/3 of their energy density. Show that the density of radiation ρ_r ∝ (1 + z)^4, where z is cosmological redshift. You may note that if ρ̇/ρ = n ȧ/a, then ρ ∝ a^n",
+     "reference": "p = (1/3)ρ c^2 (2 points). ρ̇/ρ = -4 ȧ/a (3 points). ρ ∝ (1+z)^4 (2 points)."
+    },
+    {
+     "id": "11.5",
+     "points": 4,
+     "question": "We know that the value of the cosmological constant Λ doesn’t evolve. Its equation of state has a form p = w ρ_Λ c^2, where w is an integer. Find the value of w.",
+     "reference": "q = -1, so w = -1 (4 points)."
+    },
+    {
+     "id": "11.6",
+     "points": 13,
+     "question": "Planck time, defines a characteristic timescale before which our present physical laws are no longer valid, and where quantum gravity is needed. The expression for Planck time can be written in terms of ħ, G and c and non-dimensional coefficient of this expression in SI units is of the order of unity. Using dimensional analysis, find expression for Planck time and estimate its value.",
+     "reference": "Dimensions of ħ, G, c (5 points). Dimensional analysis for exponents (3 points). t_P ≈ √(ħ G / c^5) (3 points). t_P = 5.4 × 10^-44 s (2 points)."
+    },
+    {
+     "id": "11.7",
+     "points": 7,
+     "question": "Planck length defines the length scale associated with Planck time is given by l_P = c t_P. The minimal mass of a black hole, also called Planck mass, is defined as the mass of a black hole whose Schwarzschild radius is two times the Planck length.\nDerive the Planck mass M_P and calculate M_P c^2 in GeV. This mass is considered to be an upper threshold for elementary particles, beyond which they will collapse to a black hole.",
+     "reference": "Schwarzschild radius r_s = 2 l_P (3 points). M_P = √(ħ c / G) (2 points). M_P c^2 = 1.22 × 10^19 GeV (2 points)."
+    },
+    {
+     "id": "11.8",
+     "points": 4,
+     "question": "At the very beginning (soon after the Planck time), all the particles were in thermal equilibrium in a primordial soup. As temperature decreased, different particles then decoupled from the primordial soup one by one and could travel freely in the Universe. Photons decoupled at ~300000 years after the Big Bang. These photons emitted at that time are what constitutes the cosmic microwave background (CMB), which follows the Stefan-Boltzmann law for blackbody radiation. ε_r = (π^2 / (15 ħ^3 c^3)) (k_B T)^4\nShow that the temperature of the CMB follows T / (1 + z) = constant.",
+     "reference": "ε ∝ T^4, ε ∝ (1+z)^4, so T/(1+z) = constant (4 points)."
+    },
+    {
+     "id": "11.9",
+     "points": 16,
+     "question": "With the expansion of the Universe, radiation density dropped more quickly than matter density, and at some epoch the matter density was equal to the radiation density. Radiation contains both photons and neutrinos. Apart from photons, neutrinos additionally contribute to the radiation energy density by 68% (i.e. Ω_r0 = 1.68 Ω_γ0, where γ indicates photons). Estimate the redshift of matter-radiation equality z_eq in terms of Ω_m0 and reduced Hubble parameter h (where H_0 = 100h km s^-1 Mpc^-1). You may use the current temperature of the CMB: T_0 = 2.73 K.",
+     "reference": "Ω_m(z) = Ω_m0 (1+z)^3, Ω_r(z) = Ω_r0 (1+z)^4 (4 points). 1 + z_eq expression (1 point). Ω_γ0 h^2 formula (4 points). Ω_γ0 h^2 = 2.47 × 10^-5 (4 points). Total radiation Ω_r0 h^2 = 4.15 × 10^-5 (2 points). 1 + z_eq = 2.4 × 10^4 Ω_m0 h^2 (1 point)."
+    },
+    {
+     "id": "11.10",
+     "points": 8,
+     "question": "The neutrinos decoupled from the primordial soup when the temperature of the universe was around 1 MeV. At this time, the radiation density in the universe was much more than all other components. Estimate the time (t = 1/(2H)) when neutrinos decoupled, and express it in seconds since the big bang.",
+     "reference": "1+z = 4.25 × 10^9 (2 points). Equation for t in radiation-dominated universe (2 points). t ≈ 1.3 s ~ 1 s (3 points)."
     }
    ]
   }

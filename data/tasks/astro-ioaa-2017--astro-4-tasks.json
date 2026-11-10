@@ -6,164 +6,377 @@
  "lang": "ru",
  "tasksFile": "olympiads/astronomy/s/ioaa/2017/astro-4-tasks.pdf",
  "solutionFile": "olympiads/astronomy/s/ioaa/2017/astro-4-sol.pdf",
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:55:01.046Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:15:12.909Z",
  "quality": {
-  "tasks": 10,
-  "parts": 10,
-  "withPoints": 10,
-  "withReference": 1,
-  "withQuestion": 10,
-  "estimatedPoints": 10
+  "tasks": 13,
+  "parts": 41,
+  "withPoints": 41,
+  "withReference": 41,
+  "withQuestion": 41,
+  "estimatedPoints": 0
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
-   "statement": "The theoretical examination lasts for 5 hours and is worth a total of 300 marks.",
-   "total": 7,
+   "title": "The Large Magellanic Cloud in Phuket",
+   "weight": 10,
+   "total": 10,
+   "statement": "The coordinates of the Large Magellanic Cloud (LMC) are R.A. = 5h 24min and Dec = −70 00′ . The latitude and longitude of Phuket are 7 53′ N and 98 24′ E , respectively. What is the date when the LMC culminates at 9pm as seen from Phuket in the same year? You may note that the Greenwich Sidereal Time, GST, at 00h UT 1st January is about 6h 43min, and Phuket is in the UT+7 time zone.",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "2.0 marks)\n\n Students get 1.0 mark each for the relationships between v and v1, and between v and v2.\n (total 2.0 marks)\n\n For correct substitution of suitable variables into the expression for E , students get 2.0\n marks.\n\n Final expression for E is worth 2.0 marks.\n\nc) Show that the equation in b) yields\n                              1 1 \n                 v 2  (2GM )    , where r0 is a new constant.\n                               r r0 \n   Find r0 in terms of  , M , G and E.                                                         [5]\n\n                             Theoretical Examination\n                                                                                  Page 26 of 41\n\n Solution:\n\n                            2    2GM         2GM 2E\n From b), we have E        v         or v -     =\n                                             2\n                           2        r           r   m\n\n                                                 2GM 2E\n                                        v2 =         +\n                                                   r   m\n\n                                                                   \n                                                     1     1      \n                                            (2GM )                \n                                                      r  GM   \n                                                         E  \n                                                   1 1                GM \n                                           (2GM )    , where r0  \n                                                    r r0               E\n\n Thus\n\n                                                 GM m\n                                        r0 = -                                                 [5]\n                                                  E\n\n Detailed Marking Scheme:\n\n Students get 4.0 marks for correct algebra and obtain the expression in the correct form.\n                                        GM m\n By correctly identifying that r0 = -        , students get 1.0 mark.\n                                         E\n\nThe solution of the equation in b) is given below in parametric form, under the initial condition\nr  0 at t  0 :\n                                                      r\n                                             r ( )  0 1  cos   ,\n                                                      2\n                                                         1\n                                                   r3  2\n                                         t ( )   0    sin   ,\n                                                   8GM \n                                                       \nwhere  is in radians.\n\n                                                                                          vt\nd) From the above parametric equations, show that an expression for                              is\n                                                                                          r\n    vt ( sin q ) (q - sinq )\n      =                      .                                                                 [10]\n    r      (1- cosq )   2\n\n Solution:\n Substituting r ( ) in the equation of part c):\n\n                                Theoretical Examination\n                                                                                           Page 27 of 41\n\n                       1 1                1         1  2GM  1  cos  \n             v 2  2GM     2GM  1                                 \n                                                         \n                        r r0      2 r0 1  cos   r0  r0  1  cos  \n                                                                                    12\n            2GM (1  cos 2  ) 2GM sin 2                                     2GM   sin \n        v \n         2\n                                                                   v( )       \n             r0 (1  cos  ) 2   r0 (1  cos  ) 2                            r0  1  cos \n\nCombining v( ) , t ( ) , and r ( ) :\n                         12                       12\n               2GM  sin   r03 \n                                        sin  \n v( )t ( )  r0  1  cos   8GM                       2  2GMr03   sin    sin  \n                                                                        12\n\n                                                                    \n   r ( )                                                                   1  cos  \n                                                                                         2\n                         r0\n                            1  cos                     r0  r0 8GM \n                         2\n                                  vt  sin    sin  \n                                     \n                                          1  cos  \n                                                       2\n                                  r\n\nAlternative solution:\n               r\nFrom r(q ) = 0 (1- cosq ), we have\n               2\n                                                   r        \n                                               v   0 sin   \n                                                   2        \n                         1/2\n               r3 \nFrom t ( )   0 \n               8GM             sin   , we have\n                   \n\n                                                       1/2\n                                           r03 \n                                       1 \n                                           8GM            1  cos   \n                                                \n\n                                         1/2\n                                r0 \n                                     3\n                    r0\n                   2   sin        sin  \n                                8GM \n      \n        vt\n           \n                                             \n                                                    sin    sin   .\n                                                                                             [10]\n        r  r3      1/2\n                                 r                     1  cos  \n                                                                    2\n\n              0  1  cos   0 (1  cos  )\n               8GM              2\n\nDetailed Marking Scheme:\n\n                                                                              2GM  1  cos  \nStudent gets 3.0 marks for substituting r ( ) in v 2 and obtaining                          .\n                                                                               r0  1  cos  \n\nStudent gets 3.0 marks for using trigonometry to simplify the expression for v( ) .\n\nFor the correct derivation of the final answer, student gets 4.0 marks.\n\n                             Theoretical Examination\n                                                                                           Page 28 of 41\n\ne) Now we consider m1 and m2 as the MW and M31 respectively. The current values of v\n                            -1\n   and r are v = -118 km s and r  710 kpc , and t may be taken to be the age of the\n   Universe ( 13700 million years ). Find  using numerical iteration.          [10]\n\n Solution:\n\n             v  118 km s 1  118 103 m s 1\n\n             r  710 kpc  2.19 1022 m\n             t  13700 106 years = 4.3233 1017 s\n\n                  𝑣𝑡         118×103 ×4.3233×1017                          (sin 𝜃)(𝜃−sin 𝜃)\n             ∴         =−                    22         = −2.33 =\n                                                                              (1−cos 𝜃)2\n                                                                                                     [5]\n                  𝑟              2.1908×10\n\n             The negative value of the left-hand side of this equation implies that  is greater\n             than  .\n\n                                                  sin    sin   / 1  cos  2\n                 200˚ = 3.49 radians                            -0.348\n                 210˚ = 3.67 radians                            -0.598\n                 240˚ = 4.19 radians                             -1.95                This gives the\n                 244˚ = 4.26 radians                             -2.24                value of\n                 245˚ = 4.28 radians                             -2.32\n                 246˚ = 4.29 radians                             -2.40                245˚ = 4.28\n                 250˚ = 4.36 radians                             -2.77                radians\n                                                                                                    [5]\n Detailed Marking Scheme:\n\n Students get 5.0 marks if numerical value and sign (2.5 marks for each) are both correct.\n\n Students get 5.0 marks if the obtained angle (  ) is within +/- 1 degree (or equivalent in\n radian), or 2.0 marks for answer within +/- 3 degrees (or equivalent in radian).\n\n                                 Theoretical Examination\n                                                                                       Page 29 of 41\n\n   f) Use the value of  in e) to obtain the value of rmax . Hence also obtain the value of M in\n         solar masses.                                                                          [10]\n\n       Solution:\n\n                     r\n       From r ( )  0 1  cos   , we have rmax  r0 , and hence\n                     2\n                             2r ( )    2  710 kpc\n                    rmax                           998 kpc                       [5]\n                           1  cos  1  cos 245\n\n                This is the maximum separation between the Milky-Way Galaxy and \n                                                                                      \n                Andromeda Galaxy; they started to move towards each other afterwards. \n\n                                                                             1\n                                                                     r3  2\n       The value of M can be calculated from the relation t ( )   0    sin   .\n                                                                     8GM \n                                                                         \n                                            r 3    sin  2\n                                      M   max  \n                                            8G   t ( ) \n                                                                  .\n                                                            \n\n       From the maximum separation of rmax  998 kpc = 3.0795  10 m,\n                                                                  22\n\n         245  4.276 radians , t  t ( )  13700 10 years = 4.3233  10 s , and\n                                                        6                   17\n\n       G  6.67 1011 N m 2 k g 2 , we obtain\n\n                                            7.86 1042\n                    M  7.86 1042 kg =                 M  3.95  1012 M            [5]\n                                            1.99 1030\n\n       The estimated number of stars, most of which are of less than a solar mass, for Andromeda\n       and Our Galaxy are 4 10       and 2 10 respectively. This implies that most of mass of the\n                                 11            11\n\n       system is DARK.\n\nNote\n\n       Detailed Marking Scheme:\n\n       First part which is counting for 5.0 marks for determining rmax is detailed as follow:\n       Students get 2.0 marks for realizing that rmax =r0.\n       Students get 1.0 mark by re-arranging rmax in term of r(θ) and θ.\n       Student"
+     "id": "1.1",
+     "points": 10,
+     "question": "What is the date when the LMC culminates at 9pm as seen from Phuket in the same year?",
+     "reference": "When it culminates, LHA = 0, RA = −LST [1.0]. LST = −(L − GST*) = −RA. GST* = L − RA = 6h 34min − 5h 24min = 1h 10min [2.0]. GST = 24h − 1h 10min = 22h 50min [1.0]. Phuket time of 21:00 is UT14:00 [1.0]. GST = GST of 1st Jan + The angle that ☿ moves away from 1st Jan + UT [1.0]. Days that away from 1st Jan = 31.7 days from 1st Jan [2.0]. The time of the year that the LMC culminates in Phuket is on 2nd February [1.0]."
     }
    ]
   },
   {
    "number": 2,
-   "title": "Задача 2",
-   "statement": "Dedicated IOAA Summary Answer Sheets are provided for writing your answers. Enter the\n   final answers into the appropriate boxes in the corresponding Summary Answer Sheet. On\n   each Summary Answer Sheet, please fill in\n        Student Code (Country Code and 1 digit)",
-   "total": 7,
+   "title": "Earth's Transit Zone",
+   "weight": 10,
+   "total": 10,
+   "statement": "Earth's transit zone is an area where extrasolar observers (located far away from the Solar System) can detect the Earth transiting across the Sun. For observers on the Earth, this area is the projection of a band around the Earth's ecliptic onto the celestial plane (light grey area in the left figure). Assume that the Earth has a circular orbit of 1 au.",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
+     "id": "2.1",
+     "points": 5,
+     "question": "Find the angular width of that part of the Earth's transit zone in degrees, in which the extrasolar observers can detect Earth's total transit (when the whole of the Earth's disk passes in front of the Sun).",
+     "reference": "From ΔSTA ∼ ΔETD: X / R⊕ = (a + X) / R [1.0]. X = a R⊕ / (R − R⊕) [1.0]. The half angular size of the Earth's Transit Zone with transit can be written as, θT = arcsin(R⊕ / X) = arcsin((R − R⊕) / a) [1.0]. The angular size of the Earth's Transit Zone with transit is 2θT = 2 arcsin((R − R⊕) / a) [1.0]. 2θT = 0.527° [1.0]."
+    },
+    {
+     "id": "2.2",
+     "points": 5,
+     "question": "Find the angular width of that part of the Earth's transit zone in degrees, where the extrasolar observers can detect at least Earth's grazing transit (when any part of the Earth's disk passes in front of the Sun).",
+     "reference": "From ΔSGB ∼ ΔEGC: Y / R⊕ = (a − Y) / R [1.0]. Y = a R⊕ / (R + R⊕) [1.0]. The angular size of the Earth's Transit Zone with transit can be written as, θG = arcsin(R⊕ / Y) = arcsin((R + R⊕) / a) [1.0]. The angular size of the Earth's Transit Zone with grazing transit is 2θG = 2 arcsin((R + R⊕) / a) [1.0]. 2θG = 0.537° [1.0]."
     }
    ]
   },
   {
    "number": 3,
-   "title": "Задача 3",
-   "statement": "There are Answer Sheets for carrying out detailed work/rough work. On each Answer Sheet,\n   please fill in\n        Student Code (Country Code and 1 digit)\n        Question no.\n        Page no. and total number of pages.",
-   "total": 7,
+   "title": "The Milky Way’s Distant Outer Arm",
+   "weight": 10,
+   "total": 10,
+   "statement": "In 2011, Dame and Thaddeus found a new part of the outer arm of the Milky Way by studying the CO line using the CfA 1.2m telescope. They found that the CO line was detected at galactic longitude ℓ = 13.25° (marked A in the figure) where it had a radial velocity of 20.9 km s-1 towards the Sun. Assume that the galactic rotation curve is flat beyond 5 kpc from the Galactic centre. The distance between the Sun and the Galactic centre is 8.5 kpc. The velocity of the Sun around the Galactic centre is 220 km s-1.",
    "parts": [
     {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
+     "id": "3.1",
      "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
+     "question": "Find the distance from the start of the arm (point A) to the Galactic centre.",
+     "reference": "If there is the flat rotation curve beyond 2 kpc from the Galactic centre, the orbital velocity of the Sun and the start of the arm are both equal to vr = −vLSR sin(ℓ) + vLSR sin(α) [3.0]. Sine law (ΔAGS): sin(ℓ) / d = sin(α) / R0 [1.0]. vr = −vLSR sin(ℓ) + vLSR (R0 / d) sin(ℓ) [1.0]. Correctly substitute numerical values [1.0]. d = 14.5 kpc [1.0]."
+    },
+    {
+     "id": "3.2",
+     "points": 3,
+     "question": "Find the distance from the start of the arm (point A) to the Sun.",
+     "reference": "Cosine law (ΔAGS): d^2 = x^2 + R0^2 − 2xR0 cos(ℓ) [1.0]. Correctly substitute numerical values [1.0]. x = 22.6 kpc [1.0]."
     }
    ]
   },
   {
    "number": 4,
-   "title": "Задача 4",
-   "statement": "Start each problem on a separate Answer Sheet. Please write only on the printed side of the\n   sheet. Do not use the reverse side. If you have written something on any sheet which you do not\n   want to be evaluated, cross it out.",
-   "total": 7,
+   "title": "21-cm HI galaxy survey",
+   "weight": 10,
+   "total": 10,
+   "statement": "A radio telescope is equipped with a receiver which can observe in a frequency range from 1.32 to 1.52 GHz. Its detection limit is 0.5 mJy per beam for a 1-minute integration time. In a galaxy survey, the luminosity of the HI spectral line of a typical target galaxy is 1028 W with a linewidth of 1 MHz. For a large beam, the HI emitting region from a far-away galaxy can be approximated as a point source. The HI spin-flip spectral line has a rest-frame frequency of 1.42 GHz.",
    "parts": [
     {
-     "id": "4",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
+     "id": "4.1",
+     "points": 10,
+     "question": "What is the highest redshift, z , of a typical HI galaxy that can be detected by a survey carried out with this radio telescope, using 1-minute integration time? You may assume in your calculation that the redshift is small and the non-relativistic approximation can be used. Note that 1 Jy = 10-26 W m-2 Hz-1.",
+     "reference": "Case 1: Receiver frequency limit: z ≈ (f0 − f) / f0 = (1.42 − 1.32) / 1.42 = 0.0704 [2 marks]. Case 2: Flux limit: d = vr / H0 = cz / H0 [1 mark]. S = L / (4π d^2 Δf) = L H0^2 / (4π Δf c^2 z^2) ≥ Slim = 0.5 × 10^-26 [2 marks]. z ≤ (H0 / c) * sqrt(L / (4π Δf Slim)) [1 mark]. Correctly substitute numerical values [1 mark]. z ≤ 0.0929 [1 mark]. Conclusion: For typical HI galaxy, the highest redshift is limited by the receiver's lowest frequency limit and we get zmax = 0.0704 [2 marks]."
     }
    ]
   },
   {
    "number": 5,
-   "title": "Задача 5",
-   "statement": "Use as many mathematical expressions as you think may help the evaluator to better understand\n   your solutions. The evaluator may not understand your language. If it is necessary to explain\n   something in words, please use short phrases (if possible in English).",
-   "total": 7,
+   "title": "A Synchronous Satellite",
+   "weight": 10,
+   "total": 10,
+   "statement": "A synchronous satellite is a satellite which orbits the Earth with its period exactly equal to the period of rotation of the Earth. The height of these satellites is 35786 km above the surface of the Earth. A satellite is put in an inclined synchronous orbit with an inclination of θ = 6.69° to the equatorial plane. Calculate the precise value of the maximum possible altitude of the satellite for an observer at latitude of ϕ = 51.49° . Ignore the effect of refraction due to the Earth’s atmosphere.",
    "parts": [
     {
-     "id": "5",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
+     "id": "5.1",
+     "points": 10,
+     "question": "Calculate the precise value of the maximum possible altitude of the satellite for an observer at latitude of ϕ = 51.49° .",
+     "reference": "Draw diagram and correctly identify the altitude [1.0]. Identify another angle with the altitude h in its expression, such as 90° − (ϕ − θ) − h [1.0]. Maximum altitude occurs when the satellite is at meridian [1.0]. Intermediate steps: tan(90° − (ϕ − θ) − h) = R sin(ϕ − θ) / (H + R − R cos(ϕ − θ)) [3.0]. Correct expression for h [2.0]. Correct value of h: h = 38.4° [2.0]."
     }
    ]
   },
   {
    "number": 6,
-   "title": "Задача 6",
-   "statement": "You are not allowed to leave your work desk without permission. If you need any assistance\n   (malfunctioning calculator, need to visit a restroom, need more Answer Sheets, etc.), please\n   draw the attention of the proctor using the Help card.",
-   "total": 7,
+   "title": "Supernova 1987A",
+   "weight": 15,
+   "total": 15,
+   "statement": "Supernova SN 1987A was at its brightest with an apparent magnitude of +3 on about 15th May 1987 and then faded, finally becoming invisible to the naked eye by 4th February 1988. It is assumed that brightness B varied with time t as an exponential decline, B = B0e −t / , where B0 and τ are constant. The maximum apparent magnitude which can be seen by the naked eye is +6.",
    "parts": [
     {
-     "id": "6",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
+     "id": "6.1",
+     "points": 5,
+     "question": "Determine the value of  in days.",
+     "reference": "m − m0 = −2.5 log10(B / B0) [1.0]. m − m0 = (2.5 t / τ) log10 e [1.0]. The days from 15th May 1987 to 4th February 1988 is 265 days [1.0]. 6 − 3 = 2.5 * (265 / τ) * log10 e [1.0]. τ = 95.9 days [1.0]."
+    },
+    {
+     "id": "6.2",
+     "points": 10,
+     "question": "Find the last day that observers could have seen the supernova if they had a 6-inch (15.24-cm) telescope with transmission efficiency T = 70% . Assume that the average diameter of the human pupil is 0.6 cm.",
+     "reference": "Be d^2 = T BT D^2 [3.0]. mlim = me + 2.5 log10 T + 5 log10(D / d) [1.0]. mlim = 12.64 [1.0]. From m − m0 = (2.5 t / τ) log10 e [2.0]. 12.64 − 3 = 2.5 * (t / 95.9) * log10 e [1.0]. t = 851.5 days [1.0]. The last day that observers could have seen the supernova is on 12th September 1989 [1.0]."
     }
    ]
   },
   {
    "number": 7,
-   "title": "Задача 7",
-   "statement": "The beginning and end of the examination will be indicated by a long sound signal.\n   Additionally, there will be a buzzer sound, fifteen minutes before the end of the examination\n   (before the final sound signal).",
-   "total": 7,
+   "title": "Life on Other Planets",
+   "weight": 20,
+   "total": 20,
+   "statement": "One place to search for life is on planets orbiting main sequence stars. A good starting point is the planets that have an Earth-like temperature range and a small temperature fluctuation. Assume that for a main sequence star, the relation between the luminosity L and the mass M is given by L ∝ M^3.5. You may assume that the total energy E released over the lifetime of the star is proportional to the mass M of the star. For the Sun, it will have a main sequence lifetime of about 10 billion years. The stellar spectral types are given in the table below. Assume that the spectral subclasses of stars (0-9) are assigned on a scale that is linear in log M. [Table: O5V (60), B0V (17.5), A0V (2.9), F0V (1.6), G0V (1.05), K0V (0.79), M0V (0.51)]",
    "parts": [
     {
-     "id": "7",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
+     "id": "7.1",
+     "points": 6,
+     "question": "If it takes at least 4 × 10^9 years for an intelligent life form to evolve, what is the spectral type (accurate to the subclass level) of the most massive star in the main sequence around which astronomers should look for intelligent life?",
+     "reference": "Since E ∝ M → Lτ ∝ M and L ∝ M^3.5, τ = τsun (M / Msun)^−2.5 [2.0]. The maximum mass of the star should be M = Msun (τ / τsun)^(−1/2.5) = 1.44 Msun [1.0]. Use of spectral class-log M linear relation [2.0], which corresponds to the star of type F2V to F3V [1.0]."
+    },
+    {
+     "id": "7.2",
+     "points": 6,
+     "question": "Assume that the target planet has the same emissivity ε and albedo a as the Earth. In order to have the same temperature as the Earth, express the distance d, in au, of the planet to its parent main sequence star, of mass M.",
+     "reference": "Pinput = (1 − a) L r^2 / (4 d^2) [1.0]. Poutput = 4π r^2 ε σ T^4 [1.0]. (1 − a) L r^2 / (4 d^2) = 4π r^2 ε σ T^4 [1.0]. T^4 is similar [1.0]. (d / dsun)^2 = L / Lsun = (M / Msun)^3.5 [1.0]. d = (M / Msun)^(3.5/2) au [1.0]."
+    },
+    {
+     "id": "7.3",
+     "points": 8,
+     "question": "The existence of a planet around a star can be shown by the variation in the radial velocity of the star about the star-planet system centre of mass. If the smallest Doppler shift in the wavelength detectable by the observer is (Δλ / λ) = 10^−10, calculate the lowest mass of such a planet in b), in units of Earth masses, that can be detected by this method, around the main sequence star in a).",
+     "reference": "Angular speed around CM: T^2 = 4π^2 d^3 / (G(M + m)), ω = sqrt(G(M + m) / d^3) [2.0]. Md_s = m_d, v = ω d_s ≈ m / M * sqrt(G M / d) [2.0]. Δλ / λ = v / c = (m / M) * sqrt(G M / d) / c [1.0]. Substitute d: m = (Δλ / λ) c / G * M * d^(1/2) [1.0]. Substitute numbers: m = 3.31 × 10^24 kg = 0.554 M⊕ [2.0]."
     }
    ]
   },
   {
    "number": 8,
-   "title": "Задача 8",
-   "statement": "At the end of the examination you must stop writing immediately. Sort and put your sheets in\n   separate stacks,\n       a) Stack 1: Summary Answer Sheets, Answer Sheets of part 1\n       b) Stack 2: Summary Answer Sheets, Answer Sheets of part 2\n       c) Stack 3: Summary Answer Sheets, Answer Sheets of part 3\n       d) Stack 4: question papers and paper sheets you do not want to be graded.",
-   "total": 7,
+   "title": "The Star of Bethlehem",
+   "weight": 20,
+   "total": 20,
+   "statement": "A great conjunction is a conjunction of Jupiter and Saturn for observers on Earth. Assume that Jupiter and Saturn have circular orbits in the ecliptic plane. The time between successive conjunctions may vary slightly as viewed from the Earth. However, the average time period of the great conjunctions is the same as that of an observer at the centre of the Solar system.",
    "parts": [
     {
-     "id": "8",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
+     "id": "8.1",
+     "points": 6,
+     "question": "Find the average great conjunction period (in years) and average heliocentric angle between two successive great conjunctions (in degrees).",
+     "reference": "1 / Psynodic = 1 / Pjupiter − 1 / Psaturn [3.0]. Psynodic = 19.86 years [1.0]. Motion through zodiac in 19.86 years [2.0]."
+    },
+    {
+     "id": "8.2",
+     "points": 2,
+     "question": "The next great conjunction will be on 21st December 2020 with an elongation of 30.3° East of the Sun. Suggest the constellation in which the conjunction on 21st December 2020 will occur. (Give the IAU Latin name or IAU three-letter abbreviation of the constellation, i.e. Ursa Major or UMa)",
+     "reference": "The conjunction will locate elongation 30.3° East to the Sun. Therefore, the conjunction will be in the constellation of Capricornus (Cap) [2.0]."
+    },
+    {
+     "id": "8.3",
+     "points": 8,
+     "question": "Suggest the constellation in which the great conjunctions in 7 BC occurred. (Give the IAU Latin name or IAU three-letter abbreviation of the constellation, i.e. Ursa Major or UMa)",
+     "reference": "Integer value of 2026 / 19.86 = 102 [2.0]. Position = 102 × 242.7° = 278.3° westward, or 81.7° eastward from 2020 position [3.0]. Therefore, the conjunction was in the constellation of Aries (Ari) or Pisces (Psc) [3.0]."
+    },
+    {
+     "id": "8.4",
+     "points": 4,
+     "question": "During the second conjunction of the series of three conjunctions in 7 BC, suggest the constellation the Sun was in as viewed by the observer on Earth. (Give the IAU Latin name or IAU three-letter abbreviation of the constellation, i.e. Ursa Major or UMa)",
+     "reference": "At the second conjunction, Jupiter and Saturn had retrograde motions. Both were in opposition. Sun was in Libra (Lib) (if answer c is Aries) or Virgo (Vir) (if answer c is Pisces) [4.0]."
     }
    ]
   },
   {
    "number": 9,
-   "title": "Задача 9",
-   "statement": "Wait at your table until your envelope is collected. Once all envelopes are collected, your\n   student guide will escort you out of the examination room.",
-   "total": 7,
+   "title": "Galactic Outflow",
+   "weight": 20,
+   "total": 20,
+   "statement": "Cannon et al. (2004) conducted an HI observation of a disk starburst galaxy, IRAS 0833+6517, with the Very Large Array (VLA). The galaxy is located at a distance of 80.2 Mpc with an approximate inclination angle of 23 degrees. According to the HI velocity map, IRAS 0833+6517 appears to be undergoing regular rotation with an observed radial velocity of the HI gas of roughly 5850 km s-1 at a distance of 7.8 kpc from the centre (the left panel of the figure below). Gas outflow from IRAS 0833+6517 is traced by using the blueshifted interstellar absorption lines observed against the backlight of the stellar continuum (the right panel of the figure). Assuming that this galaxy is gravitationally stable and all the stars are moving in circular orbits,",
    "parts": [
     {
-     "id": "9",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
+     "id": "9.1",
+     "points": 5,
+     "question": "Determine the rotational velocity (vrot) of IRAS 0833+6517 at the observed radius of HI gas.",
+     "reference": "vsys = H0 d = 67.8 * 80.2 = 5437.6 km s-1 [2]. vrad = vsys + vrot sin i [1]. vrot = (vrad − vsys) / sin i = (5850 − 5437.6) / sin(23°) = 1055 km s-1 [2]."
+    },
+    {
+     "id": "9.2",
+     "points": 9,
+     "question": "Calculate the escape velocity for a test particle in the gas outflow at the radius of 7.8 kpc.",
+     "reference": "Mdyn(< R) = vrot^2 R / G = 4.0 × 10^42 kg [2]. vesc = sqrt(2GM / R) [2]. vesc = 1492 km s-1 [3] (or via 2 vrot^2 [3])."
+    },
+    {
+     "id": "9.3",
+     "points": 6,
+     "question": "Determine if the outflowing gas can escape from the galaxy at this radius by considering the velocity offset of the C II λ1335 absorption line, which is already corrected for the cosmological recessional velocity. (The central rest-frame wavelength of the CII absorption line is 1335 Å.) (YES / NO)",
+     "reference": "Δv / c = Δλ / λ [2]. Δvobs(C II λ1335) = 299792.458 * ((1332 − 1335) / 1335) = −673.7 km s-1 [2]. The velocity offset is smaller than the escape velocity. We conclude that the outflowing gas CANNOT escape (NO) [2]."
     }
    ]
   },
   {
    "number": 10,
-   "title": "Задача 10",
-   "statement": "A list of constants and a table of the mark distribution for this exam are given on the next two\n    pages.\n\n                                                                                      Page 1 of 3\n\n                                Theoretical\n\n Table of constants\nMass (M⊕)\nRadius (R⊕)\nAcceleration of gravity (g)\nObliquity of Ecliptic\nLength of Tropical Year\nLength of Sidereal Year\nAlbedo\n\nMass(M☾)\nRadius (R☾)\nMean distance from Earth\n\nOrbital inclination with the Ecliptic\nAlbedo\nApparent magnitude (mean full moon)\n\nMass (M☉)\nRadius (R☉)\nLuminosity (L☉)\nAbsolute Magnitude (ℳ☉)\nAngular diameter\nRotational velocity in the Galaxy\nDistance from Galactic centre\n\nMass\nOrbital semi-major axis\nOrbital period\nMass\nOrbital semi-major axis\nOrbital period\n\n1 au\n1 pc\nGravitational constant (G)\nPlanck constant (h)\nBoltzmann constant (kB)\nStefan-Boltzmann constant (σ)\n\nHubble constant (H0)\n\nSpeed of light in vacuum (c)\nProton mass\nDeuterium mass\nNeutron mass\nHelium-3 mass\nHelium-4 mass\n\nExamination\n\n   5.98 × 1024 kg\n   6.38 × 106 m\n   9.8 m ⋅ s −1\n   23°27’                          Earth\n   365.2422 mean solar days\n   365.2564 mean solar days\n   0.39\n\n   7.35 × 1022 kg\n   1.74 × 106 m\n   3.84 × 108 m\n                                   Moon\n   5.14°\n   0.14\n   −12.74\n\n   1.99 × 1030 kg\n   6.96 × 108 m\n   3.83 × 1026 W                   Sun\n   4.80 mag\n   0.5 degrees\n   220 km s−1\n   8.5 kpc\n\n   1.89 × 1027 kg\n   5.20 au                         Jupiter\n   11.86 year\n   5.68 × 1026 kg\n   9.58 au                         Saturn\n   29.45 year\n\n   1.50 × 1011 m\n   206 265 au\n   6.67 × 10−11 N ⋅ m2 ⋅ kg −2\n   6.62 × 10−34 J ⋅ s\n   1.38 × 10−23 J ⋅ K −1\n   5.67 × 10−8 W ⋅ m−2 ⋅ K −4\n                                   Physical\n   67.8 km s−1 Mpc −1\n                                   constants\n   299 792 458 m ⋅ s −1\n   938.27 MeV ⋅ c −2\n   1875.60 MeV ⋅ c −2\n   939.56 MeV ⋅ c −2\n   2808.30 MeV ⋅ c −2\n   3727.40 MeV ⋅ c −2\n\n                                 Page 2 of 3\n\n                        Theoretical Examin\n\nMark distribution of this exam\n                           Problem number\n                           T1\n                           T2\n                           T3\n                           T4\n                           T5\n                           T6\n                           T7\n                           T8\n                           T9\n                           T10\n                           T11\n                           T12\n                           T13\n                           Total\n\nation\n\n  Marks\n    10\n    10\n    10\n    10\n    10\n    15\n    20\n    20\n    20\n    25\n    50\n    40\n    60\n   300\n\n          Page 3 of 3\n\n                                   Theoretical Examination\n                                                                                            Page 1 of 11\n\nPart 1\n(T1)    The Large Magellanic Cloud in Phuket                              [10 marks]\n        The coordinates of the Large Magellanic Cloud (LMC) are R.A. = 5h 24min and\n        Dec = 70 00 . The latitude and longitude of Phuket are 7 53 N and 98 24 E , respectively.\n        What is the date when the LMC culminates at 9pm as seen from Phuket in the same year? You\n        may note that the Greenwich Sidereal Time, GST, at 00h UT 1st January is about 6h 43min,\n        and Phuket is in the UT+7 time zone.                                                     [10]\n\n(T2)    Earth's Transit Zone                                                                 [10 marks]\n        Earth's transit zone is an area where extrasolar observers (located far away from the Solar\n        System) can detect the Earth transiting across the Sun. For observers on the Earth, this area is\n        the projection of a band around the Earth's ecliptic onto the celestial plane (light grey area in\n        the left figure). Assume that the Earth has a circular orbit of 1 au.\n\n       a)   Find the angular width of that part of the Earth's transit zone in degrees, in which the\n            extrasolar observers can detect Earth's total transit (when the whole of the Earth's disk\n            passes in front of the Sun).                                                          [5]\n\n       b) Find the angular width of that part of the Earth's transit zone in degrees, where the\n          extrasolar observers can detect at least Earth's grazing transit (when any part of the Earth's\n          disk passes in front of the Sun).                                                          [5]\n\n(T3)    The Milky Way’s Distant Outer Arm                                                   [10 marks]\n\n        In 2011, Dame and Thaddeus found a new part of the outer arm of the Milky Way by studying\n        the CO line using the CfA 1.2m telescope. They found that the CO line was detected at galactic\n        longitude  13.25 (marked A in the figure) where it had a radial velocity of 20.9 km s-1\n        towards the Sun. Assume that the galactic rotation curve is flat beyond 5 kpc from the Galactic\n        centre. The distance between the Sun and the Galactic centre is 8.5 kpc. The velocity of the\n        Sun around the Galactic centre is 220 km s-1.\n        a) Find the distance from the start of the arm (point A) to the Galactic centre.            [7]\n        b) Find the distance from the start of the arm (point A) to the Sun.                        [3]\n\n                                  Theoretical Examination\n                                                                                            Page 2 of 11\n\n(T4)   21-cm HI galaxy survey                                                               [10 marks]\n       A radio telescope is equipped with a receiver which can observe in a frequency range from\n       1.32 to 1.52 GHz. Its detection limit is 0.5 mJy per beam for a 1-minute integration time. In a\n       galaxy survey, the luminosity of the HI spectral line of a typical target galaxy is 1028 W with\n       a linewidth of 1 MHz. For a large beam, the HI emitting region from a far-away galaxy can\n       be approximated as a point source. The HI spin-flip spectral line has a rest-frame frequency\n       of 1.42 GHz.\n\n       What is the highest redshift, z , of a typical HI galaxy that can be detected by a survey carried\n       out with this radio telescope, using 1-minute integration time? You may assume in your\n       calculation that the redshift is small and the non-relativistic approximation can be used. Note\n       that 1 Jy = 10-26 W m-2 Hz-1.                                                                [10]\n\n(T5)   A Synchronous Satellite                                                               [10 marks]\n       A synchronous satellite is a satellite which orbits the Earth with its period exactly equal to the\n       period of rotation of the Earth. The height of these satellites is 35786 km above the surface of\n       the Earth. A satellite is put in an inclined synchronous orbit with an inclination of   6.69\n       to the equatorial plane. Calculate the precise value of the maximum possible altitude of the\n       satellite for an observer at latitude of   51.49 . Ignore the effect of refraction due to the\n       Earth’s atmosphere.                                                                         [10]\n\n                                   Theoretical Examination\n                                                                                            Page 3 of 11\n\nPart 2\n(T6)   Supernova 1987A                                                                 [15 marks]\n       Supernova SN 1987A was at its brightest with an apparent magnitude of +3 on about 15th May\n       1987 and then faded, finally becoming invisible to the naked eye by 4th February 1988. It is\n       assumed that brightness B varied with time t as an exponential decline, B  B0e t / , where\n       B0 and  are constant. The maximum apparent magnitude which can be seen by the naked\n       eye is +6.\n\n       a) Determine the value of  in days.                                                           [5]\n\n       b) Find the last day that observers could have seen the supernova if they had a 6-inch (15.24-\n          cm) telescope with transmission efficiency T  70% . Assume that the average diameter\n          of the human pupil is 0.6 cm.                                                          [10]\n\n(T7)   Life on Other Planets                                                             [20 marks]\n       One place to search for life is on planets orbiting main sequence stars. A good starting point\n       is the planets that have an Earth-like temperature range and a small temperature fluctuation.\n       Assume that for a main sequence star, the relation between the luminosity L and the mass M\n       is given by\n\n                                               L  M 3.5 .\n       You may assume that the total energy E released over the lifetime of the star is proportional\n       to the mass M of the star. For the Sun, it will have a main sequence lifetime of about 10\n       billion years. The stellar spectral types are given in the table below. Assume that the spectral\n       subclasses of stars (0-9) are assigned on a scale that is linear in log M .\n\n               Spectral Class      O5V      B0V     A0V      F0V      G0V      K0V     M0V\n                Mass ( M )          60      17.5    2.9      1.6      1.05     0.79    0.51\n\n       a)   If it takes at least 4 109 years for an intelligent life form to evolve, what is the spectral\n            type (accurate to the subclass level) of the most massive star in the main sequence around\n            which astronomers should look for intelligent life?                                        [6]\n\n       b)   Assume that the target planet has the same emissivity  and albedo a as the Earth. In\n            order to have the same temperature as the Earth, express the distance d, in au, of the planet\n            to its parent main sequence star, of mass M.                                              [6]\n\n       c)   The existence of a planet around a star can be shown by the variation in the radial velocity\n            of the star about the star-planet system centre of mass. If the smallest Doppler shift in the\n            wavelength detectable by the observer is ( /  )  1010 , calculate the lowest mass of\n            such a planet in b), in units of Earth masses, that can be detected by this method, around\n            the main sequence star in a).                                                             [8]\n\n                                  Theoretical Examination\n                                                                                          Page 4 of 11\n\n(T8)   The Star of Bethlehem                                                              [20 marks]\n       A great conjunction is a conjunction of Jupiter and Saturn for observers on Earth. Assume that\n       Jupiter and Saturn have circular orbits in the ecliptic plane.\n\n       The time between successive conjunctions may vary slightly as viewed from the Earth.\n       However, the average time period of the great conjunctions is the same as that of an observer\n       at the centre of the Solar system.\n\n       a) Find the average great conjunction period (in years) and average heliocentric angle\n          between two successive great conjunctions (in degrees).                          [6]\n       b) The next great conjunction will be on 21st December 2020 with an elongation of 30.3◦\n          East of the Sun. Suggest the constellation in which the conjunction on 21st December\n          2020 will occur. (Give the IAU Latin name or IAU three-letter abbreviation of the\n          constellation, i.e. Ursa Major or UMa)                                           [2]\n\n       In 1606, Johannes Kepler determined that in some years the great conjunction can be happen\n       three times in the same year due to the retrograde motions of the planets. He also determined\n       that such an event happened in the year 7 BC, which could have been the event commonly\n       known as “The Star of Bethlehem”. For the calculations below you may ignore the precession\n       of the axis of the Earth.\n\n       c) Suggest the constellation in which the great conjunctions in 7 BC occurred. (Give the IAU\n          Latin name or IAU three-letter abbreviation of the constellation, i.e. Ursa Major or UMa)\n                                                                                                 [8]\n\n       d) During the second conjunction of the series of three conjunctions in 7 BC, suggest the\n          constellation the Sun was in as viewed by the observer on Earth. (Give the IAU Latin\n          name or IAU three-letter abbreviation of the constellation, i.e. Ursa Major or UMa) [4]\n\n(T9)   Galactic Outflow                                                                    [20 marks]\n       Cannon et al. (2004) conducted an HI observation of a disk starburst galaxy, IRAS\n       0833+6517, with the Very Large Array (VLA). The galaxy is located at a distance of 80.2\n       Mpc with an approximate inclination angle of 23 degrees. According to the HI velocity map,\n       IRAS 0833+6517 appears to be undergoing regular rotation with an observed radial velocity\n       of the HI gas of roughly 5850 km s-1 at a distance of 7.8 kpc from the centre (the left panel of\n       the figure below).\n\n       Gas outflow from IRAS 0833+6517 is traced by using the blueshifted interstellar absorption\n       lines observed against the backlight of the stellar continuum (the right panel of the figure).\n       Assuming that this galaxy is gravitationally stable and all the stars are moving in circular\n       orbits,\n\n       a) Determine the rotational velocity (vrot) of IRAS 0833+6517 at the observed radius of HI\n          gas.                                                                                  [5]\n\n                                  Theoretical Examination\n                                                                                           Page 5 of 11\n       b) Calculate the escape velocity for a test particle in the gas outflow at the radius of 7.8 kpc.\n                                                                                                      [9]\n\n       c) Determine if the outflowing gas can escape from the galaxy at this radius by considering\n          the velocity offset of the C II 1335 absorption line, which is already corrected for the\n          cosmological recessional velocity. (The central rest-frame wavelength of the CII\n          absorption line is 1335 Å.) (YES / NO)                                                    [6]\n\n(T10) GOTO                                                                              [25 marks]\n      The Gravitational-Wave Optical Transient Observer (GOTO) aims to carry out searches of\n      optical counterparts of any Gravitational Wave (GW) sources within an hour of their detection\n      by the LIGO and VIRGO experiments. The survey needs to cover a big area on the sky in a\n      short time to search all possible regions constrained by the GW experiments before the optical\n      burst signal, if any, fades away. The GOTO telescope array is composed of 4 identical\n      reflective telescopes, each with 40-cm diameter aperture and f-ratio of 2.5, working together\n      to image large regions of the sky. For simplicity, we assume that the telescopes’ fields-of-\n      view (FoV) do not overlap with one another.\n\n       a) Calculate the projected angular size per mm at the focal plane, i.e. plate scale, of each\n          telescope.                                                                             [6]\n\n       b) If the zero-point magnitude (i.e. the magnitude at which the count rate detected by the\n          detector is 1 count per second) of the telescope system is 18.5 mag, calculate the minimum\n          time needed to reach 21 mag at Signal-to-Noise Ratio (SNR) = 5 for a point source. We\n          first assume that the noise is dominated by both the Read-Out Noise (RON) at 10\n          counts/pixel and the CCD dark (thermal) noise (DN) rate of 1 count/pix/minute. The\n          CCDs used with the GOTO have a 6-micron pixel size and gain (conversion factor\n          between photo-electron and data count) of 1. The typical seeing at the observatory site is\n          around 1.0 arcsec.                                                                      [8]\n          The Signal-to-Noise Ratio is defined as\n                                     Total Source Count       Total Source Count\n                             SNR                                                   ,\n                                           i Noise   2\n                                                      i          RON\n                                                                  2\n                                                                        DN\n                                                                          2\n                                                                              ...\n                             RON  N pix  RON 2 ,  DN  N pix  DN  t ,\n\n           where t is the exposure time.\n\n                           Theoretical Examination\n                                                                                    Page 6 of 11\nc) Normally when the exposure time is long and the source count is high then Poisson noise\n   from the source is also significant. Determine the relation between SNR and exposure\n   time in the case that the noise is dominated by Poisson noise of the source. Recalculate\n   the minimum exposure time required to reach 21 mag with SNR = 5 from part b) if\n   Poisson noise is also taken into consideration. The Poisson noise (standard deviation) of\n    the source is given by  source  Source Count . In reality, there is also the sky background\n    which can be important source of Poisson noise. For our purpose here, please ignore any\n    sky background in the calculation.                                                   [6]\n\nd) The typical localisation uncertainty of the GW detector is about 100 square-degrees and\n   we would like to cover the entire possible location of any candidate within an hour after\n   the GW is detected. Estimate the minimum side length of the square CCD needed for each\n   telescope in terms of the number of pixels. You may assume that the time taken for the\n   CCD read-out and the pointing change are negligible.                                  [5]\n\n                                 Theoretical Examination\n                                                                                          Page 7 of 11\n\nPart 3\n(T11) Mass of the Local Group                                                             [50 marks]\n\n      The dynamics of M31 (Andromeda) and the Milky Way (MW) can be used to estimate the\n      total mass of the Local Group (LG). The basic idea is that galaxies currently in a binary system\n      were at approximately the same point in space shortly after the Big Bang. To a reasonable\n      approximation, the mass of the local group is dominated by the masses of the MW and M31.\n      Via Doppler shifts of the spectral lines, it was found that M31 is moving towards the MW\n      with a speed of 118 km s-1. This may be surprising, given that most galaxies are moving away\n      from each other with the general Hubble flow. The fact that M31 is moving towards the MW\n      is presumably because their mutual gravitational attraction has eventually reversed their initial\n      velocities. In principle, if the pair of galaxies is well-represented by isolated point masses,\n      their total mass may be determined by measuring their separation, relative velocity and the\n      time since the universe began. Kahn and Woltjer (1959) used this argument to estimate the\n      mass in the LG.\n\n      In this problem we will follow this argument through our calculation as follows.\n      a) Consider an isolated system with negligible angular momentum of two gravitating point\n          masses m1 and m2 (as observed by an inertial observer at the centre of mass).\n\n                    m1                                                 m2\n\n                                    r1                         r2\n                                              Centre of mass\n          Write down the expression of the total mechanical energy (E) of this system in\n          mathematical form connecting m1 , m2 , r1 , r2 , v1, v2 , and the universal gravitational\n          constant G , where v1 and v2 are the radial velocities of m1 and m2 , respectively.\n                                                                                                   [5]\n\n      b) Re-write the equation in a) in terms of r , v ,  , M , and G , where r  r1  r2 is the\n          separation distance between m1 and m2 , v is the changing rate of the separation distance,\n                m1m2\n                     is the reduced mass of the system, and M  m1  m2 is the total mass of the\n               m1  m2\n          system.                                                                                 [10]\n\n      c) Show that the equation in b) yields\n                                 1 1 \n                    v 2  (2GM )    , where r0 is a new constant.\n                                  r r0 \n          Find r0 in terms of  , M , G and E.                                                     [5]\n\n                                     Theoretical Examination\n                                                                                         Page 8 of 11\n     The solution of the equation in b) is given below in parametric form, under the initial condition\n     r  0 at t  0 :\n                                                           r\n                                                  r ( )  0 1  cos   ,\n                                                           2\n                                                               1\n                                                        r03  2\n                                                        8GM  \n                                              t ( )             sin   ,\n                                                             \n     where  is in radians.\n\n                                                                                 𝑣𝑡\n      d) From the above parametric equations, show that an expression for 𝑟 is\n         𝑣𝑡       (sin 𝜃)(𝜃−sin 𝜃)\n              =     (1−cos 𝜃)2\n                                                                                                 [10]\n          𝑟\n\n      e) Now we consider m1 and m2 as the MW and M31, respectively, such that the current\n         values of v and r are v = –118 km s-1 and r = 710 kpc, and t may be taken to be the age of\n         the Universe ( 13700 million years ). Find  using numerical iteration.               [10]\n\n      f) Use the value of  from e) to calculate the maximum distance between M31 and the MW,\n          rmax , and hence also obtain the value of M in solar masses.                           [10]\n\n(T12) Shipwreck                                                                          [40 marks]\n\n     You are shipwrecked on an island. Fortunately, you are still wearing a watch that is set to\n     Bangkok time, and you also have a compass, an atlas and a calculator. You are initially\n     unconscious, but wake up to find it has recently become dark. Unfortunately, it is cloudy. An\n     hour or so later you see Orion through a gap in the clouds. You estimate that the star “Rigel”\n     is about 52.5º above the horizon and with your compass you find that it has an astronomical\n     azimuth of 109º. Your watch says it is currently 01:00 on the 21st November 2017. You happen\n     to remember from your astronomy class that Greenwich Sidereal Time (GST) at 00h UT 1st\n     January 2017 is about 6h 43min and that the R.A. and Dec of Rigel are 5h 15min and 8 11\n     , respectively. Bangkok is in the UT+7 time zone.\n\n      a) Find the Local Hour Angle (LHA) of Rigel.                                               [10]\n      b) Find the current Greenwich sidereal time (GST).                                         [10]\n      c) Find the longitude of the island.                                                        [5]\n      d) Find, to the nearest arcminute, the Latitude of the island.                             [15]\n\n                                  Theoretical Examination\n                                                                                          Page 9 of 11\n\n(T13) Exomoon                                                                              [60 marks]\n     Exomoons are natural satellites of exoplanets. The gravitational influence of such a moon will\n     affect the position of the planet relative to the planet-moon barycentre, resulting in Transit\n     Timing Variations (  TTV , TTVs) as the observed transit of the planet occurs earlier or later\n     than the predicted time of transit for a planet without a moon.\n     The motion of the planet around the planet-moon barycentre will also induce Transit Duration\n     Variations (  TDV , TDVs) as the observed transit duration is shorter or longer than the predicted\n     transit duration for a planet without a moon.\n     We will consider edge-on circular orbits with the following parameters\n\n         MP           is the planet mass\n         Mm           is the moon mass\n         PP           is the planet-moon barycentre’s period around the host star\n         Pm           is the moon’s period around the planet\n         ap           is the distance of the planet-moon barycentre to the star\n         am           is the distance of the moon to the planet-moon barycentre\n         fm           is the moon phase, f m  0 when the moon is in opposition to the star\n                     is the mean transit duration of the planet (as if it has no moon)\n\n     We will only consider the orbit of a prograde moon orbiting in the same plane as the planet's\n     orbit. Example phases of the moon, as observed by distant observers, are shown in the figure\n     below.\n\n                                            Phase of the moon.\n               Black, grey and white circles represent the star, planet and moon, respectively.\n\n     a) We define  TTV  tm  t where t is the predicted transit time without the moon, and tm is\n        the observed transit time with the moon. Show that\n\n                                                   a M P \n                                             TTV   m m p  sin( f m )\n                                                     2 a p M p \n\n                            Theoretical Examination\n                                                                                    Page 10 of 11\n\n     A positive value of  TTV indicates that the transit occurs later than the predicted time of\n     transit for a planet without a moon.                                                    [10]\nb) Similarly, we define  TDV   m   where  is the predicted transit duration without the\n     moon, and  m is the observed transit duration with the moon. We can assume that the\n     planet’s velocity around the star is much bigger than the moon’s velocity around the\n     planet-moon barycentre, and also the moon does not change phase during the transit.\n     Show that\n\n                                               P M m am \n                                      TDV    p            cos( f m )\n                                               Pm M p a p \n\n     A positive value of  TDV indicates that the transit duration is longer than the predicted\n     transit duration without a moon.                                                      [13]\n\nAn exoplanet is observed transiting a main-sequence solar-type star (1 M⨀, 1 R⨀, spectral\nclass: G2V). The planet has an edge-on circular orbit with a period of 3.50 days. From the\nobservational data, the planet has a mass of 120 M  and a radius of 12 R . The observed\nrelation between  TTV\n                   2\n                       and  TDV\n                             2\n                                 can be written as\n\n                               TDV\n                                2\n                                     0.7432 TTV\n                                               2\n                                                    1.933  10 8 days 2\n\nc) Assume that the moon’s mass is much smaller than the planet’s mass. Find the mean\n   transit duration of the planet (  ) in days.                                  [6]\n\nd) Find the moon’s period ( Pm ) in days                                                       [7]\n\ne) Estimate the distance of the moon to the planet-moon barycentre ( am ) in units of Earth\n     radii. Also find the moon mass ( M m ) in units of Earth mass.                            [7]\n\nf)   The Hill sphere is a region around a planet within which the planet’s gravity dominates.\n     The radius of the Hill sphere can be written as\n\n                                                         Mp\n                                            Rh  a p 3\n                                                         xM *\n\n     where M * is the host star mass.\n\n     Find the value of the constant x (Hint: for a massive host star, the radius of the Hill sphere\n     of the system is approximately equal to the distance between the planet and the Lagrange\n     point L1 or L2). Hence, find the radius of the Hill sphere of this planetary system in units\n     of Earth radii.                                                                           [11]\n\n                          Theoretical Examination\n                                                                               Page 11 of 11\ng) The Roche limit is the minimum orbital radius at which a satellite can orbit without being\n   torn apart by tidal forces. Take the Roche limit as\n\n                                                    p\n                                  Rr  1.26 R p 3\n                                                    m\n\n    where  p and  m are the density of the planet and moon, respectively and Rp is the\n    planet’s radius. Assuming that the moon is a rocky moon with the same density as the\n    Earth, find the Roche limit of the system.                                       [3]\n\nh) Does the moon have a stable orbit? (YES / NO)                                          [3]",
-   "total": 7,
+   "title": "GOTO",
+   "weight": 25,
+   "total": 25,
+   "statement": "The Gravitational-Wave Optical Transient Observer (GOTO) aims to carry out searches of optical counterparts of any Gravitational Wave (GW) sources within an hour of their detection by the LIGO and VIRGO experiments. The survey needs to cover a big area on the sky in a short time to search all possible regions constrained by the GW experiments before the optical burst signal, if any, fades away. The GOTO telescope array is composed of 4 identical reflective telescopes, each with 40-cm diameter aperture and f-ratio of 2.5, working together to image large regions of the sky. For simplicity, we assume that the telescopes’ fields-of-view (FoV) do not overlap with one another.",
    "parts": [
     {
-     "id": "10",
-     "question": "Приведите полное решение (с доказательством или выводом).",
+     "id": "10.1",
+     "points": 6,
+     "question": "Calculate the projected angular size per mm at the focal plane, i.e. plate scale, of each telescope.",
+     "reference": "tan θ = S / f [0.5]. Plate scale = 1 / f [0.5]. f = F-ratio × Diameter [1]. Plate scale = 1 / (F-ratio × Diameter) [1]. Plate scale conversion to arcsec/mm [1]. Plate scale = 206 arcsec/mm or 3.44 arcmin/mm [1]."
+    },
+    {
+     "id": "10.2",
+     "points": 8,
+     "question": "If the zero-point magnitude (i.e. the magnitude at which the count rate detected by the detector is 1 count per second) of the telescope system is 18.5 mag, calculate the minimum time needed to reach 21 mag at Signal-to-Noise Ratio (SNR) = 5 for a point source. We first assume that the noise is dominated by both the Read-Out Noise (RON) at 10 counts/pixel and the CCD dark (thermal) noise (DN) rate of 1 count/pix/minute. The CCDs used with the GOTO have a 6-micron pixel size and gain of 1. The typical seeing at the observatory site is around 1.0 arcsec.",
+     "reference": "Star size = 0.8 pixel → Npix = 1 pixel [2]. Source count rate CR = 10^(−(21−18.5)/2.5) = 0.1 per second [3]. SNR equation solved for quadratic equation in t [2]. t = 521 s = 8.68 minutes [1]."
+    },
+    {
+     "id": "10.3",
+     "points": 6,
+     "question": "Normally when the exposure time is long and the source count is high then Poisson noise from the source is also significant. Determine the relation between SNR and exposure time in the case that the noise is dominated by Poisson noise of the source. Recalculate the minimum exposure time required to reach 21 mag with SNR = 5 from part b) if Poisson noise is also taken into consideration.",
+     "reference": "SNR formula with source Poisson noise [1]. Poisson noise dominated case SNR ∝ t^(1/2) [2]. Quadratic equation with source count included [2]. t = 666 s = 11.1 minutes [1]."
+    },
+    {
+     "id": "10.4",
+     "points": 5,
+     "question": "The typical localisation uncertainty of the GW detector is about 100 square-degrees and we would like to cover the entire possible location of any candidate within an hour after the GW is detected. Estimate the minimum side length of the square CCD needed for each telescope in terms of the number of pixels. You may assume that the time taken for the CCD read-out and the pointing change are negligible.",
+     "reference": "Number of pointings = 5 [1]. Area per pointing per telescope = 5 deg^2, or 2.24 deg per pointing per telescope [2]. Size of each CCD = 6589 × 6589 pixels [2]."
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Mass of the Local Group",
+   "weight": 50,
+   "total": 50,
+   "statement": "The dynamics of M31 (Andromeda) and the Milky Way (MW) can be used to estimate the total mass of the Local Group (LG). The basic idea is that galaxies currently in a binary system were at approximately the same point in space shortly after the Big Bang. To a reasonable approximation, the mass of the local group is dominated by the masses of the MW and M31. Via Doppler shifts of the spectral lines, it was found that M31 is moving towards the MW with a speed of 118 km s-1. This may be surprising, given that most galaxies are moving away from each other with the general Hubble flow. The fact that M31 is moving towards the MW is presumably because their mutual gravitational attraction has eventually reversed their initial velocities. In principle, if the pair of galaxies is well-represented by isolated point masses, their total mass may be determined by measuring their separation, relative velocity and the time since the universe began. Kahn and Woltjer (1959) used this argument to estimate the mass in the LG. In this problem we will follow this argument through our calculation as follows.",
+   "parts": [
+    {
+     "id": "11.1",
+     "points": 5,
+     "question": "Consider an isolated system with negligible angular momentum of two gravitating point masses m1 and m2 (as observed by an inertial observer at the centre of mass). Write down the expression of the total mechanical energy (E) of this system in mathematical form connecting m1 , m2 , r1 , r2 , v1, v2 , and the universal gravitational constant G , where v1 and v2 are the radial velocities of m1 and m2 , respectively.",
+     "reference": "1/2 m1 v1^2 + 1/2 m2 v2^2 − G m1 m2 / (r1 + r2) = E [5]."
+    },
+    {
+     "id": "11.2",
+     "points": 10,
+     "question": "Re-write the equation in a) in terms of r , v ,  , M , and G , where r ≡ r1 + r2 is the separation distance between m1 and m2 , v is the changing rate of the separation distance, μ = m1 m2 / (m1 + m2) is the reduced mass of the system, and M ≡ m1 + m2 is the total mass of the system.",
+     "reference": "E = μ/2 (v^2 − 2GM / r) [10]."
+    },
+    {
+     "id": "11.3",
+     "points": 5,
+     "question": "Show that the equation in b) yields v^2 = (2GM) (1/r − 1/r0), where r0 is a new constant. Find r0 in terms of μ , M , G and E.",
+     "reference": "Algebraic derivation yielding the form [4.0]. r0 = −GM μ / E [1.0]."
+    },
+    {
+     "id": "11.4",
+     "points": 10,
+     "question": "From the above parametric equations, show that an expression for vt / r is (sin θ)(θ − sin θ) / (1 − cos θ)^2.",
+     "reference": "Substitute r(θ), derive v(θ), combine v(θ), t(θ), and r(θ) to show the final expression [10]."
+    },
+    {
+     "id": "11.5",
+     "points": 10,
+     "question": "Now we consider m1 and m2 as the MW and M31, respectively, such that the current values of v and r are v = −118 km s-1 and r = 710 kpc , and t may be taken to be the age of the Universe ( 13700 million years ). Find  using numerical iteration.",
+     "reference": "vt / r = −2.33 [5]. Numerical iteration gives θ = 245° = 4.28 radians [5]."
+    },
+    {
+     "id": "11.6",
+     "points": 10,
+     "question": "Use the value of  from e) to calculate the maximum distance between M31 and the MW, rmax , and hence also obtain the value of M in solar masses.",
+     "reference": "rmax = r0 = 998 kpc [5]. M = 3.95 × 10^12 M☉ [5]."
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Shipwreck",
+   "weight": 40,
+   "total": 40,
+   "statement": "You are shipwrecked on an island. Fortunately, you are still wearing a watch that is set to Bangkok time, and you also have a compass, an atlas and a calculator. You are initially unconscious, but wake up to find it has recently become dark. Unfortunately, it is cloudy. An hour or so later you see Orion through a gap in the clouds. You estimate that the star “Rigel” is about 52.5º above the horizon and with your compass you find that it has an astronomical azimuth of 109º. Your watch says it is currently 01:00 on the 21st November 2017. You happen to remember from your astronomy class that Greenwich Sidereal Time (GST) at 00h UT 1st January 2017 is about 6h 43min and that the R.A. and Dec of Rigel are 5h 15min and −8 11′ , respectively. Bangkok is in the UT+7 time zone.",
+   "parts": [
+    {
+     "id": "12.1",
+     "points": 10,
+     "question": "Find the Local Hour Angle (LHA) of Rigel.",
+     "reference": "Draw a correct celestial sphere [4.0]. Use sine formula for spherical triangle [2.0]. LHA* = 35.56° = 2h 22 min [2.0]. LHA = 21h 38 min [2.0]."
+    },
+    {
+     "id": "12.2",
+     "points": 10,
+     "question": "Find the current Greenwich sidereal time (GST).",
+     "reference": "Bangkok time 01:00 21st Nov = UT 18:00 20th Nov (323 days 18h) [1.0]. GST formula using interval from Jan 1 [2.0]. Calculation steps [5.0]. GST = 21h 58min [2.0]."
+    },
+    {
+     "id": "12.3",
+     "points": 5,
+     "question": "Find the longitude of the island.",
+     "reference": "L = RA + LHA − GST = 4h 55min [3.0]. L = 73.75° E [2.0]."
+    },
+    {
+     "id": "12.4",
+     "points": 15,
+     "question": "Find, to the nearest arcminute, the Latitude of the island.",
+     "reference": "Cosine formula / relation [5.0]. Quadratic equation setup [1.0]. Formula for sin ϕ [1.0]. Roots ϕ = −24.05°, 4.01° [2.0]. Selection based on azimuth consistency [4.0]. Latitude = 4°1′ N [1.0]."
+    }
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Exomoon",
+   "weight": 60,
+   "total": 60,
+   "statement": "Exomoons are natural satellites of exoplanets. The gravitational influence of such a moon will affect the position of the planet relative to the planet-moon barycentre, resulting in Transit Timing Variations (σTTV, TTVs) as the observed transit of the planet occurs earlier or later than the predicted time of transit for a planet without a moon. The motion of the planet around the planet-moon barycentre will also induce Transit Duration Variations (σTDV, TDVs) as the observed transit duration is shorter or longer than the predicted transit duration for a planet without a moon. We will consider edge-on circular orbits with the given parameters.",
+   "parts": [
+    {
+     "id": "13.1",
+     "points": 10,
+     "question": "Show that σTTV = [am Mm / (2π ap Mp)] sin(fm).",
+     "reference": "Distance of moon to barycenter am = Mp / Mm * apb [2.0]. Projection distance a_proj = apb sin(fm) [3.0]. σTTV = t_trans / ωp [1.0]. Substitution and derivation [4.0]."
+    },
+    {
+     "id": "13.2",
+     "points": 13,
+     "question": "Show that σTDV = τ [Pp Mm am / (Pm Mp ap)] cos(fm).",
+     "reference": "v_p expression [1.0]. v_pb expression [1.0]. v_trans = −v_pb cos(fm) [3.0]. Average transit duration and τm expression [4.0]. Approximation vp >> v_trans and final expression [4.0]."
+    },
+    {
+     "id": "13.3",
+     "points": 6,
+     "question": "Assume that the moon’s mass is much smaller than the planet’s mass. Find the mean transit duration of the planet ( τ ) in days.",
+     "reference": "Kepler's third law for ap [1.0]. ap = 6.75 × 10^9 m [1.0]. Transit duration formula [2.0]. τ = 0.128 days [2.0]."
+    },
+    {
+     "id": "13.4",
      "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
+     "question": "Find the moon’s period ( Pm ) in days.",
+     "reference": "Relation between TTV and TDV coefficients [3.0]. Comparison with observed relation [2.0]. Pm = 0.933 days [2.0]."
+    },
+    {
+     "id": "13.5",
+     "points": 7,
+     "question": "Estimate the distance of the moon to the planet-moon barycentre ( am ) in units of Earth radii. Also find the moon mass ( Mm ) in units of Earth mass.",
+     "reference": "Kepler's third law for am: am = 31.2 R⊕ [3.0]. Mm from the TTV-TDV amplitude coefficient: Mm = 1.18 M⊕ [4.0]."
+    },
+    {
+     "id": "13.6",
+     "points": 11,
+     "question": "Find the value of the constant x in the Hill sphere radius formula. Hence, find the radius of the Hill sphere of this planetary system in units of Earth radii.",
+     "reference": "Centrifugal and star forces for barycenter [2.0]. Force balance for moon at L1/L2 [4.0]. Derivation of x [2.0]. Numerical value of Rh in Earth radii [3.0]."
+    },
+    {
+     "id": "13.7",
+     "points": 3,
+     "question": "Assuming that the moon is a rocky moon with the same density as the Earth, find the Roche limit of the system.",
+     "reference": "Application of the given Roche limit formula [3.0]."
+    },
+    {
+     "id": "13.8",
+     "points": 3,
+     "question": "Does the moon have a stable orbit? (YES / NO)",
+     "reference": "Comparison of Roche limit, Hill radius, and moon orbit distance (YES) [3.0]."
     }
    ]
   }

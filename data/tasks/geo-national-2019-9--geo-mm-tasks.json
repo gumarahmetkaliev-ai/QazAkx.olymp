@@ -6,30 +6,203 @@
  "lang": "ru",
  "tasksFile": "olympiads/geography/national/2019/9/geo-mm-tasks.pdf",
  "solutionFile": "olympiads/geography/national/2019/9/geo-mm-sol.pdf",
- "generatedBy": "parser",
- "generatedAt": "2026-11-09T18:10:07.095Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:43:01.982Z",
  "quality": {
   "tasks": 1,
-  "parts": 1,
-  "withPoints": 1,
-  "withReference": 1,
-  "withQuestion": 1,
-  "estimatedPoints": 1
+  "parts": 30,
+  "withPoints": 30,
+  "withReference": 6,
+  "withQuestion": 30,
+  "estimatedPoints": 0
  },
  "tasks": [
   {
    "number": 1,
-   "title": "МУЛЬТИМЕДИЙНЫЙ ТУР",
-   "weight": null,
-   "total": 10,
-   "statement": "Республиканской предметной олимпиады по географии,\n            г. Актобе, 15-20 марта 2019 г.\n\nПРАВИЛА МУЛЬТИМЕДИЙНОГО ТУРА\nÒ Мультимедийный тур состоит из 30 вопросов.\n\nÒ На каждый вопрос дается 5 вариантов ответов, только один из\n  них правильный.\nÒ 10 вопросов тестов составлены на английском языке.\n\nÒ Вникайте в каждый вопрос внимательно.\n\nÒ На каждый вопрос дается 1,5 минуты.\n\nÒ За каждый правильный ответ – 1 балл.\n\nÒ В листах ответов обведите правильный ответ кружком, если\n  вы сделали ошибку, зачеркните ответ и обведите кружком\n  правильный новый ответ по вашему мнению.\n\nУ Д А Ч И !!!\n\n ВОПРОС № 1\nНазовите вид литосферного движения под\n  обозначением D?\nА. субдукция\nВ. коллизия\nC. спрединг\nD. сдвиг\nE. рифтинг\n\nВОПРОС № 2\n\nКакой вид облаков показан на рисунке?\n\nA. слоистые\nB. высоко-кучевые\nC. кучево-дождевые\nD. перисто-кучевые\nE. высоко-слоистые\n\nQUESTION № 3\n\nWhat lake is indicated in the circle?\nA. Michigan,\nB. Huron\nC. Superior\nD. Ontario\nE. Erie\n\nВОПРОС № 4\nКак называется процесс изменения уровня Балтийского\nморя с древности до современного состояния,\nпоказанный на рисунке:\nA. трансгрессия\nB. регрессия\nC. гляциоизостация\nD. экзарация\nE. абразия\n\nВОПРОС № 5\nКакая литосферная плита, обозначена цифрой 6 на рисунке?\nА. Скотия          B. Кокос            C. Винсон\nD. Наска           E. Дрейка\n\nQUESTION № 6\nAll images show the effect on rainforest of?\nA. cacao plants B. oil palms         C. orange trees\n       D. Rubber trees       E. bamboo\n\nВОПРОС № 7\nКакая форма залегания горных пород показана на рисунках?\nА. антиклиналь            В. синклиналь\nС. геосинклиналь          D. антиклинорий\nE. синклинорий\n\n  ВОПРОС № 8\nДля какой страны характерны достопримечательности?\nА. Ангола           B. Камерун        C. Кения\nD. Мадагаскар       E. Намибия\n\nQUESTION № 9\n\nWhat indicator is shown in the Figure?\nA. dearth rate     B. fertility rate     C. population density\nD. environmental pollution        E. infant mortality\n\nВОПРОС № 10\nКакой тип возрастной структуры обозначен под\nномером 2?\nА. прогрессивный       B. депрессивный\nC. регрессивный        D. стационарный\nE. прямой\n\n ВОПРОС№ 11\nДля какой области характерны достопримечательности?\nА. Алматинская B. Кызылординская\nC. Мангистауская       D. Жамбылская\nE. Южно-Казахстанская\n\nQUESTION № 12\nWhich city is shown on the map?\nA. Quebec\nB. Ottawa\nC. Toronto\nD. Vancouver\nE. Montreal\n\n ВОПРОС № 13\n\nКакой вид проекции показан на рисунке?\nА. цилиндрическая     B. псевдоцилиндрическая\nC. поликоническая D. произвольная\nE. псевдоазимутальная\n\n ВОПРОС № 14\nПользуясь данным и таблицы, определите, в каком климатическом\nпоясе находится пункт, каков его тип климата:\nA. умеренный пояс – морской\nB. тропический пояс – континентальный\nC. умеренный пояс – муссонный\nD. субтропический пояс – средиземноморский\nE. экваториальный пояс – экваториальный\n\nQUESTION № 15\n\nWhich river is shown on the map at number 5?\nA. Irgiz\nB. Tobol\nC. Schiderty\nD. Nura\nE. Talas\n\nВОПРОС № 16\nНазовите столицу выделенной страны Африки?\nА. Бамако\nB. Габороне\nC. Конакри\nD. Хартум\nE. Дакар\n\n ВОПРОС № 17\nВодохранилище, расположенное в 60 км от города Актобе по руслу\nодноименной реки, было введено в эксплуатацию в 1975 году для\nнужд сельского хозяйства. Планировалось орошать не менее 17 тыс.\nга сельскохозяйственных угодий посредством подземного канала\nдлиной 18,8 км.\nA. Алгинское\nB. Иргизское\nC. Каргалинское\nD. Шалкарское\nE. Уилское\n\n QUESTION № 18\nWhich organization is protesting against the construction of wind power\nplants?\nА. International Atomic Energy Agency\nB. Organization of countries - exporters of oil\nC. Global Environment Facility\nD. World Society for the Protection of Animals\nE. European Coal and Steel Community\n\nВОПРОС № 19\nПо какому критерию объединены представленные ниже\nстраны:\nA. развитые страны\nB. прибрежные страны\nC. новые индустриальные страны\nD. страны с переходной экономикой\nE. монархические страны\n\n ВОПРОС № 20\n\nОпределите страну, где расположен антипод (точка с\nпротивоположными географическими координатами)\nточки с координатами 51°17′ ю.ш., 77°44′ з.д.?\nA. Россия\nB. Казахстан\nC. Канада\nD. Бразилия\nE. Китай\n\n QUESTION № 21\n\nWhich economic sector do many small island states rely\non to bring in foreign exchange income?\nA. financial services\nB. fishery\nC. mining\nD. tourism\nE. ferry operations\n\n ВОПРОС № 22\nПо рисункам определите государственный национальный\nпарк Казахстана?\nA. Катон-Карагайский\nB. Каркаралинский\nC. Сайрам-Угамский\nD. Баянаульский\nE. Иле-Алатауский\n\n ВОПРОС № 23\n\nЭто полудрагоценный камень. Название получил по\nместу первой его находки на одном из островов в\nКрасном море. Окрашенные разновидности постепенно\nвыцветают от яркого света?\nA. Янтарь\nB. Кварц\nC. Топаз\nD. Турмалин\nE. Аметист\n\n  QUESTION № 24\n Which statement is correct for Latin America and the Caribbean?\nА. decreasing age at childbearing, by decline of child bearing of women\nat older ages\nB. decreasing age at childbearing, by postponement of childbearing\nC. increasing age at childbearing, by decline of childbearing of women at\nolder ages\nD. increasing age at childbearing, by postponement of childbearing\n\n ВОПРОС № 25\nЭндемики какой страны представлены на рисунках?\nA. Папуа-Новая Гвинея\nB. Соломоновы острова\nC. Новой Зеландия\nD. Тасмания\nE. Фиджи\n\n ВОПРОС № 26\nПоследствие какого природного явления показано на\nрисунках?\nA. ураган\nB. циклон\nC. наводнение\nD. цунами\nE. смерч\n\nQUESTION № 27\nThe contour of which city is shown in Figure?\nA. Madrid\nB. Amsterdam\nC. Belgrade\nD. Munich\nE. Rome\n\nВОПРОС № 28\nКакой путешественник проложил данный маршрут?\nA. Н. Пржевальский   B. П. Семенов Тянь-Шанский\nC. Васко да Гама     D. Марко Поло\nE. Плано Карпини\n\n ВОПРОС № 29\n\nНа топографической карте определите       среднюю\nтолщину деревьев смешанного леса?\nA. 0,15   B. 1,2     C. 0,17    D. 0,61   E. 0,26\n\n QUESTION № 30\n\nWhich indigenous peoples are shown in the Figures?\nA .Aymara\nB. Inuit\nC. Chamorros\nD.Tuareg\nE. Sami\n\nТест завершен!",
+   "title": "Мультимедийный тур",
+   "weight": 30,
+   "total": 30,
+   "statement": "Мультимедийный тур состоит из 30 вопросов. На каждый вопрос дается 5 вариантов ответов, только один из них правильный. 10 вопросов тестов составлены на английском языке. За каждый правильный ответ – 1 балл.",
    "parts": [
     {
      "id": "1.1",
-     "points": 10,
-     "question": "Решите задачу полностью и запишите ответ.",
-     "reference": "В. коллизия\n\n2. Какой вид облаков показан на рисунке?\nD. перисто-кучевые\n\n3. What lake is indicated in the circle?\nD. Ontario\n\n4. Как называется процесс изменения уровня Балтийского моря с древности до\nсовременного состояния, показанный на рисунке:\nC. гляциоизостация\n\n5. Какая литосферная плита, обозначена цифрой 6 на рисунке?\nА. Скотия\n\n6. All images show the effect on rainforest of?\nB. oil palms\n\n7. Какая форма залегания горных пород показана на рисунках?\nА. антиклиналь\n\n8. Для какой страны характерны достопримечательности?\nE. Намибия\n\n9. What indicator is shown in the Figure?\nC. population density\n\n10. Какой тип возрастной структуры обозначен под номером 2?\nD. стационарный\n\n11. Для какой области характерны достопримечательности?\nB. Кызылординская\n\n12. Which city is shown on the map?\nC. Toronto\n\n13. Какой вид проекции показан на рисунке?\nB. псевдоцилиндрическая\n\n14. Пользуясь данным и таблицы, определите, в каком климатическом поясе находится\nпункт, каков его тип климата:\nB. тропический пояс – континентальный\n\n15. Which river is shown on the map at number 5?\nE. Talas\n\n16. Назовите столицу выделенной страны Африки?\nА. Бамако\n\n17. Водохранилище, расположенное в 60 км от города Актобе по руслу одноименной реки,\nбыло введено в эксплуатацию в 1975 году для нужд сельского хозяйства. Планировалось\nорошать не менее 17 тыс. га сельскохозяйственных угодий посредством подземного\nканала длиной 18,8 км.\nC. Каргалинское\n\n18. Which organization is protesting against the construction of wind power plants?\nD. World Society for the Protection of Animals\n\n19. По какому критерию объединены представленные ниже страны:\nD. страны с переходной экономикой\n\n20. Определите страну, где расположен антипод (точка с противоположными\nгеографическими координатами) точки с координатами 51°17′ ю.ш., 77°44′ з.д.?\nB. Казахстан\n\n21. Which economic sector do many small island states rely on to bring in foreign\nexchange income?\nD. tourism\n\n22. По рисункам определите государственный национальный парк Казахстана?\nA. Катон-Карагайский\n\n23. Это полудрагоценный камень. Название получил по месту первой его находки на\nодном из островов в Красном море. Окрашенные разновидности постепенно выцветают от\nяркого света?\nC. Топаз\n\n24. Which statement is correct for Latin America and the Caribbean?\nА. decreasing age at childbearing, by decline of child bearing of women at older ages\n\n25. Эндемики какой страны представлены на рисунках?\nC. Новой Зеландия\n\n26. Последствие какого природного явления показано на рисунках?\nD. цунами\n\n27. The contour of which city is shown in Figure?\nE. Rome\n\n28. Какой путешественник проложил данный маршрут?\nD. Марко Поло\n\n29. На топографической карте определите среднюю толщину деревьев смешанного леса?\nE. 0,26\n\n30. Which indigenous peoples are shown in the Figures?\nA. Aymara",
-     "pointsEstimated": true
+     "points": 1,
+     "question": "Назовите вид литосферного движения под обозначением D? А. субдукция В. коллизия C. спрединг D. сдвиг E. рифтинг",
+     "reference": "В. коллизия"
+    },
+    {
+     "id": "1.2",
+     "points": 1,
+     "question": "Какой вид облаков показан на рисунке? A. слоистые B. высоко-кучевые C. кучево-дождевые D. перисто-кучевые E. высоко-слоистые",
+     "reference": "D. перисто-кучевые"
+    },
+    {
+     "id": "1.3",
+     "points": 1,
+     "question": "What lake is indicated in the circle? A. Michigan, B. Huron C. Superior D. Ontario E. Erie",
+     "reference": "D. Ontario"
+    },
+    {
+     "id": "1.4",
+     "points": 1,
+     "question": "Как называется процесс изменения уровня Балтийского моря с древности до современного состояния, показанный на рисунке: A. трансгрессия B. регрессия C. гляциоизостация D. экзарация E. абразия",
+     "reference": "C. гляциоизостация"
+    },
+    {
+     "id": "1.5",
+     "points": 1,
+     "question": "Какая литосферная плита, обозначена цифрой 6 на рисунке? А. Скотия B. Кокос C. Винсон D. Наска E. Дрейка",
+     "reference": "А. Скотия"
+    },
+    {
+     "id": "1.6",
+     "points": 1,
+     "question": "All images show the effect on rainforest of? A. cacao plants B. oil palms C. orange trees D. Rubber trees E. bamboo",
+     "reference": "B. oil palms"
+    },
+    {
+     "id": "1.7",
+     "points": 1,
+     "question": "Какая форма залегания горных пород показана на рисунках? А. антиклиналь В. синклиналь С. геосинклиналь D. антиклинорий E. синклинорий",
+     "reference": "А. антиклиналь"
+    },
+    {
+     "id": "1.8",
+     "points": 1,
+     "question": "Для какой страны характерны достопримечательности? А. Ангола B. Камерун C. Кения D. Мадагаскар E. Намибия",
+     "reference": "E. Намибия"
+    },
+    {
+     "id": "1.9",
+     "points": 1,
+     "question": "What indicator is shown in the Figure? A. dearth rate B. fertility rate C. population density D. environmental pollution E. infant mortality",
+     "reference": "C. population density"
+    },
+    {
+     "id": "1.10",
+     "points": 1,
+     "question": "Какой тип возрастной структуры обозначен под номером 2? А. прогрессивный B. депрессивный C. регрессивный D. стационарный E. прямой",
+     "reference": "D. стационарный"
+    },
+    {
+     "id": "1.11",
+     "points": 1,
+     "question": "Для какой области характерны достопримечательности? А. Алматинская B. Кызылординская C. Мангистауская D. Жамбылская E. Южно-Казахстанская",
+     "reference": "B. Кызылординская"
+    },
+    {
+     "id": "1.12",
+     "points": 1,
+     "question": "Which city is shown on the map? A. Quebec B. Ottawa C. Toronto D. Vancouver E. Montreal",
+     "reference": "C. Toronto"
+    },
+    {
+     "id": "1.13",
+     "points": 1,
+     "question": "Какой вид проекции показан на рисунке? А. цилиндрическая B. псевдоцилиндрическая C. поликоническая D. произвольная E. псевдоазимутальная",
+     "reference": "B. псевдоцилиндрическая"
+    },
+    {
+     "id": "1.14",
+     "points": 1,
+     "question": "Пользуясь данным и таблицы, определите, в каком климатическом поясе находится пункт, каков его тип климата: A. умеренный пояс – морской B. тропический пояс – континентальный C. умеренный пояс – муссонный D. субтропический пояс – средиземноморский E. экваториальный пояс – экваториальный",
+     "reference": "B. тропический пояс – континентальный"
+    },
+    {
+     "id": "1.15",
+     "points": 1,
+     "question": "Which river is shown on the map at number 5? A. Irgiz B. Tobol C. Schiderty D. Nura E. Talas",
+     "reference": "E. Talas"
+    },
+    {
+     "id": "1.16",
+     "points": 1,
+     "question": "Назовите столицу выделенной страны Африки? А. Бамако B. Габороне C. Конакри D. Хартум E. Дакар",
+     "reference": "А. Бамако"
+    },
+    {
+     "id": "1.17",
+     "points": 1,
+     "question": "Водохранилище, расположенное в 60 км от города Актобе по руслу одноименной реки, было введено в эксплуатацию в 1975 году для нужд сельского хозяйства. Планировалось орошать не менее 17 тыс. га сельскохозяйственных угодий посредством подземного канала длиной 18,8 км. A. Алгинское B. Иргизское C. Каргалинское D. Шалкарское E. Уилское",
+     "reference": "C. Каргалинское"
+    },
+    {
+     "id": "1.18",
+     "points": 1,
+     "question": "Which organization is protesting against the construction of wind power plants? А. International Atomic Energy Agency B. Organization of countries - exporters of oil C. Global Environment Facility D. World Society for the Protection of Animals E. European Coal and Steel Community",
+     "reference": "D. World Society for the Protection of Animals"
+    },
+    {
+     "id": "1.19",
+     "points": 1,
+     "question": "По какому критерию объединены представленные ниже страны: A. развитые страны B. прибрежные страны C. новые индустриальные страны D. страны с переходной экономикой E. монархические страны",
+     "reference": "D. страны с переходной экономикой"
+    },
+    {
+     "id": "1.20",
+     "points": 1,
+     "question": "Определите страну, где расположен антипод (точка с противоположными географическими координатами) точки с координатами 51°17′ ю.ш., 77°44′ з.д.? A. Россия B. Казахстан C. Канада D. Бразилия E. Китай",
+     "reference": "B. Казахстан"
+    },
+    {
+     "id": "1.21",
+     "points": 1,
+     "question": "Which economic sector do many small island states rely on to bring in foreign exchange income? A. financial services B. fishery C. mining D. tourism E. ferry operations",
+     "reference": "D. tourism"
+    },
+    {
+     "id": "1.22",
+     "points": 1,
+     "question": "По рисункам определите государственный национальный парк Казахстана? A. Катон-Карагайский B. Каркаралинский C. Сайрам-Угамский D. Баянаульский E. Иле-Алатауский",
+     "reference": "A. Катон-Карагайский"
+    },
+    {
+     "id": "1.23",
+     "points": 1,
+     "question": "Это полудрагоценный камень. Название получил по месту первой его находки на одном из островов в Красном море. Окрашенные разновидности постепенно выцветают от яркого света? A. Янтарь B. Кварц C. Топаз D. Турмалин E. Аметист",
+     "reference": "C. Топаз"
+    },
+    {
+     "id": "1.24",
+     "points": 1,
+     "question": "Which statement is correct for Latin America and the Caribbean? А. decreasing age at childbearing, by decline of child bearing of women at older ages B. decreasing age at childbearing, by postponement of childbearing C. increasing age at childbearing, by decline of childbearing of women at older ages D. increasing age at childbearing, by postponement of childbearing",
+     "reference": "А. decreasing age at childbearing, by decline of child bearing of women at older ages"
+    },
+    {
+     "id": "1.25",
+     "points": 1,
+     "question": "Эндемики какой страны представлены на рисунках? A. Папуа-Новая Гвинея B. Соломоновы острова C. Новой Зеландия D. Тасмания E. Фиджи",
+     "reference": "C. Новой Зеландия"
+    },
+    {
+     "id": "1.26",
+     "points": 1,
+     "question": "Последствие какого природного явления показано на рисунках? A. ураган B. циклон C. наводнение D. цунами E. смерч",
+     "reference": "D. цунами"
+    },
+    {
+     "id": "1.27",
+     "points": 1,
+     "question": "The contour of which city is shown in Figure? A. Madrid B. Amsterdam C. Belgrade D. Munich E. Rome",
+     "reference": "E. Rome"
+    },
+    {
+     "id": "1.28",
+     "points": 1,
+     "question": "Какой путешественник проложил данный маршрут? A. Н. Пржевальский B. П. Семенов Тянь-Шанский C. Васко да Гама D. Марко Поло E. Плано Карпини",
+     "reference": "D. Марко Поло"
+    },
+    {
+     "id": "1.29",
+     "points": 1,
+     "question": "На топографической карте определите среднюю толщину деревьев смешанного леса? A. 0,15 B. 1,2 C. 0,17 D. 0,61 E. 0,26",
+     "reference": "E. 0,26"
+    },
+    {
+     "id": "1.30",
+     "points": 1,
+     "question": "Which indigenous peoples are shown in the Figures? A. Aymara B. Inuit C. Chamorros D. Tuareg E. Sami",
+     "reference": "A. Aymara"
     }
    ]
   }

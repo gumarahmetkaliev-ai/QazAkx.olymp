@@ -7,43 +7,66 @@
  "tasksFile": "olympiads/geography/s/ieso/2016/ieso-pt-energy.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T19:25:53.087Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:50:45.130Z",
  "quality": {
   "tasks": 2,
-  "parts": 2,
-  "withPoints": 2,
+  "parts": 5,
+  "withPoints": 5,
   "withReference": 0,
-  "withQuestion": 2,
-  "estimatedPoints": 2
+  "withQuestion": 5,
+  "estimatedPoints": 5
  },
  "tasks": [
   {
    "number": 1,
-   "title": "1-1. The total area of the solar panel system you observed is 365.4…",
-   "statement": "1-1. The total area of the solar panel system you observed is 365.4 m​2​. Calculate the\ntotal solar radiation per second that the solar panel system absorbed. The answer should\nbe rounded off to the first decimal place.\n\n1-2. Calculate the percentage of solar radiation energy that can be converted to electrical\nenergy by the solar panel system. The answer should be rounded off to the first decimal\nplace.",
-   "total": 7,
+   "title": "Input values you observed",
+   "weight": 3,
+   "total": 3,
+   "statement": "Introduction (in common with the test on meteorological observation)\nA solar panel converts solar energy to electrical power by absorbing solar radiation. A wind turbine also converts solar energy to electrical power, because the source of wind’s kinetic energy is solar energy. As explained in the figure, part of solar radiation from the sun is reflected back toward the space. The rest is absorbed by the atmosphere or the surface of the earth and then converted to thermal energy. The thermal energy finally escapes to the space in a form of infrared radiation. In the test on meteorological observation, those values are measured. In the test on renewable energy, efficiency of energy conversion of a solar panel and wind turbine is calculated.",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "0-1",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Solar radiation absorbed by the solar panel system per second per unit area (unit: watt per square meter or W/m2)",
+     "reference": ""
+    },
+    {
+     "id": "0-2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Electric power generation by the solar panel system per second (unit: watt or W)",
+     "reference": ""
+    },
+    {
+     "id": "0-3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Rotation rate of blade of the wind turbine (unit: rotation per minute)",
      "reference": ""
     }
    ]
   },
   {
    "number": 2,
-   "title": "A conversion table from the rotation rate of the wind turbine to the…",
-   "statement": "A conversion table from the rotation rate of the wind turbine to the wind speed as well\nas power generation by the wind turbine is provided in the exam room. If there is no\nrotation, the rotation rate will be given by the supervisor of the exam.\n\n2-1. By using the following mathematical formula, calculate the kinetic energy of the air\nthat passes a circle swept by the rotating blades of a wind turbine per second:\n0.5 × ρ × π × r​2​ × V​3\nHere, ρ is air density (1.2 kg/m​3​), π is the ratio of the circumference of a circle to its\ndiameter (use 3.14), r is the radius of the circle (33.0 m), and V is the wind speed that\nyou converted from the rotation rate. The unit is watt. The answer should be rounded off\nto the first decimal place.\n\n2-2. Convert the observed rotation rate to the electrical power generation of the wind\nturbine by using the conversion table. In this condition, calculate the percentage of wind\nenergy that can be converted to electrical energy by the wind turbine. The answer\nshould be rounded off to the first decimal place.",
-   "total": 7,
+   "title": "Wind Turbine Efficiency",
+   "weight": 2,
+   "total": 2,
+   "statement": "A conversion table from the rotation rate of the wind turbine to the wind speed as well as power generation by the wind turbine is provided in the exam room. If there is no rotation, the rotation rate will be given by the supervisor of the exam.",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "2-1",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "By using the following mathematical formula, calculate the kinetic energy of the air that passes a circle swept by the rotating blades of a wind turbine per second:\n0.5 × ρ × π × r2 × V3\nHere, ρ is air density (1.2 kg/m3), π is the ratio of the circumference of a circle to its diameter (use 3.14), r is the radius of the circle (33.0 m), and V is the wind speed that you converted from the rotation rate. The unit is watt. The answer should be rounded off to the first decimal place.",
+     "reference": ""
+    },
+    {
+     "id": "2-2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Convert the observed rotation rate to the electrical power generation of the wind turbine by using the conversion table. In this condition, calculate the percentage of wind energy that can be converted to electrical energy by the wind turbine. The answer should be rounded off to the first decimal place.",
      "reference": ""
     }
    ]

@@ -7,10 +7,10 @@
  "tasksFile": "olympiads/geography/s/ieso/2017/ieso-pt4-questions.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T19:25:52.660Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:49:25.636Z",
  "quality": {
-  "tasks": 11,
+  "tasks": 1,
   "parts": 11,
   "withPoints": 11,
   "withReference": 0,
@@ -20,165 +20,86 @@
  "tasks": [
   {
    "number": 1,
-   "title": "The outcrop B corresponds to… (one possible answer) 1- a sedimentary…",
-   "statement": "The outcrop B corresponds to… (one possible answer)\n1- a sedimentary rock characterized by successive beds marking a stratification.\n2- a volcanic rock characterized by a uniform appearance and having scattered minerals (around 1\nmm).\n3- a plutonic rock with a massive appearance consisting solely of cohesive minerals (3-6 mm).\n4- a metamorphic rock whose major deformation is revealed by its schistosity.",
-   "total": 7,
+   "title": "PRACTICAL TEST : LA BOUILLIDE - QUESTION FORM",
+   "weight": 11,
+   "total": 11,
+   "statement": "Below is a list of questions. Read all the instructions carefully and complete the answer section at the end of the file.",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.1",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 1: The outcrop B corresponds to… (one possible answer)\n1- a sedimentary rock characterized by successive beds marking a stratification.\n2- a volcanic rock characterized by a uniform appearance and having scattered minerals (around 1 mm).\n3- a plutonic rock with a massive appearance consisting solely of cohesive minerals (3-6 mm).\n4- a metamorphic rock whose major deformation is revealed by its schistosity.",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 2,
-   "title": "The rock forming outcrop B… (several possible answers) 1- is a…",
-   "statement": "The rock forming outcrop B… (several possible answers)\n1- is a succession of limestone beds.\n2- is a succession of limestone and clay beds.\n3- shows non-crystallized silica nodules called flint.\n4- is a magmatic rock.\n5- is intersected by a horizontal intrusion of basalt.\n6- is a schist.",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.2",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 2: The rock forming outcrop B… (several possible answers)\n1- is a succession of limestone beds.\n2- is a succession of limestone and clay beds.\n3- shows non-crystallized silica nodules called flint.\n4- is a magmatic rock.\n5- is intersected by a horizontal intrusion of basalt.\n6- is a schist.",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 3,
-   "title": "From the structural symbols below, choose the one that best matches…",
-   "statement": "From the structural symbols below, choose the one that best matches your\nmeasurements on the outcrop B: (one possible answer)\n\n1-            20°                     4-                            7-\n                                                 70°                              45°\n                                                                                               N\n\n2-                                    5-                            8-\n                                                                            70°\n                                           45°\n        70°\n3-                                    6-                            9-\n      20°                                        20°\n\n                                                                               20°",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.3",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 3: From the structural symbols below, choose the one that best matches your measurements on the outcrop B: (one possible answer)\n1- 20°\n2- 70°\n3- 20°\n4- 70°, 45°, N\n5- 45°\n6- 20°\n7- 45°\n8- 70°\n9- 20°",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 4,
-   "title": "The rock presented on outcrop A… (several answers possible) 1- is…",
-   "statement": "The rock presented on outcrop A… (several answers\npossible)\n1- is identical to that of outcrop B.\n2- is different from that of outcrop B.\n3- shows flint nodules in contrast to outcrop B.\n4- contains igneous intrusions.\n\n                                                 1/3",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "4",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.4",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 4: The rock presented on outcrop A… (several answers possible)\n1- is identical to that of outcrop B.\n2- is different from that of outcrop B.\n3- shows flint nodules in contrast to outcrop B.\n4- contains igneous intrusions.",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 5,
-   "title": "Site A has been identified as a brittle deformation zone. Select the…",
-   "statement": "Site A has been identified as a brittle deformation zone. Select the description\nthat matches your observations. (one answer only)\n1- The dips in the layers between site A and site B are different by more than 10 degrees.\n2- Several changes in lithology are observed at a nearby altitude.                   What are the cargneules ?\n3- The presence of cargneule is observed at site B.                                   See the last page of your\n4- The rock at the site is fractured, it is a breccia.                                       notebook\n5- The rock has other indications of brittle deformation.\n6- Fracture planes are visible and can be seen as indications of relative movement of the rock\nblocks.",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "5",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.5",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 5: Site A has been identified as a brittle deformation zone. Select the description that matches your observations. (one answer only)\n1- The dips in the layers between site A and site B are different by more than 10 degrees.\n2- Several changes in lithology are observed at a nearby altitude.\n3- The presence of cargneule is observed at site B.\n4- The rock at the site is fractured, it is a breccia.\n5- The rock has other indications of brittle deformation.\n6- Fracture planes are visible and can be seen as indications of relative movement of the rock blocks.",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 6,
-   "title": "Among the diagrams below, indicate the one that best corresponds to…",
-   "statement": "Among the diagrams below, indicate the one that best corresponds to your\nobservations. (Only one answer possible)\n                                                                                          Site A\n                     Clay           Site A                   Site B\n1-      Site B                                      4-\n\n                                                                                                   Clay\n\n                                    Site A                                      Site A\n        Site B                                               Site B\n2-                                                  5-\n                            Clay\n\n                                                                                Clay\n\n                                       Site A\n3-      Site B\n                                                                                       Site A\n                                                               Site B\n                                                    6-\n                            Clay                                                                      Clay",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "6",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.6",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 6: Among the diagrams below, indicate the one that best corresponds to your observations. (Only one answer possible)\n1- Site B, Site A, Clay\n2- Site B, Site A, Clay\n3- Site B, Site A, Clay\n4- Site A, Site B, Clay\n5- Site A, Site B, Clay\n6- Site B, Site A, Clay",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 7,
-   "title": "The presence of clay is noted on the surface. Its initial position…",
-   "statement": "The presence of clay is noted on the surface. Its initial position deduced from\nthe field observation indicates that… (several answers possible)\n1- the rocks of the Bathonian (167 Ma) are an unconfined aquifer that allows a river to form.\n2- the rocks of the Bajocian (171 Ma) are an unconfined aquifer that allows a river to form.\n3- the significant folding of the layers allows the creation of reservoirs made watertight by the\npresence of clay.\n4- the underlaying clay along the fault indicates that there is a layer of underground clay.",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "7",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.7",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 7: The presence of clay is noted on the surface. Its initial position deduced from the field observation indicates that… (several answers possible)\n1- the rocks of the Bathonian (167 Ma) are an unconfined aquifer that allows a river to form.\n2- the rocks of the Bajocian (171 Ma) are an unconfined aquifer that allows a river to form.\n3- the significant folding of the layers allows the creation of reservoirs made watertight by the presence of clay.\n4- the underlaying clay along the fault indicates that there is a layer of underground clay.",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 8,
-   "title": "Fill in the table with the values measured at site C. (see answer…",
-   "statement": "Fill in the table with the values measured at site C. (see answer sheet)",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "8",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.8",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 8: Fill in the table with the values measured at site C. (see answer sheet)",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 9,
-   "title": "At site C, the map indicates the presence of a spring. Choose the…",
-   "statement": "At site C, the map indicates the presence of a spring. Choose the correct\nstatement for the scenario:\n1- The spring is at the same level as the river. The waters mix in the bed of the river.\n2- The spring is at a higher level than the river. The spring flows into the river.\n3- The spring is at a lower level than the river. It does not act as a source. The river water partially\nescapes from its bed.\n\n                                                  2/3",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "9",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.9",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 9: At site C, the map indicates the presence of a spring. Choose the correct statement for the scenario:\n1- The spring is at the same level as the river. The waters mix in the bed of the river.\n2- The spring is at a higher level than the river. The spring flows into the river.\n3- The spring is at a lower level than the river. It does not act as a source. The river water partially escapes from its bed.",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 10,
-   "title": "On the answer sheet, mark the positions of the 4 sites where you made…",
-   "statement": "On the answer sheet, mark the positions of the 4 sites where you made your\n    measurements and observations using the cross section below. (numbers can be used\n    multiple times, once or not at all.)\n\n                                                         Bouillide            Bouillide\n        SW                                                river                river              NE\n\n                                       1      2     3        4       5                6          7\nWater\ntable\n\n                                                     Upper Bajocian (170Ma)                     Fault\n             Upper Bathonian (166Ma)                 Lower Bajocian (172Ma)\n             Lower Bathonian (168Ma)                 Hettangian (200Ma)          0             500m\n                                                     Triassic (250Ma)",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "10",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.10",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 10: On the answer sheet, mark the positions of the 4 sites where you made your measurements and observations using the cross section below. (numbers can be used multiple times, once or not at all.)",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 11,
-   "title": "Using the data from the site and the cross section above, select the…",
-   "statement": "Using the data from the site and the cross section above, select the best\n    hypothesis to explain the difference in the level of the river along its course through the\n    park.\n    1- The presence of a fault allows the water to escape or reappear at random along the course of\n    the Bouillide.\n    2- The folding of the area raises the base of the aquifer, which brings the water out of the\n    ground.\n    3- A collapse basin has retained a layer of shallow clay at the level of Bouillide Park. The water\n    emerges from underground when it reaches this layer.\n\n                                                   3/3",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "11",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.11",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 11: Using the data from the site and the cross section above, select the best hypothesis to explain the difference in the level of the river along its course through the park.\n1- The presence of a fault allows the water to escape or reappear at random along the course of the Bouillide.\n2- The folding of the area raises the base of the aquifer, which brings the water out of the ground.\n3- A collapse basin has retained a layer of shallow clay at the level of Bouillide Park. The water emerges from underground when it reaches this layer.",
      "reference": ""
     }
    ]

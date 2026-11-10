@@ -7,193 +7,68 @@
  "tasksFile": "olympiads/astronomy/s/ioaa/2011/astro-3-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T18:02:26.100Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:18:16.389Z",
  "quality": {
-  "tasks": 12,
-  "parts": 12,
-  "withPoints": 12,
+  "tasks": 3,
+  "parts": 4,
+  "withPoints": 4,
   "withReference": 0,
-  "withQuestion": 12,
-  "estimatedPoints": 12
+  "withQuestion": 4,
+  "estimatedPoints": 4
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
-   "statement": "You will receive in your envelope an English and native language version of the questions.",
-   "total": 7,
+   "title": "Transit of HD209458",
+   "weight": 30,
+   "total": 30,
+   "statement": "A transit of duration 180 minutes was observed for a planet which orbits the star HD209458 with a period of 84 hours. The Doppler shift of absorption lines arising in the planet's atmosphere was also measured, corresponding to a difference in radial velocity of 30 km/s (with respect to observer) between the beginning and the end of the transit. Assuming a circular orbit exactly edge-on to the observer, find the approximate radius and mass of the star and the radius of the orbit of the planet.",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.1",
+     "points": 30,
      "pointsEstimated": true,
+     "question": "Find the approximate radius and mass of the star and the radius of the orbit of the planet.",
      "reference": ""
     }
    ]
   },
   {
    "number": 2,
-   "title": "Задача 2",
-   "statement": "You have 5 hours to solve 15 short (tasks 1-15) and 3 long tasks.",
-   "total": 7,
+   "title": "Galaxy in a cluster at z = 0.500",
+   "weight": 30,
+   "total": 30,
+   "statement": "Within the field of a galaxy cluster at a redshift of z = 0.500, a galaxy which looks like a normal elliptical is observed, with an apparent magnitude in the B filter mB = 20.40 mag.\n\nThe luminosity distance corresponding to a redshift of z = 0.500 is dL = 2754 Mpc.\nThe spectral energy distribution (SED) of elliptical galaxies in the wavelength range 250 nm to 500 nm is adequately approximated by the formula:\nLλ (λ) ∝ λ4\n(i.e., the spectral density of the object's luminosity, known also as the monochromatic luminosity, is proportional to λ4.)\n\nHints: Try to establish a relation that describe the dependence of the spectral density of flux on distance for small wavelength interval. Normal elliptical galaxies have maximum absolute magnitude equal to -22 mag.",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "2.1",
+     "points": 15,
      "pointsEstimated": true,
+     "question": "What is the absolute magnitude of this galaxy in the B filter?",
+     "reference": ""
+    },
+    {
+     "id": "2.2",
+     "points": 15,
+     "pointsEstimated": true,
+     "question": "Can it be a member of this cluster? (write YES or NO alongside your final calculation)",
      "reference": ""
     }
    ]
   },
   {
    "number": 3,
-   "title": "Задача 3",
-   "statement": "You can use only the pen given on the desk.",
-   "total": 7,
+   "title": "Two solar mass stars proper motion",
+   "weight": 30,
+   "total": 30,
+   "statement": "The planetarium program 'Guide' gives the following data for two solar mass stars:\n\nStar 1:\nRight Ascension: 14 h 29 m 44.95 s\nDeclination: –62º 40′ 46.14″\nDistance: 1.2953 pc\nProper motion in R.A.: –3.776 arcsec / year\nProper motion in Dec.: 0.95 arcsec / year\n\nStar 2:\nRight Ascension: 14 h 39 m 39.39 s\nDeclination: –60 50′ 22.10″\nDistance: 1.3475 pc\nProper motion in R.A.: –3.600 arcsec / year\nProper motion in Dec.: 0.77 arcsec / year\n\nBased on these data, determine whether these stars form a gravitationally bound system. Assume the stars are on the main sequence. Write YES of bound or NO if not bound alongside your final calculation.\nNote: the proper motion in R.A. has been corrected for the declination of the stars.",
    "parts": [
     {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "3.1",
+     "points": 30,
      "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 4,
-   "title": "Задача 4",
-   "statement": "The solutions of each task should be written on the answer sheets, starting each question on a\n   new page. Only the answer sheets will be assessed.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "4",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 5,
-   "title": "Задача 5",
-   "statement": "You may use the blank sheets for additional working. These work sheets will not be assessed",
-   "total": 7,
-   "parts": [
-    {
-     "id": "5",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 6,
-   "title": "Задача 6",
-   "statement": "At the top of each page you should put down your code and task number.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "6",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 7,
-   "title": "Задача 7",
-   "statement": "If solution exceeds one page, please number the pages for each task.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "7",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 8,
-   "title": "Задача 8",
-   "statement": "Draw a box around your final answer.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "8",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 9,
-   "title": "Задача 9",
-   "statement": "Numerical results should be given with appropriate number of significant digits with units.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "9",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 10,
-   "title": "Задача 10",
-   "statement": "You should use SI or units commonly used in astronomy. Points will be deducted if there is a lack\n    of units or inappropriate number of significant digits.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "10",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 11,
-   "title": "Задача 11",
-   "statement": "At the end of test, all sheets of papers should be put into the envelope and left on the desk.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "11",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 12,
-   "title": "Задача 12",
-   "statement": "In your solution please write down each step and partial result.\n\n                                                                                                   v3\n\n                       Long theoretical questions (max 30 points each)",
-   "total": 7,
-   "parts": [
-    {
-     "id": "12",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
+     "question": "Determine whether these stars form a gravitationally bound system. Write YES of bound or NO if not bound alongside your final calculation.",
      "reference": ""
     }
    ]

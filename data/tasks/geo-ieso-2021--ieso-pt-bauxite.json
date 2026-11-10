@@ -7,28 +7,108 @@
  "tasksFile": "olympiads/geography/s/ieso/2021/ieso-pt-bauxite.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "whole-document",
- "generatedAt": "2026-11-09T19:25:51.662Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:39:44.489Z",
  "quality": {
-  "tasks": 1,
-  "parts": 1,
-  "withPoints": 1,
+  "tasks": 2,
+  "parts": 11,
+  "withPoints": 11,
   "withReference": 0,
-  "withQuestion": 1,
-  "estimatedPoints": 1
+  "withQuestion": 11,
+  "estimatedPoints": 11
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задания тура",
-   "statement": "Data Mining Test                                   CASA STUDY #2\n\nInvestigation in an old Bauxite mine in Provence (France)\n\n                                                                                Provence, France\n\nFigure 1 : Your field investigation area!.\nAluminium ore was identified in 1821 in the South of France and named Bauxite after the village where it was\ndiscovered.\n\nBauxite was mined throughout the 20th Century in Provence. The miners were nicknamed ‘Gueules\nrouges’ (red faces) because they came out of the mine totally covered in red bauxite dust.\nAlthough it provided work and a certain prosperity to the ‘Gueules rouges’, the extraction of the\nore ceased in the early 1990s.\nSince then, France and Europe continue to manufacture aluminium and import bauxite, which has\na significant environmental cost!\n\nMain goal of the case study > You are a young scientist and your mission is to understand, and\nthen to explain why bauxite is no longer mined in the South of France.\n\nTo answer this question, you will have to investigate several outcrops (step 1); to design and\ninterpret a geologic map (step 2); and to explore the museum resources (step 3).\n\nOnline resources available for this test:\n\nweb interface: (temporary link)\n      https://mourau.pagesperso-orange.fr/VFT_BauxiteIESOV3/\n\nWhen you see this sign : you have to access and/or to analyse data online\n\nWhen you see this sign: you have to answer the question\n\n                                                      1\n\n Access to the web interface.\n    https://mourau.pagesperso-orange.fr/VFT_BauxiteIESOV3/\n\nCarefully read the tutorial before starting the investigation.\n\nPart 1 : EXPLORE outcrops in the old mine area\n\nOn the web interface, some outcrops and sensors can be discovered.\nThese discovery points are listed on the cross section which you have to complete throughout\nyour investigation.\n\nDownload this document (geological cross section), print it, and locate on the cross-section\nthe outcrops and sensors to be discovered.\n\nQuestion 1: [only one answer is correct]\nLet us begin by looking at the piezometers (P1 at BaseCamp, and P2 at Equireuil quarry).\nRead the water level in each piezometer well.\n\nLevel of the water surface table at P1 and P2 :\n1A: less than 50m\n1B: about 50m\n1C: about 100m\n1D: more than 150m\n\n                                                     2\n\n On your geological cross section, indicate the level of the water at these two spots.\n\nNow, it is time to explore all the outcrops of this area.\nSome outcrops have been selected for your investigation. For each outcrop, you have to look at\nthe rocks, test a sample with the virtual tools, and identify the sample with the fossils/rock\nidentification keys.\n\nQuestion 2 : [only one answer is correct for each rock sample]\nIndicate at which site on the field you have found each rock of the identification key.\n\nMarl : E1, E2, E3, E4, V1, V2\nDolomitic limestone : E1, E2, E3, E4, V1, V2\nReefal limestone : E1, E2, E3, E4, V1, V2\nBioclastic limestone : E1, E2, E3, E4, V1, V2\nSandstone : E1, E2, E3, E4, V1, V2\nBauxite : E1, E2, E3, E4, V1, V2\n\n Plot the result of your rock identification on your geological cross-section.\n\nQuestion 3 : [only one answer is correct]\nThe sandstone outcrop in this study area effervesces in hydrochloric acid. How do you explain this\nchemical reaction?\n\n3A: The sand grains are calcific and naturally effervesce with hydrochloric acid\n3B: The sand grains are siliceous and naturally effervesce in hydrochloric acid\n3C: The sand grains are siliceous and are embedded in a calcific cement\n3D: Hydrochloric acid detects the presence of aluminium (effervescence)\n\nQuestion 4 : [More than one answer is correct]\nBack to the BaseCamp. Look at Coniacian limestone outcrops. The observed landscape is defined\nas a karst. Choose the correct answers.\n\n4A: The limestone shows many cracks as a result of dissolution of calcite by acid rainwater over\ntime.\n4B: Limestone is porous and retains a lot of water on the surface. This means that on limestone\nsoils, vegetation always finds a very moist soil.\n4C: Limestone is a good aquifer because water seeps easily into the cracks on the surface and\nforms large water reservoirs at depth.\n4D: The little cracks observed on the rocks are active faults which are quite common in this region,\nwhich is impacted by large tectonic movements.\n\nQuestion 5 : [Only one answer is correct]\nFinding the entrance to the bauxite mine. Let's explore the outcrop at the mine entrance a little\nfurther.\n\n5A: The colour of the outcrop shows conditions of deposition in a deep marine environment,\nwhich was poor in oxygen (anoxic) at the end of the Jurassic.\n\n                                                   3\n\n5B: Bauxite deposition occurred in two stages, a fossil-rich marine environment and then (later) a\nmore continental environment at the end of the Jurassic.\n5C: Within the bauxite outcrop, there is a period of marine transgression responsible for a\nfossiliferous and organic rich deposit.\n5D: The bauxite deposit indicates a change in the sedimentation environment. The environment\nbecomes more continental at the end of the Jurassic.\n\nQuestion 6 : [only one answer is correct]\nThe study of the others outcrops and the rocks observed give us valuable arguments for\nreconstructing the paleogeography of the site.\n\nChoose the correct answer:\n6A: At outcrop E3, we find blackish elements inserted in the rock, indicating sedimentation in a\ncontinental environment.\n6B: At outcrop E2, the presence of the fossils encountered clearly indicates a deep-sea\nsedimentary environment.\n6C: Outcrop E1 is rich in fossiliferous rocks. These fossils are characteristic of a very deep marine\nsedimentary environment.\n6D: The friable grey rock at outcrop E4 shows that the sedimentary environment has become\nincreasingly continental\n\nQuestion 7 : It is time to complete the geological cross-section\n\nColour the cross-section and its legend with the colours of the geological map. Then\ncomplete the legend with the name of each rock and its age.\n    Upload your document on the answer sheet online (.jpeg file)\n\nPart 2 : Learn more about the history of bauxite formation and ore mining\n\n Visit the mine museum!\nEnter in the museum ‘Les Gueules rouges’.\n\nYou have two access points:\n   - Go to the first floor to discover scientific resources on bauxite. You will find information\n       about bauxite formation, mining, and economy.\n   - Go down to the mine and discover the old mining tools, galleries, and some aspects of\n       bauxite mining.\n\nQuestion 8 : [Only one answer is correct]\nIn which climate(s) can bauxite formation occur?\n\n8A : a humid tropical climate\n8B : a cold continental climate\n8C : a temperate climate\n8D : an equatorial climate\n\n                                                   4\n\nQuestion 9 : [Only one answer is correct]\nWhich rocks are responsible for the formation of bauxite?\n\n9A : Limestone\n9B : Sandstone\n9C : Magmatic rocks\n9D : Marl\n\nQuestion 10 : [More than one answer is correct]\nWhat factors facilitated the formation and deposit of bauxite in Provence during the early\nCretaceous period?\n\n10A : A marine transgression during Cretaceous covers the bauxite deposits formed in a temperate\nclimate in the Upper Jurassic.\n10B: Bauxite deposits formed in a humid tropical climate are concentrated in Jurassic karstified\nlimestone.\n10C: Provence was in a tropical zone during the Jurassic period, which facilitated the formation of\nbauxite from the erosion of Jurassic limestone.\n10D: The bauxite deposits indicate a period of emersion of the Provençal granitic basement rapidly\ncovered by the sediments of a sea in the Cretaceous.\n\nQuestion 11 : [More than one answer is correct]\nBauxite mining has been stopped in Provence. The reasons for this end to the exploitation of the\nore can be found in the mine. See you in the mine!\n\nChoose the correct answers:\n\n11A: The exploitation was very intense, there is not much ore left for economic mining.\n11B : The exploitation of bauxite in Provence was competed by other mines also located in the\nkarstic environment.\n11C: Today, bauxite mining is carried out on the surface in a lateritic environment in a humid\ntropical climate.\n11D: In the lower layers of the quarries, the water in this karst environment has to be constantly\npumped to the surface.\n\n                                                  5",
-   "total": 10,
+   "title": "Part 1 : EXPLORE outcrops in the old mine area",
+   "weight": 1,
+   "total": 7,
+   "statement": "On the web interface, some outcrops and sensors can be discovered. These discovery points are listed on the cross section which you have to complete throughout your investigation. Download this document (geological cross section), print it, and locate on the cross-section the outcrops and sensors to be discovered.",
    "parts": [
     {
-     "id": "1",
-     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
-     "points": 10,
+     "id": "1.1",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Let us begin by looking at the piezometers (P1 at BaseCamp, and P2 at Equireuil quarry). Read the water level in each piezometer well. Level of the water surface table at P1 and P2 :\n1A: less than 50m\n1B: about 50m\n1C: about 100m\n1D: more than 150m",
+     "reference": ""
+    },
+    {
+     "id": "1.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Indicate at which site on the field you have found each rock of the identification key.\nMarl : E1, E2, E3, E4, V1, V2\nDolomitic limestone : E1, E2, E3, E4, V1, V2\nReefal limestone : E1, E2, E3, E4, V1, V2\nBioclastic limestone : E1, E2, E3, E4, V1, V2\nSandstone : E1, E2, E3, E4, V1, V2\nBauxite : E1, E2, E3, E4, V1, V2",
+     "reference": ""
+    },
+    {
+     "id": "1.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "The sandstone outcrop in this study area effervesces in hydrochloric acid. How do you explain this chemical reaction?\n3A: The sand grains are calcific and naturally effervesce with hydrochloric acid\n3B: The sand grains are siliceous and naturally effervesce in hydrochloric acid\n3C: The sand grains are siliceous and are embedded in a calcific cement\n3D: Hydrochloric acid detects the presence of aluminium (effervescence)",
+     "reference": ""
+    },
+    {
+     "id": "1.4",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Back to the BaseCamp. Look at Coniacian limestone outcrops. The observed landscape is defined as a karst. Choose the correct answers.\n4A: The limestone shows many cracks as a result of dissolution of calcite by acid rainwater over time.\n4B: Limestone is porous and retains a lot of water on the surface. This means that on limestone soils, vegetation always finds a very moist soil.\n4C: Limestone is a good aquifer because water seeps easily into the cracks on the surface and forms large water reservoirs at depth.\n4D: The little cracks observed on the rocks are active faults which are quite common in this region, which is impacted by large tectonic movements.",
+     "reference": ""
+    },
+    {
+     "id": "1.5",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Finding the entrance to the bauxite mine. Let's explore the outcrop at the mine entrance a little further.\n5A: The colour of the outcrop shows conditions of deposition in a deep marine environment, which was poor in oxygen (anoxic) at the end of the Jurassic.\n5B: Bauxite deposition occurred in two stages, a fossil-rich marine environment and then (later) a more continental environment at the end of the Jurassic.\n5C: Within the bauxite outcrop, there is a period of marine transgression responsible for a fossiliferous and organic rich deposit.\n5D: The bauxite deposit indicates a change in the sedimentation environment. The environment becomes more continental at the end of the Jurassic.",
+     "reference": ""
+    },
+    {
+     "id": "1.6",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "The study of the others outcrops and the rocks observed give us valuable arguments for reconstructing the paleogeography of the site. Choose the correct answer:\n6A: At outcrop E3, we find blackish elements inserted in the rock, indicating sedimentation in a continental environment.\n6B: At outcrop E2, the presence of the fossils encountered clearly indicates a deep-sea sedimentary environment.\n6C: Outcrop E1 is rich in fossiliferous rocks. These fossils are characteristic of a very deep marine sedimentary environment.\n6D: The friable grey rock at outcrop E4 shows that the sedimentary environment has become increasingly continental",
+     "reference": ""
+    },
+    {
+     "id": "1.7",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "It is time to complete the geological cross-section. Colour the cross-section and its legend with the colours of the geological map. Then complete the legend with the name of each rock and its age.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Part 2 : Learn more about the history of bauxite formation and ore mining",
+   "weight": 1,
+   "total": 4,
+   "statement": "Visit the mine museum! Enter in the museum ‘Les Gueules rouges’. You have two access points: - Go to the first floor to discover scientific resources on bauxite. You will find information about bauxite formation, mining, and economy. - Go down to the mine and discover the old mining tools, galleries, and some aspects of bauxite mining.",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "In which climate(s) can bauxite formation occur?\n8A : a humid tropical climate\n8B : a cold continental climate\n8C : a temperate climate\n8D : an equatorial climate",
+     "reference": ""
+    },
+    {
+     "id": "2.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which rocks are responsible for the formation of bauxite?\n9A : Limestone\n9B : Sandstone\n9C : Magmatic rocks\n9D : Marl",
+     "reference": ""
+    },
+    {
+     "id": "2.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "What factors facilitated the formation and deposit of bauxite in Provence during the early Cretaceous period?\n10A : A marine transgression during Cretaceous covers the bauxite deposits formed in a temperate climate in the Upper Jurassic.\n10B: Bauxite deposits formed in a humid tropical climate are concentrated in Jurassic karstified limestone.\n10C: Provence was in a tropical zone during the Jurassic period, which facilitated the formation of bauxite from the erosion of Jurassic limestone.\n10D: The bauxite deposits indicate a period of emersion of the Provençal granitic basement rapidly covered by the sediments of a sea in the Cretaceous.",
+     "reference": ""
+    },
+    {
+     "id": "2.4",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Bauxite mining has been stopped in Provence. The reasons for this end to the exploitation of the ore can be found in the mine. See you in the mine! Choose the correct answers:\n11A: The exploitation was very intense, there is not much ore left for economic mining.\n11B : The exploitation of bauxite in Provence was competed by other mines also located in the karstic environment.\n11C: Today, bauxite mining is carried out on the surface in a lateritic environment in a humid tropical climate.\n11D: In the lower layers of the quarries, the water in this karst environment has to be constantly pumped to the surface.",
      "reference": ""
     }
    ]

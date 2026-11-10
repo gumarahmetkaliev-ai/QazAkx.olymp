@@ -7,103 +7,125 @@
  "tasksFile": "olympiads/astronomy/s/ioaa/2017/astro-2-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:55:00.688Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:15:21.298Z",
  "quality": {
-  "tasks": 6,
-  "parts": 6,
-  "withPoints": 6,
+  "tasks": 7,
+  "parts": 7,
+  "withPoints": 7,
   "withReference": 0,
-  "withQuestion": 6,
-  "estimatedPoints": 6
+  "withQuestion": 7,
+  "estimatedPoints": 7
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
-   "statement": "Do not open the exam envelop yourself.",
-   "total": 7,
+   "title": "Naked eye observation from real sky with panoramic 360-degrees image",
+   "weight": 10,
+   "total": 10,
+   "statement": "Included:\n- Panoramic 360-degrees image of the sky at night at an unknown location\n- Computer screen\n- Keypad to pan around the image\n- Coordinates of bright stars",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Estimate the LST (Local Sidereal Time) at the time the image was taken, rounded to nearest hour",
      "reference": ""
     }
    ]
   },
   {
    "number": 2,
-   "title": "Задача 2",
-   "statement": "This part of the exam consists of 7* problems located in separate exam\n   stations.",
-   "total": 7,
+   "title": "Planet observation with real sky in panoramic 360-degrees image",
+   "weight": 10,
+   "total": 10,
+   "statement": "Included:\n- A panoramic 360-degrees image of the sky at night at an unknown location\n- Computer screen\n- Keypad to pan around the image",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "2.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Count the number of planets visible in this image above the horizon and name the constellations they’re in (with IAU designations).",
      "reference": ""
     }
    ]
   },
   {
    "number": 3,
-   "title": "Задача 3",
-   "statement": "You have 5 minutes to complete each problem.",
-   "total": 7,
+   "title": "Analemma on another planet",
+   "weight": 10,
+   "total": 10,
+   "statement": "Included:\n- A generated analemma (position of a Star taken from the surface of a planet with interval separated by mean solar day of the planet over an orbital period around a Star) of a fictitious planet orbiting around a Star.\n- Result is graphed on a paper with each major grid representing 5°",
    "parts": [
     {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "3.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Find the Obliquity (Axial Tilt) of the planet",
      "reference": ""
     }
    ]
   },
   {
    "number": 4,
-   "title": "Задача 4",
-   "statement": "After “out of time” is signaled, stop all actions and remain at the same\n   station.",
-   "total": 7,
+   "title": "Exposure time from a Photograph",
+   "weight": 10,
+   "total": 10,
+   "statement": "Included:\n- A “Star Trails” image that was taken by a still camera capturing image over a period of time.\n- Ruler",
    "parts": [
     {
-     "id": "4",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "4.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Estimate an exposure time of a given “Star Trails” image.",
      "reference": ""
     }
    ]
   },
   {
    "number": 5,
-   "title": "Задача 5",
-   "statement": "After “next station” is signaled, proceed to the next exam station and hand\n   the exam envelope to the station’s proctor.",
-   "total": 7,
+   "title": "Find True North from Moon shadow",
+   "weight": 10,
+   "total": 10,
+   "statement": "Included:\n- Simulated position of moon shadows of a pole at certain intervals in the span of a day.\n- The observer is located in the Southern hemisphere at latitude 27°S.\n- The moon’s declination that night is +15°\n- Ruler, Compass (drawing tool), Geometry kit",
    "parts": [
     {
-     "id": "5",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "5.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Draw an arrow pointing North in the data sheet",
      "reference": ""
     }
    ]
   },
   {
    "number": 6,
-   "title": "Задача 6",
-   "statement": "Use only blue pen to mark into the answer sheets provided. Any answers\n   written in the answer sheet at the end of timer is considered final and will\n   be graded towards the final score.\n\n* Number of problems will be reduced to 5 if night observation was successful\n\n                                                                                Page 1 of 1\n\n                                                                           Student Code:\n\n                       Observational Examination (Night)                   ☐☐☐-☐\nP1: Naked eye observation from real sky with\npanoramic 360-degrees image\nInstruction: Estimate the LST (Local Sidereal Time) at the time the image was taken, rounded to\nnearest hour\n\nIncluded:\n- Panoramic 360-degrees image of the sky at night at an unknown location\n- Computer screen\n- Keypad to pan around the image\n- Coordinates of bright stars\n\n Name                    Bayer Designation       Declination (Dec)      Right Ascension\n                                                                        (RA)\n Rigil Kentaurus         α Cen                   –60° 50′ 02.3737″      14h 39m 36.5s\n Arcturus                α Boo                   +19° 10′ 56″           14h 15m 39.7s\n Vega                    α Lyr                   +38° 47′ 01″           18h 36m 56.3s\n Capella                 α Aur                   +45° 59′ 53″           05h 16m 41.4s\n Altair                  α Aql                   +08° 52′ 06″           19h 50m 47.0s\n Aldebaran               α Tau                   +16° 30′ 33″           04h 35m 55.2s\n Antares                 α Sco                   −26° 25′ 55″           16h 29m 24.5s\n Spica                   α Vir                   −11° 09′ 41″           13h 25m 11.6s\n Deneb                   α Cyg                   +45° 16′ 49″           20h 41m 25.9s\n Dubhe                   α UMa                   +61° 45′ 04″           11h 03m 43.7s\n Polaris                 α UMi                   +89° 15′ 51″           02h 31m 49.1s\n Alpheratz               α And                   +29° 05′ 26″           00h 08m 23.3s\n Schedar                 α Cas                   +56° 32′ 14″           00h 40m 30.4s\n\nLST of the image: ____________________________________________\n\n                                                                           Student Code:\n\n                       Observational Examination (Night)                   ☐☐☐-☐\nP2: Planet observation with real sky in panoramic 360-\ndegrees image\nInstruction: Count the number of planets visible in this image above the horizon and name the\nconstellations they’re in (with IAU designations).\n\nIncluded:\n- A panoramic 360-degrees image of the sky at night at an unknown location\n- Computer screen\n- Keypad to pan around the image\n\nNumber of Planets visible: ______________________________________________\n\nList the constellations (with IAU designations, i.e. Ursa Major or UMa):\n\n_________________________________________________________\n\n                                                                              Student Code:\n\n                        Observational Examination (Night)                     ☐☐☐-☐\nP3: Analemma on another planet\nInstruction: Find the Obliquity (Axial Tilt) of the planet\n\nIncluded:\n- A generated analemma (position of a Star taken from the surface of a planet with interval\n  separated by mean solar day of the planet over an orbital period around a Star) of a fictitious\n  planet orbiting around a Star.\n- Result is graphed on a paper with each major grid representing 5°\n\nThe obliquity of the planet : _____________________________________\n\n                                    Student Code:\n\nObservational Examination (Night)   ☐☐☐-☐\n\n                                                                            Student Code:\n\n                       Observational Examination (Night)                    ☐☐☐-☐\nP4: Exposure time from a Photograph\nInstruction: Estimate an exposure time of a given “Star Trails” image.\n\nIncluded:\n- A “Star Trails” image that was taken by a still camera capturing image over a period of time.\n- Ruler\n\nExposure time: _____________________________________________\n\n                                                                            Student Code:\n\n                        Observational Examination (Night)                   ☐☐☐-☐\nP5: Find True North from Moon shadow\nInstruction: Draw an arrow pointing North in the data sheet\n\nIncluded:\n- Simulated position of moon shadows of a pole at certain intervals in the span of a day.\n- The observer is located in the Southern hemisphere at latitude 27°S.\n- The moon’s declination that night is +15°\n- Ruler, Compass (drawing tool), Geometry kit\n\n                                    Student Code:\n\nObservational Examination (Night)   ☐☐☐-☐\n              Data sheet\n\n                                                                             Student Code:\n\n                        Observational Examination (Night)                    ☐☐☐-☐\nP6: Find Latitude from Equatorial Mount\nInstruction: Without altering the polar alignment, find the observer’s latitude based on a previously\npolar-aligned equatorial mount.\n\nIncluded:\n- An Equatorial Mount Telescope that has already been properly aligned to a location in the\n  northern celestial pole.\n- Bubble Level.\n- Latitude dial on the mount is covered (you may not use it).\n\nLatitude: _______________________________________________________\n\n                                                                             Student Code:\n\n                        Observational Examination (Night)                    ☐☐☐-☐\nP7: Precision Polar Alignment with Equatorial Mount\nInstruction: Perform a polar alignment on the equatorial mount provided\n\nIncluded:\n- Equatorial Mount with polar scope (has not been polar aligned)\n- Date and Time (GMT, UTC+0) of the time performing the polar alignment\n- Diagram of the sky’s position at the time\n- A light source to be substituted with Polaris to be used for proper polar alignment (already visible\n  in the polar scope)\n- Longitude of observer\n\nDate and Time :               30 Aug 2017 / 23:30\n\nLongitude :                   10 0 E",
-   "total": 7,
+   "title": "Find Latitude from Equatorial Mount",
+   "weight": 10,
+   "total": 10,
+   "statement": "Included:\n- An Equatorial Mount Telescope that has already been properly aligned to a location in the northern celestial pole.\n- Bubble Level.\n- Latitude dial on the mount is covered (you may not use it).",
    "parts": [
     {
-     "id": "6",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "6.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Without altering the polar alignment, find the observer’s latitude based on a previously polar-aligned equatorial mount.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Precision Polar Alignment with Equatorial Mount",
+   "weight": 10,
+   "total": 10,
+   "statement": "Included:\n- Equatorial Mount with polar scope (has not been polar aligned)\n- Date and Time (GMT, UTC+0) of the time performing the polar alignment\n- Diagram of the sky’s position at the time\n- A light source to be substituted with Polaris to be used for proper polar alignment (already visible in the polar scope)\n- Longitude of observer\n\nDate and Time : 30 Aug 2017 / 23:30\nLongitude : 10 0 E",
+   "parts": [
+    {
+     "id": "7.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Perform a polar alignment on the equatorial mount provided",
      "reference": ""
     }
    ]

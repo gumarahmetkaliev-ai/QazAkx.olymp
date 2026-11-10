@@ -7,103 +7,205 @@
  "tasksFile": "olympiads/astronomy/s/iao/1998/astro-1-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T18:09:54.263Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:24:04.090Z",
  "quality": {
-  "tasks": 6,
-  "parts": 6,
-  "withPoints": 6,
+  "tasks": 12,
+  "parts": 12,
+  "withPoints": 12,
   "withReference": 0,
-  "withQuestion": 6,
-  "estimatedPoints": 6
+  "withQuestion": 12,
+  "estimatedPoints": 12
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
-   "statement": "What can one see in the Moon's sky more often - the Sun or the Earth?",
-   "total": 7,
+   "title": "Group A - Question 1",
+   "weight": 10,
+   "total": 10,
+   "statement": "Teoretical round. Group A (juniors, < 16 years old).",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "What can one see in the Moon's sky more often - the Sun or the Earth?",
      "reference": ""
     }
    ]
   },
   {
    "number": 2,
-   "title": "Задача 2",
-   "statement": "In a new postal service a huge cannon shots a postal shell from England to New\nZealand. Can you estimate the duration of the shells flight?",
-   "total": 7,
+   "title": "Group A - Question 2",
+   "weight": 10,
+   "total": 10,
+   "statement": "Teoretical round. Group A (juniors, < 16 years old).",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "2.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "In a new postal service a huge cannon shots a postal shell from England to New Zealand. Can you estimate the duration of the shells flight?",
      "reference": ""
     }
    ]
   },
   {
    "number": 3,
-   "title": "Задача 3",
-   "statement": "It is known that the equatorial coordinates of vernal equinox are 0 hr and 0 deg.\nWhich are the North ecliptic pole coordinates?",
-   "total": 7,
+   "title": "Group A - Question 3",
+   "weight": 10,
+   "total": 10,
+   "statement": "Teoretical round. Group A (juniors, < 16 years old).",
    "parts": [
     {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "3.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "It is known that the equatorial coordinates of vernal equinox are 0 hr and 0 deg. Which are the North ecliptic pole coordinates?",
      "reference": ""
     }
    ]
   },
   {
    "number": 4,
-   "title": "Задача 4",
-   "statement": "Suppose that the Sun collapsed suddenly to a black hole. How would the orbital\nperiod of the Earth be affected?",
-   "total": 7,
+   "title": "Group A - Question 4",
+   "weight": 10,
+   "total": 10,
+   "statement": "Teoretical round. Group A (juniors, < 16 years old).",
    "parts": [
     {
-     "id": "4",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "4.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Suppose that the Sun collapsed suddenly to a black hole. How would the orbital period of the Earth be affected?",
      "reference": ""
     }
    ]
   },
   {
    "number": 5,
-   "title": "Задача 5",
-   "statement": "Can we distinguish the lunar Mare Crisium, which diameter is 520 km, by a\nnaked eye?",
-   "total": 7,
+   "title": "Group A - Question 5",
+   "weight": 10,
+   "total": 10,
+   "statement": "Teoretical round. Group A (juniors, < 16 years old).",
    "parts": [
     {
-     "id": "5",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "5.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Can we distinguish the lunar Mare Crisium, which diameter is 520 km, by a naked eye?",
      "reference": ""
     }
    ]
   },
   {
    "number": 6,
-   "title": "Задача 6",
-   "statement": "There are about of 250 millions of stars in the elliptical galaxy M32 (a satellite\nof Andromeda galaxy). The visual magnitude of this galaxy is 9m. If luminosities\nof all stars are equal, what is the visual magnitude of one star in this galaxy?\n\nTheoretical round\n                       Group B (seniors, > 16 years old).\n\n                                            Text of these problems is available also\n                                     in Bulgarian, Danish, Portuguese and Russian.",
-   "total": 7,
+   "title": "Group A - Question 6",
+   "weight": 10,
+   "total": 10,
+   "statement": "Teoretical round. Group A (juniors, < 16 years old).",
    "parts": [
     {
-     "id": "6",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "6.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "There are about of 250 millions of stars in the elliptical galaxy M32 (a satellite of Andromeda galaxy). The visual magnitude of this galaxy is 9m. If luminosities of all stars are equal, what is the visual magnitude of one star in this galaxy?",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Group B - Question 1",
+   "weight": 10,
+   "total": 10,
+   "statement": "Theoretical round. Group B (seniors, > 16 years old).",
+   "parts": [
+    {
+     "id": "7.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Is it possible to observe solar eclipses, meteors, comets, auroras, rainbows, noctilucent clouds and artificial satellites on the Moon?",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Group B - Question 2",
+   "weight": 10,
+   "total": 10,
+   "statement": "Theoretical round. Group B (seniors, > 16 years old).",
+   "parts": [
+    {
+     "id": "8.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "There are Cepheids variables in our own Galaxy as well as in other galaxies. Why was the \"period-luminosity\" relation first recognized for Cepheids in the Magellanic Clouds?",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Group B - Question 3",
+   "weight": 10,
+   "total": 10,
+   "statement": "Theoretical round. Group B (seniors, > 16 years old).",
+   "parts": [
+    {
+     "id": "9.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Because precession, the vernal equinox point moves slowly (50\" per year) in the sky. Along what celestial circle does it move - the equator or the ecliptic?",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Group B - Question 4",
+   "weight": 10,
+   "total": 10,
+   "statement": "Theoretical round. Group B (seniors, > 16 years old).",
+   "parts": [
+    {
+     "id": "10.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Artificial Earth satellite moves with a speed of 6.9 km/sec along the circular equatorial orbit in the direction of the Earth rotation. What is the period of the satellite appearance above any fixed equatorial point?",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Group B - Question 5",
+   "weight": 10,
+   "total": 10,
+   "statement": "Theoretical round. Group B (seniors, > 16 years old).",
+   "parts": [
+    {
+     "id": "11.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Can we distinguish the lunar Mare Crisium, which diameter is 520 km, by a naked eye?",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Group B - Question 6",
+   "weight": 10,
+   "total": 10,
+   "statement": "Theoretical round. Group B (seniors, > 16 years old).",
+   "parts": [
+    {
+     "id": "12.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "There are about of 250 millions of stars in the elliptical galaxy M32 (a satellite of Andromeda galaxy). The visual magnitude of this galaxy is 9m. If luminosities of all stars are equal, what is the visual magnitude of one star in this galaxy?",
      "reference": ""
     }
    ]

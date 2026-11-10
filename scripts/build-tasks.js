@@ -289,6 +289,8 @@ function isGood(q) {
 }
 
 const SUBJECT = args.subject || "chemistry";
+let aiStopped = false;
+let quotaFails = 0;
 const NEW_SUBJECT = !["chemistry", "biology"].includes(SUBJECT);
 
 /** Оценка разбора: задачи с эталоном и правдоподобное число задач */
@@ -413,7 +415,7 @@ async function main() {
     let q = qualityReport(tasks);
     const label = `${olymp.title} · ${mat.label}`;
 
-    if (!test && !isGood(q) && args.ai && tasksText.replace(/\s/g, "").length > 300) {
+    if (!test && !isGood(q) && args.ai && !aiStopped && tasksText.replace(/\s/g, "").length > 300) {
       try {
         const t0 = Date.now();
         const ai = await structureWithAI(linearize(tasksText).text, linearize(solText).text);
@@ -425,8 +427,14 @@ async function main() {
           generatedBy = `ai:${ai.model}`;
         }
         console.log(`  ИИ ${mat.setId}: ${Math.round((Date.now() - t0) / 1000)} с, ${aq.tasks} задач / ${aq.parts} пунктов${generatedBy === "parser" ? " — оставлен разбор парсера" : ""}`);
+        quotaFails = 0;
       } catch (err) {
         console.warn(`  ⚠ ИИ-разбор ${mat.setId}: ${err.message}`);
+        // Квота Gemini общая с ИИ-жюри на сайте: при повторных отказах останавливаемся, чтобы проверка у учеников работала
+        if (/quota|exceeded/i.test(err.message) && ++quotaFails >= 3) {
+          aiStopped = true;
+          console.warn("  ⛔ квота ИИ исчерпана — разбор через ИИ остановлен до следующего запуска");
+        }
       }
     }
 

@@ -7,28 +7,122 @@
  "tasksFile": "olympiads/astronomy/s/iao/2019/astro-3-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "whole-document",
- "generatedAt": "2026-11-09T18:21:44.513Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:13:36.827Z",
  "quality": {
-  "tasks": 1,
-  "parts": 1,
-  "withPoints": 1,
+  "tasks": 2,
+  "parts": 13,
+  "withPoints": 13,
   "withReference": 0,
-  "withQuestion": 1,
-  "estimatedPoints": 1
+  "withQuestion": 13,
+  "estimatedPoints": 13
  },
  "tasks": [
   {
-   "number": 1,
-   "title": "Задания тура",
-   "statement": "АСТРОНОМИЧЕСКОЕ             ш  5%                   EURO-ASIAN                   Round   | Prac |\nОБШЕСТВО          3 -  |     ASTRONOMICAL SOCIETY                  _Prac |\nке == 18\nХХІУ Международная астрономическая олимпиада\n4    жк        XXIV International Astronomy Olympiad\nWN             Румыния, Пьятра-Нямц       19-27. Х. 2019       Piatra Neamt, Romania    English\nFor translation only.             Practical round. Problems to solve\nNote for translators:        Black colour - for both a апа р.\nRed colour - only for Group a.\nBlue colour — only for Group В.\nNot allowed to put parts for Group a into envelopes for Group В and opposite.\n6. The Asteroid 2110GD37.\nYou are provided with: scissors, thread, compass, protractor, ruler.\n\nIf the actual trajectory of Asteroid 2010GD37 remains the same, then in December 2019, the\nAsteroid will seriously threaten the Earth.\n\nIn case of danger, the specialists consider launching a projectile, from an artificial satellite of\nthe Earth, aimed at either destroying the asteroid, before it gets close to the Earth, or diverting\nthe asteroid from the current trajectory to another trajectory that remove it from the Earth.\n\nThe orbit of the projectile P drawn to scale in the Fig. 6.1. Point E is the Earth and the focal\npoint Ға of the projectile orbit. The positions 5 and A of the projectile correspond respectively to\nthe moments of launching from the satellite to and intercepting the asteroid t.\n\nIt is known that г = 30010.88 km, ЛӨ = 46°.\n\nBy measurements on the figures and calculations:\n\n6.1. Find the elements of the transfer elliptical orbit of the projectile: semi-major axis a; semi-minor\naxis Б; eccentricity е; distance to Репдее rmin, distance to Apogee Imin.\n\n6.2. Find the orbital period of the projectile around the Earth T, if the projectile missed the asteroid\ninterception.\n\n6.3. Find the duration At = t — to of the projectile’s movement from point $ to point A.\n\n6.4a. Find the distance Dsa between points S and A, and the path Lsa travelled by the projectile since\nits launch from the satellite S until its meeting with the asteroid A.\n\n6.48. Find the elements of velocity vector (direction and value) of the projectile relative to the Earth, at\nthe time of its release from the circumterrestrial satellite, Уш = Vo, 50 that the way of the\nprojectile from point S to point A would be the required ellipse.\n\n6.58. Find the velocity of the projectile V, direction and value, at moment of its contact with the\nasteroid in point A.\n\n6.68. It is known that the second focal point Ғә of the ellipse is located on the segment SA. By\nmeasurements in Fig. 6.2 only, find and plot its location.\n\nаВ-7. Analemma. Analemma is a figure that obtained when marking positions in the sky of the\ncelestial body on different days of the year, but at the same time (as measured by usual watch).\nIn the case of observations the Sun from the Earth it is shaped like an irregular eight. This is\ndue to effect of the equation of time and varying the declination of the Sun during the year.\n\nYou are provided with a separate sheet with photo taken yesterday evening from the top floor\nof the hotel in Piatra Neamt, exactly in the East direction. The scale of the photo is 60° x 86°\ndegrees per the printed area of the page. You need to plot analemma on this paper with binding\nto the area.\n\nРумыния, Пьятра-Нямц                    2019                    Piatra Neamt, Romania\n\nХХІУ 1АО 2019                        Theoretical round. Problems to solve                          page 2 of 2\nFor simplicity, consider this part of the sky flat, that is, all the horizontal lines of the celestial\nsphere are parallel to the axis X, and all lines directed to zenith are parallel to the axis Y.\nTake into account that the signs in the values of the equation of time in the ephemeris are\ngiven according to “European” definition (see the graph of the equation of time near the table).\n|     7.1. Calculate positions of the Sun at 6400™ of local mean solar time for an observer located in\nPiatra Neamt, at the dates for which data are given in Table 7. Display your calculations in your\nanswer-book. Write the results in your answer-book in the form of a table.\n7.2. On the paper with photo draw а line of celestial equator, label it with the sign “equ”.\n|     7.3. For those cases when the calculated position of the Sun falls into the frame (regardless of\n|           whether it is in the sky, under the horizon or blocked by the mountain), draw images of the Sun\n|             in all the calculated positions, write the corresponding dates near the images.\n|     7.4. Calculate, at what local time (according to local time, the switch to winter time should not be\n|             taken into account) should we take the pictures to get such апаетта.\n|       7.5. Add today’s position о the Sun to the analemma.\n|      7.6. Draw today’s position of ecliptic at the time corresponding to today’s position of the Sun on the\n           analemma. Label it as “есі”.\n|\n|\n       _ Румыния, Пьятра-Нямщ 209 Рама Меать Вотайа 0\n\nSe о аа \"ФИТ зерен Зы тЫ о ылар с тастан с тан м ВЕ О\n--о-----------------і-і--іе-Н Фф ЫЗ -------------- ере\nmeen tere енен Cn ae аа аа ee ieee Somer uae eames Samer ane Cals a а ey НЕ И\nО ee ee\nBe    Е\n4 bic,  4\n\nЕЕ PPP POP PE Pe Pe PE PT Pe Per Per Pf PP PE PE\nщеке\"\nа лак нн ни ау ааа ТЕРА СК ИК БН а к асан оннан\nСа ыы... и пе пни ве Зи |. ees мың О еее келен е сенем е-е ер еее небе\n: і В Н 3 4 і Е і В i В і = AN 5 3 і і В В і і 4 В і ; і : 5 Н\nВ $ di 2 : | і і 3 : i і $ 3-і В і і В : 3 Н В В : i : Н : 2 і\n| оси тии лилии пении весенние оное нн [т eS MATa   семен елекеңіреннен кесені ке еее роет\nкок Ка ла нау АКЕ а НЕКЕ ИИНИКИНИЕЕ ЕНЕ ла елда\nпай нии ии ний иене нн нии ия миа а в eae\nв анан на міс ..ыаы Д.Е Ды. 4 и мана аны нисек\nкз а а ан ау НЕРВ а алан киси кк кк нан ы нан алан\nа ее ау, а о не ое пис ии пении АЛА қалын ан а тыны\nеее елен ыы Нем нр етене 1. лени литий титр see te eee иски осени отит\nа Е ны NO SN I Sn Ses CE es пои анин ан в енен кенде нен еб енеден\nсе еее е емле ее. ет\" ЖЕККЕН кан нана кг ани ert о о е-е ОС Ом\ni 5 і H 5 Е і і $ В 3 В $ т : В : і і i В і і Н % 2 4 Н : і 2\nжене енен ылы емнен ДН; ее нити тии Не “ер е-е\" м ами\nпени енд ен. 1. I TOO ние фене еее ее 1 лал е Е Зи ОИСИ\nр о п ооо ооо зи ми я када\n;  i  і  i  Е  :  :  В  :  і  В  :  :  |  3  В  В  і  :  В  В  2  :  і  і  і  Н  Б  ;\ni  В  В  i  Н  іотыш 2:  і  і  В  В  В  Н  Н  і  і  3  і  і  :  :  :  і  і  і  і  і  і  і  В\n:  4  і  3  2  :  ыы  2  :  В  В  і  і  і  і  :  :  :  В В  і  і  5  і  $  d  H  :  3\nО Нан па пе жанған кен иген меген я а пе ее\"\nseca КЕРЕ БЕНСЕЕНЕНКЕНЕК ЖИЕН Ме с сет окиды коне енот осы   Levciesesvresefrecssssnaferreanssecmresirescreeeroranssenessssszvaranseerzassncesomassens 3 елген ыы Алы Арал КН енер етер енен нее\nj  |  :  4  В  Н  В  і  :  :  не:  2  і  :  5 2  }  3 В  Е   і  В  :  Н  ;  В  В\nр О Ай\nі і : : і В і і : і : : : => і і і 3 і В В : В В і і : : і :\nЕ О аа по пм ret за т ОЕ и pp еее Елмен anesseenszrersusuenieaneasenzoanecssee gener\ni  В  ;  В  i  i  і  В  i  i  i  і  i  i  i  РОО  і  $  В  і  H  і  і  і  Е  2  В  :  і\n4  3  H  5  =  Е  :  і  і  2  |  і  3  4  5  Н  | ale ее  Н  :  Н  і  і  і  В  В  3  В  Н  :\nеее ний и оффе ооо т ат не ект нен о о гене нееренее не енең\nі ; і | й і : і 3 $ В Е Н : : ; ; В і г--і і : і : 3 : $ H і і\nppp Е NAL\nі і Н і і і В і В і : : 2 3 $ 3 3 : і В : г” : і % Hi H H і і В\nо ne weet Sees mas ane aces oe Oe uveendaeneersuspesnarerosscernefnnnscnroteesnnesenteey\nа о о и ee по ов по Боя оО\nеее\nи een ine ne ое ee о Oe\nее cee Sune Gane uae tank ы ee ee te\nBae Se Sos Se Serves Ss sre ee Ses Se ee ы еден\n522      М\nЖ | $ .€\n\nАСТРОНОМИЧЕСКОЕ       - |           EURO-ASIAN             Round\nОБШЕСТВО          в.         ASTRONOMICAL SOCIETY\nrs\nР 4     ХХІУ Международная астрономическая олимпиада а\n“о                 <                .            Русский\nко    XXIV International Astronomy Olympiad    language\nРумыния, Пьятра-Нямц      19-27. Х. 2019      Piatra Neamt, Romania          language     Eng lish\nПрактический тур                          Practical round\nТаблица 7                                      Table 7\nГеоцентрические эфемериды Солнца : 2019         Geocentric Ephemeris for the Sun : 2019\n00:00 UTC (Всемирное координированное время)     00:00 UTC (Coordinated Universal Time)\nДата       ЮД       Тек. ГЗВ   Уравнение     Прямое       Склонение    Расстояние   Угл.\n(0 UT)   (2450000+)    (0 UT)     времени    восхождение                          диам.\nuM ic       м с       uM с       ы  и        а.е.       \"\nDate       JD       App. GST    Equation     Apparent      Apparent     Distance    Ang.\n(0 UT)  (2450000+)    (0 UT)     of Time        R.A.       Declination               Diam.\nББ ш в       ш в       В шп в        он        a.u.       Іт\nJan 07    8490.5   07:05:06.0   +05:56.7    19 11 01.84   -22 25 54.3    0.983329   1951.8\nСап 22    8505.5   08:04:14.4   %11:22.0    20: 15; 35.51   -19 47 18.7    0.984073   1950.3\nFeb 07    8521.5   09:07:19.3   %14:04.6    21. 21 23.01   -15 27 46.1    0.986183   1946.2\nFeb 22    8536.5   10:06:27.6   %13:34.1    22 20 00.79   -10 22 47.3    0.989022   1940.6\nМаг 07    8549,5   10:57:42.8   +11:12.3    23 08 54.26   -05 28 29.5    0.992186   1934.4\nМаг 22    8564.5   11::56%52:;1.   +07:06.9    00 03 57.08   +00 25 42.2    0.996178   1926.6\nApr 07    8580.5   12:59:56.0   +02:21.9    01 02 16.87   %06 38 12.2    1.000811   1917.7\nАрг 22    8595.5   13:59:04.4   -01:19.6    01 57 43.67   %12 01 29.8    1.004979   1909.8\nМау 07   8610.5   14:58:12.7   -03:22.9   02 54 48.77   %16 40 22.7   1.008912   1902.3\nМау 22    8625.5   15:57:21.0   -03:22.8    03 53 57.15   %20 16 55.5    1.012148   1896.2\nJun 07    8641.5   17:00:25.9   -01:15.3    04 59 09.55   +22 41 57.5    1.014824   1891.2\nJun 22    8656.5   17:59:34.2   +01:50.9    06 01 24.18   +23 26 05.9    1.016266   1888.5\nJul 07    8671.5   18:58:42.6   +04:49.7    07 03 31.28   +22 37 59.4    1.016741   1887.7\nJul 22    8686.5   19:57:50.9   +06:26.3    08 04 16.28   +20 22 11.6    1.016076   1888.9\nАла 07    8702.5   21:00:55.8   +05:52.7    09 06 47.59   +16 33 26.5    1.014288   1892.2\nАча 22    8717.5   22:00:04.1   +03:04.5    10 03 07.62   +11 56 50.5    1.011617   1897.2\nбер 07    8733,5   23:03:09.0   -01:43.5    11 01 24.55   %06 15 20.4    1.007953   1904.1\nбер 22    8748.5   00:02:17.3   -07:02.1    11 55 14.26   %00 30 57.3    1.003962   1911-7\nOct 07    8763.5   01:202-::25:7   -1%57;9    12 49 26.75   -05 18 07.4    0.999679   1919,9\nOct 22    8778.5   02:00:34.0   -15:26.3    13 45 06.57   -10 51 49.5    0.995418   1928.1\nМоу 07    8794.5   03:03:38.9   -16:22.8    14 47 14.98   -16 07 11.2    0.991167   1936.4\nМоу 22    8809.5   04:02:47.2   -14:06.9    15 48 39.21   -20 00 46.1    0.987822   1942.9\nDec 07    8824.5   05:01:55.5   -08:54.2    16 53 00.21   -22 32 36.3    0.985237   1948.0\nDec 22    8839.5   06:01:03.9   -01:50.8    17 59 12.00   -23 26 09.2    0.983717   1951.0\n15               5         я\n“ҒА TTT TTI      Coordinates | Piatra Neamt\ni224                .   /равнение времени\nАГ ГГ ее\" | | координаты | пятая\n91+                                   a     |\nМІ 11  | лед.) | жет\n3 ИУ О       о Раш | ағар\nЗИ ИЕ ГИ tN         ШІ     Timezone\n0                      7                        |               Е          UT+03\n|                     Часовой пояс\nНЕН НЕН ЕКЕН ЕН\nНЕН НЕН НЕН ПО О ОХ ВО ЕТЕ\n9       |                                  |           (      ГГ |         С -6.674-1071 N-m?/kg?\not | ttt tt i ht                              й\nNT] м-вәенеш\nг. ммен                           ана       и\nJan. Feb. Mar. Apr. May Jun. Лу. Aug. Sep. Oct.~Nov. Dec.\nNN T—eeeoeeeES\nРумыния, Пьятра-Нямц                    2019                    Piatra Neamt, Romania",
+   "number": 6,
+   "title": "The Asteroid 2110GD37",
+   "weight": 10,
    "total": 10,
+   "statement": "If the actual trajectory of Asteroid 2010GD37 remains the same, then in December 2019, the Asteroid will seriously threaten the Earth. In case of danger, the specialists consider launching a projectile, from an artificial satellite of the Earth, aimed at either destroying the asteroid, before it gets close to the Earth, or diverting the asteroid from the current trajectory to another trajectory that remove it from the Earth. The orbit of the projectile P drawn to scale in the Fig. 6.1. Point E is the Earth and the focal point Fa of the projectile orbit. The positions S and A of the projectile correspond respectively to the moments of launching from the satellite to and intercepting the asteroid t. It is known that r = 30010.88 km, Δθ = 46°. By measurements on the figures and calculations:",
    "parts": [
     {
-     "id": "1",
-     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
-     "points": 10,
+     "id": "6.1",
+     "points": 2,
      "pointsEstimated": true,
+     "question": "Find the elements of the transfer elliptical orbit of the projectile: semi-major axis a; semi-minor axis b; eccentricity e; distance to Perigee rmin, distance to Apogee rmax.",
+     "reference": ""
+    },
+    {
+     "id": "6.2",
+     "points": 2,
+     "pointsEstimated": true,
+     "question": "Find the orbital period of the projectile around the Earth T, if the projectile missed the asteroid interception.",
+     "reference": ""
+    },
+    {
+     "id": "6.3",
+     "points": 2,
+     "pointsEstimated": true,
+     "question": "Find the duration Δt = t - t0 of the projectile’s movement from point S to point A.",
+     "reference": ""
+    },
+    {
+     "id": "6.4a",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Find the distance DSA between points S and A, and the path LSA travelled by the projectile since its launch from the satellite S until its meeting with the asteroid A.",
+     "reference": ""
+    },
+    {
+     "id": "6.4β",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Find the elements of velocity vector (direction and value) of the projectile relative to the Earth, at the time of its release from the circumterrestrial satellite, v0s = v0, so that the way of the projectile from point S to point A would be the required ellipse.",
+     "reference": ""
+    },
+    {
+     "id": "6.5β",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Find the velocity of the projectile vA, direction and value, at moment of its contact with the asteroid in point A.",
+     "reference": ""
+    },
+    {
+     "id": "6.6β",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "It is known that the second focal point Fβ of the ellipse is located on the segment SA. By measurements in Fig. 6.2 only, find and plot its location.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Analemma",
+   "weight": 10,
+   "total": 10,
+   "statement": "Analemma is a figure that obtained when marking positions in the sky of the celestial body on different days of the year, but at the same time (as measured by usual watch). In the case of observations the Sun from the Earth it is shaped like an irregular eight. This is due to effect of the equation of time and varying the declination of the Sun during the year. You are provided with a separate sheet with photo taken yesterday evening from the top floor of the hotel in Piatra Neamt, exactly in the East direction. The scale of the photo is 60° x 86° degrees per the printed area of the page. You need to plot analemma on this paper with binding to the area. For simplicity, consider this part of the sky flat, that is, all the horizontal lines of the celestial sphere are parallel to the axis X, and all lines directed to zenith are parallel to the axis Y. Take into account that the signs in the values of the equation of time in the ephemeris are given according to “European” definition (see the graph of the equation of time near the table).",
+   "parts": [
+    {
+     "id": "7.1",
+     "points": 2,
+     "pointsEstimated": true,
+     "question": "Calculate positions of the Sun at 6h 00m of local mean solar time for an observer located in Piatra Neamt, at the dates for which data are given in Table 7. Display your calculations in your answer-book. Write the results in your answer-book in the form of a table.",
+     "reference": ""
+    },
+    {
+     "id": "7.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "On the paper with photo draw a line of celestial equator, label it with the sign “equ”.",
+     "reference": ""
+    },
+    {
+     "id": "7.3",
+     "points": 2,
+     "pointsEstimated": true,
+     "question": "For those cases when the calculated position of the Sun falls into the frame (regardless of whether it is in the sky, under the horizon or blocked by the mountain), draw images of the Sun in all the calculated positions, write the corresponding dates near the images.",
+     "reference": ""
+    },
+    {
+     "id": "7.4",
+     "points": 2,
+     "pointsEstimated": true,
+     "question": "Calculate, at what local time (according to local time, the switch to winter time should not be taken into account) should we take the pictures to get such analemma.",
+     "reference": ""
+    },
+    {
+     "id": "7.5",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Add today’s position of the Sun to the analemma.",
+     "reference": ""
+    },
+    {
+     "id": "7.6",
+     "points": 2,
+     "pointsEstimated": true,
+     "question": "Draw today’s position of ecliptic at the time corresponding to today’s position of the Sun on the analemma. Label it as “ecl”.",
      "reference": ""
     }
    ]

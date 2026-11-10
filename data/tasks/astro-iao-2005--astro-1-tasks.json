@@ -7,58 +7,157 @@
  "tasksFile": "olympiads/astronomy/s/iao/2005/astro-1-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T18:09:45.452Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:23:48.990Z",
  "quality": {
-  "tasks": 3,
-  "parts": 3,
-  "withPoints": 3,
+  "tasks": 9,
+  "parts": 9,
+  "withPoints": 9,
   "withReference": 0,
-  "withQuestion": 3,
-  "estimatedPoints": 3
+  "withQuestion": 9,
+  "estimatedPoints": 9
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
-   "statement": "The Bear. The White Bear (whom was already met in the texts of the Vil, УШ and ІХ\nInternational Astronomy Olympiads) has returned from Crimea to the North Pole and decided to\nobserve a sunset. Calculate how long this sunset lasts. The solution has to include a picture with\nan image of the Bear on the North Pole; necessary sizes or angular sizes should be in the picture.\nAssume that the Earth is spherical. Recollect for yourself the necessary information about the\nWhite Bear.\n\nBut can the Bear prolong the observation of sunset, not moving from the Pole? For what time?",
-   "total": 7,
+   "title": "The Bear",
+   "weight": 10,
+   "total": 10,
+   "statement": "The White Bear (whom was already met in the texts of the VII, VIII and IX International Astronomy Olympiads) has returned from Crimea to the North Pole and decided to observe a sunset. Calculate how long this sunset lasts. The solution has to include a picture with an image of the Bear on the North Pole; necessary sizes or angular sizes should be in the picture. Assume that the Earth is spherical. Recollect for yourself the necessary information about the White Bear.\n\nBut can the Bear prolong the observation of sunset, not moving from the Pole? For what time?",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Calculate how long this sunset lasts and whether the Bear can prolong the observation of sunset, not moving from the Pole, and for what time.",
      "reference": ""
     }
    ]
   },
   {
    "number": 2,
-   "title": "Задача 2",
-   "statement": "Sun. In one of the ancient models of the Universe the centre of solar system is the Earth rotating\naround its own axis, The stars are not moving around the Earth. The Moon and the Sun are\norbiting the Earth. Mercury and Venus are orbiting the Sun. Mars, Jupiter and Saturn moves\naround invisible objects which are orbiting the Earth.\n\nConsider the explanation of the system Earth-Moon to be correct in this model and the mass of\nSun to be negligible in comparison with the mass of the Earth-Moon system. Find (by two\ndifferent ways of solution) the distance between the Earth and the Sun in such a model.",
-   "total": 7,
+   "title": "Sun",
+   "weight": 10,
+   "total": 10,
+   "statement": "In one of the ancient models of the Universe the centre of solar system is the Earth rotating around its own axis, The stars are not moving around the Earth. The Moon and the Sun are orbiting the Earth. Mercury and Venus are orbiting the Sun. Mars, Jupiter and Saturn moves around invisible objects which are orbiting the Earth.\n\nConsider the explanation of the system Earth-Moon to be correct in this model and the mass of Sun to be negligible in comparison with the mass of the Earth-Moon system. Find (by two different ways of solution) the distance between the Earth and the Sun in such a model.",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "2.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Find (by two different ways of solution) the distance between the Earth and the Sun in such a model.",
      "reference": ""
     }
    ]
   },
   {
    "number": 3,
-   "title": "Задача 3",
-   "statement": "Andromeda nebula. We hope that you are familiar with the object Andromeda nebula (M31,\nNGC 224). Its stellar magnitude т = 4.4\" and its distance from us is 0.7 Mpc. To what distance\nfrom this object should we move, if it were to shine as the full Moon? What would the\n(approximate) angular size of this object be in that case?\n\nПри решении каждой задачи можно использовать данные прилагаемой “Таблицы данных о планетах”\n\nData from the “Table of planetary data” may be used for solving every problem.\n\n|          Китай. Пекин                    2005                     Beijing, China     a\n\n10 Oktober 2006\nАСТРОНОМИЧЕСКОЕ           ж                EURO-ASIAN\nОБЩЕСТВО             ASTRONOMICAL SOCIETY\nҚы      Х Международная астрономическая олимпиада\n€      2        +                                   Й                                           :\n%ь--          Х International Astronomy Olympiad |\nКитай, Пекин                  25.Х -2.Х1. 2005                   Beijing. China\n|\nЗадачи теоретического тура                     Theoretical round. Problems іс soive\n4     ес еее                 language _ | Еп  lis һ  21\n№ п         toy\nGroup а                                    a     \"         а\na4. Sunspots. At the дау of the winter, solstice we observe the Sun in Quito, the capital city of\nEcuador in South America (78°W, (95). The resulting image is seen in figure 1. There аге two\nsunspots on the Sun. At the same time it is'sunrise in Alaska (60°N) and, sunset in Windhoek, the\ncapital city of Namibia in Africa (17°E, 23°S). Are these sunspots to\\ be seen in Alaska and\nWindhoek. (Note: answer «Да-Үев» or «Her-No» has to be written in English or Russian.) Draw\nthe images of the observations of the Sun at that time as they are seen in Alaska and Windhoek.\nи       oN                              in       алы\nра           ы     М                  елес“    a қ\n/        .        \\   |         ме УС\n|                     \\   |\n20-002\n\\                   /   |                                                   |\nNS 2                      7 и\n/\nEast                                                       West                                       |\n—_—— tS          ht             |\na5. Cluster. Astronomers find a \"star\" which position in the Hertzsprung-Russeli diagram is about 8\"         |\nhigher than the corresponding stars of the main sequence. Assume that the “star” is a cluster of        |\nsimilar stars and estimate the number of stars in the cluster.                                                             |\na6, Earth transit. At November 7, 2005, the Mars opposition will occur. During this event Mars will          |\n‚ Ве situated at 0.47 a.u. from the Earth, being quite close to the ecliptic line (27° south of it) as       |\nobserved from the Earth. For this event the Martian Space Agency is planning the near-Mars       |\nspace mission with astronauts onboard purposed to observe the Earth transit the centre of the solar          |\ndisk. To diminish expenses the space mission will follow the optima! way — to observe the transit         |\nfrom the minimum possible distance from Mars. In what constellation will Mars be observed from         |\nthe station in the middle of the Earth transit?                                    |                                     |\nПри решении каждой задачи можно использовать данные прилагаемой “Таблицы данных о планетах\nData from the “Table of planetary data” may be used for solving every problem.                                               |\nе        Китай. Пекин                 22 2005    |                Beijing, China      Б        |\n\n10 Oktober 2006\nАСТРОНОМИЧЕСКОЕ            &                 EURO-ASIAN\nОБШЕСТВО               a            ASTRONOMICAL SOCIETY\nИа,      Х Международная астрономическая олимпиада\nқ\nе       ec        %                 .                 .                                           .\nИ»          Х International Astronomy Olympiad\nКитай, Пекин                        25.Х.-2.Хі. 2005                        Beijing. China\n|\nЗадачи теоретического тура                     Theoretical round. Problems to solve\nязык |         2     ЕЕ\n|        Тазша Eaglish |\n\nGroup В\n\nВ4. Pole star. It is known, that the altitude of the Pole star above the horizon is numerically equal to\nthe geographic latitude of the place of observation, and the direction to it is the direction to North.\nHowever there are some errors іп these rules. Find the maximum errors (in ° and ') while using\nthis way to find the latitude of the place (Ар) and the direction to North (AB). The observations\nare carried ош т the observatory Xinglong (Синьлун) near Beijing. The declination of the Pole\nstar is equal to 89910 The approximate latitude of Beijing is ф = 40°.\n\nBS. Cluster. Astronomers find a \"star\" of the spectral class А0 which position at the Hertzsprung-\nRussell diagram is about -7\" — -8™! (1.е. it is very much higher than the main sequence). Assume\nthat the \"star\" is a cluster that consists of many similar stars and estimate the possible number of\nstars in the cluster.\n\nВ6. Earth transit. At November 7, 2005, the Mars opposition will occur. During this event Mars will\nbe situated at 0.47 a.u. from the Earth, being quite close to the ecliptic line (27' south of it) as\nobserved from the Earth. For this event the Martian Space Agency is planning the near-Mars\nspace mission with astronauts onboard purposed to observe the Earth transit on the solar disk (at\n\n/      least transit through the edge of the Sun) and to investigate the Earth’s atmosphere. What\nminimum orbital period of motion around Mars must this space station have?\n\nПри решении каждой задачи можно использовать данные прилагаемой “Таблицы данных о планетах”.             |\n\nData from the “Table of planetary data” may be used for solving every problem.\n\nООО\n\nКитай. Пекин                     2005                     Beijing. China",
-   "total": 7,
+   "title": "Andromeda nebula",
+   "weight": 10,
+   "total": 10,
+   "statement": "We hope that you are familiar with the object Andromeda nebula (M31, NGC 224). Its stellar magnitude m = 4.4^m and its distance from us is 0.7 Mpc. To what distance from this object should we move, if it were to shine as the full Moon? What would the (approximate) angular size of this object be in that case?",
    "parts": [
     {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "3.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "To what distance from this object should we move, if it were to shine as the full Moon? What would the (approximate) angular size of this object be in that case?",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Sunspots",
+   "weight": 10,
+   "total": 10,
+   "statement": "At the day of the winter solstice we observe the Sun in Quito, the capital city of Ecuador in South America (78°W, 0°). The resulting image is seen in figure 1. There are two sunspots on the Sun. At the same time it is sunrise in Alaska (60°N) and sunset in Windhoek, the capital city of Namibia in Africa (17°E, 23°S). Are these sunspots to be seen in Alaska and Windhoek. (Note: answer «Да-Yes» or «Нет-No» has to be written in English or Russian.) Draw the images of the observations of the Sun at that time as they are seen in Alaska and Windhoek.",
+   "parts": [
+    {
+     "id": "4.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Are these sunspots to be seen in Alaska and Windhoek and draw the images of the observations of the Sun at that time as they are seen in Alaska and Windhoek.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Cluster",
+   "weight": 10,
+   "total": 10,
+   "statement": "Astronomers find a \"star\" which position in the Hertzsprung-Russell diagram is about 8^m higher than the corresponding stars of the main sequence. Assume that the “star” is a cluster of similar stars and estimate the number of stars in the cluster.",
+   "parts": [
+    {
+     "id": "5.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Estimate the number of stars in the cluster.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Earth transit",
+   "weight": 10,
+   "total": 10,
+   "statement": "At November 7, 2005, the Mars opposition will occur. During this event Mars will be situated at 0.47 a.u. from the Earth, being quite close to the ecliptic line (27' south of it) as observed from the Earth. For this event the Martian Space Agency is planning the near-Mars space mission with astronauts onboard purposed to observe the Earth transit the centre of the solar disk. To diminish expenses the space mission will follow the optimal way — to observe the transit from the minimum possible distance from Mars.",
+   "parts": [
+    {
+     "id": "6.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "In what constellation will Mars be observed from the station in the middle of the Earth transit?",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Pole star (Group B)",
+   "weight": 10,
+   "total": 10,
+   "statement": "It is known, that the altitude of the Pole star above the horizon is numerically equal to the geographic latitude of the place of observation, and the direction to it is the direction to North. However there are some errors in these rules. The observations are carried out at the observatory Xinglong (Синьлун) near Beijing. The declination of the Pole star is equal to 89°10'. The approximate latitude of Beijing is phi = 40°.",
+   "parts": [
+    {
+     "id": "7.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Find the maximum errors (in ° and ') while using this way to find the latitude of the place (delta phi) and the direction to North (delta AB).",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Cluster (Group B)",
+   "weight": 10,
+   "total": 10,
+   "statement": "Astronomers find a \"star\" of the spectral class A0 which position at the Hertzsprung-Russell diagram is about -7^m — -8^m (i.e. it is very much higher than the main sequence).",
+   "parts": [
+    {
+     "id": "8.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Assume that the \"star\" is a cluster that consists of many similar stars and estimate the possible number of stars in the cluster.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Earth transit (Group B)",
+   "weight": 10,
+   "total": 10,
+   "statement": "At November 7, 2005, the Mars opposition will occur. During this event Mars will be situated at 0.47 a.u. from the Earth, being quite close to the ecliptic line (27' south of it) as observed from the Earth. For this event the Martian Space Agency is planning the near-Mars space mission with astronauts onboard purposed to observe the Earth transit on the solar disk (at least transit through the edge of the Sun) and to investigate the Earth’s atmosphere.",
+   "parts": [
+    {
+     "id": "9.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "What minimum orbital period of motion around Mars must this space station have?",
      "reference": ""
     }
    ]

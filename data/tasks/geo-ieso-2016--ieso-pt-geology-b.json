@@ -7,28 +7,82 @@
  "tasksFile": "olympiads/geography/s/ieso/2016/ieso-pt-geology-b.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "whole-document",
- "generatedAt": "2026-11-09T19:25:53.149Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:50:49.666Z",
  "quality": {
-  "tasks": 1,
-  "parts": 1,
-  "withPoints": 1,
+  "tasks": 3,
+  "parts": 6,
+  "withPoints": 6,
   "withReference": 0,
-  "withQuestion": 1,
-  "estimatedPoints": 1
+  "withQuestion": 6,
+  "estimatedPoints": 6
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задания тура",
-   "statement": "Practical Geo Field evaluation – Site B (Katsurabata)\n                               :Student number                                         :Name\n\n                                           :Team                                       :Group\n\nStop 1\nField kit​: Hand lens\nTime limit​: 8 min.\nExplore the rock exposed at this site. Read the following questions (B1 and B 2), and circle\none letter that corresponds to the correct answer.\n\nB 1. What is the most appropriate rock type at this site?\n\n    a) Sedimentary rock\n    b) Volcanic rock\n    c) Plutonic rock\n    d) Metamorphic rock\n\nB 2.What is the most appropriate name of the rock at this site?\n\n         g) Basalt                                       a) Limestone\n         h) Chert                                        b) Tuff\n         i)   Mudstone                                   c) Obsidian\n         j)   Gabbro                                     d) Sandstone\n         k) Gneiss                                       e) Schist\n         l)   Granite                                    f) Rhyolite\n\nStop 2\nField kit​: Clinometer\nTime limit​: 8 min.\nExplore the plane marked by red tape at this site. Read the following questions (B 3 and B 4),\nand circle one letter that corresponds to the correct answer.\n\nB 3. What is the name of the dominant plane at this site?\n    a) Bedding plane\n\n                                                1\n\nb) Joint plane\nc) Unconformity plane\n     d) Cleavage plane\n\n                         Please turn over\n\n                             2\n\nB 4. Measure the dip and strike of the rock surface marked, and circle one letter that\ncorresponds to the most appropriate symbol of the dip and strike.\n\nStop 3\n\nField kit​: Hand lens\nTime limit​: 8 min.\nExplore the rock exposed at this site. Read the following questions (B 5 and B 6), and circle\none letter that corresponds to the correct answer.\n\nB 5. What is the most appropriate rock type at this site?\n\n    a) Sedimentary rock\n    b) Volcanic rock\n    c) Plutonic rock\n    d) Metamorphic rock\n\nB 6. What is the most appropriate name of the rock​ ​at this site?\n         g) Basalt                                       a) Limestone\n         h) Chert                                        b) Tuff\n         i)   Mudstone                                   c) Obsidian\n         j)   Gabbro                                     d) Sandstone\n         k) Gneiss                                       e) Schist\n         l)   Granite                                    f) Rhyolite\n\n                                                3\n\n4",
-   "total": 10,
+   "title": "Stop 1",
+   "weight": 2,
+   "total": 2,
+   "statement": "Practical Geo Field evaluation – Site B (Katsurabata)\nField kit: Hand lens\nTime limit: 8 min.\nExplore the rock exposed at this site. Read the following questions (B1 and B 2), and circle one letter that corresponds to the correct answer.",
    "parts": [
     {
-     "id": "1",
-     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
-     "points": 10,
+     "id": "1.1",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "B 1. What is the most appropriate rock type at this site?\n    a) Sedimentary rock\n    b) Volcanic rock\n    c) Plutonic rock\n    d) Metamorphic rock",
+     "reference": ""
+    },
+    {
+     "id": "1.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "B 2.What is the most appropriate name of the rock at this site?\n         g) Basalt                                       a) Limestone\n         h) Chert                                        b) Tuff\n         i)   Mudstone                                   c) Obsidian\n         j)   Gabbro                                     d) Sandstone\n         k) Gneiss                                       e) Schist\n         l)   Granite                                    f) Rhyolite",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Stop 2",
+   "weight": 2,
+   "total": 2,
+   "statement": "Field kit: Clinometer\nTime limit: 8 min.\nExplore the plane marked by red tape at this site. Read the following questions (B 3 and B 4), and circle one letter that corresponds to the correct answer.",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "B 3. What is the name of the dominant plane at this site?\n    a) Bedding plane\nb) Joint plane\nc) Unconformity plane\n     d) Cleavage plane",
+     "reference": ""
+    },
+    {
+     "id": "2.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "B 4. Measure the dip and strike of the rock surface marked, and circle one letter that corresponds to the most appropriate symbol of the dip and strike.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Stop 3",
+   "weight": 2,
+   "total": 2,
+   "statement": "Field kit: Hand lens\nTime limit: 8 min.\nExplore the rock exposed at this site. Read the following questions (B 5 and B 6), and circle one letter that corresponds to the correct answer.",
+   "parts": [
+    {
+     "id": "3.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "B 5. What is the most appropriate rock type at this site?\n    a) Sedimentary rock\n    b) Volcanic rock\n    c) Plutonic rock\n    d) Metamorphic rock",
+     "reference": ""
+    },
+    {
+     "id": "3.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "B 6. What is the most appropriate name of the rock at this site?\n         g) Basalt                                       a) Limestone\n         h) Chert                                        b) Tuff\n         i)   Mudstone                                   c) Obsidian\n         j)   Gabbro                                     d) Sandstone\n         k) Gneiss                                       e) Schist\n         l)   Granite                                    f) Rhyolite",
      "reference": ""
     }
    ]

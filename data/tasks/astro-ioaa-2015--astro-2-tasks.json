@@ -6,59 +6,114 @@
  "lang": "ru",
  "tasksFile": "olympiads/astronomy/s/ioaa/2015/astro-2-tasks.pdf",
  "solutionFile": "olympiads/astronomy/s/ioaa/2015/astro-2-sol.pdf",
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:57:21.693Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:16:43.162Z",
  "quality": {
   "tasks": 3,
-  "parts": 3,
-  "withPoints": 3,
-  "withReference": 3,
-  "withQuestion": 3,
-  "estimatedPoints": 3
+  "parts": 12,
+  "withPoints": 12,
+  "withReference": 12,
+  "withQuestion": 12,
+  "estimatedPoints": 1
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
-   "statement": "A moon is orbiting a planet such that the plane of its orbit is perpendicular to the surface of the\n     planet where an observer is standing. After some necessary scaling, suppose the orbit satisfies the\n     following equation:\n\n                                        √                       √\n                                  (              )          (         )\n\n     Consider Cartesian coordinates where x is on the horizontal\n     plane and y is on the zenith of the observer. Let be the\n     radius of the moon. Assume that the period of rotation of\n     the planet is much larger than the orbital period of the\n     moon. Ignore the atmospheric refraction.\n\n     a.    Calculate the semimajor and semiminor axis of the\n           ellipse.\n     b.    Calculate the zenith angle of perigee.\n     c.    Determine         where      is the elevation angle\n           (altitude of the upper tangent of the moon) when the\n           moon looks largest to the observer.\n                                                                              Figure 1",
-   "total": 7,
+   "title": "A moon is orbiting a planet",
+   "weight": 100,
+   "total": 100,
+   "statement": "A moon is orbiting a planet such that the plane of its orbit is perpendicular to the surface of the planet where an observer is standing. After some necessary scaling, suppose the orbit satisfies the following equation:\n\n9(x*sqrt(3)y / 2 + ... )\n\nConsider Cartesian coordinates where x is on the horizontal plane and y is on the zenith of the observer. Let r be the radius of the moon. Assume that the period of rotation of the planet is much larger than the orbital period of the moon. Ignore the atmospheric refraction.",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "1. A moon is orbiting a planet such that the plane of its orbit is perpendicular to the surface of the\n   planet where an observer is standing. After some necessary scaling, suppose the orbit satisfies the\n   following equation:\n                                                 2                   2\n                                 𝑥 √3𝑦              √3𝑥 𝑦\n                               9( +    − 4) + 25 (−    + ) = 225\n                                 2  2                2  2\n\n    Consider Cartesian coordinates where x is on the\n    horizontal plane and y is on the zenith of the observer. Let                                         r\n    𝑟 be the radius of the moon. Assume that the period of\n    rotation of the planet is much larger than the orbital\n    period of the moon. Ignore the atmospheric refraction.\n\n    a. Calculate the semimajor and semiminor axis of the\n       ellipse.\n    b. Calculate the zenith angle of perigee.\n                       𝜃\n    c. Determine tan 2 where 𝜃 is the elevation angle\n        (altitude of the upper tangent of the moon) when the\n        moon looks largest to the observer.\n                                                                         Figure 1\n\n                                                                                                 1 / 13\n\nAnswer and Marking Scheme:"
+     "id": "1.1",
+     "points": 20,
+     "question": "Calculate the semimajor and semiminor axis of the ellipse.",
+     "reference": "Rewrite the orbit equation using polar coordinate or simplify by introducing new variables x* and y*. Determine semi major and semi minor axis of the orbit. Semi major axis is 5, semi minor axis is 3."
+    },
+    {
+     "id": "1.2",
+     "points": 20,
+     "question": "Calculate the zenith angle of perigee.",
+     "reference": "At the perigee, alpha - pi/3 = pi. Thus, the zenith angle at the perigee is 5pi/6."
+    },
+    {
+     "id": "1.3",
+     "points": 60,
+     "question": "Determine tan(theta / 2) where theta is the elevation angle (altitude of the upper tangent of the moon) when the moon looks largest to the observer.",
+     "reference": "Characterize the coordinates of the moon when it looks largest (y0 = r). Rewrite the equation as a quadratic equation in x0, solve for x0 and choose the smaller one. Find tan(theta/2) = r / x0 = 21r / (4r*sqrt(3) + 18 - 15*sqrt(-r^2 + 4r*sqrt(3) + 9))."
     }
    ]
   },
   {
    "number": 2,
-   "title": "Задача 2",
-   "statement": "Two massive stars A and B with masses          and      are separated by a distance d. Both stars orbit\n     around their center of mass under gravitational force. Assume their orbits are circular and lie on the\n     X-Y plane whose origin is at the stars’ center of mass (see Figure 2)\n\n                                                 Figure 2\n\n                                                                                                      1/3\n\n     a.      Find the expressions for the tangential and angular speeds of star A.\n\n     An observer standing on the Y-Z plane (see Figure 2) sees the stars from a large distance with an\n     angle    relatively to the Z-axis. He measures that the velocity component of star A to his line of sight\n     has the form            (         ), where K and are positive.\n     b.      Express              in terms of   ,       , and      where G is the universal gravitational constant.\n\n     Assume that the observer then identifies that star A has mass equal to                         where        is the Sun’s\n     mass. In addition, he observes that star B produces X-rays and then realizes that it could be a\n     neutron     star        or    a   black    hole.       This    conclusion    would      depend         on           i.e.:\n     i) If             , then B is a neutron star; ii) If               , then B is a black hole.\n\n     c.      A measurement by the observer shows that                            . In practice, the value of       is usually\n\n             not known. What is the condition on            for star B to be a black hole?",
-   "total": 7,
+   "title": "Two massive stars A and B",
+   "weight": 100,
+   "total": 100,
+   "statement": "Two massive stars A and B with masses m_A and m_B are separated by a distance d. Both stars orbit around their center of mass under gravitational force. Assume their orbits are circular and lie on the X-Y plane whose origin is at the stars’ center of mass (see Figure 2). An observer standing on the Y-Z plane sees the stars from a large distance with an angle theta relatively to the Z-axis. He measures that the velocity component of star A to his line of sight has the form K cos(omega t + epsilon), where K and epsilon are positive. Assume that the observer then identifies that star A has mass equal to 30 M_S where M_S is the Sun’s mass. In addition, he observes that star B produces X-rays and then realizes that it could be a neutron star or a black hole. This conclusion would depend on m_B, i.e.: i) If m_B < 2 M_S, then B is a neutron star; ii) If m_B > 2 M_S, then B is a black hole.",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "2. Two massive stars A and B with masses 𝑚𝐴 and 𝑚𝐵 are separated by a distance d. Both stars\n   orbit around their center of mass under gravitational force. Assume their orbits are circular\n   and lie on the X-Y plane whose origin is at the stars’ center of mass (see Figure 2)\n\n                                         Figure 2\n\na.   Find the expressions for the tangential and angular speeds of star A.\n\nAn observer standing on the Y-Z plane (see Figure 2) sees the stars from a large distance with an\nangle 𝜃 relatively to the Z-axis. He measures that the velocity component of star A to his line of\nsight has the form 𝐾 𝑐𝑜𝑠(𝜔𝑡 + 𝜀), where K and 𝜀 are positive.\nb. Express 𝐾 3 /𝜔𝐺 in terms of 𝑚𝐴 , 𝑚𝐵 , and 𝜃 where G is the universal gravitational constant.\n\nAssume that the observer then identifies that star A has mass equal to 30𝑀𝑆 where 𝑀𝑆 is the\nSun’s mass. In addition, he observes that star B produces X-rays and then realizes that it could\nbe a neutron star or a black hole. This conclusion would depend on 𝑚𝐵 , i.e.:\ni) If 𝑚𝐵 < 2𝑀𝑆 , then B is a neutron star; ii) If 𝑚𝐵 > 2𝑀𝑆 , then B is a black hole.\n                                                     𝐾3    1\nc.   A measurement by the observer shows that           =    𝑀 . In practice, the value of 𝜃 is\n                                                     𝜔𝐺   250 𝑆\n     usually not known. What is the condition on 𝜃 for star B to be a black hole?\n\n                                                                                           8 / 13\n\nAnswer and Marking Scheme:\n\na.   The center of gravity of the stars is relatively to the star A given by                              30\n                                                               𝑚𝐵\n                                                       𝑟𝐴 = 𝑚 +𝑚    𝑑\n                                                              𝐴   𝐵\n        and since the orbit of A is a circle, then\n                                                                  2\n                                                     𝐺𝑚𝐴 𝑚𝐵   𝑚𝐴 𝑣𝐴\n                                           𝐹𝐴𝑋 =       𝑑 2  =  𝑟𝐴\n\n        So, we get\n                                                                          𝐺\n                                                       𝑣𝐴 = 𝑚𝐵 √(𝑚 +𝑚 )𝑑\n                                                                      𝐴       𝐵\n\n       The angular velocity of A is given by\n                                               𝑣𝐴    𝐺(𝑚𝐴 + 𝑚𝐵 )\n                                         𝜔=       = √\n                                               𝑟𝐴        𝑑3\n\nb. In Cartesian coordinate system, the velocity of A is                                                   30\n                           𝑣⃗𝐴 (𝑡) = 𝑣𝐴 (− sin(𝜔𝑡 + 𝜀) 𝑖̂ + cos(𝜔𝑡 + 𝜀) 𝑗̂)\n\n       Unit vector of the observer is\n                                    𝑟̂𝑃 = cos 𝜃 𝑘̂ + sin 𝜃 𝑗̂\n\n       so the component of 𝑣⃗𝐴 in the line of the observer sight is given by\n                              𝑣⃗𝐴 ∙ 𝑟̂𝑃 = 𝑣𝐴 sin 𝜃 cos(𝜔𝑡 + 𝜀)\n\n       Since the component of 𝑣⃗𝐴 in the line of the observer sight is 𝐾 𝑐𝑜𝑠(𝜔𝑡 + 𝜀), then\n                                   𝐾 = 𝑣𝐴 sin 𝜃\n       Finally, we have\n                                       𝐾3          𝑚𝐵3\n                                           =               sin3 𝜃\n                                      𝜔𝐺 (𝑚𝐴 + 𝑚𝐵 )2\n                                                                                                  (**)\n\nc.   From the result in b., namely eq. (**), we get                                                       40\n                                        𝐾 3 (𝑚𝐴 + 𝑚𝐵 )2    1 322   64\n                              sin3 𝜃 =           3      <        =\n                                       𝜔𝐺       𝑚𝐵        250 8    125\n\n     Since 𝜃 ∈ [0, 𝜋], then sin 𝜃 < 0,8 . Thus, the probability of B is a black hole is the same as the\n     probability of sin 𝜃 < 0,8 for 𝜃 ∈ [0, 𝜋]. So 𝜃 is less than 53o or greater than 127o .\n\n                                                                                                      9 / 13\n\n10 / 13"
+     "id": "2.1",
+     "points": 30,
+     "question": "Find the expressions for the tangential and angular speeds of star A.",
+     "reference": "The center of gravity of the stars relative to star A is given by r_A = m_B / (m_A + m_B) * d. Using gravitational force and circular orbit equation, find v_A = m_B * sqrt(G / ((m_A + m_B) * d)) and omega = sqrt(G(m_A + m_B) / d^3)."
+    },
+    {
+     "id": "2.2",
+     "points": 30,
+     "question": "Express K^3 / (omega G) in terms of m_A, m_B, and theta where G is the universal gravitational constant.",
+     "reference": "In Cartesian coordinate system, velocity of A is v_A(t). Project onto observer line of sight r_hat_P = cos(theta) k_hat + sin(theta) j_hat. K = v_A sin(theta). Express K^3 / (omega G) = m_B^3 / (m_A + m_B)^2 * sin^3(theta)."
+    },
+    {
+     "id": "2.3",
+     "points": 40,
+     "question": "A measurement by the observer shows that K^3 / (omega G) = 1 / 250 M_S. In practice, the value of theta is usually not known. What is the condition on theta for star B to be a black hole?",
+     "reference": "From previous result, sin^3(theta) < 64 / 125, so sin(theta) < 0.8. Since theta in [0, pi], theta is less than 53 degrees or greater than 127 degrees."
     }
    ]
   },
   {
    "number": 3,
-   "title": "Задача 3",
-   "statement": "Suppose a static spherical star consists of N neutral particles with radius R (see Figure 3).\n\n                                                         Figure 3\n\n     with                ,                 , satisfying the following equation of states\n\n                                                                                                                       2/3\n\n                                                                                  (1)\n                        n(      )\n\nwhere P and V are the pressure inside the star and the volume of the star respectively, k is the\nBoltzmann constant.   and     are the temperatures at the surface      and the temperature at\nthe center     respectively. Assume that         .\n\na.    Simplify the stellar equation of state (1) if                    (this is called ideal star)\n      (Hint: Use the approximation (           )      for small x)\n\nSuppose the star undergoes a quasi-static process, in which it may slightly contract or expand, such\nthat the above stellar equation of state (1) still holds.\n\nThe star satisfies first law of thermodynamics\n                                                                                                      (2)\n\nwhere Q, M, and W are heat, mass of the star, and work respectively, while c is the light speed in the\nvacuum and                          .\n\nIn the following we assume      to be constant, while            varies.\n\nb.    Find the heat capacity of the star at constant volume   in term of M and at constant pressure\n         expressed in    and T (Hint: Use the approximation (       )            for small x)\n\nAssuming that      is constant and the gas undergo the isobaric process so the star produces the heat\nand radiates it outside to the space.\n\nc.    Find the heat produced by the isobaric process if the initial temperature and the final\n      temperature are and     , respectively.\n\nd.    Suppose there is an observer far away from the star. Using information from part c., estimate\n      the distance of the observer from the star.\n\nFor the next parts, assume the star is the Sun.\n\ne.    If the sunlight is monochromatic with frequency                      Hz, estimate the number of\n      photons radiated by the Sun per second.\n\nf.    Calculate the heat capacity      of the Sun assuming its surface temperature varies from 5500 K\n      to 6000 K in one second.\n\n                                                                                                     3/3",
-   "total": 7,
+   "title": "Suppose a static spherical star consists of N neutral particles",
+   "weight": 100,
+   "total": 100,
+   "statement": "Suppose a static spherical star consists of N neutral particles with radius R (see Figure 3) with 0 <= theta <= pi, 0 <= phi <= 2pi, satisfying the given equation of states P V = N k ln(T_R / T_0). Assume that T_R <= T_0. Suppose the star undergoes a quasi-static process, in which it may slightly contract or expand. The star satisfies first law of thermodynamics Q = Delta M c^2 + W. Assume T_0 to be constant, while T_R variable.",
    "parts": [
     {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "3.1",
+     "points": 15,
+     "question": "Simplify the stellar equation of state (1) if Delta T = T_R - T_0 approx 0 (this is called ideal star)",
+     "reference": "Using ln(1 + Delta T / T_0) approx Delta T / T_0, we obtain P V = N k T_0."
+    },
+    {
+     "id": "3.2",
+     "points": 30,
+     "question": "Find the heat capacity of the star at constant volume C_v in term of M and at constant pressure C_p expressed in C_v and T",
+     "reference": "C_v = (dM/dT)_V * c^2. C_p = C_v + P (dV/dT). Obtain C_p = C_v + N k / ln(T/T_0) * (1 - (T - T_0)/(T ln(T/T_0)))."
+    },
+    {
+     "id": "3.3",
+     "points": 20,
+     "question": "Find the heat produced by the isobaric process if the initial temperature and the final temperature are T_i and T_f, respectively.",
+     "reference": "Q_H = C_v (T_i - T_f) + N k ((T_f - T_0)/ln(T_f/T_0) - (T_i - T_0)/ln(T_i/T_0))."
+    },
+    {
+     "id": "3.4",
+     "points": 15,
      "pointsEstimated": true,
-     "reference": "3. Suppose a static spherical star consists of N neutral particles with radius R (see Figure 3).\n\n                                                       Figure 3\n\nwith 𝟎 ≤ 𝜽 ≤ 𝝅 , 𝟎 ≤ 𝝓 ≤ 𝟐𝝅 , satisfying the following equation of states\n\n                                                 𝑻 −𝑻\n                                 𝑷 𝑽 = 𝑵 𝒌 ln(𝑻𝑹 /𝑻𝟎 )                                                 (1)\n                                                   𝑹    𝟎\n\nwhere P and V are the pressure inside the star and the volume of the star respectively, k is the\nBoltzmann constant. 𝑻𝑹 and 𝑻𝟎 are the temperatures at the surface 𝒓 = 𝑹 and the temperature at the\ncenter 𝒓 = 𝟎 respectively. Assume that 𝑻𝑹 ≤ 𝑻𝟎 .\n\na.   Simplify the stellar equation of state (1) if ∆𝑻 = 𝑻𝑹 − 𝑻𝟎 ≈ 𝟎 (this is called ideal star)\n     (Hint: Use the approximation 𝐥𝐧(𝟏 + 𝒙) ≈ 𝒙 for small x)\n\nSuppose the star undergoes a quasi-static process, in which it may slightly contract or expand, such that\nthe above stellar equation of state (1) still holds.\n\nThe star satisfies first law of thermodynamics\n                                                 𝑸 = 𝚫𝑴𝒄𝟐 + 𝑾                                          (2)\n\nwhere Q, M, and W are heat, mass of the star, and work respectively, while c is the light speed in the\nvacuum and 𝚫𝑴 ≡ 𝑴𝐟𝐢𝐧𝐚𝐥 − 𝑴𝐢𝐧𝐢𝐭𝐢𝐚𝐥 .\n\nIn the following we assume 𝑻𝟎 to be constant, while 𝑻𝑹 ≡ 𝑻 varies.\n\n                                                                                                   11 / 13\n\nb.   Find the heat capacity of the star at constant volume 𝑪𝒗 in term of M and at constant pressure 𝑪𝒑\n     expressed in 𝑪𝒗 and T (Hint: Use the approximation (𝟏 + 𝒙)𝒏 ≈ 𝟏 + 𝒏𝒙 for small x)\n\nAssuming that 𝑪𝒗 is constant and the gas undergoes the isobaric process so the star produces the heat\nand radiates it outside to the space.\n\nc.   Find the heat produced by the isobaric process if the initial temperature and the final temperature\n     are 𝑻𝒊 and 𝑻𝒇 , respectively.\nd.\n\nFor the next parts, assume the star is the Sun.\n\ne. If the sunlight is monochromatic with frequency 𝟓 × 𝟏𝟎𝟏𝟒 Hz, estimate the number of photons\n   radiated by the Sun per second.\n\nf.   Calculate the heat capacity 𝑪𝒗 of the Sun assuming its surface temperature varies from 5500 K to\n     6000 K in one second.\n\nAnswer and Marking Scheme:\n\na. Defining ∆𝑇 = 𝑇𝑅 − 𝑇0 and ∆𝑇 ≈ 0, we have                                                        15\n                                                      ∆𝑇\n                                           𝑃𝑉=𝑁𝑘\n                                                 ln(1 + ∆𝑇/𝑇0 )\n                                                                                              (3)\n     using ln(1 + ∆𝑇/𝑇0 ) ≈ ∆𝑇/𝑇0 , we then obtain\n                                             𝑃 𝑉 = 𝑁 𝑘 𝑇0                                     (4)\n\nb. The internal energy of the star is 𝑈 = 𝑀𝑐 2 (𝑈(𝑇) = 𝑀(𝑇)𝑐 2 for ideal star). Thus, the constant 30\n   volume heat capacity of the star has the form\n                                                  ∆𝑄       ∆𝑀\n                                           𝐶𝑣 = (    ) = (     ) 𝑐2\n                                                  ∆𝑇 𝑉      ∆𝑇 𝑉\n       for small ∆𝑇. Then, using first law of themodynamics, the constant pressure\n       heat capacity of the star is\n                                ∆𝑄          ∆𝑀            ∆𝑉             ∆𝑉\n                        𝐶𝑝 = (       ) = (       ) 𝑐2 + 𝑃     = 𝐶𝑣 + 𝑃\n                                 ∆𝑇 𝑃        ∆𝑇 𝑉         ∆𝑇              ∆𝑇\n\n        for small ∆𝑇. Defining ∆𝑇 = 𝑇2 − 𝑇1 , then\n\n                                                                                                12 / 13\n\n                                                𝑇1 − 𝑇0 + ∆𝑇           𝑇1 − 𝑇0\n                             𝑃 ∆𝑉 = 𝑁 𝑘 (                         −              )\n                                              ln((𝑇1 + ∆𝑇)/𝑇0 )       ln(𝑇1 /𝑇0 )\n\n     Using the approximation\n                                                             𝑇1      ∆𝑇\n                                     ln((𝑇1 + ∆𝑇)/𝑇0 ) ≈ ln ( ) +\n                                                             𝑇0      𝑇1\n                                                      −1\n                                            ∆𝑇                     ∆𝑇\n                                  (1 +               ) ≈ 1−\n                                       𝑇1 ln(𝑇1 /𝑇0 )         𝑇1 ln(𝑇1 /𝑇0 )\n     then we have\n                                  ∆𝑉       𝑁𝑘          (𝑇 − 𝑇0 )/𝑇\n                                   𝑃  =           (1 −             )\n                                   ∆𝑇   ln(𝑇/𝑇0 )       ln(𝑇/𝑇0 )\n     where 𝑇1 ≡ 𝑇. Finally, we obtain\n\n                    ∆𝑄       ∆𝑀          ∆𝑉           𝑁𝑘          (𝑇 − 𝑇0 )/𝑇\n              𝐶𝑝 = (   ) = (    ) 𝑐2 + 𝑃    = 𝐶𝑣 +           (1 −             )\n                     ∆𝑇 𝑃    ∆𝑇 𝑉        ∆𝑇        ln(𝑇/𝑇0 )       ln(𝑇/𝑇0 )\n\nc.   Since 𝐶𝑉 is constant, the heat produced by the star is given by                                        20\n\n                                         𝑄𝐻 = 𝐶𝑣 (𝑇𝑓 − 𝑇𝑖 ) + 𝑃 ∆ 𝑉\n                                                                         𝑇𝑓 − 𝑇0           𝑇𝑖 − 𝑇0\n                                           = 𝐶𝑣 (𝑇𝑖 − 𝑇𝑓 ) + 𝑁 𝑘 (                    −              )\n                                                                        ln(𝑇𝑓 /𝑇0 )       ln(𝑇𝑖 /𝑇0 )\n\nd.                                                                                                          15\n\ne.   Energy per second radiated by the Sun                                                                  10\n                                   𝐿⨀ = 𝑁ℎ𝜈\n     where N is the number of photon. Thus\n          𝐿           3.96×1026\n     𝑁 = ℎ⨀𝜈 = 6.6261×10−34 ×𝟓 ×𝟏𝟎𝟏𝟒 = 1.195 × 1045 photons\n\nf.   Energy per second radiated by the Sun is proportional to mass defect of the Sun                        10\n                                                 𝐿⨀ = ∆𝑀 𝑐 2\n     Thus,\n                          ∆𝑀 𝑐 2    𝐿⨀     3.96 × 1026\n                    𝐶𝑣 =         =      =                J/K = 7.92 × 1023 J/K\n                            ∆𝑇      ∆𝑇 6000 − 5500\n\n                                                                                                         13 / 13"
+     "question": "Suppose there is an observer far away from the star. Using information from part c., estimate the distance of the observer from the star.",
+     "reference": "Estimation based on observer distance and radiation flux."
+    },
+    {
+     "id": "3.5",
+     "points": 10,
+     "question": "If the sunlight is monochromatic with frequency 5 * 10^14 Hz, estimate the number of photons radiated by the Sun per second.",
+     "reference": "N = L_sun / (h nu) = 3.96 * 10^26 / (6.6261 * 10^-34 * 5 * 10^14) = 1.195 * 10^45 photons."
+    },
+    {
+     "id": "3.6",
+     "points": 10,
+     "question": "Calculate the heat capacity C_v of the Sun assuming its surface temperature varies from 5500 K to 6000 K in one second.",
+     "reference": "C_v = Delta M c^2 / Delta T = L_sun / Delta T = 3.96 * 10^26 / (6000 - 5500) = 7.92 * 10^23 J/K."
     }
    ]
   }

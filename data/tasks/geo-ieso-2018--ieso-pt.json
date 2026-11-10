@@ -7,58 +7,322 @@
  "tasksFile": "olympiads/geography/s/ieso/2018/ieso-pt.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T19:25:52.084Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:46:03.691Z",
  "quality": {
-  "tasks": 3,
-  "parts": 3,
-  "withPoints": 3,
+  "tasks": 4,
+  "parts": 39,
+  "withPoints": 39,
   "withReference": 0,
-  "withQuestion": 3,
-  "estimatedPoints": 3
+  "withQuestion": 39,
+  "estimatedPoints": 39
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Wri e o r an er (mea remen ) in he an er hee .",
-   "statement": "Wri e o r an er (mea remen ) in he an er hee .",
-   "total": 7,
+   "title": "Practical Test 1: Rock / Mineral & Fossil Identification",
+   "weight": 18,
+   "total": 18,
+   "statement": "IE O 2018 Practical Test 1: Rock / Mineral & Fossil Identification. Time: 50 minutes. Multiple choice questions Q1 through Q18 regarding rock samples, minerals, fossils, and related industrial materials.",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.1",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Q1: Which sample(s) has the highest specific gravity?\na) Sample a\nb) Sample b\nc) Sample c\nd) Sample a and c\ne) The all have the same specific gravity",
+     "reference": ""
+    },
+    {
+     "id": "1.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q2: Which of the following is correct about the observed material?\na) lichen fossil\nb) fern fossil\nc) inorganic deposit\nd) leaf fossil\ne) trace of an animal",
+     "reference": ""
+    },
+    {
+     "id": "1.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q3: Which of the following description is correct about the observed material?\na) petrified hardwood fossil\nb) petrified palm wood fossil\nc) felsic igneous rock\nd) quartzite\ne) hornfels",
+     "reference": ""
+    },
+    {
+     "id": "1.4",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q4: Which rock was deposited in a calm environment?\na) Sample a\nb) Sample b\nc) Sample c\nd) Sample d\ne) Sample e",
+     "reference": ""
+    },
+    {
+     "id": "1.5",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q5: Which of the following statement is correct about the rock sample so observed?\na) formed during volcanic eruption\nb) fast cooling of magma\nc) slow cooling of magma\nd) formed during evaporation\ne) short distance transportation",
+     "reference": ""
+    },
+    {
+     "id": "1.6",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q6: Which rock sample was deposited during evaporation?\na) Sample a\nb) Sample b\nc) Sample c\nd) Sample d\ne) Sample e",
+     "reference": ""
+    },
+    {
+     "id": "1.7",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q7: Which rock was deposited in a deep-marine environment?\na) Sample a\nb) Sample b\nc) Sample c\nd) Sample d\ne) Sample e",
+     "reference": ""
+    },
+    {
+     "id": "1.8",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q8: Which of these land specimen is derived from a river environment?\na) Sample a\nb) Sample b\nc) Sample c\nd) Sample d\ne) Sample e",
+     "reference": ""
+    },
+    {
+     "id": "1.9",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q9: Which of these land specimen contain the highest percentage of quartz?\na) Sample a\nb) Sample b\nc) Sample c\nd) Sample d\ne) Sample e",
+     "reference": ""
+    },
+    {
+     "id": "1.10",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q10: Sediment and source rock identification: which rock sample below is the source of the observed sediment / soil specimen?\na) Sample a\nb) Sample b\nc) Sample c\nd) Sample d\ne) Sample e",
+     "reference": ""
+    },
+    {
+     "id": "1.11",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q11: Sediment and source rock identification: which rock sample below is the source of the observed sediment / soil specimen?\na) Sample a\nb) Sample b\nc) Sample c\nd) Sample d\ne) Sample e",
+     "reference": ""
+    },
+    {
+     "id": "1.12",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q12: Which rock formed at the highest temperature?\na) Sample a\nb) Sample b\nc) Sample c\nd) Sample d\ne) Sample e",
+     "reference": ""
+    },
+    {
+     "id": "1.13",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q13: Which fossil does not have any of its original composition preserved?\na) Sample a\nb) Sample b\nc) Sample c\nd) Sample d\ne) Sample e",
+     "reference": ""
+    },
+    {
+     "id": "1.14",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q14: Match each product (Product 1, 2, 3) to its corresponding raw material (Material a, b, c, d, e, and f) in question 14A, 14B, 14C. Q14A: What is the raw material for Product 1; Q14B: What is the raw material for Product 2; Q14C: What is the raw material for product 3.",
+     "reference": ""
+    },
+    {
+     "id": "1.15",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q15: Match each raw material (Material 1, 2, 3) to its corresponding product (Product a, b, c, d, e, and f) in question 15A, 15B, 15C. Q15A: What is the product from raw material 1; Q15B: What is the product from raw material 2; Q15C: What is the product from raw material 3.",
+     "reference": ""
+    },
+    {
+     "id": "1.16",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q16: The rock you are examining comprise a number of minerals. The four essential minerals are\na) quartz, muscovite, plagioclase, and amphibole\nb) quartz, muscovite, plagioclase, and tourmaline\nc) quartz, muscovite, K-feldspar, and pyroxene\nd) quartz, muscovite, K-feldspar, and tourmaline\ne) quartz, muscovite, plagioclase, and biotite",
+     "reference": ""
+    },
+    {
+     "id": "1.17",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q17: There are two distinct plane in this rock specimen. Which choice below can possibly be explain the rock features? (There might be more than one correct answer.)\na) Both planes are primary features.\nb) Both planes are secondary features.\nc) One plane is primary and the other is a secondary feature.\nd) One plane is a joint plane and the other is a fault plane.\ne) One plane is bedding and the other is cleavage.",
+     "reference": ""
+    },
+    {
+     "id": "1.18",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q18: The ultimate chemical weathering product of which mineral below is clay mineral?\na) Sample a\nb) Sample b\nc) Sample c\nd) Sample d\ne) Sample e\nf) Sample f",
      "reference": ""
     }
    ]
   },
   {
    "number": 2,
-   "title": "The da a collec ed in Prac ical Te 2 ill be anal ed in Prac ical Te 3…",
-   "statement": "The da a collec ed in Prac ical Te 2 ill be anal ed in Prac ical Te 3 righ af er.",
-   "total": 7,
+   "title": "Practical Test 2: Field Geology Examination",
+   "weight": 9,
+   "total": 9,
+   "statement": "Field Geology Examination. In this part of the examination, you will perform measurement at three station (station 1, 2, and 3) indicated in Fig 1. Each student is provided with a Brunton compass. You have 10 minutes per station to perform the measurement. Permissible error in your measurement: a) Full mark for value within +-5 degree of the correct value. b) Half mark for value within 6-10 degree of the correct value. c) No mark for value more than 10 degree away from the correct value.",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "2.1",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Station 1 - Q1: What can you conclude about the type of the rock?\na. It is a sedimentary rock.\nb. It is a plutonic rock.\nc. It is a volcanic rock.\nd. It is a metamorphic rock.",
+     "reference": ""
+    },
+    {
+     "id": "2.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Station 1 - Q2: Use your skill to identify the rock here (Choose one option from the list below: Basalt, Chert, Clay, Dolomitic limestone, Gabbro, Gneiss, Granite, Marl, Sandstone, Schist)",
+     "reference": ""
+    },
+    {
+     "id": "2.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Station 1 - Q3: What is the strike and dip of the strata marked at the spot marked on the outcrop at this station?",
+     "reference": ""
+    },
+    {
+     "id": "2.4",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Station 2 - Q4: What can you conclude about the type of the rock?\na. It is a sedimentary rock.\nb. It is a plutonic rock.\nc. It is a volcanic rock.\nd. It is a metamorphic rock.",
+     "reference": ""
+    },
+    {
+     "id": "2.5",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Station 2 - Q5: Use your skill to identify the rock here (Choose one option from the list below: Basalt, Chert, Clay, Dolomitic limestone, Gabbro, Gneiss, Granite, Marl, Sandstone, Schist)",
+     "reference": ""
+    },
+    {
+     "id": "2.6",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Station 2 - Q6: What is the strike and dip of the strata marked at the spot marked on the outcrop at this station?",
+     "reference": ""
+    },
+    {
+     "id": "2.7",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Station 3 - Q7: What can you conclude about the type of the rock?\na. It is a sedimentary rock.\nb. It is a plutonic rock.\nc. It is a volcanic rock.\nd. It is a metamorphic rock.",
+     "reference": ""
+    },
+    {
+     "id": "2.8",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Station 3 - Q8: Use your skill to identify the rock here (Choose one option from the list below: Basalt, Chert, Clay, Dolomitic limestone, Gabbro, Gneiss, Granite, Marl, Sandstone, Schist)",
+     "reference": ""
+    },
+    {
+     "id": "2.9",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Station 3 - Q9: What is the strike and dip of the strata marked at the spot marked on the outcrop at this station?",
      "reference": ""
     }
    ]
   },
   {
    "number": 3,
-   "title": "Permi ible error in o r mea remen : a) F ll mark for al e i hin +5…",
-   "statement": "Permi ible error in o r mea remen :\n          a) F ll mark for al e i hin +5 degree of he correc al e.\n          b) Half mark for al e i hin 6 10 degree of he correc al e.\n          c) No mark for al e more han 10 degree a a from he correc al e.\n\nF      1. A opographic map of he      d area cale 1:1,500 ho ing con o r in er al of\nappro ima el 30 cm and he hree       d a ion 1, 2, and 3.\n\n       1: R                       (O         )\nQ1: Wha can o concl de abo      he pe of he rock?\n   a. I i a edimen ar rock.\n   b. I i a pl onic rock.\n   c. I i a olcanic rock.\n   d. I i a me amorphic rock.\n\nQ2: U e o r ki o iden if he rock here (Choo e one op ion from he li belo )\n   a. Ba al\n   b. Cher\n   c. Cla\n   d. Dolomi ic lime one\n   e. Gabbro\n   f. Gnei\n   g. Grani e\n   h. Marl\n   i. Sand one\n   j. Schi\n\nQ3: Wha i he rike and dip of he ra a marked a he po marked on he o crop a hi\n a ion?\n\n       2: R                       (O         )\nQ4: Wha can o concl de abo      he pe of he rock?\n   a. I i a edimen ar rock.\n   b. I i a pl onic rock.\n   c. I i a olcanic rock.\n   d. I i a me amorphic rock.\n\nQ5: U e o r ki o iden if he rock here (Choo e one op ion from he li belo )\n   a. Ba al\n   b. Cher\n   c. Cla\n   d. Dolomi ic lime one\n   e. Gabbro\n   f. Gnei\n   g. Grani e\n   h. Marl\n   i. Sand one\n   j. Schi\n\nQ6: Wha i he rike and dip of he ra a marked a he po marked on he o crop a hi\n a ion?\n\n       3: R                       (O         )\nQ7: Wha can o concl de abo      he pe of he rock?\n   a. I i a edimen ar rock.\n   b. I i a pl onic rock.\n   c. I i a olcanic rock.\n   d. I i a me amorphic rock.\n\nQ8: U e o r ki o iden if he rock here (Choo e one op ion from he li belo )\n   a. Ba al\n   b. Cher\n   c. Cla\n   d. Dolomi ic lime one\n   e. Gabbro\n   f. Gnei\n   g. Grani e\n   h. Marl\n   i. Sand one\n   j. Schi\n\nQ9: Wha i he rike and dip of he ra a marked a he po marked on he o crop a hi\n a ion?\n\nIE O 2018                 :P                  3\nField Geolog E erci e\n\nP    I:\nIn hi par , o ill calc la e he r e hickne       ing o r mea remen a hree a ion\n( a ion 1, 2, and 3) in Prac ical Te 2. The hree a ion are indica ed in F 1.\n\nP    II: C\nIn hi par , o ill e he da a ha o made in P         I o find he r c re and rela i e age of\n he bed . (One poin for a correc an er)\n\nF      1. A opographic map of he    d area cale 1:1,500 ho ing con o r in er al of\nappro ima el 30 cm and he hree     d loca ion 1, 2, and 3.\n\nP    I.\nQ10: Calc la e he c m la i e r e hickne of he ra a from poin X o poin Y of       2\n  ing he dip angle from o r o n mea remen in Prac ical Te 2. Yo can a me ha he\napparen hickne of ra a from X o Y i 35 me er ( ee F       1). No e ha r e hickne i\nmea red perpendic lar o he bedding plane.\n\nP    II. C\nPlea e refer o o r mea remen /ob er a ion in Prac ical Te 2 and an    er he follo ing\nq e ion .\n\nQ11: Choo e he op ion ha depic   he correc geological profile along line A-B ho n in\nF     1.\n\nQ12: Which a ion ha he o nge  ra m along he profile A-B?\n  a) S a ion 1\n  b) S a ion 3\n  c) Bo h a ion ha e he ame ra m.\n\nIE O 2018                     :P                    4\nIn hi e here are o ec ion :             A and         B. S den are req ired o fini h he\ne am i hin 1     . Plea e an er in he an er hee b marking X in he bo (e )\ncorre ponding o o r an er( ) or fill in he corre ponding da a.\n\n                        A: H                                                            ?\nIn hi prac ical e , e ill e a imple model o             d   ha happen          hen ice cap mel a a\npo ibl d e o he effec of global arming.\n\nE\n    ●   2 pla ic c p\n    ●   1 pla ic lid ( ed a a f nnel)\n    ●   1 ringe i h cale\n    ●   1 bo le of p rified a er\n    ●   1 marker\n    ●   1 paper c p filled i h ice c be\n\n             ,P     1     P    2                                           !\n\nP    1: M\nFill he pla ic c p o abo 2/3 i h a er. Mark he heigh of he a er le el on he ide of he\npla ic c p ing a marker pro ided. P he f nnel (pla ic lid) on he pla ic c p and p 2-3 ice\nc be on he pla ic lid a ho n in F      1. Wai n il all he ice mel .\n\n Q1: U e he ringe o mea re he increa e in a er ol me. Wri e hi                  ol me on o r\n an er hee .\n\n                         F         1. Se p i h ice c be on a pla ic lid.\n\nQ2: The den i of ice i 0.92 g/cm3, and a er i 1.00 g/cm3. E ima e he ma            and he\n ol me of ice before mel ing.\n\nP    2: M\nIn hi par , o    ill perform a imilar e perimen b    i ho       he pla ic lid (f nnel).\n\nFill he o her pla ic c p o abo 2/3 i h a er. P 2-3 ice c be in o he a er a ho n in\nFig re 2. Mark he heigh of he a er le el on he ide of he c p ing a marker pro ided. Wai\n n il all he ice mel .\n\nQ3: U e he ringe o mea re he increa e in a er ol me. Wri e hi              ol me on o r\nan er hee .\n\n                    F      2. Se p i h ice c be p    direc l in o a er.\n\nBa ed on ha     o ob er ed in he   o ca e , an   er Q4 and Q5.\n\nQ4: From hich loca ion ill he mel ing of he ice cap leas affec he ea le el?\n   a. The Arc ic Ocean\n   b. An arc ica\n   c. Greenland\n\nThe ma e of he ice cap a he hree loca ion are a follo       :\n   ● The Arc ic Ocean: 1.6 10 19 kg\n   ● Greenland: 1.4 1019 kg\n   ● An arc ica: 2.0 1019 kg\n\nWe can a me ha he area of all he ocean , oge her i h he coa al area             hich can be\ne erel affec ed b flooding, if all he cap mel , i abo 70% of he Ear h            rface.\n\nQ5: If all he ice cap ddenl mel ed, ho m ch o ld global ea le el ri e? U e he\na erage al e of he Ear h radi (6,371 km) in o r calc la ion. (One correc an er)\n   a. 100 m\n   b. 200 m\n   c. 300 m\n   d. 400 m\n   e. 500 m\n\nQ6: We can al o a me ha he a erage dep h of all he ocean i abo 4,000 m i h he\na erage alini of abo 35 par per ho and. Wha o ld he ocean alini be i h a grea\n  dden mel do n a en i ioned in he pre io q e ion? A me he pre en ocean area i\nabo 70% of he Ear h      rface.\n   a. 50 par per ho and\n   b. 44 par per ho and\n   c. 34 par per ho and\n   d. 30 par per ho and\n   e. 25 par per ho and\n\n                                  B: C               P\nPo a i m dichroma e (K2Cr2O7) i a b ance ed in prin ing, d eing, and me al-pla ing. The\nchromi m ion, Cr+6, i among he mo poll ing al fo nd in con amina ed ri er . A mall\namo n of Cr+6 can lead o kin b rn , ga ric lcer , hock, or e en dden dea h. In he long\n erm, Cr+6 can al o ca e a kin condi ion ha ca e o nd o heal more lo l . I can al o\nca e o eoporo i and cancer . Ho e er, he amo n of Cr+6 i negligible o ca e an heal h\nri k. F                   ,                                              .\n\nP   1: G           K    C          P\nYo are gi en hree a er ample in hree differen bo le labeled    ,    and   .\nYo al o recei e hree pack of diphen lcarba ide or ChromaVer 3 Chromi m Reagen a\n ho n in F      3.\n\n       F      3. C                 (   )                                   (    )\n\nThe Chromi m Reagen con ain 0.5 mg of diphen lcarba ide. Wa er ample con aining Cr+6\n ill change color o p rple-red hen he Chromi m Reagen i added. The h e in en i depend\non he concen ra ion of Cr+6 in he a er ample.\n\n Q7: P one pack of chromi m reagen in o each of he a er ample . Wai hree min e .\n Then rank he hree ample (a, b, and c) from lea o mo in en e color. Record o r an er\n on he an er hee .\n\nP     2:           C             C           P\nS ppo e ha he hree ample o recei ed ere collec ed in hree differen mon h (April, J l ,\nand Oc ober) from he ame loca ion marked * in he ri er in F     4 belo . The loca ion a\n                                             +6\ndo n ream from a fac or ha a relea ing Cr con in o l a a con an ra e. The orange\nbo in he fig re deno e he fac or hich direc l relea ed Cr+6 in o he ri er. A me ha he\nra e of relea e doe no ar from mon h o mon h.\n\nF       4. The orange bo i he fac or hich direc l relea ed Cr+6 in o he ri er a a con an\nra e. The bl e arro indica e he direc ion of he ri er flo . The * mark he loca ion here he\n hree ample ere aken in hree differen mon h .\n\nQ8: F        5 ho    he mon hl rainfall in he area he ample ere collec ed. Ba ed on he\ncolor in en i ie and he amo n of rainfall in each mon h, indica e in o r an er hee hich\nmon h each ample a collec ed.\n\n                       F      5. Mon hl rainfall in he ame area\n\nP     3:                         ?F            .\nIn a comple el differen cenario, ppo e ha he hree ample ( , , and ) ere ac all\n aken a he ame ime b from differen loca ion a indica ed b he le er , , and in\nF        6.\n\nF      6. Sample ere collec ed from hree loca ion (a, b, and c) a he ame ime. The bl e\nc r e are ri er branche and heir flo direc ion are indica ed b black arro . Orange bo e\nare he hree fac orie in hi ri er ba in.\n\nI i     pec ed ha one of he fac orie (X, Y, or Z) i a po en ial o rce of chromi m poll ion in\n hi ri er ba in. A me here i no o her chemical in erac ion ha can remo e Cr+6 from he\n  a er.\n\n Q9: Ba ed on he color in en i from he pre io e perimen , hich fac or i he mo\n likel o rce relea ing Cr+6 in o he ri er? (Choo e onl one an er.)\n\n                ,                                      .\n                .",
-   "total": 7,
+   "title": "Practical Test 3: Field Geology Exercise",
+   "weight": 3,
+   "total": 3,
+   "statement": "Field Geology Exercise. Part I: Calculate true thickness using measurements at three stations in Practical Test 2. Part II: Correlation - use data from Part I to find structure and relative age of the beds.",
    "parts": [
     {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "3.1",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Q10: Calculate the cumulative true thickness of the strata from point X to point Y of Fig 2 using the dip angle from your own measurement in Practical Test 2. You can assume that the apparent thickness of strata from X to Y is 35 meter (see Fig 1). Note that true thickness is measured perpendicular to the bedding plane.",
+     "reference": ""
+    },
+    {
+     "id": "3.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q11: Choose the option that depict the correct geological profile along line A-B shown in Fig 1.",
+     "reference": ""
+    },
+    {
+     "id": "3.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q12: Which station has the oldest stratum along the profile A-B?\na) Station 1\nb) Station 3\nc) Both stations have the same stratum.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Practical Exam Part A & B: Hydrology & Chemistry Pollution",
+   "weight": 9,
+   "total": 9,
+   "statement": "In this exam there are two sections: Section A and Section B. Students are required to finish the exam within 1.5 hours.",
+   "parts": [
+    {
+     "id": "4.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Section A - Q1: Use the syringe to measure the increase in water volume. Write this volume on your answer sheet.",
+     "reference": ""
+    },
+    {
+     "id": "4.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Section A - Q2: The density of ice is 0.92 g/cm3, and water is 1.00 g/cm3. Estimate the mass and the volume of ice before melting.",
+     "reference": ""
+    },
+    {
+     "id": "4.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Section A - Q3: Use the syringe to measure the increase in water volume. Write this volume on your answer sheet.",
+     "reference": ""
+    },
+    {
+     "id": "4.4",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Section A - Q4: From which location will the melting of the ice cap least affect the sea level?\na. The Arctic Ocean\nb. Antarctica\nc. Greenland",
+     "reference": ""
+    },
+    {
+     "id": "4.5",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Section A - Q5: If all the ice cap suddenly melted, how much should global sea level rise? Use the average value of the Earth radius (6,371 km) in your calculation. (One correct answer)\na. 100 m\nb. 200 m\nc. 300 m\nd. 400 m\ne. 500 m",
+     "reference": ""
+    },
+    {
+     "id": "4.6",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Section A - Q6: We can also assume that the average depth of all the ocean is about 4,000 m with the average salinity of about 35 part per thousand. What would the ocean salinity be with a great sudden melt down as envisioned in the previous question? Assume the present ocean area is about 70% of the Earth surface.\na. 50 part per thousand\nb. 44 part per thousand\nc. 34 part per thousand\nd. 30 part per thousand\ne. 25 part per thousand",
+     "reference": ""
+    },
+    {
+     "id": "4.7",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Section B - Q7: Put one pack of chromium reagent into each of the water samples. Wait three minutes. Then rank the three samples (a, b, and c) from least to most intense color. Record your answer on the answer sheet.",
+     "reference": ""
+    },
+    {
+     "id": "4.8",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Section B - Q8: Fig 5 shows the monthly rainfall in the area the samples were collected. Based on the color intensities and the amount of rainfall in each month, indicate in your answer sheet which month each sample was collected.",
+     "reference": ""
+    },
+    {
+     "id": "4.9",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Section B - Q9: Based on the color intensity from the previous experiment, which factor is the most likely source releasing Cr+6 into the river? (Choose only one answer.)",
      "reference": ""
     }
    ]

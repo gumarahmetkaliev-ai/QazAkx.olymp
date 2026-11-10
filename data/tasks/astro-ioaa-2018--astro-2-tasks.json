@@ -7,88 +7,43 @@
  "tasksFile": "olympiads/astronomy/s/ioaa/2018/astro-2-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:52:52.398Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:14:09.731Z",
  "quality": {
-  "tasks": 5,
-  "parts": 5,
-  "withPoints": 5,
+  "tasks": 2,
+  "parts": 2,
+  "withPoints": 2,
   "withReference": 0,
-  "withQuestion": 5,
-  "estimatedPoints": 5
+  "withQuestion": 2,
+  "estimatedPoints": 0
  },
  "tasks": [
   {
-   "number": 1,
-   "title": "Задача 1",
-   "statement": "This part of the competition consists of 2\n   problems (O5 and O6), and is worth a total of 50\n   points.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 2,
-   "title": "Задача 2",
-   "statement": "You have 10 minutes to complete these problems.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 3,
-   "title": "Задача 3",
-   "statement": "Stop working once the timer expires.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 4,
-   "title": "Задача 4",
-   "statement": "At the end of the examination, hand over the test\n   envelope to the supervisor at the station.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "4",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
    "number": 5,
-   "title": "Задача 5",
-   "statement": "You will use a telescope to observe five red LED\n   screens at a distance. The telescope is equipped\n   with one eyepiece, but no finderscope. Some of\n   these screens display the names of planets, some\n   show Messier numbers, and some show\n   equatorial coordinates.\n\n                           Page 1 of 2\n\n                                                 Student’s Code:\n             Observational Competition (Night)\n\nO5. (10 points) The eyepiece’s field of view is 45°.\nPlease estimate the field of view (with an accuracy\nof 0.1°) of the telescope when observing.\nAnswer：\n\nO6. (40 points) Write down the text you observed\non the screen.\nAnswers：\n\n                           Page 2 of 2",
-   "total": 7,
+   "title": "Observational Competition (Night) - O5",
+   "weight": 10,
+   "total": 10,
+   "statement": "You will use a telescope to observe five red LED screens at a distance. The telescope is equipped with one eyepiece, but no finderscope. Some of these screens display the names of planets, some show Messier numbers, and some show equatorial coordinates.",
    "parts": [
     {
-     "id": "5",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
+     "id": "5.1",
+     "points": 10,
+     "question": "The eyepiece’s field of view is 45°. Please estimate the field of view (with an accuracy of 0.1°) of quadrados the telescope when observing.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Observational Competition (Night) - O6",
+   "weight": 40,
+   "total": 40,
+   "statement": "You will use a telescope to observe five red LED screens at a distance. The telescope is equipped with one eyepiece, but no finderscope. Some of these screens display the names of planets, some show Messier numbers, and some show equatorial coordinates.",
+   "parts": [
+    {
+     "id": "6.1",
+     "points": 40,
+     "question": "Write down the text you observed on the screen.",
      "reference": ""
     }
    ]

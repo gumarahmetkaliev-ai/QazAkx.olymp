@@ -7,28 +7,427 @@
  "tasksFile": "olympiads/geography/s/ieso/2019/ieso-wt.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "whole-document",
- "generatedAt": "2026-11-09T19:25:51.963Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:45:00.010Z",
  "quality": {
-  "tasks": 1,
-  "parts": 1,
-  "withPoints": 1,
+  "tasks": 4,
+  "parts": 54,
+  "withPoints": 54,
   "withReference": 0,
-  "withQuestion": 1,
-  "estimatedPoints": 1
+  "withQuestion": 54,
+  "estimatedPoints": 54
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задания тура",
-   "statement": "IESO 2019 K ea: W i e Te\n\nW          T     ,P       1+P          2 (3        )\nG adi g f Q e i\nEach e i       ih        e c ec a  e    i be c ed a f     :\n- if he c ec a    e i ch e : +1 i .\n- if he i c ec a    e i ch e : 0 i .\n- if e e a a   e a e ch e : 0 i .\n\nEach e i       he e e          e c ec a  e     ib e i be c ed a f        :\n- each c ec a     e : +1 i .\n- each i c ec a     e : -0.5 i .\n- if he c bi a i     fa     e i c de c ec a   e a di c   ec a   e , he       i i\ng ade ecei ed i 0.\n\n                                         1\n\n                            IESO 2019 K ea: W i e Te\n\nP     1T          :W\nWa e i di ib ed e he e i e face a d i e i         f he Ea h,       i ea , a e a d\n he a    he e, b a i      c a d i . Wa e ci c a e h gh he Ea h           e a d ca e\n e e a he     e a.\nTh gh i     e e ce, ife a e a d a f        f ife e    ed a d e d ed. The Ea h ha\nbec e a d a ic habi ab e ace.\nI addi i , a e i e e i diffe e f         i he ce e ia b die f he S a S e . I\ne i ,a     Ea h, e ecia i      id f : ice.\n\nI hi e , e i a e                 edge a d i fe e ce i ab     he   e e ce f a e\nEa h a d he S a S e     a d he i e ac i     i hi he ge he e, a      he e, h d  he e\na d he bi he e.\n\n                                         2\n\n                          IESO 2019 K ea: W i e Te\n\nI                      Q1\nFig e A de ic a i     de i i a e i    e , a gi g f    c     i e a     ai e\ne i       e . The    b f    (a) (h) e e e diffe e e i        e :\n(a) a    ia ,\n(b) ae ia ,\n(c) beach,\n(d) f ia ,\n(e) de a,\n(f) b a i e ca     ,\n(g) ab a ai ,\n(h) g acia e i    e .\n\nFig e B h    he    g a h a d edi e     f he de   ii a e i      e    (a) h    gh (h)\ni Fig e A.\n\n                                       3\n\n                            IESO 2019 K ea: W i e Te\n\nQ1)​ Wa e a d i d a e he ai age     e     ib e f edi e       a     . Ch e ALL f he\nc ec a e e i he c e          f a e a d i d edi e        a      .\n   a) The e a i e f a     ia edi e (a) i ge e a        a ge ha ha f b a i e fa\n        edi e (f)\n   b) Beach edi e (c) c ai a high          i    f a g a c f ag e\n   c) I f ia e i       e (d), fi e a ic e a e a         ed i     e i    hi e a ge\n        a ic e a e a    ed i c ac i h he b           f he ea bed\n   d) Whe edi e a e a           ed i i e , hei g ai i e g ad a i c ea e a d he\n      bec e e a d e         ded\n   e) The c a e edi e be ee (a) a d (h), e e i he de a (e)\n\nI                      Q2-Q3\nThe ea c iff a g he S ai f D e be ee F a ce a d G ea B i ai a e ade        f\nh i    a bed f hi e c (Fig e A).\nA a    e (Fig e B) a e f    he e c iff effe e ce c ac i h a d       f di e\nh d ch ic acid. A e ec     ic c e i age (Fig e C) f he a      e i Fig e B h\n ha he c i ade        f e fi e a ic e a d f ag e   f c cc i h h e , a i g e-ce ed\n  ecie f ca ca e    h    a     ( he ca e i 1c f Fig e B a d 5    f Fig e C.)\n\n                                         4\n\n                           IESO 2019 K ea: W i e Te\n\nThe edi e     ha a e      he c i Fig e B (ab e) a e bei g de i ed i he b e a ea i\nFig e D. S ch edi e a e a f d a          d he Ha aiia I a d . Fig e E h   he cea\nf        g a h a d a e de h a g he X-Y eg e        f Fig e D. The e edi e a e\nf d      a cea f       ca ed a a a e de h > 3500 . The i a ea        f hi\n  b e a i i he ba a ce be ee i      a d di    i   f ca b a e edi e , hich efe\nca b a e c    e a i de h (CCD).\n\n                                        5\n\n                              IESO 2019 K ea: W i e Te\n\nQ2)​ Se ec ALL f he c ec a e e ab             he edi e a d de i i a e i         e\ni     ed i he f     ai   f he hi e c i Fig e B.\n   a) Thi c ca be c a ified a che ica edi e / edi e a               c\n   b) Thi c i ai         c      ed f ca ci     ca b a e, a i e a ca ed ca ci e\n   c) Ca ci e igi a e f     ca ci    ca b a e ec e ed b i i g a        ic ga i      ea\n         he cea     face\n   d) Si i a c a e f       ed da i         ica a i e e i       e b agg ega i    f\n        ca ci   ca b a e e e     , eadi g    he f   ai     f c a eef\n   e) Thi c i a e id e f i ica ec e ed b          a    ic ga i     acc     a ed  he\n         cea f\n   f) Thi c e e e di ec i e ac i            be ee he ge he e a d he bi he e\n   g) Thi c e e e              he i f e ce f he bi he e        he ge he e\n\nQ3) ​Se ec ALL f he c ec a e e ab            he edi e (a), (b) a d (c) a     d he\nHa aiia I a d i Fig e E.\n   a) The       bi i    f he i e a ca ci ca b a e e d     dec ea e he he a e de h\n        i c ea e f     (c) (a)\n   b) High a e e           e i c ea e he  bi i   f he i e a ca ci   ca b a e i (a)\n   c) The edi e i (b) a e ai           c    ed f e id e f ca ca e       ga i\n   d) The edi e i (a) a e ai           c    ed f f a i ife a he a d f ag e        f he\n        ca ca e      ga i\n   e) The edi e i (b) a d (c) c ai b h i ice         a d ca ca e    edi e\n\nI                      Q4-Q6\nP a d Q a e ag a f diffe e c i i . The fig e be      i   a e he e a i hi\nbe ee i c i a d e e a e f ag a i d c di i        (Fig e A), a d he e a i hi\nbe ee i c i a d a e c e i e c di i        (Fig e B).\n\n                                            6\n\n                             IESO 2019 K ea: W i e Te\n\nQ4) ​Se ec ALL he c ec a e e ab      P a d Q ag a i Fig e A a d B.\n   a) Mag a P f     a a highe e e a e ha       ag a Q\n   b) Mag a P f     a a    e e e a e ha       ag a Q\n   c) Mag a Q ha a highe a e c e ha         ag a P\n   d) The i c i    f ag a P dec ea e he he a e c e i c ea e\n   e) Mag a P ha a     e i ica c e ha     ag a Q\n   f) Mag a P ha a highe i ica c e ha      ag a Q\n\nT      e   f   ca e a e e e e ed       he a e i e i age be    ( i h he     g a hic\n   fi e i ec i ): he  ca ic i a d Je i ca ed        h f he K ea e i      a (Fig e C)\na d he Pi a b      ca i ca ed       h f he L      I a d i he Phi i i e (Fig e D).\n\n                                          7\n\n                              IESO 2019 K ea: W i e Te\n\nQ5) ​Se ec ALL f he c ec a e e ab            he    ca e i Fig e C a d D.\n   a) The     ca i Fig e C i f    ed f        ag a P i Fig e A a d B\n   b) The     ca i Fig e D i f    ed f        ag a P i Fig e A a d B\n   c) The     ca i Fig e C i f    ed f        ag a Q f Fig e A a d B\n   d) The     ca i Fig e D i f    ed f        ag a Q f Fig e A a d B\n   e) The     ca i Fig e C i ai      c        ed f h i e\n   f) The     ca i Fig e C i ai      c        ed f ba a\n   g) The diffe e ce i    e be ee he            ca e i he e     f he a ia i      i   he\n        c     ii    f he ag a\n\nFig e E i a a e i e i age f Ice a d i h he Mid-A a ic Ridge a d a cia ed     ca ic\nac i i . Fig e F h    e a ge e      f egi     X a d Y i Fig e E. The K af a ca\n( egi X), ca ed i       he Ice a d, e   ed a g fi       e beca e ag a ha a\n  i c i . O he he ha d, i he        he    a , he E af a a         ca ( egi Y) i a\ne      i e   ca  ha e ea e a a ge a         f    ca ic a h.\n\nQ6) ​Se ec ALL f he c ec a e e ab            he         ca ic egi      f Ice a d.\n   a) The     ca e f egi      Xa dYa ef        ed f       ag a P h        i fig e A a d B\n   b) The     ca e f egi      Xa dYc        i e a di e ge      a e b da\n   c) Regi X f       a high a i de e ai d e       he high i c i      f he a a\n   d) The     ca e f he X a d Y egi         ai    e i ed ba a f       ed f      ag a Q\n         h   i Fig e A a d B\n   e) The e     i e   ca ic ac i i    f egi Y i d e a i f           f ae f           ide\n   f) Regi     Xa dYa e         i ab e f he i a a i       f ge he a         e a\n\n                                             8\n\n                             IESO 2019 K ea: W i e Te\n\nI                     Q7-Q8\nFig e 1 i a a f he a a e a          c         (   h   a e age). The      a c         ea\n  a i i eg a ed e ica , i [g/c ​ ].\n                                2​\n\nFig e 2 i     ae a e ei e a          c f     ea i g he a a ed a        e   e f            e\n  ae a a    ecific e e a e (T) a d   e   e (P), he e h i he heigh f he e c   c\n(Hg).\n\nQ7)​ Se ec ALL c    ec a e e ab    Fig e 2.\n   a) The heigh    f ec    i he ic e be (3) i e       he   T1 i c ea e\n   b) The heigh    f ec    i he ic e be (3) i e       he   P1 i c ea e\n   c) The heigh    f ec    i he ic e be (3) i e       he   T1 dec ea e\n   d) The heigh    f ec    i he ic e be (3) i e       he   P2 dec ea e\n   e) The heigh    f ec    i he ic e be (3) i e       he   P2 i c ea e\n   f) The heigh    f ec    i he ic e be (3) i e       he   T2 a d P2 i         a e\n        i c ea e\n\n                                          9\n\n                             IESO 2019 K ea: W i e Te\n\nQ8)​ Ba ed    he e e i e i Fig e 2, e ec ALL de c i i            e ai i g he di ib i   f\nhe a e a        c        i he Ea h' a       he e i Fig e 1.\n   a) A highe e e a e a             e a i de i    ie a g ea e a        f ae a     i he\n       a      he e\n   b) A        he ic e       e e he e e           ica Pacific Ocea i g ea e ha ha f he\n       ea e        ica Pacific Ocea\n   c) The a        he ic e e a e f he e e              ica Pacific Ocea i g ea e ha ha f\n        he ea e        ica Pacific Ocea\n   d) The c          f ae a          e he e a ia cea i g ea e ha ha f he\n         b    ica cea\n   e) The ai      e he cea         he ea e c a       f he c i e a id- a i de c ai\n           e ae a          ha ha e e        e he cea       f he e e c a beca e f he\n           ef e e        e e ce f       e    e    e\n\nI                        Q9\nS    g i d b i g e a           e a ea f a e , ch a a a e, ca ge e a e a e ha\n  ci a e bac a d f h (Fig e 1). Fig e 2 a d 3 h    he i d eed a d di ec i a        a   ,\nh id ai f         e a a ge a e i he N he He i he e.\nI     i i A, he i d b       a 5 / f      he ENE;\nI     i i B, he i d b       a 7.5 / ;\nI     i i D, he i d b       agai a 5 / f      he ENE.\n\n                                           10\n\n                             IESO 2019 K ea: W i e Te\n\nQ9) ​Ch e ALL f he c ec a e e ab                ca i d ha c       a a ge b d f a e , a\ni he fig e ab e.\n   a) The      ib e i d a h i (a)\n   b) The      ib e i d a h i (b)\n   c) The      ib e i d a h i (c)\n   d) The i d b       fa e i      i i B beca e he f ic i    i h he face i     e\n   e) I c ea i g he i d eed         he a e dec ea e he C i i f ce\n   f) The diffe e ce be ee he ai e e a e a d he de           i i     i i C i g ea e ha\n       ha i      ii D\n   g) Wa e ca ca e g ea f di g           he i d a d a e c a\n\nI                      Q10\nA     h  (    ica      )i a ee        gica he    e     ca ed b he i e ac i be ee\n he a    he e a d he h d    he e. Fig e A i a a e i e i age h i g he a ea a ce f a\n   h . Fig e B h       he a      he ic e    e, i d eed a d di ec i a     i P (Fig e\nA) d i g he a age f he      h .\n\nQ10)​ Ch e ALL he c ec a e e            i h ega d he ab e fig e .\n  a) Thi      h    cc ed i he         he he i he e\n  b) ' ' i a    he ic e     e a d ' ' i i d eed\n  c) P i P i ca ed       he igh f he       h ' ah\n  d) The ce e f he      h      a ed ea       i Pa    d 2:00 . . J    11\n  e) Af e he ce e f he       h      a ed, he i d di ec i a    i P cha ged f\n          h-ea       h-ea\n\n                                          11\n\n                               IESO 2019 K ea: W i e Te\n\nI                         Q11\nA h      i Fig e A, he a i di a di ib i         f he a e age a a a           f a e i he\na     he e i     ba a ced. The a      he e e a e beca e eci i a i i g ea e ha\ne a a i a he e e f he            ic a d a he e e f id a d high a i de hi e he\na     he e gai     a e i he b       ic beca e he e a a i i g ea e ha           eci i a i .\nThe ed ec      i dica e he     he di ec i     f each i d ( a ea        i d, e     i da d\n  ade i d ). Thi a i di a diffe e ce i he a e ba a ce de e i e he g ba c i a ic\ndi ib i . Fig e B ( e       age) h     he be -        c i a e c a ifica i   che e, hich i\n  ai  ba ed       eci i a i a d e e a e.\n\n                                             12\n\n                               IESO 2019 K ea: W i e Te\n\nQ11) ​Ba ed Fig e A a d B, ch e ALL f he c ec a e e ab                        a e i he\na      he e a d i i ac         he egi a c i a e.\n  a) Nea 30 N a d 30 S, he fac ha e a a i i               e i e e ha       eci i a i\n       c     ib e      he f    ai    f a ge     e BWh (h d a d a id de e )\n  b) The a e defici i he a             he e ab e he d d       d e       e eci i a i     ha\n       e a ai i              e e ed b he h i        a c e ge ce f he a e d e         he ade\n         i d f he         he i he e\n  c) The a          he e e a       f ae d e           e eci i a i   ha e a a i a he\n       d d        , e i gi ad a            he e a d a ed i a       BWh c i a e (h d a d\n       a id de e )\n  d) The a          he e gai      e a e d e g ea e e a a i         ha    eci i a i    ea 30 N\n       a d 30 S, e i g i a h id a             he e a d a ed i a       Cfa c i a e ( i d\n        e e a e, f       h id a d h i           e)\n  e) A he ea ai fa i he               ic d e        a h gh        he ea , he Af c i a e\n       (    ica , f    h id) ca be ee ea he e a\n\nI                         Q12-Q13\nThe Th ai e G acie i We A a c ica c e a a ea f ​182,000           ae i       e e . Sa e i e\n  ea e e       h    ha i a e f ice      ha d b ed i ce he 1990 . Thi g acie ha he\n   e ia     ai e ea e e b e e a ce i e e i he ea f           e.\nG acie ha e bed       i e i e ,a d       g acie bed de ce d i he a e di ec i , a i e\nbed d .\nThe bed f he Th ai e G acie d e he          i e: i    g e e i he        i e di ec i    f\nf   . The bed c be      he g acie ' f       a d he cea i a ge ha he bed c f he\ni a d, hich ha bee       hed d        e i e ia b i hic ice.\nTh ai e ha            ch ice ha he ide c e         he cea     f a      he e i a a ached\n   he bed c . Thi    e ed a a age de he g acie he e cea a e ca ee . Each ea\n he a di g i e ( he e c , ice a d ea a e ee ) i          f he . The ice c iff a e     ab e a\nheigh ab e 200 . The c a e.\n\n                                             13\n\n                              IESO 2019 K ea: W i e Te\n\nF     1​. Ice eed ( e e e ea ) f he Th ai e G acie (a      i a e ca i de i i ed b\na d ed i e) a d eighb i g g acie i We A a c ica; he i e a i dica e he      ii .\nThe e e a e f he cea f         a ea i hade f ed (deg ee Ce i ). The cea ic a ea\n h   i ga ae        ha       affec he ice b . C edi : NASA / JPL-Ca ech\n\nQ12)​ Which f he f   i g c d acce e a e b h he e a d f       f he Th ai e G acie ?\nCh e ALL f he c ec a       e .\n  a) A i c ea e i he e e a e f he cea a he e e f he cea ic face f he g acie\n  b) A dec ea e i he e e a e f he cea be          he g acie he e i f a\n  c) The a h ca a a d a e a           de he g acie\n  d) A dec ea e i he a i i  f cea a e i c ac i h ice\n  e) A i c ea e i ea e e\n  f) A i c ea e i he a bed f he g acia    face\n\nThe g a hic     he f     i g age i a e f      S e ica Scie ce; i h     I abe a Ve ic g a'\ne i a e f he a         f he G ee a d ice hee . B e c    e e ee      fi e ed da a.\nThe fi e ed da a, e i i a e ea a a ia i , i e e e ed ",
-   "total": 10,
+   "title": "Part 1: Water",
+   "weight": 1,
+   "total": 15,
+   "statement": "Water is distributed over the entire surface and interior of the Earth, in oceans, seas, and the atmosphere, but also in rocks and minerals. Water circulates through the Earth systems and causes various natural phenomena. Through its existence, life-forms and all forms of life are evolved and sustained. The Earth has become a warm and dynamic habitable place. In addition, water is extremely different from those in the essential bodies of the Solar System. In essence, as Earth, especially in a solid: ice. In this part, we test knowledge and inference about the existence of water on Earth and the Solar System and their interactions within the geosphere, atmosphere, hydrosphere and biosphere.",
    "parts": [
     {
-     "id": "1",
-     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
-     "points": 10,
+     "id": "Q1.1",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Q1) Water and wind are the main agents responsible for sediment transport. CHOOSE ALL of the correct statements in the context of water and wind sedimentary basins.\n   a) The sediment area of fluvial sediment (a) is in general larger than that of beach/aeolian sediment (f)\n   b) Beach sediment (c) contains a higher amount of organic fragments\n   c) In fluvial sediment (d), fine particles are suspended in water while coarse particles are transported in contact with the body of the seabed\n   d) When sediments are transported in water, their grain size gradation increases and they become rounder and well-sorted\n   e) The coarse sediment between (a) and (h), even in the delta (e)",
+     "reference": ""
+    },
+    {
+     "id": "Q2.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q2) Select ALL of the correct statements about the sediment and depositional environments involved in the formation of the white cliffs in Figure B.\n   a) This chalk can be classified as chemical sediment / sedimentary rock\n   b) This chalk is mainly composed of calcium carbonate, a mineral called calcite\n   c) Calcite originates from calcium carbonate secreted by microscopic organisms near the ocean surface\n   d) Similar chalk is formed during the marine environment by aggregation of calcium carbonate elements, leading to the formation of coral reefs\n   e) This chalk is a evidence of biogenic secreted by microscopic organisms accumulated on the ocean floor\n   f) This chalk represents direct interaction between the geosphere and the biosphere\n   g) This chalk represents under the influence of the biosphere on the geosphere",
+     "reference": ""
+    },
+    {
+     "id": "Q3.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q3) Select ALL of the correct statements about the sediments (a), (b) and (c) and the Hawaiian Island in Figure E.\n   a) The solubility of the internal calcium carbonate tends to decrease the deeper the water depth is increased from (c) to (a)\n   b) High water temperature will increase the solubility of the internal calcium carbonate in (a)\n   c) The sediment in (b) is mainly composed of evidence of calcite organism\n   d) The sediment in (a) is mainly composed of fauna life at the and fragments of the calcite organism\n   e) The sediment in (b) and (c) contain both siliceous and carbonate sediment",
+     "reference": ""
+    },
+    {
+     "id": "Q4.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q4) Select ALL the correct statements about P and Q magma in Figure A and B.\n   a) Magma P forms at a higher temperature than magma Q\n   b) Magma P forms at a lower temperature than magma Q\n   c) Magma Q has a higher water content than magma P\n   d) The viscosity of magma P decreases when the water content is increased\n   e) Magma P has a less silica content than magma Q\n   f) Magma P has a higher silica content than magma Q",
+     "reference": ""
+    },
+    {
+     "id": "Q5.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q5) Select ALL of the correct statements about the volcanoes in Figure C and D.\n   a) The volcano in Figure C is formed from magma P in Figure A and B\n   b) The volcano in Figure D is formed from magma P in Figure A and B\n   c) The volcano in Figure C is formed from magma Q of Figure A and B\n   d) The volcano in Figure D is formed from magma Q of Figure A and B\n   e) The volcano in Figure C is mainly composed of rhyolite\n   f) The volcano in Figure C is mainly composed of basalt\n   g) The difference in rock between these volcanoes is the result of the variations in the chemical composition of the magma",
+     "reference": ""
+    },
+    {
+     "id": "Q6.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q6) Select ALL of the correct statements about the volcanic regions of Iceland.\n   a) The volcanoes of regions X and Y are formed from magma P in figures A and B\n   b) The volcanoes of regions X and Y continue in a divergent plate boundary\n   c) Region X forms a high latitude desert due to the high viscosity of the lava\n   d) The volcanoes of the X and Y regions mainly erupted basalt formed from magma Q shown in Figure A and B\n   e) The extensive volcanic activity of region Y is due to a plume of aeofle outside of\n   f) Region X and Y are entirely above the initial stage of geothermal energy",
+     "reference": ""
+    },
+    {
+     "id": "Q7.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q7) Select ALL correct statements about Figure 2.\n   a) The height of ecduct in the picture box (3) increases when the T1 increase\n   b) The height of ecduct in the picture box (3) increases when the P1 increase\n   c) The height of ecduct in the picture box (3) increases when the T1 decrease\n   d) The height of ecduct in the picture box (3) increases when the P2 decrease\n   e) The height of ecduct in the picture box (3) increases when the P2 increase\n   f) The height of ecduct in the picture box (3) increases when the T2 and P2 in same increase",
+     "reference": ""
+    },
+    {
+     "id": "Q8.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q8) Based on the experiments in Figure 2, select ALL descriptions explaining the distribution of the aerosol extinction in the Earth's atmosphere in Figure 1.\n   a) A higher temperature at equator densities a greater amount of aerosol in the atmosphere\n   b) A thickness layer where the stratospheric Pacific Ocean is greater than that of the sea surface Pacific Ocean\n   c) The atmospheric temperature of the sea surface Pacific Ocean is greater than that of the sea surface Pacific Ocean\n   d) The concentration of aerosol in the equatorial ocean is greater than that of the subtropical ocean\n   e) The main near the ocean surface the sea surface of the continental mid-latitude contains less aerosol than that seen near the ocean surface of the equator because of the reference presence of more trees",
+     "reference": ""
+    },
+    {
+     "id": "Q9.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q9) Choose ALL of the correct statements about sea wind that causes a large body of water, as in the figure above.\n   a) The possible wind direction is (a)\n   b) The possible wind direction is (b)\n   c) The possible wind direction is (c)\n   d) The wind blows faster in position B because the friction with the surface is lower\n   e) Increasing the wind speed on the water decreases the Coriolis force\n   f) The difference between the air temperature and the density in position C is greater than that in position D\n   g) Waves can scale greater depending on the wind and water coast",
+     "reference": ""
+    },
+    {
+     "id": "Q10.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q10) Choose ALL the correct statements with regard to the above figures.\n   a) This typhoon occurred in the Northern hemisphere\n   b) 'A' is atmospheric pressure and 'B' is wind speed\n   c) P in Figure A is located to the right of the typhoon's path\n   d) The center of the typhoon was located near P at 2:00 P.M. July 11\n   e) After the center of the typhoon had passed, the wind direction at P changed from south-east to north-east",
+     "reference": ""
+    },
+    {
+     "id": "Q11.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q11) Based Figure A and B, choose ALL of the correct statements about water in the atmosphere and its impact on the regional climate.\n   a) Near 30 N and 30 S, the fact that evaporation is more intensive than precipitation contributes to the formation of large desert BWh (arid and arid desert)\n   b) The water deficit in the atmosphere above the dry-dry due to precipitation that evaporation is represented by the high air convergence of the water due to the trade wind of the Northern hemisphere\n   c) The atmosphere area of aeof due to precipitation that evaporation at the dry-dry, giving a gradual the atmosphere and adapted into a BWh climate (arid and arid desert)\n   d) The atmosphere gains more water due to greater evaporation than precipitation near 30 N and 30 S, giving it a humid atmosphere and adapted into a Cfa climate (wind temperate, for humid and humid summer)\n   e) As the rain falls in the tropic dry throughout the year, the Af climate (tropical, for humid) can be seen here year",
+     "reference": ""
+    },
+    {
+     "id": "Q12.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q12) Which of the following could accelerate both the retreat and flow of the Thwaites Glacier? Choose ALL of the correct answers.\n   a) An increase in the temperature of the ocean at the depth of the oceanic face of the glacier\n   b) A decrease in the temperature of the ocean beneath the glacier where it is afloat\n   c) The geothermal activity and water beneath the glacier\n   d) A decrease in the salinity of ocean water in contact with ice\n   e) An increase in air temperature\n   f) An increase in the bedrock of the glacial face",
+     "reference": ""
+    },
+    {
+     "id": "Q13.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q13) Based on the graph above, choose ALL of the correct statements.\n   a) Greenland is losing ice at a faster rate than Antarctica\n   b) The difference between ice mass in Greenland and Antarctica can be attributed, in part, to the difference in latitude\n   c) The difference between ice mass in Greenland and Antarctica can be attributed, in part, to a difference in the size of the ice cap\n   d) The difference between ice mass in Greenland and Antarctica can be attributed, in part, to the fact that Greenland is centered on land and ocean crust\n   e) The difference between ice mass in Greenland and Antarctica can be attributed, in part, to the fact that Greenland is exposed to warm, dry, and black carbon from the heavy industrialised Northern Hemisphere\n   f) The difference between ice mass in Greenland and Antarctica can be attributed, in part, to the fact that the Southern Hemisphere has a much larger area covered by desert which contributes to the formation of snow deposit derived in the Southern Hemisphere\n   g) Both graphs show a seasonal cycle of ice mass accumulation during good summer and flow of ice and growing season through autumn\n   h) Greenland has a larger annual variation in ice mass than Antarctica",
+     "reference": ""
+    },
+    {
+     "id": "Q14.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q14) Select ALL corrective statements relating to Figure B.\n   a) In graph (a), X represents the depth-velocity curve of the P wave and Y that of the S wave\n   b) In graph (a), the density increases from 1000 to 2900 km depth\n   c) In graph (a), the d-double prime refers to a fluid layer\n   d) In the range of 200–1100 km from the surface of Europa [graph (b)], density is expected to decrease with depth\n   e) The interior of Enceladus [graphic (c)] is considered divided into four distinct areas in agreement with the seismic velocity discontinuities",
+     "reference": ""
+    },
+    {
+     "id": "Q15.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q15) Europa and Enceladus are far from the Sun. Their surface temperature is therefore low, resulting in a surface of ice. There can be a liquid ocean beneath this layer of ice. Select ALL of the correct statements.\n   a) The ice sheet is thicker on the surface of Europa than the surface of Enceladus\n   b) The ice sheet is thinner on the surface of Europa than the surface of Enceladus\n   c) The thickness of the ocean Europa is greater than that of Enceladus\n   d) The thickness of the ocean Europa is less than that of Enceladus\n   e) The volume of the ocean Europa is greater than that of Enceladus\n   f) The volume of the ocean Europa is less than that of Enceladus",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Part 2: Air",
+   "weight": 1,
+   "total": 12,
+   "statement": "Air is a mixture of a gas and fine particles in suspension, which are in a continuous stage of gas regular and rainfall. The atmosphere energy above base is a near surface energy and distributed in the whole Earth ahead, producing wind and aiding the weather. Air currents occur the positions of fluid depths of surface surface space inter the basic moisture energy. The atmosphere has bounded the essential bodies of the Solar System are exhibit a various characteristics which depend on their composition and gas activity. In this part, we test knowledge and thinking about the air surrounding the Earth and the celestial bodies in the Solar System, and the interaction between geosphere, atmosphere, hydrosphere and biosphere.",
+   "parts": [
+    {
+     "id": "Q1.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q1) Select ALL of the correct statements.\n   a) The most abundant gas emitted during volcanic eruptions is CO2\n   b) Surface aeof cover the Earth's surface\n   c) Surface aeof reduced acidification of the surface\n   d) The gases emitted by a volcanic eruption can decrease the temperature\n   e) In figure B, the anti-greenhouse effect affected by surface aeof is the best represented by (b)",
+     "reference": ""
+    },
+    {
+     "id": "Q2.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q2) Choose ALL of the correct statements explaining the atmosphere described.\n   a) The current greenhouse effect is greater than that of the Archean\n   b) The temperature of formed about 4 billion years ago\n   c) Photosynthesis initiated 1.6 billion years ago when there was atmosphere first appeared\n   d) Life was initiated in the ocean 4 billion years ago\n   e) One of the main reasons of the decrease in atmospheric CO2 content, which represented more than 25% of the initial atmosphere, is the formation of ocean",
+     "reference": ""
+    },
+    {
+     "id": "Q3.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q3) Based Figure A above, choose ALL of the correct descriptions corresponding to process A to D.\n   a) Vegetation-related process A in the northern hemisphere is active during the growing season\n   b) Process B associated with animal activities is capable responsible for the recent increase in CO2 in the atmosphere\n   c) Process C causes an exchange of carbon from the atmosphere and the ocean\n   d) Process D free occurring in hot and humid area\n   e) Without process A, the Earth's atmosphere can contain abundant free oxygen",
+     "reference": ""
+    },
+    {
+     "id": "Q4.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q4) Based Figure A and B above, choose ALL of the appropriate interpretation of the seasonal variations in CO2 concentration.\n   a) In comparison with the Southern Hemisphere, the seasonal cycle of the larger CO2 concentration in the Northern Hemisphere is due to the larger land-radiation during the growing season\n   b) The annual CO2 concentration is increasing initially due to the significant CO2 emissions of the forest rather than human\n   c) For foresting area, it is the intensity of respiration, greater than that of vegetation in the break of forest, which is mainly responsible for the highest CO2 concentration in September and October\n   d) A greater absorption of CO2 by the ocean is responsible for the lowest CO2 concentration during the spring season\n   e) The lower CO2 concentration in the fall is due to the rapid decomposition of organic matter in soil\n   f) The large area of deciduous forest in the southern hemisphere remain a seasonal cycle of higher CO2 concentration than in the northern hemisphere\n   g) The combustion of fossil fuels influence the seasonal cycle of CO2 concentration",
+     "reference": ""
+    },
+    {
+     "id": "Q5.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q5) What environmental change could lead to a modified seasonal variation of CO2? Choose ALL of the correct statements.\n   a) Desertification\n   b) Greater absorption of carbon by the ocean\n   c) Greening of the land\n   d) More forest destruction\n   e) More volcanic activity\n   f) Intensive agriculture\n   g) Increase in human production",
+     "reference": ""
+    },
+    {
+     "id": "Q6.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q6) Choose the ONLY correct answer according to the figure above.\n   a) Periods of high dust concentration are characterized by high temperature\n   b) Increased amount of dust in the atmosphere during cold period increases albedo, resulting in high temperature\n   c) Increased amount of dust in the atmosphere during cold period decrease albedo, resulting in high temperature\n   d) Dust is dispersed by wind of larger degree than that of dust is guided by an ice sheet movement\n   e) Dust is dispersed by wind of larger degree than that of dust is guided by an ice sheet initiation",
+     "reference": ""
+    },
+    {
+     "id": "Q7.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q7) Choose ALL of the correct explanations describing the trends in the figure above.\n   a) Natural factors such as volcanic activity and solar activity caused a cooling in the second half of the 20th century\n   b) The observed rapid global warming can be interpreted even if anthropogenic factors (including greenhouse gas and aerosol emission) are included in the recent computer simulation of the climate models\n   c) Plumes of volcanic eruption, causing surface cooling by reflecting the sun and aerosols in the atmosphere, could reduce recent rapid global warming\n   d) Computer climate models simulations have verified that half of the observed global warming over the past 50 years is indeed due to human activities\n   e) The cooling effect of individual volcanic action on the global climate in general short-lived compared to the long-warming effect driven by the increased greenhouse effect",
+     "reference": ""
+    },
+    {
+     "id": "Q8.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q8) Choose ALL of the correct statements relating to the figure above.\n   Note: The word that is inverted in place of (A) (E) above is \"decreasing\" \"increasing\".\n   a) The increase in atmospheric CO2 due to deforestation causes the temperature at the earth surface increase in this feedback relationship\n   b) If the solubility of CO2 in the ocean decreases, the H of the ocean increases in this feedback relationship\n   c) E is \"increasing\"\n   d) Due to the increase in ice cover, the increasing glacier face induce a positive feedback\n   e) The decrease in the area of glacier lead to negative feedback",
+     "reference": ""
+    },
+    {
+     "id": "Q9.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q9) Choose ALL the correct explanations.\n   a) The size of the ozone hole area in 2017 larger than in 2000\n   b) The hole in the ozone layer of September 29, 1999 (Figure B) also occurred at the same time in the arctic\n   c) The amount of radiation reaching the face of Antarctica is increased more in 2017 than in 1971\n   d) The ozone hole Antarctica occurred during the spring of the Southern Hemisphere\n   e) Repair of the ozone layer shown in Figure B begins at the edge of the ozone layer\n   f) The main cause of the depletion of the ozone layer and the formation of hole within this ozone layer is the surface factor of chemical both two",
+     "reference": ""
+    },
+    {
+     "id": "Q10.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q10) Referring Figure 1 above, choose ALL of the correct statements explaining the indices of El Nino and La Nina.\n   a) El Nino indices have occurred each year\n   b) Convection is inactive in the East Pacific where SST (see Figure 2) is in high\n   c) The trade wind along the equatorial Pacific in a El Nino situation is weaker than in normal condition (anti-El Nino)\n   d) A strong index of La Nina occurred from 2010 to 2011\n   e) El Nino indices are caused by a sea level elevated from the East Pacific to the West Pacific\n   f) During a El Nino index, Indonesia experience a drought\n   g) During a El Nino index, the sea level will be higher along the coast of the peru and South America",
+     "reference": ""
+    },
+    {
+     "id": "Q11.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q11) Choose ALL of the correct statements.\n   a) (a) corresponds to La Nina and (b) El Nino\n   b) During period (a), the Walker circulation is weaker than normal\n   c) During period (a), the fishing industry decreased in the eastern Pacific\n   d) During the period of (b), the difference in SLP between Darwin and Tahiti is reduced compared to normal area\n   e) During period (b), the pressure gradient of the atmospheric surface is reduced compared to normal area\n   f) A situation in year 2010/2011 corresponds to the case of (a), and a situation in year 2015/2016 is the case of (b)",
+     "reference": ""
+    },
+    {
+     "id": "Q12.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q12) Choose ALL the correct statements.\n   a) The first recorded anomaly in X corresponds to (a)\n   b) The atmospheric pressure anomaly in X has correlated as an anti-phase (long-term average)\n   c) The direction of the current at the stations X and Y is influenced and the earth by the surface wind\n   d) The sea temperature at a depth of 1000 at the stations X and Y was reduced near the same region\n   e) The driving force of the deep ocean circulation is the surface wind\n   f) Around the region of station X, precipitation is greater than evaporation",
+     "reference": ""
+    },
+    {
+     "id": "Q13.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q13) Refer Figure A and choose ALL of the correct statements.\n   a) The spectra of planet 'a', 'b' and 'c' are in the invisible wavelength\n   b) The atmosphere of the three essential planets contain CO2\n   c) The spectra which is deepest in the atmosphere of planet 'a' and 'b' but shallow in the atmosphere of 'c' is O3\n   d) In the atmosphere of planet 'a', 'b' and 'c' in figure A, H2O, CO2 and O3 can be seen\n   e) Of the three planets, planet 'a' emits the greatest amount of energy",
+     "reference": ""
+    },
+    {
+     "id": "Q14.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q14) Refer Figure A and B, and choose ALL of the correct statements.\n   a) In figure B, the atmospheric temperature of the planet (1) is increase with altitude\n   b) In figure B, the planet (2) has a atmospheric state in which the temperature is increase with altitude\n   c) In figure B, among the three planets, planet (2) has the highest surface temperature\n   d) Planet (1) in figure B is planet 'a' in figure A\n   e) Planet (2) in figure B is planet 'a' in figure A\n   f) Planet (3) in figure B is planet 'a' in figure A",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Part 3: Solid Earth",
+   "weight": 1,
+   "total": 19,
+   "statement": "The state of the matter can be broadly classified in 2 categories: essential and gases. The essential that characterize essential state is their colors. The initial Earth was a gigantic ball of magma which gradually cooled, differentiating the matter, the core and the crust (which corresponds to face of the Earth on the hand the form of water). The crust character the crust is subjected weathering and erosion over geological time. The weathering is particles are sorted and derived by water, forming sedimentary basin. This water and earth cycle has been repeated ever since. In this part, we test knowledge and learning about solid and crust state at the material that compose the crust, their interaction with the geosphere, atmosphere, hydrosphere and biosphere.",
+   "parts": [
+    {
+     "id": "Q1.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q1) Choose ALL of the correct statements about the crust used in the construction of the Haang-deung.\n   a) B and C correspond to earth which crust is with foliation\n   b) The age of the matter made of the crust of document C is older than the matter made of a rock of document B\n   c) The difference between the face of crust B and C reflects the effect of physical weathering\n   d) The color difference between the crust of document A are separated by three years the atmosphere of each block\n   e) The weathering of the crust of document C is characteristic of a arid climate",
+     "reference": ""
+    },
+    {
+     "id": "Q2.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q2) Choose ALL of the correct statements about crust A and B in Table 1.\n   a) Rock A is granitic\n   b) Rock B is gneiss\n   c) Rock B formed at a higher temperature than rock A\n   d) Rock B formed at a higher pressure than rock A\n   e) The minerals that compose crust A are all silicate\n   f) The sedimentary iron in crust B is mainly carbonate",
+     "reference": ""
+    },
+    {
+     "id": "Q3.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q3) Choose ALL of the correct statements about soil C and D derived from crust A and B, respectively.\n   a) The increase in the Al2O3 content of soil C, derived from crust A, is explained by the increase in illite content\n   b) The increase in the Fe2O3 content of soil C, derived from crust A, is explained by the formation of magnetite\n   c) The difference in color between soil C and D is explained by a difference in SiO2 content\n   d) The great decrease in the CaO content of soil D, derived from crust B, is the result of chemical weathering\n   e) The significant increase in the Al2O3 content of soil D, derived from crust B, is the result of the formation of feldspar",
+     "reference": ""
+    },
+    {
+     "id": "Q4.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q4) Choose ALL of the correct statements that can be inferred from the information of the image.\n   a) Desert are produced by wind\n   b) B formed before A\n   c) B formed before C\n   d) F formed before D\n   e) E formed due heat precipitation",
+     "reference": ""
+    },
+    {
+     "id": "Q5.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q5) Choose ALL of the correct statements about the inferred crust and aeolian environment.\n   a) Photograph A shows cross-bedding\n   b) Photograph C shows cross-bedding\n   c) Photograph D shows contact the earth\n   d) The strata of fossil in photograph B can be used to determine the geological age of the deposit\n   e) The photographs show that this area a deep marine environment at the time of deposit\n   f) This environment had and water of terrestrial environment at the time of deposit",
+     "reference": ""
+    },
+    {
+     "id": "Q6.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q6) Choose ALL of the correct statements based on the information provided above.\n   a) Strata A and J were deposited at the same time\n   b) There could be a period of non-sedimentation between the J and K strata\n   c) The H and N fossils were deposited at the same time\n   d) The Bach formation is a regional area\n   e) D and K fossils were deposited under identical conditions",
+     "reference": ""
+    },
+    {
+     "id": "Q7.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q7) Choose ALL of the correct statements of the following:\n   a) The biostratigraphic fossil range VII of fossil life\n   b) XVI fossil life can be used as a biostratigraphic fossil\n   c) Paleozoic fossil life can be found in a larger sedimentary deposit in time than benthical fossil life\n   d) The disappearance range of Fossil life V is habituated by the Permian mass extinction\n   e) Fossil life VII is significantly affected by the mass extinction of the late Mesozoic",
+     "reference": ""
+    },
+    {
+     "id": "Q8.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q8) Choose ALL of the correct statements about the crust above.\n   a) The crust in photograph A represents a normal fault\n   b) The crust in photograph A represents a reverse fault\n   c) The direction of dip of the fault in photograph A is\n   d) The direction of the fault in photograph B is east-west\n   e) The crust represented by number 5 of photograph B formed after the sedimentary layers of 6 unverified (consolidated)\n   f) The crust represented by number 5 of photograph B formed by a east-west compression after the deposition of 6",
+     "reference": ""
+    },
+    {
+     "id": "Q9.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q9) Select ALL of the correct statements describe the a-b section, using figure A and B.\n   a) There is a oceanic trench in the section\n   b) The face of the Nazca plate is increase gradually deeper\n   c) Volcanic activities are placed the continental margin of the section\n   d) The earthquakes that occur along the section are due to subduction of the South America plate\n   e) The depth of the seismic foci that area along the section is increase toward the continent",
+     "reference": ""
+    },
+    {
+     "id": "Q10.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q10) Select ALL of the correct statements of the Antarctic Plate and neighboring plate boundaries.\n   a) The Antarctic plate is composed of continental arc\n   b) The boundary between the Antarctic plate and the African plate is resolved by subduction\n   c) Earthquake that occurring at the c-d and e-f fault has the same seismic foci\n   d) The boundary between the Antarctic and Pacific plate shows divergence\n   e) The plate boundaries along the c-d and g-h are formed at the age of the Paleozoic",
+     "reference": ""
+    },
+    {
+     "id": "Q11.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q11) What is the sedimentary formation in this geological map? ONE CORRECT ANSWER\n   a) Kd (the Jingdong formation)\n   b) Kha (the Haang formation)\n   c) Kg (the formation of the Shiratong granite)\n   d) Kcg (Ching formation)\n   e) K (the Jing formation)",
+     "reference": ""
+    },
+    {
+     "id": "Q12.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q12) What is the geological incised referenced to in the question in Q11? ONE CORRECT ANSWER\n   a) The incised of original highway\n   b) The incised of erosion\n   c) The incised of fault accession\n   d) The incised of discontinuity\n   e) The incised of contacting earth history",
+     "reference": ""
+    },
+    {
+     "id": "Q13.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q13) In the geographic section (Figure B), the high land is the east and the low is the west. What is the most probable cause explaining the formation of this ground? ONE CORRECT ANSWER\n   a) A age difference between the initiation of granite and the formation of sedimentary crust\n   b) A difference of water action / differential erosion due to lithological difference\n   c) A combination of the ground due to a fault\n   d) The development of a anticline and a syncline\n   e) Difference independence",
+     "reference": ""
+    },
+    {
+     "id": "Q14.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q14) Choose ALL of the correct statements explaining the characteristics of the Atacama Desert.\n   a) This region is affected by high pressure in the eastern part of the South Pacific\n   b) The surface atmosphere of this region is stable because of the Peru current which flows along the coast\n   c) This region is affected by cold and humid air which created the Andean mountains of the east\n   d) The Peru current produces a high temperature humidity within this region\n   e) The climate in this region is a atmosphere of the influence of the geosphere the atmosphere\n   f) The demand of water of the biosphere exceed the amount of precipitation, causing a water shortage",
+     "reference": ""
+    },
+    {
+     "id": "Q15.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q15) Select ALL of the correct statements.\n   a) The chemical reaction of the dissolution of limestone is: CaCO3 + H2O + CO2 Ca(HCO3)2\n   b) The characteristic inhibit in figure (c) and (d) are produced by the reaction: Ca(HCO3)2 CaCO3 + H2O + CO2\n   c) In the internal weathering process, atmospheric CO2 is increase\n   d) During the formation of a stalactite, the CO2 of the cave decrease\n   e) By using the cave that are 'active' of the formation of stalactite and stalagmite, we could cause an increase in the rate of stalactite of formation\n   f) The Earth system involved in the formation of limestone cave are the geosphere, hydrosphere and biosphere\n   g) The Earth system involved in the formation of limestone cave are the geosphere and hydrosphere",
+     "reference": ""
+    },
+    {
+     "id": "Q16.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q16) Select ALL of the correct statements.\n   a) The speed of propagation of tsunami waves at station X is faster than the speed of high water waves at station Y\n   b) The average water depth between the epicenter and station X is deeper than that at station Y\n   c) The wave energy of water waves at station X is higher than that of water waves at station Y\n   d) The height of the tsunami waves would have increased at the area attached the coast\n   e) The earthquake that generated the tsunami have been caused by a slip of fault\n   f) This region where the earthquake occurred correspond to a divergent plate boundary\n   g) Figure B is a representative example of the inter-connection between the geosphere, the hydrosphere and the biosphere",
+     "reference": ""
+    },
+    {
+     "id": "Q17.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q17) Choose ALL of the correct descriptions of the image.\n   a) The crescent Earth has a bright region where the sunlight is enough reflected by Earth's atmosphere\n   b) White cloud Earth has a area where sunlight is reflected directly from cloud\n   c) The space are visible because the photograph was taken in broad daylight\n   d) On the moon, the edge of the Moon is clear and sharp, and there is no thin black line because there is no atmosphere on the moon\n   e) Further the Earth and the Moon are fixed in the surface of the Moon, the Earth is eternal be on the horizon\n   f) The Earth is visible a crescent Moon seen from the far side of the Moon",
+     "reference": ""
+    },
+    {
+     "id": "Q18.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q18) Taking into account the information and the graph, choose ALL the appropriate answer\n   a) Scientists use the same method date craters on Earth and on the Moon\n   b) Scientists have suspected that a meteorite had created an impact crater on Earth\n   c) Scientists have suspected that a meteorite had created an impact crater on the Moon\n   d) Scientists have observed that the rate of formation of crater on the Moon remain constant in time\n   e) For about 300 million years, the impact rate of meteorite on the Earth and on the Moon has decreased\n   f) The impact rate of meteorite on the Earth and on the Moon during the accretion year was initial",
+     "reference": ""
+    },
+    {
+     "id": "Q19.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q19) Choose ALL the correct statements.\n   a) The temperature variation decrease as the depth of the Martian crust increase\n   b) According diagram B, the temperature should be constant for a depth greater than 5 meters\n   c) If there was a ocean on Mars, the range of temperature variation at the surface could increase\n   d) If the crust has greater the thermal conductivity than expected, the range of temperature change is increase with depth\n   e) If the crust has greater the thermal conductivity than expected, the range of temperature change is decrease with depth\n   f) If the crust has greater the thermal conductivity than expected, the range of temperature change is become constant at a depth greater than 3 meters\n   g) If the crust has greater the thermal conductivity than expected, the range of temperature change is become constant at a depth less than 3 meters",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Part 4: Flux (Heat and Energy)",
+   "weight": 1,
+   "total": 6,
+   "statement": "Earth's heat and energy come from difference. Although most of the heat of Earth come from the Sun, there are a source of internal heat. In accordance with the theory of plate tectonics and heat (phase, convection) the heat of the growing Earth and the radioactive decay of isotopes inside the Earth cause catastrophic events in earth and volcano. The internal energy of the Earth is self forth (heating, geothermal energy). Within the Earth system, energy either is a missing space conditions, it is constant changing. In this part, we engage knowledge and thinking about the topic of heat and energy of both the Earth and the celestial body in the space system with respect the geosphere, atmosphere, hydrosphere and biosphere.",
+   "parts": [
+    {
+     "id": "Q1.4",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q1) Select ALL of the correct statements of this rock.\n   a) Foliation is formed by head pressure\n   b) The banded rock are a region are a schist\n   c) The foliated crust is a breccia\n   d) Quartz and feldspar are a mineral of diorite 1\n   e) Calcite in the material of diorite 2\n   f) Calcite in the material of diorite 1 and 2",
+     "reference": ""
+    },
+    {
+     "id": "Q2.4",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q2) What is the chronological order of placing the different rock of sections? (choose one answer)\n   a) Diorite 1 is the older because it shows evidence of contact\n   b) Diorite 2 is the older because it shows evidence of contact\n   c) The foliated crust is older than diorite 2 because it is larger than diorite 1\n   d) The foliated crust is the older because the diorite shows evidence of contact\n   e) The foliated crust is the older because it is area below the diorite",
+     "reference": ""
+    },
+    {
+     "id": "Q3.4",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q3) Which of the geological principles is used to answer the question in 2? (Choose one answer)\n   a) The principle of original horizontality\n   b) The principle of superposition\n   c) The principle of faunal succession\n   d) The principle of discontinuity\n   e) The principle of cross cutting relationship",
+     "reference": ""
+    },
+    {
+     "id": "Q4.4",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q4) Select ALL the correct statements.\n   a) The coexistent of mineral A and B indicate a low-grade metamorphism (below 400 C)\n   b) Mineral B and C are a range around 500 C\n   c) The existence of mineral C indicate a medium temperature metamorphism of this metamorphism\n   d) The coexistent of mineral C and D indicate a high-temperature metamorphism of 600 C above\n   e) Mineral C and D are a form of the magmatic intrusion than mineral A and B\n   f) The relative amount of metamorphic mineral can be changed due to the increase in temperature during metamorphism\n   g) The rock composition metamorphic mineral is increase due to the increase in temperature during metamorphism",
+     "reference": ""
+    },
+    {
+     "id": "Q5.4",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q5) Based on the figure, choose ALL of the appropriate descriptions of the black carbon particles.\n   a) Dark carbon particles absorb solar radiation incident in the atmosphere that cloud\n   b) Dark carbon particles in the atmosphere can increase the Earth's surface temperature in the house\n   c) Dark carbon particles can cause a increase in water in the atmosphere\n   d) Dark carbon particles are a are transported through the atmosphere from their source the space",
+     "reference": ""
+    },
+    {
+     "id": "Q6.4",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q6) Based on the above information, choose ALL of the appropriate interpretations reating to the rapid retreat of the glacier.\n   a) The Alpine glacier began to decline rapidly at the temperature is more rapid at the end of the 19th century\n   b) The gradual decrease in precipitation is in its essence responsible for the recent recession of the glacier",
      "reference": ""
     }
    ]

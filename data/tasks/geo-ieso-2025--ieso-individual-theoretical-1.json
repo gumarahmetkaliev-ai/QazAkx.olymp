@@ -7,28 +7,556 @@
  "tasksFile": "olympiads/geography/s/ieso/2025/ieso-individual-theoretical-1.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "whole-document",
- "generatedAt": "2026-11-09T19:25:51.614Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:32:11.818Z",
  "quality": {
-  "tasks": 1,
-  "parts": 1,
-  "withPoints": 1,
+  "tasks": 9,
+  "parts": 66,
+  "withPoints": 66,
   "withReference": 0,
-  "withQuestion": 1,
-  "estimatedPoints": 1
+  "withQuestion": 66,
+  "estimatedPoints": 66
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задания тура",
-   "statement": "The 18th International Earth Science Olympiad\n              Individual Theoretical Test Part 1\n\n     ID Number:\n\n                  Answer Sheet (Do Not Detach)\n1            2              3            4           5\n\n6            7              8            9           10\n\n11           12             13           14          15\n\n16           17             18           19          20\n\n21           22             23           24          25\n\n26           27             28           29          30\n\n31           32             33           34          35\n\n36           37             38           39          40\n\n41           42             43           44\n\n       Do NOT open the test paper until the invigilator\n                  announces the start of the test.\n\nTest Instructions\n1. Exam Duration: The total duration of part 1 is 180 minutes. Once the exam ends, you\n   must stop writing immediately and wait for the test papers to be collected.\n2. Answer Submission:\n   ➢ All answers must be transferred to the corresponding numbered boxes on the cover\n      page. Do not exceed the borders of the answer area.\n   ➢ Only the uppercase letter (A, B, C, etc.) of the correct option should be filled in.\n   ➢ Even if you mark the correct answer beside the question, you will NOT receive any\n      points unless it is copied onto the cover page.\n   ➢ If you need to modify an answer, draw a single line through the original\n      answer and write the new one in the designated box (e.g., ABC AB).\n\nSection A: Oceans and the earth systems\nThe South China Sea is a geologically dynamic and ecologically diverse marginal sea located\nat the intersection of multiple tectonic plates and climatic regimes. Bordered by the Asian\ncontinent to the north and west and island arcs to the east and south, it hosts a wide spectrum\nof marine environments - from shallow continental shelves to deep-sea trenches and mid-\nocean basins. As shown in Figure A-1, the topography of the South China Sea reveals a broad\ncontinental margin, scattered coral reefs and islands, and a vast abyssal plain reaching depth\nbeyond 4,000 meters.\nMarine processes in the South China Sea reflect the complex interactions among the\nlithosphere, hydrosphere, atmosphere, and biosphere. Figure A-2 illustrates a typical\ncontinental margin profile, showing the transition from the coastal plain and shelf to the\ncontinental slope, rise, abyssal plain, and submarine canyons. These structural elements\ncontrol sediment distribution and energy gradients across the seafloor. Particularly important\nare turbidity currents - dense sediment-laden flows that move rapidly downslope through\nsubmarine canyons, often triggered by storms, earthquakes, or river floods. These flows play a\nkey role in shaping continental slopes and abyssal fans, and have caused multiple underwater\ncable breakages in recent decades.\nFigure A-3 shows the vertical stratification of oceanic water masses and benthic zones. The\nopen sea is broadly defined as the ocean depth where light begins to fade, at an approximate\ndepth of 200 m or the point of transition from continental shelves to continental slopes.\nConditions within the deep sea are a combination of low temperatures, darkness, and high\npressure. The deep sea is considered the least explored Earth biome as the extreme conditions\nmake the environment difficult to access and explore. Light penetration, biological activity,\ntemperature, and pressure vary significantly with depth, affecting both the pelagic ecosystems\nand seafloor processes.\nIn this section, you will explore how topography, sediment dynamics, and water depth interact\nto create different depositional and ecological environments across the South China Sea.\n\n                                                                                             1\n\nFigure A-1 Bathymetric (depth) map of South China Sea (Yuan et al., 2024, JGR: Oceans)\n\n                           Figure A-2 A continental margin\n\n                                                                                         2\n\n     Figure A-3 Schematic representation of pelagic (in the water column) and benthic (seafloor) zones\n\nQuestion 1:\nFigure A-1 shows the bathymetric (depth) features of the South China Sea and its surrounding\nregions. Several zones are visible, including deep basins, continental slope, and shallow\nregions dotted with atolls and small islands.\nWhich of the following regions in Fig. A-1 are most likely to support carbonate\nsedimentation? (single correct answer)\nA. A broad, flat deep-sea basin located in the central part of the map\nB. A narrow, steep region sloping down from the continental margin\nC. A shallow area in the southern part of the map, scattered with small islands\nD. A deep abyssal zone southwest of the main basin\n\nQuestion 2:\nFigure A-2 illustrates the cross-section of a continental margin, showing the transition from\ncoastal plain to continental shelf, slope, rise, and abyssal plain. Which of the following\nstatements about deep-sea sedimentation and turbidity currents in South China Sea are correct?\n(single correct answer)\nA.     Turbidity current transport, aeolian dust falling, and ice-rafted detritus deposition are\n       major mechanisms for terrigenous sediments entering the deep sea.\nB.     Turbidity currents are very rapid (up to tens of meters per second).\nC.     Sediments in hadal zones (over 6km of depth) are typically composed of fine-grained clay\n       and gravity-flow deposits such as turbidites.\nD.     Coarse-grained siliciclastic sediments are not present in deep oceans.\n\nQuestion 3:\nWhich earth systems may interact in the formation of sedimentary rocks such as limestone,\nchalk, and chert on the continental shelf? (single correct answer)\n\n                                                                                                         3\n\nA.   Only the Geosphere and Hydrosphere.\nB.   Only the Hydrosphere and Biosphere.\nC.   Only the Biosphere and Geosphere.\nD.   Only the Hydrosphere, Atmosphere, and Biosphere.\nE.   Only the Hydrosphere, Geosphere, and Biosphere.\nF.   The Atmosphere, Hydrosphere, Biosphere, and Geosphere.\n\nQuestion 4:\nWhich earth systems may interact in the formation of sedimentary rocks such as clay and\nchert on the Abyssal Plain? (single correct answer)\nA. Only the Geosphere and Hydrosphere.\nB. Only the Hydrosphere and Biosphere.\nC. Only the Biosphere and Geosphere.\nD. Only the Hydrosphere, Atmosphere, and Biosphere.\nE. Only the Hydrosphere, Geosphere, and Biosphere.\nF. The Atmosphere, Hydrosphere, Biosphere, and Geosphere.\n\nQuestion 5:\nWhich Earth systems interact least with the oceanic trenches? (single correct answer)\nA. The Geosphere and Hydrosphere.\nB. The Atmosphere and Biosphere.\nC. The Biosphere and Geosphere.\nD. The Hydrosphere, Atmosphere, and Biosphere.\nE. The Hydrosphere, Geosphere, and Biosphere.\nF. The Atmosphere, Hydrosphere, Biosphere, and Geosphere.\n\nQuestion 6:\nWhich of the following zone in Figure A-2 is most likely to serve as an initiation point for\nturbidity currents? (single correct answer)\nA. Zone ④\nB. Zone ⑤\nC. Zone ⑥\nD. Zone ⑦\n\nQuestion 7:\nWhich of the following processes or characteristics are commonly associated with sedimentation\nin Zone ②? (multiple correct answers)\nA. Submarine debris flow accumulation forming thick graded beds\nB. Dominance of calcite compensation depth (CCD) in controlling sediment preservation\nC. Active bioturbation caused by burrowing organisms such as worms and crabs\nD. Seasonal shifts in river plume dynamics affecting sediment supply and composition\n\nQuestion 8:\nWhich of the following zones in Figure A-3 exhibits the highest level of biological\n\n                                                                                               4\n\nproductivity? (single correct answer)\nA. Zone A\nB. Zone B\nC. Zone D\nD. Zone E\n\nQuestion 9:\nFigure A-3 includes Zone F, which corresponds to the hadal zone—the deepest layer of the\nocean found within oceanic trenches. These environments are typically deeper than 6,000\nmeters and represent some of the most extreme conditions on earth. They are isolated, under\nimmense pressure, and receive minimal organic input from the sea surface. Despite this,\nrecent research has revealed the presence of highly adapted organisms and even microbial\necosystems associated with tectonic or geochemical processes.\nWhich of the following statements about Zone F (Hadal) is correct? (single correct answer)\nA. Zone F supports coral reef ecosystems sustained by photosynthesis.\nB. Sedimentation rates are high due to abundant organic production at the surface.\nC. Organisms in this zone often rely on sinking organic matter or chemosynthetic energy\n    sources.\nD. The zone is characterized by carbonate ooze deposits derived from plankton.\n\nQuestion 10:\nThe deep ocean—typically defined as depths below 200 meters—is an environment of\nextreme and stable conditions. It is characterized by low temperature, high pressure, very little\nlight or complete darkness, and generally slow circulation. Below the thermocline, seawater\nproperties become relatively uniform over large horizontal distances. These conditions\ninfluence not only the physical structure of oceanic water masses but also the distribution and\nadaptability of marine life.\nWhich of the following statements about deep ocean environments are correct? (multiple correct\nanswers)\nA. Salinity varies greatly in deep ocean water due to changing surface input.\nB. Phytoplankton and rooted plants cannot survive in the deep ocean.\nC. Temperature and density vary rapidly with depth in deep ocean zones.\nD. Marine organisms living in the deep ocean are adapted to high hydrostatic pressure.\n\n                                                                                               5\n\nSection B: Energy and the earth systems\nThe world’s growing energy demands, coupled with the need for sustainable and secure\nenergy supplies, have driven the exploration and development of unconventional oil and gas\nresources. Unlike conventional hydrocarbons, which are extracted from porous reservoirs\nthrough traditional drilling, unconventional resources—such as shale gas, tight oil, coalbed\nmethane, and gas hydrates—are trapped in low-permeability formations, requiring advanced\ntechnologies like hydraulic fracturing and horizontal drilling for extraction.\n\n         Figure B-1 Hydrocarbon resource types and accumulation patterns (Zou et al, 2013)\n\nQuestion 11:\nWhich of the following descriptions correctly differentiate unconventional oil and gas from\nconventional oil and gas? (multiple correct answers)\nA. Unconventional oil and gas reservoirs require higher hydrodynamic conditions for\n   formation.\nB. Conventional oil and gas reservoirs often have distinct boundaries.\nC. Unconventional reservoirs are more abundant than conventional oil and gas.\nD. Unconventional oil and gas are more closely related to tectonic activities.\nE. Conventional reservoirs primarily store natural gas, while unconventional reservoirs\n   primarily store oil.\n\nQuestion 12:\nOil and natural gas are called \"fossil fuels\" because they originate from the remains of\norganisms that lived hundreds of millions of years ago. Under specific geological conditions,\nthis organic matter undergoes long-term transformation, eventually forming the energy\nsources we use today.\nWhich of the following statements about the organic sources of oil and gas are correct?\n(multiple correct answers)\nA. Primarily formed from the burial of ancient marine plankton and algal remains.\n\n                                                                                                6\n\nB. Primarily formed from the burial of large animal remains such as dinosaurs.\nC. The lignin of terrestrial higher plants is the main source of petroleum.\nD. Must be preserved in an oxygen-deprived (reducing) environment to eventually\n   transform into oil and gas.\nE. Carbon-rich gases from volcanic eruptions can directly condense into oil.\nF. Organic remains from freshwater lakes can also form oil and gas resources.\n\nQuestion 13:\nCompared to conventional reservoirs, shale gas reservoirs exhibit lower permeability but can\nstore substantial amounts of gas. For example, the Sichuan Basin in China has proven shale\ngas reserves exceeding 1 trillion cubic meters.\nWhy can shale store such large amounts of gas? (single correct answer)\nA. Shale formations with intense tectonic faulting create open fractures that store free gas.\nB. Shale formations are always adjacent to conventional reservoirs, allowing gas to migrate\n     and accumulate.\nC. Shale has nanoscale pores and contains abundant organic matter, which generates and\n     traps gas through thermal maturation.\nD. Methanogenic bacteria in shale convert carbonate minerals into methane.\n\nQuestion 14:\n\nThe Ordos Basin, located in north-central China, is China's second-largest sedimentary basin\n(after the Tarim Basin) with an area of approximately 370,000 km². It contains abundant\nunconventional oil and gas resources and serves as a strategic pillar for China's energy\nsecurity. Tight gas in the Ordos Basin accounts for over half of its total natural gas resources,\nprimarily distributed in Upper Paleozoic sandstones with multiple reservoirs. During\nexploration of the He 8 Member of the Lower Shihezi Formation, it was observed that this\nstratigraphic unit exhibits an average sandstone thickness of 20 meters in the Ordos Basin.\nLogging data indicates that approximately 50% of the sandstone layers contain tight gas, with\ngas-bearing intervals showing a porosity of 10% and gas saturation of 60%.\nAssuming these logging results are representative of the entire sandstone unit and given a gas\nformation volume factor of 0.007 (ratio of gas volume under reservoir conditions to standard\nsurface conditions), estimate the tight gas resource volume at surface conditions stored in this\n\n                                                                                                7\n\nreservoir.\nSelect the closest option. (single correct answer)\nA. 2.22 × 1011 m3\nB. 6.39 × 1011 m3\nC. 7.21 × 1012 m3\nD. 3.17 × 1013 m3\nE. 8.88 × 1013 m3\nF. 5.28 × 1014 m3\n\nQuestion 15:\nNatural gas hydrate (NGH) is another energy source, with estimated reserves roughly twice\nthe total known fossil fuel resources worldwide. However, its extraction technology remains\nimmature and may pose environmental risks, including geological hazards and greenhouse\ngas leakage.\nWhich of the following statements about natural gas hydrate are correct? (multiple correct\nanswers)\nA.   Natural gas hydrate belongs to conventional hydrocarbon reservoirs.\nB.   Natural gas hydrate belongs to unconventional hydrocarbon reservoirs.\nC.   The formation of Natural gas hydrate requires the combined action of the hydrosphere,\n     biosphere, and lithosphere.\nD.   Improper exploitation of Natural gas hydrate may disrupt the stability of only the\n     lithosphere and hydrosphere.\nE.   The formation of natur",
+   "title": "Section A: Oceans and the earth systems",
+   "weight": 1,
    "total": 10,
+   "statement": "The South China Sea is a geologically dynamic and ecologically diverse marginal sea located at the intersection of multiple tectonic plates and climatic regimes...",
    "parts": [
     {
-     "id": "1",
-     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
-     "points": 10,
+     "id": "1.1",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Which of the following regions in Fig. A-1 are most likely to support carbonate sedimentation? (single correct answer)\nA. A broad, flat deep-sea basin located in the central part of the map\nB. A narrow, steep region sloping down from the continental margin\nC. A shallow area in the southern part of the map, scattered with small islands\nD. A deep abyssal zone southwest of the main basin",
+     "reference": ""
+    },
+    {
+     "id": "2.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following statements about deep-sea sedimentation and turbidity currents in South China Sea are correct? (single correct answer)\nA. Turbidity current transport, aeolian dust falling, and ice-rafted detritus deposition are major mechanisms for terrigenous sediments entering the deep sea.\nB. Turbidity currents are very rapid (up to tens of meters per second).\nC. Sediments in hadal zones (over 6km of depth) are typically composed of fine-grained clay and gravity-flow deposits such as turbidites.\nD. Coarse-grained siliciclastic sediments are not present in deep oceans.",
+     "reference": ""
+    },
+    {
+     "id": "3.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which earth systems may interact in the formation of sedimentary rocks such as limestone, chalk, and chert on the continental shelf? (single correct answer)\nA. Only the Geosphere and Hydrosphere.\nB. Only the Hydrosphere and Biosphere.\nC. Only the Biosphere and Geosphere.\nD. Only the Hydrosphere, Atmosphere, and Biosphere.\nE. Only the Hydrosphere, Geosphere, and Biosphere.\nF. The Atmosphere, Hydrosphere, Biosphere, and Geosphere.",
+     "reference": ""
+    },
+    {
+     "id": "4.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which earth systems may interact in the formation of sedimentary rocks such as clay and chert on the Abyssal Plain? (single correct answer)\nA. Only the Geosphere and Hydrosphere.\nB. Only the Hydrosphere and Biosphere.\nC. Only the Biosphere and Geosphere.\nD. Only the Hydrosphere, Atmosphere, and Biosphere.\nE. Only the Hydrosphere, Geosphere, and Biosphere.\nF. The Atmosphere, Hydrosphere, Biosphere, and Geosphere.",
+     "reference": ""
+    },
+    {
+     "id": "5.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which Earth systems interact least with the oceanic trenches? (single correct answer)\nA. The Geosphere and Hydrosphere.\nB. The Atmosphere and Biosphere.\nC. The Biosphere and Geosphere.\nD. The Hydrosphere, Atmosphere, and Biosphere.\nE. The Hydrosphere, Geosphere, and Biosphere.\nF. The Atmosphere, Hydrosphere, Biosphere, and Geosphere.",
+     "reference": ""
+    },
+    {
+     "id": "6.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following zone in Figure A-2 is most likely to serve as an initiation point for turbidity currents? (single correct answer)\nA. Zone ④\nB. Zone ⑤\nC. Zone ⑥\nD. Zone ⑦",
+     "reference": ""
+    },
+    {
+     "id": "7.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following processes or characteristics are commonly associated with sedimentation in Zone ②? (multiple correct answers)\nA. Submarine debris flow accumulation forming thick graded beds\nB. Dominance of calcite compensation depth (CCD) in controlling sediment preservation\nC. Active bioturbation caused by burrowing organisms such as worms and crabs\nD. Seasonal shifts in river plume dynamics affecting sediment supply and composition",
+     "reference": ""
+    },
+    {
+     "id": "8.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following zones in Figure A-3 exhibits the highest level of biological productivity? (single correct answer)\nA. Zone A\nB. Zone B\nC. Zone D\nD. Zone E",
+     "reference": ""
+    },
+    {
+     "id": "9.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following statements about Zone F (Hadal) is correct? (single correct answer)\nA. Zone F supports coral reef ecosystems sustained by photosynthesis.\nB. Sedimentation rates are high due to abundant organic production at the surface.\nC. Organisms in this zone often rely on sinking organic matter or chemosynthetic energy sources.\nD. The zone is characterized by carbonate ooze deposits derived from plankton.",
+     "reference": ""
+    },
+    {
+     "id": "10.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following statements about deep ocean environments are correct? (multiple correct answers)\nA. Salinity varies greatly in deep ocean water due to changing surface input.\nB. Phytoplankton and rooted plants cannot survive in the deep ocean.\nC. Temperature and density vary rapidly with depth in deep ocean zones.\nD. Marine organisms living in the deep ocean are adapted to high hydrostatic pressure.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Section B: Energy and the earth systems",
+   "weight": 1,
+   "total": 14,
+   "statement": "The world's growing energy demands, coupled with the need for sustainable and secure energy supplies, have driven the exploration and development of unconventional oil and gas resources...",
+   "parts": [
+    {
+     "id": "11.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following descriptions correctly differentiate unconventional oil and gas from conventional oil and gas? (multiple correct answers)\nA. Unconventional oil and gas reservoirs require higher hydrodynamic conditions for formation.\nB. Conventional oil and gas reservoirs often have distinct boundaries.\nC. Unconventional reservoirs are more abundant than conventional oil and gas.\nD. Unconventional oil and gas are more closely related to tectonic activities.\nE. Conventional reservoirs primarily store natural gas, while unconventional reservoirs primarily store oil.",
+     "reference": ""
+    },
+    {
+     "id": "12.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following statements about the organic sources of oil and gas are correct? (multiple correct answers)\nA. Primarily formed from the burial of ancient marine plankton and algal remains.\nB. Primarily formed from the burial of large animal remains such as dinosaurs.\nC. The lignin of terrestrial higher plants is the main source of petroleum.\nD. Must be preserved in an oxygen-deprived (reducing) environment to eventually transform into oil and gas.\nE. Carbon-rich gases from volcanic eruptions can directly condense into oil.\nF. Organic remains from freshwater lakes can also form oil and gas resources.",
+     "reference": ""
+    },
+    {
+     "id": "13.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Why can shale store such large amounts of gas? (single correct answer)\nA. Shale formations with intense tectonic faulting create open fractures that store free gas.\nB. Shale formations are always adjacent to conventional reservoirs, allowing gas to migrate and accumulate.\nC. Shale has nanoscale pores and contains abundant organic matter, which generates and traps gas through thermal maturation.\nD. Methanogenic bacteria in shale convert carbonate minerals into methane.",
+     "reference": ""
+    },
+    {
+     "id": "14.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Estimate the tight gas resource volume at surface conditions stored in this reservoir based on the given parameters. Select the closest option. (single correct answer)\nA. 2.22 × 10¹¹ m³\nB. 6.39 × 10¹¹ m³\nC. 7.21 × 10¹² m³\nD. 3.17 × 10¹³ m³\nE. 8.88 × 10¹³ m³\nF. 5.28 × 10¹⁴ m³",
+     "reference": ""
+    },
+    {
+     "id": "15.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following statements about natural gas hydrate are correct? (multiple correct answers)\nA. Natural gas hydrate belongs to conventional hydrocarbon reservoirs.\nB. Natural gas hydrate belongs to unconventional hydrocarbon reservoirs.\nC. The formation of Natural gas hydrate requires the combined action of the hydrosphere, biosphere, and lithosphere.\nD. Improper exploitation of Natural gas hydrate may disrupt the stability of only the lithosphere and hydrosphere.\nE. The formation of natural gas hydrate requires Earth to be in a long-term ice age.",
+     "reference": ""
+    },
+    {
+     "id": "16.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Technique ① corresponds to principle represented by the letter ( ). (single correct answer)",
+     "reference": ""
+    },
+    {
+     "id": "17.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Technique ② corresponds to principle represented by the letter ( ). (single correct answer)",
+     "reference": ""
+    },
+    {
+     "id": "18.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Technique ③ corresponds to principle represented by the letter ( ). (single correct answer)",
+     "reference": ""
+    },
+    {
+     "id": "19.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Technique ④ corresponds to principle represented by the letter ( ). (single correct answer)",
+     "reference": ""
+    },
+    {
+     "id": "20.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following descriptions of coal bed methane enrichment is correct? (single correct answer)\nA. The thicker and deeper the coal seam, within the limits of coal bed methane enrichment, the more favorable it is.\nB. Coal bed methane enrichment is solely influenced by the biosphere, whereas the lithosphere's role is limited to gas preservation.\nC. Coal seams with sandstone roofs are more favorable for coal bed methane enrichment compared to those with mudstone roofs.\nD. Hydrogeological conditions characterized by stagnant groundwater and slow exchange with surface water are unfavorable for coal bed methane enrichment.",
+     "reference": ""
+    },
+    {
+     "id": "21.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Assuming that Fig.B-4a depicts a thick coal seam, in which parts(s) of this coal seam would gas enrichment most likely occur, potentially forming a gas reservoir? (multiple correct answers)\nA. The axial part below the neutral surface of an anticline\nB. The axial part above the neutral surface of an anticline\nC. The flank part below the neutral surface of an anticline\nD. The flank part above the neutral surface of an anticline",
+     "reference": ""
+    },
+    {
+     "id": "22.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following statements is incorrect? (single correct answer)\nA. After plants in swamps die, their remains accumulate in the swamp and gradually form peat, which is the precursor to coal.\nB. The inorganic components in coal may originate from mud and sand carried by rivers, as well as dust carried by wind.\nC. The formation of coal requires the combined interaction of the biosphere, hydrosphere, atmosphere, and lithosphere.\nD. Coal can be formed shortly after plant remains undergo both aerobic and anaerobic decomposition.",
+     "reference": ""
+    },
+    {
+     "id": "23.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following changes does not occur in the molecular structure of the organic matter in coal as the degree of metamorphism increases? (single correct answer)\nA. The side chains of the organic molecules in coal become shorter and fewer in number.\nB. The carbon structures become more tightly packed and organized, forming larger and more stable ring systems.\nC. The average molecular weight increases, while the molar ratio of carbon to hydrogen atoms decreases.\nD. The molecular arrangement gradually becomes more regular and ordered",
+     "reference": ""
+    },
+    {
+     "id": "24.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Regarding the process of coal formation in the epicontinental sea basin shown in Fig.B-7, which of the following descriptions are correct? (multiple correct answers)\nA. The uneven base of the basin during regression results in varying intensities of peat swamp development in different areas.\nB. The top interface of the clastic rock and the bottom interface of the coal seam can be considered as isochronous surfaces.\nC. The top interface of the coal seam and the bottom interface of the limestone can be considered as isochronous surfaces.\nD. Epicontinental seas were widely distributed during the Cambrian period, so this coal-forming model was likely very common at that time.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Section C: The oxygen cycle within the earth systems",
+   "weight": 1,
+   "total": 7,
+   "statement": "Oxygen is the most abundant element in the Earth's crust and the second most abundant element in the Earth's atmosphere...",
+   "parts": [
+    {
+     "id": "25.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following statements is not correct in describing the role of photosynthesis in the oxygen cycle? (single correct answer)\nA. Photosynthesis is the primary biological process that releases oxygen into the atmosphere.\nB. Terrestrial plants contribute more oxygen to the atmosphere than marine phytoplankton.\nC. Without photosynthesis, atmospheric oxygen levels would gradually decline due to respiration and combustion.\nD. Photosynthesis exhibits seasonal fluctuations, with higher oxygen production in summer due to increased sunlight and longer days.\nE. In winter, oxygen release is reduced in temperate/boreal ecosystems as deciduous trees lose leaves and ice cover reduces aquatic photosynthesis.",
+     "reference": ""
+    },
+    {
+     "id": "26.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following characteristics of early Earth's environment support this hypothesis? (multiple correct answers)\nA. Absence of continent exposure.\nB. Rapid dissolution of quartz.\nC. Consumption by aerobic bacteria.\nD. Abundant precipitation of Fe(III) in the early ocean.\nE. Strong volcanic outgassing of reducing gases.",
+     "reference": ""
+    },
+    {
+     "id": "27.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "What key insights does the Redfield Ratio provide about marine ecosystems? (multiple correct answers)\nA. It reveals a universal stoichiometric balance in marine phytoplankton, reflecting evolutionary optimization for nutrient utilization.\nB. The ratio indicates that carbon (C) is typically the limiting nutrient for phytoplankton growth in open oceans.\nC. The ratio indicates that nitrogen (N) is typically the limiting nutrient for phytoplankton growth in open oceans.\nD. The ratio indicates that phosphorus (P) is typically the limiting nutrient for phytoplankton growth in open oceans.\nE. It suggests that deep-ocean dissolved inorganic nutrients maintain the same ratio as living phytoplankton due to remineralization.\nF. Deviations from this ratio (e.g., N/P >16) in coastal waters often signal eutrophication or anthropogenic pollution (e.g., excess nitrogen from fertilizers).",
+     "reference": ""
+    },
+    {
+     "id": "28.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Before the evolution of oxygenic photosynthesis, molecular oxygen (O₂) could have been generated on early Earth through which of the following processes? (multiple correct answers)\nA. Volcanic outgassing, directly releasing O₂ from magma chambers through oxidation reactions in the mantle.\nB. Abiotic oxidation of minerals such as iron (Fe²⁺ → Fe³⁺) by water at hydrothermal vents, with O₂ as a byproduct.\nC. Photodissociation of water vapor (H₂O) by ultraviolet radiation in the upper atmosphere, releasing free oxygen atoms that combined to form O₂.\nD. Cometary impacts delivering ice that sublimated and underwent photochemical reactions in the atmosphere.",
+     "reference": ""
+    },
+    {
+     "id": "29.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "During the escape, which of the following gas molecules would cause the net oxygenation of the atmosphere? (single correct answer)\nA. H₂\nB. H₂O\nC. He\nD. CO₂\nE. N₂",
+     "reference": ""
+    },
+    {
+     "id": "30.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "During the Precambrian, which of the following minerals/rocks would consume atmospheric O₂ through continental weathering dissolution? (multiple correct answers)\nA. Coal\nB. Magnetite\nC. Pyrite\nD. Calcite\nE. Quartz",
+     "reference": ""
+    },
+    {
+     "id": "31.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following processes could have contributed to Mars' oxidized condition? (multiple correct answers)\nA. Absence of ultraviolet radiation\nB. Surface-atmosphere interactions (e.g., dust storms, impacts, cosmic rays)\nC. CO₂ sequestration as carbonate rocks\nD. Serpentinization reactions of Martian rocks (a water-rock reaction releasing H₂)\nE. Outgassing of basaltic magma",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Section D: Origin of life and the earth systems",
+   "weight": 1,
+   "total": 6,
+   "statement": "The origin of life on Earth and the search for extraterrestrial life rank among the most profound scientific challenges of our era...",
+   "parts": [
+    {
+     "id": "32.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following statements about stromatolites and the Earth system are correct? (multiple correct answers)\nA. The stromatolites exhibit conical and domal morphologies with good symmetry, indicating that they were influenced by uniform Earth system processes in lateral directions.\nB. Millimeter-scale laminations are preserved at the stromatolite margins, suggesting that the stromatolite growth responded to Earth system processes on decadal to centennial timescales.\nC. The mineral composition of stromatolites is primarily derived from terrestrial inputs.\nD. The stromatolites exhibit strong interactions with seawater, resulting in chemical element signatures similar to those of seawater.\nE. The cessation of stromatolite deposition and their subsequent burial by ordinary sediments reflect changes in the marine environment.\nF. Stromatolites are considered biogenic due to the detection of DNA fragments from cyanobacteria within them.",
+     "reference": ""
+    },
+    {
+     "id": "33.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following statements about the relationship between Earth’s emerging life and oxygen are correct? (multiple correct answers)\nA. Oxygen is essential for all known biochemical processes.\nB. Cyanobacterial photosynthesis released oxygen, transforming the early Earth's atmosphere, hydrosphere, and even lithosphere.\nC. The Great Oxygenation Event (~2.4 billion years ago) gradually enriched Earth’s atmosphere with oxygen, promoting the evolution of aerobic organisms.\nD. The ozone layer provided ultraviolet (UV) protection for the emerging life.",
+     "reference": ""
+    },
+    {
+     "id": "34.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "On early Earth, which of the following environments were likely to produce the earliest complex organic molecules? (multiple correct answers)\nA. Mantle\nB. Soil\nC. Atmosphere\nD. Deep-sea hydrothermal vents\nE. Terrestrial volcanic vents\nF. Meteorite impact craters",
+     "reference": ""
+    },
+    {
+     "id": "35.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "What aspects of the early Earth system did the Miller-Urey experiment simulate? (single correct answer)\nA. The earliest life forms originated in the atmosphere.\nB. Lightning provided energy for the synthesis of the earliest organic compounds.\nC. Terrestrial weathering supplied nutrients (e.g., N, P) to the oceans.\nD. Generation of simple lifeforms.",
+     "reference": ""
+    },
+    {
+     "id": "36.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following statements best describes the potential role of extraterrestrial objects (e.g., comets, meteorites) in the origin of life on early Earth? (single correct answer)\nA. Delivered prebiotic organic molecules (e.g., amino acids) through impacts, supplementing Earth's endogenous synthesis.\nB. Provided the first living cells via panspermia, making life exclusively extraterrestrial in origin.\nC. Catalyzed life's emergence by creating hydrothermal vent systems through impact-induced fracturing.\nD. Prevented life's formation by sterilizing Earth's surface through frequent collisions.",
+     "reference": ""
+    },
+    {
+     "id": "37.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following processes could be driven by biological activity during this critical period? (multiple correct answers)\nA. Formation of continental shelves through microbially mediated carbonate precipitation (e.g., stromatolite reefs).\nB. Accelerated continental weathering induced by terrestrial plants.\nC. Global cooling events triggered by photosynthetic drawdown of atmospheric CO₂.\nD. Decrease of mafic components in crust due to biological utilization.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Section E: Why has Martian water disappeared?",
+   "weight": 1,
+   "total": 3,
+   "statement": "Mars was once a warm and wet planet during its early formation, with the possibility of life forms existing. However, it has now transformed into a cold and dry world...",
+   "parts": [
+    {
+     "id": "38.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which factor did not influence the escape of Mars’ atmospheric water vapor? (single correct answer)\nA. The gravity of Mars\nB. Presence of magnetic field\nC. Presence of solar wind\nD. Presence of solar radiation",
+     "reference": ""
+    },
+    {
+     "id": "39.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "According to the idea of exobase, which celestial body has the highest altitude of exobase? (single correct answer)\nA. Mercury\nB. Venus\nC. Moon\nD. Mars",
+     "reference": ""
+    },
+    {
+     "id": "40.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Based on Fig.E-1, determine at which altitude the total flux of escaping water molecules reaches its maximum? (single correct answer)\nA. 150 km\nB. 160 km\nC. 170 km\nD. 180 km",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Section F: From swimming to crawling",
+   "weight": 1,
+   "total": 4,
+   "statement": "From water to land is a key step during vertebrate evolution. To adapt to the land environment, vertebrates have four limbs to lift up their body and walk around the land, lungs to breathe, and skin keratinized to keep water...",
+   "parts": [
+    {
+     "id": "41.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following statements are correct for Ichthyostega? (multiple correct answers)\nA. Ichthyostega lived in water.\nB. Limbs of Ichthyostega are mainly functional for swimming.\nC. Ichthyostega can be terrestrial as an extant land vertebrate.\nD. Ichthyostega was a reptile.",
+     "reference": ""
+    },
+    {
+     "id": "42.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "What are the possible reasons for the vertebrates moving to the land? (multiple correct answers)\nA. Foraging\nB. Refuge\nC. Rising sea level\nD. Easier reproduction",
+     "reference": ""
+    },
+    {
+     "id": "43.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following fossil discoveries would support this? (single correct answer)\nA. Feathered dinosaurs\nB. Armored dinosaurs\nC. Toothless dinosaurs\nD. Duck-billed dinosaurs",
+     "reference": ""
+    },
+    {
+     "id": "44.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following lines of evidence support that the extinction event was also caused by an asteroid impact on a shallow marine shelf? (multiple correct answers)\nA. Iridium anomaly worldwide\nB. Glassy spherules distributed in a bullseye pattern around a gravity anomaly\nC. An increase in oceanic biological activity\nD. Global tsunami deposits\nE. Thick fossiliferous dinosaur beds\nF. Dinosaur footprints preserved in ash beds",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Section G: Rocks and the earth systems",
+   "weight": 1,
+   "total": 4,
+   "statement": "An ophiolite complex in a mountain belt has been studied by a group of geologists. The sequence includes serpentinized peridotite, layered gabbro, vertical mafic dikes, pillow basalts, and radiolarian chert...",
+   "parts": [
+    {
+     "id": "45.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Based on the full rock sequence described above, what can be reasonably inferred about the tectonic history of this region? (multiple correct answers)\nA. The area once experienced active seafloor spreading.\nB. The sequence likely formed in a subduction zone environment.\nC. The ophiolite was uplifted through continental rifting.\nD. The oceanic crust was thrust onto the continent during plate convergence.\nE. The sequence formed terrestrially and subsequently submerged beneath the ocean.",
+     "reference": ""
+    },
+    {
+     "id": "46.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Based on this information, which of the following interpretations is most reasonable? (multiple correct answers)\nA. The rocks represent primitive mantle material that has not undergone melting.\nB. The rocks were formed from a magma enriched in incompatible elements.\nC. The rocks are residues left behind after partial melting of the upper mantle.\nD. The rocks are likely associated with the formation of new oceanic crust at a mid-ocean ridge.",
+     "reference": ""
+    },
+    {
+     "id": "47.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Suppose a fossil assemblage from the radiolarian chert layer at the top of the ophiolite is dated to ~160 million years ago (Jurassic). What geological conclusion is most strongly supported by this data? (multiple correct answers)\nA. The ophiolite was formed in or before the Jurassic at a mid-ocean ridge.\nB. The entire ophiolite complex was emplaced onto the continent during the Jurassic.\nC. The ocean floor above the ophiolite was still active until the end of the Jurassic.\nD. The age of radiolarians gives the most recent time of ophiolite formation and not necessarily its emplacement.",
+     "reference": ""
+    },
+    {
+     "id": "48.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following statements best explain the role of water-rock interaction during and after the formation of pillow basalts? (multiple correct answers)\nA. Rapid cooling by seawater causes the outer surface of the lava to solidify, creating the round “pillow” shape.\nB. Cold seawater infiltrates hot volcanic rocks, leading to chemical alteration and the formation of new minerals.\nC. Water–rock interaction is only possible if the basalts are exposed to the atmosphere, not underwater.\nD. Pillow basalts are typically formed in deep continental basins where groundwater replaces seawater.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Section H: The rock telling the story",
+   "weight": 1,
+   "total": 5,
+   "statement": "You are analyzing a wind-blown sedimentary profile exposed in a region of northern China, near the Loess Plateau, an area known for its significant deposits of loess and sand dunes...",
+   "parts": [
+    {
+     "id": "49.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "What does this suggest about the environmental conditions during the time of deposition? (single correct answer)\nA. The region experienced strong winds with dry conditions during the deposition of sand, followed by a change in conditions that allowed for the deposition of loess\nB. The region was humid with consistent rainfall, leading to the deposition of both sand and loess\nC. The region was subject to tectonic instability, which caused both wind erosion and deposition of finer particles\nD. The region was constantly cold with little to no moisture, which prevented the formation of loess",
+     "reference": ""
+    },
+    {
+     "id": "50.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "What can be inferred about the past environmental conditions? (single correct answer)\nA. The region was consistently humid with frequent rainfall and plant growth.\nB. The region was semi-arid, with periodic wet conditions allowing for soil formation and biological activity.\nC. The region had stable, dry conditions, allowing only wind-driven deposition of fine particles.\nD. The region was subject to frequent glaciation, which prevented the establishment of vegetation.",
+     "reference": ""
+    },
+    {
+     "id": "51.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "What does this change suggest about the climate conditions at the time of deposition? (single correct answer)\nA. The region transitioned from a humid environment to a more arid one, with decreased wind strength and coarser sediment deposition\nB. The region became more humid, with frequent rainfalls leading to coarse sand deposition\nC. The region was subject to tectonic uplift, which caused the coarsening of the sediments\nD. The region experienced intense seasonal variations, with alternating periods of wet and dry conditions that caused grain size fluctuations",
+     "reference": ""
+    },
+    {
+     "id": "52.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following is the most plausible interpretation of these observations? (single correct answer)\nA. The region transitioned to a more humid environment, where vegetation could establish and biological activity could occur\nB. The region remained arid, but biological activity was still present during rare wet events\nC. The region was cold and dry, preventing the establishment of vegetation but allowing for the preservation of microfossils\nD. The region was subject to frequent disturbances, such as volcanic eruptions, which allowed plant roots to grow temporarily",
+     "reference": ""
+    },
+    {
+     "id": "53.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Based on your analysis of the entire sediment profile, what can you deduce about the paleoclimate of the region during the time of deposition? (single correct answer)\nA. The region experienced constant dry conditions, with little seasonal variation, and mostly wind-blown sand deposition\nB. The region underwent alternating wet and dry conditions, with seasonal changes in wind strength and moisture availability\nC. The region had a stable humid climate, with consistent rainfall and little wind influence\nD. The region was characterized by intense seasonal flooding, which prevented the formation of wind-blown sediments",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Section I: The hydrosphere and the earth systems",
+   "weight": 1,
+   "total": 13,
+   "statement": "China spans nearly 5,000 kilometers from west to east and hosts one of the most complex and varied physical geographies on Earth. Its landscape is characterized by a dramatic west-to-east elevation gradient...",
+   "parts": [
+    {
+     "id": "54.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which locations on the map show sedimentation patterns that are primarily influenced by interactions between the atmosphere and the lithosphere? (multiple correct answers)",
+     "reference": ""
+    },
+    {
+     "id": "55.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which location on the map shows sedimentation that is primarily controlled by the interaction of the hydrosphere, biosphere, and lithosphere? (single correct answer)",
+     "reference": ""
+    },
+    {
+     "id": "56.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following locations on the map illustrate sedimentation primarily driven by direct physical interactions between the hydrosphere and the lithosphere — such as fluvial erosion, transport, and deposition — without major contributions from atmospheric or biological processes? (multiple correct answers)",
+     "reference": ""
+    },
+    {
+     "id": "57.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "In which of the following depositional environments are very poorly-sorted sediments most likely to be found? (multiple correct answers)",
+     "reference": ""
+    },
+    {
+     "id": "58.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Based on the map and your understanding of regional geography, which of the following locations are likely to host terrigenous saltwater lakes? (multiple correct answers)",
+     "reference": ""
+    },
+    {
+     "id": "59.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Based on your understanding and the map, which location is most likely to support brackish lagoon environments rather than freshwater systems? (single correct answer)",
+     "reference": ""
+    },
+    {
+     "id": "60.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following bedrock types is most likely to develop karstic features through this process? (single correct answer)\nA. Marl\nB. Dolomite\nC. Schist\nD. Granite",
+     "reference": ""
+    },
+    {
+     "id": "61.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the earth systems are interrelated (directly and indirectly) to form karstic landscape? (single correct answer)\nA. Only the Geosphere and Hydrosphere.\nB. Only the Hydrosphere and Biosphere.\nC. Only the Biosphere and Geosphere.\nD. Only the Hydrosphere, Atmosphere, and Biosphere.\nE. Only the Hydrosphere, Geosphere, and Biosphere.\nF. The Atmosphere, Hydrosphere, Biosphere, and Geosphere.",
+     "reference": ""
+    },
+    {
+     "id": "62.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following statements about river sinuosity is correct? (single correct answer)\nA. River sinuosity refers to the degree of bending in a river, typically expressed as the ratio of channel length to valley length.\nB. Higher sinuosity indicates faster flow velocity.\nC. River sinuosity is independent of erosional processes.\nD. River sinuosity is solely influenced by topography, not discharge.",
+     "reference": ""
+    },
+    {
+     "id": "63.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following statements about river terraces is not correct? (single correct answer)\nA. River terraces are step-like landforms resulting from fluvial deposition and incision.\nB. River terraces can reflect tectonic uplift or climatic change.\nC. The formation of river terraces is unrelated to fluvial deposition.\nD. A greater number of terrace levels indicates more tectonic uplift events.",
+     "reference": ""
+    },
+    {
+     "id": "64.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following statements about fluvial bars is not correct? (single correct answer)\nA. Both point bars and lateral bars are formed by fluvial deposition.\nB. Point bars are located on the inner side of meander bends, whereas lateral bars are found along the channel margins.\nC. The grain size of sediments in point bars and lateral bars is identical.\nD. The formation of point bars and lateral bars is influenced by river discharge and flow velocity.",
+     "reference": ""
+    },
+    {
+     "id": "65.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following landforms can help indicate river flow direction? (multiple correct answers)\nA. Point bars\nB. Lateral bars\nC. River terraces\nD. Floodplains",
+     "reference": ""
+    },
+    {
+     "id": "66.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following statements about meandering, braided, and anastomosing rivers are correct? (multiple correct answers)\nA. Meandering rivers typically develop in areas with gentle slopes and fine sediments.\nB. Braided rivers are typically associated with coarse sediment load and large fluctuations in flow, leading to frequent channel rearrangement.\nC. Anastomosing rivers are transitional between meandering and braided rivers, with stable channels and minimal branching.\nD. The formation of meandering and braided rivers is independent of river discharge and solely controlled by topography.",
      "reference": ""
     }
    ]

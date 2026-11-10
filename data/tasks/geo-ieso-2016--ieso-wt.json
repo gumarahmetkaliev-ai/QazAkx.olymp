@@ -7,58 +7,493 @@
  "tasksFile": "olympiads/geography/s/ieso/2016/ieso-wt.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T19:25:53.238Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:51:27.102Z",
  "quality": {
-  "tasks": 3,
-  "parts": 3,
-  "withPoints": 3,
+  "tasks": 29,
+  "parts": 33,
+  "withPoints": 33,
   "withReference": 0,
-  "withQuestion": 3,
-  "estimatedPoints": 3
+  "withQuestion": 33,
+  "estimatedPoints": 21
  },
  "tasks": [
   {
    "number": 1,
-   "title": "The figure below depicts the temperature profiles of the northwestern…",
-   "statement": "The figure below depicts the temperature profiles of the northwestern Pacific Ocean during\nsummer and winter. In both the profiles, the seasonal change in the structure of the ocean\nwater column is limited to the shallow part.\n\nChoose the most appropriate explanation from the choices given below:\n\nThe seawater is ​well mixed down to a few hundred meters because . ​(Just one correct answer).\n       a) In summer, the wind speed in the area is very high.\n       b) In summer, sunlight warms the shallow water strongly.\n       c) In winter, the wind speed in the area is very high.\n       d) In winter, sunlight warms the shallow water strongly.\n\nFigure: Temperature profiles of the northwestern Pacific Ocean during winter and summer.",
-   "total": 7,
+   "title": "Temperature profiles of the northwestern Pacific Ocean",
+   "weight": 1,
+   "total": 1,
+   "statement": "The figure below depicts the temperature profiles of the northwestern Pacific Ocean during summer and winter. In both the profiles, the seasonal change in the structure of the ocean water column is limited to the shallow part. Choose the most appropriate explanation from the choices given below:",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
+     "id": "1.1",
+     "points": 1,
+     "question": "The seawater is well mixed down to a few hundred meters because . (Just one correct answer).\na) In summer, the wind speed in the area is very high.\nb) In summer, sunlight warms the shallow water strongly.\nc) In winter, the wind speed in the area is very high.\nd) In winter, sunlight warms the shallow water strongly.",
      "reference": ""
     }
    ]
   },
   {
    "number": 2,
-   "title": "Choose the correct statements describing the paleomagnetism of…",
-   "statement": "Choose the correct statements describing the paleomagnetism of sediments and igneous\nrocks of the oceanic plate. ​(More than one correct answer.)\n\na)   The igneous rocks can record an ancient magnetic field acquired when they cool from\n     high temperatures.\nb)   The igneous rocks cannot record an ancient magnetic field because they were originally\n     hot magma before solidification.\nc)   The sediments deposited on the igneous rocks record an ancient magnetic field, as\n     magnetization is acquired by heat derived from the igneous rocks.\nd)   The sediments deposited on the igneous rocks have magnetic minerals that record an\n     ancient magnetic field at the time of deposition.\n\n                                                 2",
-   "total": 7,
+   "title": "Paleomagnetism of sediments and igneous rocks",
+   "weight": 1,
+   "total": 1,
+   "statement": "Choose the correct statements describing the paleomagnetism of sediments and igneous rocks of the oceanic plate. (More than one correct answer.)",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "2.1",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "a) The igneous rocks can record an ancient magnetic field acquired when they cool from high temperatures.\nb) The igneous rocks cannot record an ancient magnetic field because they were originally hot magma before solidification.\nc) The sediments deposited on the igneous rocks record an ancient magnetic field, as magnetization is acquired by heat derived from the igneous rocks.\nd) The sediments deposited on the igneous rocks have magnetic minerals that record an ancient magnetic field at the time of deposition.",
      "reference": ""
     }
    ]
   },
   {
    "number": 3,
-   "title": "As shown in the figure below, relative humidity is measured by using…",
-   "statement": "As shown in the figure below, relative humidity is measured by using a pair of\nthermometers with a dry bulb and a wet bulb. The wet bulb is wrapped by gauze to keep it\nmoist by the pot of water. Which of the statements below are correct? ​(More than one correct\nanswer.)\n\na) If the air is unsaturated, dry bulb temperature is always higher than wet bulb temperature.\nb) If the air is unsaturated, wet bulb temperature always equals dew-point temperature.\nc) If the difference in temperature between the dry bulb and wet bulb remains the same,\n   relative humidity is higher when the dry bulb temperature is higher.\nd) If the difference in temperature between the dry bulb and wet bulb remains the same,\n   water vapor content is greater when the dry bulb temperature is higher.\n\n                                               3\n\n4​. ​The figure below shows the seasonal variations of atmospheric carbon dioxide as measured\nin Barrow, Alaska (71.3°N, green triangles), Mauna Loa, Hawai’i (19.6°N, blue diamonds),\nSouth Pole (90° S, red squares), and Samoa (Pacific island at 13.76°S, purple crosses) for three\nconsecutive years, 2002-2004.\n\n- Why are the amplitudes of oscillation relatively higher in the Northern Hemisphere? ​(More\nthan one correct answer.)\n   a)     Human population is relatively higher in the Northern Hemisphere.\n   b)     Forest cover is relatively higher in the Northern Hemisphere.\n   c)     Vascular plants are absent in Antarctica.\n   d)     Ocean area is relatively more in the Southern Hemisphere, which causes more CO​2\n          absorption.\n\n5. Seasonal CO​2 maxima\n                 ​      in the South Pole occur in September (9​th month), whereas in Barrow\nand Mauna Loa, they occur in May (5​th​ month). Why? ​(Just one correct answer.)\n   a)     Energy production and thus emission of CO​2 ​peak in winter.\n   b)     Excess of respiration over photosynthesis peaks in winter.\n   c)     Excess of photosynthesis over respiration peaks in winter.\n   d)     Oceans liberate more CO​2​ in summer.\n\n                                               4\n\n6​. Paleo coral terraces are usually dated using a suitable method for reconstruction of paleo\nsea level changes. This is made possible because of : ​(Just one correct answer.)\n   a)      Corals grow at a slower rate during high sea level stands and faster during low sea\n           level stands.\n   b)      Corals growing in the deep sea are sensitive to the overhead pressure, which is a\n           function of sea level\n   c)      Most corals host photosynthetic symbionts, which require sunlight. This makes\n           corals grow within ~ 50 m of the sea surface.\n   d)      Carbonate precipitation by corals is thermodynamically favored only close to the\n           sea surface.\n7. Paleosurfaces containing dead corals, when dated precisely, give information on the time of\n:​(More than one correct answer.)\n   a)      abrupt sea level rise\n   b)      sea level fall\n   c)      abrupt subsidence of land\n   d)      abrupt uplift of land\n\n8. A time of higher sea level stand (corrected for tectonic changes on land) usually indicates :\n(More than one correct answer.)\n   a)      Lower atmospheric CO​2​ and CH​4​.\n   b)      Lower ice volume of the Earth.\n   c)      Higher carbonate precipitation in the oceans by marine organisms (corals,\n           pteropods, coccoliths and foraminifera).\n   d)      Higher dust content in the atmosphere.\n9.​ What is the geological structure of the picture below? ​(Just one correct answer.)\n   a) Meteorite crater\n   b) Volcanic crater\n   c) Erosional anticline\n   d) Erosional syncline\n\n                                                   5\n\n10. The photographs below represent sedimentary structures observed in the field.\n    a) Which of the photographs below represents a sedimentary feature formed by biogenic\n       activity ?\n       Photo    A       B C   D\n    b) Which of the photographs below represents a sedimentary structure formed by differential\n       loading ?\n       Photo    A       B C   D\n    c) Which of the photographs below represents a sedimentary structure formed by desiccation ?\n       Photo    A       B C   D\n\n                    A                    B                     C\n\n                    D\n\n11​. The following are some laws of historical geology. Which is a correct choice of laws ​unsuitable\nfor determining the relative ages of two kinds of rocks in contact?\n  1:Law of original/lateral continuity\n  2: Law of original horizontality\n  3: Law of cross-cutting relationship\n  4: Law of superposition\n  5: Law of faunal succession\n  6: Law of inclusion\n\nChoose the correct alternative :​ (Only one correct answer.)\n\nAlternative a : ​1, 2\nAlternative b : ​3, 4\nAlternative c : ​5, 6\n\n                                                  6\n\nAlternative d : ​1, 2, 3\nAlternative e : ​4, 5, 6\n\n12. P wave from an earthquake arrived at a station at 03:01 am. Figure 1 shows the seismogram\nrecorded at the station. Figure 2 shows the relation between the P-wave and S-wave travel times (​t​p\nand ​t​s, respectively) and epicentral distance (km).\n\n                                                                            Figure 1\n\n                       Figure 2\n\n13 Choose the correct answer ​(only one correct answer)\n    (1) Approximately how far is the seismic station from the earthquake epicenter?\n\n          a.   1000 km\n                                                    7\n\n           b.   2500 km\n           c.   40OO km\n           d.   5000 km\n\n     (2)   Approximately at what time did the earthquake occur?\n           a)   2 :36\n           b)   2 :46\n           c)   2 :56\n           d)   3 :01\n\n     (3)   Approximately at what time will the P-wave arrive at a station 4500 km away from the\n           epicenter?\n           a)   ​3 :00\n           b) 3 :02\n           c) 3 :04\n           d) 3 :10\n\n14.​ The table below shows surface sea water properties observed at regions, \"A\", \"B\" and \"C\".\nWhich statements given below are correct? ​(More than one correct answer.)\n (Assume that surface salinity can be affected by evaporation and precipitation only.\n\n  Region (​℃​)Temperature (Salinity (g/kg             (Density (kg/m​3\n\n       A                    (a)            36.0                  1027\n\n       B                    12             35.5                  1027\n\n       C                    12             34.0                    (b)\n\n   a) The temperature of region “A” is less than 12 ​℃.\n   b) The density of region “C” is between 1000 and 1027 ​kg/m​3​.\n   c) The value of 'evaporation minus precipitation' at region “A” is higher than those at regions\n      “B” and region “C”.\n   d) If we sample equal volumes of water from “A” and “B” and mix them (assuming they are\n      maintained at their original temperature), water density will increase.\n\n15​. Global warming can be caused by an ________: ​(several correct answers.)\n\n                                                  8\n\n   a) Increased rate of thermonuclear fusion in the Sun.\n   b) Increased greenhouse gases in the Earth’s atmosphere.\n   c) Increased atmospheric humidity.\n   d) Increased sulphate aerosols in the atmosphere.\n\n16​. Oceanic regions of both the hemispheres lying ​in the same latitude ​as the desert belts are\ncharacterized by _________________. ​(More than one correct answer.)\n\n   a)   Dry, stable conditions with little cloud.\n   b) Hot, humid days with high winds.\n   c) Rainy conditions.\n   d) A rapid increase in temperature.\n   e) High surface salinity.\n\n17. Heat and gravity and geosphere dynamics. Choose all the correct statements below.\n(More than one correct answer.)\n   a) The energy type leading to the geosphere dynamics is only heat.\n   b) The energy type leading to the geosphere dynamics is only potential energy.\n   c) The energy type leading to the geosphere dynamics includes both heat and potential\n      energy (linked with “gravity”).\n   d) The density differences between the various zones of the lithosphere are only due to\n      differences in chemical and mineral composition.\n   e) The density differences between the various zones of the lithosphere are only due to\n      temperature differences and their cooling over time.\n   f) The density differences between the various zones of the lithosphere are due to\n      differences in chemical and mineral composition AND their cooling over time due to\n      heat exchange.\n\n18. Geothermal energy and its uses.\nTemperature increases gradually as depth increases in the lithosphere. ​(More than one correct\nanswer.)\n   a) The geothermal gradient is the same at all points of the lithosphere.\n   b) The geothermal gradient is steeper/higher in areas where extension thinned the\n      lithosphere.\n   c) The geothermal gradient is steeper/higher in continental areas where the crust is\n      thick.\n   d) The geothermal gradient is steeper/higher in areas of intense volcanism.\n\n                                                    9\n\n19. Which of the statements below correctly describe the origin of the Earth’s heat? ​(More\nthan one correct answer.)\n   a) The Earth formed by accretion of planetesimals that collided with the growing Earth by\n      converting their kinetic energy into heat.\n   b) The Earth formed by fragments pulled from an original Sun and gave initially a hot\n      planet.\n   c) The solidification of the liquid outer core into an inner solid core generated some of\n      the heat.\n   d) The heat emission from the hot inner core lead to the melting of the outer core area.\n\n20. ​Which of the statements below correctly describe the temperature of the planets of the\nsolar system ​? ​(More than one correct answer.)\n   a) The temperature of the Earth remains fairly constant; the heat output by radioactivity\n      compensates the loss of heat.\n   b) The Earth gradually cools.\n   c) The cooling of the Earth caused the transition from liquid to solid, to form the first\n      crust 4 billion years ago.\n   d) All the planets of the solar system loose heat.\n\n21.​ When a person on the Earth witnesses a solar eclipse, an astronaut standing on the night\nside of the moon will __________​(only one answer)​.\n\n       (a) also witness the solar eclipse\n       (b) witness no eclipse\n       (c) witness an Earth eclipse\n       (d) witness a lunar eclipse\n\n22.​ The planet Mercury rotates around its axis every ~sixty days and orbits around the Sun\nevery ~90 days. How many “Mercury days” (from sunrise to the next sunrise) make a\n“Mercury year”? ​(only one answer)​.\n\n       (a) 0.5\n       (b) 6\n       (c) 9\n       (d) 15\n       (e) 30\n\n23.​ At any given instant of time, the difference between the temperatures of the hottest and\n\n                                              10\n\ncoolest places on the surface a planet in the Solar System is the highest_______ ​(only one\nanswer)\n\n       (a) on the Earth because of the presence of hot deserts and polar ice\n       (b) on Uranus, because its rotational axis is almost perpendicular to its orbit\n       (c) on Venus, because it has a carbon dioxide rich atmosphere\n       (d) on Mercury because mostly the same side faces the Sun for a longer duration and it\n           has no atmosphere\n\n24.​ Although Mercury is the smallest planet in the Solar System, its density (5400 ​kg/m​3​) is\nclose to that of the Earth (5500 ​kg/m​3​), and has a weak magnetic field. The possible reason\ncould be that ____________​(only one answer)\n\n       (a) Its chemical composition is identical to that of the Earth\n       (b) Like the Earth, it has an iron core.\n       (c) Like the Earth, it has as an ionosphere ; this causes a weak magnetic field.\n       (d) Its core has a chemical composition similar to that of the Sun, which has a core\n           density of about 20000 ​kg/m​3\n\n25.​ Although Venus is farther away from the Sun than Mercury, the average surface\ntemperature of Venus is higher than that of Mercury because_______________ (​several possible\nanswers)\n\n       (a) Mercury has no atmosphere\n       (b) Venus has a carbon dioxide rich atmosphere\n       (c) Mercury has an atmosphere made of inert gases\n       (d) Venus has sulphuric acid clouds\n\n26.​ The atmosphere of Venus is much denser than that of the Earth. Some possible\nconsequences are ___________________ (​several possible answers) :\n\n       (a) meteoroids less than 1.5 km in diameter completely burn out before touching the\n           surface of Venus\n       (b) Crater number density on Venus is much smaller than that on the Moon and Mars\n       (c) Winds have lower kinetic energy per unit volume\n       (d) Sound propagation speed is faster\n\n27.​ We find a large number of meteoritic impact craters on the Moon, but very few on the\nEarth. Why? ​(only one answer)\n\n       (a) Earth’s magnetic field prevents most meteoroids from falling on the Earth.\n       (b) The reducing Earth’s early atmosphere weathered all the meteoritic impact crater\n\n                                                11\n\n           records.\n       (c) About 70% of the Earth is covered by oceans.\n       (d) The Moon has no atmosphere and hydrological cycle.\n\n28.​ Which of the atmospheric components below ​mainly controls​ the Earth's ​weather ​(only\none answer)​?\n\n       (a) Oxygen, which is liberated by plants during photosynthesis. It absorbs UV radiation\n           in the stratosphere, thus heating the atmosphere.\n       (b) Nitrogen, because it combines with oxygen to form NO during thunderstorms.\n       (c) Water vapor, because it evaporates from the oceans and condenses in the\n           atmosphere transferring latent heat.\n       (d) Carbon dioxide, which is a greenhouse gas.\n\n29. ​The rotation periods of Jovian planets (Jupiter to Neptune) range between 9 to 17 hours.\nThey all have atmospheres made of hydrogen, helium, methane and ammonia. What could be\na major consequence of fast rotation ? ​(Only one answer)\n\n       (a) large differences in surface temperatures\n       (b) absence of storms\n       (c) very strong winds\n       (d) very low albedo\n\n30. When a comet is far away from the Sun, we observe it to be a small spherical object\nthrough a telescope, but when it comes near the Earth, its appearance is with a coma and long\ntails. Which of the following statements are true ? (​several possible answers)\n\n       (a) Gravitational force of the sun increases when the comet comes nearer and it\n           stretches the comet\n       (b) Invisible dark matter around the Sun smears the comet into a longer shape\n       (c) Volatile matter in the comet starts sublimating ; solar radiation pressure and wind\n           cause the tails to form.\n       (d) The statement (c) is evidenced by the fact that the comet’s tail always points away\n           from the Sun\n\n                                              12",
-   "total": 7,
+   "title": "Relative humidity measured by dry bulb and wet bulb",
+   "weight": 1,
+   "total": 1,
+   "statement": "As shown in the figure below, relative humidity is measured by using a pair of thermometers with a dry bulb and a wet bulb. The wet bulb is wrapped by gauze to keep it moist by the pot of water. Which of the statements below are correct? (More than one correct answer.)",
    "parts": [
     {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "3.1",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "a) If the air is unsaturated, dry bulb temperature is always higher than wet bulb temperature.\nb) If the air is unsaturated, wet bulb temperature always equals dew-point temperature.\nc) If the difference in temperature between the dry bulb and wet bulb remains the same, relative humidity is higher when the dry bulb temperature is higher.\nd) If the difference in temperature between the dry bulb and wet bulb remains the same, water vapor content is greater when the dry bulb temperature is higher.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Seasonal variations of atmospheric carbon dioxide",
+   "weight": 1,
+   "total": 1,
+   "statement": "The figure below shows the seasonal variations of atmospheric carbon dioxide as measured in Barrow, Alaska (71.3°N, green triangles), Mauna Loa, Hawai’i (19.6°N, blue diamonds), South Pole (90° S, red squares), and Samoa (Pacific island at 13.76°S, purple crosses) for three consecutive years, 2002-2004.",
+   "parts": [
+    {
+     "id": "4.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Why are the amplitudes of oscillation relatively higher in the Northern Hemisphere? (More than one correct answer.)\na) Human population is relatively higher in the Northern Hemisphere.\nb) Forest cover is relatively higher in the Northern Hemisphere.\nc) Vascular plants are absent in Antarctica.\nd) Ocean area is relatively more in the Southern Hemisphere, which causes more CO2 absorption.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Seasonal CO2 maxima",
+   "weight": 1,
+   "total": 1,
+   "statement": "Seasonal CO2 maxima in the South Pole occur in September (9th month), whereas in Barrow and Mauna Loa, they occur in May (5th month). Why? (Just one correct answer.)",
+   "parts": [
+    {
+     "id": "5.1",
+     "points": 1,
+     "question": "a) Energy production and thus emission of CO2 peak in winter.\nb) Excess of respiration over photosynthesis peaks in winter.\nc) Excess of photosynthesis over respiration peaks in winter.\nd) Oceans liberate more CO2 in summer.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Paleo coral terraces",
+   "weight": 1,
+   "total": 1,
+   "statement": "Paleo coral terraces are usually dated using a suitable method for reconstruction of paleo sea level changes. This is made possible because of : (Just one correct answer.)",
+   "parts": [
+    {
+     "id": "6.1",
+     "points": 1,
+     "question": "a) Corals grow at a slower rate during high sea level stands and faster during low sea level stands.\nb) Corals growing in the deep sea are sensitive to the overhead pressure, which is a function of sea level\nc) Most corals host photosynthetic symbionts, which require sunlight. This makes corals grow within ~ 50 m of the sea surface.\nd) Carbonate precipitation by corals is thermodynamically favored only close to the sea surface.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Paleosurfaces containing dead corals",
+   "weight": 1,
+   "total": 1,
+   "statement": "Paleosurfaces containing dead corals, when dated precisely, give information on the time of : (More than one correct answer.)",
+   "parts": [
+    {
+     "id": "7.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "a) abrupt sea level rise\nb) sea level fall\nc) abrupt subsidence of land\nd) abrupt uplift of land",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Higher sea level stand",
+   "weight": 1,
+   "total": 1,
+   "statement": "A time of higher sea level stand (corrected for tectonic changes on land) usually indicates : (More than one correct answer.)",
+   "parts": [
+    {
+     "id": "8.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "a) Lower atmospheric CO2 and CH4.\nb) Lower ice volume of the Earth.\nc) Higher carbonate precipitation in the oceans by marine organisms (corals, pteropods, coccoliths and foraminifera).\nd) Higher dust content in the atmosphere.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Geological structure identification",
+   "weight": 1,
+   "total": 1,
+   "statement": "What is the geological structure of the picture below? (Just one correct answer.)",
+   "parts": [
+    {
+     "id": "9.1",
+     "points": 1,
+     "question": "a) Meteorite crater\nb) Volcanic crater\nc) Erosional anticline\nd) Erosional syncline",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Sedimentary structures in the field",
+   "weight": 3,
+   "total": 3,
+   "statement": "The photographs below represent sedimentary structures observed in the field.",
+   "parts": [
+    {
+     "id": "10.a",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the photographs below represents a sedimentary feature formed by biogenic activity? Photo A, B, C, D",
+     "reference": ""
+    },
+    {
+     "id": "10.b",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the photographs below represents a sedimentary structure formed by differential loading? Photo A, B, C, D",
+     "reference": ""
+    },
+    {
+     "id": "10.c",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the photographs below represents a sedimentary structure formed by desiccation? Photo A, B, C, D",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Laws of historical geology",
+   "weight": 1,
+   "total": 1,
+   "statement": "The following are some laws of historical geology. Which is a correct choice of laws unsuitable for determining the relative ages of two kinds of rocks in contact?\n1: Law of original/lateral continuity\n2: Law of original horizontality\n3: Law of cross-cutting relationship\n4: Law of superposition\n5: Law of faunal succession\n6: Law of inclusion",
+   "parts": [
+    {
+     "id": "11.1",
+     "points": 1,
+     "question": "Choose the correct alternative : (Only one correct answer.)\nAlternative a : 1, 2\nAlternative b : 3, 4\nAlternative c : 5, 6\nAlternative d : 1, 2, 3\nAlternative e : 4, 5, 6",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Seismic wave arrival analysis",
+   "weight": 3,
+   "total": 3,
+   "statement": "P wave from an earthquake arrived at a station at 03:01 am. Figure 1 shows the seismogram recorded at the station. Figure 2 shows the relation between the P-wave and S-wave travel times (tp and ts, respectively) and epicentral distance (km).",
+   "parts": [
+    {
+     "id": "13.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "(1) Approximately how far is the seismic station from the earthquake epicenter?\na. 1000 km\nb. 2500 km\nc. 4000 km\nd. 5000 km",
+     "reference": ""
+    },
+    {
+     "id": "13.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "(2) Approximately at what time did the earthquake occur?\na) 2:36\nb) 2:46\nc) 2:56\nd) 3:01",
+     "reference": ""
+    },
+    {
+     "id": "13.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "(3) Approximately at what time will the P-wave arrive at a station 4500 km away from the epicenter?\na) 3:00\nb) 3:02\nc) 3:04\nd) 3:10",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Surface sea water properties",
+   "weight": 1,
+   "total": 1,
+   "statement": "The table below shows surface sea water properties observed at regions, \"A\", \"B\" and \"C\". Which statements given below are correct? (More than one correct answer.) (Assume that surface salinity can be affected by evaporation and precipitation only.",
+   "parts": [
+    {
+     "id": "14.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "a) The temperature of region “A” is less than 12 ℃.\nb) The density of region “C” is between 1000 and 1027 kg/m3.\nc) The value of 'evaporation minus precipitation' at region “A” is higher than those at regions “B” and region “C”.\nd) If we sample equal volumes of water from “A” and “B” and mix them (assuming they are maintained at their original temperature), water density will increase.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Causes of Global Warming",
+   "weight": 1,
+   "total": 1,
+   "statement": "Global warming can be caused by an ________: (several correct answers.)",
+   "parts": [
+    {
+     "id": "15.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "a) Increased rate of thermonuclear fusion in the Sun.\nb) Increased greenhouse gases in the Earth’s atmosphere.\nc) Increased atmospheric humidity.\nd) Increased sulphate aerosols in the atmosphere.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 16,
+   "title": "Oceanic regions in desert latitude belts",
+   "weight": 1,
+   "total": 1,
+   "statement": "Oceanic regions of both the hemispheres lying in the same latitude as the desert belts are characterized by _________________. (More than one correct answer.)",
+   "parts": [
+    {
+     "id": "16.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "a) Dry, stable conditions with little cloud.\nb) Hot, humid days with high winds.\nc) Rainy conditions.\nd) A rapid increase in temperature.\ne) High surface salinity.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 17,
+   "title": "Heat and gravity and geosphere dynamics",
+   "weight": 1,
+   "total": 1,
+   "statement": "Heat and gravity and geosphere dynamics. Choose all the correct statements below. (More than one correct answer.)",
+   "parts": [
+    {
+     "id": "17.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "a) The energy type leading to the geosphere dynamics is only heat.\nb) The energy type leading to the geosphere dynamics is only potential energy.\nc) The energy type leading to the geosphere dynamics includes both heat and potential energy (linked with “gravity”).\nd) The density differences between the various zones of the lithosphere are only due to differences in chemical and mineral composition.\ne) The density differences between the various zones of the lithosphere are only due to temperature differences and their cooling over time.\nf) The density differences between the various zones of the lithosphere are due to differences in chemical and mineral composition AND their cooling over time due to heat exchange.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 18,
+   "title": "Geothermal energy and its uses",
+   "weight": 1,
+   "total": 1,
+   "statement": "Geothermal energy and its uses. Temperature increases gradually as depth increases in the lithosphere. (More than one correct answer.)",
+   "parts": [
+    {
+     "id": "18.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "a) The geothermal gradient is the same at all points of the lithosphere.\nb) The geothermal gradient is steeper/higher in areas where extension thinned the lithosphere.\nc) The geothermal gradient is steeper/higher in continental areas where the crust is thick.\nd) The geothermal gradient is steeper/higher in areas of intense volcanism.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 19,
+   "title": "Origin of the Earth’s heat",
+   "weight": 1,
+   "total": 1,
+   "statement": "Which of the statements below correctly describe the origin of the Earth’s heat? (More than one correct answer.)",
+   "parts": [
+    {
+     "id": "19.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "a) The Earth formed by accretion of planetesimals that collided with the growing Earth by converting their kinetic energy into heat.\nb) The Earth formed by fragments pulled from an original Sun and gave initially a hot planet.\nc) The solidification of the liquid outer core into an inner solid core generated some of the heat.\nd) The heat emission from the hot inner core lead to the melting of the outer core area.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 20,
+   "title": "Temperature of the planets of the solar system",
+   "weight": 1,
+   "total": 1,
+   "statement": "Which of the statements below correctly describe the temperature of the planets of the solar system? (More than one correct answer.)",
+   "parts": [
+    {
+     "id": "20.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "a) The temperature of the Earth remains fairly constant; the heat output by radioactivity compensates the loss of heat.\nb) The Earth gradually cools.\nc) The cooling of the Earth caused the transition from liquid to solid, to form the first crust 4 billion years ago.\nd) All the planets of the solar system loose heat.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 21,
+   "title": "Solar eclipse observed from the Moon",
+   "weight": 1,
+   "total": 1,
+   "statement": "When a person on the Earth witnesses a solar eclipse, an astronaut standing on the night side of the moon will __________ (only one answer)",
+   "parts": [
+    {
+     "id": "21.1",
+     "points": 1,
+     "question": "(a) also witness the solar eclipse\n(b) witness no eclipse\n(c) witness an Earth eclipse\n(d) witness a lunar eclipse",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 22,
+   "title": "Mercury days and years",
+   "weight": 1,
+   "total": 1,
+   "statement": "The planet Mercury rotates around its axis every ~sixty days and orbits around the Sun every ~90 days. How many “Mercury days” (from sunrise to the next sunrise) make a “Mercury year”? (only one answer).",
+   "parts": [
+    {
+     "id": "22.1",
+     "points": 1,
+     "question": "(a) 0.5\n(b) 6\n(c) 9\n(d) 15\n(e) 30",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 23,
+   "title": "Temperature difference on planetary surfaces",
+   "weight": 1,
+   "total": 1,
+   "statement": "At any given instant of time, the difference between the temperatures of the hottest and coolest places on the surface a planet in the Solar System is the highest_______ (only one answer)",
+   "parts": [
+    {
+     "id": "23.1",
+     "points": 1,
+     "question": "(a) on the Earth because of the presence of hot deserts and polar ice\n(b) on Uranus, because its rotational axis is almost perpendicular to its orbit\n(c) on Venus, because it has a carbon dioxide rich atmosphere\n(d) on Mercury because mostly the same side faces the Sun for a longer duration and it has no atmosphere",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 24,
+   "title": "Mercury's density and magnetic field",
+   "weight": 1,
+   "total": 1,
+   "statement": "Although Mercury is the smallest planet in the Solar System, its density (5400 kg/m3) is close to that of the Earth (5500 kg/m3), and has a weak magnetic field. The possible reason could be that ____________ (only one answer)",
+   "parts": [
+    {
+     "id": "24.1",
+     "points": 1,
+     "question": "(a) Its chemical composition is identical to that of the Earth\n(b) Like the Earth, it has an iron core.\n(c) Like the Earth, it has as an ionosphere ; this causes a weak magnetic field.\n(d) Its core has a chemical composition similar to that of the Sun, which has a core density of about 20000 kg/m3",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 25,
+   "title": "Venus surface temperature",
+   "weight": 1,
+   "total": 1,
+   "statement": "Although Venus is farther away from the Sun than Mercury, the average surface temperature of Venus is higher than that of Mercury because_______________ (several possible answers)",
+   "parts": [
+    {
+     "id": "25.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "(a) Mercury has no atmosphere\n(b) Venus has a carbon dioxide rich atmosphere\n(c) Mercury has an atmosphere made of inert gases\n(d) Venus has sulphuric acid clouds",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 26,
+   "title": "Atmosphere of Venus consequences",
+   "weight": 1,
+   "total": 1,
+   "statement": "The atmosphere of Venus is much denser than that of the Earth. Some possible consequences are ___________________ (several possible answers) :",
+   "parts": [
+    {
+     "id": "26.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "(a) meteoroids less than 1.5 km in diameter completely burn out before touching the surface of Venus\n(b) Crater number density on Venus is much smaller than that on the Moon and Mars\n(c) Winds have lower kinetic energy per unit volume\n(d) Sound propagation speed is faster",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 27,
+   "title": "Meteoritic impact craters on the Moon and Earth",
+   "weight": 1,
+   "total": 1,
+   "statement": "We find a large number of meteoritic impact craters on the Moon, but very few on the Earth. Why? (only one answer)",
+   "parts": [
+    {
+     "id": "27.1",
+     "points": 1,
+     "question": "(a) Earth’s magnetic field prevents most meteoroids from falling on the Earth.\n(b) The reducing Earth’s early atmosphere weathered all the meteoritic impact crater records.\n(c) About 70% of the Earth is covered by oceans.\n(d) The Moon has no atmosphere and hydrological cycle.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 28,
+   "title": "Atmospheric components controlling weather",
+   "weight": 1,
+   "total": 1,
+   "statement": "Which of the atmospheric components below mainly controls the Earth's weather (only one answer)?",
+   "parts": [
+    {
+     "id": "28.1",
+     "points": 1,
+     "question": "(a) Oxygen, which is liberated by plants during photosynthesis. It absorbs UV radiation in the stratosphere, thus heating the atmosphere.\n(b) Nitrogen, because it combines with oxygen to form NO during thunderstorms.\n(c) Water vapor, because it evaporates from the oceans and condenses in the atmosphere transferring latent heat.\n(d) Carbon dioxide, which is a greenhouse gas.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 29,
+   "title": "Rotation periods of Jovian planets",
+   "weight": 1,
+   "total": 1,
+   "statement": "The rotation periods of Jovian planets (Jupiter to Neptune) range between 9 to 17 hours. They all have atmospheres made of hydrogen, helium, methane and ammonia. What could be a major consequence of fast rotation ? (Only one answer)",
+   "parts": [
+    {
+     "id": "29.1",
+     "points": 1,
+     "question": "(a) large differences in surface temperatures\n(b) absence of storms\n(c) very strong winds\n(d) very low albedo",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 30,
+   "title": "Comet appearance near the Sun",
+   "weight": 1,
+   "total": 1,
+   "statement": "When a comet is far away from the Sun, we observe it to be a small spherical object through a telescope, but when it comes near the Earth, its appearance is with a coma and long tails. Which of the following statements are true ? (several possible answers)",
+   "parts": [
+    {
+     "id": "30.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "(a) Gravitational force of the sun increases when the comet comes nearer and it stretches the comet\n(b) Invisible dark matter around the Sun smears the comet into a longer shape\n(c) Volatile matter in the comet starts sublimating ; solar radiation pressure and wind cause the tails to form.\n(d) The statement (c) is evidenced by the fact that the comet’s tail always points away from the Sun",
      "reference": ""
     }
    ]

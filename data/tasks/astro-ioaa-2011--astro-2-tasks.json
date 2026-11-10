@@ -7,118 +7,126 @@
  "tasksFile": "olympiads/astronomy/s/ioaa/2011/astro-2-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T18:02:26.065Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:21:16.269Z",
  "quality": {
-  "tasks": 7,
-  "parts": 7,
-  "withPoints": 7,
+  "tasks": 5,
+  "parts": 10,
+  "withPoints": 10,
   "withReference": 0,
-  "withQuestion": 7,
-  "estimatedPoints": 7
+  "withQuestion": 10,
+  "estimatedPoints": 8
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
-   "statement": "Teams consisting of three or more students can participate in the group competition.",
-   "total": 7,
+   "title": "Constellations",
+   "weight": 20,
+   "total": 20,
+   "statement": "Jan Hevelius (1611–1687) introduced 11 new constellations onto the sky. The International Astronomical Union confirmed 7 of those in 1928: (Table of constellations provided with equatorial coordinates: CVn, Lac, LMi, Lyn, Sct, Sex, Vul). The map is prepared for epoch J 2000.0 and uses a polar projection with a linear scale in declination. It includes stars brighter than about 5th magnitude.",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.a",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "For each of the above constellations, clearly mark on the attached map a point lying anywhere within the constellation, using the appropriate serial number or IAU name.",
+     "reference": ""
+    },
+    {
+     "id": "1.b",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "On the same map, clearly mark (using a cross or arrow) the positions of any 13 objects from the Messier Catalogue (not necessarily from the constellations above), giving the Messier number (“M xx”) for each.",
      "reference": ""
     }
    ]
   },
   {
    "number": 2,
-   "title": "Задача 2",
-   "statement": "The team will be given a set of 5 problems to solve in 60 minutes.",
-   "total": 7,
+   "title": "Orbital motion",
+   "weight": 20,
+   "total": 20,
+   "statement": "The scale diagram below represents the relative orbit of a physically double star. A star of mass m moves around a star of mass M in the indicated direction, where m << M. The major axis of the ellipse is aligned with the direction to the observer, and the motion of the star is in the plane of the diagram.",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
+     "id": "2.a",
      "points": 7,
      "pointsEstimated": true,
+     "question": "Find the part of the ellipse where the angular velocity ω of star m is less than its mean angular velocity ‹ω›, and indicate this as accurately as possible on the scale diagram on the answer sheet. Note: The instantaneous angular velocity ω of star m is equal to the mean angular velocity ‹ω› when the distance between stars r = √(ab) , where a and b are the semi-axes of the orbit.",
+     "reference": ""
+    },
+    {
+     "id": "2.b",
+     "points": 6,
+     "pointsEstimated": true,
+     "question": "Also mark those places on the ellipse for which the observer will see: extreme tangential (perpendicular to line of sight) velocity: vt max and vt min",
+     "reference": ""
+    },
+    {
+     "id": "2.c",
+     "points": 7,
+     "pointsEstimated": true,
+     "question": "Mark those places on the ellipse for which the observer will see: extreme radial (parallel to line of sight) velocity: vr max and vr min .",
      "reference": ""
     }
    ]
   },
   {
    "number": 3,
-   "title": "Задача 3",
-   "statement": "The team's result is decided by the sum total of the points obtained for all 5 problems. Up\n   to 20 points can be obtained for each problem. The team can gain extra points by handing\n   in their solutions to all 5 problems before the end of the allotted 60 minutes, and will lose\n   points for time taken beyond the 60 minutes, as follows:",
-   "total": 7,
+   "title": "Identifying telescope components",
+   "weight": 20,
+   "total": 20,
+   "statement": "Identify telescope components, optical parameters, and answer questions about the telescope setup shown in the pictures.",
    "parts": [
     {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "3.a",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Look at the pictures of the telescope and match the names of the items (1 to 20) with the corresponding letters.",
+     "reference": ""
+    },
+    {
+     "id": "3.b",
+     "points": 6,
+     "pointsEstimated": true,
+     "question": "Select and circle the correct answer for each of the questions below (21 to 26): Mount design, Optical type, Objective aperture and focal length, Eyepiece focal length, finder scope image orientation, diagonal mirror image orientation.",
+     "reference": ""
+    },
+    {
+     "id": "3.c",
+     "points": 4,
+     "pointsEstimated": true,
+     "question": "Determine the following theoretical instrument parameters (27 to 30): Magnification, Focal ratio, Resolution (in arcseconds), Limiting magnitude.",
      "reference": ""
     }
    ]
   },
   {
    "number": 4,
-   "title": "Задача 4",
-   "statement": "If, at the moment the team's solutions are handed in, n full minutes are left before the\n   allotted time, then the sum total of the points obtained by the team for their solutions will\n   be multiplied by a factor\n\n                                           k = 1 + n/100,\n\n    thus the team gets an extra 1% of their total result for every minute saved.",
-   "total": 7,
+   "title": "Minimum of an eclipsing binary",
+   "weight": 20,
+   "total": 20,
+   "statement": "The figure shows the secondary (shallower) minimum of the bolometrically-corrected light curve of an eclipsing binary star. The difference between magnitudes m1,Bol – m0,Bol = 0.33 magnitude. We also know from simultaneous spectroscopy that the star with the smaller radius was totally eclipsed by the larger star during the secondary minimum (since only one spectrum was observable during the minimum). You may assume that the eclipses are central, that the stars are spheres of constant surface brightness, and that the distance between the stars does not change.",
    "parts": [
     {
-     "id": "4",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
+     "id": "4.1",
+     "points": 20,
+     "question": "Determine the change of brightness of this binary during the primary minimum and draw the shape of the primary minimum using the same scale as the secondary minimum. Label the graph with all appropriate parameters.",
      "reference": ""
     }
    ]
   },
   {
    "number": 5,
-   "title": "Задача 5",
-   "statement": "If the team hand in their solutions n full minutes after the allotted 60 minutes have\n   passed, the sum total of the points obtained by the team of the team will be multiplied by\n   the factor\n\n                                           k = 1 – n/100,\n\n    thus the team will lose 1% of their result for every minute used beyond the allotted time.",
-   "total": 7,
+   "title": "Nocturnal",
+   "weight": 20,
+   "total": 20,
+   "statement": "Circumpolar stars describe a full circle around the Celestial Pole over 24 hours. This can be used to make a simple clock. You are given a blank card with a movable ring, along with a clear strip with a centre circle. If the card has a suitable scale, the clear strip is attached as in the diagram below and the Pole Star is visible through the centre circle, then the position of the star Kochab (β UMi) on the inner edge of the ring will give the current time. For 27 August in Katowice, the lower culmination of Kochab is at 05:15 Central European Summer Time (UT+2). The coordinates of Kochab (β UMi) are : α: 14h 51m, δ: +74.2 º.",
    "parts": [
     {
-     "id": "5",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 6,
-   "title": "Задача 6",
-   "statement": "The team with the most points after adjustment for time wins.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "6",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 7,
-   "title": "Задача 7",
-   "statement": "Every student of the winning team will be given a prize and gold medal of the group\n   competition.\n\n                               Additional Instructions",
-   "total": 7,
-   "parts": [
-    {
-     "id": "7",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
+     "id": "5.1",
+     "points": 20,
+     "question": "Design and mark on the card and ring suitable inner and outer scales (as required) such that, in Katowice for any night of the year, the side of the clock marked “UT” can be used to show current Universal Time, and the other side (marked “ST”) can be used independently to show current Local Sidereal Time.",
      "reference": ""
     }
    ]

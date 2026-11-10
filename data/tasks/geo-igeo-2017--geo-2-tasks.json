@@ -7,44 +7,181 @@
  "tasksFile": "olympiads/geography/s/igeo/2017/geo-2-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "parser",
- "generatedAt": "2026-11-09T18:11:20.697Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:47:50.651Z",
  "quality": {
-  "tasks": 1,
-  "parts": 3,
-  "withPoints": 3,
+  "tasks": 7,
+  "parts": 15,
+  "withPoints": 15,
   "withReference": 0,
-  "withQuestion": 3,
-  "estimatedPoints": 3
+  "withQuestion": 15,
+  "estimatedPoints": 14
  },
  "tasks": [
   {
    "number": 1,
-   "title": "B RESPONSE SHEET",
-   "weight": null,
-   "total": 10.5,
-   "statement": "1B.1.Analyzethe geological profile from Košutnjak hill to Zemun (Figure 1). Identify which rock types\n      from the list below, form layers annotated with capital letters on the profile. Write your answers\n      in the table 1.                                                                              (1 m)\n\n        Figure1.\n                                               Table 1.\nRock types:                                     Letter on Fig. 1               Rock type\n • Andesitic and dacitic tuff\n • Loess                                               A.          __________________________\n • Claystones\n • Bedded and thick bedded limestones                  B.          __________________________\n • Clays, sands and gravels (Panonian)\n • Dacito-andesite and latite                          C.          __________________________\n • Sands and clays\n • Diabase and spilite                                 D.          __________________________\n\n1B.2.Select from the list (below) the kinds of relief surfaces that correspond to the numbers on the\n      profile, and enter their numbers in Table 2. Arrange them in descending order of age (from\n      oldest to the most recent one).                                                          (1 m)\n      Relief surfaces list: the surface of fluvial denudation, loess plain, river terrace, volcanic\n      plateau, river floodplain, karst surface, plain of marine accumulation, the bottom of the tectonic\n      plate.\nTable 2.\n   Number (from Fig. 1)                                   Relief surfaces\n\n1B.3. In which area marked by a RED SQUARE on the map (figure 2), you can most probably find\n       geomorphologic features, similar to those typical for the Košutnjak park? Provide your answer\n       with the geographic coordinates of the approximate centre of this box, to the closest whole\n       degree (no minutes or seconds). What is the coomon name of this type of relief (terrain)?\n                                                                                              (1 m)\n\n      Coordinates: _____________________________________________________\n\n      Type of relief, or terrain (common name): _____________________________\n\nFigure 2.\n\n               iGeo\n\n                   Task 1C\n\n          1   4\n\n                                DURATION 15 MINUTES. TOTAL 6 MARKS\nYou are now at the Stop S4. Use your position as an observation point over Belgrade. Remember this\npanoramic view for tomorrow’s exercise (FWE-2). Complete the following tasks.\nC1. Winter sports are gaining popularity in Belgrade. Using the data from the Košutnjak meteorological\nstation (44°46´N 20°25´E; altitude 230 m), suggest which months will be able to support skiing season\nhere.                                                                                           (1 m)\n                                          Months\n Average/month\n                  Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec\nPrecipitation, mm 48 45 45     53   69   84   68   45   49   38  54  65\n       T°C        1.1 3.0 7.3 12.7 17.3 20.3 22.3 22.5 18.2 13.1 7.3 2.3\n\nMonths: _______________________________________________\n\nC2. You are standing near the upper point of a mountain ski run. Using Map 1C, calculate the inclination\nof this slope (degree, or percent).                                                              (2 m)\n\nPlace for calculations. Please show all of your work\n\n         Answer: Slope inclination – __________________(please, indicate the unit – degree, or percent)\n\nC3. Imagine, that you are asked to plan an open-air ice skating rink to be placed at the Pioneer City close\nto the running pad. Assuming that the rink is a circle with a diameter of 75 m, find an appropriate place for\nthis rink on Map 2C, and encircle it with a pen. As the skating rink should be flat, with no relative\nelevation, estimate the volume of ground to be removed. Take in consideration, that the place you have\nchosen requires minimal effort for make it flat.                                                       (3m)\nPlace for calculations. Please show all of your work\n\n               Answer: Volume of ground to be removed _______________ cubic meters (m3)\n\n                 iGeo\n\n         FIELDWORK EXERCISE 2\n\n   SUSTAINABLE DEVELOPMENT OF YOUTH TOURISM\n     AT KOŠUTNJAK PARK OF BELGRADE, SERBIA\n\n            1   4\n\n                            INSTRUCTIONS\n\nAll tasks must be completed individually, using the answer templates provided.\nThe Resource Booklet contains important supporting materials: tables with\nstatistical data, maps, etc.\n\n                             Time management:\nYou have 10 minutes to read the tasks and Resource Booklet. No writing during\nthis time.\nStudents with English as the language of instruction then have 2 hours to\ncomplete the test.\nAll other students have 2 hours and 20 minutes.\n\nWrite your answers in pen.\nYou may use colored pencils/pens for map work.\nYou may refer to material in the Resource Booklet in your answers, and you may\nuse material included in earlier answers to the FWE-1 you have provided.\n\n                         Total marks for FWE-2: 20\n\nI. Demography\nI.1. Using the demographic data and map (see Table 1 and Map 5 in the Resource Booklet),\ncalculate the total number of potential visitors to the Košutnjak Park from the municipalities,\nhighlighted on the Map 5, who are aged 15–25 years old in 2017. Write your answer in the\ntable below.                                                                            (1 m)\nPlace for calculations\n\n                                                                      Potential number of\n                            Municipality                           visitors 15–25 years old\n                                                                             in 2017\n  1.\n  2.\n  3.\n  4.\n                                                          Total:\n\nI.2. Assuming that only one out of 1,000 (one thousand) people aged 15–25 years old from\neach of the countries sharing borders with Serbia, will visit Košutnjak Park this year, which\ncountry can potentially provide the largest number of young tourists?                   (1 m)\n\nCountry: ____________________________________________\n\nII. Transportation and Accessibility\nII.1. Examine the current (present day) public transport scheme of Belgrade (Map 6 of the\nResource booklet. Which municipality highlighted on Map 5 has the easiest (fastest)\nconnection with Pioneer City? Which municipality has the most complicated (slowest)\nconnection with the Košutnjak Park?                                                (2 m)\n\n             Fastest connection                                 Slowest connection\n                    Justification (public transport                   Justification (public transport\n  Municipality     lines configuration and length)\n                                                      Municipality   lines configuration and length)\n\n                  ______________________ ___________ ______________________\n ___________\n                  ______________________             ______________________\n\nII.2. There is a plan to build a tunnel for cars in Belgrade from A to B (Map 4). Provide positive\njustifications (benefits) for building this tunnel for future development of tourism in Košutnjak\nPark.                                                                                      (2 m)\n\nPropose the shortest way to connect the Aleksandar restaurant at Košutnjak Park (Stop S4,\nwhere you were yesterday), with the exit from the proposed tunnel (B on Map 4). Be realistic:\nonly kinds of transport, which are already used for passengers in the other cities of the world,\ncan be proposed. Name this kind of public transport and estimate the length of its route from\nthe tunnel exit to S4.                                                                  (1 m)\n_______________________________________________________ (mode of transportation)\n\nLength of line _______________m\n\nIII. Human Impact (Anthropogenic Pressure)\n\nIII.1. On the Map Template 1,\n\n   • Divide the territory of the Košutnjak Park into no more than 5 zones based on the\n     degree of human impact (anthropogenic pressure). For this, summarize your\n     observations, made during FWE-1, and use data from the Resource Booklet and\n     maps.\n   • In the legend (key), write brief annotations for the characteristics of each zone. For\n     this, you need to provide a title that refers to the main activities within this zone, and/or\n     to its geographical location.\n   • Briefly describe the zones and the criteria behind their allocation.\n                                                                                             (5 m)\n\nIII.2. Which of the zones you have identified is characterized by the highest degree of human\nimpact (anthropogenic pressure) on its territory?\n\n   • Provide a quantitative indicator to measure human impact (anthropogenic pressure),\n     and estimate its average value for this zone.\n                                                                                            (1 m)\nZone with the highest degree of anthropogenic pressure: ___________(No from Legend)\n\nIndicator (variable):______________________________________________________\n\nUnits of measurement: ___________________________________________________\nAverage value for this zone: _______________________________________________\n\n                     Legend\nMap Template 1           Zone number\n                                              Description and principles (criteria) behind your allocation\n                      and brief annotation\n\n                     I.________________      ______________________________________________\n\n                     II. ________________ ______________________________________________\n\nIV. Potential and limitations for sustainable development of youth tourism at Košutnjak Park\nIV.1. Using the Resource Booklet materials and your field observations from yesterday, think about kinds\nof youth tourism that could be practiced here. Provide answers to the following questions in the boxes,\nwith brief explanation of reasons for each of them.                                                (4m)\nA. Which one of the already existing activities would you recommend to support and develop as a\npreference?\nAnswer\n\nB. Which one of the already existing activities would you recommend to limit?\nAnswer\n\nC. Which one completely new activity (never or very rarely practiced here before) would you recommend\nfor development? Briefly describe it, informing title of activity, length of route, appropriate season of the\nyear, and other important characteristics.\nAnswer\n\nIV.2. Imagine, that you are designing a plan for sustainab\nPark. Link ideas for your plan to different scales (levels\nadvantages/potentials, and main limitations/constraints.\n  Scale\n                                     Advantages\n  (level)\n  (nearby districts)\n    Micro / Local\n\n  (Belgrade and Serbia)\n\n     Mezo / National\n\n  Macro / Regional\n    (all Europe)\n\nle development of youth tourism in Košutnjak\n). For each scale, indicate the main\n                                      (3 m)\n\n          Limitations/constraints\n\nMark (of 4):__________\n\n          iGeo\n\n14thInternational Geography\n          Olympiad\n\n      RESOURCE BOOKLET\n\n                         Resource\n\n   POTENTIALS AND LIMITATIONS OF SUSTAINABLE\nDEVELOPMENT OF YOUTH TOURISM AT KOŠUTNJAK PARK\n\n TABLE OF CONTENTS\n  page\n   3     Introduction\n   4     Map of green areas and agricultural land in Belgrade\n   4     Map of units of cultural-historic area “Topčider”\n\n   5     Cultural-historic area “Topčider” and Košutnjak forest\n   5     Natural monuments at Košutnjak forest area\n   6     Cultural monuments at Košutnjak forest area\n   7     Map of protected natural and cultural heritage at Košutnjak forest\n   8     Pionirski grad (Pioneer City)\n   9     Map of the planned tunnel and of municipalities bordering Kosutnjak Park\n   10    Map of public transport in Belgrade\n   11    Demographic data for four Belgrade municipalities\n   11    References\n\n                                                                                    2\n\nIntroduction to Sustainable and Youth Tourism\n\nSustainable tourism can be defined as:\n\n\"Tourism that takes full account of its current and future economic, social and environmental impacts, addressing the\nneeds of visitors, the industry, the environment and host communities\"\n\nSustainable tourism should:\n\n1) Make optimal use of environmental resources that constitute a key element in tourism development, maintaining\nessential ecological processes and helping to conserve natural heritage and biodiversity.\n\n2) Respect the socio-cultural authenticity of host communities, conserve their built and living cultural heritage and\ntraditional values, and contribute to inter-cultural understanding and tolerance.\n\n3) Ensure viable, long-term economic operations, providing socio-economic benefits to all stakeholders that are fairly\ndistributed, including stable employment and income-earning opportunities and social services to host communities,\nand contributing to poverty alleviation.\n\nYouth tourism is a new, fast growing sector in the tourism industry (Khosphpakyants & Vidishcheva, 2010). Youth\ntourism in a nutshell is young travelers having preference for budget accommodation, emphasis on meeting other\ntravelers, independently organized, flexible travel schedule and longer rather than brief holidays (Haigh, 1995).\n\nYouth tourism can be seen through modern initiatives including (but not limited to); travel, backpacking, youth\nhostels, working holiday programs, education, student flights, cultural exchange, backpacker transport, au pair,\nadventure tours, volunteering, sports events, internships, student travel insurance, youth travel agents, tourism boards,\ninternet cafes, language courses, student identity cards and student exchange (WYSET, 2009).\n\nStudies show youth tourists travel for purpose. Whether to experience a different culture learn a language, volunteer,\nwork or study (Khosphpakyants & Vidischeva, 2010). They are keen to experience the local lifestyle and meet other\npeople (Maoz 2006). In fact, youth tourism heavily promotes opportunities to socialize with fellow travelers\n(Obenouretal et al., 2004). The majority of youth tourists travel on a strict budget, sourcing cheap accommodation\nenabling them to have a relatively long duration journey and spend their money on a wide range of activities such as\nnature, culture and adventure (Maoz, 2006). Interestingly enough, youth tourism spends more money than those in\nother tourism sectors as they spend 4 times longer travelling than the average visitor (WYSET, 2009). Furthermore,\nyouth tourists value their flexible itineraries. They report the most memorable travel experiences are often those that\nare unexpected, and the finest discoveries are those they make themselves (Clarke 2004).\n\nReturn home open-eyed, open-minded, grown-up, laid-back, chilled-out, easy-going, a little more serious and achieve\nself-development through travel (Clarke, 2004).\n\n                           Sport events - one way of youth tourism (Košutnjak, 2012).\n                                                                                                                       3\n\nMap 1 – Green areas and agricultural land in Belgrade.\n\n  Map 2 – Units of cultural-historic area “Topčider”.\n\n                                                         4\n\nCultural-historic area “Topčider” and Košutnjak forest\n\n“Topčider” is an important Belgrade area, both in terms of its culture and history and in terms of its natural features.\nThis is the largest area covered by greenery in the urban part of Belgrade (Map 1). The cultural-historic area\n“Topčider” consists of several smaller units (Map 2), with the Natural Monument “Košutnjak“ as the largest one.\nOther significant units, in addition to Košutnjak, include the racecourse – The Hippodrome, Military Garrison\n“Dedinje”, Topčider Park with the House Museum of Prince Miloš Obrenović and the Royal Palace Complex of the\nKaradjordjević family.\n\nKošutnjak is the remaining part of the forest belt that used to surround old Belgrade. At that time, Belgrade was\nlocated on Terazije Hill, above the confluence of the Sava and the Danube rivers. Until 1903, Košutnjak was the\nhunting grounds of the royal family and their guests. It was enclosed and hinds (female deer) were kept there, so this\nfact might account for the origin of the name Košutnjak (hind is košuta in Serbian). Since 1903, Košutnjak has been\nopen to the public and has become a city picnic area.\n\n                 Photo 1 – Košutnjak forest                   Photo 2 – Plane tree-lined path in Košutnjak For.\n\nThe first regulation plan of Košutnjak was made in 1911. The paths were made then which led from the railway\nstation Topčider to the top where a large “Sokolska” Meadow was (Sokoli means falkons – a Serbian word for scouts).\nThe first golf course used to be here in the eve of the Second World War.\n\nIn April 2014, Košutnjak Forest was declared as a protected area. This natural resource is a natural monument. Today,\nKošutnjak Forest is under the authority of “Srbijašume” – State Enterprise for Forest Management, Forest Estate\n“Beograd“.\n\nNatural monuments in Košutnjak forest area\n\nThere are 521 plant species at Košutnjak. As there are 3730 plant species in Serbia, this number depicts the high floral\ndiversity of Košutnjak, which is in the third position among the greenery complexes in the territory of Belgrade\naccording to the number of plant species (There are nearly 650 plant species at Avala Mountain and nearly 600 at\nKosmaj Mountain).\n\nThe presence of protected species is evident in such floral diversity. There are 48 protected species at Košutnjak. Ten\nspecies are strictly protected (as they are considered as extremely rare and endangered in Serbia and it is therefore\nprohibited to destroy and endanger both them and their habitats) and other 38 species are protected species.\n\nSince 1981, The Common Oak and Hornbeam Forest at Hajdučka fountain in Košutnjak has been protected as a nature\nreserve. Total protected area amounts to 3.48 ha. Under the specific microclimate and edaphic conditions, at an\naltitude of 130-165 m, a forest of common oak, hornbeam and Turkey oak with linden has formed (Carpino-Querctum\nroboris tilietosum). As it is located in the vicinity of the popular picnic area Hajdučka fountain, it is constantly\nendangered by humans.\n\n                                                                                                                       5\n\nThere are several facilities of geological heritage within the protected park-forest Košutnjak. Those are open\ngeological profiles (Map 3) near the Mint and the monument to Prince Mihailo (Photo 3). These profiles include the\nabandoned quarry partly covered by lower cretaceous reef limestones. Their presence indicates paleo conditions of\nsedimentation in shallow warm seas, which existed in part of the area of the current Serbia at the end of the Mesozoic.\n\n             Photo 3 – Open geological profile                       Photo 4 – Hajdučka česma (fountain)\n\nThe protected natural and historic resources also include Hajdučka fountain (Photo 4), refurbished karst spring at the\nfoothills of Košutnjak. This is the best-known fountain at Košutnjak and it is frequently visited and famous for good\nquality water. It has often been related to St. George’s Day - Djurdjevdan and May Day picnics. The spring was turned\ninto a fountain most probably in the period of Prince Milos and Prince Mihailo, when Košutnjak became the royal\nhunting grounds.\n\nCulture monuments in Košutnjak forest area\n\nIn addition to Hajdučka fountain, there are several more protected areas of cultural heritage in Košutnjak forest area\n(Map 3). They are:\n\nThe place of death of Prince Mihailo Obrenović\n\nOn 29 May 1868, Serbian Prince Mihailo M. Obrenović was killed in an ambush during his afternoon walk. Today,\nthe iron fence on the plateau of granite pillars bordered by a wrought iron chain (set in 1912), marks the place of his\ndeath (Photo 5).\n\n                                                         Memorial bronze flower\n                                                         Memorial bronze flower is near the restaurant Košuta\n                                                         and it was made in 1970 to mark the site of a bloody\n                                                         confrontation between gendarmes and students on 8\n                                                         September 1940.\n                                                         Gamekeeper’s house\n                                                         The gamekeeper’s house was built in the middle of\n                                                         19th century next to the game reserve. In 1891, the\n                                                         first District Forest Management of Serbia started to\n                                                         work in this house. That is the only building in the\n                                                         forest. It was often used as a film location, and some\n                                                         of those Yugoslav films have become iconic.\n   Photo 5 – The place of death of Prince Mihailo\n\n                                                                                                                          6\n\nMap 3 – Protected natural and cultural heritage features at Košutnjak forest.\n\n                                                                                7\n\nPionirski grad (Pioneer City)\n\nEver since the 19th century, there has been a sanatorium on the slopes of Košutnjak, where children came to recover\nand improve their general health. Away from the city, with a thick forest, and the effects of a climatic health resort,\nKošutnjak provided ideal conditions for recovery and refreshment of the body. A lot of rich people therefore built\ntheir holiday homes in the foothills of Košutnjak. After the Second World War the Pioneer City was built by young\nvolunteers in 1947.\n\nBesides the central building which covers 5000 square metres, there are other premises (classrooms, a discoteque, an\namphitheatre with 400 seats, sports halls etc.) for educational, recreational, entertainment and cultural purposes, as\nwell as the restaurant with 400 seats. The centre also has pavilions for accommodation (see photos below).\n\n           Pionirski grad some years ago                              Pionirski grad at present day\n                (Children playground).                                      (Renovated pavilions).\n\nThis specific natural environment includes free activity areas (climbing frames, swings…) as well as the grounds for\nfive-a-side football, handball, basketball, volleyball, a running track (800 m), athletics track, circular asphalt path and\nglades for playing.\nIt is the member of the International Youth Hostel Federation (IYHF).\n\nSince the establishment of the Pioneer city there have always been construction and development plans, but they have\nnot been entirely fulfilled.\n\n                                                                                                                              8\n\n     Map 4 – Planned tunnel beneath the Topčider Hill.\n\nMap 5 – Municipalities of Belgrade closest to Košutnjak Park.\n\n                                                                9\n\nMap 6 – Scheme of public transport in Belgrade.\n\n                                                  10\n\nMunicipal.            total    0-4     5-9    10-14   15-19   20-24   25-29   30-34   35-39   40-44   45-49   50-54   55-59   60-64   65-69   70-74   75-79   80-84   85+\n              total   214506   10203   9189    8447    9615   11762   16175   17860   16558   13956   13201   14354   18250   16842    9707   10640    9026    5539   3182\n   Novi\n  Beograd    male     99477     5271   4704    4296    4930    5910    7707    8582    7830    6762    6036    6390    8050    7299    4144    4436    3694    1974   1462\n\n             female   115029    4932   4485    4151    4685    5852    8468    9278    8728    7194    7165    7964   10200    9543    5563    6204    5332    3565   1720\n              total   108641    5501   5190    4936    5447    5908    7771    8859    8647    8178    7361    6803    7814    7582    5338    5919    4421    2061    905\n Rakovica    male     51267     2808   2649    2575    2791    2905    3805    4190    4205    3917    3578    3168    3509    3072    2242    2613    2023     865    352\n\n             female   57374     2693   2541    2361    2656    3003    3966    4669    4442    4261    3783    3635    4305    4510    3096    3306    2398    1196    553\n              total   39122     1726   1494    1384    1838    2295    3033    3000    2538    2280    2332    2796    3694    3523    1702    1734    1472    1305    976\n  Savski\n  Venac      male     17868      891    771     660     956    1148    1466    1430    1217    1027    1039    1249    1626    1585     790     702     526     437    348\n\n             female   21254      835    723     724     882    1147    1567    1570    1321    1253    1293    1547    2068    1938     912    1032     946     868    628\n              total   181231    9100   8701    8576    9384   10702   13901   14710   13826   12570   11885   12471   14435   13064    7739    8247    6754    3610   1556\n Čukarica    male     85903     4732   4461    4358    4800    5418    6735    7025    6713    6098    5644    5655    6564    5762    3368    3581    2907    1477    605\n\n             female   95328     4368   4240    4218    4584    5284    7166    7685    7113    6472    6241    6816    7871    7302    4371    4666    3847    2133    951\n\nTable 1 – Demographic data for four Belgrade municipalities (2012 Census).\n\nReferences:\n\nClarke, N (2004). Free independent travelers? British working holiday makers in Australia. Transaction of the Institute of British Geographers, vol. 29, no. 4, pp. 499-\n509.\n\nKhoshpakyants, A & Vidischcheva, E. (2010). Challenges of youth tourism. European researcher, no.1, pp. 101-103.\n\nMaoz, D (2006). Backpackers Motivations: the role of culture and nationality. Annals of Tourism Research, vol. 34, no. 1, pp. 122-140.\n\nMilanović, H., ed. (2008). Zaštićena prirodna dobra Beograda - Zapis 2008. Grad Beograd - Gradska uprava - Sekretarijat za zaštitu životne sredine, Zavod za zaštitu\nprirode Srbije, Beograd, str. 1-120.\n\nObenour, W., Patterson, M., Pedersen, P. & Pearson, L. (2004). Conceptualization of a meaning-based research approach for tourism service experiences. Tourism\nManagement, vol. 27, pp. 34-41.\n\nHaigh, R. (1995). Backpackers in Australia. Bureau of Tourism Research, Canberra.\n\nWorld youth student and education travel (2009), Youth travel facts, travel presentation, 12 February 2017, http://www.wysetc.org/\n\n                                                                                                                                                                        11\n\n12",
+   "title": "Task 1A",
+   "weight": 7,
+   "total": 7,
+   "statement": "Walk from the start point S1 near the Golf restaurant to the Stop S2 at the Amphitheater on the eastern part of Pioneer City. On your way, identify all of the following features, located within the zone, circled on Map 1A by a RED LINE: open air sports facilities, children playgrounds, buildings. On Map 1A, identify and label with numbers the features which are already mapped. You will also see features which are not indicated on the map. Draw and label those features on the map, ensuring you label each with a number. Use only a pen (blue, black, or other color, if needed)! Write down the numbers of all these features in the table on the response sheet and provide the following data for them: For all open air features, including sports facilities, report the purpose of use and estimate the maximum number of users (players, watchers, visitors) at noon (12:00) on a weekend summer sunny day. For buildings, report the condition (quality). At the Stop S2 you will have 10 minutes to complete Map 1A and Response sheet before handing them in to the Jury.",
    "parts": [
     {
      "id": "1.1",
-     "points": 3.5,
-     "question": "Make optimal use of environmental resources that constitute a key element in tourism development, maintaining",
-     "reference": "",
-     "pointsEstimated": true
+     "points": 7,
+     "question": "Identify features on Map 1A and fill in the response sheet with purpose, condition (for buildings), and capacity (for open-air facilities).",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Task 1B",
+   "weight": 7,
+   "total": 7,
+   "statement": "Walk from Stop S2 at the Amphitheater on the eastern part of Pioneer City to Stop S3. On your way, identify the geomorphologic features, located at the nine places marked by WHITE CIRCLES (Exercise Points) on Map 1B. Label each white circle with a number, corresponding to one of the geomorphologic features from the list, found on the same sheet.",
+   "parts": [
+    {
+     "id": "1B.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Analyze the geological profile from Košutnjak hill to Zemun (Figure 1). Identify which rock types from the list form layers annotated with capital letters on the profile. Write your answers in Table 1.",
+     "reference": ""
     },
     {
-     "id": "1.2",
-     "points": 3.5,
-     "question": "Respect the socio-cultural authenticity of host communities, conserve their built and living cultural heritage and",
-     "reference": "",
-     "pointsEstimated": true
+     "id": "1B.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Select from the list the kinds of relief surfaces that correspond to the numbers on the profile, and enter their numbers in Table 2. Arrange them in descending order of age (from oldest to the most recent one).",
+     "reference": ""
     },
     {
-     "id": "1.3",
-     "points": 3.5,
-     "question": "Ensure viable, long-term economic operations, providing socio-economic benefits to all stakeholders that are fairly",
-     "reference": "",
-     "pointsEstimated": true
+     "id": "1B.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "In which area marked by a RED SQUARE on the map (figure 2), can you most probably find geomorphologic features, similar to those typical for the Košutnjak park? Provide your answer with the geographic coordinates of the approximate centre of this box, to the closest whole degree. What is the common name of this type of relief (terrain)?",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Task 1C",
+   "weight": 6,
+   "total": 6,
+   "statement": "You are now at the Stop S4. Use your position as an observation point over Belgrade. Remember this panoramic view for tomorrow’s exercise (FWE-2). Complete the following tasks.",
+   "parts": [
+    {
+     "id": "C1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Winter sports are gaining popularity in Belgrade. Using the data from the Košutnjak meteorological station (44°46´N 20°25´E; altitude 230 m), suggest which months will be able to support skiing season here.",
+     "reference": ""
+    },
+    {
+     "id": "C2",
+     "points": 2,
+     "pointsEstimated": true,
+     "question": "You are standing near the upper point of a mountain ski run. Using Map 1C, calculate the inclination of this slope (degree, or percent).",
+     "reference": ""
+    },
+    {
+     "id": "C3",
+     "points": 3,
+     "pointsEstimated": true,
+     "question": "Imagine, that you are asked to plan an open-air ice skating rink to be placed at the Pioneer City close to the running pad. Assuming that the rink is a circle with a diameter of 75 m, find an appropriate place for this rink on Map 2C, and encircle it with a pen. As the skating rink should be flat, with no relative elevation, estimate the volume of ground to be removed.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Fieldwork Exercise 2 - Demography",
+   "weight": 2,
+   "total": 20,
+   "statement": "All tasks must be completed individually, using the answer templates provided. The Resource Booklet contains important supporting materials: tables with statistical data, maps, etc.",
+   "parts": [
+    {
+     "id": "I.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Using the demographic data and map (see Table 1 and Map 5 in the Resource Booklet), calculate the total number of potential visitors to the Košutnjak Park from the municipalities, highlighted on the Map 5, who are aged 15—25 years old in 2017.",
+     "reference": ""
+    },
+    {
+     "id": "I.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Assuming that only one out of 1,000 (one thousand) people aged 15—25 years old from each of the countries sharing borders with Serbia, will visit Košutnjak Park this year, which country can potentially provide the largest number of young tourists?",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "Fieldwork Exercise 2 - Transportation and Accessibility",
+   "weight": 3,
+   "total": 20,
+   "statement": "Examine current transport schemes and plans for Belgrade to answer the transportation and accessibility questions.",
+   "parts": [
+    {
+     "id": "II.1",
+     "points": 2,
+     "pointsEstimated": true,
+     "question": "Examine the current (present day) public transport scheme of Belgrade (Map 6 of the Resource booklet). Which municipality highlighted on Map 5 has the easiest (fastest) connection with Pioneer City? Which municipality has the most complicated (slowest) connection with the Košutnjak Park?",
+     "reference": ""
+    },
+    {
+     "id": "II.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "There is a plan to build a tunnel for cars in Belgrade from A to B (Map 4). Provide positive justifications (benefits) for building this tunnel for future development of tourism in Košutnjak Park. Propose the shortest way to connect the Aleksandar restaurant at Košutnjak Park with the exit from the proposed tunnel (B on Map 4). Name this kind of public transport and estimate the length of its route from the tunnel exit to S4.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Fieldwork Exercise 2 - Human Impact (Anthropogenic Pressure)",
+   "weight": 6,
+   "total": 20,
+   "statement": "Evaluate human impact and anthropogenic pressure on the Košutnjak Park territory.",
+   "parts": [
+    {
+     "id": "III.1",
+     "points": 5,
+     "pointsEstimated": true,
+     "question": "On the Map Template 1, divide the territory of the Košutnjak Park into no more than 5 zones based on the degree of human impact (anthropogenic pressure). In the legend (key), write brief annotations for the characteristics of each zone. Briefly describe the zones and the criteria behind their allocation.",
+     "reference": ""
+    },
+    {
+     "id": "III.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the zones you have identified is characterized by the highest degree of human impact (anthropogenic pressure) on its territory? Provide a quantitative indicator to measure human impact, and estimate its average value for this zone.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Fieldwork Exercise 2 - Potential and limitations for sustainable development of youth tourism",
+   "weight": 7,
+   "total": 20,
+   "statement": "Analyze potential and limitations for sustainable development of youth tourism at Košutnjak Park.",
+   "parts": [
+    {
+     "id": "IV.1",
+     "points": 4,
+     "pointsEstimated": true,
+     "question": "Using the Resource Booklet materials and your field observations, think about kinds of youth tourism that could be practiced here. Provide answers for: A) Which one of the already existing activities would you recommend to support and develop as a preference? B) Which one of the already existing activities would you recommend to limit? C) Which one completely new activity would you recommend for development?",
+     "reference": ""
+    },
+    {
+     "id": "IV.2",
+     "points": 3,
+     "pointsEstimated": true,
+     "question": "Imagine, that you are designing a plan for sustainable development of youth tourism in Košutnjak Park. Link ideas for your plan to different scales (levels). For each scale, indicate the main advantages/potentials, and main limitations/constraints.",
+     "reference": ""
     }
    ]
   }

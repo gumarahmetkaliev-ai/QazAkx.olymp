@@ -7,10 +7,10 @@
  "tasksFile": "olympiads/geography/s/ieso/2017/ieso-pt2.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T19:25:52.514Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:48:56.802Z",
  "quality": {
-  "tasks": 7,
+  "tasks": 1,
   "parts": 7,
   "withPoints": 7,
   "withReference": 0,
@@ -20,105 +20,58 @@
  "tasks": [
   {
    "number": 1,
-   "title": "To evaluate the solar constant, the calorimeter is exposed such that…",
-   "statement": "To evaluate the solar constant, the calorimeter is exposed such that the brass\nmass receives the maximum energy. How should the device be oriented? Select the correct\nanswer. (Only one answer possible)\n\n1-                                             2-\n\n3-                                             4-\n\n                                           !2/!7\n\nPART II : Measuring the terrestrial solar constant.                                   TECHNICAL\n                                                                                     EVALUATION 1\n                                                                                      BY REFEREE\n\nInstructions :\n- Take note of the material provided to you (that of Part I).\n- Orient the device such that the surface of the mass is perpendicular to the sun's rays.\n- Acquaint yourself with all the parameters necessary to determine the solar constant. They are\npresented in the table 1 below.\n- Measure the angle of the axis the device makes with the horizontal. This is the height of the\nsun above the horizon.\n- Start the experiment. Note the initial temperature. After 10 minutes, record the ﬁnal\ntemperature.\n- Bring the device to a shaded area.\n\nAfter completing the experiment, enter the measured values in table 1 :\n\nParameters                              Symbol and unit                     Value\n\nMass                                    M (kg)\nDiameter of the mass                    D (m)\nThermal capacity of the mass            Cp (J x K-1 x kg-1)\nHeight of the Sun above the horizon     h (°)\nInitial temperature                     Ti (°C)\nFinal temperature                       Tf (°C)\nDuration of the experiment              Δt (s)\n\nTABLE 1 : Experimental parameters required to determine the solar constant.\n\nWe have taken our measurements on the surface of the Earth, but the solar constant is a\ncalculated value that excludes the inﬂuence of the atmosphere. It is therefore necessary to apply a\ncorrection factor.\n\nIn other words, any power value, denoted Pd, depends on the value of the solar constant F\ncorrected by a factor cor, which depends on the thickness and transparency properties of the\natmosphere traversed. The relationship is then written as :\n\n                                F = Pd x cor                                  (a)\n\nHeight of the Sun h (°)         20          30            40       50          60          65\n\nClear blue sky                 2.5          2.0           1.7     1.5         1.4         1.3\n\nIntermediate sky               4.2          3.5           2.6     2.1         1.8         1.5\n\nCloudy sky                     5.3          4.3           3.2     2.5         2.2         2.0\n\nTABLE 2 : Data for the determination of the factor cor as a function of the thickness and\ntransparency of the layer of atmosphere traversed.\n\n                                                  !3/!7",
+   "title": "PRACTICAL TEST: THE SUN, A UNIQUE ENERGY SOURCE FOR THE SOLAR SYSTEM",
+   "weight": 7,
    "total": 7,
+   "statement": "In the event of a manned mission to Mars, the sun appears to be the most immediately accessible source of energy. The planet is further away from the sun than Earth and, therefore, receives less energy. We will therefore determine the surface area of solar panels that need to be deployed on the surface of Mars as part of a permanent colonization mission.",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.1",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 1: To evaluate the solar constant, the calorimeter is exposed such that the brass mass receives the maximum energy. How should the device be oriented? Select the correct answer. (Only one answer possible)\n1-\n2-\n3-\n4-",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 2,
-   "title": "The solar constant F is… (only one possible answer) 1- smaller than…",
-   "statement": "The solar constant F is… (only one possible answer)\n1- smaller than that which is measured on the ground and dependent on weather conditions.\n2- smaller than that which is measured on the ground and not dependent on weather conditions.\n3- identical to that which is measured on the ground and dependent on weather conditions.\n4- greater than that which is measured on the ground and not dependent on weather conditions.\n5- greater than that which is measured on the ground and dependent on weather conditions.\n\nWe assume that our assembly is ﬂawless, though that is not the case. For example, thermal\ninsulation problems limit the accuracy of our data. The values obtained will actually be lower than\nthe data values from a more precise device.\n\nConsider our system to perform as :\n\n                           Esolar = M x Cp x ΔTemperature                 (b)\n\nRecall the relationship between power and energy :\n\n                           Esolar = Psolar x Δt                           (c)\n\nThe power received per unit surface area S at ground level Pd is related to the power received\nPsolar by the relationship :\n\n                           Psolar = Pd x S                                (d)",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.2",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 2: The solar constant F is… (only one possible answer)\n1- smaller than that which is measured on the ground and dependent on weather conditions.\n2- smaller than that which is measured on the ground and not dependent on weather conditions.\n3- identical to that which is measured on the ground and dependent on weather conditions.\n4- greater than that which is measured on the ground and not dependent on weather conditions.\n5- greater than that which is measured on the ground and dependent on weather conditions.",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 3,
-   "title": "The solar constant F can be calculated by the relationship deduced…",
-   "statement": "The solar constant F can be calculated by the relationship deduced\nfrom formulae (a), (b), (c) and (d). Choose the correct relationship below: (Only one\nanswer possible)\n\n              S × Δt × cor\n   ! =\n1- F                                               because F increases when S increases.\n         M × Cp × ΔTemperature\n                    S × Δt\n   ! =\n2- F                                 because when S increases, more energy is\n         M × Cp × ΔTemperature × cor\n                                                   captured.\n\n         M × Cp × ΔTemperature × cor\n   ! =\n3- F                                               because F is proportional to the variation in\n                        S × Δt\n                                                   temperature.\n\n         M × Cp × ΔTemperature\n   ! =\n4- F                                               because F is inversely proportional to the\n                S × Δt × cor\n                                                   correction factor.\n\n                                                   ! = π × r 2 where S is the surface area\nThe surface area of a disc can be calculated using S\nin m2 and R the radius of the mass M. Recall that the order of magnitude of a value is the power of\n10 closest to the value. For example, 32 is closer to 10 than to 100, and thus has an order of\nmagnitude of 101, whereas 74, which is closer to 100 than to 10, has an order of magnitude of 102.\n\n                                               !4/!7",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.3",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 3: The solar constant F can be calculated by the relationship deduced from formulae (a), (b), (c) and (d). Choose the correct relationship below: (Only one answer possible)\n1- F = (S × Δt × cor) / (M × Cp × ΔTemperature) because F increases when S increases.\n2- F = (S × Δt) / (M × Cp × ΔTemperature × cor) because when S increases, more energy is captured.\n3- F = (M × Cp × ΔTemperature × cor) / (S × Δt) because F is proportional to the variation in temperature.\n4- F = (M × Cp × ΔTemperature) / (S × Δt × cor) because F is inversely proportional to the correction factor.",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 4,
-   "title": "According to your measurements, the value of the terrestrial solar…",
-   "statement": "According to your measurements, the value of the\nterrestrial solar constant has an order of magnitude of :\n1-101 W x m-2.\n2- 102 W x m-2.\n3-103 W x m-2.\n4-104 W x m-2.\n\n                            !5/!7\n\nPART III : Measuring the solar constant across the solar system.\n                                                                                                                     TECHNICAL\n                                                                                                                    EVALUATION 2\nMeasuring the solar constant in the solar system amounts to an understanding of                                     BY REFEREE\nhow this parameter changes as a function of distance from the Sun.\n\nInstructions :\n- Familiarize yourself with the equipment provided.\n- The light meter can move inside the tube ; you can read the distance between the light meter\nand the light source directly at the indicator level.\n- Measure the light intensity for different distances to answer question 5.",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "4",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.4",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 4: According to your measurements, the value of the terrestrial solar constant has an order of magnitude of :\n1- 10^1 W x m-2.\n2- 10^2 W x m-2.\n3- 10^3 W x m-2.\n4- 10^4 W x m-2.",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 5,
-   "title": "The solar constant is… (only one answer possible) 1- proportional to…",
-   "statement": "The solar constant is… (only one answer possible)\n1- proportional to the distance to the Sun.\n2- proportional to the square of the distance to the Sun.\n3- inversely proportional to the square root of the distance to the Sun.\n4- inversely proportional to the distance to the Sun.\n5- inversely proportional to the square of the distance to the Sun.\n\n                          14000\nSolar constant (W.m-2 )\n\n                          12600       Mercury\n                          11200\n                          9800\n                          8400\n                          7000\n                          5600\n                          4200\n                                      Venus\n                          2800\n                          1400         Earth\n                                         Mars Jupiter   Saturn                   Uranus                     Neptune\n                              0\n                                  0      500    1000    1500     2000     2500     3000       3500   4000    4500     5000\n                                                                                          6\n                                                         Distance to the Sun (x10 km)\n\nFIGURE 2 : Solar constant versus the distance to the Sun for eight planets of the solar system.",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "5",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.5",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 5: The solar constant is… (only one answer possible)\n1- proportional to the distance to the Sun.\n2- proportional to the square of the distance to the Sun.\n3- inversely proportional to the square root of the distance to the Sun.\n4- inversely proportional to the distance to the Sun.\n5- inversely proportional to the square of the distance to the Sun.",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 6,
-   "title": "The solar constant… (only one answer possible) 1- is about 700 W x…",
-   "statement": "The solar constant… (only one answer possible)\n1- is about 700 W x m-2 on Mars, or between 22% and 28% of the solar constant on Venus.\n2- is twice as large on Mars, compared to Earth.\n3- is very weak for the last four most distant planets.\n4- is proportional to the distance from the Sun.\n5- is greater on Saturn than on Uranus because the former has a larger radius.\n\n                                                                        !6/!7\n\n                                            A                                                   B\n\nFIGURE 3 : (A) Photograph of the International Space Station (ISS) in Earth orbit. It has\ndimensions of 110x74x30 (LxWxH in meters) and a total mass of 400 tonnes, its autonomous\noperation is provided by eight solar generators. Each consists of a mast surrounded by two 32m x\n11m surfaces that support the photovoltaic cells. (B) Dome simulating life on Mars during the HI-\nSEAS program that took place on the slopes of the Kilauea volcano in Hawaii. The living conditions\nand thus the energy requirements for the autonomy (essentially pressurization and heating) of this\nMars colonization module are similar to those of ISS.",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "6",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.6",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 6: The solar constant… (only one answer possible)\n1- is about 700 W x m-2 on Mars, or between 22% and 28% of the solar constant on Venus.\n2- is twice as large on Mars, compared to Earth.\n3- is very weak for the last four most distant planets.\n4- is proportional to the distance from the Sun.\n5- is greater on Saturn than on Uranus because the former has a larger radius.",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 7,
-   "title": "Based on the information in Figures 2 and 3, how many generators…",
-   "statement": "Based on the information in Figures 2 and 3, how many generators would\nbe needed for an autonomous manned mission to Mars?\n1- about 4\n2- about 8\n3- about 10\n4- about 12\n5- about 14\n6- about 16\n7- about 18\n\n                                                !7/!7",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "7",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.7",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 7: Based on the information in Figures 2 and 3, how many generators would be needed for an autonomous manned mission to Mars?\n1- about 4\n2- about 8\n3- about 10\n4- about 12\n5- about 14\n6- about 16\n7- about 18",
      "reference": ""
     }
    ]

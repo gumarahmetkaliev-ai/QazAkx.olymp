@@ -7,103 +7,136 @@
  "tasksFile": "olympiads/astronomy/s/ioaa/2011/astro-5-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T18:02:26.157Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:18:21.267Z",
  "quality": {
-  "tasks": 6,
-  "parts": 6,
-  "withPoints": 6,
+  "tasks": 2,
+  "parts": 15,
+  "withPoints": 15,
   "withReference": 0,
-  "withQuestion": 6,
-  "estimatedPoints": 6
+  "withQuestion": 15,
+  "estimatedPoints": 15
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
-   "statement": "There are 2 questions, each worth 25 points. You have 80 minutes to solve them, of\n   which :\n\n            (a) 20 minutes for reading the question and preparing for the observations,\n\n            (b) 40 minutes to perform all the observations in the planetarium\n                (20 minutes for each questions),\n\n            (c) 20 minutes for calculations and finishing your work.",
-   "total": 7,
+   "title": "Earth",
+   "weight": 25,
+   "total": 25,
+   "statement": "Observing competition – planetarium round. In Question 1: 1. The sky is stationary, the observer is on the surface of the Earth. 2. Visible on the sky are: a comet, the Moon and a nova of about 2nd magnitude. 3. From the 11th minute, a grid representing horizontal coordinates will be projected on the sky, and will remain on until the end of the question. Note: Azimuth is counted from 0º to 360º starting at S through W, N, E.",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.A",
+     "points": 3,
      "pointsEstimated": true,
+     "question": "On the map of the sky, mark (with a cross) and label the nova (mark it “N”) and the Moon (mark it with a Moon symbol) and draw the shape and position of the comet.",
+     "reference": ""
+    },
+    {
+     "id": "1.B",
+     "points": 3,
+     "pointsEstimated": true,
+     "question": "In the table below, circle only those objects which are above the astronomical horizon: M20 – Triffid Nebula, o Cet – Mira, δ CMa – Wezen, α Cyg – Deneb, M57 – Ring Nebula, β Per – Algol, δ Cep – Alrediph, α Boo – Arcturus, M44 – Praesepe (Beehive Cluster). Note: you will lose 1 point for every incorrect answer.",
+     "reference": ""
+    },
+    {
+     "id": "1.C",
+     "points": 3,
+     "pointsEstimated": true,
+     "question": "When the coordinate grid is visible, mark on the map the northern part of the local meridian (from the zenith to the horizon) and the ecliptic north pole (with a cross and marked “P”).",
+     "reference": ""
+    },
+    {
+     "id": "1.D",
+     "points": 3,
+     "pointsEstimated": true,
+     "question": "For the displayed sky, give the geographical latitude of the observer (φ), Local Sidereal Time (θ), and time of year, by circling the calendar month (Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec).",
+     "reference": ""
+    },
+    {
+     "id": "1.E",
+     "points": 3,
+     "pointsEstimated": true,
+     "question": "Give the names of the objects, whose approximate horizontal coordinates are: azimuth A1 = 45º and altitude h1 = 58º, azimuth A2 = 278º and altitude h2 = 20º.",
+     "reference": ""
+    },
+    {
+     "id": "1.F",
+     "points": 3,
+     "pointsEstimated": true,
+     "question": "Give the horizontal coordinates (azimuth, altitude) of: Sirius (α CMa) and The Andromeda Galaxy (M 31).",
+     "reference": ""
+    },
+    {
+     "id": "1.G",
+     "points": 4,
+     "pointsEstimated": true,
+     "question": "Give the equatorial coordinates of the star marked on the sky with a red arrow: α=..., δ=...",
      "reference": ""
     }
    ]
   },
   {
    "number": 2,
-   "title": "Задача 2",
-   "statement": "Additional time is allowed to move to and from the planetarium.",
-   "total": 7,
+   "title": "Mars",
+   "weight": 25,
+   "total": 25,
+   "statement": "Observing competition – planetarium round. In Question 2: 1. Four consecutive days on the surface of Mars will be shown. 2. There is a Martian base visible on the horizon. 3. During the Martian daytime the sky will be slightly brightened. 4. The moons of Mars and the other planets will not be displayed. 5. The local meridian will be continuously visible on the sky. Note: Azimuth is counted from 0º to 360º starting at S through W, N, E.",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "2.H",
+     "points": 2,
      "pointsEstimated": true,
+     "question": "Give the areographic (Martian) latitude of the observer: φ=...",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 3,
-   "title": "Задача 3",
-   "statement": "Along with the questions you will be given a map of the sky, for use with both questions.\n   The map is for epoch J 2000.0, using a polar projection with a linear scale in declination,\n   and covers stars down to about 5th magnitude. You will also be given paper for working\n   and notes, writing implements, a pencil sharpener and an eraser.\n\n    Please take everything from the desk in the first room with you to the planetarium dome,\n    as you will be going to a different room afterwards to finish your work.",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "2.I",
+     "points": 3,
      "pointsEstimated": true,
+     "question": "Give the altitudes of upper (hu) and lower (hl) culmination of: Pollux (β Gem) and Deneb (α Cyg).",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 4,
-   "title": "Задача 4",
-   "statement": "At your place in the dome you will find a torch and clipboard. Please leave these two\n   items behind for the next contestant.",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "4",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "2.J",
+     "points": 3,
      "pointsEstimated": true,
+     "question": "Give the areocentric (Martian) declination of: Regulus (α Leo) and Toliman (α Cen).",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 5,
-   "title": "Задача 5",
-   "statement": "Only answers given in the appropriate places on the question sheet and on the map of the\n   sky will be assessed. The additional worksheets will not be assessed.",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "5",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "2.K",
+     "points": 3,
      "pointsEstimated": true,
+     "question": "Sketch diagrams to illustrate your working in questions (I) and (J) above.",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 6,
-   "title": "Задача 6",
-   "statement": "Clearly mark every page with your code number.\n\n                                 About the questions\n\nIn Question 1 :",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "6",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "2.L",
+     "points": 2,
      "pointsEstimated": true,
+     "question": "On the map of the sky, mark (with a cross) and label (“M”) the Martian celestial North Pole.",
+     "reference": ""
+    },
+    {
+     "id": "2.M",
+     "points": 3,
+     "pointsEstimated": true,
+     "question": "Give the azimuth of the observer as seen from the Martian base: A=...",
+     "reference": ""
+    },
+    {
+     "id": "2.N",
+     "points": 4,
+     "pointsEstimated": true,
+     "question": "Estimate the location of the base on Mars, and circle the appropriate description: a. near the Equator, b. near the northern Tropic circle, c. near the northern Arctic circle, d. near the North Pole.",
+     "reference": ""
+    },
+    {
+     "id": "2.O",
+     "points": 5,
+     "pointsEstimated": true,
+     "question": "The time axis below shows the Martian year and the seasons in the northern hemisphere. Mark the date represented by the planetarium display on the axis.",
      "reference": ""
     }
    ]

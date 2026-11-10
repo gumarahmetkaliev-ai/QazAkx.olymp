@@ -6,114 +6,83 @@
  "lang": "ru",
  "tasksFile": "olympiads/astronomy/s/ioaa/2017/astro-1-tasks.pdf",
  "solutionFile": "olympiads/astronomy/s/ioaa/2017/astro-1-sol.pdf",
- "generatedBy": "parser",
- "generatedAt": "2026-11-09T17:55:00.648Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:14:47.383Z",
  "quality": {
-  "tasks": 1,
-  "parts": 11,
-  "withPoints": 11,
-  "withReference": 11,
-  "withQuestion": 11,
-  "estimatedPoints": 11
+  "tasks": 2,
+  "parts": 8,
+  "withPoints": 8,
+  "withReference": 8,
+  "withQuestion": 8,
+  "estimatedPoints": 1
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Экспериментальное задание",
-   "weight": null,
-   "total": 11,
-   "statement": "Instructions\n1. The data analysis examination lasts for 4 hours and is worth a total of 150 marks.\n\n2. Dedicated IOAA Summary Answer Sheets are provided for writing your answers. Enter the\n   final answers into the appropriate boxes in the corresponding Summary Answer Sheet. On\n   each Answer Sheet, please fill in\n\n3. Graph Papers are required for your solutions. On each Graph Paper, please fill in\n       Question no.\n       Graph no. and total number of graph papers used.\n\n4. There are Answer Sheets for carrying out detailed work/rough work. On each Answer Sheet,\n   please fill in\n        Question no.\n        Page no. and total number of pages.\n5. Start each problem on a separate Answer Sheet. Please write only on the printed side of the\n   sheet. Do not use the reverse side. If you have written something on any sheet which you do not\n   want to be evaluated, cross it out.\n\n6. Use as many mathematical expressions as you think that may help the evaluator to better\n   understand your solutions. The evaluator may not understand your language. If it is necessary to\n   explain something in words, please use short phrases (if possible in English).\n\n7. You are not allowed to leave your working desk without permission. If you need any assistance\n   (malfunctioning calculator, need to visit a restroom, need more Answer Sheets, etc.), please\n   draw the attention of the invigilator using the sign card.\n\n8. The beginning and end of the examination will be indicated by a long sound signal.\n   Additionally, there will be a buzzer sound, fifteen minutes before the end of the examination\n   (before the final sound signal).\n\n9. At the end of the examination you must stop writing immediately. Sort and put your Summary\n   Answer Sheets, Graph Papers, and Answer Sheets for each part (D1 and D2) in separate stack.\n   You are not allowed to take any sheet of paper out of the examination area.\n\n10. Wait at your table until your envelope is collected. Once all envelopes are collected, your\n    student guide will escort you out of the examination area.\n\n11. A list of constants is given on the next page.\n\n                          Data Analysis E\n\nTable of constants\n\nMass (M⊕)\nRadius (R⊕)\nAcceleration of gravity (g)\nObliquity of Ecliptic\nLength of Tropical Year\nLength of Sidereal Year\nAlbedo\n\nMass(M☾)\nRadius (R☾)\nMean distance from Earth\nOrbital inclination with the Ecliptic\nAlbedo\nApparent magnitude (mean full moon)\n\nMass (M☉)\nRadius (R☉)\nLuminosity (L☉)\nAbsolute Magnitude (ℳ☉)\nAngular diameter\n\n1 au\n1 pc\nDistance from Sun to Barnard’s Star\nGravitational constant (G)\nPlanck constant (h)\nBoltzmann constant (kB)\nStefan-Boltzmann constant (σ)\nHubble constant (H0)\nSpeed of light in vacuum (c)\n\nProton mass\n\nDeuterium mass\nNeutron mass\nHelium-3 mass\nHelium-4 mass\n\nxamination\n\n 5.98 × 1024 kg\n 6.38 × 106 m\n 9.8 m s −2\n 23°27’                          Earth\n 365.2422 mean solar days\n 365.2564 mean solar days\n 0.39\n\n 7.35 × 1022 kg\n 1.74 × 106 m\n 3.84 × 108 m                    Moon\n 5.14°\n 0.14\n -12.74\n\n 1.99 × 1030 kg\n 6.96 × 108 m\n 3.83 × 1026 W                   Sun\n 4.80 mag\n 0.5 degrees\n\n 1.50 × 1011 m\n 206,265 au\n 1.83 pc\n 6.67 × 10−11 N ⋅ m2 ⋅ kg −2\n 6.62 × 10−34 J ⋅ s\n 1.38 × 10−23 J ⋅ K −1\n 5.67 × 10−8 W ⋅ m−2 ⋅ K −4\n 72 km s −1 Mpc −1\n 299,792,458 m s−1\n                                 Physical\n  938.27 MeV ⋅ c −2\n                                 constants\n 1875.60 MeV ⋅ c −2\n 939.56 MeV ⋅ c −2\n 2808.30 MeV ⋅ c −2\n 3727.40 MeV ⋅ c −2\n\n(D1)   Calibrating the distance ladder to the LMC                                    [75 marks]\n\n       An accurate trigonometric parallax calibration for Galactic Cepheids has long been\n       sought, but is very difficult to achieve in practice. All known classical (Galactic)\n       Cepheids are more than 250 pc away, therefore for direct distance estimates to achieve\n       an uncertainty of up to 10%, parallax uncertainties of up to ±0.2 milliarcsec are needed,\n       requiring space-based observations. The Hipparcos satellite reported parallaxes for 200\n       of the nearest Cepheids, but even the best of these had high uncertainties. Recent\n       progress has come with the use of the Fine Guidance Sensor on HST where parallaxes\n       (in many cases) accurate to better than ±10% were obtained for 10 Cepheids, spanning\n       a range of periods from 3.7 to 35.6 days. These nearby Cepheids cover distances from\n       about 300 to 560 pc.\n\n       The measured periods, P, and average magnitudes in V, K and I bands are given in\n       Table 1 as well as the AV and AK for extinction in V and K bands, respectively. The\n       measured parallaxes with their uncertainties are also given in milliarcsec (mas). All\n       measured apparent magnitudes have negligible uncertainty.\n\n       Table 1: Periods and average apparent magnitudes of 5 Galactic Cepheids with\n       accurate parallax measurements.\n                          P       <V>   <K>   AV    AK    <I> parallax error\n                        (day)    (mag) (mag) (mag) (mag) (mag) (mas) (mas)\n          RT Aur         3.728    5.464 3.925 0.20  0.02 4.778    2.40  0.19\n          FF Aql         4.471    5.372 3.465 0.64  0.08 4.510    2.81  0.18\n          X Sgr          7.013    4.556 2.557 0.58  0.07 3.661    3.00  0.18\n          ζ Gem        10.151     3.911 2.097 0.06  0.01 3.085    2.78  0.18\n          l Car        35.551     3.732 1.071 0.52  0.06 2.557    2.01  0.20\n\n       (D1.1) The observed correlation between the period of a Cepheid and its brightness is\n       usually described by the so-called “Period-Luminosity (PL) relation”, where L  P  .\n       In fact, such a relation is normally expressed in terms of the period and absolute\n       magnitude, instead of luminosity. Hereafter, we shall refer to the Period-Absolute\n       magnitude relation as the conventionally named “PL relation”.\n       Use the data given in Table 1 to plot a suitable linear graph in order to derive the\n       Cepheid PL relation for the V-band and K-band. You should plot each graph separately\n       on different pieces of graph paper. Determine the slope of the line that best describes\n                                                                                   x\n       the linear relation of the data. (You may find the relation (log10 x)             useful)\n                                                                                x log e 10\n       [36.5 Marks]\n\nAny apparent differences in PL relations of stars in the different bands can be explained\nif one also considers differences in colour. Therefore, the PL relation is in fact a PLC\n(Period-Luminosity-Colour) relation. This is from the reddening effect, due to\nextinction being a function of wavelength, which can also vary among different\nCepheids due to their different metallicities, foreground Interstellar Medium and dust.\nA new reddening-free magnitude (or bandpass) called “Wesenheit” has been proposed\nthat does not require the explicit information of the extinction of individual stars but\nuses colour information from the star itself to get rid of the effect. For example, WVI\nuse V and I band photometry and is defined as\n\n                                   AV \n                        WVI  V               (V  I ),\n                                   E (V  I ) \n                              V  Rv (V  I )\n\nwhere Rv depends on the reddening law. In this case, we shall take the value of Rv to\nbe 2.45.\n(D1.2) From the data given in Table 1, plot and derive the reddening-free PL relation\nusing Wesenheit WVI magnitudes. Estimate the linear slope of the relation as well as its\nuncertainty.                                                           [14.5 Marks]\n\n(D1.3) Next, we would like to use the newly-derived PL relations from question (D1.1)\n& (D1.2) to estimate the distance to the Large Magellenic Cloud (LMC) using periods\nand magnitudes of classical Cepheids in the LMC. In Table 2, the periods, average\nextinction-corrected apparent magnitudes, <Vcorr>, and Wesenheit WVI magnitudes are\ngiven.\nEstimate the distance modulus,  , to each star and then use all the information to derive\nthe distance to the LMC (in parsecs) and its standard deviation for each band.\nCompare if the derived distances are statistically different for the 2 bands (YES/NO).\nAre the standard deviations of the estimated distances for 2 bands different (YES/NO)?\nBased on this dataset, which band (V or Wesenheit) is more accurate in estimating the\ndistance to the LMC?                                                      [24 Marks]\n  Table 2: Period, average extinction-corrected apparent magnitude, <Vcorr>, and\n  average Wesenheit magnitude measurements of Cepheids in the LMC\n\n                             P              <Vcorr>    <WVI>\n                             (day)          mag        mag\n                     HV12199 2.63           16.08      14.56\n                     HV12203 2.95           15.93      14.40\n                     HV12816 9.10           14.30      12.80\n                     HV899   30.90          13.07      10.97\n                     HV2257 39.36           12.86      10.54\n\n(D2)   The search for dark matter                                               [75 marks]\n       A low surface brightness galaxy (LSB) is a diffuse galaxy with a surface brightness that,\n       when viewed from the Earth, is at least one magnitude lower than the ambient night sky.\n\n       Some of its matter is in the form of “baryonic” matter such as neutral hydrogen gas and\n       stars. However, most of its matter is in the form of invisible mass – so called “dark matter”.\n       In this question, we will investigate the mass of dark matter in a galaxy, the effect of dark\n       matter on the rotation curves of the galaxy, and the distribution of dark matter in the galaxy.\n       The table below provides the data of a LSB galaxy named UGC4325. The galaxy is assumed\n       to be edge-on. At every distance r from the centre of the galaxy, we measure\n\n       1. obs , the observed wavelength of the H emission line. The Hubble expansion of the\n       Universe has already been excluded from the data.\n\n       2. Vgas , the contribution of the gas component to the rotation due to M gas , derived from HI\n       surface densities.\n\n       3. V , the contribution of the stellar component to the rotation due to M * , derived from R-\n       band photometry.\n\n       The rotational velocities of the test particle due to the gas component, Vgas , and the star\n       component, V , are defined as the velocities in the plane of the galaxy that would result from\n       the corresponding components without any external influences. These velocities are\n       calculated from the observed baryonic mass density distributions.\n\n                                r         obs        Vgas        V\n                              (kpc)       (nm)       (km/s)     (km/s)\n                                0.70    656.371         2.87      20.97\n                                1.40    656.431         6.75      32.22\n                                2.09    656.464        14.14      40.91\n                                2.79    656.475        20.18      46.75\n                                3.49    656.478        24.08      50.10\n                                4.89    656.484        28.08      47.94\n                                6.25    656.481        29.25      45.47\n                                7.10    656.481        27.03      47.78\n                                9.03    656.482        25.90      45.32\n                               12.05    656.482        21.03      42.30\n\nThe mass of dark matter M DM (r ) within a volume of radius r can be defined in terms of the\nrotational velocity due to dark matter VDM , the radius r and gravitational constant G ,\n\n                                                          2\n                                                       rVDM\n                                        M DM (r )          .                                  (1)\n                                                         G\n\nTo a good approximation, the observed rotational velocity Vobs can be modelled as\n\n                                         2\n                                       Vobs  Vgas\n                                                2\n                                                    V*2  VDM\n                                                            2\n                                                               .                               (2)\n\nThe observed rotational velocity Vobs depends on the mass of the galaxy M (r ) within a\nvolume of radius r measured from the galaxy’s centre.\n\nThe mass density DM (r ) of dark matter within a volume of radius r can be modelled by a\ngalaxy density profile,\n                                                         0\n                                         DM (r )                2\n                                                                                               (3)\n                                                          r \n                                                      1  \n                                                          rC \n\nwhere 0 and rC are the central density and the core radius of the galaxy, respectively.\nAccording to the density profile, the mass of dark matter M DM (r ) within a volume of a\nradius r can be described by\n\n                            M DM (r )  40 rC2  r  rC arctan(r / rC )  .                  (4)\n\nPart 1 The mass of dark matter and rotation curves of the galaxy\n\n(D2.1) In laboratories on Earth, H has an emitted wavelength emit of 656.281 nm.\n       Compute the observed rotational velocities of the galaxy Vobs and the rotational\n       velocities due to the dark matter VDM at distance r in units of km s-1.\n\n       For the different values of r given in the table, compute the dynamical mass M (r )\n       and the mass of dark matter M DM (r ) in solar masses.                                 [21]\n\n(D2.2) Create rotation curves of the galaxy on graph paper by plotting the points of Vobs ,\n       VDM , Vgas , V versus the radius r and draw smooth curves through the points (mark\n       your graph as “D2.2”).\n\n       Order the contribution of the different components to the observed velocity in\n       descending order.                                                         [16]\n\nPart 2 Dark matter distribution\n\n(D2.3) Take a data point at small r and large r to estimate 0 and rC . Note that for large\n       values of x, arctan( x)   / 2 and at small x, arctan( x)  x  x3 / 3 .                 [7]\n\n(D2.4) By comparing Equation (4) to a linear function, the central density 0 could also be\n       found by a linear fit. Plot an appropriate graph so that a linear fit can be used to find\n       another value of 0 . Evaluate 0 in units of M⨀ kpc-3. (Mark your graph as\n       “D2.4”). If you cannot find the value of rC from the previous part, use rC  3.2 kpc\n       as an estimate for this part.                                                   [19]\n\n(D2.5) Compute logarithmic values of the dark matter density, ln[ DM (r )] , and plot the\n       distribution of dark matter in the galaxy as a function of radius r on graph paper.\n       (Mark your graph as “D2.5”).                                                  [12]",
+   "title": "Calibrating the distance ladder to the LMC",
+   "weight": 75,
+   "total": 75,
+   "statement": "An accurate trigonometric parallax calibration for Galactic Cepheids has long been sought, but is very difficult to achieve in practice. All known classical (Galactic) Cepheids are more than 250 pc away, therefore for direct distance estimates to achieve an uncertainty of up to 10%, parallax uncertainties of up to ±0.2 milliarcsec are needed, requiring space-based observations. The Hipparcos satellite reported parallaxes for 200 of the nearest Cepheids, but even the best of these had high uncertainties. Recent progress has come with the use of the Fine Guidance Sensor on HST where parallaxes (in many cases) accurate to better than ±10% were obtained for 10 Cepheids, spanning a range of periods from 3.7 to 35.6 days. These nearby Cepheids cover distances from about 300 to 560 pc.\n\nThe measured periods, P, and average magnitudes in V, K and I bands are given in Table 1 as well as the AV and AK for extinction in V and K bands, respectively. The measured parallaxes with their uncertainties are also given in milliarcsec (mas). All measured apparent magnitudes have negligible uncertainty.\n\nTable 1: Periods and average apparent magnitudes of 5 Galactic Cepheids with accurate parallax measurements.\nP (day) | <V> (mag) | <K> (mag) | AV (mag) | AK (mag) | <I> (mag) | parallax (mas) | error (mas)\nRT Aur: 3.728 | 5.464 | 3.925 | 0.20 | 0.02 | 4.778 | 2.40 | 0.19\nFF Aql: 4.471 | 5.372 | 3.465 | 0.64 | 0.08 | 4.510 | 2.81 | 0.18\nX Sgr: 7.013 | 4.556 | 2.557 | 0.58 | 0.07 | 3.661 | 3.00 | 0.18\nζ Gem: 10.151 | 3.911 | 2.097 | 0.06 | 0.01 | 3.085 | 2.78 | 0.18\nl Car: 35.551 | 3.732 | 1.071 | 0.52 | 0.06 | 2.557 | 2.01 | 0.20",
    "parts": [
     {
-     "id": "1.1",
-     "points": 1,
-     "question": "The data analysis examination lasts for 4 hours and is worth a total of 150 marks.",
-     "reference": "",
-     "useTaskSolution": true,
-     "pointsEstimated": true
+     "id": "D1.1",
+     "points": 36.5,
+     "question": "Use the data given in Table 1 to plot a suitable linear graph in order to derive the Cepheid PL relation for the V-band and K-band. You should plot each graph separately on different pieces of graph paper. Determine the slope of the line that best describes the linear relation of the data. (You may find the relation delta(log10 x) approx delta x / (x log e 10) useful)",
+     "reference": "For Cepheid variable the PL relation is log L = beta log P + C. F = L / (4 pi d^2). Using absolute magnitude: M = beta' log P + C' where beta' = -2.5 beta. Calculate dpc, Ddpc, log P and M x and its error (30 x 0.5 mark = 15 Marks total, not including DMK). Plot Graph log P vs absolute magnitudes: 2 plots x (5 point + 5 error bars) x 0.5 mark = 10 marks; 2 plots x 2 axis x 0.5 mark = 2 marks; 2 plots x Draw a straight line through data points and error bars x 1 mark = 2 marks. V-band slope within -2.5 +/- 0.2 (1 mark, half if +/-0.3), uncertainty between 0.1-0.3 (1 mark). K-band slope within -3.4 +/- 0.2 (1 mark, half if +/-0.3), estimated uncertainty between 0.1-0.3 (1 mark)."
     },
     {
-     "id": "1.2",
-     "points": 1,
-     "question": "Dedicated IOAA Summary Answer Sheets are provided for writing your answers. Enter the final answers into the appropriate boxes in the corresponding Summary Answer Sheet. On each Answer Sheet, please fill in",
-     "reference": "",
-     "useTaskSolution": true,
-     "pointsEstimated": true
+     "id": "D1.2",
+     "points": 14.5,
+     "question": "From the data given in Table 1, plot and derive the reddening-free PL relation using Wesenheit WVI magnitudes. Estimate the linear slope of the relation as well as its uncertainty.",
+     "reference": "Calculate the Wesenheit magnitude from the given V, I and RV values and then estimate the absolute magnitude for the Wesenheit system MWVI. Calculate the values for WVI and MWVI (10 values x 0.5 = 5 marks). Realising that DMWVI = DMV = DMK (0.5 mark). Plot log P vs MWVI (5 points + 5 error bars) x 0.5 = 5 marks. 2 axis x 0.5 = 1 mark. Draw appropriate straight line through data 1 mark. Estimated slope within -3.4 +/- 0.2 (1 mark), estimated uncertainty of slope between 0.1-0.3 (1 mark)."
     },
     {
-     "id": "1.3",
-     "points": 1,
-     "question": "Graph Papers are required for your solutions. On each Graph Paper, please fill in  Question no.  Graph no. and total number of graph papers used.",
-     "reference": "",
-     "useTaskSolution": true,
-     "pointsEstimated": true
-    },
-    {
-     "id": "1.4",
-     "points": 1,
-     "question": "There are Answer Sheets for carrying out detailed work/rough work. On each Answer Sheet, please fill in  Question no.  Page no. and total number of pages.",
-     "reference": "",
-     "useTaskSolution": true,
-     "pointsEstimated": true
-    },
-    {
-     "id": "1.5",
-     "points": 1,
-     "question": "Start each problem on a separate Answer Sheet. Please write only on the printed side of the sheet. Do not use the reverse side. If you have written something on any sheet which you do not want to be evaluated, cross it out.",
-     "reference": "",
-     "useTaskSolution": true,
-     "pointsEstimated": true
-    },
-    {
-     "id": "1.6",
-     "points": 1,
-     "question": "Use as many mathematical expressions as you think that may help the evaluator to better understand your solutions. The evaluator may not understand your language. If it is necessary to explain something in words, please use short phrases (if possible in English).",
-     "reference": "",
-     "useTaskSolution": true,
-     "pointsEstimated": true
-    },
-    {
-     "id": "1.7",
-     "points": 1,
-     "question": "You are not allowed to leave your working desk without permission. If you need any assistance (malfunctioning calculator, need to visit a restroom, need more Answer Sheets, etc.), please draw the attention of the invigilator using the sign card.",
-     "reference": "",
-     "useTaskSolution": true,
-     "pointsEstimated": true
-    },
-    {
-     "id": "1.8",
-     "points": 1,
-     "question": "The beginning and end of the examination will be indicated by a long sound signal. Additionally, there will be a buzzer sound, fifteen minutes before the end of the examination (before the final sound signal).",
-     "reference": "",
-     "useTaskSolution": true,
-     "pointsEstimated": true
-    },
-    {
-     "id": "1.9",
-     "points": 1,
-     "question": "At the end of the examination you must stop writing immediately. Sort and put your Summary Answer Sheets, Graph Papers, and Answer Sheets for each part (D1 and D2) in separate stack. You are not allowed to take any sheet of paper out of the examination area.",
-     "reference": "",
-     "useTaskSolution": true,
-     "pointsEstimated": true
-    },
-    {
-     "id": "1.10",
-     "points": 1,
-     "question": "Wait at your table until your envelope is collected. Once all envelopes are collected, your student guide will escort you out of the examination area.",
-     "reference": "",
-     "useTaskSolution": true,
-     "pointsEstimated": true
-    },
-    {
-     "id": "1.11",
-     "points": 1,
-     "question": "A list of constants is given on the next page. Data Analysis E",
-     "reference": "",
-     "useTaskSolution": true,
-     "pointsEstimated": true
+     "id": "D1.3",
+     "points": 24,
+     "pointsEstimated": true,
+     "question": "Estimate the distance modulus, mu, to each star and then use all the information to derive the distance to the LMC (in parsecs) and its standard deviation for each band. Compare if the derived distances are statistically different for the 2 bands (YES/NO). Are the standard deviations of the estimated distances for 2 bands different (YES/NO)? Based on this dataset, which band (V or Wesenheit) is more accurate in estimating the distance to the LMC?",
+     "reference": "Distance modulus in each band mu_x = m_x - M_x. Calculate log P, distance modulus, distance accurate to nearest 100 pc (25 x 0.5 = 12.5 marks). Calculate mean and std for each band (2 marks). a) Answer NO, distances are not statistically different (1 mark). b) Answer YES, standard deviations are significantly different (1 mark). c) Wesenheit magnitude is better at estimating the distance to LMC (1 mark)."
     }
-   ],
-   "solution": "Evaluating for :\nM DM (r )  40rC2  r  rC arctan(r / rC )\n                                        , where                                    [1.0]\n                                       , for small                                [1.0]\n\n                                                                                  [1.5]\nSelected correct data to put into the formula gets 0.5, correct answer gets 0.5 and correct unit\ngets 0.5.\n\nEvaluating for        (Method 1):\n                                                                                [1.0]\nTake the last two data points at large          , then we get (for\n                                                                               [1.5]\n                                                                               [1.0]\n\nEvaluating for        (Method 2):\n                                                                         [1.0]\nTake the last data point, we get a cubic equation which students can solve to give\n                            kpc                                           [1.0]\n\nSelect the correct              for the final answer\nbecause for the last data point                                                 [1.5]\n\nLess accurate         :\n\nOmit the last term,\n                                                                                 [1.0]\n\n                                                                                  [1.0]\n\nPart 2 Dark matter distribution\n(D2.4) By comparing Equation (4) to a linear function, the central density 0 could also be\n       found by a linear fit. Plot an appropriate graph so that a linear fit can be used to find\n        another value of 0 . Evaluate 0 in units of                (mark your graph as “D2.4”). If\n\n     you cannot find the value of rC from the previous part, use rC  3.2 kpc as an\n     estimate for this part.                                           [19]\n\nSolution 1:\n\n              x   r  rC arctan(r / rC )   y  M DM (r )\n                         (kpc)                    (kg)\n                       0.010855                2.02x108\n                        0.0803                 1.18x109\n                        0.2386                 2.49x109\n                         0.495                 3.41x109\n                         0.838                 4.06x109\n                         1.718                 6.27x109\n                         2.738                 7.88x109\n                         3.428                 8.80x109\n                         5.093                 1.20x1010\n                         7.854                 1.74x1010\n\n                    Graph Number D2.4: Solution 1\n\n Choose correct axes: 1.0, each correct axis get 0.5 mark\n Values correctly computed: 8.0 (0.4 for each value, 20 data points)\n Points correctly plotted: 4.0 (0.2 for each point, 20 data points)\n  Values of x axis wrong due to previous wrong values get a maximum of\n  2.0 marks\n Credit for good visual linear fit: 1.0\n Correct value of slope: 1.0\n Correct value of 0 : 1.0\n\nSolution 2:\n\n                               y  M DM (r )\n                                  (   )\n               0.984             2.89x108\n               0.943             8.40 x108\n               0.886             1.19x109\n               0.822             1.22x109\n               0.760             1.16x109\n               0.649             1.28x109\n               0.562             1.26x109\n               0.517             1.24x109\n               0.436             1.33x109\n               0.348             1.44x109\n\n                    Graph Number D2.4: Solution 2\n\n Choose correct axes: 1.0, each correct axis get 0.5 mark\n Values correctly computed: 8.0 (0.4 for each value, 20 data points)\n Points correctly plotted: 4.0 (0.2 for each point, 20 data points)\n  Values of x axis wrong due to previous wrong values gets a maximum of\n  2.0 marks\n Credit for good visual linear fit: 1.0\n Correct value of slope: 1.0\n Correct value of 0 : 1.0\n\n(D2.5) Compute logarithmic values of the dark matter density,            DM(r) , and plot the\n       distribution of the dark matter in the galaxy as a function of radius r on graph paper\n       (mark your graph as “D2.5”).                                                     [12]\n\n Solution 1:                 from D2.3\n\n                               r                DM(r)\n\n                             (kpc)          (     )\n                             0.70            16.11\n                             1.40            15.36\n                             2.09            14.73\n                             2.79            14.23\n                             3.49            13.81\n                             4.89            13.17\n                             6.25            12.69\n                             7.10            12.44\n                             9.03            11.97\n                             12.05           11.40\n\n                               Graph Number D2.5: Solution 1\n\n   Values correctly computed: 4.0 (0.4 for each values, 10 data points)\n    Values of      DM (r) wrong due to the wrong value of 0 gets a\n   Points correctly plotted: 4.0 (0.4 for each point, 10 data points)\n    Values of      DM(r) wrong due to previous wrong values gets a\n   Smooth curve through points: 1.0\n\nSolution 2:\n\n                              r                DM(r)\n\n                            (kpc)          (     )\n                            0.70           12.79\n                            1.40           11.95\n                            2.09           11.47\n                            2.79           11.21\n                            3.49           11.07\n                            4.89           11.16\n                            6.25           11.26\n                            7.10           11.16\n                            9.03           11.27\n                            12.05          11.41\n\n                     Graph Number D2.5 Solution 2\n\n Values correctly computed: 4.0 (0.4 for each values, 10 data points)\n  Values of       DM(r) wrong due to the wrong value of  0 gets a\n\n Points correctly plotted: 4.0 (0.4 for each point, 10 data points)\n  Values of      DM(r)    wrong due to previous wrong values gets a\n Smooth curve through points: 1.0"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "The search for dark matter",
+   "weight": 75,
+   "total": 75,
+   "statement": "A low surface brightness galaxy (LSB) is a diffuse galaxy with a surface brightness that, when viewed from the Earth, is at least one magnitude lower than the ambient night sky. Some of its matter is in the form of 'baryonic' matter such as neutral hydrogen gas and stars. However, most of its matter is in the form of invisible mass – so called 'dark matter'. In this question, we will investigate the mass of dark matter in a galaxy, the effect of dark matter on the rotation curves of the galaxy, and the distribution of dark matter in the galaxy. The table below provides the data of a LSB galaxy named UGC4325. The galaxy is assumed to be edge-on. At every distance r from the centre of the galaxy, we measure: 1. lambda_obs, observed wavelength of H-alpha line; 2. V_gas, contribution of gas; 3. V_star, contribution of stars.\n\nr (kpc) | lambda_obs (nm) | V_gas (km/s) | V_star (km/s)\n0.70 | 656.371 | 2.87 | 20.97\n1.40 | 656.431 | 6.75 | 32.22\n2.09 | 656.464 | 14.14 | 40.91\n2.79 | 656.475 | 20.18 | 46.75\n3.49 | 656.478 | 24.08 | 50.10\n4.89 | 656.484 | 28.08 | 47.94\n6.25 | 656.481 | 29.25 | 45.47\n7.10 | 656.481 | 27.03 | 47.78\n9.03 | 656.482 | 25.90 | 45.32\n12.05 | 656.482 | 21.03 | 42.30",
+   "parts": [
+    {
+     "id": "D2.1",
+     "points": 21,
+     "question": "Compute the observed rotational velocities of the galaxy Vobs and the rotational velocities due to the dark matter VDM at distance r in units of km s-1. For the different values of r given in the table, compute the dynamical mass M(r) and the mass of dark matter MDM(r) in solar masses.",
+     "reference": "Redshift z = (lambda_obs - lambda_emit) / lambda_emit (0.5). V_obs = zc (0.5). Values correctly computed: 20.0 (0.5 for each value)."
+    },
+    {
+     "id": "D2.2",
+     "points": 16,
+     "question": "Create rotation curves of the galaxy on graph paper by plotting the points of Vobs, VDM, Vgas, V* versus the radius r and draw smooth curves through the points (mark your graph as 'D2.2'). Order the contribution of the different components to the observed velocity in descending order.",
+     "reference": "Plot uses more than 50% of graph paper: 1.0. Both axes labels and units: 2.0. Ticks and values: 1.0. All plots labels presented: 2.0 (0.5 each). Points correctly plotted: 4.0 (0.1 each). Smooth curve: 4.0 (1.0 per curve). Order of contribution: 2.0."
+    },
+    {
+     "id": "D2.3",
+     "points": 7,
+     "question": "Take a data point at small r and large r to estimate rho0 and rC. Note that for large values of x, arctan(x) approx pi/2 and at small x, arctan(x) approx x - x^3/3.",
+     "reference": "Evaluate for rho_0 and r_C using approximations for small and large r. Selected correct data (0.5), correct answer (0.5) and correct unit (0.5)."
+    },
+    {
+     "id": "D2.4",
+     "points": 19,
+     "question": "By comparing Equation (4) to a linear function, the central density rho0 could also be found by a linear fit. Plot an appropriate graph so that a linear fit can be used to find another value of rho0. Evaluate rho0 in units of M_solar kpc-3. (Mark your graph as 'D2.4'). If you cannot find the value of rC from the previous part, use rC = 3.2 kpc as an estimate for this part.",
+     "reference": "Choose correct axes: 1.0. Values correctly computed: 8.0. Plot uses more than 50% of graph paper: 1.0. Both axes labels: 1.0. Ticks and values: 1.0. Points correctly plotted: 4.0. Visual linear fit: 1.0. Correct slope: 1.0. Correct rho_0: 1.0."
+    },
+    {
+     "id": "D2.5",
+     "points": 12,
+     "question": "Compute logarithmic values of the dark matter density, ln[rho_DM(r)], and plot the distribution of dark matter in the galaxy as a function of radius r on graph paper. (Mark your graph as 'D2.5').",
+     "reference": "Values correctly computed: 4.0 (0.4 each). Plot uses more than 50% of graph paper: 1.0. Both axes labels: 1.0. Ticks and values: 1.0. Points correctly plotted: 4.0 (0.4 each). Smooth curve: 1.0."
+    }
+   ]
   }
  ]
 }

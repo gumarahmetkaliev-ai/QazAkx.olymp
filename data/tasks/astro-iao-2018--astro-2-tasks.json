@@ -7,28 +7,87 @@
  "tasksFile": "olympiads/astronomy/s/iao/2018/astro-2-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "whole-document",
- "generatedAt": "2026-11-09T18:21:44.535Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:13:53.373Z",
  "quality": {
-  "tasks": 1,
-  "parts": 1,
-  "withPoints": 1,
+  "tasks": 2,
+  "parts": 8,
+  "withPoints": 8,
   "withReference": 0,
-  "withQuestion": 1,
-  "estimatedPoints": 1
+  "withQuestion": 8,
+  "estimatedPoints": 8
  },
  "tasks": [
   {
-   "number": 1,
-   "title": "Задания тура",
-   "statement": "АСТРОНОМИЧЕСКОЕ              2                    EURO-ASIAN\nОБШЕСТВО           м.       ASTRONOMICAL SOCIETY       Round    Obs |\neect               тт”\nа                                                                     Сгоир  ЕС в.\n,      ХХІІ Международная астрономическая олимпиада               а\n>             ХХШ International Astronomy Olympiad\n   English\nж ІР              Шри-Ланка, Коломбо      6-14. Х. 2018      Colombo, Sri Lanka   engisn\nenn\nFor translation only.                Observational round. Questions. Cloudy sky\nVenue: Arthur C Clarke Institute for Modern Technologies (6°47'N, 79°54'W)\nDate: October 9, 2018\nThe maximum total time for all tasks is 25 minutes.\n9. Practical using telescope.\nYour telescope has already been Polar aligned!\n\n9.1. Point the telescope to the Zenith manually as accurately as possible.\n\n9.2. Adjust the DEC axis setting circle approximately to б = +7°.\n\n9.3. Point the telescope to the celestial equator using the DEC axis setting circle.\n\n10. Practical using “TheSky” Astronomy Software.\n\nYou are provided with an image of a region of the real night sky (Image (A), see separate\nsheet) and “TheSky” Astronomy Software on the computer. (When you place and left click the\ncomputer mouse on a celestial object on the software it will display the information in a small\nwindow). Use these tools to answer the questions:\n\n10.1. Identify the star pattern in Image(A) in the “TheSky” software in the computer only by\nlooking at the computer screen. Once you identify the star pattern you should show the Star(4)\nand Star(1) to the examiner using mouse pointer.\n\n10.2. In the software, place and left click the computer mouse on the stars named Star(4) and\nstar(1) in the image(A) and identify their names («Name» column) and Equatorial Coordinates\n(RA — Right Ascension, DEC — Declination) using the information window. Write down the\nanswers in the table in the Answer sheet.\n\n10.3. Using the “Rotate Button” on the software identify the “North(N)” direction and mark the\nnorth direction(N) in Image(A).\n\nЕЙ NORMAL.SKY - TheSky Astronomy Software\nRotate Button\nFile Edit View Orientation Data Tools   Telescope Help     ЕЕ\nМЕЛЛЕСІСЕ ІКІЗЕНЗГІСІРЕР  76  ь&& ©0988\n\n10.4. Using the RA (Right Ascension) coordinates of the stars in question 10.2. identify and\nmark the other directions (E, W and S) in the Ітаде(А).\n\n10.5. Calculate the field of view (angular width and height) of the “SKY REGION?” in the\nsoftware. Your calculations should be clearly written down in the framed space provided in the\nAnswer sheet.\n\nШри-Ланка, Коломбо             2018             Colombo, Sri Lanka",
-   "total": 10,
+   "number": 9,
+   "title": "Practical using telescope",
+   "weight": 15,
+   "total": 15,
+   "statement": "Your telescope has already been Polar aligned! Venue: Arthur C Clarke Institute for Modern Technologies (6°47'N, 79°54'W). Date: October 9, 2018.",
    "parts": [
     {
-     "id": "1",
-     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
-     "points": 10,
+     "id": "9.1",
+     "points": 5,
      "pointsEstimated": true,
+     "question": "Point the telescope to the Zenith manually as accurately as possible.",
+     "reference": ""
+    },
+    {
+     "id": "9.2",
+     "points": 5,
+     "pointsEstimated": true,
+     "question": "Adjust the DEC axis setting circle approximately to δ = +7°.",
+     "reference": ""
+    },
+    {
+     "id": "9.3",
+     "points": 5,
+     "pointsEstimated": true,
+     "question": "Point the telescope to the celestial equator using the DEC axis setting circle.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Practical using “TheSky” Astronomy Software",
+   "weight": 25,
+   "total": 25,
+   "statement": "You are provided with an image of a region of the real night sky (Image (A), see separate sheet) and “TheSky” Astronomy Software on the computer. (When you place and left click the computer mouse on a celestial object on the software it will display the information in a small window). Use these tools to answer the questions:",
+   "parts": [
+    {
+     "id": "10.1",
+     "points": 5,
+     "pointsEstimated": true,
+     "question": "Identify the star pattern in Image(A) in the “TheSky” software in the computer only by looking at the computer screen. Once you identify the star pattern you should show the Star(4) and Star(1) to the examiner using mouse pointer.",
+     "reference": ""
+    },
+    {
+     "id": "10.2",
+     "points": 5,
+     "pointsEstimated": true,
+     "question": "In the software, place and left click the computer mouse on the stars named Star(4) and star(1) in the image(A) and identify their names («Name» column) and Equatorial Coordinates (RA — Right Ascension, DEC — Declination) using the information window. Write down the answers in the table in the Answer sheet.",
+     "reference": ""
+    },
+    {
+     "id": "10.3",
+     "points": 5,
+     "pointsEstimated": true,
+     "question": "Using the “Rotate Button” on the software identify the “North(N)” direction and mark the north direction(N) in Image(A).",
+     "reference": ""
+    },
+    {
+     "id": "10.4",
+     "points": 5,
+     "pointsEstimated": true,
+     "question": "Using the RA (Right Ascension) coordinates of the stars in question 10.2. identify and mark the other directions (E, W and S) in the Image(A).",
+     "reference": ""
+    },
+    {
+     "id": "10.5",
+     "points": 5,
+     "pointsEstimated": true,
+     "question": "Calculate the field of view (angular width and height) of the “SKY REGION?” in the software. Your calculations should be clearly written down in the framed space provided in the Answer sheet.",
      "reference": ""
     }
    ]

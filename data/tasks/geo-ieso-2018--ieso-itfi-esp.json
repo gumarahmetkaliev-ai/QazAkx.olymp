@@ -7,208 +7,109 @@
  "tasksFile": "olympiads/geography/s/ieso/2018/ieso-itfi-esp.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T19:25:52.029Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:45:55.673Z",
  "quality": {
-  "tasks": 13,
-  "parts": 13,
-  "withPoints": 13,
+  "tasks": 6,
+  "parts": 6,
+  "withPoints": 6,
   "withReference": 0,
-  "withQuestion": 13,
-  "estimatedPoints": 13
+  "withQuestion": 6,
+  "estimatedPoints": 6
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Did he rock here a op A and op C form in si ?",
-   "statement": "Did he rock here a op A and op C form in si ?",
-   "total": 7,
+   "title": "FIELD STOP 1: Mueang Sing Historic Park",
+   "weight": 10,
+   "total": 10,
+   "statement": "Location: Mueang Sing Historic Park, Sai Yok District, Kanchanaburi Province (UTM Grid, 526329E/1552087N, 14 02 21.5 N/99 14 37.9 E)\n\nFIELD INFO: Group 1-4 will conduct fieldwork at this site. There are 3 stops and time allocation for each stop is 1 hour. Group 1-2 will work at stop A, group 3 at stop B, and group 4 at stop C. After one hour of work, each group has to rotate as guided by our volunteer.\n\nBackground: The historical park was built on the floodplain of the Kwae Noi River. The Muang Sing / Prasat Muang Sing Temple is an ancient Khmer Bayon-style temple. The history of the site goes back to the period between 867 and 1157 A.D., a period when the Khmer Kingdom flourished. The area was declared as a historical site by the Fine Arts Department, Ministry of Culture, Government of Thailand in 1987 (Figures 1 & 2).\n\nResearch: \n1. Did the rocks here at stop A and stop C form in situ?\n2. What earth system interrelationship do these rocks present?",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Conduct fieldwork at Stop A, B, and C, identify rocks, describe characteristics and phenomena, test hypotheses, and answer research questions about earth system interrelationships.",
      "reference": ""
     }
    ]
   },
   {
    "number": 2,
-   "title": "Wha ear h em in errela ion hip do he e rock pre en ? G : A:",
-   "statement": "Wha ear h    em in errela ion hip do he e rock pre en ?\n\nG                    :\n      A:",
-   "total": 7,
+   "title": "FIELD STOP 2: Death Railway and Krasae Cave",
+   "weight": 10,
+   "total": 10,
+   "statement": "Location: Death Railway and Krasae Cave, Sai Yok District, Kanchanaburi Province (UTM Grid, 518079E/1559395N, 14 06 19.6 N/99 10 02.4 E)\n\nThe Krasae Cave is located on the western bank of the meandering Kwae Noi River, along a segment of the Three Pagodas Fault escarpment and the Death Railway in Sai Yok District.\n\nFIELD INFO: Group 5-7 will conduct fieldwork at this site. There are 2 stops and time allocation for each stop is 1 hour 30 minutes. Group 5 will work at stop A, and group 6-7 at stop B. After one hour and a half of work, each group has to rotate as guided by our volunteer.\n\nBackground: Krasae Cave is a small one-sided open cave approximately 6-8 * 16-20 m in size. The Death Railway, situated abreast of the cave, was built during World War II (1939-1945) with the minimum supply of construction equipment but mainly by construction tools and human labor.\n\nResearch:\nWhat kind of earth system interrelationship are presented by this cave?",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "2.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Identify rocks in and around the cave and escarpment, describe phenomena explaining the cave history, observe river levels before and after dam construction, and assess geohazards.",
      "reference": ""
     }
    ]
   },
   {
    "number": 3,
-   "title": "Wri e do n a lea hree differen h po he e o e plain he appearance of…",
-   "statement": "Wri e do n a lea hree differen h po he e o e plain he appearance of he rock\n       here:\n       ________________________________________________________________________\n       ________________________________________________________________________\n       ________________________________________________________________________",
-   "total": 7,
+   "title": "FIELD STOP 3: Sai Yok Noi Waterfall",
+   "weight": 10,
+   "total": 10,
+   "statement": "Location: The Sai Yok Noi Waterfall is located in the Tha Sao Village, Sai Yok District of Kanchanaburi. (UTM Grid. 506194E/1574153N)\n\nBackground: The Sai Yok Noi Waterfall is a popular tourist attraction. The area has been known for its natural beauty for a long time, perhaps at least since the reign of King Rama V (1868-1910 AD).\n\nFIELD INFO: Group 8-11 will conduct fieldwork at this site. There are 2 stops and time allocation for each stop is 1 hour plus moving from Stop A to Stop B and vice versa for 30 minutes. Group 8-9 work at stop A while group 10-11 work at stop B. After one hour of work, each group has to rotate as guided by our volunteer.\n\nResearch:\n1. What kind of earth system interrelationship are presented by this waterfall?",
    "parts": [
     {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "3.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Identify rock at the cliff, observe waterfall history phenomena, collect water samples from the river at both stops, and measure chemical and physical parameters (T, pH, salinity, carbonate, bicarbonate, nitrate, DO).",
      "reference": ""
     }
    ]
   },
   {
    "number": 4,
-   "title": "S and a he poin marked a A and e amine he rock benea h. Wha…",
-   "statement": "S and a he poin marked a A and e amine he rock benea h. Wha phenomenon do\n        o ob er e, and doe i ppor or rejec he h po he e o    gge ed? Plea e e plain\n         h .\n       ________________________________________________________________________\n       ________________________________________________________________________",
-   "total": 7,
+   "title": "FIELD STOP 4: Wang Krachae Hotspring",
+   "weight": 10,
+   "total": 10,
+   "statement": "Location: Wang Krachae Hotspring is located at Wang Krachae Subdistrict, Sai Yok District, Kanchanaburi Province. (UTM Grid, 503185E/1570861N)\n\nFIELD INFO: Group 12-15 will conduct fieldwork at this site. There are 3 stops and time allocation for each stop is 1 hour. Group 12-13 work at stop A, group 14 work at stop B, and group 15 work at stop C. After one hour of work, each group has to rotate as guided by our volunteer.\n\nResearch:\n1. What kind of earth system interrelationship are presented by this waterfall?",
    "parts": [
     {
-     "id": "4",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "4.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Observe and describe hotspring phenomena, measure flow rate, collect water samples and measure parameters, calculate reservoir temperature using geothermometer equations, examine geosphere-biosphere interrelationships at Stop B, and investigate the abandoned hotspring spa pool at Stop C.",
      "reference": ""
     }
    ]
   },
   {
    "number": 5,
-   "title": "Wi h he help of a ol n eer for o r gro p, proceed o op B, hich i loca…",
-   "statement": "Wi h he help of a ol n eer for o r gro p, proceed o op B, hich i loca ed a fe\n       h ndred me er from here on he bank of he K ae Noi Ri er.\n\n      B:",
-   "total": 7,
+   "title": "FIELD STOP 5: Kwae Noi River Section",
+   "weight": 10,
+   "total": 10,
+   "statement": "Location: This section of Kwae Noi River is located at Tha Sao Subdistrict, Sai Yok District, Kanchanaburi Province.\n\nFIELD INFO: Group 16-18 will conduct fieldwork at this site. There are 2 stops and time allocation for each stop is 1 hour 30 minutes. Group 16-17 work at stop A, and group 18 work at stop B. After one hour and ten minutes of work, each group has to rotate as guided by our volunteer.\n\nResearch:\n1. What kind of earth system interrelationship are presented by the data of the Kwae Noi River that were collected (directly and indirectly)?",
    "parts": [
     {
-     "id": "5",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "5.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Identify river bank sediment characteristics, observe geohazards, calculate river flow velocity and rate of river flow at the bridge given geometric and transit time data, and collect water samples for parameter measurement.",
      "reference": ""
     }
    ]
   },
   {
    "number": 6,
-   "title": "Look a he oil profile a he e ca a ion i e and clo el ob er e he ma…",
-   "statement": "Look a he oil profile a he e ca a ion i e and clo el ob er e he ma erial of hi\n       profile in a nearb e po re.\n       Men ion belo ho i ppor or rejec he h po he e o propo ed.\n       ________________________________________________________________________\n       ________________________________________________________________________",
-   "total": 7,
+   "title": "ESSAY PROBLEM: Land Subsidence in Bangkok Metropolitan Area",
+   "weight": 10,
+   "total": 10,
+   "statement": "The Bangkok metropoli area has an estimated population of close to 20 million due to its geographic location on the lower Chao Phraya River Plain as well as its political location as the capital city of Thailand. Geologically, however, the city is located on very thick deposit of of Bangkok clay and interbedded with river sand and hard clay of > 2 km thickness before reaching the bedrock of granite and metamorphic rock. Overpumping of the ground water for domestic consumption from more than 8 artesian aquifer within the Bangkok Metropoli and surrounding area, namely, Sam Prakarn, Sam Sakorn, Nonthaburi, Pathum Thani, and Ayuthaya has resulted in extensive land subsidence in the lower central plain. The maximum subsidence of >2 m was measured for the northern part of Bangkok in early 2002 to 2005 and large area of Bangkok and Sam prakarn were below mean sea level already. Drastic measure had been taken, including prohibition of ground water pumping in Bangkok, Samrakarn, Nonthaburi, and Pathum Thani. By that time, a large chunk of the Bangkok Metropoli had already subsided below mean sea level. Bangkok Metropoli and Nonthaburi had to build concrete embankment on both side of the river to protect the city from perpetual flooding. At the same time, the Bangkok Municipality Office has enacted regulation that required all new houses in the Metropoli to raise the land above mean sea level before construction permits were issued. Furthermore, a water intrusion into the first artesian aquifer beneath the city has occurred. For namely, by that time the ground water level in the depleted aquifer is gradually rising; thus ground water recharge is unwarranted.\n\nStudent of each team are asked to research this problem. At least four aspects related to soil subsidence need to be presented. Also, propose method to mitigate this problem.",
    "parts": [
     {
-     "id": "6",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "6.1",
+     "points": 10,
      "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 7,
-   "title": "Wi h he help of he ol n eer for o r gro p, proceed o S op C loca ed a…",
-   "statement": "Wi h he help of he ol n eer for o r gro p, proceed o S op C loca ed a he hi oric\n       park en rance.\n\n     C:\nOb er e and e amine charac eri ic of he phenomenon.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "7",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 8,
-   "title": "Do he fea re o ob er ed a S op C ppor or rejec he h po he e o propo…",
-   "statement": "Do he fea re o ob er ed a S op C ppor or rejec he h po he e o propo ed\n      earlier a S op A? _________________________________________________________\n\n                I FI 2         K        C               E\n  L       : Dea h Rail a and Kra ae Ca e, Sai Yok Di ric , Kanchanab ri Pro ince (UTM\n                  Grid, 518079E/1559395N, 14 06 19.6 N/99 10 02.4 E)\n\nThe Kra ae Ca e i loca ed on he e ern bank of he meandering K ae Noi Ri er, along a\n egmen of he Three Pagoda Fa l e carpmen and he Dea h Rail a in Sai Yok Di ric .\n\nI FI 2                             .\n\nI FI: Gro p 5-7 ill cond c field ork a hi i e. There are 2 op and ime alloca ion for\neach op i 1 ho r 30 min e . Gro p 5 ill ork a op A, and gro p 6-7 a op B. Af er one\nho r and a half of ork, each gro p ha o ro a e a g ided b o r ol n eer.\n\nB            : Kra ae Ca e i a mall one- ided open ca e appro ima el 6-8 16-20 m in i e.\nThe Dea h Rail a , i a ed o hea of he ca e, a b il d ring World War II (1939-1945)\n  i h he minim m ppl of con r c ion eq ipmen b mainl b con r c ion ool and h man\nlabor.\n\nR                :\nWha kind of ear h      em in errela ion hip are pre en ed b   hi ca e?\n\nG                     :",
-   "total": 7,
-   "parts": [
-    {
-     "id": "8",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 9,
-   "title": "Wi h he help of he ol n eer for o r gro p, proceed o op C loca ed a…",
-   "statement": "Wi h he help of he ol n eer for o r gro p, proceed o op C loca ed a he ho pring\n        pa.\n     C:",
-   "total": 7,
-   "parts": [
-    {
-     "id": "9",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 10,
-   "title": "Ob er e, de cribe, and ake pic re of he abandoned ho pring pa pool.",
-   "statement": "Ob er e, de cribe, and ake pic re of he abandoned ho pring pa pool.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "10",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 11,
-   "title": "E amine and de cribe he phenomena ha migh e plain h he pool became…",
-   "statement": "E amine and de cribe he phenomena ha migh e plain h he pool became\n       abandoned.\n   - Wha ho ld be he be prac ice o pre en he pool from being abandoned?\n       _____________________________________",
-   "total": 7,
-   "parts": [
-    {
-     "id": "11",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 12,
-   "title": "Collec a a er ample from he abandoned ho pring pa pool and mea re he…",
-   "statement": "Collec a a er ample from he abandoned ho pring pa pool and mea re he\n       follo ing parame er :\n           a. Tempera re (T) __________\n           b. pH __________\n           c. Salini __________\n           d. Carbona e __________\n           e. Bicarbona e _________\n           f. Ni ra e __________\n           g. DO (di ol ed o gen) __________",
-   "total": 7,
-   "parts": [
-    {
-     "id": "12",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 13,
-   "title": "Compare he q ali of he ho pring er he abandoned pool and e plain.…",
-   "statement": "Compare he q ali   of he ho pring er    he abandoned pool and e plain.\n\nRemark : Each gro p ha o le a lea 1 per on o cond c chemical anal i     hich ill be\n  per i ed b chemi .\n\n    I FI 5         K      N    R               E                       P\n                                       P\nL       : Thi ec ion of K ae Noi Ri er i loca ed a Tha Sao   bdi ric , Sai Yok Di ric ,\nKanchanab ri Pro ince.\n\nI FI: Gro p 16-18 ill cond c field ork a hi i e. There are 2 op and ime alloca ion for\neach op i 1 ho r 30 min e . Gro p 16-17 ork a op A, and gro p 18 ork a op B.\nAf er one ho r and en min e of ork, each gro p ha o ro a e a g ided b o r ol n eer.\n\nR",
-   "total": 7,
-   "parts": [
-    {
-     "id": "13",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
+     "question": "Research the land subsidence problem in Bangkok, present at least four aspects related to soil subsidence, and propose methods to mitigate the problem.",
      "reference": ""
     }
    ]

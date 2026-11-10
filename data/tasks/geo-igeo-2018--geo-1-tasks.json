@@ -6,209 +6,314 @@
  "lang": "ru",
  "tasksFile": "olympiads/geography/s/igeo/2018/geo-1-tasks.pdf",
  "solutionFile": "olympiads/geography/s/igeo/2018/geo-1-sol.pdf",
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T18:10:27.152Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:45:50.296Z",
  "quality": {
-  "tasks": 13,
-  "parts": 13,
-  "withPoints": 13,
-  "withReference": 11,
-  "withQuestion": 13,
-  "estimatedPoints": 13
+  "tasks": 6,
+  "parts": 41,
+  "withPoints": 41,
+  "withReference": 41,
+  "withQuestion": 41,
+  "estimatedPoints": 0
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
-   "statement": "Fill in your name, team and iGeo student number on the front page of this Question\n     and Answer Booklet.",
-   "total": 7,
+   "title": "Section A: Population",
+   "weight": 15,
+   "total": 15,
+   "statement": "Задания по секции населения: изучение роста населения, демографических данных, возрастно-зависимых коэффициентов и последствий старения общества.",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "1. Study Resource Booklet Figure A1: Population growth, 2015.\n2m      Outline why the highest population growth is found in countries like Mali, Chad, and\n        Demographic Republic of the Congo.\n\n        Answer (point marking – 0.5 marks for each correct point):\n\n          These countries are some of the poorest in the world\n          • A lack of medical facilities leads to a high infant mortality so parents tend to have more\n            children in hope that several will survive\n          • Population is less educated (especially female), they finish school earlier and establish\n            family with more children\n          • The lack of proper sexual education (particularly for women) – little if any knowledge\n            about birth control or family planning\n          • No money for family planning because of limited family income\n          • Subsistence economy – many children are needed to work on the land\n          • Low life expectancy – children are required to look after parents\n          • Some religious beliefs encourage large families\n          • Few doctors, hospitals and medicine\n          • Marriage at early age\n          • Culture (tradition) of big families with lot of children\n          • Development of medical care significantly reduced death rate (especially of children at\n            birth)"
+     "id": "A.1",
+     "points": 2,
+     "question": "Outline why the highest population growth is found in countries like Mali, Chad, and Demographic Republic of the Congo.",
+     "reference": "Answer (point marking – 0.5 marks for each correct point):\n          These countries are some of the poorest in the world\n          • A lack of medical facilities leads to a high infant mortality so parents tend to have more children in hope that several will survive\n          • Population is less educated (especially female), they finish school earlier and establish family with more children\n          • The lack of proper sexual education (particularly for women) – little if any knowledge about birth control or family planning\n          • No money for family planning because of limited family income\n          • Subsistence economy – many children are needed to work on the land\n          • Low life expectancy – children are required to look after parents\n          • Some religious beliefs encourage large families\n          • Few doctors, hospitals and medicine\n          • Marriage at early age\n          • Culture (tradition) of big families with lot of children\n          • Development of medical care significantly reduced death rate (especially of children at birth)"
+    },
+    {
+     "id": "A.2a",
+     "points": 4,
+     "question": "Draw a graph which shows the Age Dependency Ratio for Countries A, C, D and F.",
+     "reference": "Answer (point marking):\n          • 0.5 marks each for correct title, correct labelling of the horizontal axis, correct labelling of the vertical axis (with appropriate scale), a key. (2 marks)\n            (Note - the horizontal axis will need to show a five-year interval for the period 2010 to 2015)\n          • 0.5 marks for each line drawn correctly. (2 marks)\n              (Note – a line graph is the most suitable graph to the information required. If you think that an alternative graph is appropriate, mark it accordingly. Otherwise, only give marks to aspects that are correct.)"
+    },
+    {
+     "id": "A.2b",
+     "points": 2,
+     "question": "Describe the trends shown in the graph.",
+     "reference": "Answer (point marking – 0.5 marks for each correct way):\n          • Countries D and F demonstrate a similar trend (0.5 marks) as both have experienced a significant decreasing age dependency ratio (0.5 marks)\n          • The age dependency ratio for Country A has remained relatively constant averaging 50% - with only slight fluctuations (0.5 marks)\n          • Country C has experienced a significant increase in the age dependency ratio from 43% in 1990 to 64% in 2015."
+    },
+    {
+     "id": "A.3",
+     "points": 2,
+     "question": "Identify the country which is likely to be least developed and explain why.",
+     "reference": "Answer (point marking – 0.5 marks for each correct reason):\n       This answer requires students to show the connections between the statistics and characteristics of less developed countries.\n          • Country D (0.5 marks)\n          • Although the increase in the GDP from $375 to $1598 per capita was probably responsible for some advances in the standard of living, it was the smallest increase and significantly lower than the other countries.\n          • The crude birth rate has decreased from 31 to 20 per 1,000 people – but this is still significantly higher than the other countries and typical of less developed countries.\n          • Overall, the age dependency ratio has decreased from 72 to 52, but as the % aged 65 and above has only increased from 4% to 6%, 46% of the population is aged less than 15 years.\n          • Thus, Country D is typical of a less developed country with a low GDP per capita resulting in a large % of the population less than 15 years (indicating a high birth rate due to poor education, poverty etc) and a very low percentage 65 years or above (indicating a low life expectancy due to inadequate health services) etc."
+    },
+    {
+     "id": "A.4",
+     "points": 2,
+     "question": "Identify the country which is likely to be experiencing economic growth and explain why.",
+     "reference": "Answer (point marking – 0.5 marks for each correct reason):\n       This answer requires students to analyse the statistics and show the connections between them and their own information about countries that are developing.\n           • Country F (0.5 marks) has had a massive increase in GDP from $US 318 per capita to $US 8,028. This would have enabled better health and education facilities, as shown by the birth rate almost halving (from 21 to 12 births per 1,000 people) and the decrease in the % of the population less than 15 years (from 47% to 27%)\n           • A better standard of living also means a decrease in the death rate and an increase in life expectancy, which is shown by the increase in the % living beyond 65 years from 5% to 10%."
+    },
+    {
+     "id": "A.5",
+     "points": 3,
+     "question": "Outline 3 possible impacts that an ageing society may have on a country’s economic development.",
+     "reference": "Answer (point marking – 1 mark for each correct impact):\n         • A country will have higher expenditure for health care services of the elderly resulting in less money in the budget for economic development.\n         • If that particular country has lower birth rate that would lead to a smaller number of working age population, its productivity and national income will be decreasing; necessity for labor force import.\n         • A country will have to increase its tax rates for the working age groups to cover the expenses for the elderly. Therefore, the workforce will have to work harder with a smaller net income. Such shrinking income will inevitably lead to lower purchase power (living standard) and the financial system will become stagnant or it will become burden for workers.\n         • Older people can teach younger to improve their skills and knowledge.\n         • People work longer and more tax income can be generated."
     }
    ]
   },
   {
    "number": 2,
-   "title": "Задача 2",
-   "statement": "Fill in your iGeo student number in the boxes on top of the pages in this Booklet.",
-   "total": 7,
+   "title": "Section B: Tourism: The Rise of Airbnb",
+   "weight": 15,
+   "total": 15,
+   "statement": "Задания по секции туризма и платформы Airbnb: причины посещения крупных городов, пространственное распределение отелей и жилья Airbnb в Нью-Йорке, построение графика разницы цен, а также оценка влияния Airbnb на местные сообщества на примере Барселоны.",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "3. Study Resource Booklet Figure C2: Threats to coral reefs.\n3m     (a) Outline the major types of threats to coral reefs in 3 different regions of the world.\n\n          Answer (point marking – 0.5 marks for each different region and 0.5 marks for relevant threats\n          in that region):\n              • South-East Asia – poison and dynamite fishing- Overfishing and damaging fishing\n                methods\n              • Caribbean and Gulf of Mexico – pollution – from pesticides, insecticides and oil spills etc.\n              • Coast of Queensland/ Australia – pollution and sedimentation- sediments (due to erosion\n                runoff from clearing and/or farming methods) from river leach into the sea and upset the\n                balance of the ecosystem\n\n2m   (b) Tourism is often regarded as a major threat to coral reefs. Identify 4 ways in which tourists cause\n          damage to reefs.\n\n          Answer (point marking – 0.5 marks for each correct point):\n            • Direct contact – walking, touching, kicking, standing\n            • Boat anchors and/or boats being grounded\n            • Divers and snorkelers kicking up sediment dangerous to reefs\n            • Oil and paint pollution from marinas\n            • Release of grey water and human waste from cruise vessels\n            • Inappropriate fishing techniques\n            • Taking pieces of coral for souvenirs\n\n                                                          12\n\n2m   4. Study Resource Booklet Figure C3: Photographs showing change in a coral reef.\n        What name is given to the change shown in the photographs and why does it occur?\n\n       Answer (point marking – 0.5 marks for correct name, 1.5 for correct explanation):\n         • coral bleaching / coral whitening (0.5 marks)\n         • Warmer water temperatures can result in coral bleaching. When water is too warm,\n           corals will expel the algae (zooxanthellae) living in their tissues causing the coral to turn\n           completely white. This is called coral bleaching. When a coral bleach, it is not dead.\n           Corals can survive a bleaching event, but they are under more stress and are subject to\n           mortality.\n           OR\n         • The main cause of coral bleaching is heat stress resulting from high sea temperatures.\n           Temperature increases of only one degree Celsius for only four weeks can trigger\n           bleaching events.\n         • If these temperatures persist for longer periods (eight weeks or more) corals begin to\n           die. High water temperatures can affect reefs at regional and global scale.\n         • Other stressors can also cause bleaching, including freshwater inundation (low salinity)\n           and poor water quality from sediment or pollutant run-off\n         • Ocean acidification due to higher level of CO 2\n\n1m   5. Nature can also be responsible for damage to coral reefs. Describe a natural threat to coral\n        reefs.\n\n       Answer (point marking – 0.5 marks for a threat and 0.5 marks for the associated aspect):\n         • Cyclones (hurricanes, typhoons) can break up coral reefs and erode beach / coral\n           ecosystems - caused by the tidal surges / large waves.\n           OR\n         • Tsunamis can break up coral reefs and erode beach / coral ecosystems - caused by the\n           large waves.\n         • El Niño heating up (heat stress event).\n         • Submarine earthquakes.\n         • Acid rains.\n         • River sediments.\n\n2m   6. Study Resource Booklet Figure C4: Marine Protected Areas.\n        Some areas of the ocean have been declared Marine Protected Areas (MPA). Outline the\n        problems associated with the management (administering and enforcing) of MPAs.\n\n       Answer (point marking – 0.5 marks for each correct point):\n         • The areas are large and often difficult to patrol\n         • Requires international cooperation and agreements\n         • Expensive to maintain and patrol – difficult for less developed countries\n         • Livelihood for some fisherman – difficult to educate about the need to protect these\n           areas.\n\n                                                      13\n\n        Section D: River Catchments\n\n1m      1. Define the term river catchment.\n\n          Answer (point marking – 0.5 marks for each correct point):\n            • A catchment is an area of land / territory / region (0.5 marks) drained by one system of\n              streams or rivers (0.5 marks).\n              OR\n            • A catchment can be defined as any area of land (0.5 marks) drained by a stream/river,\n              or a stream/river system (0.5 marks).\n            (Note: The term “drainage basin” or “river basin” is often used instead of catchment.)"
+     "id": "B.1",
+     "points": 1,
+     "question": "Give 2 reasons why tourists may visit large cities, such as New York.",
+     "reference": "Answer (point marking – 0.5 marks for each correct reason):\n          • Possible examples of tourist activities (Visiting cultural monuments, observing specific urban landscape, skyscrapers, public areas, museums, Statue of Liberty, cruises, Broadway, cultural events, ethnic enclaves, food, sports, guided tours, 9/11 memorial, lifestyle, leisure, business)."
+    },
+    {
+     "id": "B.2",
+     "points": 3,
+     "question": "Identify 2 patterns shown on the map and explain each pattern that you have given.",
+     "reference": "Answer (point marking – 0.5 mark for relevant pattern and 1 mark for valid explanation of pattern):\n          • Hotels are predominantly clustered around the Mid-Manhattan area. Explanation: Due to tourist demand, central to NY CBD, retail, services, attractions. Can afford higher cost of rent.\n          • Airbnb properties are much more dispersed over a larger area of NY. Explanation: Airbnb make use of private residences/apartments and are situated in residential areas surrounding CBD.\n          • Outside Manhattan Airbnb properties are concentrated mainly in Brooklyn, less in Queens and least in Bronx. Explanation: Brooklyn is near Lower Manhattan, well connected by public transport, considered safer.\n          (Accept any other sensible geographic pattern with a plausible explanation)."
+    },
+    {
+     "id": "B.3",
+     "points": 5,
+     "question": "Study the Table below. Choose an appropriate graphing method to display the data in the space provided. You need to clearly show on the same graph how in some cities hotels are less expensive than Airbnb while in other cities hotels are more expensive than Airbnb.",
+     "reference": "Answer (point marking – 2 marks for an appropriate diagram and 0.5 mark for each correct element of the diagram):\n          • Selection of the correct graph (1.5 mark): positive/negative bar or column diagram.\n          • Graphing and plotting (3.5 marks): 0.5 mark for suitable title, 0.5 mark for city names, 0.5 mark for cost label, 0.5 mark for even scale, 0.5 mark for expressing positive/negative values differently, 1 mark for accurate plotting."
+    },
+    {
+     "id": "B.4",
+     "points": 6,
+     "question": "Evaluate whether the introduction of Airbnb to cities like Barcelona is more positive or negative for local people. Your decision should be based on both economic and social impacts supported with/by specific evidence.",
+     "reference": "Answer (point marking – 2 marks for each identified and explained/assessed impact; maximum 2 marks):\n          • 1 mark for identified social impact + 1 mark for explanation using data (e.g., rents rose by 16.5% in 2016, displacing locals).\n          • 1 mark for identified economic impact + 1 mark for explanation using data (e.g., 1 billion euros into economy, 16,100 hosts earning income).\n          Answer (level marking – 2 marks):\n          • 2 marks for a strong judgment with strong justification using specific evidence.\n          • 1 mark for judgment and weak justification."
     }
    ]
   },
   {
    "number": 3,
-   "title": "Задача 3",
-   "statement": "This test consists of 6 Sections.",
-   "total": 7,
+   "title": "Section C: Environmental Geography: Coral reefs",
+   "weight": 15,
+   "total": 15,
+   "statement": "Задания по секции экологической географии: коралловые рифы, их глобальное распространение, ценность, угрозы, обесцвечивание кораллов, природные угрозы и морские охраняемые районы.",
    "parts": [
     {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "2.   This test consists of 6 Sections."
+     "id": "C.1",
+     "points": 2,
+     "question": "Describe the global pattern for the location of coral reefs.",
+     "reference": "Answer (point marking – 0.5 marks for each correct pattern):\n          • Peripheral / Around the edges of continents and islands\n          • Between the Tropics of Cancer and Capricorn\n          • 23.5 degrees north and south of the equator\n          • Tropical equatorial seas / western margins\n          • Current heat"
+    },
+    {
+     "id": "C.2",
+     "points": 3,
+     "question": "Explain why coral reefs are considered to be of great value.",
+     "reference": "Answer (point marking – 0.5 marks for each correct point):\n          • They provide shoreline protection from storms / tsunami and wave erosion\n          • Education and research\n          • Tourism income – diving / boat tours\n          • Fishing\n          • Medicine source\n          • Habitat for marine species; biodiversity\n          • Purifying water / water filtration\n          • Forming of islands\n          • Producing O2"
+    },
+    {
+     "id": "C.3a",
+     "points": 3,
+     "question": "Outline the major types of threats to coral reefs in 3 different regions of the world.",
+     "reference": "Answer (point marking – 0.5 marks for each different region and 0.5 marks for relevant threats in that region):\n          • South-East Asia – poison and dynamite fishing / overfishing\n          • Caribbean and Gulf of Mexico – pollution from pesticides, insecticides, oil spills\n          • Coast of Queensland / Australia – pollution and sedimentation from runoff"
+    },
+    {
+     "id": "C.3b",
+     "points": 2,
+     "question": "Tourism is often regarded as a major threat to coral reefs. Identify 4 ways in which tourists cause damage to reefs.",
+     "reference": "Answer (point marking – 0.5 marks for each correct point):\n          • Direct contact – walking, touching, kicking, standing\n          • Boat anchors and/or boats being grounded\n          • Divers and snorkelers kicking up sediment\n          • Oil and paint pollution from marinas\n          • Release of grey water and human waste from cruise vessels\n          • Inappropriate fishing techniques\n          • Taking pieces of coral for souvenirs"
+    },
+    {
+     "id": "C.4",
+     "points": 2,
+     "question": "What name is given to the change shown in the photographs and why does it occur?",
+     "reference": "Answer (point marking – 0.5 marks for correct name, 1.5 for correct explanation):\n          • coral bleaching / coral whitening (0.5 marks)\n          • Warmer water temperatures / heat stress resulting from high sea temperatures cause corals to expel the algae (zooxanthellae) living in their tissues, turning white (1.5 marks)."
+    },
+    {
+     "id": "C.5",
+     "points": 1,
+     "question": "Nature can also be responsible for damage to coral reefs. Describe a natural threat to coral reefs.",
+     "reference": "Answer (point marking – 0.5 marks for a threat and 0.5 marks for the associated aspect):\n          • Cyclones (hurricanes, typhoons) can break up coral reefs and erode beach / coral ecosystems caused by tidal surges / large waves (or tsunamis, El Niño heating, submarine earthquakes, acid rains, river sediments)."
+    },
+    {
+     "id": "C.6",
+     "points": 2,
+     "question": "Some areas of the ocean have been declared Marine Protected Areas (MPA). Outline the problems associated with the management (administering and enforcing) of MPAs.",
+     "reference": "Answer (point marking – 0.5 marks for each correct point):\n          • The areas are large and often difficult to patrol\n          • Requires international cooperation and agreements\n          • Expensive to maintain and patrol – difficult for less developed countries\n          • Livelihood for some fisherman – difficult to educate about the need to protect these areas."
     }
    ]
   },
   {
    "number": 4,
-   "title": "Задача 4",
-   "statement": "The maximum total mark is 90.\n     The mark for each question is given in the margin at the beginning of the question.\n     There is a maximum of 15 marks for each Section.",
-   "total": 7,
+   "title": "Section D: River Catchments",
+   "weight": 15,
+   "total": 15,
+   "statement": "Задания по секции речных бассейнов: определение водосбора, построение границы водосбора на карте, характеристики русла в разных точках, построение изовел, анализ кривой Юльстрёма и значение концепции водосбора.",
    "parts": [
     {
-     "id": "4",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "3.   The maximum total mark is 90.\n     The mark for each question is given in the margin at the beginning of the question.\n     There is a maximum of 15 marks for each Section."
+     "id": "D.1",
+     "points": 1,
+     "question": "Define the term river catchment.",
+     "reference": "Answer (point marking – 0.5 marks for each correct point):\n          • A catchment is an area of land / territory / region (0.5 marks) drained by one system of streams or rivers (0.5 marks)."
+    },
+    {
+     "id": "D.2a",
+     "points": 1.5,
+     "question": "On the diagram, draw a line to clearly identify the boundary of the Farmhouse Creek catchment.",
+     "reference": "Answer (point marking – 0.5 marks for each correct point / 1.5 marks if correct with minus 0.5 marks for each obvious mistake):\n          • The boundary must follow the point of the spur\n          • The boundary should meet at the confluence\n          • The boundary must divide the ridge area"
+    },
+    {
+     "id": "D.2b",
+     "points": 0.5,
+     "question": "What name is given to this boundary?",
+     "reference": "Answer (point marking – 0.5 marks for the correct point):\n          • drainage divide, divide, interfluve or watershed."
+    },
+    {
+     "id": "D.2c",
+     "points": 2,
+     "question": "In the space below, draw (sketch) 2 labelled diagrams to show the shape of the creek channel at Point X and Point Y, respectively.",
+     "reference": "Answer (point marking – 0.5 marks for each correct aspect):\n          • Point X – narrower and shallower (0.5 marks) with larger boulders/rocks on the bed (0.5 marks)\n          • Point Y – wider and deeper (0.5 marks) with a smaller sized bed load (0.5 marks)."
+    },
+    {
+     "id": "D.2d",
+     "points": 2,
+     "question": "Give 2 reasons why the mean stream velocity is likely to be greater at point Y than point X as shown on the Figure: Farmhouse Creek (River).",
+     "reference": "Answer (point marking – any two factors (0.5 marks each) with a correct description of how that factor affects velocity):\n          • Shape of the channel, roughness of the channel's bed and banks, discharge (greater volume at point Y), gradient or slope."
+    },
+    {
+     "id": "D.3a",
+     "points": 2,
+     "question": "On the Figure below: i) Plot the water velocities given in the table, and ii) Draw in isovels (lines of equal velocity) at intervals of 0.1 metres per second.",
+     "reference": "Answer (point marking – 0.5 marks for each correct point):\n          • the 0.5 m/s isovel is roughly a circle\n          • the isovels are closer together on the side of the channel closest to A\n          • the isovels are more spread out on opposite channel\n          • The isovels are labelled correctly\n          • All isovels should make contact with water surface in their correct position."
+    },
+    {
+     "id": "D.3b",
+     "points": 2,
+     "question": "Describe and explain variations across the channel.",
+     "reference": "Answer (point marking – 1 mark for a correct description and 1 mark for a correct explanation):\n          • Description - Water in the middle flows faster than water at the top, sides and bottom\n          • Explanation - Friction where water comes up against the air at the surface and the bed and banks of a stream channel."
+    },
+    {
+     "id": "D.4a",
+     "points": 1,
+     "question": "Describe the relationship between the settling velocity and the particle size.",
+     "reference": "Answer (point marking – 0.5 marks for each correct point):\n          • The settling velocity declines/decreases more or less evenly with particle size.\n          • When the velocity declines to below the settling velocity, deposition occurs."
+    },
+    {
+     "id": "D.4b",
+     "points": 1,
+     "question": "Explain why the settling velocity curve is below that for the erosion velocity.",
+     "reference": "Answer (point marking – 0.5 marks for each correct point):\n          • A lower velocity is required to maintain a grain in motion than to start a grain moving."
+    },
+    {
+     "id": "D.5",
+     "points": 2,
+     "question": "Discuss why the statement “Everyone lives in a catchment” is important in catchment management.",
+     "reference": "Answer (level marking – 2 marks for each well elaborated change and 1 mark for poorly elaborated change):\n          • Catchments are dynamic, living things. Management means coordinating resources and activities (land, water, vegetation).\n          • Activities in one part of the catchment (e.g., forest clearing, waste discharge) can have detrimental effects (silting, eutrophication) in other parts."
     }
    ]
   },
   {
    "number": 5,
-   "title": "Задача 5",
-   "statement": "Answer all questions in the spaces provided in this Booklet in English.\n     Keep the left margin free for markers.\n     Please write clearly.\n     Please use blue (or black) pen, not pencil.",
-   "total": 7,
+   "title": "Section E: Ebola Disease Outbreaks",
+   "weight": 15,
+   "total": 15,
+   "statement": "Задания по секции вспышек Эболы: описание паттерна вспышек в Африке, сравнение влияния эпидемии на три главные страны, порядок карт географического распространения, факторы неудач в контроле вспышки, влияние на уязвимые группы и статистический анализ возможностей стран.",
    "parts": [
     {
-     "id": "5",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "12. Put your final mark next to the question number in the column on the left – it eases\n    the work of the person who has to put the numbers into MS Excel.\n    Please write your numbers clearly."
+     "id": "E.1",
+     "points": 2,
+     "question": "Describe the pattern of Ebola outbreaks in Africa over time. In your answer, refer to both frequency and magnitude.",
+     "reference": "Answer (point marking – 1 marks for frequency and 1 marks for magnitude):\n          • Frequency - occasional outbreaks separated by periods with no outbreak (1976, 1994-96, 2000-03, 2007, 2012, 2014).\n          • Magnitude - low level in the past (less than 1000 infected per year) until the 2014 outbreak with more than 17,000 infected."
+    },
+    {
+     "id": "E.2",
+     "points": 4,
+     "question": "Compare and contrast how the outbreak of the Ebola disease affected the 3 main countries between November 2014 and 27 March 2016.",
+     "reference": "Answer (point marking – 1 mark for each of 4 reasonable points of comparison and contrast):\n          • Liberia had the greatest number infected per 100,000 with twice as many deaths as Sierra Leone up to Nov 2014.\n          • By March 2016, Sierra Leone cases almost doubled to 14,124, deaths from 20% to one-third.\n          • Liberia cases increased by almost 30%, deaths remained approx half of all cases.\n          • Guinea had lowest infection rate per 100,000, but highest percentage increase in deaths (from 61% to 67%)."
+    },
+    {
+     "id": "E.3a",
+     "points": 0.5,
+     "question": "In what order should the maps be arranged to show the geographic spread of the Ebola disease in the three most affected countries?",
+     "reference": "Answer (point marking – 0.5 marks for correct order):\n          • 2, 3, 1, 4"
+    },
+    {
+     "id": "E.3b",
+     "points": 1.5,
+     "question": "Describe the origin and the spread of the Ebola disease.",
+     "reference": "Answer (point marking – 0.5 marks for each correct point):\n          • Source was in a southern region of Guinea bordering Sierra Leone and Liberia.\n          • Spread into Liberia before moving into Sierra Leone.\n          • By 2015, only northern Guinea districts were Ebola free."
+    },
+    {
+     "id": "E.4",
+     "points": 3,
+     "question": "Identify and explain 2 factors that contributed to the failure to control this Ebola outbreak.",
+     "reference": "Answer (point marking – 0.5 marks for correct identification and 1 mark for explanation):\n          • Difficult identification of cases (weak surveillance, fragile health infrastructure).\n          • Poor infection control measures and strained health care systems.\n          • Population structure/geography (mobile populations, porous borders).\n          • Economic factors/lack of infrastructure (fragile states, lack of trust, poor transport).\n          • Cultural and behavioral factors (traditional burial rituals, traditional healers, resistance)."
+    },
+    {
+     "id": "E.5",
+     "points": 2,
+     "question": "Select one of these two groups [women or children] and explain why the impacts of the Ebola outbreak would be more serious for this group within society.",
+     "reference": "Answer (point marking – 1 mark each for a comment about women or children, an extended explanation would gain an extra mark):\n          • Women care for the sick, meaning they are more likely to catch and spread the disease.\n          • Children miss out on education due to school closures, limiting future employment."
+    },
+    {
+     "id": "E.6",
+     "points": 2,
+     "question": "Identify the country which is likely to have had the best systems in place to respond to the Ebola outbreak. Give reasons for your answer.",
+     "reference": "Answer (point marking – 0.5 marks for identifying Nigeria and then 0.5 each for three valid points):\n          • Nigeria.\n          • Highest Gross National Income per capita ($5360, more than 3 times higher than others).\n          • Highest government health expenditure per capita and highest number of medical doctors (40.8 per 100,000).\n          • 29% using improved sanitation."
     }
    ]
   },
   {
    "number": 6,
-   "title": "Задача 6",
-   "statement": "Check the backs of pages as questions are printed on both sides of a page.",
-   "total": 7,
+   "title": "Section F: Glaciers",
+   "weight": 15,
+   "total": 15,
+   "statement": "Задания по секции ледников: различия между континентальными и долинными ледниками, локация, тренды толщины глобальных ледников, причины сокращения ледников, влияние вулканических извержений, положительная обратная связь и факторы формирования ледников.",
    "parts": [
     {
-     "id": "6",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "1.   Check if the iGeo student numbers are on each sheet (on odd pages) before\n     dividing up the Test."
-    }
-   ]
-  },
-  {
-   "number": 7,
-   "title": "Задача 7",
-   "statement": "There are blank pages which you can use as additional space for your notes.\n     Please cross through any notes so that we know they are not part of your answers.\n     If you use these pages for answers, please label them clearly with your Student\n     Number, the Section and question number (e.g. A1). Mark by the question to search\n     for follow-up.",
-   "total": 7,
-   "parts": [
+     "id": "F.1a",
+     "points": 2,
+     "question": "Name two differences between continental and valley glaciers.",
+     "reference": "Answer (point marking – 1 mark for each significant difference):\n          • Site/location: Valley glaciers form in mountain valleys and are confined within steep walls; continental glaciers are continuous masses over vast unconfined areas.\n          • Size: Continental glaciers are much larger (ice sheets/fields).\n          • Direction of flow: Valley glaciers flow down elevations carving U-shaped valleys; continental glaciers flatten in all directions from the thickest center."
+    },
     {
-     "id": "7",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "4.   One whole Section per pair of markers."
-    }
-   ]
-  },
-  {
-   "number": 8,
-   "title": "Задача 8",
-   "statement": "Where appropriate, please write sentences or phrases not single words.",
-   "total": 7,
-   "parts": [
+     "id": "F.1b",
+     "points": 1,
+     "question": "Name one specific location where each type of glacier may be found.",
+     "reference": "Answer (point marking – 0.5 mark each):\n          • Valley glaciers: Alps, Himalaya, Alaska, New Zealand\n          • Continental glaciers: Greenland, Antarctica"
+    },
     {
-     "id": "8",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "0.5 m   (b) What name is given to this boundary?\n\n           Answer (point marking – 0.5 marks for the correct point):\n             • drainage divide, divide, interfluve or watershed.\n               (note: Watershed is used as catchment in North America.)\n\n2m      (c) In the space below, draw (sketch) 2 labelled diagrams to show the shape of the creek\n              channel at Point X and Point Y, respectively.\n\n           Answer (point marking – 0.5 marks for each correct aspect):\n\n             The channel cross sections (not the valley cross sections) shown for the Upper Course and\n             Middle Couse below are expected as an appropriate answer. The main features to be\n             labelled/shown would include:\n              • Point X – narrower and shallower (0.5 marks) with larger boulders/rocks on the bed\n                 (0.5 marks)\n              • Point Y – wider and deeper (0.5 marks) with a smaller sized bed load (0.5 marks).\n\n2m       (d) Give 2 reasons why the mean stream velocity is likely to be greater at point Y than point X\n             as shown on the Figure: Farmhouse Creek (River).\n\n           Answer (point marking – any two factors (0.5 marks each) with a correct description of how\n           that factor affects velocity):\n              Stream velocity is influenced by a number of factors including:\n              • The shape of the channel – the speed of flow is faster in channels that are as deep as\n                  they are wide compared with channels that are wide but very shallow or very deep and\n                  narrow\n              • The roughness of the channel’s bed and banks – water flowing through a channel\n                  full of large rocks is more turbulent but slower than water flowing through a channel\n                  lined with fine silt\n              • Discharge – the greater the volume of water flowing the greater the velocity.\n                  (discharge at point Y has increased volume due to the contributions of tributaries)\n              • The gradient, or slope, of the stream – although the gradient decreases\n                  downstream, the volume (or discharge) is greater\n\n                                                         15"
-    }
-   ]
-  },
-  {
-   "number": 9,
-   "title": "Задача 9",
-   "statement": "Give only the required number of answers (reasons, examples, etc.).\n     For instance, if the question asks for 2 reasons and you give more than 2, only the first 2\n     reasons will be marked.",
-   "total": 7,
-   "parts": [
+     "id": "F.2a",
+     "points": 2,
+     "question": "Describe the overall trend in cumulative global glacier thickness between 1961 and 2005.",
+     "reference": "Answer (point marking – 0.5 mark each for the 3 highlighted aspects and another 0.5 marks for some supporting evidence):\n          • Cumulative global glacial thickness decreased by approx 12 metres.\n          • Trend accelerated recently (decrease doubled between 1990-2000 compared to 1970-1980).\n          • Only one year with a slight increase - 1992."
+    },
     {
-     "id": "9",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "11. Mark only the required number of answers (reasons, examples etc.).\n    For instance, if the question asks for 2 reasons and there is more than 2, only the first 2\n    reasons should be marked."
-    }
-   ]
-  },
-  {
-   "number": 10,
-   "title": "Задача 10",
-   "statement": "The Resource Booklet contains Figures referred to in this Booklet.\n    Do not write any of your answers in Resource Booklet.",
-   "total": 7,
-   "parts": [
+     "id": "F.2b",
+     "points": 3,
+     "question": "Explain why this trend in cumulative glacier thickness is occurring.",
+     "reference": "Answer (point marking – 0.5 mark only for Global Warming and 0.5 marks for each valid point):\n          • Global warming due to rapid industrialization.\n          • Increasing temperatures (late spring and summer) and reduced snowfall/snow cover meaning falling snow cannot replace melting ice.\n          • Anthropogenic greenhouse gas emissions."
+    },
     {
-     "id": "10",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "13. Please write down any inconsistencies of the Marking Scheme, revisions and additional\n    answers or answers not accepted on the Notes page at the end of the Booklet (e-mail is\n    preferred) and hand them in after marking to improve the final Marking Scheme that will\n    be uploaded to show the actual marking."
-    }
-   ]
-  },
-  {
-   "number": 11,
-   "title": "Задача 11",
-   "statement": "You may use a calculator during the test.",
-   "total": 7,
-   "parts": [
+     "id": "F.3",
+     "points": 3,
+     "question": "Outline the extent to which volcanic eruptions such El Chichon in March 1982, appear to have had an impact on the overall trend in global glacial thickness.",
+     "reference": "Answer (point marking – 0.5 mark each for recognizing the increase and then decrease in thickness and 1 mark for explaining why in each case):\n          • Annual thickness tended to increase for 1-2 years after eruption due to sulfur dioxide and particulates cooling global climate and reducing sunlight.\n          • Alternatively, volcanic ash falling on glaciers darkens ice, lowering albedo and increasing absorption of solar heat, causing faster melting."
+    },
     {
-     "id": "11",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "5.   Get the hang of the full range of answers by reading through a few papers with your co-\n     marker before you start your marking.\n     You can mark together (especially for level marking), or after establishing a consensus on\n     how to mark for thoroughness and consistency, act as each other’s double-checkers by\n     marking half of the test and then swapping the pile.\n     We strongly recommend whenever in doubt, consult your marking partner and, if\n     appropriate, one of the designated Moderators – Dubravka or Mark."
-    }
-   ]
-  },
-  {
-   "number": 12,
-   "title": "Задача 12",
-   "statement": "Time:\n    180 minutes for students not educated in English (+10 minutes reading time),\n    150 minutes for students educated in English (+10 minutes reading time).",
-   "total": 7,
-   "parts": [
+     "id": "F.4",
+     "points": 2,
+     "question": "Taking into consideration the link between ice melting and changes of albedo, explain what the phrase “positive feedback” means?",
+     "reference": "Answer (point marking – 0.5 mark each for valid point):\n          • When ice melts, albedo decreases (surface changes from bright to dark), causing more solar energy to be absorbed, leading to higher temperatures and faster melting.\n          • Positive feedback is a change that reinforces its cause, speeding up the process."
+    },
     {
-     "id": "12",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 13,
-   "title": "Задача 13",
-   "statement": "Students not educated in English are allowed to use bilingual dictionaries during the\n    test.\n\nGood luck!\n\n                                                                                             Written Response Test\n                                                     Contributions from: Australia, New Zealand, Poland and Thailand\n                                                                     Committee Convenor: Margaret McIvor (Australia)\n                                                                                   Deputy: Dubravka Spevec (Croatia)\n                          Editors: Birgit Sandermann Justesen (Denmark), Ivan Sulc (Croatia), Li Ling Tan (Singapore)\n                                                   Reviewers: Mark Higginbottom (UK) and Anu Printsmann (Estonia)\n                                                                Director of Tests: Su-Min Shen (Taiwan/China-Taipei)\n\n                                                     2\n\n                                                                                              Student number: 15\n\n     Section A: Population",
-   "total": 7,
-   "parts": [
-    {
-     "id": "13",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
+     "id": "F.5",
+     "points": 2,
+     "question": "Explain 4 factors that will determine if a glacier forms at a particular latitude and altitude.",
+     "reference": "Answer (point marking – 0.5 mark for each correct factor):\n          • Altitude: influences local temperature (lapse rate) and precipitation.\n          • Latitude: controls total annual solar radiation (snowline lower at higher latitudes).\n          • Relief: relatively flat surface needed for ice development.\n          • Orientation (Aspect): influences solar radiation and wind-blown snow.\n          • Distance from ocean / wind pattern: affects amount of precipitation.\n          • Temperature and Precipitation."
     }
    ]
   }

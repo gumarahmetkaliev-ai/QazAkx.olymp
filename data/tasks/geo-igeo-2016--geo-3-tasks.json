@@ -7,28 +7,302 @@
  "tasksFile": "olympiads/geography/s/igeo/2016/geo-3-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "whole-document",
- "generatedAt": "2026-11-09T18:11:21.433Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:50:39.953Z",
  "quality": {
   "tasks": 1,
-  "parts": 1,
-  "withPoints": 1,
+  "parts": 40,
+  "withPoints": 40,
   "withReference": 0,
-  "withQuestion": 1,
-  "estimatedPoints": 1
+  "withQuestion": 40,
+  "estimatedPoints": 40
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задания тура",
-   "statement": "Multimedia Test\n\nDO NOT TOUCH THE\nCOMPUTER UNTIL\n TOLD TO DO SO\n\nMultimedia Test\n\n                         Instructions\nThis test has 40 questions.\nLook at every page and read the questions carefully.\nYou have 45 minutes to complete the test. If you finish early\nwait silently until the 45 minutes are over.\nEach question is multiple-choice. Choose A, B, C or D. Only\none answer is correct.\nSome questions contain a short video clip (indicated with      ).\nClick inside the video frame to start it.\nMark your choice on the Answer Sheet by making a circle\naround the letter that you want to select. If you make a\nmistake cross out the selected letter and circle a new choice.\nFor navigation it is best to use the arrows on the keyboard to\nmove to the next ( ) or previous ( ) page. DO NOT CLICK\nON THE ESCAPE BUTTON, AS THAT ENDS THE PRESENTATION.\n                            Good luck!\n\nQ.1 Which geographical phenomenon is depicted in this image?\n     А. eutrophication of coastal waters   B. the Gulf Stream\n     C. the trade winds                    D. a tropical cyclone\n\nQ.2\n\nThe satellite\npicture shows\nirrigated fields\nnear 30°08’ N\nand 38°14’ E.\nWhat is the\nmost likely\nwater source?\nA. fossil water\nB. desalinated\n    seawater\nC. rain\nD. rivers\n\nQ.3   Which food type is projected to experience the smallest\n      relative increase in total production by 2050?\n\n                                                 A. cereals\n\n                                                 B. meat\n\n                                                 C. oilcrops\n                                                    and\n                                                    products\n\n                                                 D. sugar\n                                                    cane /\n                                                    beet\n\nQ.4   What phenomenon is depicted on this 2008 – 2015\n      monthly map series?\n         A. famine            B. wild fires\n         C. precipitation     D. wildlife migration\n\nQ.5   Which of the following countries in the East Asia &\n      Pacific Islands region is most likely to be Country X?\n\n                                               A. Bhutan\n\n                                               B. Cambodia\n\n                                               C. Fiji\n\n                                               D. Malaysia\n\nQ.6\nWhat is the correct explanation for\nthe concentric pattern shown in the\nsouth-eastern area of this region?\nA. This structure was formed by\n   mining activities, so it has an\n   anthropogenic origin.\nB. The feature was gradually formed\n   from sediments deposited by the\n   rivers flowing from the East.\nC. The area was raised by tectonic\n   forces; the middle of the\n   concentric contours coincides\n   with the maximum rising.\nD. A wall of trees in the Southeast\n   held back the water flowing from\n   the Northeast, causing sediments\n   to accumulate.\n\nQ.7      What is the most likely reason for the\n         distribution of IKEA stores around the world?\n      A. closeness to the production areas\n      B. consumer preference for handmade goods\n      C. population density\n      D. purchasing power of the local population\n\nQ.8   This is the Acropolis, in Athens. What sort of rock is it\n      built out of and what major rock division does it\n      belong to?\n\n                                             A. granite,\n                                                volcanic\n\n                                             B. limestone,\n                                                volcanic\n\n                                             C. marble,\n                                                metamorphic\n\n                                             D. schist,\n                                                metamorphic\n\nQ.9\n\nAccording to this\nvideo of Human\nDevelopment Index\n(HDI) vs Ecological\nFootprint (EF)\nbetween 1980 and\n2005, which of these\nstatements is correct?\n A. All countries in North America improved both their HDI and their EF.\n B. Of the five countries identified, Norway showed the greatest\n    improvement in EF whereas Nepal did in HDI.\n C. All five countries identified can now be considered globally\n    sustainable.\n D. Nepal's progress in improving HDI was at the expense of the\n    environment.\n\nQ.10        This map is based on information about 1081 cities\n            between 2003 and 2010. What does it show?\nA. annual average emissions of particulate matter less than 10 microns\n   (micrograms per cubic metre)\nB. number of children vaccinated against measles (thousands per year)\nC. waste produced by nuclear power stations (tonnes per year)\nD. Gross Domestic Product (thousands of US dollars per year)\n\nQ.11\n According to Butler’s Model,\n at what stage of the tourist\n resort life-cycle were the\n Galapagos Islands in 2008?\n    A. consolidation\n    B. development\n    C. rejuvenation\n    D. stagnation\n\nQ.12      Which of the following statements about The Coca\n          Cola Company is best supported by the image?\n       A. It pursues growth in Russia and Asian countries.\n       B. It aims to grow its markets in tourist hotspots.\n       C. It wants to invest profits in local economies.\n       D. It values the preservation of cultural heritage.\n\nQ.13\n\nThe distance between\npoints 1 and 2 is 3 km.\nThe average yearly rate\nof the glacier retreat, in\nthe time between when\nthe images were taken,\nis approximately:\nA.140 m/year\nB.160 m/year\nC.180 m/year\nD.200 m/year\n\nQ.14\nAt which terminal (A, B, C or D) is a tourist located if her bearing\nto Colosseo is about 255° and to Pantheon about 280°?\n\nQ.15\n For the inhabitants of Seoul, this composite image represents:\n      A. an autumn afternoon          B. a spring afternoon\n      C. a summer morning             D. a winter morning\n\nQ.16\n  These photos were taken in the same country. Which country is it?\n  A. Chile      B. Iceland    C. Norway     D. Sweden\n\nQ.17   Which line (A, B, C or D) represents part of a river?\n\n                                   C\n\n                          B\n\n                                                               D\n       A\n\nQ.18   Which of the following photographs (A, B, C or D)\n       shows a strategy for providing insulation for the\n       building and cooling the outdoors?\n A                            B\n\n C                            D\n\nQ.19\n       Von Thünen's 1826\n       model of agricultural\n       land use assumed that\n       the city is located\n       centrally within an\n       “isolated state”. What\n       does the second (blue,\n       2 to 5 km) area\n       correspond to?\n       A. dairy and market\n           gardening\n       B. forestry for fuel\n       C. grains and field crops\n       D. ranching\n\nQ.20\n                 What is shown on this map?\n   A. consumption of hunted animals B. extent of ice cover\n   C. nomadic population              D. remoteness\n\nQ.21        What is the main aim of the human-made wetlands\n            represented in this diagram?\n       A. growing biomass                B. recreational areas\n       C. reducing greenhouse gasses D. wastewater treatment\n\nQ.22\n     Which of the following\n     statements is correct?\nA. Fuelwood production and\n   agricultural practices\n   combined are responsible\n   for half of Africa’s soil losses.\nB. Asia and North America\n   experience much the same\n   reasons for soil degradation.\nC. Soil degradation in Europe is\n   mainly due to\n   industrialization.\nD. Livestock pose the greatest\n   threat to soil conservation in\n   Oceania.\n\nQ.23\n What is the direction of\n the littoral (also called\n longshore) drift?\n      A. NE\n      B. NW\n      C. SE\n      D. SW\n\nQ.24   What is shown on this ocean surface map?\n       A. incoming radiation      B. salinity\n       C. sediment thickness      D. temperature\n\nQ.25          A   B\n\nIn which\ntype of\nclimate (A,\nB, C or D)\ndo rubber\nplantations\ngrow?\n\n              C   D\n\nQ.26      The image shows a dry area with dunes. Which of\n          these statements is correct?\n       A. The area does not contain much sand.\n       B. The system shown is very stable.\n       C. The dominant wind in this area is from the northeast.\n       D. The wind in this area is very variable.\n\nQ.27    This type of agricultural practice accounts for about\n        20% of human-related worldwide emissions to the\n        atmosphere of which greenhouse gas?\nA. chlorofluorocarbons      B. freon     C. methane      D. ozone\n\nQ.28\n  The first aerial photos were\n  taken by Nadar in 1858 over\n  Paris. Imagine him taking a\n  photograph aiming directly\n  towards the ground with his\n  camera negative size 8 x 8\n  cm, and capturing a ground\n  area of 160 x 160 meters.\n  What would be the scale if\n  you enlarged that negative\n  onto a 40 x 40 cm paper?\n        A. 1:20\n        B. 1:400\n        C. 1:2 000\n        D. 1:5 000\n\nQ.29\n       What type of temperature inversion is shown in the video?\n       A. frontal  B. radiation C. subsidence       D. upper-air\n\nQ.30\n\n What was the\n wind direction\n in Fiji on\n 17/02/2016?\n\n   A. NE\n\n   B. SE\n\n   C. SW\n\n   D. W\n\nQ.31\nThis image,\nprovided by NASA,\nshows one of the\nlargest open-pit\nmines in the world.\nIn which top-five\ncopper-producing\ncountry is it\nlocated?\n                      1\n     A. Canada\n     B. Mexico\n     C. Peru\n     D. Zambia\n\nQ.32           What does this map illustrate?\n       A. net exports of cars\n       B. donor countries of development assistance\n       C. net exports of non-ferrous metals\n       D. production of wine\n\nQ.33\n       A plane takes off from a prime meridian at the\n       equator and flies 300 km westwards. Which zone\n       (A, B, C or D) will it reach?\n\nQ.34\nThis ______ festival is celebrated mostly by the Tamil community.\nDevotees may choose to bear the kavadi (a structure with\npiercings shown in the picture) as a form of ______.\n                                                    A. Buddhist;\n                                                       prayer\n                                                    B. Hindu;\n                                                       cleansing\n                                                    C. Islamic;\n                                                       fasting\n                                                    D. Jainist;\n                                                       sacrifice\n\nQ.35       What morphological process formed the\n           Aorounga structure in Chad?\n       A. aeolian erosion        B. a meteorite impact\n       C. a volcanic eruption    D. surface water flow\n\nQ.36       The anvil of a supercell storm is mainly made up of:\n             A. aerosol particles            B. hailstones\n             C. ice crystals and pellets     D. raindrops\n   anvil\n\nQ.37                                        A\nWhich of the aerial images (A, B, C or D)\ncorresponds to the photograph?\n\n                                            B\n\n                                            C\n\n                                            D\n\nQ.38   The map shows average cloudiness between 2002 and\n       2015. What is one reason for high levels of cloud cover?\n       A. cold ocean currents      B. high atmospheric\n       pressure\n       C. convergence of trade winds      D. downslope winds\n\nQ.39\n   What is the cause of the environmental impact shown here?\n   A. widespread cloud cover B. increased nutrient availability\n   C. exposure to high tides D. increased water temperature\n\nQ.40   The space in the centre of the settlement serves as:\n            A. animal shelter          B. prayer centre\n            C. school                  D. trading post\n\n                THE END\n\nYou have reached the last slide of the Multimedia Test.\n\n Click on the arrow  or  to go back to the previous\n       page(s) if you want to check your answers\n                          OR\n          wait silently until the time is over.",
-   "total": 10,
+   "title": "Multimedia Test",
+   "weight": 1,
+   "total": 40,
+   "statement": "This test has 40 multiple-choice questions. Look at every page and read the questions carefully. Choose A, B, C or D. Only one answer is correct.",
    "parts": [
     {
-     "id": "1",
-     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
-     "points": 10,
+     "id": "1.1",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Q.1 Which geographical phenomenon is depicted in this image?\n     А. eutrophication of coastal waters   B. the Gulf Stream\n     C. the trade winds                    D. a tropical cyclone",
+     "reference": ""
+    },
+    {
+     "id": "1.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.2 The satellite picture shows irrigated fields near 30°08’ N and 38°14’ E. What is the most likely water source?\nA. fossil water\nB. desalinated seawater\nC. rain\nD. rivers",
+     "reference": ""
+    },
+    {
+     "id": "1.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.3 Which food type is projected to experience the smallest relative increase in total production by 2050?\nA. cereals\nB. meat\nC. oilcrops and products\nD. sugar cane / beet",
+     "reference": ""
+    },
+    {
+     "id": "1.4",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.4 What phenomenon is depicted on this 2008 – 2015 monthly map series?\nA. famine\nB. wild fires\nC. precipitation\nD. wildlife migration",
+     "reference": ""
+    },
+    {
+     "id": "1.5",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.5 Which of the following countries in the East Asia & Pacific Islands region is most likely to be Country X?\nA. Bhutan\nB. Cambodia\nC. Fiji\nD. Malaysia",
+     "reference": ""
+    },
+    {
+     "id": "1.6",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.6 What is the correct explanation for the concentric pattern shown in the south-eastern area of this region?\nA. This structure was formed by mining activities, so it has an anthropogenic origin.\nB. The feature was gradually formed from sediments deposited by the rivers flowing from the East.\nC. The area was raised by tectonic forces; the middle of the concentric contours coincides with the maximum rising.\nD. A wall of trees in the Southeast held back the water flowing from the Northeast, causing sediments to accumulate.",
+     "reference": ""
+    },
+    {
+     "id": "1.7",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.7 What is the most likely reason for the distribution of IKEA stores around the world?\nA. closeness to the production areas\nB. consumer preference for handmade goods\nC. population density\nD. purchasing power of the local population",
+     "reference": ""
+    },
+    {
+     "id": "1.8",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.8 This is the Acropolis, in Athens. What sort of rock is it built out of and what major rock division does it belong to?\nA. granite, volcanic\nB. limestone, volcanic\nC. marble, metamorphic\nD. schist, metamorphic",
+     "reference": ""
+    },
+    {
+     "id": "1.9",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.9 According to this video of Human Development Index (HDI) vs Ecological Footprint (EF) between 1980 and 2005, which of these statements is correct?\nA. All countries in North America improved both their HDI and their EF.\nB. Of the five countries identified, Norway showed the greatest improvement in EF whereas Nepal did in HDI.\nC. All five countries identified can now be considered globally sustainable.\nD. Nepal's progress in improving HDI was at the expense of the environment.",
+     "reference": ""
+    },
+    {
+     "id": "1.10",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.10 This map is based on information about 1081 cities between 2003 and 2010. What does it show?\nA. annual average emissions of particulate matter less than 10 microns (micrograms per cubic metre)\nB. number of children vaccinated against measles (thousands per year)\nC. waste produced by nuclear power stations (tonnes per year)\nD. Gross Domestic Product (thousands of US dollars per year)",
+     "reference": ""
+    },
+    {
+     "id": "1.11",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.11 According to Butler’s Model, at what stage of the tourist resort life-cycle were the Galapagos Islands in 2008?\nA. consolidation\nB. development\nC. rejuvenation\nD. stagnation",
+     "reference": ""
+    },
+    {
+     "id": "1.12",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.12 Which of the following statements about The Coca Cola Company is best supported by the image?\nA. It pursues growth in Russia and Asian countries.\nB. It aims to grow its markets in tourist hotspots.\nC. It wants to invest profits in local economies.\nD. It values the preservation of cultural heritage.",
+     "reference": ""
+    },
+    {
+     "id": "1.13",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.13 The distance between points 1 and 2 is 3 km. The average yearly rate of the glacier retreat, in the time between when the images were taken, is approximately:\nA. 140 m/year\nB. 160 m/year\nC. 180 m/year\nD. 200 m/year",
+     "reference": ""
+    },
+    {
+     "id": "1.14",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.14 At which terminal (A, B, C or D) is a tourist located if her bearing to Colosseo is about 255° and to Pantheon about 280°?",
+     "reference": ""
+    },
+    {
+     "id": "1.15",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.15 For the inhabitants of Seoul, this composite image represents:\nA. an autumn afternoon\nB. a spring afternoon\nC. a summer morning\nD. a winter morning",
+     "reference": ""
+    },
+    {
+     "id": "1.16",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.16 These photos were taken in the same country. Which country is it?\nA. Chile\nB. Iceland\nC. Norway\nD. Sweden",
+     "reference": ""
+    },
+    {
+     "id": "1.17",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.17 Which line (A, B, C or D) represents part of a river?",
+     "reference": ""
+    },
+    {
+     "id": "1.18",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.18 Which of the following photographs (A, B, C or D) shows a strategy for providing insulation for the building and cooling the outdoors?",
+     "reference": ""
+    },
+    {
+     "id": "1.19",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.19 Von Thünen's 1826 model of agricultural land use assumed that the city is located centrally within an “isolated state”. What does the second (blue, 2 to 5 km) area correspond to?\nA. dairy and market gardening\nB. forestry for fuel\nC. grains and field crops\nD. ranching",
+     "reference": ""
+    },
+    {
+     "id": "1.20",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.20 What is shown on this map?\nA. consumption of hunted animals\nB. extent of ice cover\nC. nomadic population\nD. remoteness",
+     "reference": ""
+    },
+    {
+     "id": "1.21",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.21 What is the main aim of the human-made wetlands represented in this diagram?\nA. growing biomass\nB. recreational areas\nC. reducing greenhouse gasses\nD. wastewater treatment",
+     "reference": ""
+    },
+    {
+     "id": "1.22",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.22 Which of the following statements is correct?\nA. Fuelwood production and agricultural practices combined are responsible for half of Africa’s soil losses.\nB. Asia and North America experience much the same reasons for soil degradation.\nC. Soil degradation in Europe is mainly due to industrialization.\nD. Livestock pose the greatest threat to soil conservation in Oceania.",
+     "reference": ""
+    },
+    {
+     "id": "1.23",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.23 What is the direction of the littoral (also called longshore) drift?\nA. NE\nB. NW\nC. SE\nD. SW",
+     "reference": ""
+    },
+    {
+     "id": "1.24",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.24 What is shown on this ocean surface map?\nA. incoming radiation\nB. salinity\nC. sediment thickness\nD. temperature",
+     "reference": ""
+    },
+    {
+     "id": "1.25",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.25 In which type of climate (A, B, C or D) do rubber plantations grow?",
+     "reference": ""
+    },
+    {
+     "id": "1.26",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.26 The image shows a dry area with dunes. Which of these statements is correct?\nA. The area does not contain much sand.\nB. The system shown is very stable.\nC. The dominant wind in this area is from the northeast.\nD. The wind in this area is very variable.",
+     "reference": ""
+    },
+    {
+     "id": "1.27",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.27 This type of agricultural practice accounts for about 20% of human-related worldwide emissions to the atmosphere of which greenhouse gas?\nA. chlorofluorocarbons\nB. freon\nC. methane\nD. ozone",
+     "reference": ""
+    },
+    {
+     "id": "1.28",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.28 The first aerial photos were taken by Nadar in 1858 over Paris. Imagine him taking a photograph aiming directly towards the ground with his camera negative size 8 x 8 cm, and capturing a ground area of 160 x 160 meters. What would be the scale if you enlarged that negative onto a 40 x 40 cm paper?\nA. 1:20\nB. 1:400\nC. 1:2 000\nD. 1:5 000",
+     "reference": ""
+    },
+    {
+     "id": "1.29",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.29 What type of temperature inversion is shown in the video?\nA. frontal\nB. radiation\nC. subsidence\nD. upper-air",
+     "reference": ""
+    },
+    {
+     "id": "1.30",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.30 What was the wind direction in Fiji on 17/02/2016?\nA. NE\nB. SE\nC. SW\nD. W",
+     "reference": ""
+    },
+    {
+     "id": "1.31",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.31 This image, provided by NASA, shows one of the largest open-pit mines in the world. In which top-five copper-producing country is it located?\nA. Canada\nB. Mexico\nC. Peru\nD. Zambia",
+     "reference": ""
+    },
+    {
+     "id": "1.32",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.32 What does this map illustrate?\nA. net exports of cars\nB. donor countries of development assistance\nC. net exports of non-ferrous metals\nD. production of wine",
+     "reference": ""
+    },
+    {
+     "id": "1.33",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.33 A plane takes off from a prime meridian at the equator and flies 300 km westwards. Which zone (A, B, C or D) will it reach?",
+     "reference": ""
+    },
+    {
+     "id": "1.34",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.34 This ______ festival is celebrated mostly by the Tamil community. Devotees may choose to bear the kavadi (a structure with piercings shown in the picture) as a form of ______.\nA. Buddhist; prayer\nB. Hindu; cleansing\nC. Islamic; fasting\nD. Jainist; sacrifice",
+     "reference": ""
+    },
+    {
+     "id": "1.35",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.35 What morphological process formed the Aorounga structure in Chad?\nA. aeolian erosion\nB. a meteorite impact\nC. a volcanic eruption\nD. surface water flow",
+     "reference": ""
+    },
+    {
+     "id": "1.36",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.36 The anvil of a supercell storm is mainly made up of:\nA. aerosol particles\nB. hailstones\nC. ice crystals and pellets\nD. raindrops",
+     "reference": ""
+    },
+    {
+     "id": "1.37",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.37 Which of the aerial images (A, B, C or D) corresponds to the photograph?",
+     "reference": ""
+    },
+    {
+     "id": "1.38",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.38 The map shows average cloudiness between 2002 and 2015. What is one reason for high levels of cloud cover?\nA. cold ocean currents\nB. high atmospheric pressure\nC. convergence of trade winds\nD. downslope winds",
+     "reference": ""
+    },
+    {
+     "id": "1.39",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.39 What is the cause of the environmental impact shown here?\nA. widespread cloud cover\nB. increased nutrient availability\nC. exposure to high tides\nD. increased water temperature",
+     "reference": ""
+    },
+    {
+     "id": "1.40",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Q.40 The space in the centre of the settlement serves as:\nA. animal shelter\nB. prayer centre\nC. school\nD. trading post",
      "reference": ""
     }
    ]

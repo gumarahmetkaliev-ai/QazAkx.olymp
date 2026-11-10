@@ -7,103 +7,148 @@
  "tasksFile": "olympiads/geography/s/igeo/2023/geo-2-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T18:10:01.429Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:37:51.500Z",
  "quality": {
-  "tasks": 6,
-  "parts": 6,
-  "withPoints": 6,
+  "tasks": 4,
+  "parts": 16,
+  "withPoints": 16,
   "withReference": 0,
-  "withQuestion": 6,
-  "estimatedPoints": 6
+  "withQuestion": 16,
+  "estimatedPoints": 3
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
-   "statement": "Bukit Pakar is considered as a high risk area for mass movement. On your way, identify any\n    signs of mass movement along your route on Map 1A.\n   NO          SIGNS OF MASS MOVEMENT                                   NOTES\n\n    1\n\n    2\n\n    3\n\n                                                 1\n\n  NO         SIGNS OF MASS MOVEMENT                                     NOTES\n\n   4\n\n   5",
-   "total": 7,
+   "title": "SPOT 1 Observations",
+   "weight": 14,
+   "total": 14,
+   "statement": "You are currently at SPOT 1, the part of it you’re looking at is built on the gentle slopes of Northern Bandung.",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
+     "id": "1.1",
+     "points": 2,
+     "question": "Identify the current land use of Bukit Pakar Area based on your observation and the satellite map (Map 1.1), draw and label the land use zoning on the blank map provided (Map 1.2 on a separate sheet)",
+     "reference": ""
+    },
+    {
+     "id": "1.2",
+     "points": 1,
+     "question": "Draw arrows on Map 1.2 indicating where runoff water would flow inside the area bordered by the red line on Map 1.2",
+     "reference": ""
+    },
+    {
+     "id": "1.3",
+     "points": 1,
+     "question": "Based on your previous analysis, identify which land use is more likely to have a higher runoff coefficient i.e., when it rains, higher runoff coefficient means that more water will become runoff compared to being absorbed into the soil. Highest Runoff Coefficient Land Use / Lowest Runoff Coefficient Land Use",
+     "reference": ""
+    },
+    {
+     "id": "1.4",
+     "points": 4,
+     "question": "Point out 4 factors that you think would be the most dominant in affecting the runoff coefficient in Bukit Pakar and explain your reasoning",
+     "reference": ""
+    },
+    {
+     "id": "1.5",
+     "points": 2,
+     "question": "Runoff water from upstream areas can be a blessing or a curse for communities further downstream. Point out and explain one positive and one negative impact of Bukit Pakar’s runoff water for downstream communities in Bandung",
+     "reference": ""
+    },
+    {
+     "id": "1.6",
+     "points": 4,
+     "question": "Explain vegetative and structural methods that you think would be most appropriate for reducing the runoff water in Bukit Pakar based on your observations",
      "reference": ""
     }
    ]
   },
   {
    "number": 2,
-   "title": "Задача 2",
-   "statement": "On your way, identify and map all of the existing land use in Map 1B, located within the zone,\n   demarcated on Map 1A within the WHITE LINE, and classify them into 8 categories:\n    ● Residentials,\n    ● Residential - Commercial Mixed Use,\n    ● Commercial – Café & Resto,\n    ● Commercial – Cultural Space,\n    ● Agriculture – Plantation,\n    ● Agriculture – Crops,\n    ● Forest, and\n    ● Others.\n\n   Write down all the land use, including strategic features (cafés, restaurants, museums, galleries,\n   etc.), that you had identified already in Table 1A on the response sheet, and draw and label all\n   features on Map 1B using only pens (blue, black, or other colors, if needed), and provide the\n   following data for them:\n    •   Name (for strategic features only – cafés, restaurants, museums, galleries, etc.).\n    •   Land-use category – 8 classes.\n    •   Report the condition (quality; see example below).\n        Building condition (quality) assessment – 4 classes maximum:\n        1. A – ruined, need to be rebuilt;\n        2. B – very poor, need to be repaired entirely;\n        3. C – average, serious restoration needed;\n        4. D – good, no minor repairs are needed\n   •    Parking area capacity (for strategic features only – cafés, restaurants, museums, galleries,\n        etc.) – mention the ability for cars and motorcycles.\n\n                                                 2\n\n            Table 1A Response Sheet\n                                               PARKING AREA\nNO   NAME   LAND-USE CATEGORY     CONDITIONS\n                                                 CAPACITY\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n\n                       3\n\n                                             PARKING AREA\nNO   NAME   LAND-USE CATEGORY   CONDITIONS\n                                               CAPACITY\n\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n43\n44\n\n45\n\n                     4",
-   "total": 7,
+   "title": "SPOT 2 Observations",
+   "weight": 14,
+   "total": 14,
+   "statement": "You are now at the SPOT 2 Station.",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
+     "id": "2.1",
+     "points": 5,
+     "question": "Draw a sketch of the geological outcrop in front of you.",
+     "reference": ""
+    },
+    {
+     "id": "2.2",
+     "points": 2,
+     "question": "Based on your observation of the outcrop, fill in the blanks below: a. Outcrop condition, b. Outcrop colour.",
+     "reference": ""
+    },
+    {
+     "id": "2.3",
+     "points": 1.5,
+     "question": "Based on your observation of the rock outcrop, identify the different percentages of fragments and matrices of the outcrop (Block and Bomb, Lapilli, Ash).",
+     "reference": ""
+    },
+    {
+     "id": "2.4",
+     "points": 1,
+     "question": "Identify the rock type at Spot 2.",
+     "reference": ""
+    },
+    {
+     "id": "2.5",
+     "points": 4.5,
+     "question": "Study your surroundings, then fill in the condition of the tropical rainforest’s layers at the Juanda Forest Park (Forest Floor, Understory, Canopy) regarding Plant Diversity, Human Interference, and Epiphyte.",
      "reference": ""
     }
    ]
   },
   {
    "number": 3,
-   "title": "Задача 3",
-   "statement": "Assess the road quality in the area by analyzing the 4 roads shown on map 1C and describe\n    their condition in the table below.\n    Factors           Road A              Road B             Road C             Road D\nBuilt Material\n\nRoad Condition\n\nLargest vehicles\nthat can access\n(Pedestrian;\nmotorcycle/bicycle;\ncars; buses; and/or\ntrucks)\n\nNo of lanes\n\nObstacles that\nmight impede\ntraffic\n\n                                           Map 1C\n\n                                             5\n\n                                                                STUDENT NUMBER: 19 _ _ _ _\nSPOT 1\n\nObservations (14 marks)\n\nTIME LIMIT: 40 MINUTES.\n\nTask Guideline\nYou are currently at SPOT 1 (see Map 1.1 on a separate sheet), the part of it you’re looking at is\nbuilt on the gentle slopes of Northern Bandung.",
-   "total": 7,
+   "title": "SPOT 3 Observations",
+   "weight": 15,
+   "total": 15,
+   "statement": "You are now at the SPOT 3 station.",
    "parts": [
     {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
+     "id": "3.1",
+     "points": 9,
+     "question": "On Map 3.1, identify, map, and label with numbers the facilities and buildings on the demarcated area. For all facilities and buildings, write down the name and their main purpose. Estimate their user capacity and report their existing condition using the table.",
+     "reference": ""
+    },
+    {
+     "id": "3.2",
+     "points": 6,
+     "question": "On a weekly basis, an estimated number of 6,500 tourists visit Juanda Forest Park. Assume that 70 percent of them visit Juanda Forest Park on weekends. Based on your observations from Question Number 1, Identify two facilities/activities for each of tourism’s 3As found in this area and Evaluate their capacity to accommodate the number of tourists on the weekends.",
      "reference": ""
     }
    ]
   },
   {
    "number": 4,
-   "title": "Задача 4",
-   "statement": "Point out 4 factors that you think would be the most dominant in affecting the runoff\n    coefficient in Bukit Pakar and explain your reasoning [4 marks]",
-   "total": 7,
+   "title": "Task 2 Analysis",
+   "weight": 22,
+   "total": 22,
+   "statement": "Task 2 Analysis Session tasks.",
    "parts": [
     {
-     "id": "4",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "4.1",
+     "points": 4,
      "pointsEstimated": true,
+     "question": "1. Public Transportation and Accessibility: a) Determine the fastest and most efficient route using public transportation from Hall Station to Bukit Pakar Area and list all stops (1 mark). b) Identify and explain the best transportation mode to connect the Bukit Pakar Area and its surrounding area with Dago Terminal (3 marks).",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 5,
-   "title": "Задача 5",
-   "statement": "Runoff water from upstream areas can be a blessing or a curse for communities further\n   downstream. Point out and explain one positive and one negative impact of Bukit Pakar’s\n   runoff water for downstream communities in Bandung [2 marks]\n   Positive impact:\n   ………………………………………………………………………………………………………………………………………\n   ………………………………………………………………………………………………………………………………………\n   ………………………………………………………………………………………………………………………………………\n   Negative impact:\n   ………………………………………………………………………………………………………………………………………\n   ………………………………………………………………………………………………………………………………………\n   ………………………………………………………………………………………………………………………………………",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "5",
-     "question": "Приведите полное решение (с доказательством или выводом).",
+     "id": "4.2",
      "points": 7,
      "pointsEstimated": true,
+     "question": "2. Hydrology of Bukit Pakar and its Surrounding Area: a) Identify three main activities producing waste, categorize waste type, and give examples (3 marks). b) Point out and explain two reasons for how waste affects groundwater quality (2 marks). c) Point out two strategies to restore the quality of Bukit Pakar’s groundwater (2 marks).",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 6,
-   "title": "Задача 6",
-   "statement": "Explain vegetative and structural methods that you think would be most appropriate for\n   reducing the runoff water in Bukit Pakar based on your observations [4 marks]\n             Method                                      Explanation\n\n   End of Question at Spot 1\n\n                                              3 2\n\n                                                                 STUDENT NUMBER: 19 _ _ _ _\nSPOT 2\n\nObservations (14 marks)\n\nTIME LIMIT: 40 MINUTES\n\nTask Guideline\nYou are now at the SPOT 2 Station (see Map 1A on a separate sheet).",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "6",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "4.3",
+     "points": 11,
      "pointsEstimated": true,
+     "question": "3. Sustainable Development Planning: a) List existing problems for environmental, social, and economic aspects (3 marks). b) List two problems to anticipate, propose solutions, and a development title (2 marks). c) Propose four main points of interest to be developed, describe them, provide reasoning, and annotate on Map 2A (4 marks). d) Explain one positive and one negative impact of your development plan towards people in Greater Bandung Area (2 marks).",
      "reference": ""
     }
    ]

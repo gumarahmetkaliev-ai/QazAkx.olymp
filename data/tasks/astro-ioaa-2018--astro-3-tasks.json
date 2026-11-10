@@ -7,88 +7,113 @@
  "tasksFile": "olympiads/astronomy/s/ioaa/2018/astro-3-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:52:52.427Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:14:13.015Z",
  "quality": {
-  "tasks": 5,
-  "parts": 5,
-  "withPoints": 5,
+  "tasks": 4,
+  "parts": 10,
+  "withPoints": 10,
   "withReference": 0,
-  "withQuestion": 5,
-  "estimatedPoints": 5
+  "withQuestion": 10,
+  "estimatedPoints": 4
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
-   "statement": "This part of the contest consists of 4 problems, is 1 hour long and is\n   worth a total of 100 points.",
-   "total": 7,
+   "title": "O1",
+   "weight": 40,
+   "total": 40,
+   "statement": "Figure 1 is a whole sky star chart of Yanqing, Beijing at 20:30 tonight (UTC+8) with the limit magnitude = 5m (m = magnitude). Four stars (about 1m - 3m) and one planet (brighter than 2m) are missing in this chart. In the chart, the distance from the centre is in proportion to zenith distance",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
+     "id": "1.1",
+     "points": 20,
+     "question": "Draw a cross (X) on the location of each missing star and mark “T” on the chart, and draw a cross (X) on the location of the missing planet and mark “P” on the chart.",
+     "reference": ""
+    },
+    {
+     "id": "1.2",
+     "points": 5,
+     "question": "Please mark the orientation of the star chart with “N” “E” “S” “W” at the edge of the star chart.",
+     "reference": ""
+    },
+    {
+     "id": "1.3",
+     "points": 10,
+     "question": "On the chart, the celestial equator passes through many constellations. Please write down the name of any five of these constellations (IAU codes).",
+     "reference": ""
+    },
+    {
+     "id": "1.4",
+     "points": 5,
+     "question": "Using the star chart, estimate the altitude of Aldebaran (α Tau), to the nearest degree.",
      "reference": ""
     }
    ]
   },
   {
    "number": 2,
-   "title": "Задача 2",
-   "statement": "Only blue pen should be used to fill in the answer boxes, draw and mark\n   on the star chart.",
-   "total": 7,
+   "title": "O2",
+   "weight": 20,
+   "total": 20,
+   "statement": "Figure 2 is a star chart of a recent opposition of Jupiter. The grid in the figure is the ecliptic coordinates. Please estimate the date of this opposition, to the nearest day.",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
+     "id": "2.1",
+     "points": 20,
+     "question": "Figure 2 is a star chart of a recent opposition of Jupiter. The grid in the figure is the ecliptic coordinates. Please estimate the date of this opposition, to the nearest day.",
      "reference": ""
     }
    ]
   },
   {
    "number": 3,
-   "title": "Задача 3",
-   "statement": "You are not allowed to leave your working desk without permission. If\n   you need any assistance (malfunctioning calculator, need to visit a\n   restroom, etc.), please put up your hand to signal the supervisor.",
-   "total": 7,
+   "title": "O3",
+   "weight": 20,
+   "total": 20,
+   "statement": "Figure 3 is a star chart of a part of the sky on March 21, 2018. The longitude and latitude of the observation site is 120°E, 40°N (UTC+8). The grid in the figure is an equatorial grid. The thicker vertical line in the centre is the meridian. Estimate the mean solar time to an accuracy of better than 0.5h.",
    "parts": [
     {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
+     "id": "3.1",
+     "points": 20,
+     "question": "Figure 3 is a star chart of a part of the sky on March 21, 2018. The longitude and latitude of the observation site is 120°E, 40°N (UTC+8). The grid in the figure is an equatorial grid. The thicker vertical line in the centre is the meridian. Estimate the mean solar time to an accuracy of better than 0.5h.",
      "reference": ""
     }
    ]
   },
   {
    "number": 4,
-   "title": "Задача 4",
-   "statement": "The beginning and end of the competition will be indicated by a long\n   sound signal.",
-   "total": 7,
+   "title": "O4",
+   "weight": 20,
+   "total": 20,
+   "statement": "Figures 4.1 – 4.4 are four photos of Messier objects. For each of them, please write down the Messier catalogue number and name the constellation where it is located.",
    "parts": [
     {
-     "id": "4",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "4.1",
+     "points": 5,
      "pointsEstimated": true,
+     "question": "Figure 4.1: write down the Messier catalogue number and name the constellation where it is located.",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 5,
-   "title": "Задача 5",
-   "statement": "Wait at your table until your envelope is collected. Once all envelopes\n   are collected, your student guide will escort you out of the competition\n   area.\n\n                                  Page 1 of 7\n\n                                                                             Student’s Code:\n                        Observational Competition (Day)\n\nO1                                                                       (40 points)\nFigure 1 is a whole sky star chart of Yanqing, Beijing at 20:30 tonight (UTC+8) with\nthe limit magnitude = 5m (m = magnitude). Four stars (about 1m - 3m) and one planet\n(brighter than 2m) are missing in this chart. In the chart, the distance from the centre\nis in proportion to zenith distance\n\n(1) (20 points) Draw a cross (X) on the location of each missing star and mark “T” on\nthe chart, and draw a cross (X) on the location of the missing planet and mark “P” on\nthe chart.\n\n(2) (5 points) Please mark the orientation of the star chart with “N” “E” “S” “W” at\nthe edge of the star chart.\n\n(3) (10 points) On the chart, the celestial equator passes through many constellations.\nPlease write down the name of any five of these constellations (IAU codes).\n\nAnswer：\n\n(4) (5 points) Using the star chart, estimate the altitude of Aldebaran (α Tau), to the\nnearest degree.\n\nAnswer：\n\n                                        Page 2 of 7\n\n                                  Student’s Code:\nObservational Competition (Day)\n\n            Figure 1\n\n            Page 3 of 7\n\n                                                                               Student’s Code:\n                         Observational Competition (Day)\n\nO2                                                                         (20 points)\nFigure 2 is a star chart of a recent opposition of Jupiter. The grid in the figure is the\necliptic coordinates. Please estimate the date of this opposition, to the nearest day.\n\nAnswer：\n\n                                         Figure 2\n\n                                         Page 4 of 7\n\n                                                                            Student’s Code:\n                        Observational Competition (Day)\n\nO3                                                                      (20 points)\nFigure 3 is a star chart of a part of the sky on March 21, 2018. The longitude and\nlatitude of the observation site is 120°E, 40°N (UTC+8). The grid in the figure is an\nequatorial grid. The thicker vertical line in the centre is the meridian. Estimate the\nmean solar time to an accuracy of better than 0.5h.\n\nAnswer：\n\n                                       Figure 3\n\n                                       Page 5 of 7\n\n                                                                           Student’s Code:\n                       Observational Competition (Day)\n\nO4                                                                     (20 points)\nFigures 4.1 – 4.4 are four photos of Messier objects. For each of them, please write\ndown the Messier catalogue number and name the constellation where it is located.\n\n                                                                       Figure 4.1\n\nAnswer：\n\n                                                                       Figure 4.2\n\nAnswer：\n\n                                      Page 6 of 7\n\n                                                 Student’s Code:\n          Observational Competition (Day)\n\n                                              Figure 4.3\n\nAnswer：\n\n                                            Figure 4.4\n\nAnswer:\n\n                      Page 7 of 7",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "5",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "4.2",
+     "points": 5,
      "pointsEstimated": true,
+     "question": "Figure 4.2: write down the Messier catalogue number and name the constellation where it is located.",
+     "reference": ""
+    },
+    {
+     "id": "4.3",
+     "points": 5,
+     "pointsEstimated": true,
+     "question": "Figure 4.3: write down the Messier catalogue number and name the constellation where it is located.",
+     "reference": ""
+    },
+    {
+     "id": "4.4",
+     "points": 5,
+     "pointsEstimated": true,
+     "question": "Figure 4.4: write down the Messier catalogue number and name the constellation where it is located.",
      "reference": ""
     }
    ]

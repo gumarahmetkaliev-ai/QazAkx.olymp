@@ -6,128 +6,119 @@
  "lang": "ru",
  "tasksFile": "olympiads/astronomy/s/iao/2016/astro-2-tasks.pdf",
  "solutionFile": "olympiads/astronomy/s/iao/2016/astro-2-sol.pdf",
- "generatedBy": "parser",
- "generatedAt": "2026-11-09T17:56:00.374Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:15:07.600Z",
  "quality": {
   "tasks": 5,
   "parts": 10,
   "withPoints": 10,
-  "withReference": 1,
+  "withReference": 5,
   "withQuestion": 10,
-  "estimatedPoints": 9
+  "estimatedPoints": 0
  },
  "tasks": [
   {
    "number": 8,
-   "title": "Using the starchart (Fig.1) answer the following questions:",
-   "weight": null,
-   "total": 10,
-   "statement": "8.1. What is the ecliptic latitude of the galactic center?\n\nAnswer: β = _________ deg                                                           (1 pt)\n\n8.2. The positions of four objects from the Messier catalog are indicated using Latin\nletters. Which are these objects?\nA: M______           B: M_______           C: M________         D: M________        (2 pts)",
+   "title": "Task 8",
+   "weight": 3,
+   "total": 3,
+   "statement": "Using the starchart (Fig.1) answer the following questions:",
    "parts": [
     {
      "id": "8.1",
-     "points": 5,
-     "question": "What is the ecliptic latitude of the galactic center?",
-     "reference": "",
-     "pointsEstimated": true
+     "points": 1,
+     "question": "What is the ecliptic latitude of the galactic center? Answer: β = _________ deg",
+     "reference": "β = -5.5 deg"
     },
     {
      "id": "8.2",
-     "points": 5,
-     "question": "The positions of four objects from the Messier catalog are indicated using Latin",
-     "reference": "",
-     "pointsEstimated": true
+     "points": 2,
+     "question": "The positions of four objects from the Messier catalog are indicated using Latin letters. Which are these objects? A: M______ B: M_______ C: M________ D: M________",
+     "reference": "A: M7\nB: M6\nC: M4\nD: M80"
     }
    ]
   },
   {
    "number": 9,
-   "title": "All eight stars brighter than 2 mag have been erased from the map (Fig.2)",
-   "weight": null,
-   "total": 8,
-   "statement": "9.1. Fill in their positions and names (e.g. Deneb or α Cyg) back on the map.\n                                                                                    (4 pts)\n9.2. Which constellation is exactly in the southwestern (SW) corner of the map? Write\n     its standard three-letter Latin designation.\n   Answer: ___________                                                              (1 pt)",
+   "title": "Task 9",
+   "weight": 5,
+   "total": 5,
+   "statement": "All eight stars brighter than 2 mag have been erased from the map (Fig.2).",
    "parts": [
     {
      "id": "9.1",
      "points": 4,
      "question": "Fill in their positions and names (e.g. Deneb or α Cyg) back on the map.",
-     "reference": ""
+     "reference": "Fill in the positions and names back on the map. (0.25 pts for position, 0.25 pts for name, a total of 4 pts for 8 stars)"
     },
     {
      "id": "9.2",
-     "points": 4,
-     "question": "Which constellation is exactly in the southwestern (SW) corner of the map? Write its standard three-letter Latin designation.",
-     "reference": "",
-     "pointsEstimated": true
+     "points": 1,
+     "question": "Which constellation is exactly in the southwestern (SW) corner of the map? Write its standard three-letter Latin designation. Answer: ___________",
+     "reference": "Eri (Eridanus)"
     }
    ]
   },
   {
    "number": 10,
-   "title": "The diagram (Fig.3) shows how the altitude of three stars above the horizon",
-   "weight": null,
-   "total": 10,
-   "statement": "changes during a night near the winter solstice as observed from the Rozhen\nobservatory (41°41′N, 24°44′E). The one-digit numbers on the chart are the numbers of\nthe stars, while the two-digit numbers are angular distances from the moon in degrees.\n10.1. What are the equatorial coordinates of the three stars?\n\nStar 1:       α = _________ h       δ = ________ deg\nStar 2:       α = _________ h       δ = ________ deg\nStar 3:       α = _________ h       δ = ________ deg                        3 pts\n\n10.2. How many days after the preceding new moon is this night?\nAnswer:       t = ________ d                                                2 pts\n\nFig. 1\n\nFig. 2\n\nFig. 3",
+   "title": "Task 10",
+   "weight": 5,
+   "total": 5,
+   "statement": "The diagram (Fig.3) shows how the altitude of three stars above the horizon changes during a night near the winter solstice as observed from the Rozhen observatory (41°41′N, 24°44′E). The one-digit numbers on the chart are the numbers of the stars, while the two-digit numbers are angular distances from the moon in degrees.",
    "parts": [
     {
      "id": "10.1",
-     "points": 5,
-     "question": "What are the equatorial coordinates of the three stars?",
-     "reference": "",
-     "pointsEstimated": true
+     "points": 3,
+     "question": "What are the equatorial coordinates of the three stars?\nStar 1: α = _________ h δ = ________ deg\nStar 2: α = _________ h δ = ________ deg\nStar 3: α = _________ h δ = ________ deg",
+     "reference": "Star 1: α = 9h δ = +79 deg\nStar 2: α = 5h δ = -13 deg\nStar 3: α = 10h δ = +22 deg"
     },
     {
      "id": "10.2",
-     "points": 5,
-     "question": "How many days after the preceding new moon is this night?",
-     "reference": "",
-     "pointsEstimated": true
+     "points": 2,
+     "question": "How many days after the preceding new moon is this night?\nAnswer: t = ________ d",
+     "reference": "t = 20 – 21 d"
     }
    ]
   },
   {
    "number": 11,
-   "title": "This image of a field around a quasar is obtained with a 35-cm telescope",
-   "weight": null,
-   "total": 10.5,
-   "statement": "Fig. 4\nIt is one of the following four quasars (on the finder charts on Fig. 5):\n11.1. Which quasar is on the image? Identify the field and circle the correct answer.\nAnswer:       3C 66A / OJ 287 / 3C 454.3 / PKS 1510-08                         1 pt\n11.2. What changes have to be made in the equatorial coordinates of the telescope in\norder to put the quasar in the center of the field?\nAnswer:       Δα = _________ ′′     Δδ = _________ ′′                          2 pts\n11.3. Approximate distances to some field stars are indicated on the charts in parsecs.\nEstimate roughly the distance to the quasar:\nAnswer: d = _________ pc                                                       1 pt",
+   "title": "Task 11",
+   "weight": 4,
+   "total": 4,
+   "statement": "This image of a field around a quasar is obtained with a 35-cm telescope. It is one of the following four quasars (on the finder charts on Fig. 5):",
    "parts": [
     {
      "id": "11.1",
-     "points": 3.5,
-     "question": "Which quasar is on the image? Identify the field and circle the correct answer.",
-     "reference": "",
-     "pointsEstimated": true
+     "points": 1,
+     "question": "Which quasar is on the image? Identify the field and circle the correct answer.\nAnswer: 3C 66A / OJ 287 / 3C 454.3 / PKS 1510-08",
+     "reference": "OJ 287"
     },
     {
      "id": "11.2",
-     "points": 3.5,
-     "question": "What changes have to be made in the equatorial coordinates of the telescope in",
-     "reference": "",
-     "pointsEstimated": true
+     "points": 2,
+     "question": "What changes have to be made in the equatorial coordinates of the telescope in order to put the quasar in the center of the field?\nAnswer: Δα = _________ ′′ Δδ = _________ ′′",
+     "reference": "Δα = -91′′ Δδ = +48′′ (the signs matter!)"
     },
     {
      "id": "11.3",
-     "points": 3.5,
-     "question": "Approximate distances to some field stars are indicated on the charts in parsecs.",
-     "reference": "",
-     "pointsEstimated": true
+     "points": 1,
+     "question": "Approximate distances to some field stars are indicated on the charts in parsecs. Estimate roughly the distance to the quasar:\nAnswer: d = _________ pc",
+     "reference": "0 pts: d < 1 Mpc or d > 15 Gpc\n0.5 pts: d = 1 – 99 Mpc\n1 pt: d = 100 Mpc – 15 Gpc\nA trick question. The actual quasar is at z=0.306, corresponding to a distance of ~1 Gpc, which cannot be derived from the charts. The nearest active quasar known is at a distance of ~180 Mpc."
     }
    ]
   },
   {
    "number": 12,
-   "title": "The speed of the daily motion of stars due to the rotation of the Earth is",
-   "weight": null,
+   "title": "Task 12",
+   "weight": 3,
    "total": 3,
-   "statement": "artificially increased (video clip). What is the geographical latitude of the location of the\nobservation that the software is simulating? North or south of the equator (underline the\ncorrect option)?\nAnswer: __________North/South                                                          3 pts\n\nFig. 5",
+   "statement": "The speed of the daily motion of stars due to the rotation of the Earth is artificially increased (video clip).",
    "parts": [
     {
      "id": "12.1",
      "points": 3,
-     "question": "Решите задачу полностью и запишите ответ.",
-     "reference": "software is simulating?\nAnswer: 32 degrees South                                                     3 pts",
-     "pointsEstimated": true
+     "question": "What is the geographical latitude of the location of the observation that the software is simulating? North or south of the equator (underline the correct option)?\nAnswer: __________North/South",
+     "reference": "32 degrees South"
     }
    ]
   }

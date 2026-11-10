@@ -6,194 +6,254 @@
  "lang": "ru",
  "tasksFile": "olympiads/geography/s/igeo/2019/geo-1-tasks.pdf",
  "solutionFile": "olympiads/geography/s/igeo/2019/geo-1-sol.pdf",
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T18:10:07.932Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:44:31.038Z",
  "quality": {
-  "tasks": 12,
-  "parts": 12,
-  "withPoints": 12,
-  "withReference": 9,
-  "withQuestion": 12,
-  "estimatedPoints": 12
+  "tasks": 6,
+  "parts": 31,
+  "withPoints": 31,
+  "withReference": 31,
+  "withQuestion": 31,
+  "estimatedPoints": 0
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
-   "statement": "Fill in your name, team and iGeo student number on the front page of this Question and\n     Answer Booklet.",
-   "total": 7,
+   "title": "Section A: Agriculture and Climate Change",
+   "weight": 15,
+   "total": 15,
+   "statement": "Study Resource Booklet Figure A1: Impact of climate change on agricultural yields between 2003 and 2080 (projections).",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "1. Study Resources Booklet Figure D1: Part of North Atlantic Ocean current circulation and\n         Figure D2: Water temperatures (°C) and salinity (Practical Salinity Unit – PSU) in Northern\n         Atlantic Ocean.\n\n4m    a) Describe the pattern of water temperature and salinity distribution (Figure D2) for the area\n         shown in the map (Figure D1).\n\n        Answer (point marking – 1 mark for each correctly determined distibution; there should be 2\n        descriptions for temperature and 2 for salinity):\n\n        Temperature: water temperature is the highest (15 °C) in eastern part (between 10° W and\n        30° W longitude) down to appr. 50 meters’ depth; the lowest temperature (around 0 °C) is in\n        the western part (between 50° W and 55° W longitude) and appr. between 20 and 200\n        meters’ depth.\n        Salinity: the highest level of salinity is in the eastern part (between 10° W and 20° W\n        longitude) and constant from the surface to appr. 400 m depth; the lowest level of salinity is\n        in the western part (between 50° W and 55° W longitude) and appr. between the surface and\n        200 m depth.\n\n 2m   b) Give reasons for the patterns you have described.\n\n        Answer (point marking – 1 mark for temperature pattern and 1 mark for salinity pattern):\n\n        Temperature: Warm Gulf Stream in the eastern part causes higher water temperatures and\n        cold Labrador Current causes lowest water temperatures in the western part.\n        Salinity: Lower salinity in the western part is related to cold Labrador ocean current and\n        lower evaporation; higher level of salinity in eastern part is due to higher water temperature\n        (warm Gulf Stream) and higher level of evaporation.\n        Melting ice caps in the Arctic add fresh water and make salinity lower.\n\n1m    2. Based on your knowledge name the main reasons for the slowed and weakened North\n         Atlantic Ocean circulation.\n\n        Answer (point marking – 0.5 marks for each correct reason):\n            warmer weather in the Arctic\n            ice melting (Greenland ice)\n            increased rainfall in the Arctic\n\n4m    3. Assess the economic and environmental impacts a weakened circulation could cause.\n\n        Answer (point marking – 1 mark for each correct answer):\n\n               much colder winters and hotter summers in Europe,\n               intensifying streams of icebergs into shipping lanes and coastal ice jams that hinder\n                navigation in Northern Atlantic\n               changing rainfall patterns in the tropics,\n\n                                                     11\n\n              warmer water building up along the U.S. coast that can fuel sea level rise and\n               destructive storms (e. g. Hurricane Irene in 2011, Superstorm Sandy in 2012…)\n              collapse of fisheries due to rapidly warming water (e. g. collapse of the commercially\n               important cod fishery in the Gulf of Maine)\n              water temperature increase can affect also living marine resources (fish and other\n               species)\n\n1m   4. Study Resource Booklet Figure D3: Measured number of pieces of plastic waste in the Indian\n        Ocean gyre garbage patch.\n        Why is there an accumulation of plastic waste in this particular part of the Indian Ocean?\n\n       Answer (point marking – 1 mark for correct answer; the answer should include convergence\n       of surface currents):\n\n              Floating debris, such as plastic, accumulate in the middle of subtropical gyres of the\n               Indian Ocean due to the convergence of surface currents (circulation of ocean\n               currents counter clockwise).\n              The flow of the ocean water perpendicular to driving winds and spirals into the centre\n               of the gyre where it accumulates plastic garbage and forms a garbage patch.\n\n3m   5. What are the challenges of managing the oceans in order to reduce the amount of this type\n        of waste?\n\n       Answer (point marking – 1 mark for each correct answer; students should name 3 different\n       challenges):"
+     "id": "1.1",
+     "points": 2,
+     "question": "Identify the 4 areas (major regions) that will face the most negative impact of climate change on its agricultural yields.",
+     "reference": "Answer (point marking – 0.5 mark for each correctly identified area/region/continent): • Africa • Northern and central part of Australia • most of South America • South and South-West Asia • southern part of North America (Mexico and parts of USA)"
+    },
+    {
+     "id": "1.2",
+     "points": 6,
+     "question": "Outline 3 effects of climate change on agricultural yields. For each effect fully explain how it will impact agriculture in the future.",
+     "reference": "Answer (point marking - 2 marks for each of 3 correctly outlined and explained effects): • temperature rise influence on reduction of surface water and droughts which leads to loss of arable land, crop (yield) failure (decrease) - excessive heat can increase weed and insects/pest, and disease pressures (insects/pests cause great damage to crops) • excessive precipitation will raise flood risk which will lead to damage of crops and remove of topsoil (loss of fertile soil surface layers) • sea level rising due to climate change can cause loss of fertile coastal land once used for agriculture • climate change influence on loss of natural resources (removes habitats and food for beneficial insects, dries up water sources) • changing of weather patterns can force farmers to adopt new agricultural practices due to altered climate conditions and conditions of soil"
+    },
+    {
+     "id": "1.3",
+     "points": 1,
+     "question": "What do you understand by the term “climate-smart agriculture”?",
+     "reference": "Answer (point marking – 1 mark for included at least 2 explanations listed below or 1 very well developed explanation): Agriculture that: • uses wireless technology and GPS (drones, mobile phones, tablets…), • sustainably increases productivity, • enhances resilience (adaptation), • reduces/removes GHGs (greenhouse gases) (mitigation) where possible • enhances achievement of national food security and development goals, • requires a major shift in the way agricultural resources (soil, water, nutrients...) are being managed"
+    },
+    {
+     "id": "1.4",
+     "points": 6,
+     "question": "Discuss 3 advantages and 3 disadvantages of a smart agriculture.",
+     "reference": "Answer (point marking – 1 mark for each of 3 correctly discussed advantages and 3 correctly discussed disadvantages): ADVANTAGES - it allows farmers to maximize yields using minimum resources such as water, fertilizers, seeds etc. - solar powered and mobile operated pumps for watering/irrigation of land save cost of electricity - lower water consumption for agricultural production due to soil moisture sensors and more accurate weather forecasting - smart agriculture use drones and robots which helps in many ways and that improves data collection process and helps in wireless monitoring and control of agriculture fields - it is cost effective method (lowered production cost because of better resource efficiency through automatized processes in crop management) - it delivers high quality crop production - reduces environmental footprint DISADVANTAGES - high costs of implementation of smart-agriculture technology and necessary equipment for monitoring (drones, robots etc.) - since smart agriculture needs availability of internet continuously, that could be a problem for many rural part of most of the developing countries because they do not fulfil this requirement; where the internet connection is available, it is much slower - the smart farming based equipment require farmers to understand and learn the use of technology (additional education of farmers) and that is major challenge for local people in adopting smart agriculture farming at large scale across the countries (especially less developed ones) - using robots in planting/seeding and harvesting reduces manual labour so in some countries that could mean unemployment - increased price of food"
     }
    ]
   },
   {
    "number": 2,
-   "title": "Задача 2",
-   "statement": "Fill in your iGeo student number in the boxes on top of each of the pages in this Booklet.",
-   "total": 7,
+   "title": "Section B: Earthquakes",
+   "weight": 15,
+   "total": 15,
+   "statement": "Study Resource Booklet Section B regarding earthquakes, active faults, and related impacts.",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "5. Industry can be responsible for some plastic getting into the environment, either when\n       products containing plastic aren’t disposed of properly, or escaping during the production and\n       or transporting of products.\n\n                                                      12\n\n     Section E: Globalisation\n\n2m   1. Study Resource Booklet Table E1: Growth of popular social media sites (2014–2019).\n\n       a) Identify the social media site that has experienced the largest absolute number of global\n       users between 2014 and 2019.\n\n       Answer (point marking – 1 mark for correct answer):\n           Whats App\n\n       b) Identify the social media site that has experienced the fastest rate of growth in\n       number of global users between 2014 and 2019.\n\n       Answer (point marking – 1 mark for correct answer):\n           Snapchat\n\n1m   2. What is meant by the term “time-space compression”?\n\n       Answer (point marking – 1 mark for correct answer):\n\n       Time-space compression refers to the set of processes that cause the relative distances\n       between places (i.e., as measured in terms of travel time or cost) to contract, effectively\n       making such places grow “closer.”\n\n3m   3. Outline 3 factors that have resulted in global time-space compression.\n\n       Answer (point marking – 1 mark for each of 3 correctly outlined factors)\n\n              Faster transport (air and sea)\n              Internet connections\n              Finance\n              Technology / communication\n\n2m   4. Study Resource Booklet Figure E1: The share of world exports and imports by country.\n        Suggest 2 ways the share of world merchandise exports by country can influence flows of\n        people.\n\n       Answer (point marking – 1 mark for each of the correctly suggested ways):\n\n              The high percentage of world merchandise exports in advanced countries such as the\n               USA or countries within the EU could attract people to these countries looking for\n               employment (1m).\n              There is a significantly higher percentage of merchandise exports for northern\n               hemisphere countries compared to southern hemisphere countries and so with\n               greater opportunities for jobs it could cause flows of people from the southern\n               hemisphere to the northern hemisphere (1m).\n              Brazil and Saudi Arabia both have a much greater share of world merchandise\n               exports than other countries in their region which could attract a number of people\n               from within the country to these port / hub areas looking for employment (1m).\n\n                                                     13\n\n              The lower percentages of share of world merchandise exports in Africa could cause\n               significant outward migration (1m)\n\n3m   5. Evaluate 1 factor that might account for the spatial variations in Figure E1.\n\n        Answer (point marking):\n\n              Ability to negotiate trade agreements or be in a trade bloc (1) for example being in the\n               EU or NAFTA makes it easier for money and goods to be moved around between\n               around between those countries (1).\n              Financial incentives such as the removal or lowering of tariffs when countries trade\n               within these blocs is an incentive to be part of them (1).\n              Political instability / conflict (1) can be a barrier to trade leading to low productivity of\n               raw materials and /or manufactured goods and therefore export rates (DEV) as the\n               country invests more heavily in the conflict. It also makes it challenging for goods to\n               travel safely by road, air or shipping destinations (DEV).\n              Effects of trade embargoes / economic sanctions (1) the percentage share of a\n               country’s global merchandise exports are lowered as a result of economic sanctions\n               or trade embargoes applied for political reasons (DEV) e.g. the USA applies\n               embargoes against countries which it considers to be state sponsors of terrorism\n               (DEV).\n              Level of productivity of a country can be linked to exports (1) exports of the least\n               developed countries are held back by their relatively low productive capacity\n               (because of limited diversification of industry, limited infrastructure, poor governance)\n               (DEV), whereas many ACs have strong global trade with high productivity for\n               merchandise in a wide range of primary and secondary industries including their\n               ability to exploit natural resources (DEV).\n\n4m   6. Identify and explain 2 reasons why the global shift of industry has had negative impacts on\n        some people in the developed world.\n\n        Answer (point marking – 1 mark for identifying reasons why the global shift of industry has\n        created losers in the developed world and a further 3 marks for explanation):\n\n             Unemployment (1) has reduced local incomes (1) and therefore government tax\n            revenue (1) so investment declines in infrastructure/local services (1) .\n\n              Depopulation(1) means the more skilled/educated leave (1) and mental health issues\n            increase(1) due to lack of hope and self esteem of those left behind (1).\n\n             Accept any other appropriate response.\n\n                                                        14\n\n       Section F: Water Security"
+     "id": "2.1",
+     "points": 2,
+     "question": "a) List the 3 main types of seismic waves. b) What is the name of the instrument that measures these waves?",
+     "reference": "Answer (point marking – 0.5 marks for each correctly named type of seismic wave): • primary (or P-waves) / longitudinal waves • secondary (or S-waves) / transverse or transversal waves • surface waves (Love and/or Rayleigh waves); Answer (point marking – 0.5 mark for correctly named instrument): • seismograph"
+    },
+    {
+     "id": "2.2",
+     "points": 3,
+     "question": "Outline the differences between the 3 main types of seismic waves.",
+     "reference": "Answer (point marking – 1 mark for each wave described in each basis of comparison. For example, P-waves can travel through fluids and solids (1 mark), S-waves cannot travel through air or water but only through solids (1 mark), surface waves occur along boundary between two different substances (1 mark). Maximum of 3 marks for each basis of comparison). Answers should show a basis of comparison. • P-waves can travel through fluids and solids, S-waves cannot travel through air or water but only through solids, surface waves occur along boundary between two different substances • P-waves are longitudinal, S-waves are transverse, surface waves can either be longitudinal (Rayleigh) or transverse (Love and Rayleigh) • P-waves are the fastest, followed by S-waves and then surface waves. • Degree of damage"
+    },
+    {
+     "id": "2.3",
+     "points": 3,
+     "question": "Study Resource Booklet Figure B1: Ecuador earthquake on February 22nd, 2019. Suggest the reasons for the occurrence of an earthquake on February 22, 2019 in this area of Ecuador.",
+     "reference": "Answer (point marking – 1m for mentioning Nazca and South American plates, 1m for mentioning subduction process, 1m for more detailed explanation) • At the location of the earthquake, the oceanic Nazca plate moves east relative to the South America plate at a rate of about 70 mm/yr, subducting at the Peru-Chile Trench west of the Ecuadoran coast and sinking into the mantle beneath South America. • Like most earthquakes of Ecuador and western South America, this event was caused by strains generated by the ongoing subduction process. • The February 22, 2019, M 7.5 Ecuador earthquake occurred as the result of normal faulting at an intermediate depth, approximately 130 km beneath western Ecuador within the lithosphere of the subducted Nazca plate. • Focal mechanism solutions indicate that rupture occurred on either a steeply dipping normal fault or a shallowly dipping normal fault, both striking in an approximate NW-SE direction."
+    },
+    {
+     "id": "2.4",
+     "points": 2,
+     "question": "Explain how an earthquake leads to soil liquefaction.",
+     "reference": "Answer (point marking) • loosely packed water-logged sediments at or near the ground surface lose their strength in response to strong ground shaking (1m); • this acts like a fluid for the duration of vibration/earthquake shaking (1m) - earthquake shaking triggers increase in water pressure in soils, the strength of soil decreases and soil particles can move and soil cannot support foundations for buildings and bridges so they collapse (additional explanation)"
+    },
+    {
+     "id": "2.5",
+     "points": 5,
+     "question": "Using Resources Booklet Figure B1: Ecuador earthquake on February 22nd, 2019 and Figure B2: Impact of Ecuador earthquake and your own knowledge, explain how the impacts of the Ecuador earthquake of Feb 22, 2019 and future earthquakes in this area could be managed.",
+     "reference": "Answer (level marking) Level 2 (4-5m): Strategies and impacts are explained in relation to each other. Answers also acknowledge the characteristics of the Feb 22 Earthquake and the vulnerability of the region to earthquakes due to the nearby subduction zone. Better answers will acknowledge the need for both short- and long-term strategies. Students might use examples from own knowledge. Use of both Figures in answer. Level 1 (1-3m): Identifies and describes the impact of earthquakes using information from the figure(s). Strategy(s) are mentioned without contextualising to the impact of the earthquakes. Answer might not acknowledge the need for long-term strategies. No/little use of examples. Use of only 1 Figure in answer. 0m: No credit-worthy response. Answers should suggest both short-term and long-term management of earthquakes. • Fig. B1 suggests that the earthquake was rather high in magnitude (7.5M) and its shaking could be felt more than 340km away. • Feb 22 Earthquake had some casualties, including fatalities as seen in Fig. B2. To manage this, answers could include medical aid, rescue efforts, counselling etc. • Feb 22 Earthquake had low likelihood of economic damage as seen in Fig. B2. This might suggest that the earthquake occurred in areas which are either sparsely populated, rural and/or with poor populations. To manage this, answers could suggest that providing monetary aid would not be high on the government’s agenda in managing the earthquake. • Fig. B2 suggests that the population in this region resides in structures that are highly vulnerable to earthquake shaking. The pre-dominant building types are mud wall and informal as well. It can be seen that vulnerable structures would face greater damage during an earthquake. To manage this, answers could suggest building codes, stricter monitoring of construction, development of low-cost earthquake resistant buildings etc. • Answers could suggest that Fig. B1 shows the long-term vulnerability of Ecuador and its surrounding areas to earthquakes due to their position near the subduction zone. Thus, it is important for management strategies to be sustainable as well. • Other answers could include educating the population to be disaster-ready, stocking up on emergency supplies (at individual/national scale) etc."
     }
    ]
   },
   {
    "number": 3,
-   "title": "Задача 3",
-   "statement": "This test consists of 6 Sections.",
-   "total": 7,
+   "title": "Section C: Sand Dune Mobility and Desertification",
+   "weight": 15,
+   "total": 15,
+   "statement": "Study Resource Booklet Section C regarding sand dunes, meteorological data, and desertification.",
    "parts": [
     {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "2.   This test consists of 6 Sections."
+     "id": "3.1",
+     "points": 1,
+     "question": "Study Resource Booklet Figure C1: Satellite image of sand dunes in the Arabian Desert. What is the direction of the prevailing wind in this area?",
+     "reference": "Answer (point marking – 1 mark for correctly named direction): • from North to South / NW-SE / NE-SW (or from top to bottom)"
+    },
+    {
+     "id": "3.2",
+     "points": 1,
+     "question": "Name 2 natural factors that influence sand dune mobility.",
+     "reference": "Answer (point marking – 0.5 marks for each correct factor): • wind (degree of windiness, wind velocity) • rain efficiency (the amount of precipitation and potential evaporation) • sand grain size • relief barriers"
+    },
+    {
+     "id": "3.3",
+     "points": 9,
+     "question": "Following the Instructions in the Resource Booklet Section C, draw a triangulated irregular network on the map below. Inside this network draw contour lines of the P/PE values from the Resource Booklet Table C1: Values of dune mobility index (M) and dune activity codes (with the contour interval 0.1) for the 12 Weather Monitoring Sites.",
+     "reference": "Answer (point marking): (1) 1 mark for correctly marking the P/PE values of the sites on the map. (2) 3 marks for correctly drawing the triangulated irregular network. (3) 4 marks for reasonably drawing the contour lines of P/PE. (4) 1 mark for marking the value of contour line."
+    },
+    {
+     "id": "3.4",
+     "points": 1,
+     "question": "Which Weather Monitoring Sites have relatively high desertification threats?",
+     "reference": "Answer (point marking – 0.5 marks for each correctly identified area): • North-northeastern area (or Site 3 area) • Western area (or Sites 2 and 8 area)"
+    },
+    {
+     "id": "3.5",
+     "points": 3,
+     "question": "Suggest strategies for the local farmers and the government that could prevent the threats of desertification.",
+     "reference": "Answer (point marking – students who provide relevant and reasonable answers can get marks. If students write only one strategy but in more details – as in the marking scheme below, they could have 2 marks for it): (1) Securitizing productive land - securing peace and stability (2) Investing in large-scale restoration initiatives (3) Drought-management measures (4) Institutional reforms"
     }
    ]
   },
   {
    "number": 4,
-   "title": "Задача 4",
-   "statement": "The maximum total mark is 90.\n   The mark for each question is given in the margin at the beginning of the question.\n   There is a maximum of 15 marks for each Section.",
-   "total": 7,
+   "title": "Section D: Ocean Currents",
+   "weight": 15,
+   "total": 15,
+   "statement": "Study Resources Booklet Figure D1: Part of North Atlantic Ocean current circulation and Figure D2: Water temperatures (°C) and salinity (Practical Salinity Unit – PSU) in Northern Atlantic Ocean.",
    "parts": [
     {
-     "id": "4",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "3.   The maximum total mark is 90.\n     The mark for each question is given in the margin at the beginning of the question.\n     There is a maximum of 15 marks for each Section."
+     "id": "4.1",
+     "points": 4,
+     "question": "a) Describe the pattern of water temperature and salinity distribution (Figure D2) for the area shown in the map (Figure D1).",
+     "reference": "Answer (point marking – 1 mark for each correctly determined distibution; there should be 2 descriptions for temperature and 2 for salinity): Temperature: water temperature is the highest (15 °C) in eastern part (between 10° W and 30° W longitude) down to appr. 50 meters’ depth; the lowest temperature (around 0 °C) is in the western part (between 50° W and 55° W longitude) and appr. between 20 and 200 meters’ depth. Salinity: the highest level of salinity is in the eastern part (between 10° W and 20° W longitude) and constant from the surface to appr. 400 m depth; the lowest level of salinity is in the western part (between 50° W and 55° W longitude) and appr. between the surface and 200 m depth."
+    },
+    {
+     "id": "4.2",
+     "points": 2,
+     "question": "b) Give reasons for the patterns you have described.",
+     "reference": "Answer (point marking – 1 mark for temperature pattern and 1 mark for salinity pattern): Temperature: Warm Gulf Stream in the eastern part causes higher water temperatures and cold Labrador Current causes lowest water temperatures in the western part. Salinity: Lower salinity in the western part is related to cold Labrador ocean current and lower evaporation; higher level of salinity in eastern part is due to higher water temperature (warm Gulf Stream) and higher level of evaporation. Melting ice caps in the Arctic add fresh water and make salinity lower."
+    },
+    {
+     "id": "4.3",
+     "points": 1,
+     "question": "Based on your knowledge name the main reasons for the slowed and weakened North Atlantic Ocean circulation.",
+     "reference": "Answer (point marking – 0.5 marks for each correct reason): • warmer weather in the Arctic • ice melting (Greenland ice) • increased rainfall in the Arctic"
+    },
+    {
+     "id": "4.4",
+     "points": 4,
+     "question": "Assess the economic and environmental impacts a weakened circulation could cause.",
+     "reference": "Answer (point marking – 1 mark for each correct answer): • much colder winters and hotter summers in Europe, • intensifying streams of icebergs into shipping lanes and coastal ice jams that hinder navigation in Northern Atlantic • changing rainfall patterns in the tropics, • warmer water building up along the U.S. coast that can fuel sea level rise and destructive storms (e. g. Hurricane Irene in 2011, Superstorm Sandy in 2012…) • collapse of fisheries due to rapidly warming water (e. g. collapse of the commercially important cod fishery in the Gulf of Maine) • water temperature increase can affect also living marine resources (fish and other species)"
+    },
+    {
+     "id": "4.5",
+     "points": 1,
+     "question": "Study Resource Booklet Figure D3: Measured number of pieces of plastic waste in the Indian Ocean gyre garbage patch. Why is there an accumulation of plastic waste in this particular part of the Indian Ocean?",
+     "reference": "Answer (point marking – 1 mark for correct answer; the answer should include convergence of surface currents): • Floating debris, such as plastic, accumulate in the middle of subtropical gyres of the Indian Ocean due to the convergence of surface currents (circulation of ocean currents counter clockwise). • The flow of the ocean water perpendicular to driving winds and spirals into the centre of the gyre where it accumulates plastic garbage and forms a garbage patch."
+    },
+    {
+     "id": "4.6",
+     "points": 3,
+     "question": "What are the challenges of managing the oceans in order to reduce the amount of this type of waste?",
+     "reference": "Answer (point marking – 1 mark for each correct answer; students should name 3 different challenges): 1. Throwing plastic in the bin when it could be recycled... 2. Littering... 3. Products that go down the drain... 4. Fishing industry... 5. Industry can be responsible for some plastic..."
     }
    ]
   },
   {
    "number": 5,
-   "title": "Задача 5",
-   "statement": "Answer all questions in the spaces provided in this Booklet in English.\n     Keep the left margin free for markers.\n     Please write clearly.\n     Please use blue (or black) pen, not pencil.\n     Check the backs of pages as questions are written on both sides.",
-   "total": 7,
+   "title": "Section E: Globalisation",
+   "weight": 15,
+   "total": 15,
+   "statement": "Study Resource Booklet Section E regarding social media sites, time-space compression, and global trade.",
    "parts": [
     {
-     "id": "5",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "12. Put your final mark next to the question number in the column on the left – it eases\n    the work of the person who has to put the numbers into MS Excel.\n    Please write your numbers clearly."
+     "id": "5.1",
+     "points": 2,
+     "question": "a) Identify the social media site that has experienced the largest absolute number of global users between 2014 and 2019. b) Identify the social media site that has experienced the fastest rate of growth in number of global users between 2014 and 2019.",
+     "reference": "Answer (point marking – 1 mark for correct answer): • Whats App. Answer (point marking – 1 mark for correct answer): • Snapchat"
+    },
+    {
+     "id": "5.2",
+     "points": 1,
+     "question": "What is meant by the term “time-space compression”?",
+     "reference": "Answer (point marking – 1 mark for correct answer): Time-space compression refers to the set of processes that cause the relative distances between places (i.e., as measured in terms of travel time or cost) to contract, effectively making such places grow “closer.”"
+    },
+    {
+     "id": "5.3",
+     "points": 3,
+     "question": "Outline 3 factors that have resulted in global time-space compression.",
+     "reference": "Answer (point marking – 1 mark for each of 3 correctly outlined factors): • Faster transport (air and sea) • Internet connections • Finance • Technology / communication"
+    },
+    {
+     "id": "5.4",
+     "points": 2,
+     "question": "Study Resource Booklet Figure E1: The share of world exports and imports by country. Suggest 2 ways the share of world merchandise exports by country can influence flows of people.",
+     "reference": "Answer (point marking – 1 mark for each of the correctly suggested ways): • The high percentage of world merchandise exports in advanced countries such as the USA or countries within the EU could attract people to these countries looking for employment (1m). • There is a significantly higher percentage of merchandise exports for northern hemisphere countries compared to southern hemisphere countries and so with greater opportunities for jobs it could cause flows of people from the southern hemisphere to the northern hemisphere (1m). • Brazil and Saudi Arabia both have a much greater share of world merchandise exports than other countries in their region which could attract a number of people from within the country to these port / hub areas looking for employment (1m). • The lower percentages of share of world merchandise exports in Africa could cause significant outward migration (1m)"
+    },
+    {
+     "id": "5.5",
+     "points": 3,
+     "question": "Evaluate 1 factor that might account for the spatial variations in Figure E1.",
+     "reference": "Answer (point marking): • Ability to negotiate trade agreements or be in a trade bloc (1) for example being in the EU or NAFTA makes it easier for money and goods to be moved around between those countries (1). • Financial incentives such as the removal or lowering of tariffs when countries trade within these blocs is an incentive to be part of them (1). • Political instability / conflict (1) can be a barrier to trade leading to low productivity of raw materials and /or manufactured goods and therefore export rates (DEV) as the country invests more heavily in the conflict. • Effects of trade embargoes / economic sanctions (1)... • Level of productivity of a country can be linked to exports (1)..."
+    },
+    {
+     "id": "5.6",
+     "points": 4,
+     "question": "Identify and explain 2 reasons why the global shift of industry has had negative impacts on some people in the developed world.",
+     "reference": "Answer (point marking – 1 mark for identifying reasons why the global shift of industry has created losers in the developed world and a further 3 marks for explanation): • Unemployment (1) has reduced local incomes (1) and therefore government tax revenue (1) so investment declines in infrastructure/local services (1). • Depopulation (1) means the more skilled/educated leave (1) and mental health issues increase (1) due to lack of hope and self esteem of those left behind (1)."
     }
    ]
   },
   {
    "number": 6,
-   "title": "Задача 6",
-   "statement": "There are blank pages which you can use as additional space for your notes.\n     Please cross through any notes so that we know they are not part of your answers.\n     If you use these pages for answers, please label them clearly with the Section and question\n     number (e.g. A1).",
-   "total": 7,
+   "title": "Section F: Water Security",
+   "weight": 15,
+   "total": 15,
+   "statement": "Study Resource Booklet Figure F1: Global withdrawal and consumption of water from 1900–2025 (projected).",
    "parts": [
     {
-     "id": "6",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "7.   These answers here are not exhaustive. Credit any relevant answer."
-    }
-   ]
-  },
-  {
-   "number": 7,
-   "title": "Задача 7",
-   "statement": "Where appropriate, please write sentences or phrases not single words.",
-   "total": 7,
-   "parts": [
+     "id": "6.1",
+     "points": 3,
+     "question": "a) Describe the global pattern of water consumption. b) Which graph shows the most waste? Suggest a reason why this is the case.",
+     "reference": "Answer (point marking): • All sectors have consumption increase (0.5m). • Agriculture is water based activity and so it has largest consumption necessary for production. (0.5m) • The smallest consumption has industrial sector (0.5m). Answer (point marking): • Graph: Domestic (0.5m) • Reason: Because improved lifestyles mean more water is being used, e.g. in toilets. Wastage through old pipes; people waste water in showers and in food preparation; no system for recycling the water (1m)."
+    },
     {
-     "id": "7",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 8,
-   "title": "Задача 8",
-   "statement": "Give only the required number of answers (reasons, examples, etc.).\n   For instance, if the question asks for 2 reasons and you give more than 2, only the first 2\n   reasons will be marked.",
-   "total": 7,
-   "parts": [
+     "id": "6.2",
+     "points": 1,
+     "question": "What is meant by the term “water insecurity”?",
+     "reference": "Answer (point marking): • Where there is no safe access to clean water to sustain well-being, good health and economic development."
+    },
     {
-     "id": "8",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "11. Mark only the required number of answers (reasons, examples etc.).\n    For instance, if the question asks for 2 reasons and there is more than 2, only the first 2\n    reasons should be marked."
-    }
-   ]
-  },
-  {
-   "number": 9,
-   "title": "Задача 9",
-   "statement": "The Resource Booklet contains Figures referred to in this Booklet.\n   Do not write any of your answers in Resource Booklet.",
-   "total": 7,
-   "parts": [
+     "id": "6.3",
+     "points": 4,
+     "question": "Give 4 reasons to explain why water consumption is increasing.",
+     "reference": "Answer (point marking – 1 mark for each correct reason): • World population growth means there are more people to consume water • Changes in lifestyle and eating habits have increased the average use of water per head • Global demand for food is expected to increase by 70% by 2050 - water is used to irrigate crops and in food processing • All sources of energy require water in their production. Global energy consumption is expected to increase by 50% by 2035 • As urbanisation increase more water is needed for drinking, sanitation, and drainage."
+    },
     {
-     "id": "9",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "13. Please write down any inconsistencies of the Marking Scheme, revisions and additional\n    answers or answers not accepted on the Notes page at the end of the Booklet (e-mail is\n    preferred) and hand them in after marking to improve the final Marking Scheme that will\n    be uploaded to show the actual marking."
-    }
-   ]
-  },
-  {
-   "number": 10,
-   "title": "Задача 10",
-   "statement": "You may use a calculator during the test.",
-   "total": 7,
-   "parts": [
+     "id": "6.4",
+     "points": 3,
+     "question": "Outline 3 strategies which would result in an increased water supply for a country.",
+     "reference": "Answer (point marking – 1 mark for each strategy): • Diverting supplies e.g. surface water evaporates rapidly so can be stored in underground reservoirs • Building more dams and reservoirs - rainfall can be collected when it is plentiful and then released during drier periods. • Transferring water from areas of surplus to areas of deficit through pipelines • Desalination – removing salt from seawater to produce fresh water."
+    },
     {
-     "id": "10",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "5.   Get the hang of the full range of answers by reading through a few papers with your co-\n     marker before you start your marking.\n     You can mark together (especially for level marking), or after establishing a consensus\n     on how to mark for thoroughness and consistency, act as each other’s double-checkers\n     by marking half of the test and then swapping the pile.\n     We strongly recommend whenever in doubt, consult your marking partner and, if\n     appropriate, one of the designated Moderators – Dubravka or Mark."
-    }
-   ]
-  },
-  {
-   "number": 11,
-   "title": "Задача 11",
-   "statement": "Students not educated in English are allowed to use bilingual dictionaries during the test.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "11",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 12,
-   "title": "Задача 12",
-   "statement": "Time:\n       180 minutes for students not educated in English (+10 minutes reading time),\n       150 minutes for students educated in English (+10 minutes reading time).\n\n     Good luck!\n\n                                                                                         Written Response Test\n                                                            Contributions from: Australia, China Taipei, Romania\n                                                              Committee Convenor: Dubravka Spevec (Croatia)\n                                                                                Deputy: Mark Higginbottom (UK)\n\n                                                                             Director of Tests: Sue Lomas (UK)\n\n                                                   3\n\n4\n\n                                                                                              Student number:\n\n     Section A: Agriculture and Climate Change\n\n2m   1. Study Resource Booklet Figure A1: Impact of climate change on agricultural yields between\n        2003 and 2080 (projections).\n        Identify the 4 areas (major regions) that will face the most negative impact of climate\n        change on its agricultural yields.\n\n       1: ..............................................................................................................................\n\n       2: ..............................................................................................................................\n\n       3: ..............................................................................................................................\n\n       4: ..............................................................................................................................\n\n6m   2. Outline 3 effects of climate change on agricultural yields. For each effect fully explain how\n        it will impact agriculture in the future.\n\n       1: ..............................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n       2: ..............................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n       3: ..............................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n1m   3. What do you understand by the term “climate-smart agriculture”?\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n                                                                       5\n\n6m   4. Discuss 3 advantages and 3 disadvantages of a smart agriculture.\n\n       Advantage 1:..............................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n       Advantage 2:..............................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n       Advantage 3:..............................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n       Disadvantage 1: .........................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n       Disadvantage 2: .........................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n       Disadvantage 3: .........................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n                                                                       6\n\n                                                                                                Student number:\n\n       Section B: Earthquakes\n\n1.5m   1. a) List the 3 main types of seismic waves.\n\n          .................................................................................................................................\n\n          .................................................................................................................................\n\n          .................................................................................................................................\n\n0.5m      b) What is the name of the instrument that measures these waves?\n\n          .................................................................................................................................\n\n3m     2. Outline the differences between the 3 main types of seismic waves.\n\n          .................................................................................................................................\n\n          .................................................................................................................................\n\n          .................................................................................................................................\n\n          .................................................................................................................................\n\n          .................................................................................................................................\n\n          .................................................................................................................................\n\n3m     3. Study Resource Booklet Figure B1: Ecuador earthquake on February 22nd, 2019.\n          Suggest the reasons for the occurrence of an earthquake on February 22, 2019 in this area\n          of Ecuador.\n\n          .................................................................................................................................\n\n          .................................................................................................................................\n\n          .................................................................................................................................\n\n          .................................................................................................................................\n\n          .................................................................................................................................\n\n          .................................................................................................................................\n\n          .................................................................................................................................\n\n          .................................................................................................................................\n\n                                                                         7\n\n                                                                                              Student number:\n\n2m   4. Explain how an earthquake leads to soil liquefaction.\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n5m   5. Using Resources Booklet Figure B1: Ecuador earthquake on February 22nd, 2019 and\n        Figure B2: Impact of Ecuador earthquake and your own knowledge, explain how the impacts\n        of the Ecuador earthquake of Feb 22, 2019 and future earthquakes in this area could be\n        managed.\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n                                                                       8\n\n                                                                                              Student number:\n\n     Section C: Sand Dune Mobility and Desertification\n\n1m   1. Study Resource Booklet Figure C1: Satellite image of sand dunes in the Arabian Desert.\n        What is the direction of the prevailing wind in this area?\n\n        .................................................................................................................................\n\n1m   2. Name 2 natural factors that influence sand dune mobility.\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n9m   3. Following the Instructions in the Resource Booklet Section C, draw a triangulated irregular\n        network on the map below.\n\n       Inside this network draw contour lines of the P/PE values from the Resource Booklet Table\n       C1: Values of dune mobility index (M) and dune activity codes (with the contour interval 0.1)\n       for the 12 Weather Monitoring Sites.\n\n                                                                       9\n\n1m   4. Which Weather Monitoring Sites have relatively high desertification threats?\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n3m   5. Suggest strategies for the local farmers and the government that could prevent the threats\n        of desertification.\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n        .................................................................................................................................\n\n                                                                      10\n\n                                                                                                   Student number:\n\n      Section D: Ocean Currents",
-   "total": 7,
-   "parts": [
-    {
-     "id": "12",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
+     "id": "6.5",
+     "points": 4,
+     "question": "Study Resource Booklet Figure F2: Water distribution from the River Jordan. Explain the causes of potential conflict in the withdrawal and consumption of water from the River Jordan.",
+     "reference": "Answer (point marking – 1 mark for each correct answer): • Rivers cross international boundaries. Three countries could draw water from the River Jordan. • Pipelines divert water to other part of Israel through the National water carrier. • Pollution further upstream by countries such as Syria can pass down to countries further south. • Global warming may reduce the amount of water available."
     }
    ]
   }

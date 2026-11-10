@@ -6,224 +6,398 @@
  "lang": "ru",
  "tasksFile": "olympiads/astronomy/s/ioaa/2019/astro-4-tasks.pdf",
  "solutionFile": "olympiads/astronomy/s/ioaa/2019/astro-4-sol.pdf",
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:50:40.289Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:14:50.932Z",
  "quality": {
   "tasks": 14,
-  "parts": 14,
-  "withPoints": 14,
-  "withReference": 10,
-  "withQuestion": 14,
-  "estimatedPoints": 14
+  "parts": 43,
+  "withPoints": 43,
+  "withReference": 40,
+  "withQuestion": 43,
+  "estimatedPoints": 0
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
-   "statement": "Famous astronomical events                                                                        (10 p)\n   Arrange the following astronomy-related events in chronological order from the oldest to the most\n   recent. Write the correct serial number (between 1 and 11) in the appropriate box on the answer\n   sheet.\n       1. Launch of the Hubble Space Telescope\n       2. Viking probes arrived at planet Mars\n       3. Discovery of Phobos and Deimos\n       4. Latest perihelion of comet 1/P Halley\n       5. Discovery of Ceres (asteroid / dwarf planet)\n       6. Discovery of Uranus (planet)\n       7. First successful measurement of a stellar parallax\n       8. Discovery of the first planetary nebula\n       9. Discovery of stellar populations (I and II)\n       10. First identification of a quasar with an optical source\n       11. Discovery of the expansion of the Universe",
-   "total": 7,
+   "title": "Famous astronomical events",
+   "weight": 10,
+   "total": 10,
+   "statement": "Arrange the following astronomy-related events in chronological order from the oldest to the most recent. Write the correct serial number (between 1 and 11) in the appropriate box on the answer sheet.\n       1. Launch of the Hubble Space Telescope\n       2. Viking probes arrived at planet Mars\n       3. Discovery of Phobos and Deimos\n       4. Latest perihelion of comet 1/P Halley\n       5. Discovery of Ceres (asteroid / dwarf planet)\n       6. Discovery of Uranus (planet)\n       7. First successful measurement of a stellar parallax\n       8. Discovery of the first planetary nebula\n       9. Discovery of stellar populations (I and II)\n       10. First identification of a quasar with an optical source\n       11. Discovery of the expansion of the Universe",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "10. 1986: Latest perihelion of comet 1/P Halley"
+     "id": "1.1",
+     "points": 10,
+     "question": "Arrange the 11 events in chronological order.",
+     "reference": "Correct solution:\n  1. 1764: Discovery of the first planetary nebula\n  2. 1781: Discovery of Uranus\n  3. 1801: Discovery of Ceres\n  4. 1838: First successful measurement of a stellar parallax\n  5. 1877: Discovery of Phobos and Deimos\n  6. 1929: Discovery of the expansion of the Universe\n  7. 1943: Discovery of stellar populations\n  8. 1963: First identification of a quasar with an optical source\n  9. 1976: Viking probes arrived at planet Mars\n 10. 1986: Latest perihelion of comet 1/P Halley\n 11. 1990: Launch of the Hubble Space Telescope\nThe score of the faultless order is 10 points. The list will be checked pairwise. In each case when a later event precedes an earlier event in your solution, one point will be deducted."
     }
    ]
   },
   {
    "number": 2,
-   "title": "Задача 2",
-   "statement": "Deflection of radio photons in the gravitational field of solar system bodies                     (10 p)\n   A. Eddington and F. Dyson from Principe, and C. Davidson and A. Crommelin from Sobral, Brazil\n   measured the deflection of light coming from stars apparently very close to the Sun during the total\n   solar eclipse in 1919. The deflection was found to agree with the theoretically predicted value of 1.75\".\n   A light ray (or photon) which passes the Sun at a distance 𝑑 is deflected by an angle\n                                                        4𝐺𝑀☉\n                                                 ∆𝜃 ∝\n                                                         𝑑𝑐 2\n   The present-day accuracy of the VLBI (Very Long Baseline Interferometry) technique in the radio\n   wavelength range is 0.1 mas (milliarcsecond). Is it possible to detect a deflection of radio photons from\n   a quasar by (a) Jupiter, (b) the Moon? Estimate the angle of deflection in both cases and mark \"YES\"\n   or \"NO\" on the answer sheet.",
-   "total": 7,
+   "title": "Deflection of radio photons in the gravitational field of solar system bodies",
+   "weight": 10,
+   "total": 10,
+   "statement": "A. Eddington and F. Dyson from Principe, and C. Davidson and A. Crommelin from Sobral, Brazil measured the deflection of light coming from stars apparently very close to the Sun during the total solar eclipse in 1919. The deflection was found to agree with the theoretically predicted value of 1.75''. A light ray (or photon) which passes the Sun at a distance $d$ is deflected by an angle\n$$\\Delta\\theta \\propto \\frac{4GM_\\odot}{dc^2}$$\nThe present-day accuracy of the VLBI (Very Long Baseline Interferometry) technique in the radio wavelength range is 0.1 mas (milliarcsecond). Is it possible to detect a deflection of radio photons from a quasar by (a) Jupiter, (b) the Moon? Estimate the angle of deflection in both cases and mark \"YES\" or \"NO\" on the answer sheet.",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "2. Deflection of radio photons in the gravitational field of solar system bodies\n\nOne has to notice that in the case of the Sun d = R , that is d equals the solar radius.                      (1 p)\n\nThe angular deflection scales as m/r (mass over radius) of the deflector body, so one has to consider\nMb /Rb , where b stands for Jupiter and Moon, respectively.\n\n        ∆θb   Mb /Rb\n(2.1)       =                                                                                                 (2 p)\n        ∆θ    M /R\n\nThis means that:\n                     Mb /Rb\n(2.2) ∆θb = ∆θ                                                                                                (1 p)\n                     M /R\n\n  a) Jupiter\n        Substituting the masses and radii one gets:\n\n              ∆θJ = 0.01700 = 17 mas                                                                          (2 p)\n\n        The deflection of radio waves by Jupiter’s gravitational field is greater than 0.1 mas, so it is observable\n        with the VLBI network. The answer is: YES                                                             (1 p)\n\n  b) Moon\n        Substituting the masses and radii one gets:\n\n              ∆θM = 0.000 02600 = 0.026 mas                                                                   (2 p)\n\n        The deflection of radio waves by Moon’s gravitational field is smaller than 0.1 mas, so it is not\n        observable with the VLBI network. The answer is: NO                                          (1 p)\n\n                                              Theory                                            Page 3\n\n                                                                                                 10 p"
+     "id": "2.1",
+     "points": 5,
+     "question": "Is it possible to detect a deflection of radio photons from a quasar by Jupiter? Estimate the angle of deflection and mark \"YES\" or \"NO\".",
+     "reference": "One has to notice that in the case of the Sun d = R, that is d equals the solar radius. The angular deflection scales as m/r (mass over radius) of the deflector body, so one has to consider Mb /Rb , where b stands for Jupiter and Moon, respectively.\n$$\\frac{\\Delta\\theta_b}{\\Delta\\theta} = \\frac{M_b /R_b}{M/R}$$\n$$\\Delta\\theta_b = \\Delta\\theta \\frac{M_b /R_b}{M/R}$$\na) Jupiter\nSubstituting the masses and radii one gets:\n$\\Delta\\theta_J = 0.017^{\\circ\\prime} = 17 \\text{ mas}$\nThe deflection of radio waves by Jupiter’s gravitational field is greater than 0.1 mas, so it is observable with the VLBI network. The answer is: YES"
+    },
+    {
+     "id": "2.2",
+     "points": 5,
+     "question": "Is it possible to detect a deflection of radio photons from a quasar by the Moon? Estimate the angle of deflection and mark \"YES\" or \"NO\".",
+     "reference": "b) Moon\nSubstituting the masses and radii one gets:\n$\\Delta\\theta_M = 0.000026^{\\circ\\prime} = 0.026 \\text{ mas}$\nThe deflection of radio waves by Moon’s gravitational field is smaller than 0.1 mas, so it is not observable with the VLBI network. The answer is: NO"
     }
    ]
   },
   {
    "number": 3,
-   "title": "Задача 3",
-   "statement": "The supermassive black hole in the centre of Milky Way Galaxy and M87                             (10 p)\n   The first image of a black hole was constructed recently by the international team of the Event Horizon\n   Telescope (EHT). The imaged area surrounds the supermassive black hole in the centre of the galaxy\n   M87. The observations resulting in the final image were carried out at a wavelength 𝜆 = 1.3 mm where\n   the interstellar extinction is not prohibitively large.\n       a) How large an instrument would be needed to resolve the shadow (in effect the photon capture\n          radius, which is three times the size of event horizon) of a supermassive black hole in the centre\n          of a galaxy? Express the result as a function of the distance 𝑑 and the mass 𝑀 of the black hole.\n                                                                                                       (6 p)\n       b) Give the size of the instrument in units of Earth radius for\n             i.      the supermassive black hole in the centre of M87,                                 (1 p)\n                  (𝑑BH-M87 = 5.5 × 107 ly, 𝑀BH-M87 = 6.5 × 109 M☉ )\n            ii.       and Sgr A*, the supermassive black hole of our own galaxy, Milky Way.            (1 p)\n                  (𝑑Sgr A* = 8.3 kpc, 𝑀Sgr A* = 3.6 × 106 M☉ )\n\n                               Theory problem sheet                                            Page 2 of 9\n\n      c) What type of technology is needed for the development of such an instrument? Mark the letter\n         of your answer with × on the answer sheet.                                             (2 p)\n                (A)      Gravitational lensing by dark matter\n                (B)      Interferometry with an array of radio telescopes\n                (C)      Photon deceleration in a dense environment\n                (D)      Reducing the effect of incoming wavefront distortions\n                (E)      Neutrino focusing with strong electromagnetic fields",
-   "total": 7,
+   "title": "The supermassive black hole in the centre of Milky Way Galaxy and M87",
+   "weight": 10,
+   "total": 10,
+   "statement": "The first image of a black hole was constructed recently by the international team of the Event Horizon Telescope (EHT). The imaged area surrounds the supermassive black hole in the centre of the galaxy M87. The observations resulting in the final image were carried out at a wavelength $\\lambda = 1.3$ mm where the interstellar extinction is not prohibitively large.",
    "parts": [
     {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "3. 1801: Discovery of Ceres"
+     "id": "3.1",
+     "points": 6,
+     "question": "How large an instrument would be needed to resolve the shadow of a supermassive black hole in the centre of a galaxy? Express the result as a function of the distance $d$ and the mass $M$ of the black hole.",
+     "reference": "The scale of the black hole shadow is set by the Schwarzschild radius $R_S = 2GM/c^2$. The light ring radius is $3R_S$.\nFor a diffraction limited instrument the angular resolution is bounded by\n$$\\theta_{\\text{res}} = \\frac{2R}{d} \\ge \\frac{1.22\\lambda}{D}$|\nwhere $\\lambda$ is the wavelength and $D$ is the diameter of the instrument.\nUsing the expression for the Schwarzschild radius:\n$$D \\ge \\frac{1.22\\lambda}{6R_S} d = \\frac{1.22 c^2 \\lambda d}{12GM}$$"
+    },
+    {
+     "id": "3.2",
+     "points": 2,
+     "question": "Give the size of the instrument in units of Earth radius for (i) the supermassive black hole in the centre of M87 ($d_{\\text{BH-M87}} = 5.5 \\times 10^7$ ly, $M_{\\text{BH-M87}} = 6.5 \\times 10^9 M_\\odot$) and (ii) Sgr A* ($d_{\\text{Sgr A*}} = 8.3$ kpc, $M_{\\text{Sgr A*}} = 3.6 \\times 10^6 M_\\odot$).",
+     "reference": "For $\\lambda = 1.3$ mm, this gives\n(a) $D > 7200 \\text{ km} \\approx 1.1 R_\\oplus$\n(b) $D > 6400 \\text{ km} \\approx 1 R_\\oplus$"
+    },
+    {
+     "id": "3.3",
+     "points": 2,
+     "question": "What type of technology is needed for the development of such an instrument? Mark the letter of your answer with × on the answer sheet. (A) Gravitational lensing by dark matter (B) Interferometry with an array of radio telescopes (C) Photon deceleration in a dense environment (D) Reducing the effect of incoming wavefront distortions (E) Neutrino focusing with strong electromagnetic fields",
+     "reference": "(B) Interferometry with array of radio telescopes"
     }
    ]
   },
   {
    "number": 4,
-   "title": "Задача 4",
-   "statement": "Improving a common reflecting telescope                                                          (10 p)\n   A student has an average quality Cassegrain telescope, with primary and secondary mirrors having\n   𝜀1 = 91 % reflectivity aluminium layers.\n      a) What will be the change in the limiting magnitude of this telescope by replacing the mirror\n         coatings with \"premium\" quality 𝜀2 = 98 % reflectivity ones?                          (5 p)\n      b) Assuming the student also uses a star diagonal mirror, also with reflectivity 𝜀1 with the original\n         telescope - what will be the improvement if he/she also replaces this piece with an 𝜀3 = 99 %\n         reflectivity (“dielectric” mirror) model, combined with the new 𝜀2 mirrors?                  (3 p)\n         (A star diagonal mirror is a flat mirror, inclined to the optical axis by 45°.)\n      c) Is this difference obviously detectable by the human eye? Mark \"YES\" or \"NO\" on the\n         answer sheet.                                                                  (2 p)\n   Consider the whole visual band and disregard any wavelength dependence and geometric effects.",
-   "total": 7,
+   "title": "Improving a common reflecting telescope",
+   "weight": 10,
+   "total": 10,
+   "statement": "A student has an average quality Cassegrain telescope, with primary and secondary mirrors having $\\varepsilon_1 = 91 \\%$ reflectivity aluminium layers. Consider the whole visual band and disregard any wavelength dependence and geometric effects.",
    "parts": [
     {
-     "id": "4",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "4. Improving a common reflecting telescope\n\n  a) Let us designate the (unknown) original limiting magnitude of this telescope as m1 , and refer to\n     the intensity (at the focal plane) as I1 . The new limiting magnitude is m2 . Due to the additional\n     intensity, which is due to the better reflectivity of the mirror surfaces, the stellar intensity which will\n     result in the same limiting illumination at the focal plane, will be proportionally smaller, with the\n     ratio of the reflectivities of the new and old mirror coatings:\n                  ε1 ε1\n     (4.1) I2 =         I1                                                                                 (2 p)\n                  ε2 ε2\n     The reflectivities should be multiplied twice, since the light coming from the star, loses some energy\n     twice, suffering reflection on each of the two mirrors.\n     Now applying the well-known magnitude formula:\n\n                                 I1           ε2\n     (4.2) m1 − m2 = −2.5 log       = −2.5 log 22                                                          (2 p)\n                                 I2           ε1\n\n     With numerical values:\n\n           m1 − m2 = −0.16m\n\n     And thus:\n\n           m2 = m1 + 0.16m                                                                                 (1 p)\n\n  b) Yes, it is well appreciable by most human eyes. Therefore, especially the deep-sky-object\n     hunters are using higher reflectivity mirrors in their telescopes.                  (2 p)\n\n  c) The similar way of thinking gives:\n\n                            I1             ε22 ε3\n     (4.3) m2 = m1 + 2.5 log = m1 + 2.5 log 3                                                              (2 p)\n                            I2              ε1\n\n     With numerical values:\n\n           m1 − m2 = −0.25m\n\n     And thus:\n\n           m2 = m1 + 0.25m                                                                                 (1 p)\n\n                                                          Theory                                  Page 5\n\n                                                                                                   10 p"
+     "id": "4.1",
+     "points": 5,
+     "question": "What will be the change in the limiting magnitude of this telescope by replacing the mirror coatings with \"premium\" quality $\\varepsilon_2 = 98 \\%$ reflectivity ones?",
+     "reference": "Let us designate the (unknown) original limiting magnitude of this telescope as $m_1$, and refer to the intensity as $I_1$. The new limiting magnitude is $m_2$.\n$$I_2 = \\frac{\\varepsilon_2^2}{\\varepsilon_1^2} I_1$$\nNow applying the well-known magnitude formula:\n$$m_1 - m_2 = -2.5 \\log \\frac{I_1}{I_2} = -2.5 \\log \\frac{\\varepsilon_2^2}{\\varepsilon_1^2}$$\nWith numerical values: $m_1 - m_2 = -0.16^m \\implies m_2 = m_1 + 0.16^m$"
+    },
+    {
+     "id": "4.2",
+     "points": 3,
+     "question": "Assuming the student also uses a star diagonal mirror with reflectivity $\\varepsilon_1$ with the original telescope — what will be the improvement if he/she also replaces this piece with an $\\varepsilon_3 = 99 \\%$ reflectivity (\"dielectric\" mirror) model, combined with the new $\\varepsilon_2$ mirrors?",
+     "reference": "The similar way of thinking gives:\n$$m_2 = m_1 + 2.5 \\log \\frac{\\varepsilon_2^2 \\varepsilon_3}{\\varepsilon_1^3}$$\nWith numerical values: $m_1 - m_2 = -0.25^m \\implies m_2 = m_1 + 0.25^m$"
+    },
+    {
+     "id": "4.3",
+     "points": 2,
+     "question": "Is this difference obviously detectable by the human eye? Mark \"YES\" or \"NO\" on the answer sheet.",
+     "reference": "Yes, it is well appreciable by most human eyes. Therefore, especially the deep-sky-object hunters are using higher reflectivity mirrors in their telescopes."
     }
    ]
   },
   {
    "number": 5,
-   "title": "Задача 5",
-   "statement": "Cosmic Microwave Background Oven                                                                 (10 p)\n   Since the human body is made mostly of water, it is very efficient at absorbing microwave photons.\n   Assume that an astronaut’s body is a perfect spherical absorber with mass of 𝑚 = 60 kg, and its\n   average density and heat capacity are the same as for pure water, i.e. 𝜌 = 1000 kg m−3 and 𝐶 =\n   4200 J kg −1 K −1 .\n      a) What is the approximate rate, in watts, at which an astronaut in intergalactic space would absorb\n         radiative energy from the Cosmic Microwave Background (CMB)? The spectral energy\n         distribution of CMB can be approximated by blackbody radiation of temperature 𝑇CMB =\n         2.728 K.                                                                                     (5 p)\n      b) Approximately how many CMB photons per second would the astronaut absorb?                    (3 p)\n      c) Ignoring other energy inputs and outputs, how long would it take for the CMB to raise the\n         astronaut’s temperature by ∆𝑇 = 1 K?                                                         (2 p)",
-   "total": 7,
+   "title": "Cosmic Microwave Background Oven",
+   "weight": 10,
+   "total": 10,
+   "statement": "Since the human body is made mostly of water, it is very efficient at absorbing microwave photons. Assume that an astronaut’s body is a perfect spherical absorber with mass of $m = 60$ kg, and its average density and heat capacity are the same as for pure water, i.e. $\\rho = 1000 \\text{ kg m}^{-3}$ and $C = 4200 \\text{ J kg}^{-1} \\text{ K}^{-1}$.",
    "parts": [
     {
-     "id": "5",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "5. Cosmic Microwave Background Oven\n\n a) If the body is spherical, its radius r can be calculated as:\n                                               ã1/3\n               m  4                      3m\n                                    Å\n     (5.1) V =   = r3 π → r =\n               %  3                      4π%\n     The area of the body:\n                                  ã2/3                             ã2/3\n                         3m                                   3m\n                            Å                             Å\n     (5.2) A = 4r π = 4π\n                    2\n                                         = (4π)     1/3\n                                                                                                    (1 p)\n                         4π%                                   %\n     According to the Stefan-Boltzmann law, the total energy radiated per unit surface area across all\n     wavelengths per unit time:\n\n     (5.3) j = σTCMB\n                 4\n                                                                                                    (1 p)\n\n     The CMB is isotropic, which means the absorbed radiation by unit surface area of the spherical body\n     is the same independent of the surface’s normal direction.                                     (1 p)\n     The total absorbed energy by the spherical body per unit time:\n                                                    ã2/3\n                                               3m\n                                          Å\n     (5.4)              4\n             P = jA = σTCMB × (4π)1/3                                                               (1 p)\n                                                %\n     Its numerical value:\n\n             P ≈ 2.3 × 10−6 W                                                                       (1 p)\n\n b) The mean energy of CMB photons:\n\n     (5.5) hεi = 3kTCMB = 1.1 × 10−22 J                                                             (1 p)\n\n     The number of CMB photons the body would absorb per second:\n                  P\n     (5.6) n =                                                                                      (1 p)\n                 hεi\n\n     Its numerical value:\n\n             n = 2.1 × 1016 s−1                                                                     (1 p)\n\n  c) Denote the time necessary for raising the temperature by ∆t, so:\n\n                                     Cm∆T\n     (5.7) P ∆t = Cm∆T → ∆t =                                                                       (1 p)\n                                      P\n     Its numerical value:\n\n             ∆t ≈ 1.1 × 1011 s ≈ 1 253 200 d ≈ 3430 yr                                              (1 p)\n\n                                                Theory                                              Page 6\n\n                                                                                                     20 p"
+     "id": "5.1",
+     "points": 5,
+     "question": "What is the approximate rate, in watts, at which an astronaut in intergalactic space would absorb radiative energy from the Cosmic Microwave Background (CMB)? $T_{\\text{CMB}} = 2.728$ K.",
+     "reference": "If the body is spherical, its radius $r$: $V = \\frac{m}{\\rho} = \\frac{4}{3}\\pi r^3 \\implies r = \\left(\\frac{3m}{4\\pi\\rho}\\right)^{1/3}$\nThe area of the body: $A = 4\\pi r^2 = (4\\pi)^{1/3} \\left(\\frac{3m}{\\rho}\\right)^{2/3}$\nAccording to the Stefan-Boltzmann law, total radiated energy per unit surface area: $j = \\sigma T_{\\text{CMB}}^4$\nThe total absorbed energy per unit time: $P = jA = \\sigma T_{\\text{CMB}}^4 (4\\pi)^{1/3} \\left(\\frac{3m}{\\rho}\\right)^{2/3}$\nNumerical value: $P \\approx 2.3 \\times 10^{-6}$ W"
+    },
+    {
+     "id": "5.2",
+     "points": 3,
+     "question": "Approximately how many CMB photons per second would the astronaut absorb?",
+     "reference": "The mean energy of CMB photons: $\\langle\\varepsilon\\rangle = 3kT_{\\text{CMB}} = 1.1 \\times 10^{-22}$ J\nThe number of CMB photons the body would absorb per second: $n = \\frac{P}{\\langle\\varepsilon\\rangle}$\nNumerical value: $n = 2.1 \\times 10^{16} \\text{ s}^{-1}$"
+    },
+    {
+     "id": "5.3",
+     "points": 2,
+     "question": "Ignoring other energy inputs and outputs, how long would it take for the CMB to raise the astronaut’s temperature by $\\Delta T = 1$ K?",
+     "reference": "Denote the time necessary: $\\Delta t = \\frac{Cm\\Delta T}{P}$\nNumerical value: $\\Delta t \\approx 1.1 \\times 10^{11} \\text{ s} \\approx 1253200 \\text{ d} \\approx 3430 \\text{ yr}$"
     }
    ]
   },
   {
    "number": 6,
-   "title": "Задача 6",
-   "statement": "The height of the chimney of Tiszaújváros power plant                                            (20 p)\n   The European Copernicus Earth-observation programme operates two Sentinel-2 remote sensing\n   satellites. These satellites orbit the Earth on Sun-synchronous polar orbits at about 800 km altitude.\n   They pass over a given area once every few days, always taking images at the same local time (accurate\n   to within a few minutes). The cameras are sensitive to 13 different optical and near-infrared spectral\n   bands. The resolution of the images is 10 meters.\n   The 3rd tallest building in Hungary is the chimney of a power plant near the town Tiszaújváros. You\n   can see two Sentinel-2 satellite images. One is from June 29, another one is from December 16, close\n   to the summer and winter solstices, respectively. The orientation of the images is as normal, i.e. north\n   is up and east is to the right.\n\n                            Theory problem sheet                                       Page 3 of 9\n\nThe estimated shadow lengths, based on the images above and the scales given in the lower-left\ncorners, of them are 𝑥1 = 125 m and 𝑥2 = 780 m. Answer the following questions:\n   a) On which date do we expect the shadow to be longer? Mark the letter of your answer with\n      × on the answer sheet.                                                             (1 p)\n      (A) on June 29\n      (B) on December 16\n   b) At which time of the day did the Sentinel-2 satellites fly over this area? Mark the letter of\n      your answer with × on the answer sheet.                                                 (1 p)\n      (A) early morning\n      (B) late morning\n      (C) early afternoon\n      (D) late afternoon\n\n                              Theory problem sheet                                              Page 4 of 9\n\n      c) Based on the given shadow lengths, estimate the height of this chimney. For this calculation\n         only, assume that the satellite images were taken at local noon.                      (16 p)\n      d) What could affect the accuracy of the chimney’s derived height (more than one choice is\n         possible)? Mark the letter of your answer with × on the answer sheet.             (2 p)\n          (A) The oblate spheroid shape of the Earth.\n          (B) Limited resolution of the satellite images and the ill-defined edge of the shadow.\n          (C) The elevation of the base of the tower above sea level.\n          (D) Seasonal variation in the tilt of the Earth’s rotational axis.\n          (E) Taking into account the effect of atmospheric refraction.",
-   "total": 7,
+   "title": "The height of the chimney of Tiszaújváros power plant",
+   "weight": 20,
+   "total": 20,
+   "statement": "The European Copernicus Earth-observation programme operates two Sentinel-2 remote sensing satellites on Sun-synchronous polar orbits at about 800 km altitude. The 3rd tallest building in Hungary is the chimney of a power plant near the town Tiszaújváros. Two Sentinel-2 satellite images show shadow lengths $x_1 = 125$ m (June 29) and $x_2 = 780$ m (December 16).",
    "parts": [
     {
-     "id": "6",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "2. 1781: Discovery of Uranus"
+     "id": "6.1",
+     "points": 1,
+     "question": "On which date do we expect the shadow to be longer? Mark the letter of your answer with × on the answer sheet. (A) on June 29 (B) on December 16",
+     "reference": "(B) the one on December 16. At a given moment of the day, the Sun elevation is lower in winter on the northern hemisphere."
+    },
+    {
+     "id": "6.2",
+     "points": 1,
+     "question": "At which time of the day did the Sentinel-2 satellites fly over this area? Mark the letter of your answer with × on the answer sheet. (A) early morning (B) late morning (C) early afternoon (D) late afternoon",
+     "reference": "(B) late in the morning. The shadows point slightly west of north (approx. 9:45 UTC / 10:45 CET)."
+    },
+    {
+     "id": "6.3",
+     "points": 16,
+     "question": "Based on the given shadow lengths, estimate the height of this chimney. Assume that the satellite images were taken at local noon.",
+     "reference": "$\\tan \\alpha_1 = h/x_1$, $\\tan \\alpha_2 = h/x_2$. $\\alpha_1 - \\alpha_2 = 2\\varepsilon \\approx 45^\\circ$. Using $\\tan \\alpha_1 = \\tan(\\alpha_2 + 45^\\circ) = \\frac{1 + \\tan \\alpha_2}{1 - \\tan \\alpha_2}$.\nSubstituting and reducing: $h^2 + h(x_1 - x_2) + x_1 x_2 = 0$.\nRoots for $x_1 = 125$ m, $x_2 = 780$ m give $h_1 = 426$ m and $h_2 = 229$ m. Since $426$ m gives an impossible solar elevation in winter, $h = 229$ m (official data is 250 m)."
+    },
+    {
+     "id": "6.4",
+     "points": 2,
+     "question": "What could affect the accuracy of the chimney’s derived height (more than one choice is possible)? Mark the letter of your answer with × on the answer sheet. (A) The oblate spheroid shape of the Earth. (B) Limited resolution of the satellite images and the ill-defined edge of the shadow. (C) The elevation of the base of the tower above sea level. (D) Seasonal variation in the tilt of the Earth’s rotational axis. (E) Taking into account the effect of atmospheric refraction.",
+     "reference": "(B) and (E)"
     }
    ]
   },
   {
    "number": 7,
-   "title": "Задача 7",
-   "statement": "Effect of sunspots on solar irradiance                                                            (20 p)\n   Since 1978, the solar constant has been almost continuously measured by detectors on-board artificial\n   satellites. These accurate measurements revealed that there are seasonal, monthly, yearly, and longer\n   timescale variations in the solar constant. While the seasonal variations have their origins in the\n   periodically varying Earth–Sun distance, the decade-long quasi-cyclic variations mainly depend on the\n   activity cycle(s) of the Sun.\n      a) Calculate the value of the solar constant at the top of the Earth's atmosphere, when the Earth is\n         1 au from a perfectly quiet Sun, assuming that Sun emits as a perfect black-body.          (4 p)\n      b) Calculate the solar constant of this perfectly quiet Sun in early January and early July, and find\n         their ratio.                                                                                 (4 p)\n      c) Calculate the solar constant again at 1 au in the presence of a near equatorial sunspot with mean\n         temperature of 𝑇sp = 3300 K and diameter of sunspot, 𝐷sp = 90 000 km. Calculate the ratio -\n         blank Sun to Sun with sunspot.                                                               (7 p)\n          Assume the sunspot is circular and ignore the effects of its spherical projection. Neglect any\n          other activity features. Also assume that the Sun is rotating fast enough, hence solar irradiance\n          is still isotropic.\n      d) In reality solar irradiance is no longer isotropic. Calculate the ratio of solar irradiance for the\n         cases when the sunspot is not visible from the Earth to the case when it is fully visible.\n                                                                                                       (5 p)",
-   "total": 7,
+   "title": "Effect of sunspots on solar irradiance",
+   "weight": 20,
+   "total": 20,
+   "statement": "Since 1978, the solar constant has been almost continuously measured by detectors on-board artificial satellites, revealing seasonal, monthly, yearly, and longer timescale variations.",
    "parts": [
     {
-     "id": "7",
-     "question": "Приведите полное решение (с доказательством или выводом).",
+     "id": "7.1",
+     "points": 4,
+     "question": "Calculate the value of the solar constant at the top of the Earth's atmosphere, when the Earth is 1 au from a perfectly quiet Sun, assuming that Sun emits as a perfect black-body.",
+     "reference": "$P = A\\sigma T^4$, $I = \\frac{\\sigma 4\\pi R^2 T^4}{4π d_\\oplus^2} = \\sigma \\frac{R^2 T^4}{d_\\oplus^2} = 1365.9 \\text{ W m}^{-2}$"
+    },
+    {
+     "id": "7.2",
+     "points": 4,
+     "question": "Calculate the solar constant of this perfectly quiet Sun in early January and early July, and find their ratio.",
+     "reference": "$I_{\\text{perihelion}} = \\frac{I}{(1-e)^2} = 1412.7 \\text{ W m}^{-2}$, $I_{\\text{aphelion}} = \\frac{I}{(1+e)^2} = 1321.4 \\text{ W m}^{-2}$. Ratio = 1.0691."
+    },
+    {
+     "id": "7.3",
      "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
+     "question": "Calculate the solar constant again at 1 au in the presence of a near equatorial sunspot with mean temperature $T_{\\text{sp}} = 3300$ K and diameter $D_{\\text{sp}} = 90000$ km. Calculate the ratio - blank Sun to Sun with sunspot.",
+     "reference": "$I^0 = \\frac{\\sigma}{4d_\\oplus^2} [T^4 (4R^2 - R_{\\text{sp}}^2) + T_{\\text{sp}}^4 R_{\\text{sp}}^2] = 0.9991 I = 1364.6 \\text{ W m}^{-2}$"
+    },
+    {
+     "id": "7.4",
+     "points": 5,
+     "question": "Calculate the ratio of solar irradiance for the cases when the sunspot is not visible from the Earth to the case when it is fully visible.",
+     "reference": "$A^0 = \\frac{P_{\\text{disk}}^0}{P_{\\text{disk}}} = 1 - \\left(\\frac{R_{\\text{sp}}}{R}\\right)^2 \\left(1 - \\left(\\frac{T_{\\text{sp}}}{T}\\right)^4\\right) = 0.9963$"
     }
    ]
   },
   {
    "number": 8,
-   "title": "Задача 8",
-   "statement": "Amplitude variation of RR Lyrae stars                                                             (20 p)\n   Hungarian astronomers significantly contributed to the study of pulsating variable stars of RR Lyrae\n   type, which show cyclic amplitude modulation in their light variation (Blazhko effect)\n   The light variation of an RR Lyrae star is observed at two different wavelengths: 𝜆1 = 500 nm and\n   𝜆2 = 2000 nm. At each wavelength, we see into the star at a different depth. We refer to the depths as\n   layer 1 and layer 2. One can approximate the light intensity of a star at a given wavelength by the\n   radius and the black-body radiation intensity at the appropriate depth. Moreover, the Wien\n   approximation can be used for the black-body radiation to calculate the emitted power from unit\n   surface area:\n                                                     1         ℎ𝑐\n                                         𝐹 (𝜆, 𝑇) ∝ 𝜆5 exp (− 𝑘𝜆𝑇 ),\n\n   where ℎ is the Planck constant, 𝑘 is the Boltzmann constant, and 𝑐 is the speed of light. To simplify\n   the calculations we introduce a new constant 𝐶𝑏 = ℎ𝑐⁄𝑘 ≈ 0.0144 m K.\n\n                               Theory problem sheet                                              Page 5 of 9\n\n      a) Assume that the temperature varies between 𝑇1 = 6000 K and 𝑇2 = 7400 K in each of the\n         layers and ignoring radius variation, what is the ratio of the amplitudes of variation in\n         magnitudes at the two wavelengths?                                                   (5 p)\n      b) What is the peak to peak amplitude of the light curve at 𝜆1 ? Use the magnitude scale.        (3 p)\n      c) Ignoring temperature variation, what is the contribution of the radius variation to the light-\n         curve amplitude for a given wavelength, if 𝑅min = 0.9 〈𝑅〉 and 𝑅max = 1.05 〈𝑅〉? 〈𝑅〉 is the\n         mean radius of the given layer.                                                          (3 p)\n      d) Recent observations and models show that the radius of the photosphere is only minimally\n         modulated during the Blazhko cycle; however, the temperature variation is significant. As a\n         result, the amplitude of light curve itself keeps varying. Let us assume that during the minimum\n         amplitude of pulsation the temperature variation is reduced to 𝑇min = 6100 K and 𝑇max =\n         6900 K. What is the modulation amplitude at the two wavelengths? For the maximum\n         amplitude, use the temperature values given in part a).                                      (5 p)\n      e) Which statement is correct? (There can be more than one correct selection.) Mark the letter\n         of your answer with × on the answer sheet.                                            (4 p)\n          (A) It is easier to observe the Blazhko effect in the infrared band.\n          (B) The temperature variation dominates the visual light curve.\n          (C) If we neglect the radius variation, the amplitude is inversely proportional to the wavelength.\n          (D) Multi-colour observations are not useful in understanding the Blazhko effect.",
-   "total": 7,
+   "title": "Amplitude variation of RR Lyrae stars",
+   "weight": 20,
+   "total": 20,
+   "statement": "The light variation of an RR Lyrae star is observed at two different wavelengths: $\\lambda_1 = 500$ nm and $\\lambda_2 = 2000$ nm, probing layer 1 and layer 2. Wien approximation can be used for black-body radiation: $F(\\lambda, T) \\propto \\lambda^{-5} \\exp(-C_b / \\lambda T)$ where $C_b = hc/k \\approx 0.0144$ m K.",
    "parts": [
     {
-     "id": "8",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "0.25m − 0.15m = 0.1m , that is a significant difference.\n  e) B and C\n\n                               Page 10\n\n                                 20 p\n\n                                 (1 p)\n\n                          Cb\nlog e                            (1 p)\n                          λT\n\n   1            1\n                      ã\n           −                     (1 p)\n  Tmin         Tmax\n\n                                 (1 p)\n\n                                 (1 p)\n\n                                 (2 p)\n\n                                 (1 p)\n\n                                 (2 p)\n\n                                 (1 p)\n\n                                 (1 p)\n\n       ã\n           = 0.6m                (2 p)\n\n                                 (2 p)\n\n= 2000 nm it is reduced to\n\n                                 (4 p)\n\n                                                Theory                                              Page 11\n\n                                                                                                       20 p"
+     "id": "8.1",
+     "points": 5,
+     "question": "Assume that the temperature varies between $T_1 = 6000$ K and $T_2 = 7400$ K in each of the layers and ignoring radius variation, what is the ratio of the amplitudes of variation in magnitudes at the two wavelengths?",
+     "reference": "$A(\\lambda) \\propto \\lambda^{-1}$. Thus $\\frac{A(\\lambda_1)}{A(\\lambda_2)} = \\frac{\\lambda_2}{\\lambda_1} = 4$"
+    },
+    {
+     "id": "8.2",
+     "points": 3,
+     "question": "What is the peak to peak amplitude of the light curve at $\\lambda_1$? Use the magnitude scale.",
+     "reference": "$A_{\\text{max}}(\\lambda_1) = \\frac{2.5 \\log e \\ C_b}{\\lambda_1} \\left(\\frac{1}{T_{\\text{min}}} - \\frac{1}{T_{\\text{max}}}\\right) = 1^m$"
+    },
+    {
+     "id": "8.3",
+     "points": 3,
+     "question": "Ignoring temperature variation, what is the contribution of the radius variation to the light-curve amplitude for a given wavelength, if $R_{\\text{min}} = 0.9 \\langle R \\rangle$ and $R_{\\text{max}} = 1.05 \\langle R \\rangle$?",
+     "reference": "$A(\\lambda) = 5 \\log \\frac{R_{\\text{max}}}{R_{\\text{min}}} = 5 \\log \\frac{1.05}{0.9} = 0.33^m$"
+    },
+    {
+     "id": "8.4",
+     "points": 5,
+     "question": "During minimum amplitude of pulsation the temperature variation is reduced to $T_{\\text{min}} = 6100$ K and $T_{\\text{max}} = 6900$ K. What is the modulation amplitude at the two wavelengths? For maximum amplitude, use values from part a.",
+     "reference": "At $\\lambda_1$, $A_{\\text{min}}(\\lambda_1) = 0.6^m$. Amplitude changes by $1^m - 0.6^m = 0.4^m$ at $\\lambda_1$ and $0.25^m - 0.15^m = 0.1^m$ at $\\lambda_2$."
+    },
+    {
+     "id": "8.5",
+     "points": 4,
+     "question": "Which statement is correct? Mark the letter of your answer with × on the answer sheet. (A) It is easier to observe the Blazhko effect in the infrared band. (B) The temperature variation dominates the visual light curve. (C) If we neglect the radius variation, the amplitude is inversely proportional to the wavelength. (D) Multi-colour observations are not useful in understanding the Blazhko effect.",
+     "reference": "B and C"
     }
    ]
   },
   {
    "number": 9,
-   "title": "Задача 9",
-   "statement": "Distance of the Lagrangian point L2 of the Earth–Moon system                                       (20 p)\n   On 3 January 2019, the Chinese spacecraft Chang’e-4 landed on the far side of the Moon in the area\n   of the von Kármán crater, which was named after the world famous Hungarian-born physicist\n   Theodore von Kármán.\n   As the Earth remains below the horizon of the spacecraft all the time, a relay station is also necessary\n   for the communication with mission control on the Earth. For this purpose, The Chinese Space Agency\n   launched a spacecraft, Queqiao, which was placed into a halo orbit around the outer Lagrangian point\n   of the Earth–Moon system, L2, the far side of the Moon.\n   Calculate the distance (ℎ) of this satellite above the surface of the Moon. The Moon’s orbit should be\n   considered as a perfect circle with a radius of 𝑅 = 384 400 km. Neglect perturbations from the Sun\n   and other planets.\n   Hint: You can use the following approximation: 1/(1 + 𝑥)2 ≈ 1 − 2𝑥, if |𝑥 | ≪ 1.",
-   "total": 7,
+   "title": "Distance of the Lagrangian point L2 of the Earth–Moon system",
+   "weight": 20,
+   "total": 20,
+   "statement": "The Chinese spacecraft Queqiao was placed into a halo orbit around the outer Lagrangian point $L_2$ of the Earth–Moon system. Calculate the distance ($h$) of this satellite above the surface of the Moon. The Moon’s orbit should be considered as a perfect circle with radius $R = 384400$ km. Neglect perturbations from the Sun and other planets.",
    "parts": [
     {
-     "id": "9",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
+     "id": "9.1",
+     "points": 20,
+     "question": "Calculate the distance $h$ of the satellite above the surface of the Moon.",
+     "reference": "Equation of motion for $L_2$: $\\frac{M+m+M}{\\dots}$ or using $\\frac{M+m}{R^3} = \\frac{\\omega^2}{G}$ and approximation $(1+x)^{-2} \\approx 1-2x$.\nResulting in $x^3 = \\frac{m}{3M+m} \\implies x = 0.15983$.\n$r = x R_{\\text{Moon}} = 61440$ km.\n$h = r - R_{\\text{Moon}} = 61440 - 1737 = 59703$ km."
     }
    ]
   },
   {
    "number": 10,
-   "title": "Задача 10",
-   "statement": "South → East → North                                                                              (20 p)\n\n   Consider the Earth as a perfect, rigid, sphere with radius 𝑅 = 6378 km. There exist some points on\n   the surface of the Earth from which we can travel first 6378 km South, then 6378 km East, and after\n   that 6378 km North, and as a result return to the original point of departure. Find such points and paths.\n   Calculate the geographic coordinates of the turning points of your solutions and draw the paths.\n   For the sake of simplicity measure the geographic longitude from 0° to +360° eastward from\n   Greenwich, the geographic latitude from 0° to +90° north of the Equator and from 0° to −90° south of\n   the Equator. Solutions resulting from rotational symmetry should not be considered to be different.\n\n                                Theory problem sheet                                              Page 6 of 9",
-   "total": 7,
+   "title": "South → East → North",
+   "weight": 20,
+   "total": 20,
+   "statement": "Consider the Earth as a perfect, rigid, sphere with radius $R = 6378$ km. Find points on the surface from which we can travel first 6378 km South, then 6378 km East, and after that 6378 km North, and return to the original point. Calculate geographic coordinates of turning points and draw paths.",
    "parts": [
     {
-     "id": "10",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "10. South → East → North"
+     "id": "10.1",
+     "points": 2,
+     "question": "Find the trivial solution (point and path).",
+     "reference": "The North Pole (N) is a trivial solution."
+    },
+    {
+     "id": "10.2",
+     "points": 3,
+     "question": "Find the coordinates of the turning points for $s = 6378$ km (a-type curve starting from North Pole).",
+     "reference": "$\\lambda_A = 0^\\circ$, $\\lambda_B = 68.09^\\circ$, $\\phi_A = \\phi_B = 32.704^\\circ$"
+    },
+    {
+     "id": "10.3",
+     "points": 15,
+     "question": "Find the non-trivial solutions (starting points and turning points) for $s = 6378$ km.",
+     "reference": "For $s = 6378$ km, the first 5 values for $\\phi_D$ and $\\phi_C$:\n$\\phi_{D1} = -80.842^\\circ, \\phi_{D2} = -85.436^\\circ, \\phi_{D3} = -86.959^\\circ, \\phi_{D4} = -87.72^\\circ, \\phi_{D5} = -88.176^\\circ$\n$\\phi_{C1} = -23.546^\\circ, \\phi_{C2} = -28.14^\\circ, \\phi_{C3} = -29.663^\\circ, \\phi_{C4} = -30.424^\\circ, \\phi_{C5} = -30.88^\\circ$"
     }
    ]
   },
   {
    "number": 11,
-   "title": "Задача 11",
-   "statement": "Identification of light curves of types of selected variable stars                                 (25 p)\n   TESS (Transiting Exoplanet Survey Satellite) is NASA’s most recent exoplanet hunter mission. It has\n   been surveying the southern sky to locate exoplanets around the brightest and closest stars, along with\n   a large number of time-variable phenomena (pulsating and eclipsing variable stars, supernovae, stellar\n   flares, and asteroids among others).\n   On the separate sheet you will find graphs with light curve plots of 8 periodic variable stars (intrinsic,\n   eclipsing and rotational; namely FO Eri, RW Dor, 24 Eri, TIC 147272181, ST Pic, UY Eri, VV Ori,\n   AH Col) from the TESS target list, numbered from 1 to 8. The horizontal axis is BJD − 2 400 000 in\n   days, and the vertical axis is 𝑉 in magnitudes, where BJD is the Barycentric Julian Date, and 𝑉 is the\n   visual brightness.\n       a) Below is a list of variable star types. Match each light curve of the star with its variability type\n          by writing its number into the rectangle on the answer sheet.                                  (8 p)\n           •   Heart-beat star\n           •   RR Lyrae type (RRab subclass) pulsating variable star\n           •   Eclipsing binary of Algol type (semi-detached) with a pulsating component\n           •   α2 CVn pulsating variable star\n           •   W Vir type (Population II) Cepheid pulsating variable star\n           •   Detached eclipsing binary with strong reflection effect\n           •   Contact eclipsing binary of W UMa type\n           •   Rotationally variable (spotted) star\n       b) Based on the light curve plots, estimate the periods of each variable star in days. Give your\n          answers on the answer sheet up to 2 decimal places. Periods in the range ±5% of the true\n          periods are acceptable.                                                                 (16 p)\n       c) What type of astronomical object produced the TESS light curve shown in the figure below?\n          Mark the letter of your answer with × on the answer sheet.                           (1 p)\n\n           (A) Microlensing event\n           (B) Saturated galaxy due to the proximity of Mars\n           (C) Comet’s coma close to the edge of the camera field\n           (D) Supernova in a distant galaxy\n           (E) Superflare on a supergiant star\n\n                                Theory problem sheet                                              Page 7 of 9",
-   "total": 7,
+   "title": "Identification of light curves of types of selected variable stars",
+   "weight": 25,
+   "total": 25,
+   "statement": "On the separate sheet you will find graphs with light curve plots of 8 periodic variable stars from the TESS target list, numbered from 1 to 8 (FO Eri, RW Dor, 24 Eri, TIC 147272181, ST Pic, UY Eri, VV Ori, AH Col).",
    "parts": [
     {
-     "id": "11",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "8. 1963: First identification of a quasar with an optical source"
+     "id": "11.1",
+     "points": 8,
+     "question": "Match each light curve of the star with its variability type by writing its number into the rectangle on the answer sheet.",
+     "reference": "• Heart-beat star: 8\n• RR Lyrae type (RRab subclass): 4\n• Eclipsing binary of Algol type with pulsating component: 6\n• \\alpha^2 CVn star: 5\n• W Vir type Cepheid: 3\n• Detached eclipsing binary with strong reflection: 2\n• Contact eclipsing binary of W UMa type: 1\n• Rotationally variable (spotted) star: 7"
+    },
+    {
+     "id": "11.2",
+     "points": 16,
+     "question": "Estimate the periods of each variable star in days up to 2 decimal places (±5% tolerance).",
+     "reference": "1. RW Dor: P ≈ 0.29 d\n2. FO Eri: P ≈ 2.20 d\n3. UY Eri: P ≈ 2.21 d\n4. ST Pic: P ≈ 0.49 d\n5. AH Col: P ≈ 1.10 d\n6. VV Ori: P ≈ 1.49 d\n7. TIC 147272181: P ≈ 0.55 d\n8. 24 Eri: P ≈ 8.12 d"
+    },
+    {
+     "id": "11.3",
+     "points": 1,
+     "question": "What type of astronomical object produced the TESS light curve shown in the figure? Mark the letter with ×. (A) Microlensing event (B) Saturated galaxy due to proximity of Mars (C) Comet’s coma close to the edge of the camera field (D) Supernova in a distant galaxy (E) Superflare on a supergiant star",
+     "reference": "(D) Supernova in a distant galaxy (ASASSN-18tb)"
     }
    ]
   },
   {
    "number": 12,
-   "title": "Задача 12",
-   "statement": "Distance to a Near-Earth Asteroid                                                                  (25 p)\n   Assume that a Near-Earth Asteroid is observed by two astronomers, one from Nagykanizsa, Hungary\n   and one from Windhoek, Namibia. The longitudes of the two cities are exactly 17° east of Greenwich.\n   They observe the asteroid when it crosses their respective meridians. The Nagykanizsa-observer sees\n   the asteroid 25° south of his zenith at this instant, while the Windhoek-observer sees it 45° north of his\n   zenith at the same instant. The latitudes of the two cities are 46°27’ N and 22°34’ S, respectively. The\n   sites of both astronomers are at sea level.\n      a) Draw a diagram of the geometric configuration.                                                 (5 p)\n      b) What is the distance of this asteroid from the centre of the Earth, expressed in units of Earth-\n         radii and the average Earth-Moon distance? Provide a solution which makes use of all available\n         information. Neglect the effect of the atmospheric refraction.                            (20 p)",
-   "total": 7,
+   "title": "Distance to a Near-Earth Asteroid",
+   "weight": 25,
+   "total": 25,
+   "statement": "A Near-Earth Asteroid is observed from Nagykanizsa, Hungary (lat 46°27' N, long 17° E) and Windhoek, Namibia (lat 22°34' S, long 17° E) when it crosses their respective meridians. Nagykanizsa observer sees it 25° south of zenith, Windhoek observer sees it 45° north of zenith at the same instant.",
    "parts": [
     {
-     "id": "12",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "12. Distance to a Near-Earth Object\n\n  a) The geometric situation is the following:                                                          (5 p)\n                                                        Zenith in Nagykanizsa\n\n                                                                                        Equator\n\n                                                              Zenith in Windhoek\n\n                   Fig. 12.1: N : Nagykanizsa, W : Windhoek, O: centre of\u0001Earth, A: asteroid,\n               D: distance from the centre of Earth to the asteroid D = OA , R: radius of the Earth\n\n b) One can recognize that the triangle N OW is an isosceles triangle, two sides (ON and OW ) are equal\n    to each other in length:\n\n     (12.1) ON = OW = R                                                                                 (1 p)\n\n     Therefore the angles α = ON W ^ = OWN ^. For the N OW triangle we can write, that:\n                                                   ϕ1 + ϕ2\n     (12.2) 2α + ϕ1 + ϕ2 = 180° → α = 90° −                                                             (1 p)\n                                                      2\n     Let us denote the direct – i.e. measured through the body of the Earth, not on the surface – distance\n     between Nagykanizsa and Windhoek by d: d = N W . This distance can be obtained straightforward\n     by the cosine theorem (one has to take care that the absolute values of the latitudes should be added\n     inside the cosine function):\n                 »                                  »\n     (12.3) d = R2 + R2 − 2R2 cos(ϕ1 + ϕ2 ) = R 2(1 − cos(ϕ1 + ϕ2 ))                                  (2 p)\n\n     With numerical values:\n\n          d = 1.133 05 R                                                                                (1 p)\n\n     Let us use the following notations:\n\n     (12.4) x1 = NA, x2 = WA, p = p1 + p2\n\n     For the N OWA quadrilateral we can write that:\n\n     (12.5) ϕ1 + ϕ2 + (180° − z1 ) + p + (180° − z2 ) = 360°                                            (1 p)\n\n     and therefore:\n\n     (12.6) p = z1 + z2 − (ϕ1 + ϕ2 )                                                                    (1 p)\n\n                                            Theory                                                   Page 20\n\nFor the N WA triangle we can write that:\n\n         x1   sin(180° − z2 − α)     x2   sin(180° − z1 − α)\n(12.7)      =                    and    =                                                              (2 p)\n         d           sin p           d           sin p\nThus:\n                       sin(z2 + α)                          sin(z1 + α)\n(12.8) x1 = d                             and x2 = d                                                   (2 p)\n                sin(z1 + z2 − (ϕ1 + ϕ2 ))            sin(z1 + z2 − (ϕ1 + ϕ2 ))\n\nD can be obtained either from the triangle NOA or WOA by the cosine theorem:\n\n(12.9) D2 = R2 + x21 − 2Rx1 cos(180° − z1 )\n\nor\n\n(12.10) D2 = R2 + x22 − 2Rx2 cos(180° − z2 )                                                           (2 p)\n\nLet us take the sum of them:\n\n(12.11) 2D2 = 2R2 + (x21 + x22 ) + 2R(x1 cos z1 + x2 cos z2 ),                                         (1 p)\n\nwhere we have used that cos(180° − x) = − cos x.\n(If someone determines D only from one of the two (NOA, WOA) triangles, 1 point can be deducted,\nbecause that means, we ignore the error bars of one of the measurements in a significant way.)\nAfter substitution and dividing by two one gets:\n\n                        sin2 (z1 + α) + sin2 (z2 + α)      sin(z2 + α) cos z1 + sin(z1 + α) cos z2\n(12.12) D2 = R2 + d2          2                       + Rd                                             (3 p)\n                        2 sin (z1 + z2 − (ϕ1 + ϕ2 ))              sin(z1 + z2 − (ϕ1 + ϕ2 ))\n\nThis contains only known quantities. After substitution we get (notice that for alpha and D we need\nthe absolute values of the geographical latitudes):\n\n        α = 55.5°                                                                                      (1 p)\n\n        D = 65.8 R = 1.1 dMoon                                                                         (2 p)\nSo, the asteroid is at 65.8 Earth-radii from the centre of the Earth. This is slightly more than the\ndistance to the Moon.\n\n                                               Theory                                             Page 21\n\n                                                                                                    40 p"
+     "id": "12.1",
+     "points": 5,
+     "question": "Draw a diagram of the geometric configuration.",
+     "reference": "Geometric figure showing points N, W, O, and asteroid A with zenith angles."
+    },
+    {
+     "id": "12.2",
+     "points": 20,
+     "question": "What is the distance of this asteroid from the centre of the Earth, expressed in units of Earth-radii and the average Earth-Moon distance?",
+     "reference": "$\\alpha = 55.5^\\circ$, $d = 1.13305 R$.\n$D = 65.8 R = 1.1 d_{\\text{Moon}}$. The asteroid is at 65.8 Earth-radii from the centre of the Earth."
     }
    ]
   },
   {
    "number": 13,
-   "title": "Задача 13",
-   "statement": "Distance to the Coma galaxy cluster                                                                (40 p)\n   The Coma galaxy cluster (Abell 1656) has an angular diameter on the sky of about 100 arcminutes,\n   and contains more than 1000 individual galaxies, most of which are dwarf and giant ellipticals orbiting\n   the common center of mass of the cluster in approximately circular orbits. The table below lists the\n   measured radial velocities of a few individual cluster member galaxies.\n              No. 𝑣r (km/s) No. 𝑣r (km/s) No. 𝑣r (km/s) No. 𝑣r (km/s)\n               1     6001    6     7116   11     7156   16     7111\n               2     7666    7     7004   12     7522   17     8292\n               3     6624    8     4476   13     7948   18     5358\n               4     5952    9     6954   14     4951   19     4957\n               5     5596   10     8953   15     7797   20     7183\n\n   a) Derive the distance of the cluster from the mean radial velocity of the galaxies listed in the table.\n                                                                                                      (8 p)\n   b) Estimate the physical diameter of the cluster (in Mpc).                                           (4 p)\n   c) The virial theorem states that if the galaxy cluster is in dynamic equilibrium, then the mean kinetic\n      energy, 〈𝐾 〉, and the mean gravitational potential energy, 〈𝑈〉, are related by\n                                                 −2〈𝐾 〉 = 〈𝑈〉\n       assuming the Coma cluster is spherical.\n       For simplicity, assume that each galaxy has approximately the same mass, 𝑚.\n       Use the virial theorem to prove that, in this case, the cluster mass 𝑀 (also called as the virial mass)\n       can be expressed as\n                                                          5𝑅 2\n                                                    𝑀=      𝜎\n                                                          𝐺 r\n       where 𝜎r2 is the velocity dispersion of the cluster.                                            (10 p)\n\n                               Theory problem sheet                                              Page 8 of 9\n\n   The formula for standard deviation:\n\n                                                  ∑𝑛𝑖=1(𝑥𝑖 − 𝑥̅ )2\n                                               𝜎=√\n                                                       𝑛−1\n\n   d) Using the data in the table, estimate the virial mass of the Coma cluster in solar masses.      (12 p)\n   e) The total luminosity of the Coma cluster (in solar luminosity, 𝐿☉ ) is 𝐿 ≈ 5 × 1012 L☉ . Calculate\n      the mass-luminosity ratio of the cluster in solar mass per solar luminosity units.           (2 p)\n   f) Which of the following statements is true (more than one answer is possible)? Mark the letter of\n      your answer with × on the answer sheet.                                                    (4 p)\n          (A) The mass-luminosity ratio of the Coma cluster is much higher than that of a typical spiral\n              galaxy, like the Milky Way.\n          (B) The mass-luminosity ratio of the Coma cluster is similar to that of a typical spiral galaxy.\n          (C) The mass-luminosity ratio of the Coma cluster is much less than that of a typical spiral\n              galaxy.\n          (D) The Coma cluster contains much more dark matter than a typical spiral galaxy.\n          (E) The Coma cluster contains much less dark matter than a typical spiral galaxy.",
-   "total": 7,
+   "title": "Distance to the Coma galaxy cluster",
+   "weight": 40,
+   "total": 40,
+   "statement": "The Coma galaxy cluster (Abell 1656) has an angular diameter of about 100 arcminutes and contains more than 1000 galaxies. Radial velocities of 20 member galaxies are given in a table. $H_0 = 70 \\text{ km s}^{-1} \\text{ Mpc}^{-1}$.",
    "parts": [
     {
-     "id": "13",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
+     "id": "13.1",
+     "points": 8,
+     "question": "Derive the distance of the cluster from the mean radial velocity of the galaxies listed in the table.",
+     "reference": "Mean radial velocity $\\langle v_r \\rangle \\approx 6731 \\text{ km s}^{-1}$. Distance $D = \\frac{\\langle v_r \\rangle}{H_0} = 96 \\text{ Mpc}$."
+    },
+    {
+     "id": "13.2",
+     "points": 4,
+     "question": "Estimate the physical diameter of the cluster (in Mpc).",
+     "reference": "Angular diameter $\\theta = 100' = 1.67^\\circ = 0.0291$ rad. Physical diameter $d = \\theta D = 2.80$ Mpc."
+    },
+    {
+     "id": "13.3",
+     "points": 10,
+     "question": "Use the virial theorem to prove that the cluster mass $M$ can be expressed as $M = \\frac{5R\\sigma_r^2}{G}$.",
+     "reference": "Derivation using $\\langle K \\rangle = \\frac{3}{2}m\\sigma_r^2$, $\\langle U \\rangle = -\\frac{3}{5}\\frac{GMm}{R}$, and $-2\\langle K \\rangle = \\langle U \\rangle$."
+    },
+    {
+     "id": "13.4",
+     "points": 12,
+     "question": "Using the data in the table, estimate the virial mass of the Coma cluster in solar masses.",
+     "reference": "Velocity dispersion $\\sigma_{r,N} \\approx 1184 \\text{ km s}^{-1}$ (or 1214). Using $R \\approx 1.40$ Mpc, $M \\approx 2.28 \\times 10^{15} M_\\odot$ (or $2.40 \\times 10^{15} M_\\odot$)."
+    },
+    {
+     "id": "13.5",
+     "points": 2,
+     "question": "Total luminosity $L \\approx 5 \\times 10^{12} L_\\odot$. Calculate the mass-luminosity ratio of the cluster in solar mass per solar luminosity units.",
+     "reference": "$M/L \\approx 455 - 480 M_\\odot / L_\\odot$."
+    },
+    {
+     "id": "13.6",
+     "points": 4,
+     "question": "Which statements are true? Mark with ×. (A) Mass-Luminosity ratio of Coma is much higher than that of a typical spiral galaxy. (B) Similar. (C) Much less. (D) Coma contains much more dark matter than a typical spiral galaxy. (E) Much less.",
+     "reference": "(A) and (D)"
     }
    ]
   },
   {
    "number": 14,
-   "title": "Задача 14",
-   "statement": "Photographing a nanosatellite                                                                     (60 p)\n   The very first, entirely Hungarian-made, satellite was \"MASAT–1\", a nanosatellite \"cubesat\". It was\n   made mostly of aluminium with total mass 1 kg, sides length l = 10 cm and a longer communication\n   aerial. It was designed and prepared at the Technical University of Budapest (BME) in 2009 by\n   students. The launch occurred on February 13, 2012, using a Vega rocket from the Kourou launch site\n   – together with several other cubesats from other countries. It operated successfully right up to the last\n   minutes of its lifetime (the transmitted last data packages were captured by radio receivers on the\n   evening of January 9, 2015, a few hours later the nanosatellite re-entered the atmosphere and\n   disintegrated).\n\n                           Theory problem sheet                                            Page 9 of 9\n\nThe orbital altitude of MASAT–1 changed between ℎmin = 350 km and ℎmax = 1450 km (due to its\nhighly eccentric orbit), but in this question assume it to be in a circular orbit 900 km above the sea\nlevel.\nThe MASAT team wished to photograph their nanosatellite from the ground. Thus, they called the\nstaff of Baja Astronomical Observatory (South Hungary, 𝜆B = 19.010843°, 𝜑B = 46.180329°, ℎB =\n100 m) to photograph the orbiting MASAT–1 with their telescope.\nThe observatory has a Ritchey-Chrétien type reflecting telescope with a diameter of 50 cm, and focal\nratio of f/8.4. The CCD camera installed on the telescope had a 4096×4096 chip with 9 µm sized square\npixels. The quantum efficiency of the CCD was about 70 %. The practical detection limit was about\n19.5m visual band applying a 𝜏exp = 2 min exposure time. Disregard any effects of seeing. The orbital\ninclination of MASAT–1 was about i=70° and the direction of the orbital motion was the same as the\nEarth rotation. In addition, let us assume that the reflection area always is 100 cm2. Throughout this\nevent, the telescope was pointed to the local zenith, and its RA motor was tracking the stars. Consider\nonly light from the Sun, you can ignore light reflected from Earth and Moon. Ignore the effects of\natmospheric extinction.\n   a) Calculate the apparent visual magnitude of this cubesat under ideal observational\n      circumstances, i.e. when it was at the local zenith of the observing site (Baja, Hungary) at\n      midnight. Omit all atmospheric effects, and consider the Earth to be a sphere. The albedo of a\n      specular aluminium plate is 𝑎 ≈ 0.70.                                                   (10 p)\n       Hint: Use a comparison of MASAT–1 with the Full Moon.\n   b) What was the Observatory’s answer to the MASAT team; would it ever be possible to\n      photograph their nanosatellite with the existing equipment at the observatory? Mark \"YES\"\n      or \"NO\" on the answer sheet. Support your answer with detailed calculations.         (42 p)\n   c) What would have been the answer if they had taken into account the blurring effect of the\n      atmosphere, the so-called seeing? In Hungary the typical FWHM (Full Width at Half\n      Maximum) value of the blurred stellar images – which can be approximated by a symmetric\n      2D Gaussian profile close to the zenith – is about 3.5″. Mark \"YES\" or \"NO\" or \"Close to\n      the limit\" on the answer sheet. Support your answer with a short calculation.       (8 p)\n       Hint: Although the illumination of the seeing spot in the focal plane can be approximated by a\n       symmetric 2D Gaussian profile, you can take it to be homogeneous in your calculation.",
-   "total": 7,
+   "title": "Photographing a nanosatellite",
+   "weight": 60,
+   "total": 60,
+   "statement": "The Hungarian nanosatellite MASAT-1 ($10 \\times 10$ cm aluminum cubesat, mass 1 kg) was in a circular orbit 900 km above sea level. Baja Astronomical Observatory ($50$ cm RC telescope, f/8.4, $4096 \\times 4096$ CCD with $9 \\mu$m pixels, detection limit $19.5^m$ for 2 min exposure) attempted to photograph it.",
    "parts": [
     {
-     "id": "14",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
+     "id": "14.1",
+     "points": 10,
+     "question": "Calculate the apparent visual magnitude of this cubesat under ideal observational circumstances at zenith at midnight, ignoring atmospheric effects.",
+     "reference": "$m_{\\text{MASAT}} = 9.72^m$ by comparison with the Full Moon and accounting for distances and albedos."
+    },
+    {
+     "id": "14.2",
+     "points": 42,
+     "question": "Would it ever be possible to photograph their nanosatellite with the existing equipment (ignoring seeing)? Support with detailed calculations and mark \"YES\" or \"NO\".",
+     "reference": "Angular speed of satellite $\\omega_r \\approx 1696.8''/\\text{s}$. Relative speed $\\Delta\\omega \\approx 1693.3''/\\text{s}$. Pixel scale $S = 0.049 \\mu\\text{m}^{-1}$, pixel size on sky $0.44''$.\nEffective trace magnitude $m_{\\text{MASAT,trace}} \\approx 23.9^m$, which is far below the $19.5^m$ detection limit.\nAnswer: NO."
+    },
+    {
+     "id": "14.3",
+     "points": 8,
+     "question": "What would have been the answer if they had taken into account the blurring effect of the atmosphere (seeing FWHM = 3.5'')? Mark \"YES\", \"NO\", or \"Close to the limit\" and support with a short calculation.",
+     "reference": "Seeing expands the $19.5^m$ star over $\\approx 50$ pixels, reducing its per-pixel flux. The fast-moving satellite image remains diffraction-limited during its transit across a pixel. With seeing, $m_{\\text{MASAT,trace}} \\approx 19.6^m$, which is near the detectability limit.\nAnswer: YES."
     }
    ]
   }

@@ -7,28 +7,80 @@
  "tasksFile": "olympiads/astronomy/s/iao/2015/astro-3-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "whole-document",
- "generatedAt": "2026-11-09T18:21:44.643Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:15:55.984Z",
  "quality": {
-  "tasks": 1,
-  "parts": 1,
-  "withPoints": 1,
+  "tasks": 2,
+  "parts": 7,
+  "withPoints": 7,
   "withReference": 0,
-  "withQuestion": 1,
-  "estimatedPoints": 1
+  "withQuestion": 7,
+  "estimatedPoints": 7
  },
  "tasks": [
   {
-   "number": 1,
-   "title": "Задания тура",
-   "statement": "АСТРОНОМИЧЕСКОЕ              EURO-ASIAN              Round\nОБШЕСТВО           —      ASTRONOMICAL SOCIETY\nм——\n. 7    XX M                                                        Group  а\n©           еждународная астрономическая олимпиада\nЖ”.     е       ХХ International Astronomy Olympiad\noe                                                              „ | язык | Ей glish\n0;          (isi       Россия, Татарстан, Казань      15-23. Х. 2015      Kazan, Tatarstan, Russia\n—— ы 22222222\nPractical round. Problems to solve\n6. The extinction in terrestrial atmosphere.\n\nExtinction is a term used in astronomy to describe light attenuation due to its absorption and\nscattering.\n\nA star was observed at different zenith distances  during one night at the Engelgardt’s\nAstronomical Observatory in the program of atmospheric extinction study at blue. Astronomers use\nparameter X, air mass, as an extinction characteristic. This parameter corresponds to relative length\nof the ray’s way in the atmosphere. That means X = 1 for zenith, X = 2/3\"? for z = 30°: X = 2 for\nZ = 60° and so on.\n\nThe determination of the star’s brightness was performed with the method of photon counting.\nThe 3™ column includes number n — the quantity of photons which\nwere detected during one second. A luminescent source was used\nfor calibration the data of observations. It produces a stable flow of   | 39.7 | [15135 |\nphotons N = 9900 + 100 per second, which is equal to magnitude  _ 45.6 [| | 13816 | 0\nmb = 9.64™ beyond the terrestrial atmosphere.                            | 49.5 | | 13180 |\n\n6.1. Draw the table (similar to that you see right) in your answer [53.0 | |12246 |\nbook. Calculate the air mass for given zenith distances іп 15  | 54.9 | | 11800 |\ncolumn, and write the result into the 274 column.                            | 58.2 | |10089 |\n6.2. Calculate relative magnitude of the star Amb (blue), and\nwrite the result into the 4\" column. Use the luminescent source as standard for the relative\nmagnitudes.\n6.3. Find functional relation between Amb and X with a help of graphical method.\n6.4. Determine the magnitude of this star as it was observed in zenith.\n7. Variable star.\n\nA variable star was explored at the RTT-150  Russian-Turkish         JD         My\ntelescope in 2003. The observations were performed during whole night | 2452805.3543 16.67\nat the first time, the 15 table. The brightness of the variable star was | 2452805.3712  16.57\nmeasured occasionally during the other nights, and moments of maximal    2452805.3869 16.03\nvalues of brightness (15.59™) were received on nights 2-5, the 2\" table. | 2452805.4026 15.69\nThe time is in Julian days, and my is the  yellow spectral colour | 2452805.4161 15.59\nmagnitude.                                                             2452805.4512 15.80\n7.1. Plot the light curve (magnitude vs time function), determine the | 2452805.5152 16.14\nmoment of maximum in the first night and write result (in Julian days) in | 2452805.5848 16.32\n\nform of «Tp = ...».                                                             2452805.6676 16.58\n7.2. Calculate the period of the variable star using the data of all 5 | 2452805.7734 16.68\nnights. Here period means the time between two closest maximums of | 2452805.8421 1663\nthe brightness. But actually astronomers usually do not know how many | 2452805.8643 16.62\nperiods were passed between two observed maximums, because | 2452805.9068 16.73\nappropriate weather can not be same every day and a few periods can\npass between two observed maximums.                                       cs |15501\n7.3. What type of variable star is this — eclipsing binary or pulsating\nvariable star. (Write in English: Eclipsin   Pulsati       tivel\nь                   :     psing or Pulsating respectively.)\n| 4 |2452839.5858 15.59\n_— Россия, Татарстан, Казань о\n\nАСТРОНОМИЧЕСКОЕ                EURO-ASIAN                Round\nОБЩЕСТВО          5     ASTRONOMICAL SOCIETY\nЧ“Зр a оғонр  8\n7 хх  Международная астрономическая олимпиада\n- ША      ж       XX International Astronomy  Olympiad\n№;  Ез     жо       Россия, Татарстан, Казань      15 - 23. X. 2015      Kazan, Tatarstan, Russia    English\nм. language|\nPractical round. Problems to solve\n6. The extinction in terrestrial atmosphere.\nExtinction is a term used in astronomy to describe light attenuation due to its absorption and\nscattering.                       ,\n‘A star was observed at different zenith  distances during one night at the  Engelgarat’s\nAstronomical Observatory in the program of atmospheric extinction study at blue. Astronomers use\nparameter X, air mass, as an extinction characteristic. This parameter corresponds to relative length\nof the ray’s way in the atmosphere. That means X = 1 for zenith, X = 2/3\" for z 30°; X = 2 for\n2 = 60° and so on.\nThe determination of the star’s brightness was performed with the method of photon counting.\nThe 3% column includes number п - the quantity of photons which              X\nwere detected during one second. A luminescent source was used   he te\nfor calibration the data of observations. It produces a Stable flow of     39.7  | [15135 [|\nphotons N = 9900 + 100 per second, which is equal to magnitude   а-ны |\nmb = 9.64\" beyond the terrestrial atmosphere.\n\n6.1. Draw the table (similar to that you see right) in your answer   53.0 | [12246 | _\nbook. Calculate the air mass for given zenith  distances in 15!   |544. 11800:\ncolumn, and write the result into the 27 column.                          | 58.2 | |  10089\n\n6.2. Calculate relative  magnitude of the star Amb (blue), and                               -\nwrite the result into the 48 column. Use the luminescent source as standard for the relative\nmagnitudes.\n\n6.3. Find functional relation between Amb and X with a help of graphical method.\n\n6.4. Determine the magnitude of this star as it was observed in zenith.\n\nPractical round. Problems to soive\n7. Spectral observations.\n\nAstronomer performed spectral observations of a Single star at the one and a half meter KFU\ntelescope RTT-150 during a year. The spectrograms with marks of observation time are given to you\nfor analysis (see separate sheet).\n\nThe abscissa is wavelength, the ordinate is intensity in arbitrary units. Spectra are shifted by Y-\naxis for better visibility. The same spectrum with laboratory wavelengths is drawn by the bold line.\n\nIt's recommended to measure at least two spectral lines for better accuracy.\n\n--Ше [measur [ak Fr 7\nІ-ІІ ee\n7.1. Draw a table in form of the above example (columns 2, 3, 4 must be replicated as much, as\nmany lines you measured). Calculate the radial velocity Vr of the star on each date, the results of\nmeasurements and write calculations into the table.\n7.2. Plot the radial velocity curve, the graph of Vr vs time function.\n7.3. Find equatorial coordinates of the star.\n7.4. Indicate the accuracy of radial velocity in your measurements.\nРоссия, Татарстан, Казань                  зэпагк                  а =\n\nот cmon Пошта | Prac |\n\n“rT      еждународная Ж ономическая олимпиада    шіні ЕЗ\n\nжФ е; \" к Internatione Astronomy Olympiad |\nРис. к задаче 7.                                   Fig. for problem 7.\n\n2400                   |\n7200 AE RCIA Е  у\nЕ\n1воо ВИННИ (КТ Ce eta ae р\n\nІН ІН НІП ПИ Ру Mi | HH т ТД ТЕН И Ш HM  ma 12.04.2002\n1600 ВАЛ ve Aa Bs Yau bok IGA rea 0 ШЕ\n1400 | rae мн, Се ЕНІН ІШЕ\n1200 НЕЕ Е\n\nгі ШОН  ih ІН НЕА р 11.01.2002\n1000  тү! NA iL     | тақ tes ai Gn | Ші\n800 HN) Г  |  ІІІ    |  |\n«И\n200  |          |  |  |     |     |\n\n5505 5610 5515 5520 5525 5530\nA, А\n\n_ Россия, Татарстан, Казань = 205 Ки Tatarstan Russie",
-   "total": 10,
+   "number": 6,
+   "title": "The extinction in terrestrial atmosphere",
+   "weight": 10,
+   "total": 40,
+   "statement": "Extinction is a term used in astronomy to describe light attenuation due to its absorption and scattering. A star was observed at different zenith distances during one night at the Engelgardt’s Astronomical Observatory in the program of atmospheric extinction study at blue. Astronomers use parameter X, air mass, as an extinction characteristic. This parameter corresponds to relative length of the ray’s way in the atmosphere. That means X = 1 for zenith, X = 2/3\" for z = 30°; X = 2 for z = 60° and so on. The determination of the star’s brightness was performed with the method of photon counting. The 3rd column includes number n — the quantity of photons which were detected during one second. A luminescent source was used for calibration the data of observations. It produces a stable flow of photons N = 9900 ± 100 per second, which is equal to magnitude mb = 9.64m beyond the terrestrial atmosphere.",
    "parts": [
     {
-     "id": "1",
-     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "id": "6.1",
      "points": 10,
      "pointsEstimated": true,
+     "question": "Draw the table in your answer book. Calculate the air mass for given zenith distances in 1st column, and write the result into the 2nd column.",
+     "reference": ""
+    },
+    {
+     "id": "6.2",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Calculate relative magnitude of the star Δmb (blue), and write the result into the 4th column. Use the luminescent source as standard for the relative magnitudes.",
+     "reference": ""
+    },
+    {
+     "id": "6.3",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Find functional relation between Δmb and X with a help of graphical method.",
+     "reference": ""
+    },
+    {
+     "id": "6.4",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Determine the magnitude of this star as it was observed in zenith.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Variable star",
+   "weight": 10,
+   "total": 30,
+   "statement": "A variable star was explored at the RTT-150 Russian-Turkish telescope in 2003. The observations were performed during whole night at the first time, the 1st table. The brightness of the variable star was measured occasionally during the other nights, and moments of maximal values of brightness (15.59m) were received on nights 2-5, the 2nd table. The time is in Julian days, and mv is the yellow spectral colour magnitude.",
+   "parts": [
+    {
+     "id": "7.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Plot the light curve (magnitude vs time function), determine the moment of maximum in the first night and write result (in Julian days) in form of «Tp = ...».",
+     "reference": ""
+    },
+    {
+     "id": "7.2",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Calculate the period of the variable star using the data of all 5 nights. Here period means the time between two closest maximums of the brightness. But actually astronomers usually do not know how many periods were passed between two observed maximums, because appropriate weather can not be same every day and a few periods can pass between two observed maximums.",
+     "reference": ""
+    },
+    {
+     "id": "7.3",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "What type of variable star is this — eclipsing binary or pulsating variable star. (Write in English: Eclipsing or Pulsating respectively.)",
      "reference": ""
     }
    ]

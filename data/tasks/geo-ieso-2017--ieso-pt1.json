@@ -7,10 +7,10 @@
  "tasksFile": "olympiads/geography/s/ieso/2017/ieso-pt1.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T19:25:52.465Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:48:22.848Z",
  "quality": {
-  "tasks": 11,
+  "tasks": 1,
   "parts": 11,
   "withPoints": 11,
   "withReference": 0,
@@ -20,165 +20,86 @@
  "tasks": [
   {
    "number": 1,
-   "title": "The density of sample T29 is… (only one possible answer) 1- 1.9 g x…",
-   "statement": "The density of sample T29 is… (only one possible answer)\n1- 1.9 g x cm-3      5- 2.4 g x cm-3\n2- 3.9 g x cm-3      6- 78.4 g x cm-3\n3- 15.7 g x cm  -3   7- 5.7 g x cm-3\n4- 3.0 g x cm-3      8- 0.8 g x cm-3",
-   "total": 7,
+   "title": "Practical Test: Rocks as evidence in the formation of the Alps",
+   "weight": 11,
+   "total": 11,
+   "statement": "Subduction of the oceanic lithosphere leads to the closure of ocean basin, the approach of two continental domains and their eventual collision. Subduction and collision produce mountain chains such as the Alps. This process of convergence results in modifications due to substantial changes in pressure and temperature. Let us study these rocks in an attempt to understand past events.",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.1",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 1: The density of sample T29 is…\n1- 1.9 g x cm-3\n2- 3.9 g x cm-3\n3- 15.7 g x cm-3\n4- 3.0 g x cm-3\n5- 2.4 g x cm-3\n6- 78.4 g x cm-3\n7- 5.7 g x cm-3\n8- 0.8 g x cm-3",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 2,
-   "title": "The density of sample X41 is… (only one possible response) 1- 3.8 g x…",
-   "statement": "The density of sample X41 is… (only one possible response)\n1- 3.8 g x cm-3      5- 2.0 x 10-3 g x cm-3\n2- 124.7 g x cm-3    6- 7.4 g x cm-3\n3- 3.3 g x cm-3      7- 9.7 g x cm-3\n4- 0.6 g x cm-3      8- 2.8 g x cm-3",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.2",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 2: The density of sample X41 is…\n1- 3.8 g x cm-3\n2- 124.7 g x cm-3\n3- 3.3 g x cm-3\n4- 0.6 g x cm-3\n5- 2.0 x 10-3 g x cm-3\n6- 7.4 g x cm-3\n7- 9.7 g x cm-3\n8- 2.8 g x cm-3",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 3,
-   "title": "In general, when a magmatic rock has a density that is higher than…",
-   "statement": "In general, when a magmatic rock has a density that is higher than another\n(one answer possible)\n1- it is composed of more silicates.\n2- it has undergone a higher degree of diagenesis.\n3- it contains a greater proportion of ferromagnesian minerals.\n4- it has a higher proportion of water.\n5- it is older.\n\nPART II : Determining rock water content\n\nInstructions :\n- Familiarize yourself with the material provided (annotated photos, graph paper).\n- Complete the table below to determine the percentage of water in the samples.\n- Ask the judge for the water content value of sample M06.\n\n                                                                  T29                            X41\n                                          Mwater\n                             Mmolar\n                                       contained\n                             of the\n    Mineral       Group                  in one          %       % water                 %     % water\n                             mineral                                       % in the                      % in the\n                                        mole of       Observed    in the              Observed in the\n                             g/mol                                          rock                          rock\n                                       mineral (g)     mineral   mineral               mineral mineral\n\n Actinolite     Amphibole        488           18\n\n Augite         Pyroxene       281.7             0\n\n Chlorite       Mica             559           72\n\n Glaucophane    Amphibole        796           18\n\n Grossularite   Garnet         502.5             0\n\n Hornblende     Amphibole        572           18\n\n Jadeite        Pyroxene       140.5             0\n\n Phengite       Mica             472           36\n\n Plagioclase    Feldspar         341             0\n\n                Total percentage of water in the                  T29                   X41               M06\n                samples\n\n                                                     2 of 4",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.3",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 3: In general, when a magmatic rock has a density that is higher than another\n1- it is composed of more silicates.\n2- it has undergone a higher degree of diagenesis.\n3- it contains a greater proportion of ferromagnesian minerals.\n4- it has a higher proportion of water.\n5- it is older.",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 4,
-   "title": "The water content of sample T29 is approximately : 1- 1.6% 5- 56.9%…",
-   "statement": "The water content of sample T29 is approximately :\n1- 1.6%                         5- 56.9%\n2- 4.8%                         6- 3.7%\n3- 32.0%                        7- 2.8 %\n4- 0%                           8- 0.6 %",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "4",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.4",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 4: The water content of sample T29 is approximately :\n1- 1.6%\n2- 4.8%\n3- 32.0%\n4- 0%\n5- 56.9%\n6- 3.7%\n7- 2.8 %\n8- 0.6 %",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 5,
-   "title": "The water content of sample X41 is approximately : 1- 0% 5- 6.7% 2-…",
-   "statement": "The water content of sample X41 is approximately :\n1- 0%                           5- 6.7%\n2- 4.7%                         6- 48.9%\n3- 7.5%                         7- 1.6%\n4- 44.0%                        8- 0.9%",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "5",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.5",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 5: The water content of sample X41 is approximately :\n1- 0%\n2- 4.7%\n3- 7.5%\n4- 44.0%\n5- 6.7%\n6- 48.9%\n7- 1.6%\n8- 0.9%",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 6,
-   "title": "If we assume T29 became X41.The differences in the water content of…",
-   "statement": "If we assume T29 became X41.The differences in the water content of the rocks\nare explained by… (one answer possible)\n1- longer exposure to meteoric water.\n2- an increase in pressure and a decrease in temperature.\n3- an increase in temperature and a decrease in pressure.\n4- an increase in pressure and temperature.\n5- a decrease in pressure and temperature.\n6- longer contact with microorganisms that have used the water in rocks.",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "6",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.6",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 6: If we assume T29 became X41.The differences in the water content of the rocks are explained by…\n1- longer exposure to meteoric water.\n2- an increase in pressure and a decrease in temperature.\n3- an increase in temperature and a decrease in pressure.\n4- an increase in pressure and temperature.\n5- a decrease in pressure and temperature.\n6- longer contact with microorganisms that have used the water in rocks.",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 7,
-   "title": "Based on your knowledge and the results of your calculations, sample…",
-   "statement": "Based on your knowledge and the results of your calculations, sample X41\ncorresponds to… (only one answer possible)\n1- a blueschist facies metagabbro.      5- an eclogite facies metagabbro.\n2- a basalt.                            6- a peridotite.\n3- a blueschist facies granite.         7- a diorite.\n4- an andesite.                         8- a blueschist facies limestone.",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "7",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.7",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 7: Based on your knowledge and the results of your calculations, sample X41 corresponds to…\n1- a blueschist facies metagabbro.\n2- a basalt.\n3- a blueschist facies granite.\n4- an andesite.\n5- an eclogite facies metagabbro.\n6- a peridotite.\n7- a diorite.\n8- a blueschist facies limestone.",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 8,
-   "title": "Based on your knowledge and the results of your calculations, sample…",
-   "statement": "Based on your knowledge and the results of your calculations, sample M06\ncorresponds to… (only one answer possible)\n1- a blueschist facies metagabbro.      5- an eclogite facies metagabbro.\n2- a basalt.                            6- a peridotite.\n3- a blueschist facies granite.         7- a diorite.\n4- an andesite.                         8- a blueschist facies limestone.\n\nPART III : Reconstructing a partial geological history of the Alps.\n\nThe three rocks T29, M06, and X41 are connected in the same geodynamic context: the\nsubduction of the Alpine Ocean (the Tethys).\nDuring this process, these three rocks have undergone transformations leading to changes in\ntheir density and their water content.",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "8",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.8",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 8: Based on your knowledge and the results of your calculations, sample M06 corresponds to…\n1- a blueschist facies metagabbro.\n2- a basalt.\n3- a blueschist facies granite.\n4- an andesite.\n5- an eclogite facies metagabbro.\n6- a peridotite.\n7- a diorite.\n8- a blueschist facies limestone.",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 9,
-   "title": "The physical and mineralogical transformations observed in the three…",
-   "statement": "The physical and mineralogical transformations observed in the three samples\nmay be referred to as : (only one answer)\n1- Crustal anatexis.                      5- Diagenesis.\n2- Fractional crystallisation.            6- Magmatism.\n3- Metamorphism.                          7- Tectonism.\n4- Volcanism.\n\n                                                3 of 4",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "9",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.9",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 9: The physical and mineralogical transformations observed in the three samples may be referred to as :\n1- Crustal anatexis.\n2- Fractional crystallisation.\n3- Metamorphism.\n4- Volcanism.\n5- Diagenesis.\n6- Magmatism.\n7- Tectonism.",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 10,
-   "title": "Four possible routes of rock development are given below. Which one…",
-   "statement": "Four possible routes of rock development are given below. Which one best\ncorresponds to your calculations and conclusions ?\n\n1-\n\n                                                                                        Approximate depth (km)\n\n              Pressure (MPa)\n\n                                                            Temperature (°C)\n\n2-\n\n                                                                                        Approximate depth (km)\n\n              Pressure (MPa)\n\n                                                            Temperature (°C)",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "10",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.10",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 10: Four possible routes of rock development are given below. Which one best corresponds to your calculations and conclusions ?",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 11,
-   "title": "Considering the figures below, which of the following figure best…",
-   "statement": "Considering the figures below, which of the following figure best illustrate ?\n\n                               T29         Accretionary\n                                           wedge\n             0\nDepth (km)\n\n             50\n\n                                 Ocean crust\n\n                                 Oceanic crust\n                                                                               M06\n\n                                 Continental crust\n\n       100                       Hydrated mantle\n\n                                                 melting\n                                 Area of partial fusion\n\n                                                                X41\n                                 Magmatic differentiation\n\n                               T29         Accretionary\n                                           wedge\n             0\n\nDepth (km)\n\n             50\n                                 Oceanic crust\n                                 Ocean crust\n\n                                 Continental crust\n       100                       Hydrated mantle\n\n                                                                                 X41\n\n                                 Area of partial melting\n                                                 fusion\n                                                                M06\n                                 Magmatic differentiation\n\n                                                                                       4 of 4\n\n3-\n\n                                                                                                 Approximate depth (km)\n              Pressure (MPa)\n\n                                                            Temperature (°C)\n\n4-\n\n                                                                                      Approximate depth (km)\n\n             Pressure (MPa)\n\n                                                            Temperature (°C)\n\n                                                                                T29\n                               M06        Accretionary\n                                          wedge\n               0\n\nDepth (km)\n\n             50\n\n                                 Ocean crust\n                                 Oceanic  crust\n\n                                 Continental crust\n\n       100                       Hydrated mantle\n\n                                                 melting\n                                 Area of partial fusion\n                                                               X41\n                                 Magmatic differentiation\n\n                               T29        Accretionary\n                                          wedge\n               0\nDepth (km)\n\n             50\n\n                                 Ocean crust\n\n                                 Oceanic  crust\n\n                                 Continental crust                             X41\n       100                       Hydrated mantle\n\n                                                 melting\n                                 Area of partial fusion\n\n                                 Magmatic differentiation\n                                                                  M06",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "11",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.11",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Question 11: Considering the figures below, which of the following figure best illustrate ?",
      "reference": ""
     }
    ]

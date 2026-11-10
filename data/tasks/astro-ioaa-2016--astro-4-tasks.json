@@ -6,30 +6,362 @@
  "lang": "ru",
  "tasksFile": "olympiads/astronomy/s/ioaa/2016/astro-4-tasks.pdf",
  "solutionFile": "olympiads/astronomy/s/ioaa/2016/astro-4-sol.pdf",
- "generatedBy": "parser",
- "generatedAt": "2026-11-09T17:56:00.905Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:16:08.910Z",
  "quality": {
-  "tasks": 1,
-  "parts": 1,
-  "withPoints": 1,
-  "withReference": 1,
-  "withQuestion": 1,
-  "estimatedPoints": 1
+  "tasks": 12,
+  "parts": 40,
+  "withPoints": 40,
+  "withReference": 40,
+  "withQuestion": 40,
+  "estimatedPoints": 0
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Экспериментальное задание",
-   "weight": null,
+   "title": "True or False",
+   "weight": 10,
    "total": 10,
-   "statement": "(T1) True or False\n     Determine if each of the following statements is True or False. In the Summary Answersheet, tick the\n     correct answer (TRUE / FALSE) for each statement. No justifications are necessary for this question.\n       (T1.1) In a photograph of the clear sky on a Full Moon night with a sufficiently long exposure, the            2\n              colour of the sky would appear blue as in daytime.\n       (T1.2) An astronomer at Bhubaneswar marks the position of the Sun on the sky at 05: 00 UT every day            2\n              of the year. If the Earth's axis were perpendicular to its orbital plane, these positions would trace\n              an arc of a great circle.\n       (T1.3) If the orbital period of a certain minor body around the Sun in the ecliptic plane is less than the     2\n              orbital period of Uranus, then its orbit must necessarily be fully inside the orbit of Uranus.\n       (T1.4) The centre of mass of the solar system is inside the Sun at all times.                                  2\n       (T1.5) A photon is moving in free space. As the Universe expands, its momentum decreases.                      2\n\n(T2) Gases on Titan                                                                                                   10\n     Gas particles in a planetary atmosphere have a wide distribution of speeds. If the r.m.s. (root mean square)\n     thermal speed of particles of a particular gas exceeds 1/6 of the escape speed, then most of that gas will\n     escape from the planet. What is the minimum atomic weight (relative atomic mass), 𝐴min , of an ideal\n     monatomic gas so that it remains in the atmosphere of Titan?\n      Given, mass of Titan 𝑀T = 1.23 × 1023 kg, radius of Titan 𝑅T = 2575 km, surface temperature of\n      Titan 𝑇T = 93.7 K.\n\n(T3) Early Universe\n     Cosmological models indicate that radiation energy density, 𝜌r , in the Universe is proportional to\n     (1 + 𝑧) 4 , and the matter energy density, 𝜌m , is proportional to (1 + 𝑧)3 , where 𝑧 is the redshift. The\n     dimensionless density parameter, Ω, is given as Ω = 𝜌/𝜌c , where 𝜌c is the critical energy density of the\n     Universe. In the present Universe, the density parameters corresponding to radiation and matter, are\n     Ωr0 = 10 −4 and Ω m0 = 0.3, respectively.\n       (T3.1) Calculate the redshift, 𝑧e , at which radiation and matter energy densities were equal.                 3\n       (T3.2) Assuming that the radiation from the early Universe has a blackbody spectrum with a                     4\n              temperature of 2.732 K, estimate the temperature, 𝑇e , of the radiation at redshift 𝑧e .\n       (T3.3) Estimate the typical photon energy, 𝐸ν (in eV), of the radiation as emitted at redshift 𝑧e .            3\n\n(T4) Shadows                                                                                                          10\n     An observer in the northern hemisphere noticed that the length of the shortest shadow of a 1.000 m\n     vertical stick on a day was 1.732 m. On the same day, the length of the longest shadow of the same\n     vertical stick was measured to be 5.671 m.\n      Find the latitude, 𝜙, of the observer and declination of the Sun, 𝛿⊙, on that day. Assume the Sun to be a\n      point source and ignore atmospheric refraction.\n\n(T5) GMRT beam transit\n     Giant Metrewave Radio Telescope (GMRT), one of the world's largest radio telescopes at metre                     10\n     wavelengths, is located in western India (latitude: 19 ∘ 6′ N, longitude: 74∘ 3′ E). GMRT consists of 30\n     dish antennas, each with a diameter of 45.0 m. A single dish of GMRT was held fixed with its axis\n     pointing at a zenith angle of 39 ∘ 42′ along the northern meridian such that a radio point source would pass\n     along a diameter of the beam, when it is transiting the meridian.\n      What is the duration 𝑇transit for which this source would be within the FWHM (full width at half\n      maximum) of the beam of a single GMRT dish observing at 200 MHz?\n      Hint: The FWHM size of the beam of a radio dish operating at a given frequency corresponds to the\n      angular resolution of the dish. Assume uniform illumination.\n\n(T6) Cepheid Pulsations\n     The star 𝛽-Doradus is a Cepheid variable star with a pulsation period of 9.84 days. We make a\n     simplifying assumption that the star is brightest when it is most contracted (radius being 𝑅1) and it is\n     faintest when it is most expanded (radius being 𝑅2 ). For simplicity, assume that the star maintains its\n     spherical shape and behaves as a perfect black body at every instant during the entire cycle. The\n     bolometric magnitude of the star varies from 3.46 to 4.08. From Doppler measurements, we know that\n     during pulsation the stellar surface expands or contracts at an average radial speed of 12.8 km s −1 . Over\n     the period of pulsation, the peak of thermal radiation (intrinsic) of the star varies from\n     531.0 nm to 649.1 nm.\n       (T6.1) Find the ratio of radii of the star in its most contracted and most expanded states (𝑅1 /𝑅2 ).           7\n       (T6.2) Find the radii of the star (in metres) in its most contracted and most expanded states                   3\n              (𝑅1 and 𝑅2 ).\n       (T6.3) Calculate the flux of the star, 𝐹2 , when it is in its most expanded state.                              5\n       (T6.4) Find the distance to the star, 𝐷star , in parsecs.                                                       5\n\n(T7) Telescope optics\n     In a particular ideal refracting telescope of focal ratio 𝑓/5, the focal length of the objective lens is 100 cm\n     and that of the eyepiece is 1 cm.\n       (T7.1) What is the angular magnification, 𝑚0 , of the telescope? What is the length of the telescope,           4\n              𝐿 0, i.e. the distance between its objective and eyepiece?\n      An introduction of a concave lens (Barlow lens) between the objective lens and the prime focus is a\n      common way to increase the magnification without a large increase in the length of the telescope. A\n      Barlow lens of focal length 1 cm is now introduced between the objective and the eyepiece to double the\n      magnification.\n       (T7.2) At what distance, 𝑑B , from the prime focus must the Barlow lens be kept in order to obtain this         6\n              desired double magnification?\n       (T7.3) What is the increase, Δ𝐿, in the length of the telescope?                                                4\n      A telescope is now constructed with the same objective lens and a CCD detector placed at the prime focus\n      (without any Barlow lens or eyepiece). The size of each pixel of the CCD detector is 10 µm.\n       (T7.4) What will be the distance in pixels between the centroids of the images of the two stars , 𝑛p , on       6\n              the CCD, if they are 20′′ apart on the sky?\n\n(T8) U-Band photometry\n     A star has an apparent magnitude 𝑚U = 15.0 in the U-band. The U-band filter is ideal, i.e., it has perfect\n     (100%) transmission within the band and is completely opaque (0% transmission) outside the band. The\n     filter is centered at 360 nm, and has a width of 80 nm. It is assumed that the star also has a flat energy\n     spectrum with respect to frequency. The conversion between magnitude, 𝑚, in any band and flux density,\n     𝑓, of a star in Jansky (1 Jy = 1 × 10 −26 W Hz −1 m−2 ) is given by\n                                              𝑓 = 3631 × 10−0.4𝑚 Jy\n       (T8.1) Approximately how many U-band photons, 𝑁0 , from this star will be incident normally on a                8\n              1 m2 area at the top of the Earth's atmosphere every second?\n      This star is being observed in the U-band using a ground based telescope, whose primary mirror has a\n      diameter of 2.0 m. Atmospheric extinction in U-band during the observation is 50%. You may assume\n      that the seeing is diffraction limited. Average surface brightness of night sky in U-band was measured to\n      be 22.0 mag/arcsec 2 .\n       (T8.2) What is the ratio, 𝑅, of number of photons received per second from the star to that received            8\n              from the sky, when measured over a circular aperture of diameter 2′′?\n       (T8.3) In practice, only 20% of U-band photons falling on the primary mirror are detected. How many             4\n              photons, 𝑁t , from the star are detected per second?\n\n(T9) Mars Orbiter Mission\n     India's Mars Orbiter Mission (MOM) was launched using the Polar Satellite Launch Vehicle (PSLV) on\n     5 November 2013. The dry mass of MOM (body + instruments) was 500 kg and it carried fuel of mass\n     852 kg. It was initially placed in an elliptical orbit around the Earth with perigee at a height of 264.1 km\n     and apogee at a height of 23903.6 km, above the surface of the Earth. After raising the orbit six times,\n     MOM was transferred to a trans-Mars injection orbit (Hohmann orbit).\n      The first such orbit-raising was performed by firing the engines for a very short time near the perigee.\n      The engines were fired to change the orbit without changing the plane of the orbit and without changing\n      its perigee. This gave a net impulse of 1.73 × 105 kg m s −1 to the satellite. Ignore the change in mass due\n      to burning of fuel.\n       (T9.1) What is the height of the new apogee, ℎa above the surface of the Earth, after this engine               14\n              burn?\n       (T9.2) Find the eccentricity (𝑒) of the new orbit after the burn and the new orbital period (𝑃) of MOM           6\n              in hours.\n\n(T10) Gravitational Lensing Telescope\n      Einstein's General Theory of Relativity predicts bending of light around massive bodies. For simplicit y,\n      we assume that the bending of light happens at a single point for each light ray, as shown in the figure.\n      The angle of bending, 𝜃b , is given by\n                  2𝑅\n            𝜃b = sch\n                    𝑟\n      where 𝑅sch is the Schwarzschild radius associated with that gravitational body. We call 𝑟, the distance of\n      the incoming light ray from the parallel 𝑥-axis passing through the centre of the body, as the “impact\n      parameter”.\n\n      A massive body thus behaves somewhat like a focusing lens. The light rays coming from infinite distance\n      beyond a massive body, and having the same impact parameter 𝑟, converge at a point along the axis, at a\n      distance 𝑓𝑟 from the centre of the massive body. An observer at that point will benefit from huge\n      amplification due to this gravitational focusing. The massive body in this case is being used as a\n      Gravitational Lensing Telescope for amplification of distant signals.\n       (T10.1) Consider the possibility of our Sun as a gravitational lensing telescope. Calculate the shortest         6\n               distance, 𝑓min , from the centre of the Sun (in A. U.) at which the light rays can get focused.\n       (T10.2) Consider a small circular detector of radius 𝑎, kept at a distance 𝑓min centered on the 𝑥-axis and       8\n               perpendicular to it. Note that only the light rays which pass within a certain annulus (ring) of\n               width ℎ (where ℎ ≪ 𝑅⊙ ) around the Sun would encounter the detector. The amplification factor\n               at the detector is defined as the ratio of the intensity of the light incident on the detector in the\n               presence of the Sun and the intensity in the absence of the Sun.\n                Express the amplification factor, 𝐴m , at the detector in terms of 𝑅 ⊙ and 𝑎.\n       (T10.3) Consider a spherical mass distribution, such as dark matter in a galaxy cluster, through which           6\n               light rays can pass while undergoing gravitational bending. Assume for simplicity that for the\n               gravitational bending with impact parameter, 𝑟, only the mass 𝑀(𝑟) enclosed inside the radius\n               𝑟 is relevant.\n      What should be the mass distribution, 𝑀(𝑟), such that the gravitational lens behaves like an ideal optical\n      convex lens?\n\n(T11) Gravitational Waves\n      The first signal of gravitational waves was observed by two advanced LIGO detectors at Hanford and\n      Livingston, USA in September 2015. One of these measurements (strain vs time in seconds) is shown in\n      the accompanying figure. In this problem, we will interpret this signal in terms of a small test mass 𝑚\n      orbiting around a large mass 𝑀 (i.e., 𝑚 ≪ 𝑀), by considering several models for the nature of the central\n      mass.\n\n      The test mass loses energy due to the emission of gravitational waves. As a result the orbit keeps on\n      shrinking, until the test mass reaches the surface of the object, or in the case of a black hole, the innermost\n      stable circular orbit – ISCO – which is given by 𝑅ISCO = 3𝑅sch , where 𝑅sch is the Schwarzschild\n      radius of the black hole. This is the “epoch of merger\". At this point, the amplitude of the gravitational\n      wave is maximum, and so is its frequency, which is always twice the orbital frequency. In this problem,\n      we will only focus on the gravitational waves before the merger, when Kepler’s laws are assumed to be\n      valid. After the merger, the form of gravitational waves will drastically change.\n       (T11.1) Consider the observed gravitational waves shown in the figure above. Estimate the time period,           3\n               𝑇0 , and hence calculate the frequency, 𝑓0 , of gravitational waves just before the epoch of\n               merger.\n       (T11.2) For any main sequence (MS) star, the radius of the star, 𝑅MS , and its mass, 𝑀MS , are related by 10\n               a power law given as,\n                             𝑅MS ∝ (𝑀MS )𝛼\n                         where 𝛼 = 0.8            for 𝑀⊙ < 𝑀MS\n                                     = 1.0        for 0.08𝑀⊙ ≤ 𝑀MS ≤ 𝑀⊙\n                If the central object were a main sequence star, write an expression for the maximum frequency\n                of gravitational waves, 𝑓MS , in terms of mass of the star in units of solar masses (𝑀MS /𝑀⊙ )\n                and 𝛼.\n       (T11.3) Using the above result, determine the appropriate value of 𝛼 that will give the maximum                  9\n               possible frequency of gravitational waves, 𝑓MS,max for any main sequence star. Evaluate this\n               frequency.\n       (T11.4) White dwarf (WD) stars have a maximum mass of 1.44 𝑀⊙ (known as the Chandrasekhar limit)                 8\n               and obey the mass-radius relation 𝑅 ∝ 𝑀 −1/3 . The radius of a solar mass white dwarf is equal\n\n                to 6000 km. Find the highest frequency of emitted gravitational waves, 𝑓WD,max , if the test\n                mass is orbiting a white dwarf.\n       (T11.5) Neutron stars (NS) are a peculiar type of compact objects which have masses between                    8\n               1 and 3𝑀⊙ and radii in the range 10 − 15 km. Find the range of frequencies of emitted\n               gravitational waves, 𝑓NS,min and 𝑓NS,max , if the test mass is orbiting a neutron star at a distance\n               close to the neutron star radius.\n       (T11.6) If the test mass is orbiting a black hole (BH), write the expression for the frequency of emitted      7\n               gravitational waves, 𝑓BH , in terms of mass of the black hole, 𝑀BH , and the solar mass 𝑀⊙ .\n       (T11.7) Based only on the time period (or frequency) of gravitational waves before the epoch of merger,        5\n               determine whether the central object can be a main sequence star (MS), a white dwarf (WD), a\n               neutron star (NS), or a black hole (BH). Tick the correct option in the Summary Answersheet.\n               Estimate the mass of this object, 𝑀obj , in units of 𝑀⊙ .\n\n(T12) AstroSat\n      India astronomy satellite, AstroSat, launched in September 2015, has five different instruments.\n\n      In this question, we will discuss three of these instruments (SXT, LAXPC, CZTI), which point in the\n      same direction and observe in X-ray wavelengths. The details of these instruments are given in the table\n      below.\n\n             Instrument      Band        Collecting      Effective Photon        Saturation level       No. of\n                             [keV]       Area [m2]      Detection Efficiency          [counts]           Pixels\n            SXT             0.3 – 80       0.067                60%                 15000 (total)      512 x 512\n            LAXPC            3 – 80         1.5                 40%              50000 (in any one         ---\n                                                                                      counter)\n                                                                                  or 200000 (total)\n            CZTI            10 – 150        0.09                50%                      ---           4 x 4096\n\n           You should note that LAXPC energy range is divided into 8 different energy band counters of equal\n           bandwidth with no overlap.\n\n       (T12.1) Some X-ray sources like Cas A have a prominent emission line at 0.01825 nm corresponding 13\n               to a radioactive transition of 44Ti. Suppose there exists a source which emits only one bright\n               emission line corresponding to this transition. What should be the minimum relative velocity\n               (𝑣) of the source, which will make the observed peak of this line to get registered in a different\n               energy band counter of LAXPC as compared to a source at rest?\n\n      These instruments were used to observe an X-ray source (assumed to be a point source), whose energy\n      spectrum followed the power law,\n                  𝐹 (𝐸 ) = 𝐾𝐸 −2⁄3                 [in units of counts/keV/m2 /s ]\n      where 𝐸 is the energy in keV, 𝐾 is a constant and 𝐹(𝐸) is photon flux density at that energy. Photon flux\n      density, by definition, is given for per unit collecting area (m2 ) per unit bandwidth (keV) and per unit\n\ntime (seconds). From prior observations, we know that the source has a flux density of 10\ncounts/keV/m2 /s at 1 keV, when measured by a detector with 100% photon detection efficiency. The\n“counts” here mean the number of photons reported by the detector.\nAs the source flux follows the power law given above, we know that for a given energy range from\n𝐸1 (lower energy) to 𝐸2 (higher energy) the total photon flux (𝐹T ) will be given by\n                       1 ⁄3     1 ⁄3\n           𝐹T = 3𝐾 (𝐸2 − 𝐸1 )               [in units of counts/m2 /s ]\n\n (T12.2) Estimate the incident flux density from the source at 1 keV, 5 keV, 40 keV and 100 keV. Also        8\n         estimate what will be the total count per unit bandwidth recorded by each of the instruments at\n         these energies for an exposure time of 200 seconds.\n (T12.3) For this source, calculate the maximum exposure time (𝑡S ), without suffering from saturation,      4\n         for the CCD of SXT.\n (T12.4) If the source became 3500 times brighter, calculate the expected counts per second in LAXPC         8\n         counter 1, counter 8 as well as total counts across the entire energy range. If we observe for\n         longer period, will the counter saturate due to any individual counter or due to the total count?\n         Tick the appropriate box in the Summary Answersheet.\n (T12.5) Assume that the counts reported by CZTI due to random fluctuations in electronics are about 10\n          0.00014 counts per pixel per keV per second at all energy levels. Any source is considered as\n          “detected” when the SNR (signal to noise ratio) is at least 3. What is minimum exposure time,\n          𝑡𝑐 , needed for the source above to be detected in CZTI?\n         Note that the “noise” in a detector is equal to the square root of the counts due to random\n         fluctuations.\n (T12.6) Let us consider the situation where the source shows variability in number flux, so that the        7\n         factor 𝐾 increases by 20%. AstroSat observed this source for 1 second before the change and\n         1 second after this change in brightness. Calculate the counts measured by SXT, LAXPC and\n         CZTI in both the observations. Which instrument is best suited to detect this change? Tick the\n         appropriate box in the Summary Answersheet.",
+   "statement": "Determine if each of the following statements is True or False. In the Summary Answersheet, tick the correct answer (TRUE / FALSE) for each statement. No justifications are necessary for this question.",
    "parts": [
     {
-     "id": "1.1",
+     "id": "T1.1",
+     "points": 2,
+     "question": "In a photograph of the clear sky on a Full Moon night with a sufficiently long exposure, the colour of the sky would appear blue as in daytime.",
+     "reference": "T. The colour of the clear sky during night is the same as during daytime, since the spectrum of sunlight reflected by the Moon is almost the same as the spectrum of sunlight. Only the intensity is lower."
+    },
+    {
+     "id": "T1.2",
+     "points": 2,
+     "question": "An astronomer at Bhubaneswar marks the position of the Sun on the sky at 05: 00 UT every day of the year. If the Earth's axis were perpendicular to its orbital plane, these positions would trace an arc of a great circle.",
+     "reference": "T. If the Earth’s axis were perpendicular to its orbital plane, the celestial equator will coincide with ecliptic and the Sun will remain along the celestial equator every day. However, as the Earth’s orbit is elliptical, the true sun would still lead or lag mean sun by a few minutes on different days of year."
+    },
+    {
+     "id": "T1.3",
+     "points": 2,
+     "question": "If the orbital period of a certain minor body around the Sun in the ecliptic plane is less than the orbital period of Uranus, then its orbit must necessarily be fully inside the orbit of Uranus.",
+     "reference": "F. The semi-major axis of the orbit of the body will be less than that of Uranus. However the minor body’s orbit may have a high eccentricity, in which case it may go outside that of Uranus."
+    },
+    {
+     "id": "T1.4",
+     "points": 2,
+     "question": "The centre of mass of the solar system is inside the Sun at all times.",
+     "reference": "F. The centre of mass of Sun-Jupiter pair is just outside the Sun. Thus, if all gas giants are on same side of the Sun, the centre of mass of Solar system is definitely outside the Sun."
+    },
+    {
+     "id": "T1.5",
+     "points": 2,
+     "question": "A photon is moving in free space. As the Universe expands, its momentum decreases.",
+     "reference": "T. For photons the wavelength increases when the Universe expands."
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Gases on Titan",
+   "weight": 10,
+   "total": 10,
+   "statement": "Gas particles in a planetary atmosphere have a wide distribution of speeds. If the r.m.s. (root mean square) thermal speed of particles of a particular gas exceeds 1/6 of the escape speed, then most of that gas will escape from the planet. What is the minimum atomic weight (relative atomic mass), A_min, of an ideal monatomic gas so that it remains in the atmosphere of Titan?\nGiven, mass of Titan M_T = 1.23 × 10^23 kg, radius of Titan R_T = 2575 km, surface temperature of Titan T_T = 93.7 K.",
+   "parts": [
+    {
+     "id": "2.1",
      "points": 10,
-     "question": "Решите задачу полностью и запишите ответ.",
-     "reference": "1 GMNS\n          fgrav =     3\n                  π  RNS\n          The lowest possible frequency is when MNS is lowest and RNS is the highest.                 2.0\n          For MNS = M and R = 15 km, we get\n           fNS,min = 1.996 kHz                                                                        2.0\n          Similarly, the largest possible frequency is when MNS is the largest and RNS is the\n          smallest.                                                                                   2.0\n          For MNS = 3M and R = 10 km, we get\n           fNS,max = 6.352 kHz                                                                        2.0\n\n(T11.6) If the test mass is orbiting a black hole (BH), write the expression for the frequency of           7\n        emitted gravitational waves, fBH , in terms of mass of the black hole, MBH , and the solar\n        mass M .\n\n          For black holes, we have to consider RISCO .                                                2.0\n          Hence the equation will be,\n                            s\n                        1        GM         M\n                fBH = ×            3     ×                                                            2.0\n                        π      27Rsch−      MBH\n                                     M\n                 fBH = 4.396 kHz ×                                                                    3.0\n                                     MBH\n\n(T11.7) Based only on the time period (or frequency) of gravitational waves before the epoch of             5\n        merger, determine whether the central object can be a main sequence star (MS), a white\n        dwarf (WD), a neutron star (NS), or a black hole (BH). Tick the correct option in the\n        Summary Answersheet. Estimate the mass of this object, Mobj , in units of M .\n\n          We found the frequency of the LIGO-detected wave to be 166.67 Hz just before\n          merger. As per our analysis above, only black holes can lead to emission in this\n          frequency range.\n           Black Hole                                                                                 2.0\n          By using corresponding expression,\n                   4396\n           Mobj =        M ≈ 31M                                                                      3.0\n                  142.86\n          Any answer between 13 to 50 will get full credit.\n\n(T12) Exoplanets\n      Two major methods of detection of exoplanets (planets around stars other than the Sun) are the\n      radial velocity (or so-called “wobble”) method and the transit method. In this problem, we find\n      out how a combination of the results of these two methods can reveal a lot of information about\n      an orbiting exoplanet and its host star.\n      Throughout this problem, we consider the case of a planet of mass Mp and radius Rp moving in a\n      circular orbit of radius a around a star of mass Ms (Ms \u001d Mp ) and radius Rs . The normal to the\n      orbital plane of the planet is inclined at angle i with respect to the line of sight (i = 90◦ would\n      mean “edge on” orbit). We assume that there is no other planet orbiting the star and Rs \u001c a.\n\n      “Wobble” Method:\n      When a planet and a star orbit each other around their barycentre, the star is seen to move\n      slightly, or “wobble”, since the centre of mass of the star is not coincident with the barycentre of\n      the star-planet system. As a result, the light received from the star undergoes a small Doppler\n      shift related to the velocity of this wobble.\n      The line of sight velocity, vl , of the star can be determined from the Doppler shift of a known\n      spectral line, and its periodic variation with time, t, is shown in the schematic diagram below.\n      In the diagram, the two measurable quantities in this method, namely, the orbital period P and\n      maximum line of sight velocity v0 are shown.\n\n                                 vl\n                                                     P\n\n                                        v0\n\n                                                                              t\n\n       (T12.1) Derive expressions for the orbital radius (a) and orbital speed (vp ) of the planet in terms         3\n               of Ms and P .\n\n                 Kepler’s law:\n\n                              GMs 2 1/3\n                       a=           P                                                                         1.0\n                               4π 2\n                 Gravitational force provides centripetal acceleration:\n                            r\n                               GMs\n                       vp =                                                                                   0.5\n                                 a\n                              2πGMs 1/3\n                       vp =                                                                                   1.5\n                                 P\n\n(T12.2) Obtain a lower limit on the mass of the planet, Mp, min in terms of Ms , v0 and vp .                       4\n\n            Momentum conservation:\n                  Mp v p = M s v s                                                                           1.5\n            Observed quantity is v0 = vs sin i. Thus,\n                                         Ms vs sin i   Ms v 0\n                  Mp, min = Mp sin i =               =\n                                            vp          vp\n\n            This is a lower limit on Mp .                                                                    2.5\n\nTransit Method:\nAs a planet orbits its host star, for orientations of the orbital plane that are close to “edge-on”\n(i ≈ 90◦ ), it will pass periodically, or “transit”, in front of the stellar disc as seen by the observer.\nThis would cause a tiny decrease in the observed stellar flux which can be measured. The schematic\ndiagram below (NOT drawn to scale) shows the situation from the observer’s perspective and the\nresulting transit light curve (normalised flux, f , vs time, t) for a uniformly bright stellar disc.\n\n                                                           Rs\n\n                                             bRs\n\n                                 1       2                 3       4\n\n                               Rp\n                        f\n\n                         1\n                                               ∆\n                                                 tF\n\n                                                 tT\n\n                                                                            t\n\nIf the inclination angle i is exactly 90◦ , the planet would be seen to cross the stellar disc along a\ndiameter. For other values of i, the transit occurs along a chord, whose centre lies at a distance\nbRs from the centre of the stellar disc, as shown. The no-transit flux is normalised to 1 and the\nmaximum dip during the transit is given by ∆.\n\nThe four significant points in the transit are the first, second, third and fourth contacts, marked\nby the positions 1 to 4, respectively, in the figure above. The time interval during the second and\nthird contacts is denoted by tF , when the disc of the planet overlaps the stellar disc fully. The\ntime interval between the first and fourth contacts is denoted by tT .\nThese points are also marked in the schematic diagram below showing a “side-on” view of the\norbit (NOT drawn to scale).\n\n                                       i\n                                                          4\n                                                              3\n\n                                                  a                                Observer\n\n                                                      1   2\n\nThe measurable quantities in the transit method are P , tT , tF and ∆.\n\n(T12.3) Find the constraint on i in terms of Rs and a for the transit to be visible at all to the            2\n        distant observer.\n\n                 bRs = a cos i                                                                         1.0\n           Therefore, for visibility, 0 ≤ b ≤ 1 ⇒ i ≥ cos−1 (Rs /a)                                    1.0\n\n(T12.4) Express ∆ in terms of Rs and Rp .                                                                    1\n\n           Blackbody ⇒ brightness is proportional to area. Since the observer is far away from\n           the star-planet system, size of silhouette of planet on stellar disc is independent of a.\n                      \u0012 \u00132\n                        Rp\n                 ∆=                                                                                    1.0\n                        Rs\n\n(T12.5) Express tT and tF in terms of Rs , Rp , a, P and b.                                                  8\n\n           Circular orbit ⇒ uniform orbital speed\n                    t      aφ     φ\n                 ⇒     =      =                                                                        1.0\n                    P     2πa    2π\n           where φ is the angle subtended by the planet at the centre of the star during transit\n           (over time t).\n\n                Rs + Rp                 Rs − Rp\n\n                            bRs\n            1       2                          3         4\n\n                   l14 /2             l23 /2\n\n                  (l23 /2)2 = (Rs − Rp )2 − (bRs )2\n                             q\n                  l23 = 2Rs (1 − Rp /Rs )2 − b2\n\n                                           l23 /2\n                  sin(φ23 /2) =\n                                             a\n\n                                                       l23\n                  ⇒ φ23 = 2 sin−1\n                                                       2a\n                                       s                 \n                                           \u0012      \u00132\n                       P       P        Rs     Rp\n                  tF =    φ23 = sin−1      1−       − b2 \n                       2π      π        a      Rs\n\n          Similarly,\n                                                      s\u0012\n\n                            P         Rs\n                  tT =        sin−1                         1+\n                            π         a\n\n(T12.6) In the approximation of an orbit much larger than the st\n        parameter b is given by\n                                  \u0012 \u00132 1/2\n                                     tF\n                             √  1+\n                                    tT \n             b = 1 + ∆ − 2 ∆\n                                         \n                                   \u0012 \u00132 \n                                    tF \n                                1−\n                                     tT\n\n          Since Rs \u001c a, use sin−1 x ≈ x.\n                        s                    \n                                    Rp 2\n                              \u0012        \u0013\n                     P  Rs\n                tT ≈            1+       − b2 \n                     π a            Rs\n                                        s\u0012\n\n                            P  Rs                       Rp\n                  tF ≈                             1−\n                            π a                          Rs\n\n                                                                  4\n\n                                                  φ14       l14        3\n                                                          φ23         l23\n                                                  a\n\n                                                             1 2\n\n                                                                            2.0\n\n                                                                            2.0\n\n                        s\u0012                  \n                                    \u00132\n                    Rs         Rp\n = 2 sin−1               1−             − b2                              1.0\n                    a          Rs\n\n                                                                            1.0\n\n                     \n           \u00132\n      Rp\n                − b2                                                       1.0\n      Rs\n\nellar radius, show that the                                                       5\n\n                                                                            2.0\n\n            \n \u00132\n\n      − b2 \n\n                                         √\n          Dividing, and putting Rp /Rs = ∆,\n                     \"     √          #1/2\n                tF     (1 − ∆)2 − b2\n                   =       √                                                                    1.0\n                tT     (1 + ∆)2 − b2\n\n                                                  √ 2 1/2\n                                                                          \u0012 \u00132 1/2\n                                         tF 2\n                                                        \n                               √\n                                           \u0012\u0013\n                                                                           tF\n                   (1 −           ∆)2 −      (1 + ∆)              √  1+\n                                         tT                               tT \n               ⇒b=                                    = 1 + ∆ − 2 ∆                          2.0\n                                                                            \n                                        \u0012 \u00132                              \u0012 \u00132 \n                                         tF                             tF \n                                     1−                                1−\n                                          tT                               tT\n          Expressions lacking the use of approximation Rs /a \u001c 1, but otherwise\n          correct will get a penalty of 2.0.\n          Use of approximation with proper justification at a later stage than at\n          the first step will get full credit.\n\n(T12.7) Use the result of part (T12.6) to obtain an expression for the ratio a/Rs in terms of         3\n        measurable transit parameters, using a suitable approximation.\n\n                              s\u0012                          \n                                               \u00132\n                      P  Rs             Rp\n               tT =                 1+              − b2                                       1.0\n                      π a                Rs\n\n          Either substitution of b or elimination of b gets 1.0.\n          Substituting b and Rp /Rs ,\n                         v u                            \u0012 \u00132 \n                            u                              tF\n                         u\n                                   √             √   1+          \n                     P  Rs u\n                           u\n                                      2                    tT \n               tT =  u(1 + ∆) − 1 − ∆ + 2 ∆             \u0012 \u00132 \n                     π a t                                tF \n                                                     1−\n                                                                 \n                                                           tT\n                                                   1/2\n                                      √\n                      P Rs          4 ∆ \n               ⇒ tT =\n                                          \n                                      \u0012 \u00132 \n                      π a \n                           \n                                       tF \n                                   1−\n                                       tT\n\n                   a       2P ∆1/4\n               ⇒      =                                                                         2.0\n                   Rs   π(t2T − t2F )1/2\n          Expressions lacking the use of approximation Rs /a \u001c 1, but otherwise\n          correct will get a penalty of 1.0.\n          If penalty has already been imposed in part (T12.6), no further penalty\n          for lack of approximation.\n\n(T12.8) Combine the results of the wobble method and the transit method to determine the              6\n                                    Ms\n        stellar mean density ρs ≡          in terms of tT , tF , ∆ and P .\n                                  4πRs3 /3\n\n           From part (T12.7)\n                             2P ∆1/4\n                 a = Rs\n                          π(t2T − t2F )1/2\n           From part (T12.1)\n                      GMs 2 1/3\n                    \u0012        \u0013\n                a=         P\n                      4π 2\n           Combining,\n                         \"                    #3\n                 GMs 2          2P ∆1/4\n                      P = Rs                                                                         3.0\n                 4π 2        π(t2T − t2F )1/2\n           Identifying the two equations for combining gets credit. No credit for\n           writing only one equation or irrelevant equations.\n                             Ms        3 4π 2      8P 3 ∆3/4\n                 ⇒ ρs ≡             =                                                                2.0\n                           4πRs3 /3   4π P 2 G π 3 (t2T − t2F )3/2\n\n                             24 P (∆)3/4\n                 ⇒ ρs =                                                                              1.0\n                            π 2 G (t2T − t2F )3/2\n\nRocky or gaseous:\nLet us consider an edge-on (i = 90◦ ) star-planet system (circular orbit for the planet), as seen\nfrom the Earth. It is known that the host star is of mass 1.00M . Transits are observed with\na period (P ) of 50.0 days and total transit duration (tT ) of 1.00 hour. The transit depth (∆) is\n0.0064. The same system is also observed in the wobble method to have a maximum line of sight\nvelocity of 0.400 m s−1 .\n (T12.9) Find the orbital radius a of the planet in units of AU and in metres.                             2\n\n           From Kepler’s third law (with same mass of host star):\n                         P 2/3\n                     \u0012     \u0013\n                 a\n                   =                                                                                 1.0\n                a⊕      P⊕\n                     \u0012          \u00132/3\n                          50.0\n                  a=                 × 1 AU = 0.266 AU                                               0.5\n                        365.242\n                     = 0.266 × 1.496 × 1011 m = 3.97 × 1010 m                                        0.5\n\n(T12.10) Find the ratio tF /tT of the system.                                                              2\n\n           Edge-on ⇒ b = 0                                                                           1.0\n                     \"     √         #1/2     √\n                tF     (1 − ∆)2 − b2        1− ∆\n                   =       √              =   √ = 0.8519                                             1.0\n                tT     (1 + ∆)2 − b2        1+ ∆\n\n(T12.11) Obtain the mass Mp and radius Rp of the planet in terms of the mass (M⊕ ) and radius                8\n         (R⊕ ) of the Earth respectively. Is the composition of the planet likely to be rocky or\n         gaseous? Tick the box for ROCKY or GASEOUS in the Summary Answersheet.\n\n            From parts (T12.1) and (T12.9)\n                      r          s\n                        GM         6.674 × 10−11 × 1.989 × 1030\n                 vp =          =                                = 57.798 km s−1                        1.0\n                          a                 3.97 × 1010\n            Assumption of small planet (Mp \u001c Ms ) is valid because ∆ is very small; less dense\n            planet would make the assumption stronger!\n\n                         Ms v 0       1.989 × 1030 × 0.400\n                 Mp =           =                             M⊕ = 2.30 M⊕                             2.0\n                          vp      5.7798 × 104 × 5.972 × 1024\n            From part (T12.4),\n                         √\n                 Rp = Rs ∆\n            From part (T12.7),\n                  a       2P ∆1/4                2P ∆1/4\n                     =                  =\n                  Rs   π(t2T − t2F )1/2   πtT (1 − (tF /tT )2 )1/2\n\n                           aπtT (1 − (tF /tT )2 )1/2\n                 ∴ Rs =\n                                  2P ∆1/4\n            Combining,\n                       aπtT (1 − (tF /tT )2 )1/2 ∆1/2\n                 Rp =\n                                2P ∆1/4\n                       aπtT (1 − (tF /tT )2 )1/2 ∆1/4\n                     =                                                                                 2.0\n                                   2P\n                                10           1\n                       3.97 × 10 × π × 24      × (1 − 0.85192 )1/2 × (0.0064)1/4\n                     =                                                           R⊕\n                                        2 × 50.0 × 6.371 × 106\n                     = 1.21 R⊕                                                                         1.0\n            Mean density\n                          Mp       2.30\n                 ρp =      3\n                                =         ρ⊕ = 1.3ρ⊕                                                   1.0\n                        4πRp /3   (1.21)3\n            Since mean density is higher than that of Earth, the planet is Rocky .                     1.0\n\nTransit light curves with starspots and limb darkening:\n(T12.12) Consider a planetary transit with i = 90◦ around a star which has a starspot on its                 4\n         equator, comparable to the size of the planet, Rp . The rotation period of the star is\n         2P . Draw schematic diagrams of the transit light curve for five successive transits of the\n         planet (in the templates provided in the Summary Answersheet). The no-transit flux for\n         each transit may be normalised to unity independently. Assume that the planet does not\n         encounter the starspot on the first transit but does in the second.\n\n                  f        Transit no. 1                f        Transit no. 2\n\n                                              t                                      t\n\n                  f        Transit no. 3                f        Transit no. 4\n\n                                              t                                      t\n\n                  f        Transit no. 5\n\n                                              t\n\n              • No change in the first: 0.5\n              • Spike in second (width and phase of spike is arbitrary): 1.0\n              • Height of spike (almost) equal to maximum dip: 0.5\n              • No change in third: 0.5\n              • Spike again in fourth: 0.5\n              • Same phase of spike in second and fourth: 0.5\n              • No change in 5th: 0.5\n\n(T12.13) Throughout the problem we have considered a uniformly bright stellar disc. However,      2\n         real stellar discs have limb darkening. Draw a schematic transit light curve when limb\n         darkening is present in the host star.\n\n                                    f\n\n                                                                   t\n\n           Non-flat bottom with central minimum gets 2.0. Curvature of ingress and\n           egress are tolerated.",
-     "pointsEstimated": true
+     "question": "Find the minimum atomic weight (relative atomic mass), A_min, of an ideal monatomic gas so that it remains in the atmosphere of Titan.",
+     "reference": "As the gas is monatomic, (3/2) k_B T_T ≈ (1/2) m_g v_rms^2 => v_rms ≈ sqrt(3 k_B N_A T_T / M_g). To remain in atmosphere, v_rms < v_esc / 6 => M_g > (54 k_B N_A T_T R_T) / (G M_T) > 13.2 g. Amin = 13.2. Answers between 13.0 and 13.4 are acceptable with full credit. Half mark for understanding that atomic mass has no units."
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Early Universe",
+   "weight": 10,
+   "total": 10,
+   "statement": "Cosmological models indicate that radiation energy density, ρ_r, in the Universe is proportional to (1 + z)^4, and the matter energy density, ρ_m, is proportional to (1 + z)^3, where z is the redshift. The dimensionless density parameter, Ω, is given as Ω = ρ/ρ_c, where ρ_c is the critical energy density of the Universe. In the present Universe, the density parameters corresponding to radiation and matter, are Ω_r0 = 10^−4 and Ω_m0 = 0.3, respectively.",
+   "parts": [
+    {
+     "id": "3.1",
+     "points": 3,
+     "question": "Calculate the redshift, z_e, at which radiation and matter energy densities were equal.",
+     "reference": "ρ_r0 (1 + z_e)^4 = ρ_m0 (1 + z_e)^3 => 1 + z_e = ρ_m0 / ρ_r0 = 0.3 / 10^−4 = 3000 => z_e ≃ 3000. Only z_e = 2999 and z_e = 3000 are acceptable answers."
+    },
+    {
+     "id": "3.2",
+     "points": 4,
+     "question": "Assuming that the radiation from the early Universe has a blackbody spectrum with a temperature of 2.732 K, estimate the temperature, T_e, of the radiation at redshift z_e.",
+     "reference": "T_e / T_0 = 1 + z_e = 3000 => T_e = 3000 × 2.732 = 8200 K. 8100 ≤ T_e ≤ 8200 gives 1.0; 8200 < T_e ≤ 9000 gives 0.5; else 0."
+    },
+    {
+     "id": "3.3",
+     "points": 3,
+     "question": "Estimate the typical photon energy, E_ν (in eV), of the radiation as emitted at redshift z_e.",
+     "reference": "Wien’s law: λ_max = 0.002898 / T_e = 354 nm. E_ν = hc / λ_max = 3.5 eV. Alternatively E_ν = k_B T_e = 0.71 eV. Use of either Wien’s law or E = k_B T gets full credit. Answers with E_ν = 3 k_B T or E_ν = 2.7 k_B T also get full credit."
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "Shadows",
+   "weight": 10,
+   "total": 10,
+   "statement": "An observer in the northern hemisphere noticed that the length of the shortest shadow of a 1.000 m vertical stick on a day was 1.732 m. On the same day, the length of the longest shadow of the same vertical stick was measured to be 5.671 m.\nFind the latitude, φ, of the observer and declination of the Sun, δ_⊙, on that day. Assume the Sun to be a point source and ignore atmospheric refraction.",
+   "parts": [
+    {
+     "id": "4.1",
+     "points": 10,
+     "question": "Find the latitude, φ, of the observer and declination of the Sun, δ_⊙, on that day.",
+     "reference": "As the longest shadow is of finite length, the Sun is circumpolar. cot(90° - φ + δ) = 1.732 => φ - δ = 60°. cot(φ - 90° + δ) = 5.671 => φ + δ = 100°. Solving gives φ = 80° (1.396 rad) and δ = 20° (0.349 rad). Given high accuracy, only ±0.5° is allowed."
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "title": "GMRT beam transit",
+   "weight": 10,
+   "total": 10,
+   "statement": "Giant Metrewave Radio Telescope (GMRT), one of the world's largest radio telescopes at metre wavelengths, is located in western India (latitude: 19° 6′ N, longitude: 74° 3′ E). GMRT consists of 30 dish antennas, each with a diameter of 45.0 m. A single dish of GMRT was held fixed with its axis pointing at a zenith angle of 39° 42′ along the northern meridian such that a radio point source would pass along a diameter of the beam, when it is transiting the meridian.\nWhat is the duration T_transit for which this source would be within the FWHM (full width at half maximum) of the beam of a single GMRT dish observing at 200 MHz?\nHint: The FWHM size of the beam of a radio dish operating at a given frequency corresponds to the angular resolution of the dish. Assume uniform illumination.",
+   "parts": [
+    {
+     "id": "5.1",
+     "points": 10,
+     "question": "What is the duration T_transit for which this source would be within the FWHM of the beam of a single GMRT dish observing at 200 MHz?",
+     "reference": "Zenith angle z = 39.7° => altitude a = 50.3°. Declination δ = 90° - a + φ = 58.8°. FWHM beam size θ = 1.22 λ / D = 2.33°. T_transit = (θ × 3.99 min) / cos δ = 17.9 min. Use of 4 min per degree is acceptable. Missing cos δ gets a penalty of 2.0."
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Cepheid Pulsations",
+   "weight": 20,
+   "total": 20,
+   "statement": "The star β-Doradus is a Cepheid variable star with a pulsation period of 9.84 days. We make a simplifying assumption that the star is brightest when it is most contracted (radius being R_1) and it is faintest when it is most expanded (radius being R_2). For simplicity, assume that the star maintains its spherical shape and behaves as a perfect black body at every instant during the entire cycle. The bolometric magnitude of the star varies from 3.46 to 4.08. From Doppler measurements, we know that during pulsation the stellar surface expands or contracts at an average radial speed of 12.8 km s^−1. Over the period of pulsation, the peak of thermal radiation (intrinsic) of the star varies from 531.0 nm to 649.1 nm.",
+   "parts": [
+    {
+     "id": "6.1",
+     "points": 7,
+     "question": "Find the ratio of radii of the star in its most contracted and most expanded states (R_1 / R_2).",
+     "reference": "F_1 / F_2 = 10^−0.4(m_1 - m_2) = 1.77. R_1 / R_2 = sqrt(F_1 / F_2) * (λ_1 / λ_2) = sqrt(1.77) * (531.0 / 649.1) = 0.890. Acceptable range: ±0.010."
+    },
+    {
+     "id": "6.2",
+     "points": 3,
+     "question": "Find the radii of the star (in metres) in its most contracted and most expanded states (R_1 and R_2).",
+     "reference": "R_2 - R_1 = v * P/2 = 5.441 × 10^9 m. (1 - 0.890)R_2 = 5.441 × 10^9 => R_2 = 4.95 × 10^10 m, R_1 = 4.41 × 10^10 m. Acceptable range: ±0.02 × 10^10 m for both."
+    },
+    {
+     "id": "6.3",
+     "points": 5,
+     "question": "Calculate the flux of the star, F_2, when it is in its most expanded state.",
+     "reference": "F_2 = F_⊙ 10^−0.4(m_2 - m_⊙) = 6.51 × 10^−10 W m^−2. Acceptable range: ±0.04 × 10^−10 W m^−2."
+    },
+    {
+     "id": "6.4",
+     "points": 5,
+     "question": "Find the distance to the star, D_star, in parsecs.",
+     "reference": "D_star = R_2 T_2^2 sqrt(σ / F_2) = 9.208 × 10^18 m = 298 pc. Acceptable range: 298 ± 2 pc."
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Telescope optics",
+   "weight": 20,
+   "total": 20,
+   "statement": "In a particular ideal refracting telescope of focal ratio f/5, the focal length of the objective lens is 100 cm and that of the eyepiece is 1 cm.",
+   "parts": [
+    {
+     "id": "7.1",
+     "points": 4,
+     "question": "What is the angular magnification, m_0, of the telescope? What is the length of the telescope, L_0, i.e. the distance between its objective and eyepiece?",
+     "reference": "m_0 = f_o / f_e = 100 / 1 = 100. L_0 = f_o + f_e = 101 cm. Exact answer required for credit."
+    },
+    {
+     "id": "7.2",
+     "points": 6,
+     "question": "A Barlow lens of focal length 1 cm is now introduced between the objective and the eyepiece to double the magnification. At what distance, d_B, from the prime focus must the Barlow lens be kept in order to obtain this desired double magnification?",
+     "reference": "m_B = 2 = v / u, v = 1 cm, d_B = u = v / 2 = 0.5 cm before the prime focus."
+    },
+    {
+     "id": "7.3",
+     "points": 4,
+     "question": "What is the increase, ΔL, in the length of the telescope?",
+     "reference": "ΔL = v - d_B = 1.0 - 0.5 = 0.5 cm."
+    },
+    {
+     "id": "7.4",
+     "points": 6,
+     "question": "A telescope is now constructed with the same objective lens and a CCD detector placed at the prime focus (without any Barlow lens or eyepiece). The size of each pixel of the CCD detector is 10 µm. What will be the distance in pixels between the centroids of the images of the two stars, n_p, on the CCD, if they are 20'' apart on the sky?",
+     "reference": "Plate scale s = 1 / f_o = 0.206265 arcsec/µm. sp = 2.06 arcsec/pixel. n_p = 20'' / 2.06 = 9.7 (~10 pixels). Acceptable range: 9.5 to 10.5 pixels."
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "U-Band photometry",
+   "weight": 20,
+   "total": 20,
+   "statement": "A star has an apparent magnitude m_U = 15.0 in the U-band. The U-band filter is ideal, i.e., it has perfect (100%) transmission within the band and is completely opaque (0% transmission) outside the band. The filter is centered at 360 nm, and has a width of 80 nm. It is assumed that the star also has a flat energy spectrum with respect to frequency. The conversion between magnitude, m, in any band and flux density, f, of a star in Jansky (1 Jy = 1 × 10^−26 W Hz^−1 m^−2) is given by f = 3631 × 10^−0.4m Jy",
+   "parts": [
+    {
+     "id": "8.1",
+     "points": 8,
+     "question": "Approximately how many U-band photons, N_0, from this star will be incident normally on a 1 m^2 area at the top of the Earth's atmosphere every second?",
+     "reference": "ν_max = 9.369 × 10^14 Hz, ν_min = 7.495 × 10^14 Hz, Δν = 1.874 × 10^14 Hz. f_st1 = 3.631 mJy = 3.631 × 10^−29 W Hz^−1 m^−2. N_0 = (Δν × f_st1 × A × Δt) / (h ν_avg) ≃ 12180. Accepted range: 12180 ± 200."
+    },
+    {
+     "id": "8.2",
+     "points": 8,
+     "question": "What is the ratio, R, of number of photons received per second from the star to that received from the sky, when measured over a circular aperture of diameter 2''?",
+     "reference": "m_sky = 20.76 mag. Extinction is 50%. R = (0.5 φ_st1) / φ_sky = 0.5 × 10^(20.76 - 15)/2.5 ≃ 100. Accepted range: ±5."
+    },
+    {
+     "id": "8.3",
+     "points": 4,
+     "question": "In practice, only 20% of U-band photons falling on the primary mirror are detected. How many photons, N_t, from the star are detected per second?",
+     "reference": "N_t = N_0 × 0.5 × 0.2 × (π D^2 / 4) = 12180 × 0.5 × 0.2 × π (2.0/2)^2 = 1233 π ≃ 3813. Accepted range: 3813 ± 50."
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Mars Orbiter Mission",
+   "weight": 20,
+   "total": 20,
+   "statement": "India's Mars Orbiter Mission (MOM) was launched using the Polar Satellite Launch Vehicle (PSLV) on 5 November 2013. The dry mass of MOM (body + instruments) was 500 kg and it carried fuel of mass 852 kg. It was initially placed in an elliptical orbit around the Earth with perigee at a height of 264.1 km and apogee at a height of 23903.6 km, above the surface of the Earth. After raising the orbit six times, MOM was transferred to a trans-Mars injection orbit (Hohmann orbit).\nThe first such orbit-raising was performed by firing the engines for a very short time near the perigee. The engines were fired to change the orbit without changing the plane of the orbit and without changing its perigee. This gave a net impulse of 1.73 × 10^5 kg m s^−1 to the satellite. Ignore the change in mass due to burning of fuel.",
+   "parts": [
+    {
+     "id": "9.1",
+     "points": 14,
+     "question": "What is the height of the new apogee, h_a above the surface of the Earth, after this engine burn?",
+     "reference": "r_p = 6635 km, r_a = 30275 km. Initial v_p = 9.929 km s^−1. Total mass m = 1352 kg. Δv = 128.0 m s^−1. v_p' = 10.06 km s^−1. New apogee r_a' = 35380 km, h_a = 29009 km. Acceptable range: ±150 km."
+    },
+    {
+     "id": "9.2",
+     "points": 6,
+     "question": "Find the eccentricity (e) of the new orbit after the burn and the new orbital period (P) of MOM in hours.",
+     "reference": "e = (r_a' - r_p') / (r_a' + r_p') = 0.683. Semi-major axis a' = 20933 km. Period P = 30136 s = 8.37 h. Acceptable ranges: e ±0.002, P ±0.1 h."
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Gravitational Lensing Telescope",
+   "weight": 20,
+   "total": 20,
+   "statement": "Einstein's General Theory of Relativity predicts bending of light around massive bodies. For simplicity, we assume that the bending of light happens at a single point for each light ray, as shown in the figure. The angle of bending, θ_b, is given by θ_b = 2 R_sch / r, where R_sch is the Schwarzschild radius associated with that gravitational body. We call r, the distance of the incoming light ray from the parallel x-axis passing through the centre of the body, as the “impact parameter”. A massive body thus behaves somewhat like a focusing lens.",
+   "parts": [
+    {
+     "id": "10.1",
+     "points": 6,
+     "question": "Consider the possibility of our Sun as a gravitational lensing telescope. Calculate the shortest distance, f_min, from the centre of the Sun (in A. U.) at which the light rays can get focused.",
+     "reference": "f_min = R_⊙^2 / (2 R_sch) = (R_⊙ c^2) / (4 G M_⊙) = 8.188 × 10^13 m = 547.3 AU."
+    },
+    {
+     "id": "10.2",
+     "points": 8,
+     "question": "Consider a small circular detector of radius a, kept at a distance f_min centered on the x-axis and perpendicular to it. Express the amplification factor, A_m, at the detector in terms of R_⊙ and a.",
+     "reference": "A_m = Φ / Φ_0 = (I_0 2π R_⊙ h) / (I_0 π a^2) = R_⊙ / a (using a ≃ 2h)."
+    },
+    {
+     "id": "10.3",
+     "points": 6,
+     "question": "Consider a spherical mass distribution, such as dark matter in a galaxy cluster, through which light rays can pass while undergoing gravitational bending. What should be the mass distribution, M(r), such that the gravitational lens behaves like an ideal optical convex lens?",
+     "reference": "For f_1 = f_2 for all r, r_1^2 / M(r_1) = r_2^2 / M(r_2). The required mass distribution is: M(r) ∝ r^2."
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Gravitational Waves",
+   "weight": 50,
+   "total": 50,
+   "statement": "The first signal of gravitational waves was observed by two advanced LIGO detectors at Hanford and Livingston, USA in September 2015. One of these measurements (strain vs time in seconds) is shown in the accompanying figure. In this problem, we will interpret this signal in terms of a small test mass m orbiting around a large mass M (i.e., m ≪ M), by considering several models for the nature of the central mass.",
+   "parts": [
+    {
+     "id": "11.1",
+     "points": 3,
+     "question": "Consider the observed gravitational waves shown in the figure above. Estimate the time period, T_0, and hence calculate the frequency, f_0, of gravitational waves just before the epoch of merger.",
+     "reference": "T_0 ≈ 0.007 s (acceptable range: 0.003 to 0.011 s). Frequency f_0 ≈ 142.86 Hz (acceptable range: 333.33 to 90.91 Hz)."
+    },
+    {
+     "id": "11.2",
+     "points": 10,
+     "question": "If the central object were a main sequence star, write an expression for the maximum frequency of gravitational waves, f_MS, in terms of mass of the star in units of solar masses (M_MS / M_⊙) and α.",
+     "reference": "f_MS = (1 / π) * sqrt(G M / R^3) * (M_MS / M_⊙)^((1 - 3α)/2)."
+    },
+    {
+     "id": "11.3",
+     "points": 9,
+     "question": "Using the above result, determine the appropriate value of α that will give the maximum possible frequency of gravitational waves, f_MS,max for any main sequence star. Evaluate this frequency.",
+     "reference": "Take α = 1.0 and lowest possible mass M_MS = 0.08 M_⊙. f_MS,max = 2.5 mHz."
+    },
+    {
+     "id": "11.4",
+     "points": 8,
+     "question": "White dwarf (WD) stars have a maximum mass of 1.44 M_⊙ and obey the mass-radius relation R ∝ M^−1/3. The radius of a solar mass white dwarf is equal to 6000 km. Find the highest frequency of emitted gravitational waves, f_WD,max, if the test mass is orbiting a white dwarf.",
+     "reference": "f_WD,max = 0.359 Hz (evaluated using M_WD = 1.44 M_⊙)."
+    },
+    {
+     "id": "11.5",
+     "points": 8,
+     "question": "Neutron stars (NS) are a peculiar type of compact objects which have masses between 1 and 3 M_⊙ and radii in the range 10 – 15 km. Find the range of frequencies of emitted gravitational waves, f_NS,min and f_NS,max, if the test mass is orbiting a neutron star at a distance close to the neutron star radius.",
+     "reference": "f_NS,min = 1.996 kHz (for M = M_⊙, R = 15 km); f_NS,max = 6.352 kHz (for M = 3 M_⊙, R = 10 km)."
+    },
+    {
+     "id": "11.6",
+     "points": 7,
+     "question": "If the test mass is orbiting a black hole (BH), write the expression for the frequency of emitted gravitational waves, f_BH, in terms of mass of the black hole, M_BH, and the solar mass M_⊙.",
+     "reference": "f_BH = 4.396 kHz × (M_⊙ / M_BH)."
+    },
+    {
+     "id": "11.7",
+     "points": 5,
+     "question": "Based only on the time period (or frequency) of gravitational waves before the epoch of merger, determine whether the central object can be a main sequence star (MS), a white dwarf (WD), a neutron star (NS), or a black hole (BH). Tick the correct option in the Summary Answersheet. Estimate the mass of this object, M_obj, in units of M_⊙.",
+     "reference": "Black Hole. M_obj = 4396 / 142.86 M_⊙ ≈ 31 M_⊙ (any answer between 13 to 50 gets full credit)."
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "title": "AstroSat / Exoplanets",
+   "weight": 60,
+   "total": 60,
+   "statement": "Note: This task set contains both AstroSat (T12.1-T12.6 from exam page 5-6, noting original numbering collisions) and Exoplanet questions (T12.1-T12.13 from exam page 20-27). Here we map the exact questions sequentially as presented in the PDF.",
+   "parts": [
+    {
+     "id": "12.1",
+     "points": 13,
+     "question": "Some X-ray sources like Cas A have a prominent emission line at 0.01825 nm corresponding to a radioactive transition of ^44Ti. Suppose there exists a source which emits only one bright emission line corresponding to this transition. What should be the minimum relative velocity (v) of the source, which will make the observed peak of this line to get registered in a different energy band counter of LAXPC as compared to a source at rest?",
+     "reference": "From LAXPC specifications and Doppler shift calculation across energy band counters."
+    },
+    {
+     "id": "12.2",
+     "points": 8,
+     "question": "Estimate the incident flux density from the source at 1 keV, 5 keV, 40 keV and 100 keV. Also estimate what will be the total count per unit bandwidth recorded by each of the instruments at these energies for an exposure time of 200 seconds.",
+     "reference": "Using F(E) = K E^−2/3 and instrument effective areas/efficiencies."
+    },
+    {
+     "id": "12.3",
+     "points": 4,
+     "question": "For this source, calculate the maximum exposure time (t_S), without suffering from saturation, for the CCD of SXT.",
+     "reference": "Using SXT saturation level of 15000 (total counts)."
+    },
+    {
+     "id": "12.4",
+     "points": 8,
+     "question": "If the source became 3500 times brighter, calculate the expected counts per second in LAXPC counter 1, counter 8 as well as total counts across the entire energy range. If we observe for longer period, will the counter saturate due to any individual counter or due to the total count?",
+     "reference": "Calculated based on LAXPC counters and saturation levels (50000 in any one counter or 200000 total)."
+    },
+    {
+     "id": "12.5",
+     "points": 10,
+     "question": "Assume that the counts reported by CZTI due to random fluctuations in electronics are about 0.00014 counts per pixel per keV per second at all energy levels. What is minimum exposure time, t_c, needed for the source above to be detected in CZTI with SNR at least 3?",
+     "reference": "Noise = sqrt(counts), SNR = Signal / Noise ≥ 3."
+    },
+    {
+     "id": "12.6",
+     "points": 7,
+     "question": "Let us consider the situation where the source shows variability in number flux, so that the factor K increases by 20%. AstroSat observed this source for 1 second before the change and 1 second after this change in brightness. Calculate the counts measured by SXT, LAXPC and CZTI in both observations. Which instrument is best suited to detect this change?",
+     "reference": "Direct evaluation of counts for each instrument before and after the 20% increase in K."
     }
    ]
   }

@@ -7,28 +7,329 @@
  "tasksFile": "olympiads/geography/s/ieso/2017/ieso-wt1.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "whole-document",
- "generatedAt": "2026-11-09T19:25:52.865Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:49:05.173Z",
  "quality": {
-  "tasks": 1,
-  "parts": 1,
-  "withPoints": 1,
+  "tasks": 4,
+  "parts": 40,
+  "withPoints": 40,
   "withReference": 0,
-  "withQuestion": 1,
-  "estimatedPoints": 1
+  "withQuestion": 40,
+  "estimatedPoints": 40
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задания тура",
-   "statement": "INSTRUCTIONS FOR THE WRITTEN TEST\n\nWRITTEN TEST 1 : 3 HOURS\n\nThe test is divided in sections. They can be partially linked.\nSo it may be interesting to try to answer the questions of\none section before beginning to the next one.\n\n        PLEASE ANSWER ON THE ANSWER SHEET\n\nMARKING THE QUESTIONS :\nIf only one answer is required (only one answer) :\n- Correct answer chosen : +1 point\n- Wrong answer or several answers chosen : 0 point\n\nIf several possible answers :\n- For each correct answer : + 1 point\n- For each wrong answer : -0,5 point\nNo question can be marked under 0 (zero). If number of negative points\nexceeds the positive points, the question will be marked zero : +1-1,5 = 0\n\n                                                                                                    Test code : WT-1\n                                     IESO 2017 - WRITTEN TEST NUMBER 1\n\n                    50 YEARS OF DEVELOPMENT IN THE VAR VALLEY\n\nThe Var alluvial plain is an estuary associated with the longest river in the French Southern Alps.\nBetween the mountains and sea, over a distance of 110 km, the Var is a vast depression (average\nwidth = 1.2 km), which reaches the Mediterranean coast. Such an environment presents many\nchallenges, including conservation of the unique biodiversity associated with the estuary, and the\nsustainable economic development of the area. Indeed, the Côte d’Azur is experiencing a period of\ngrowth in the pristine and utilizable areas of the lower valley. With the help of ﬁgures and your\nknowledge, we will take several approaches to understand the complexity of this vibrant\nenvironment.\n\n                                                          B\n              A\n\n              C\n\n                                                                                                          E\n                                                D\n\n              F                                                                                          G\n\nFIGURE 1 : (A) A view of the Var plain looking north; (B) Illustration of the major ﬂood of 1994; (C) Agricultural\nactivity in the valley of the Var; (D) and (E) Illustration of the preserved environments in the plain; (F) containment\nand dam to control the ﬂow of the river; (G) Industrial activity in the plain.\n\n                                                         !1 / !25\n\n                                                                                              Test code : WT-1\nSECTION 1 : OVERVIEW OF THE PETROLOGICAL DIVERSITY OF THE VAR VALLEY, STUDY TRACKS\n\nThe lower valley of the Var is a geographical area, which initially presents a landscape with\nrelatively homogenous rock types. However, on closer inspection, one can observe very diverse\nrocks, reﬂecting a complex geological history. The photographs below illustrate this diversity.\n\n     20 cm                                            7 cm\n\n                                                                 0,5 mm\n                                                                                   Plagioclase\n\n                                                                      Amphibole\n\n      A                                                 B\n\n                                                             Panoramic view form the top of the cliff (arrow)\n\n      C\n                                                             10 cm\n\n          20 cm\n                                     D                                                              E\n\nFIGURE 2 : Photographs of the large-scale geological formations that make up the landscape of the Var Plain.\n\n                                                      !2 / !25\n\n                                                                                        Test code : WT-1\nQuestion 1: Refer to ﬁgure 2. On your answer sheet, match the picture letter with the\nnumber of the corresponding description: (some descriptions do not correspond to any\nphotograph)\n1- an alluvial deposit indicating transported, deposited and poorly consolidated sediments.\n2- a metamorphic rock showing substantial deformation.\n3- a turbidite indicating a graded sequence.\n4- a sedimentary breccia at the bottom of a slope characterized by unsorted angular particles.\n5- a volcanic breccia composed of a ﬁne matrix, showing load-casts around blocks of microlitic\nrocks.\n6- a homogeneous and poorly consolidated clay deposit.\n7- a conglomerate of well-consolidated pebbles.\n8- a crystalline rock of granitic type because of its homogeneous massive appearance.\n9- a well-consolidated, sedimentary rock.\n\nQuestion 2: Refer to ﬁgure 2. The following statements describe geological processes\nfavorable to the formation of different rock types.On your answer sheet, match the picture\nletter with the number of the corresponding description: (some descriptions do not\ncorrespond to any photograph)\n1- Continental sedimentation with little or no transport\n2- Aeolian sedimentation.\n3- Deposition of volcanic material.\n4- Continental deposition and consolidation after a long transport\n5- Continental deposition after a long transport\n6- Shallow oceanic sedimentation (less than 2,000 meters)\n7. Sedimentation of ﬁne particles in a calm environment.\n\n              2cm\n\n                                  pebble a                             pebble b\n\nFIGURE 3 : Photograph of pebbles that constitute the conglomerates of the Var valley.\n\nQuestion 3 : Refer to ﬁgure 3. Beside the rock descriptions, correlate the pebbles\nphotographs and one of the description (some descriptions do not correspond to any\nphotograph) :\n1- An andesite-type of volcanic rock.\n2- A granitic-type of rock composed of minerals visible to the naked eye.\n3- A metamorphic rock like gneiss with bands of minerals with contrasting colors that highlight\nimportant deformations.\n4- A well consolidated rock composed of particles about one millimeter size. This is called a red\nsandstone because of its color.\n5- A very homogeneous rock that does not reveal any minerals to the naked eye.\n6- A metamorphic rock displaying schistosity.\n\n                                                      !3 / !25\n\n                                                                                                                                           Test code : WT-1\n\n                                                                                                                                              Sedimentary rocks\n\n                                                                                                                                                       Conglomérate\n\n                                                                                                                                                       Sandstone\n\n                                                                                                                                                       Marl\n\n                                                                                                                                                       Limestone\n\n                                                                                                                                                       Evaporite\n                                                                                                               Massif of\n                                                                                                               Argentera                               Red sandstone\n\n                                                Barrot                                                                                           Igneous rocks\n                                                Dome\n\n                                                                                                           Vésu\n                                                                                                                                                       Gneiss\n\n                                                                                                             bie\n                                                                                          Tinée\n                                                         Var                                                                                           Granite\n\n                                                                                                                                                       Volcanic rocks\n\n                                                               Estéron\n                                                                                                                                                       Location of\n                                                                                                                                                       pebble samples\n\n                                                                                                            pa\n                                                                                                              illo\n                                                                                                                  n\n                                                                                                                           Monaco\n                                                                  Loup\n\n                                                                                       Vence\n\n                                                                                                             Nice\n                                                                   Br\n\n                                       Siagne\n                                                                     ag\n\n                                                                                                     St-Laurent du Var\n                                                                         ue\n\n                                                                                                  Cagnes sur mer\n                                                                                                                           Mediterranean\n                                          Massif of\n                                                                                           Antibes                             Sea           0          km         20\n\n                                          Tanneron\n                                                                              Cannes\n\nFIGURE 4 : Simpliﬁed lithological map of the region crossed by the Var and its tributaries. Pebbles photographs are\nfrom the location marked by the red star.\n\nQuestion 4 : From the map (Figure 4), we can estimate the minimum distance traveled by\nthe rock fragments which have become the pebbles observed in ﬁgure 3 : (only one answer)\n\n     pebble A     pebble B\n\n1-    80 km        200 km\n\n2-    35 km         35 km\n\n3-    30 km         15 km\n\n4-    80 km         80 km\n\nTo understand this region, it is necessary to consider all aspects of the recent and older history of\nthis territory, for which rocks are the evidence. We will check later, in order to understand the\nmanagement issues of the lower Var valley.\n\n                                                                         !4 / !25\n\n                                                                                                           Test code : WT-1\n\nSECTION 2 : HYDROLOGY OF THE VALLEY, EVOLUTION OF AN IMPORTANT AQUIFER\n\nThe city of Nice and the neighboring communes draw a signiﬁcant amount of water from the\naquifer of the Var plain for domestic use. Also, It is a local resource for the agricultural activity that\nhistorically took place on the valley land.\n\n                                                Var\n                        Esteron                                             Age et nature\n                                                                            Nature        desofterrains\n                                                                                    and age     rocks\n                                          D11\n                                                                                     Quaternaire (alluvions et\n                                                                                     bèches de pente)\n                                     P4                                             Quaternary (allluvium and breach\n                                                                                    of slope) (Conglomérats, marnes)\n                                                                                    Néogène\n                                               P2                                   Neogene (Conglomerates and marls)\n                                                                                     Mésozoïque (calcaires, marnes\n                                   P7\n                                                                                     et évaporites)\n                                                                                    Mesozoic  (limestone, marls and\n                                    P10\n                                                                                    evaporites)\n                                                                                     Forte urbanisation (Nice, Saint-\n                                            P17                                     High urbanisation\n                                                                                     Laurent          (Nice, Saint-\n                                                                                             du Var, Cagnes  s/mer)\n                                               D10                                  Laurent du Var, Cagnes s/mer)\n                                                                            Symboles\n                                                            D9              Symbols\n                                                                                                     Seuil Sx et date de\n                                                         D8                                        Dam (D1en\n                                                                                                     mise   , Dservice\n                                                                                                               2, ..., Dx)\n                                                                                Embankments\n                                  D7 (May 1972)\n                                                                               Piezometer (P1, P2, ..., Px)\n              ",
-   "total": 10,
+   "title": "SECTION 1 : OVERVIEW OF THE PETROLOGICAL DIVERSITY OF THE VAR VALLEY, STUDY TRACKS",
+   "weight": 1,
+   "total": 4,
+   "statement": "The lower valley of the Var is a geographical area, which initially presents a landscape with relatively homogenous rock types. However, on closer inspection, one can observe very diverse rocks, reflecting a complex geological history. The photographs below illustrate this diversity.",
    "parts": [
     {
-     "id": "1",
-     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
-     "points": 10,
+     "id": "1.1",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Refer to figure 2. On your answer sheet, match the picture letter with the number of the corresponding description: 1- an alluvial deposit indicating transported, deposited and poorly consolidated sediments. 2- a metamorphic rock showing substantial deformation. 3- a turbidite indicating a graded sequence. 4- a sedimentary breccia at the bottom of a slope characterized by unsorted angular particles. 5- a volcanic breccia composed of a fine matrix, showing load-casts around blocks of microlitic rocks. 6- a homogeneous and poorly consolidated clay deposit. 7- a conglomerate of well-consolidated pebbles. 8- a crystalline rock of granitic type because of its homogeneous massive appearance. 9- a well-consolidated, sedimentary rock.",
+     "reference": ""
+    },
+    {
+     "id": "1.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Refer to figure 2. The following statements describe geological processes favorable to the formation of different rock types. On your answer sheet, match the picture letter with the number of the corresponding description: 1- Continental sedimentation with little or no transport. 2- Aeolian sedimentation. 3- Deposition of volcanic material. 4- Continental deposition and consolidation after a long transport. 5- Continental deposition after a long transport. 6- Shallow oceanic sedimentation (less than 2,000 meters). 7. Sedimentation of fine particles in a calm environment.",
+     "reference": ""
+    },
+    {
+     "id": "1.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Refer to figure 3. Beside the rock descriptions, correlate the pebbles photographs and one of the description: 1- An andesite-type of volcanic rock. 2- A granitic-type of rock composed of minerals visible to the naked eye. 3- A metamorphic rock like gneiss with bands of minerals with contrasting colors that highlight important deformations. 4- A well consolidated rock composed of particles about one millimeter size. This is called a red sandstone because of its color. 5- A very homogeneous rock that does not reveal any minerals to the naked eye. 6- A metamorphic rock displaying schistosity.",
+     "reference": ""
+    },
+    {
+     "id": "1.4",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "From the map (Figure 4), we can estimate the minimum distance traveled by the rock fragments which have become the pebbles observed in figure 3 : (only one answer)",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "SECTION 2 : HYDROLOGY OF THE VALLEY, EVOLUTION OF AN IMPORTANT AQUIFER",
+   "weight": 1,
+   "total": 11,
+   "statement": "The city of Nice and the neighboring communes draw a significant amount of water from the aquifer of the Var plain for domestic use. Also, It is a local resource for the agricultural activity that historically took place on the valley land.",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "On a large-scale, identify the rocks that can constitute a good groundwater reservoir. Aquifer is a medium that contains and transmits water: (several possible answers)",
+     "reference": ""
+    },
+    {
+     "id": "2.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "On a large-scale, identify the rocks that can prevent the passage of water from one aquifer to another: (Only one answer)",
+     "reference": ""
+    },
+    {
+     "id": "2.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "The data given in figure 7 (piezometers P2, P13 and P20) are related to the groundwater contained in aquifers. Those aquifers are essentially composed of (only one answer)",
+     "reference": ""
+    },
+    {
+     "id": "2.4",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Refer to figure 7, choose all correct statements pertaining to zone x (several answers possible)",
+     "reference": ""
+    },
+    {
+     "id": "2.5",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Refer to figure 7, choose the correct statement pertaining to zone y. The water table : (Only one answer)",
+     "reference": ""
+    },
+    {
+     "id": "2.6",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Refer to figure 7 and 8. Choose all correct statements pertaining to zone z (several possible answers)",
+     "reference": ""
+    },
+    {
+     "id": "2.7",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "In 1973, between the piezometers P15 and P20, 2,700,000 tons (tons = 1000 kg) of pebbles were extracted. Which volume corresponds to this mass ? (density of pebbles = 2000 kg.m-3)",
+     "reference": ""
+    },
+    {
+     "id": "2.8",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Over a year, the water table in piezometer P2 and P13 : (only one answer)",
+     "reference": ""
+    },
+    {
+     "id": "2.9",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Over the next five years, the change in groundwater level has continued the global trend (see question 12). The accepted explanation is extraction of the pebbles from the river-bed. What is the logical explanation to account for these two facts? Removing the pebbles would : (only one answer)",
+     "reference": ""
+    },
+    {
+     "id": "2.10",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Refer to table 1. Which problems are linked to changes in water table level (Figure 7) ? (several possible answers)",
+     "reference": ""
+    },
+    {
+     "id": "2.11",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Among the solutions meant to improve water supply, which ones would have limited the observed trend of the water table level ? (several answers possible)",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "SECTION 3 : SEISMIC CONTEXT OF THE VAR VALLEY AND SURROUNDING AREA",
+   "weight": 1,
+   "total": 10,
+   "statement": "Understanding the origin of seismic events should enable one to better characterize seismic hazard. We are interested in the geodynamic situation affecting the Var valley.",
+   "parts": [
+    {
+     "id": "3.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "The seismicity recorded by seismometers on the figure 9 shows : (several answers possible)",
+     "reference": ""
+    },
+    {
+     "id": "3.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Refer to figure 9. The spatial distribution of seismicity is : (several answers possible)",
+     "reference": ""
+    },
+    {
+     "id": "3.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Over the period from 1980 to 2012 (figure 9), the Var valley had a seismicity rate [blank] the regional seismic average",
+     "reference": ""
+    },
+    {
+     "id": "3.4",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Searching for traces of ancient earthquakes in historical witness accounts and historical records : (several possible answers)",
+     "reference": ""
+    },
+    {
+     "id": "3.5",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Based on these data, indicate the most responsible decision for the situation you have described",
+     "reference": ""
+    },
+    {
+     "id": "3.6",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Considering all the figures, choose the options from the list below which would lead you to infer the presence of a fault in the Var valley (several answers possible)",
+     "reference": ""
+    },
+    {
+     "id": "3.7",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Considering all the figures, choose the options from the list below which enable you to suspect the presence of an fault with a recent activity in the Var valley (one possible answer)",
+     "reference": ""
+    },
+    {
+     "id": "3.8",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Considering all the figures, choose the options from the list below which enable you to suspect the presence of a fault whose trajectory would run approximately SW-NE (several answers possible)",
+     "reference": ""
+    },
+    {
+     "id": "3.9",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Considering all the figures, choose the options from the list below which enable you to suspect the presence of a fault whose trajectory would run approximately SE-NW (several answers possible)",
+     "reference": ""
+    },
+    {
+     "id": "3.10",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Choose the most probable fault trace from the four given in figure below.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "title": "SECTION 4 : RECENT AND THE PRESENT GEODYNAMIC SITUATION OF THE REGION",
+   "weight": 1,
+   "total": 15,
+   "statement": "To better understand the geodynamical context, let us focus on the present situation in the western Mediterranean Sea.",
+   "parts": [
+    {
+     "id": "4.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "A fold with its axis oriented NE-SW indicates a shortening direction oriented : (one answer possible)",
+     "reference": ""
+    },
+    {
+     "id": "4.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Refer to figure 15. The observed tectonic structures indicate : (several answers possible)",
+     "reference": ""
+    },
+    {
+     "id": "4.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "For each of the geological formation designated by the letters x, y, and z, indicate the corresponding ages by using the following letters: J for Jurassic, C for Cretaceous, P for Pliocene, and Q for Quaternary.",
+     "reference": ""
+    },
+    {
+     "id": "4.4",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "The Pliocene pebble conglomerate, like most conglomerates, was probably deposited and consolidated… (only one answer)",
+     "reference": ""
+    },
+    {
+     "id": "4.5",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Using the cartographic data, the tectonic event that gave rise to Mount Huesti, having an elevation of 1167 meters, could be dated to : (several answers possible)",
+     "reference": ""
+    },
+    {
+     "id": "4.6",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "After examining the map below, choose the correct course of the thrust fault (numbered 1-4) that brought Mount Huesti into existence.",
+     "reference": ""
+    },
+    {
+     "id": "4.7",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "After considering all the previous information, choose the scenario whose sequence of deposition and deformation best explains the formation of Mount Huesti (on map).",
+     "reference": ""
+    },
+    {
+     "id": "4.8",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Tomography is a method, which enables color-coded representation of : (several answers possible)",
+     "reference": ""
+    },
+    {
+     "id": "4.9",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Refer to figure 17. The results of tomography suggest subduction in this area of the Mediterranean. The evidence provided by tomography is : (only one answer)",
+     "reference": ""
+    },
+    {
+     "id": "4.10",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Refer to figure 17. There are indications of (only one answer)",
+     "reference": ""
+    },
+    {
+     "id": "4.11",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "With reference to the known subduction model, the results of tomography are compatible with localized, active volcanism: (only one response)",
+     "reference": ""
+    },
+    {
+     "id": "4.12",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Refer to figure 18. Considering silicone layer (x), glucose syrup (y) and enriched glucose syrup (z); match x, y, z with the correct mantle/lithosphere layers.",
+     "reference": ""
+    },
+    {
+     "id": "4.13",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "In modeling, one must control the essential parameters of the modeled process. Indicate the parameters below that the researcher can control: (several answers possible)",
+     "reference": ""
+    },
+    {
+     "id": "4.14",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Subduction in the Mediterranean Sea resembles that shown in the analog model (figure 18). Choose the observations that demonstrate the similarity : (only one answer)",
+     "reference": ""
+    },
+    {
+     "id": "4.15",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "From the information available and your knowledge, choose the correct chronological order of the events leading to the formation of the western Mediterranean.",
      "reference": ""
     }
    ]

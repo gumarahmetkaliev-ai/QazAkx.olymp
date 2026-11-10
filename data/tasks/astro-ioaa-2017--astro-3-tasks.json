@@ -7,118 +7,45 @@
  "tasksFile": "olympiads/astronomy/s/ioaa/2017/astro-3-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:55:00.713Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:14:54.158Z",
  "quality": {
-  "tasks": 7,
-  "parts": 7,
-  "withPoints": 7,
+  "tasks": 2,
+  "parts": 2,
+  "withPoints": 2,
   "withReference": 0,
-  "withQuestion": 7,
-  "estimatedPoints": 7
+  "withQuestion": 2,
+  "estimatedPoints": 2
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
-   "statement": "Do not open the exam envelop yourself.",
-   "total": 7,
+   "title": "Observation with Equatorial Mount Telescope",
+   "weight": 50,
+   "total": 50,
+   "statement": "Instruction: Use the Equatorial Mount Telescope to observe the target given in the star chart. Write down the Name and make sure the target is focused.\n\nIncluded:\n- Equatorial Mount Telescope\n- Mount is already polar aligned\n- Eyepiece: 25 mm\n- Finder scope already aligned with the main scope\n- Telescope starts already pointing at “starting star” (see map)\n- Star chart with starting and target position marked.",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.1",
+     "points": 50,
      "pointsEstimated": true,
+     "question": "Target name: ________________________________________",
      "reference": ""
     }
    ]
   },
   {
    "number": 2,
-   "title": "Задача 2",
-   "statement": "This part of the exam involves observation with real sky. You must\n   complete two tasks using the equipment provided.",
-   "total": 7,
+   "title": "Observation with Dobsonian Telescope",
+   "weight": 50,
+   "total": 50,
+   "statement": "Instruction: Use the Dobsonian Telescope provided to observe only one of the following objects and focus on selected object.\n\nName / Bayer Designation:\n- Menkar (α Cet)\n- Markab (α Peg)\n- Hamal (α Ari)\n- Fomalhaut (α PsA)\n- Alpheratz (α And)\n\nIncluded:\n- Dobsonian Telescope\n- Eyepiece: 12 and 25 mm\n- Finder scope is already aligned with main scope.",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "2.1",
+     "points": 50,
      "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 3,
-   "title": "Задача 3",
-   "statement": "Hand the exam envelope to the proctor at the exam station.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 4,
-   "title": "Задача 4",
-   "statement": "You have 6 minutes to complete the first task, and 4 minutes to complete\n   the second task.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "4",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 5,
-   "title": "Задача 5",
-   "statement": "Once you complete a task, call out to the proctor to have it graded.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "5",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 6,
-   "title": "Задача 6",
-   "statement": "Once graded, that answer is considered final and you may not return to it\n   again.",
-   "total": 7,
-   "parts": [
-    {
-     "id": "6",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 7,
-   "title": "Задача 7",
-   "statement": "Once the timer has expired any ungraded task will be graded as is. (So\n   make sure you complete the task before the timer has elapsed)\n\n                                                                  Page 1 of 1\n\n                                                                            Student Code:\n                        Observational Examination (Night)\n                                                                            ☐☐☐-☐\nN1: Observation with Equatorial Mount Telescope\nInstruction: Use the Equatorial Mount Telescope to observe the target given in the star chart. Write\ndown the Name and make sure the target is focused.\n\nIncluded:\n- Equatorial Mount Telescope\n- Mount is already polar aligned\n- Eyepiece: 25 mm\n- Finder scope already aligned with the main scope\n- Telescope starts already pointing at “starting star” (see map)\n- Star chart with starting and target position marked.\n\nTarget name: ________________________________________\n\n                                                                         Student Code:\n                       Observational Examination (Night)\n                                                                         ☐☐☐-☐\nN2: Observation with Dobsonian Telescope\nInstruction: Use the Dobsonian Telescope provided to observe only one of the following objects\nand focus on selected object.\n\n                            Name                               Bayer Designation\n\n    ☐                      Menkar                                     α Cet\n\n    ☐                      Markab                                     α Peg\n\n    ☐                      Hamal                                      α Ari\n\n    ☐                    Fomalhaut                                   α PsA\n\n    ☐                     Alpheratz                                  α And\n\nIncluded:\n- Dobsonian Telescope\n- Eyepiece: 12 and 25 mm\n- Finder scope is already aligned with main scope.\n\nNote: To be provided attached to a clipboard at exam station\n\nNote: approximate sky during exam hours (Not provided to the examinees)\n\nNote: provided at exam station",
-   "total": 7,
-   "parts": [
-    {
-     "id": "7",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
+     "question": "Observe only one of the selected objects and focus on it.",
      "reference": ""
     }
    ]

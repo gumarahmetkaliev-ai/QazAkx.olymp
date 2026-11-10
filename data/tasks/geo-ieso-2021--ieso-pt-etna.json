@@ -7,28 +7,183 @@
  "tasksFile": "olympiads/geography/s/ieso/2021/ieso-pt-etna.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "whole-document",
- "generatedAt": "2026-11-09T19:25:51.754Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:39:45.110Z",
  "quality": {
   "tasks": 1,
-  "parts": 1,
-  "withPoints": 1,
+  "parts": 23,
+  "withPoints": 23,
   "withReference": 0,
-  "withQuestion": 1,
-  "estimatedPoints": 1
+  "withQuestion": 23,
+  "estimatedPoints": 23
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задания тура",
-   "statement": "Data Mining Test                               CASE STUDY #1\n\n2021 - Volcanic paroxysms of Etna\n\nFigure 1 : Map showing the position of Etna volcano along with Giarre and Zafferana Etnea.\nThe distance between Etna and Giarre city is about 30 km.\n\nThe volcano ‘Etna’ is visible from both land and sea and is well known for its long history that\nspans the ancient Mediterranean civilisations. Located in Sicily, Etna is the highest volcano in\nEurope (3326 meters). The volcano has a conical shape covering an area of 1200 km2. There are\ndozens of craters on its steep slopes as well as a caldera, the Valle del Bove, facing east.\n\nEtna is a Quaternary volcano. Its frequent eruptions throughout history have changed,\nsometimes profoundly, the surrounding landscape, repeatedly threatening the populations that\nhave settled around it over the millennia. The area is also at moderate seismic risk due to the\nvolcano's activity.\n\nThe volcano was very active during the months of February and March 2021, with several\nsuccessive paroxysms.\n\nThis is what the local population had to say about it:\n‘The last few days have been filled with wonder and amazement at the eruptive activity that we\ncontinue to admire. However, volcanic eruptions can also cause inconvenience, especially for the\npeople on the slopes of the volcano. This is because the wind carries with it all the fine, light\nmaterial that is blown out of the craters, transporting it hundreds of kilometres away. The\nparoxysms of the last few weeks have resulted in large ash falls and lava flows ...'.\n\nMain goal of the case study > Geological exploration aims to better understand the volcano\nand its activity in order to better protect ourselves. We propose to discover the tools and\nrecords that researchers have used to study this eruptive period of the volcano.\n\n                                                         1\n\nResources on line available for this test :\n\nMovies : 2 short films on the eruptive phase of the volcano\nReplay the volcanic eruption and its different aspects\n\n      Ash rain at Zafferana Etnea (little city on East slope of the volcano Etna)\n      https://youtu.be/5LaCQT_ph_Q\n\n      Lava fountains on Etna\n      https://youtu.be/gBGFrGpYMVU\n\nSatellite images (Sentinel 2 and Sentinel 5):\n      Access to ‘Sentinel eo browser’ website (European Space Agency) to discover satellite\n      images of the volcano over a period of time.\n      https://apps.sentinel-hub.com/eo-browser/ > Etna, Catania, Italy area\n\nSeismicity and seismograms recorded in Sicily :\n     Ground motion records from a network of seismological stations installed on Etna, and\n     seismicity catalogues\n     http://edumed.unice.fr/ieso2021/seismo/\n\nSoftware tectoglob3D\n     To display and analyse seismological data (seismograms and seismicity catalogue)\n     accessible from the previous website\n\nGPS time series from Etna INGV-EO (Istituto Nazionale di Geofisica e Vulcanologia)\n      Data to evaluate the global ground motion of the volcano.\n      https://edumedobs.maps.arcgis.com/apps/dashboards/47d44dbc36af457c9df4f4e6d85527e3\n\nWhen you see this sign : you have to access and/or to analyse data on line\n\nWhen you see this sign: you must answer the question\n\n_\n28 February 2021, 9:25 am:\n ‘A spectacular eruptive event at the southeast crater occurs on Mount Etna.\nThe first explosion, which marked the beginning of this new eruptive episode, occurred at 07:55\nUTC.\nThe ashes dispersed and then fell towards the areas of Zafferana Etnea and Giarre (Figure 1).\nThe lava fountains were mainly concentrated in two eruptive vents and reached a height of\nabout 300 meters. The seismic activity of the volcano, which initially remained at a medium\nlevel, reached high values within half an hour of the start of the lava fountain event.\nAt 10:30, the lava fountain in the southeast crater stopped almost suddenly, while the lava flow\ntowards the Valle del Bove remained active ...’\n\n                                                   2\n\nPart 1 : DISCOVER the volcanic eruption with Sentinel satellites images\n\nSentinel is an Earth observation mission that systematically acquires optical imagery at high\nspatial resolution (10 m to 60 m) over land and coastal waters. The mission is a constellation\nwith two twin satellites, Sentinel-2 and Sentinel 5.\n\nAccess to the Sentinel web site (ESA) > https://apps.sentinel-hub.com/eo-browser/\n\nSearch ‘Etna area’ > Etna, Adrano, Catania, Italy\nDiscover image taken by Sentinel 2, February 28, 2021 at 09h50 (UTC)\n\nQuestion 1 : [Only one answer is correct]\n What is the best combination of spectral bands to visualize, to distinguish and to differentiate\nlava flow, ash plume, vegetation, clouds and snow in a single image?\n\n1A : True color (based on bands 4,3,2)\n1B : False color (based on bands 8,4,3)\n1C : Moisture index\n1D : SWIR (Short wave infrared composite)\n\nLet's take a look at the lava!\n\nQuestion 2: [Only one answer is correct]\nWhat is the exact location (in decimal degrees) of the downstream point reached by the lava at\n9.50am on that day?\n\n2A : Latitude : 37,750 / Longitude : 14,997\n2B : Latitude : 37,650 / Longitude : 15,000\n2C : Latitude : 37,740 / Longitude : 15,030\n2D : Latitude : 37,710 / Longitude : 15,090\n\nQuestion 3: [More than one answer is correct]\nKnowing that the volcanic eruption started at about 08:00 am. What are the correct answers?\nYou need to log in on the web site to use the function ‘Measure’\n\n3A: The lava flowed for about 2600 meters at an average speed of 1500 m/h\n3B: The lava is fluid because it flowed at a fast speed of more than 1 km/h\n3C: The lava flowed for about 2600 meters with an average speed of 500 m/day\n3D: The lava is not very fluid because its average flow speed does not exceed a few meters per\nhour.\n\nQuestion 4: [Only one answer is correct]\nBy comparing various eruptions (08/04/2017, 26/12/2018 and 28/02/2021) visualize the lavas\nflow emitted, and answer the following question:\n\n4A: All the lava from theses eruptions flowed into the Valle del Bove.\n4B: Lava from the 26/12/2018 eruption spread over 6 km.\n\n                                                 3\n\n4C: The volcanic eruption of 26/12/2018 produced lava flowing from a lateral eruptive vent.\n4D: Of all the eruptions seen, the paroxysm of 28/02/2021 appears to be the most worrying for\nthe population.\n\nQuestion 5: [Only one answer is correct]\nOnce cooled, the lava of the volcano appears dark on the satellite image. Samples collected in\nthe field reveal a particular rock.\n\nsample                              thin slide LPNA                     thin slide (Polarized and analyzed light)\nReference images : Lithology Bourgogne (http://www.macromicrophoto.fr/petrography/zoom/basalte-etna.html)\n\nHow would you characterize the lava of Etna?\n\n5A: Rocks with a microlithic structure rich in plagioclase and pyroxene, derived from a very fluid\nlava\n5B: Rocks with a grainy structure composed of plagioclase and pyroxene, and a lot of vacuoles\n5C: Rocks with a microlithic structure rich in feldspars, quartz, micas, and therefore very acid\nand viscous\n5D: rocks with a lot of vacuoles and without any mineral visible under the microscope\n\nQuestion 6: [Only one answer is correct]\nWhat is the best hypothesis on the identity of the rock thus formed? The rocks of Etna belong\nto the family of:\n\n6A : rhyolites\n6B : diorites\n6C : andesites\n6D : basalts\n\nQuestion 7: [More than one answer is correct]\nEvery time a volcano erupts, magma can flow out of the mountain at various points. In what\nsituations is the lava flow a real danger to people and infrastructure?\n\n7A : A Lava flow outside the Bove valley\n7B : A lateral flow to the south because the slope is steeper\n7C : A Lava flow from a more siliceous magma\n7D : A strong wind coming from the west\n\n                                                          4\n\nLet us now turn our attention to the ash plume!\n\nYou should watch the video Plume of ash and lava fountains on Mount Etna'\n  https://youtu.be/InEQKf4O-Vs\n\nQuestion 8: [Only one answer is correct]\nIn which direction did the ash plume disperse into the atmosphere on 28 February 2021?\nDo not hesitate to zoom out your satellite image\n\n8A : North 10°\n8B : East 90°\n8C : South East 110°\n8D : South 180°\n\nQuestion 9: [Only one answer is correct]\nComparing the images taken by Sentinel-2 over the period 26 February 2021 to 3 March 2021,\nwhich is the most appropriate answer?\n\n9A: The plume has changed direction\n9B: The plume is still dispersing ash towards the cities on the eastern slope\n9C: There was only an ash plume on 28 February\n9D: The plume forms a column of ash that only rises vertically\n\nSentinel is a family of satellites. Sentinel-5 is a satellite that provides atmospheric\nmeasurements to be used for air quality, ozone monitoring, UV radiation, and climate\nmonitoring and forecasting. Spatial resolution: 7 x 3.5km (that is, only details bigger than 7 x\n3.5km can be seen). Revisit time: Maximum 1 day to revisit the same area. Common usage:\nMonitoring the concentration of carbon monoxide (CO), nitrogen dioxide (NO2) and ozone (O3)\nin the air. Monitoring the UV aerosol index (AER_AI) and various geophysical parameters of\nclouds (Cloud).\n\nQuestion 10: [More than one answer is correct]\nLooking at Sentinel-5 images, what elements appear to be present in the high-altitude ash\nplume of 28 February?\nDo not hesitate to zoom out your satellite image\n\n10 A : SO2\n10 B : NO2\n10 C : CH4\n10 D : aerosols\n\nQuestion 11: [Only one answer is correct]\nIn the days following 28 February, in which countries could we expect to see the most ash from\nthe volcano in the atmosphere:\n\n11 A: Greece and Turkey\n11 B: Tunisia and North Africa\n11 C: Northern Italy and Europe\n\n                                                  5\n\n11 D: Malta and the Middle East\nIn CATANIA TODAY (Sicilian newspaper): The wind carries with it all the fine and light material\nthat is thrown up by the craters, transporting it hundreds of kilometres away. The paroxysm of\nthis Sunday 28 February caused a huge ash fall on the eastern side of Etna, between Giarre and\nAcireale ...\n\nYou should watch the video 'Ash rain at Zafferana (Sicily, Etna)'.\n    https://youtu.be/5LaCQT_ph_Q\n\nThe measurement of particles in the atmosphere is made possible with a photometer.\nThis sensor, pointed at the sun, can investigate the particles present in the atmosphere using\ntwo parameters: the AOD (Atmospheric Optical Depth) and the ALPHA (Angström exponent).\n\nEach measurement can therefore be interpreted using the diagram below, which indicates the\nnature and size of the particles likely to be present in the atmosphere.\n\n                                                                            Particules size\n\nA series of measurements were made with a photometer from Bronte city (on the west slope of\nEtna), with the photometer pointing towards Etna Summit, at sunrise for 20 minutes.\n\n West                                                                        East\n\n                                                6\n\n                                                   Dataset\n\n Etna Summit\n seen from Bronté\n\nQuestion 12: [More than one answer is correct]\nWhich are the most correct answers?\n\n12A : The volcanic ash is a big particle (> 10 m)\n12B : The volcanic ash is a particle of the order of 2,5 m\n12C : The ash consists exclusively of fine lava fragments\n12D : Wearing a mask is recommended as the ash can reach lungs\n\nQuestions 13: [Only one answer is correct]\nOnce ash falls to the ground, it solidifies over time and turns into rock. What rock can be\nproduced by the deposit and the consolidation the volcanic ash?\n\n13A: A sandstone\n13B: A tuff\n13C: An oolitic limestone\n13D: A volcanic bomb\n\n                                               7\n\nIn CATANIA TODAY (Sicilian newspaper) > ‘From waste to resources, from problems to\nopportunities.’\nToday, the volcanic ash from Etna is classified as waste to be delivered to landfills (cost of about\n120 € per ton) or to aggregate recovery plants (cost of about 12 € per ton). These costs are in\naddition to the costs of collecting ash from the streets (several hundred thousand euros).\nOf course, volcanic ash presents a real danger for the population. But the volcanic ash from Etna\ncould also be used for various civil engineering and environmental applications. The results of\nthe REUCET (Recovery and Utilisation of Etna's Volcanic Ash) project support this hypothesis.\nIndeed, the use of volcanic ash as a substitute for natural materials would have the double\nenvironmental benefit of reducing the consumption of natural resources and avoiding the\ndisposal of ash as waste, thus promoting the transition to a circular economy …\n\nQuestions 14: [More than one answer is correct]\nIn what areas can volcanic ash cause inconvenience to people?\n\n14A: Pollution of the drink water\n14B: Health: respiratory illness\n14C: Agriculture: fertilization of the soils\n14D: Parasol effect: atmospheric opacity\n\nAsh and lava are therefore material resulting from the magma produced by the volcano. A\nvolcano produces a lot of magma, often accumulated several years before in magma chambers.\n\nPart 2 : STUDY the eruption from ground motion at different scales\n\nLet's take a look at the tracking of ground movement recorded by GPS!\n\nGPS sensors (GNSS network) track the ground movement on Etna. By measuring the speed of\nmovement of the different beacons we can follow the evolution of the magma chambers of the\nvolcano.\n\nAccess to GPS data of Etna: times series of some sensors\n\nhttps://edumedobs.maps.arcgis.com/apps/dashboards/47d44dbc36af457c9df4f4e6d85527e3\n\nQuestion 15: [Only one answer is correct]\nThe comparative speeds of the beacons in horizontal movement (longitude and latitude) and in\nvertical movement show one of these 4 situations.\n\n                                                  8\n\n  You can study only some of the sensors : EDAM, ECRI, ECPN, EMGL, EPED, EMFN\n\n  Choose the correct situation for the period between 13 February to 25 March.\n  RED : horizontal movement (Latitude/longitude) – BLUE : Vertical movement\n\n15A                                                   15B\n\n15C                                                   15D\n\n  Question 16: [More than one answer is correct]\n  By examining the evolution of the beacons between 13 February and 25 March, choose the\n  correct conclusions:\n\n  16A : Data from beacons, close to the summit, show inflation of the volcano magma chambers\n  16B : Due to the successive lava flow eruptions, the volcano shows deflation\n  16C : The vertical movement of the beacons at the top of the volcano is of the order of 35 mm\n  16D : All the beacons on the volcano show the same speed of vertical movement\n\n  The deformations observed lead us to imagine that the region regularly records local\n  earthquakes, particularly during eruptive phases. The seismometers installed around Etna bear\n  witness to this.\n\n  Let's look at the ground mot",
-   "total": 10,
+   "title": "2021 - Volcanic paroxysms of Etna",
+   "weight": 1,
+   "total": 23,
+   "statement": "Case study based on the 2021 volcanic paroxysms of Mount Etna, Sicily. Utilizing remote sensing data (Sentinel satellites), GPS time series, seismological records, and geological data to explore the volcanic activity, its impacts, and monitoring methods.",
    "parts": [
     {
-     "id": "1",
-     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
-     "points": 10,
+     "id": "1.1",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "What is the best combination of spectral bands to visualize, to distinguish and to differentiate lava flow, ash plume, vegetation, clouds and snow in a single image? (1A: True color, 1B: False color, 1C: Moisture index, 1D: SWIR)",
+     "reference": ""
+    },
+    {
+     "id": "1.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "What is the exact location (in decimal degrees) of the downstream point reached by the lava at 9.50am on that day?",
+     "reference": ""
+    },
+    {
+     "id": "1.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Knowing that the volcanic eruption started at about 08:00 am. What are the correct answers regarding lava flow speed and distance?",
+     "reference": ""
+    },
+    {
+     "id": "1.4",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "By comparing various eruptions (08/04/2017, 26/12/2018 and 28/02/2021) visualize the lavas flow emitted, and answer the following question.",
+     "reference": ""
+    },
+    {
+     "id": "1.5",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "How would you characterize the lava of Etna based on microscope images and samples?",
+     "reference": ""
+    },
+    {
+     "id": "1.6",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "What is the best hypothesis on the identity of the rock thus formed? The rocks of Etna belong to the family of: (rhyolites, diorites, andesites, basalts)",
+     "reference": ""
+    },
+    {
+     "id": "1.7",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "In what situations is the lava flow a real danger to people and infrastructure?",
+     "reference": ""
+    },
+    {
+     "id": "1.8",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "In which direction did the ash plume disperse into the atmosphere on 28 February 2021?",
+     "reference": ""
+    },
+    {
+     "id": "1.9",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Comparing the images taken by Sentinel-2 over the period 26 February 2021 to 3 March 2021, which is the most appropriate answer?",
+     "reference": ""
+    },
+    {
+     "id": "1.10",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Looking at Sentinel-5 images, what elements appear to be present in the high-altitude ash plume of 28 February?",
+     "reference": ""
+    },
+    {
+     "id": "1.11",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "In the days following 28 February, in which countries could we expect to see the most ash from the volcano in the atmosphere?",
+     "reference": ""
+    },
+    {
+     "id": "1.12",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which are the most correct answers regarding atmospheric ash particle size and effects?",
+     "reference": ""
+    },
+    {
+     "id": "1.13",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Once ash falls to the ground, it solidifies over time and turns into rock. What rock can be produced by the deposit and the consolidation the volcanic ash?",
+     "reference": ""
+    },
+    {
+     "id": "1.14",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "In what areas can volcanic ash cause inconvenience to people?",
+     "reference": ""
+    },
+    {
+     "id": "1.15",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Choose the correct situation for the period between 13 February to 25 March regarding horizontal and vertical GPS movements.",
+     "reference": ""
+    },
+    {
+     "id": "1.16",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "By examining the evolution of the beacons between 13 February and 25 March, choose the correct conclusions.",
+     "reference": ""
+    },
+    {
+     "id": "1.17",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Discover the ground motion recorded (dayplot) at these three stations from 26 February to 21 March 2021 and identify the volcanic activity pattern.",
+     "reference": ""
+    },
+    {
+     "id": "1.18",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which statements are correct regarding the local earthquakes recorded in Sicily between 19 and 22 March 2021?",
+     "reference": ""
+    },
+    {
+     "id": "1.19",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which statements are correct regarding the location of seismicity in relation to the volcano Etna?",
+     "reference": ""
+    },
+    {
+     "id": "1.20",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Locate the epicentre of the 21 March earthquake using Tectoglob3D.",
+     "reference": ""
+    },
+    {
+     "id": "1.21",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "By analysing the seismogram recorded at EVRN station, find out how long it took for the first seismic wave train to reach the station and evaluate its propagation speed.",
+     "reference": ""
+    },
+    {
+     "id": "1.22",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Make a screenshot of your work with the virtual globe, the epicenter location designed by circles, local seismicity, seismograms.",
+     "reference": ""
+    },
+    {
+     "id": "1.23",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "According to your study, indicate the events that can directly impact the population.",
      "reference": ""
     }
    ]

@@ -6,119 +6,111 @@
  "lang": "ru",
  "tasksFile": "olympiads/astronomy/s/ioaa/2010/astro-1-tasks.pdf",
  "solutionFile": "olympiads/astronomy/s/ioaa/2010/astro-1-sol.pdf",
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T18:02:26.794Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:18:57.714Z",
  "quality": {
-  "tasks": 7,
-  "parts": 7,
-  "withPoints": 7,
-  "withReference": 7,
-  "withQuestion": 7,
-  "estimatedPoints": 7
+  "tasks": 2,
+  "parts": 13,
+  "withPoints": 13,
+  "withReference": 12,
+  "withQuestion": 13,
+  "estimatedPoints": 1
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
-   "statement": "Identify any 5 bright stars (mark them by Roman numerals) from the image and mark them on\n       both the image and map.",
-   "total": 7,
+   "title": "CCD image",
+   "weight": 35,
+   "total": 35,
+   "statement": "Information:\nPicture 1 presents a negative image of sky taken by a CCD camera attached to a telescope whose parameters are presented in the accompanying table (which is part of the FITS datafile header).\nPicture 2 consists of two images: one is an enlarged view of part of Picture 1 and the second is an enlarged image of the same part of the sky taken some time earlier.\nPicture 3 presents a sky map which includes the region shown in the CCD images.\n\nThe stars in the images are far away and should ideally be seen as point sources. However, diffraction on the telescope aperture and the effects of atmospheric turbulence (known as 'seeing') blur the light from the stars. The brighter the star, the more of the spread-out light is visible above the level of the background sky.",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
+     "id": "1.1",
+     "points": 2,
+     "question": "Identify any 5 bright stars (mark them by Roman numerals) from the image and mark them on both the image and map.",
      "reference": "0.5 point for one star, totally 2 points"
+    },
+    {
+     "id": "1.2",
+     "points": 2,
+     "pointsEstimated": true,
+     "question": "Mark the field of view of the camera on the map.",
+     "reference": "(2 p)"
+    },
+    {
+     "id": "1.3",
+     "points": 4,
+     "question": "Use this information to obtain the physical dimensions of the CCD chip in mm.",
+     "reference": "According to the pic of A2, it's easy to find the field of view of the telescope. It's about 26’, and the declination of the center of the CCD image is 7.3°. Thus the side length of the field of view is : 26' × cos7.3° = 1550''\nImage scale is d = fθ , so, s = f/206.265 mm/arcsec = 0.0154 mm/arcsec.\nThe chip size is 1550 × 0.0154 = 24mm."
+    },
+    {
+     "id": "1.4",
+     "points": 4,
+     "question": "Estimate the size of the blurring effect in arcseconds by examining the image of the star in Picture 2. (Note that due to changes in contrast necessary for printing, the diameter of the image appears to be about 3.5 times the full width at half maximum (FWHM) of the profile of the star.)",
+     "reference": "The star is 10 pixels across, so the FWHM is 10/3.5 = 2.9 pixels.\nSeeing is S = 2.9 pixels × 1.5\"/pixel (from Q3 and 1024 pixels) = 4.4\"."
+    },
+    {
+     "id": "1.5",
+     "points": 4,
+     "question": "Compare the result with theoretical size of the diffraction disc of the telescope.",
+     "reference": "Theoretical (Airy) diffraction disc is 2.44λ/D radians in diameter:\nA= 2.44 × 550×10-9/ 0.61 rad= 0.45\" ~ 0.3 pixels\nA << S (seeing).(Accept all reasonable wavelengths: 450-650nm)"
+    },
+    {
+     "id": "1.6",
+     "points": 3,
+     "question": "Seeing of 1 arcsecond is often considered to indicate good conditions. Calculate the size of the star image in pixels if the atmospheric seeing was 1 arcsecond and compare it with the result from question 4.",
+     "reference": "Seeing = FWHM × 1.5\"/pixel (from Q3) =1\" . So, FWHM=1/1.5 pixel=1pixel\nPrinted image of star would then be s2=3.5×FWHM =3.5 pixels.\nNote: if use : s2=1\"*10 pix/4.4\"=2.3 pix, 2 points."
+    },
+    {
+     "id": "1.7",
+     "points": 16,
+     "question": "Two objects observed moving relative to the background stars have been marked on Picture 1. The motion of one (“Object 1”) was fast enough that it left a clear trail on the image. The motion of the other (“Object 2”) is more easily seen on the enlarged image (Picture 2A) and another image taken some time later (Picture 2B). Using the results of the first section, determine the angular velocity on the sky of both objects. Choose which of the statements in the list below are correct, assuming that the objects are moving on circular orbits. (Points will be given for each correct answer marked and deducted for each incorrect answer marked.) The probable causes of the different angular velocities are: a) different masses of the objects, b) different distances of the objects from Earth, c) different orbital velocities of the objects, d) different projections of the objects’ velocities, e) Object 1 orbits the Earth while Object 2 orbits the Sun.",
+     "reference": "For object 1, the trail of the object is about 107\" (measured from pic 1, 300s exposure). It's angular velocity is: ω1=107\"/300s=0.36 \"/s. Note: accept to v±10% . (3p)\nFor object 2, it's moves about 8 pixels between pic 2A and 2B. 8 pixels ~ 12\", and the time between exposures is 17m27s. It's angular velocity is: ω2=12\"/1047s=0.012 \"/s (accept ±10%) . (3p)\na) wrong: different masses of the objects, (+2/-1p)\nb) right: different distances of the objects from Earth, (+3/-1p)\nc) right: different orbital velocities of the objects, (+3/-1p)\nd) wrong: different projections of the objects’ velocities, (+2/-1p)\ne) rejected: Object 1 orbits the Earth while Object 2 orbits the Sun. (0p)"
     }
    ]
   },
   {
    "number": 2,
-   "title": "Задача 2",
-   "statement": "Mark the field of view of the camera on the map.",
-   "total": 7,
+   "title": "Light curves of stars",
+   "weight": 35,
+   "total": 35,
+   "statement": "A pulsating variable star KZ Hydrae was observed with a telescope equipped with a CCD camera. Figure 1 shows a CCD image of KZ Hya marked together with the comparison star and the check star. Table 1 lists the observation time in Heliocentric Julian dates, the magnitude differences of KZ Hya and the check star relative to the comparison star in V and R band.",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "3) According to the pic of A2, it's easy to find the field of view of the telescope. It's about 26’, and the\n\n                                                                                                               61\n\n                                                                                 Proceedings of 4th IOAA\n\n declination of the center of the CCD image is 7.3°. Thus the side length of the field of view is :\n                                            26' × cos7.3° = 1550’’\n Image scale is d = fθ , so, s = f/206.265 mm/arcsec = 0.0154 mm/arcsec.\n The chip size is 1550 × 0.0154 = 24mm.                                                             (4p)"
-    }
-   ]
-  },
-  {
-   "number": 3,
-   "title": "Задача 3",
-   "statement": "Use this information to obtain the physical dimensions of the CCD chip in mm.",
-   "total": 7,
-   "parts": [
+     "id": "2.1",
+     "points": 6,
+     "question": "Draw the light curves of KZ Hya relative to the comparison star in V and R band, respectively.",
+     "reference": "Light curves of KZ Hya in V and R. (6p)"
+    },
     {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "According to the pic of A2, it's easy to find the field of view of the telescope. It's about 26’, and the\n\n                                                                                                               61\n\n                                                                                 Proceedings of 4th IOAA\n\n declination of the center of the CCD image is 7.3°. Thus the side length of the field of view is :\n                                            26' × cos7.3° = 1550’’\n Image scale is d = fθ , so, s = f/206.265 mm/arcsec = 0.0154 mm/arcsec.\n The chip size is 1550 × 0.0154 = 24mm.                                                             (4p)"
-    }
-   ]
-  },
-  {
-   "number": 4,
-   "title": "Задача 4",
-   "statement": "Estimate the size of the blurring effect in arcseconds by examining the image of the star in\n       Picture 2. (Note that due to changes in contrast necessary for printing, the diameter of the image\n       appears to be about 3.5 times the full width at half maximum (FWHM) of the profile of the star.)",
-   "total": 7,
-   "parts": [
+     "id": "2.2",
+     "points": 8,
+     "question": "What are the average magnitude differences of KZ Hya relative to the comparison star in V and R, respectively?",
+     "reference": "ΔV = (1/n) Σ ΔVi = -0.248 mag (4p)\nΔR = (1/n) Σ ΔRi = 0.127 mag (4p)"
+    },
     {
-     "id": "4",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "The star is 10 pixels across, so the FWHM is 10/3.5 = 2.9 pixels.                              (4p)\n Seeing is S = 2.9 pixels × 1.5\"/pixel (from Q3 and 1024 pixels) = 4.4\"."
-    }
-   ]
-  },
-  {
-   "number": 5,
-   "title": "Задача 5",
-   "statement": "Compare the result with theoretical size of the diffraction disc of the telescope.\n\n                                                                                                                  55\n\n                                                                                 Proceedings of 4th IOAA",
-   "total": 7,
-   "parts": [
+     "id": "2.3",
+     "points": 8,
+     "question": "What are the photometry precisions in V and R, respectively?",
+     "reference": "σ_ΔV = sqrt((1/(n-1)) Σ (ΔVi - ΔV)^2) = 0.083 mag (4p)\nσ_ΔR = sqrt((1/(n-1)) Σ (ΔRi - ΔR)^2) = 0.011 mag (4p)"
+    },
     {
-     "id": "5",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "Theoretical (Airy) diffraction disc is 2.44λ/D radians in diameter:\n     A= 2.44 × 550×10-9/ 0.61 rad= 0.45\" ~ 0.3 pixels\n A << S (seeing).(Accept all reasonable wavelengths: 450-650nm)                                    (4p)"
-    }
-   ]
-  },
-  {
-   "number": 6,
-   "title": "Задача 6",
-   "statement": "Seeing of 1 arcsecond is often considered to indicate good conditions. Calculate the size of the\n         star image in pixels if the atmospheric seeing was 1 arcsecond and compare it with the result\n         from question 4.",
-   "total": 7,
-   "parts": [
+     "id": "2.4",
+     "points": 4,
+     "question": "Estimate the pulsation periods of KZ Hya in V and R.",
+     "reference": "measured from the differences of times at the maximum values of the fits of the two peaks in V and R, respectively: 0.06 days, 0.06 days. (4p)"
+    },
     {
-     "id": "6",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "4) The star is 10 pixels across, so the FWHM is 10/3.5 = 2.9 pixels.                              (4p)\n Seeing is S = 2.9 pixels × 1.5\"/pixel (from Q3 and 1024 pixels) = 4.4\"."
-    }
-   ]
-  },
-  {
-   "number": 7,
-   "title": "Задача 7",
-   "statement": "Two objects observed moving relative to the background stars have been marked on Picture 1.\n         The motion of one (“Object 1”) was fast enough that it left a clear trail on the image. The\n         motion of the other (“Object 2”) is more easily seen on the enlarged image (Picture 2A) and\n         another image taken some time later (Picture 2B).\n        Using the results of the first section, determine the angular velocity on the sky of both objects.\n        Choose which of the statements in the list below are correct, assuming that the objects\n        are moving on circular orbits. (Points will be given for each correct answer marked\n        and deducted for each incorrect answer marked.)The probable causes of the different\n        angular velocities are:\n         a) different masses of the objects,\n         b) different distances of the objects from Earth,\n         c) different orbital velocities of the objects,\n         d) different projections of the objects’ velocities,\n         e) Object 1 orbits the Earth while Object 2 orbits the Sun.\n\n56\n\n Proceedings of 4th IOAA\n\nData:\nFor Picture 1, the data are,\nBITPIX =                         16\nNAXIS      =                       2\nNAXIS1 =                       1024\nNAXIS2 =                       1024\nDATE-OBS= '2010-09-07 05:00:40.4'\nTIMESYS = 'UT'\nEXPTIME =                    300.00\nOBJCTRA = '22 29 20.031'\nOBJCTDEC= '+07 20 00.793'\nFOCALLEN= '3.180m'\nTELESCOP= '0.61m '\n\n/ Number of bits per pixel\n/ Number of axes\n/ Width of image (in pixels)\n/ Height of image (in pixels)\n/ Middle of exposure\n/ Time Scale\n/ Exposure time (seconds)\n/ RA of center of the image\n/ DEC of center of the image\n/ Focal length of the telescope\n/ Telescope aperture\n\n                                  57\n\n                                                oceedings of 4th IOA\n                                              Pro                  AA\n\n Pictture 1 for Problem\n                      mI\n\n                  O   JECCTT 11\n                  OBBJJE\n\n                             OBBJJEECCTT 22\n                             O\n\n58\n\n Proceedings of 4th IOAA\n\nPicture 2 for Problem I:\n\nA: The same area observed some time earlier. For this image the data are :\n\n    DATE-OBS= '2010-09-07        04:42:33.3' / Middle of exposure\n\nB: Enlargement of Picture 1 around Object 2,\n\n                                                                             59\n\n                            Proceedings of 4th IOAA\n\n Picture 3 for Problem I:\n\n Solution:\n\n60\n\n                                                                                   Proceedings of 4th IOAA\n\n Problem II: Light curves of stars (35 points)\n A pulsating variable star KZ Hydrae was observed with a telescope equipped with a CCD camera. Figure 1\n shows a CCD image of KZ Hya marked together with the comparison star and the check star. Table 1 lists the\n observation time in Heliocentric Julian dates, the magnitude differences of KZ Hya and the check star relative\n to the comparison star in V and R band.\n\n The questions are:",
-   "total": 7,
-   "parts": [
+     "id": "2.5",
+     "points": 4,
+     "question": "Give the estimation of the pulsation amplitudes of KZ Hya in V and R.",
+     "reference": "measured from the differences of magnitudes at the maximum values of the fits of the two peaks in V and R, respectively: 0.79 mag, 0.49 mag. (4p)"
+    },
     {
-     "id": "7",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": "1)                                                        0.5 point for one star, totally 2 points\n2)\n\n                                                                                                (2 p)"
+     "id": "2.6",
+     "points": 5,
+     "question": "What is the phase delay between the V and R bands, in term of the pulsation period?",
+     "reference": "measured from the differences of times at the maximum values of the fits of the first peaks in V and R: 0(±0.025) P. (5p)"
     }
    ]
   }

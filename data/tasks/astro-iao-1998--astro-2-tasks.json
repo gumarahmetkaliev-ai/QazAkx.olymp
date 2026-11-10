@@ -7,28 +7,45 @@
  "tasksFile": "olympiads/astronomy/s/iao/1998/astro-2-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "whole-document",
- "generatedAt": "2026-11-09T18:25:31.086Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:24:03.621Z",
  "quality": {
-  "tasks": 1,
-  "parts": 1,
-  "withPoints": 1,
+  "tasks": 2,
+  "parts": 2,
+  "withPoints": 2,
   "withReference": 0,
-  "withQuestion": 1,
-  "estimatedPoints": 1
+  "withQuestion": 2,
+  "estimatedPoints": 2
  },
  "tasks": [
   {
-   "number": 1,
-   "title": "Задания тура",
-   "statement": "Observational round\n                               Both age groups (A and B).\n\n                                               Text of these problems is available also\n                                        in Bulgarian, Danish, Portuguese and Russian.\n\n9. The Sun in optical and radio range.\n\nWith the help of a \"school telescope\" examine and draw the detailes visible on the\ndisk of the Sun. Orientate the Sun according to the cardinal points.\n\nIdentify the details of your picture with the details of one-dimentional radio-\nsections of the Sun fulfilled in previous days with RATAN-600.\n\nRadio observations were carried out at noon, the knife beam was directed\nvertically and covered all disk of the Sun.\n\n10. \"The Star-Splitter\".\n\n               ...That telescope was christened the Star-Splitter,\n               Because it didn't do a thing but split\n               A star in two or three, the way you split\n               A globule of quicksilver in your hand\n               With one stroke of your finger in the middle...\n                            Robert Frost \"The Star-Splitter\"\n\nWith the help of a \"school telescope\" find in the sky and divide several (not more\nthan 5) binaries into components.\nPay attention to the brightness and colours of the components.\nExplain the observed relation between the brightness and colors of the components\n(fill the table below).\n\n                   Colour of        Colour of           Explanation of the observed\n      Object\n                  main comp.       companion                facts (colour, etc.)\n1\n2\n3\n4\n5",
+   "number": 9,
+   "title": "The Sun in optical and radio range",
+   "weight": 10,
    "total": 10,
+   "statement": "With the help of a \"school telescope\" examine and draw the detailes visible on the disk of the Sun. Orientate the Sun according to the cardinal points.\n\nIdentify the details of your picture with the details of one-dimentional radio-sections of the Sun fulfilled in previous days with RATAN-600.\n\nRadio observations were carried out at noon, the knife beam was directed vertically and covered all disk of the Sun.",
    "parts": [
     {
-     "id": "1",
-     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "id": "9.1",
      "points": 10,
      "pointsEstimated": true,
+     "question": "Examine and draw the details visible on the solar disk, orientate according to cardinal points, and identify them with RATAN-600 radio-sections.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "\"The Star-Splitter\"",
+   "weight": 10,
+   "total": 10,
+   "statement": "...That telescope was christened the Star-Splitter,\nBecause it didn't do a thing but split\nA star in two or three, the way you split\nA globule of quicksilver in your hand\nWith one stroke of your finger in the middle...\nRobert Frost \"The Star-Splitter\"\n\nWith the help of a \"school telescope\" find in the sky and divide several (not more than 5) binaries into components.\nPay attention to the brightness and colours of the components.\nExplain the observed relation between the brightness and colors of the components (fill the table below).\n\nObject | Colour of main comp. | Colour of companion | Explanation of the observed facts (colour, etc.)\n1\n2\n3\n4\n5",
+   "parts": [
+    {
+     "id": "10.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Find and divide binary stars, note brightness and colors, and fill the table explaining the observed relation.",
      "reference": ""
     }
    ]

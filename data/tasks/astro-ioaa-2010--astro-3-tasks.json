@@ -7,59 +7,85 @@
  "tasksFile": "olympiads/astronomy/s/ioaa/2010/astro-3-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T18:02:26.824Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:19:01.606Z",
  "quality": {
   "tasks": 3,
-  "parts": 3,
-  "withPoints": 3,
-  "withReference": 0,
-  "withQuestion": 3,
-  "estimatedPoints": 3
+  "parts": 7,
+  "withPoints": 7,
+  "withReference": 4,
+  "withQuestion": 7,
+  "estimatedPoints": 4
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
-   "statement": "Find M15, M27 or one specified star.",
-   "total": 7,
+   "title": "Telescope Tests",
+   "total": 3,
+   "statement": "I. Telescope Tests",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.1",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Find M15, M27 or one specified star.",
+     "reference": ""
+    },
+    {
+     "id": "1.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Estimate the magnitude of a specified star.",
+     "reference": ""
+    },
+    {
+     "id": "1.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Evaluate the angle distance of two stars.",
      "reference": ""
     }
    ]
   },
   {
    "number": 2,
-   "title": "Задача 2",
-   "statement": "Estimate the magnitude of a specified star.",
-   "total": 7,
+   "title": "Tests in the Planetarium",
+   "weight": 70,
+   "total": 70,
+   "statement": "II. Tests in the Planetarium",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
-     "pointsEstimated": true,
-     "reference": ""
+     "id": "2.1",
+     "points": 25,
+     "question": "The showing is the night sky in Beijing on 21 o'clock tonight. You have two minutes to observe it. The examiner will point 5 constellations using the laser pen one by one. Each constellation will be pointed about 1 minute. Write down the name of the five constellations.",
+     "reference": "Answer:\nCygnus (Cyg), south fish place (Psa), Delphinus (Del), corona borealis (Crb), proxima centauri (Sgr)"
+    },
+    {
+     "id": "2.2",
+     "points": 25,
+     "question": "Write down any five constellations that lie on current celestial equator. 10 minutes, 25 points. More than five constellations, no additional points.",
+     "reference": "marking criterion:\nVirgo (Vir), Serpens (Ser), Ophiuchus ( Oph), Aquila (Aql), Aquarius (Aqr), Pisces (Psc), Cetus (Cet).\n   -- One constellation (included in the above 7 constellations), 5 points.\nLibra (Lib), Hercules ( Her), Scutum (Sct), Delphinus (Del), Equuleus (Equ), Pegasus (Peg).\n     -- One constellation (included in the above 6 constellations), 2 points"
+    },
+    {
+     "id": "2.3",
+     "points": 20,
+     "question": "The showing is the night sky in Beijing on a specified night. Determine the month that the night belongs to. What's the age of the moon for this night? Be accurate to one unit. 10 minutes, 20 points.",
+     "reference": "marking criterion:\nThe time is 19h30m, February 15, 2008.\nThe month: February ~ 10 points\n              January or March ~ 5 points\n              Other ~ 0 points\nMoon's age: about 9. ~ 10 points\n               8 or 10 ~ 7 points\n               7 or 11 ~ 3 points\n               Other ~ 0 pints"
     }
    ]
   },
   {
    "number": 3,
-   "title": "Задача 3",
-   "statement": "Evaluate the angle distance of two stars.\n\nII. Tests in the Planetarium",
-   "total": 7,
+   "title": "Telescope Assembly",
+   "total": 1,
+   "statement": "Every team is given 10 minutes to assemble a telescope with an equatorial mount, so that it is ready for tonight’s observation.\n\nOnce the competition starts, the assembling procedure will be monitored and judged by a jury, for any mistake in the process. And the assembling process will be timed. When the assembling is finished, the students of the group should raise their hands to indicate the assembling is completed. The jury should record the time taken for the assembling, after which the students should not be allowed to touch the telescope again. After the jury has checked the assembled telescope for the assembling quality, the participating group should take apart the telescope assembly and restore the various parts to the condition as they were before the assembling process.\n\nThe coordinates of Beijing is (116°48’, 40°32’)\n\nProcedure:\nThe competition is divided into 4 rounds, with each round having 6 teams participating.\nThe team with highest overall score wins.\n\nMarking scheme:\n1. Time taken for the assembly: 50%\n2. Team participation and collaborating skills: 20%\n3. Major mistakes: 30%:\n   a) The balance of the telescope, in both axes.\n   b) Is the parts corrected put together: finder scope, fine adjustment knobs in both axes, and eyepieces, etc.\n   c) Are all the screws and knobs securely fastened?\n   d) Is the polar axis roughly adjusted? (The participants will be given the rough condition of the North.)",
    "parts": [
     {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "3.1",
+     "points": 1,
      "pointsEstimated": true,
-     "reference": ""
+     "question": "Assemble a telescope with an equatorial mount according to the instructions and marking scheme.",
+     "reference": "Marking scheme:\n1. Time taken for the assembly: 50%\n2. Team participation and collaborating skills: 20%\n3. Major mistakes: 30%:\n   a) The balance of the telescope, in both axes.\n   b) Is the parts corrected put together: finder scope, fine adjustment knobs in both axes, and eyepieces, etc.\n   c) Are all the screws and knobs securely fastened?\n   d) Is the polar axis roughly adjusted? (The participants will be given the rough condition of the North.)"
     }
    ]
   }

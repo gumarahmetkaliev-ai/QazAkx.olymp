@@ -6,90 +6,76 @@
  "lang": "ru",
  "tasksFile": "olympiads/astronomy/s/ioaa/2007/astro-2-tasks.pdf",
  "solutionFile": "olympiads/astronomy/s/ioaa/2007/astro-2-sol.pdf",
- "generatedBy": "parser",
- "generatedAt": "2026-11-09T18:08:51.302Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:23:40.297Z",
  "quality": {
-  "tasks": 1,
-  "parts": 8,
-  "withPoints": 8,
-  "withReference": 8,
-  "withQuestion": 8,
-  "estimatedPoints": 8
+  "tasks": 2,
+  "parts": 7,
+  "withPoints": 7,
+  "withReference": 7,
+  "withQuestion": 7,
+  "estimatedPoints": 0
  },
  "tasks": [
   {
    "number": 1,
-   "title": "The 1st International Olympiad on Astronomy and Astrophysics",
-   "weight": null,
-   "total": 12,
-   "statement": "Chiang Mai, Thailand\n\n                        Experimental Competition (Observation)\n\n                                  Sunday, 2 December, 2007\n\nPlease read this first:\n\n1. There are 2 parts to the questions. You have to use the provided equipment to point, observe and\n   answer where appropriate.\n2. The time available is 40 minutes in total for the experimental competition (Observation), 20\n   minutes for each part.\n3. In Part I, use only the provided celestial object pointer to point at the target specified in the\n   questions. No other pointer is allowed. The marker (examiner) at each observation station will\n   then mark the answers directly in the question sheet. You must not write anything in the sheet\n   apart from your country code and student code.\n4. In Part II, use the provided binoculars to observe the objects and then answer the questions by\n   writing or drawing directly in the question sheets.\n5. At the end of both parts, leave the question sheets with the marker (examiner) at each\n   observation station. You are not allowed to take any sheets of paper out of the observation\n   station.\n6. Use only the provided pen or pencil.\n7. Students given questions in English and national language can answer in any one sheet but must\n   return both to the marker (examiner).\n8. Fill the boxes at the top of each sheet of paper with your country code, your student code.\n\n                Country Code                                      Student Code\n\nPART I: Use the provided celestial object pointer (total 10 points)\n\n1.1 Move the pointer along the celestial equator. (1 point)\n\n1.2 Aim the pointer at the vernal equinox. (1 point)\n\n1.3 In the constellation of Pegasus and its vicinity there is an obvious square of bright stars (Great\nSquare of Pegasus), aim the pointer at the brightest star of the square. (2 points)\n\n1.4 Aim the pointer at the star named alpha-Arietis (α-Ari). (2 points)\n\n1.5 Start from the star named Aldebaran (α-Tauri) in the constellation Taurus, turn the pointer 35\ndegrees northward followed by 6 degrees westward (in equatorial coordinate). Then, aim the pointer\nat the brightest star in the field of view. (4 points)\n\n                                     Signature of Marker____________________________\n\n                 Country Code                                        Student Code\n\nPART II: Use the provided binoculars (total 10 points)\n\n2.1 The open star cluster “Hyades” in constellation Taurus is one of the nearest clusters to us, being\nonly 151 light years away. From the provided chart with brightness of some stars indicated by the\napparent magnitude in parentheses, please estimate the apparent magnitude of the star Gamma-\nTauri (γ-Tauri) to the nearest first decimal digit. (5 points)\n\n              Answer: The apparent magnitude of γ-Tauri = _____________\n\nMarker (examiner) comments on sky condition: _____________________________________\n\n               Country Code                                    Student Code\n\n2.2 Observe the Andromeda Galaxy (M31) then draw the approximate shape and size of the galaxy\nthat you see through the binoculars in the frame below with correct orientation (in equatorial\ncoordinates). The field of view of the binoculars is 6.8 degrees. (5 points)\n\n                                              W\n\n N                                                                                        S\n\n                                             E\n\n                                         3 degrees\nMarker (examiner) comments on sky condition: _____________________________________",
+   "title": "PART I: Use the provided celestial object pointer",
+   "weight": 10,
+   "total": 10,
+   "statement": "Use the provided celestial object pointer to point at the targets specified in the questions.",
    "parts": [
     {
      "id": "1.1",
-     "points": 1.5,
-     "question": "There are 2 parts to the questions. You have to use the provided equipment to point, observe and answer where appropriate.",
-     "reference": "",
-     "useTaskSolution": true,
-     "pointsEstimated": true
+     "points": 1,
+     "question": "Move the pointer along the celestial equator.",
+     "reference": "Evaluated by marker at the observation station."
     },
     {
      "id": "1.2",
-     "points": 1.5,
-     "question": "The time available is 40 minutes in total for the experimental competition (Observation), 20 minutes for each part.",
-     "reference": "",
-     "useTaskSolution": true,
-     "pointsEstimated": true
+     "points": 1,
+     "question": "Aim the pointer at the vernal equinox.",
+     "reference": "Evaluated by marker at the observation station."
     },
     {
      "id": "1.3",
-     "points": 1.5,
-     "question": "In Part I, use only the provided celestial object pointer to point at the target specified in the questions. No other pointer is allowed. The marker (examiner) at each observation station will then mark the answers directly in the question sheet. You must not write anything in the sheet apart from your country code and student code.",
-     "reference": "",
-     "useTaskSolution": true,
-     "pointsEstimated": true
+     "points": 2,
+     "question": "In the constellation of Pegasus and its vicinity there is an obvious square of bright stars (Great Square of Pegasus), aim the pointer at the brightest star of the square.",
+     "reference": "Evaluated by marker at the observation station."
     },
     {
      "id": "1.4",
-     "points": 1.5,
-     "question": "In Part II, use the provided binoculars to observe the objects and then answer the questions by writing or drawing directly in the question sheets.",
-     "reference": "",
-     "useTaskSolution": true,
-     "pointsEstimated": true
+     "points": 2,
+     "question": "Aim the pointer at the star named alpha-Arietis (α-Ari).",
+     "reference": "Evaluated by marker at the observation station."
     },
     {
      "id": "1.5",
-     "points": 1.5,
-     "question": "At the end of both parts, leave the question sheets with the marker (examiner) at each observation station. You are not allowed to take any sheets of paper out of the observation station.",
-     "reference": "",
-     "useTaskSolution": true,
-     "pointsEstimated": true
-    },
-    {
-     "id": "1.6",
-     "points": 1.5,
-     "question": "Use only the provided pen or pencil.",
-     "reference": "",
-     "useTaskSolution": true,
-     "pointsEstimated": true
-    },
-    {
-     "id": "1.7",
-     "points": 1.5,
-     "question": "Students given questions in English and national language can answer in any one sheet but must return both to the marker (examiner).",
-     "reference": "",
-     "useTaskSolution": true,
-     "pointsEstimated": true
-    },
-    {
-     "id": "1.8",
-     "points": 1.5,
-     "question": "Fill the boxes at the top of each sheet of paper with your country code, your student code. Country Code Student Code",
-     "reference": "",
-     "useTaskSolution": true,
-     "pointsEstimated": true
+     "points": 4,
+     "question": "Start from the star named Aldebaran (α-Tauri) in the constellation Taurus, turn the pointer 35 degrees northward followed by 6 degrees westward (in equatorial coordinate). Then, aim the pointer at the brightest star in the field of view.",
+     "reference": "Evaluated by marker at the observation station."
     }
-   ],
-   "solution": "PART II : Use the provided binoculars\n\n2.1 The open star cluster “Hyades” in constellation Taurus is one of the nearest clusters to us, being\nonly 151 light years away. From the provided chart with brightnesses of some stars indicated by the\napparent magnitude in parentheses, please estimate the brightness (in apparent magnitude) of the\nstar Gamma-Tauri (γ-Tauri) to the nearest first decimal digit. (5 points)\n\nAnswer : The correct value of brightness of γ-Tauri = 3.6\n\n       If the answer is 3.5, 3.6 or 3.7 (5 points)\n\n       If the answer is 3.3, 3.4, 3.8 or 3.9 (3 points)\n\n       If the answer is none of the above (0 point)\n\n2.2 Observe the Andromeda Galaxy (M31) then draw the approximate shape and size of the galaxy\nthat you see through the binoculars in the frame below with correct orientation. (5 points)\n\nCorrect shape and size (between 0.5 to 1 degree) – 3 points\n\nCorrect orientation (within 23 degrees of the picture) – 2 points"
+   ]
+  },
+  {
+   "number": 2,
+   "title": "PART II: Use the provided binoculars",
+   "weight": 10,
+   "total": 10,
+   "statement": "Use the provided binoculars to observe the objects and then answer the questions by writing or drawing directly in the question sheets.",
+   "parts": [
+    {
+     "id": "2.1",
+     "points": 5,
+     "question": "The open star cluster “Hyades” in constellation Taurus is one of the nearest clusters to us, being only 151 light years away. From the provided chart with brightness of some stars indicated by the apparent magnitude in parentheses, please estimate the apparent magnitude of the star Gamma-Tauri (γ-Tauri) to the nearest first decimal digit.",
+     "reference": "The correct value of brightness of γ-Tauri = 3.6. If the answer is 3.5, 3.6 or 3.7 (5 points). If the answer is 3.3, 3.4, 3.8 or 3.9 (3 points). If the answer is none of the above (0 point)."
+    },
+    {
+     "id": "2.2",
+     "points": 5,
+     "question": "Observe the Andromeda Galaxy (M31) then draw the approximate shape and size of the galaxy that you see through the binoculars in the frame below with correct orientation (in equatorial coordinates). The field of view of the binoculars is 6.8 degrees.",
+     "reference": "Correct shape and size (between 0.5 to 1 degree) – 3 points. Correct orientation (within 23 degrees of the picture) – 2 points."
+    }
+   ]
   }
  ]
 }

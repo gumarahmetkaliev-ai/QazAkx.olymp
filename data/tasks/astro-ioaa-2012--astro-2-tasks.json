@@ -7,43 +7,94 @@
  "tasksFile": "olympiads/astronomy/s/ioaa/2012/astro-2-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T18:02:00.717Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:17:28.938Z",
  "quality": {
   "tasks": 2,
-  "parts": 2,
-  "withPoints": 2,
+  "parts": 9,
+  "withPoints": 9,
   "withReference": 0,
-  "withQuestion": 2,
-  "estimatedPoints": 2
+  "withQuestion": 9,
+  "estimatedPoints": 9
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
-   "statement": "An astronomer on Earth observes a globular cluster, which has an angular diameter α and\n   contains N stars, each one with the same absolute magnitude M 0, and is at a distance D\n   from the Earth. A biologist is in the center of that cluster.\n   1.1. What is the difference between the combined visual magnitudes of all stars observed\n        by the astronomer and the biologist. Consider that the spatial distribution of stars\n        in the cluster is perfectly homogeneous and the biologist is measuring the\n        combined magnitude of the entire cluster.\n   1.2. What is the diameter of the astronomer’s telescope, considering he wants to visualize\n        the cluster with the same brightness that the biologist sees?\n   1.3. What would be the difference between the visual magnitudes observed by the two\n        scientists, if the diameter of the field of view of the biologist is also α.",
-   "total": 7,
+   "title": "Globular Cluster Observations",
+   "weight": 30,
+   "total": 30,
+   "statement": "An astronomer on Earth observes a globular cluster, which has an angular diameter α and contains N stars, each one with the same absolute magnitude M 0, and is at a distance D from the Earth. A biologist is in the center of that cluster.",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "What is the difference between the combined visual magnitudes of all stars observed by the astronomer and the biologist. Consider that the spatial distribution of stars in the cluster is perfectly homogeneous and the biologist is measuring the combined magnitude of the entire cluster.",
+     "reference": ""
+    },
+    {
+     "id": "1.2",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "What is the diameter of the astronomer’s telescope, considering he wants to visualize the cluster with the same brightness that the biologist sees?",
+     "reference": ""
+    },
+    {
+     "id": "1.3",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "What would be the difference between the visual magnitudes observed by the two scientists, if the diameter of the field of view of the biologist is also α.",
      "reference": ""
     }
    ]
   },
   {
    "number": 2,
-   "title": "Задача 2",
-   "statement": "Astronomers studied a spiral galaxy with an inclination angle of 90º from the plane of the\n   sky (“edge-on”) and apparent magnitude 8.5. They measured the rotational velocity and\n   radial distance from the Galactic center and plotted its rotation curve.\n   2.1. Approximate the rotation curve in Figure 1 with a continuous function V(D)\n        composed of two straight lines.\n   2.2. Using the same observations, they estimated that the rotation period of the pressure\n        wave in the galactic disk is half of the rotation period of the mass of the disk.\n\n    Estimate the time it takes for a spiral arm to take another turn around the galactic\n    center (use the function constructed in 2.1).\n2.3. Calculate the distance to the galaxy using the Tully-Fisher relation (see Table of\n    Constants).\n2.4. Calculate the maximum and minimum values of the observed wavelengths of the\n    hydrogen lines corresponding to 656.28 nm in the spectrum of this galaxy. Hint: also\n    take into account the cosmological expansion.\n2.5. Using Figure 1, estimate the mass of the galaxy up to a radius of 3x103 light-years.\n2.6. Estimate the number of stars of the galaxy, assuming that:\n      the mean mass of the stars is equal to one solar mass and one third of the baryonic\n       mass of the galaxy is in the form of stars , and;\n      the fraction of baryonic to dark matter in the galaxy is the same as the fraction for\n       the whole Universe (see Table of Constants).\n\nFIGURE 1",
-   "total": 7,
+   "title": "Spiral Galaxy Analysis",
+   "weight": 60,
+   "total": 60,
+   "statement": "Astronomers studied a spiral galaxy with an inclination angle of 90º from the plane of the sky (“edge-on”) and apparent magnitude 8.5. They measured the rotational velocity and radial distance from the Galactic center and plotted its rotation curve.",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "2.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Approximate the rotation curve in Figure 1 with a continuous function V(D) composed of two straight lines.",
+     "reference": ""
+    },
+    {
+     "id": "2.2",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Using the same observations, they estimated that the rotation period of the pressure wave in the galactic disk is half of the rotation period of the mass of the disk. Estimate the time it takes for a spiral arm to take another turn around the galactic center (use the function constructed in 2.1).",
+     "reference": ""
+    },
+    {
+     "id": "2.3",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Calculate the distance to the galaxy using the Tully-Fisher relation (see Table of Constants).",
+     "reference": ""
+    },
+    {
+     "id": "2.4",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Calculate the maximum and minimum values of the observed wavelengths of the hydrogen lines corresponding to 656.28 nm in the spectrum of this galaxy. Hint: also take into account the cosmological expansion.",
+     "reference": ""
+    },
+    {
+     "id": "2.5",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Using Figure 1, estimate the mass of the galaxy up to a radius of 3x103 light-years.",
+     "reference": ""
+    },
+    {
+     "id": "2.6",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Estimate the number of stars of the galaxy, assuming that: the mean mass of the stars is equal to one solar mass and one third of the baryonic mass of the galaxy is in the form of stars, and; the fraction of baryonic to dark matter in the galaxy is the same as the fraction for the whole Universe (see Table of Constants).",
      "reference": ""
     }
    ]

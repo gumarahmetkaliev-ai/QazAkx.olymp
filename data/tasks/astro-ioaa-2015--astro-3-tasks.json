@@ -7,7 +7,7 @@
  "tasksFile": "olympiads/astronomy/s/ioaa/2015/astro-3-tasks.pdf",
  "solutionFile": "olympiads/astronomy/s/ioaa/2015/astro-3-sol.pdf",
  "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:57:21.902Z",
+ "generatedAt": "2026-11-10T05:18:15.980Z",
  "quality": {
   "tasks": 15,
   "parts": 15,
@@ -19,7 +19,7 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
+   "title": "Several exoplanets have been observed in the Gliese 876 system (MG =…",
    "statement": "Several exoplanets have been observed in the Gliese 876 system (MG = 0.33 ± 0.03M⨀ ) as given\n     in the following table,\n         Gliese System          Mass                                 Semi Major Axis (AU)\n         Gliese 876 b           2.276 MJ                             0.2083\n         Gliese 876 c           0.714 MJ                             0.1296\n         Gliese 876 d           6.8 M                               0.0208\n         Gliese 876 e           15 M                                0.334\n     where M⨀ is mass of Sun, MJ is mass of Jupiter ( M J  1.89813 10 27 kg ), and M⨁ is mass of\n\n     Earth. Assume that all these planets revolve around Gliese 876 in the same direction. Two planets\n     are said to be in resonant orbits if the synodic period of one planet with respect to the other planet\n     is an integer multiple of the orbital period of the second planet.\n     Find if any of the exoplanets of Gliese 876 system may have resonant orbits.",
    "total": 7,
    "parts": [
@@ -34,7 +34,7 @@
   },
   {
    "number": 2,
-   "title": "Задача 2",
+   "title": "One satellite of a planet has an orbital period of 7 days, 3 hours,…",
    "statement": "One satellite of a planet has an orbital period of 7 days, 3 hours, 43 minutes, and the semi major\n     axis is 15.3 times the mean radius of the planet. The Moon has an orbital period of 27 days, 7 hours,\n     43 minutes and the semi major axis is 60.3 times the Earth's mean radius. Assume that the mass of\n     the moon and the satellite is negligible compared to the mass of the planet. Calculate the ratio of\n     the planet’s mean density to that of the Earth.",
    "total": 7,
    "parts": [
@@ -49,7 +49,7 @@
   },
   {
    "number": 3,
-   "title": "Задача 3",
+   "title": "On 27 May 2015 at 02:18:49, the occultation of the star HIP 89931 (𝛿…",
    "statement": "On 27 May 2015 at 02:18:49, the occultation of the star HIP 89931 (𝛿 −Sgr) by the asteroid 1285\n     Julietta was observed from Borobudur temple, which was located at the center of the asteroid\n     shadow path. It lasted for only 6.201 s. Assume that Earth’s orbit is circular and the orbit of Julietta\n     is on the ecliptic plane and revolves in the same direction as Earth. At the occultation, Julietta is\n     near its aphelion. At the time of the occultation the distances of Julietta from the Sun and the Earth\n     are 3.076 AU and 2.156 AU respectively. Find the approximate diameter of asteroid Julietta, if the\n     semi major axis of Julietta is 𝑎 = 2.9914 AU.\n\n                                                                                                       1/4",
    "total": 7,
    "parts": [
@@ -64,7 +64,7 @@
   },
   {
    "number": 4,
-   "title": "Задача 4",
+   "title": "Let us assume that an observer using a hypothetical, far-infrared,…",
    "statement": "Let us assume that an observer using a hypothetical, far-infrared, Earth-sized telescope (wavelength\n     range 20 to 640 m) found a static and neutral supermassive black hole with a mass of 2.1 x 1010\n     M⨀ . Determine the maximum distance at which this black hole can be resolved by the observer.",
    "total": 7,
    "parts": [
@@ -79,7 +79,7 @@
   },
   {
    "number": 5,
-   "title": "Задача 5",
+   "title": "An observer is trying to determine an approximate value of the…",
    "statement": "An observer is trying to determine an approximate value of the orbital eccentricity of a man-made\n     satellite. When the satellite was at apogee, it was observed to have moved by ∆𝜃1 = 2′ 44\" in a\n     short time. When the radius vector connecting Earth and the satellite is perpendicular to the major\n     axis (true anomaly is equal to 90o), within the same duration of time, it was observed to have moved\n     by ∆𝜃2 = 21′ 17\". Assume that the observer is located at the center of the Earth. Find an\n     approximate value of the eccentricity of the satellite’s orbit.",
    "total": 7,
    "parts": [
@@ -94,7 +94,7 @@
   },
   {
    "number": 6,
-   "title": "Задача 6",
+   "title": "At the start of every observation, a radio telescope is pointed at a…",
    "statement": "At the start of every observation, a radio telescope is pointed at a point-source calibrator that has\n     a known flux density of 21.86 Jy outside the Earth’s atmosphere. However, on a certain date, the\n     measured flux density of the calibrator source was 14.27 Jy. If the calibrator source was at an\n     altitude of 35 degrees, estimate the zenith atmospheric optical depth, z.",
    "total": 7,
    "parts": [
@@ -109,7 +109,7 @@
   },
   {
    "number": 7,
-   "title": "Задача 7",
+   "title": "A galaxy at the boundary of a galaxy cluster of radius 10 Mpc is…",
    "statement": "A galaxy at the boundary of a galaxy cluster of radius 10 Mpc is expected to escape from the cluster\n     if it has an initial velocity of at least 700 km/s relative to the center of the cluster. Calculate the\n     density of the cluster.",
    "total": 7,
    "parts": [
@@ -124,7 +124,7 @@
   },
   {
    "number": 8,
-   "title": "Задача 8",
+   "title": "A strong continuum radio signal from a celestial body has been…",
    "statement": "A strong continuum radio signal from a celestial body has been observed as a burst with a very short\n     duration of 700 μs. The observed flux density at a frequency of 1660 MHz is measured to be 0.35\n     kJy. If the distance from the source is known to be 2.3 kpc, estimate the brightness temperature of\n     this source.",
    "total": 7,
    "parts": [
@@ -139,7 +139,7 @@
   },
   {
    "number": 9,
-   "title": "Задача 9",
+   "title": "Assume that the Sun is a perfect blackbody. Venus is also assumed to…",
    "statement": "Assume that the Sun is a perfect blackbody. Venus is also assumed to be a blackbody, with\n     temperature TV, and it is in thermal equillibrium (i.e. it is radiating about as much energy as it\n     receives from the Sun) at its orbital distance of 0.72 AU. Suppose that at closest approach to Earth,\n     Venus has an angular diameter of about 66 arcsec. What is the flux density of Venus at the closest\n     approach to Earth as observed by a radio telescope at an observing frequency of 5 GHz?\n\n                                                                                                      2/4",
    "total": 7,
    "parts": [
@@ -154,7 +154,7 @@
   },
   {
    "number": 10,
-   "title": "Задача 10",
+   "title": "A molecular hydrogen cloud is known to have a temperature T = 115 K.…",
    "statement": "A molecular hydrogen cloud is known to have a temperature T = 115 K. The hydrogen atoms\n      (assumed spherical) have (covalent) radius 𝑟𝐻 = 0.37 𝑥 10−10 𝑚 and the separation centre-to-\n      centre distance between the two atoms is 𝑑𝐻2 = 0.74 𝑥 10−10 𝑚. Assume that the molecules are\n      in thermal equilibrium. Estimate the frequency at which they will radiate due to molecular\n      rotational excitation.",
    "total": 7,
    "parts": [
@@ -169,7 +169,7 @@
   },
   {
    "number": 11,
-   "title": "Задача 11",
+   "title": "The mass density of an object is inversely proportional to the radial…",
    "statement": "The mass density of an object is inversely proportional to the radial distance from the center of the\n      object with a factor of proportionality  = 5.0 × 1013 𝑘𝑔⁄𝑚2 . If the escape velocity at the surface\n      of the object is 𝑣0 = 1.5 × 104 𝑚⁄𝑠 , calculate the total mass of the object.",
    "total": 7,
    "parts": [
@@ -184,7 +184,7 @@
   },
   {
    "number": 12,
-   "title": "Задача 12",
+   "title": "A proton with a kinetic energy of 1𝐺𝑒𝑉 propagates out from the…",
    "statement": "A proton with a kinetic energy of 1𝐺𝑒𝑉 propagates out from the surface of the Sun towards the\n      Earth. Neglecting the magnetic field of the Sun, calculate the travel time of the proton as seen from\n      the Earth.",
    "total": 7,
    "parts": [
@@ -199,7 +199,7 @@
   },
   {
    "number": 13,
-   "title": "Задача 13",
+   "title": "Volcanic activity on Io, whose rotation period synchronizes with its…",
    "statement": "Volcanic activity on Io, whose rotation period synchronizes with its orbital period, was proposed to\n      be the result of tidal heating mainly from Jupiter. The resultant tidal force on a body is the difference\n      in gravitational force experienced by the near and far sides of that body due to another body.\n      Measurements of the surface distortion of Io via satellite radar altimeter mapping indicate that the\n      surface rises and falls by up to 100m during one-half orbit. Only the surface layers will move by this\n      amount. Interior layers within Io will move by a smaller amount, and thus we assume that on\n      average the entire mass of Io is moved through 50m. Assume that Io is considered as two\n      hemispheres each treated as a point mass. Calculate the average power of the tidal heating on Io.\n\n      Hint: you can use the following approximation 1  x   1  nx for small x.\n                                                               n\n\n                          mIo  8.931938 1022 kg\n      The mass of Io is\n      The perijove distance is rperi = 420000 km\n      The apojove distance is rapo = 423400 km\n      The orbital period of Io is 152853 s\n      The radius of Io is RIo = 1821.6 km.\n\n                                                                                                         3/4",
    "total": 7,
    "parts": [
@@ -214,7 +214,7 @@
   },
   {
    "number": 14,
-   "title": "Задача 14",
+   "title": "Suppose we live in a static and infinitely large universe where the…",
    "statement": "Suppose we live in a static and infinitely large universe where the average density of stars is 𝑛 =\n      109 Mpc −3 and the average stellar radius is equal to the solar radius. Assume that standard\n      Euclidean geometry holds true in this universe. How far, on average, could you see in any direction\n      before your line of sight strikes a star? Please write your answer in Mpc.",
    "total": 7,
    "parts": [
@@ -229,7 +229,7 @@
   },
   {
    "number": 15,
-   "title": "Задача 15",
+   "title": "An airplane was flying from Lima, capital of Peru (12o 2′𝑆 and…",
    "statement": "An airplane was flying from Lima, capital of Peru (12o 2′𝑆 and 77°1′𝑊) to Yogyakarta (7°47′𝑆 and\n      110o 26′𝐸), near the venue of the 9th IOAA. The airplane chooses the shortest flight path from Lima\n      to Yogyakarta. Find the latitude of the southernmost point of the flight path.\n\n                                                                                                   4/4",
    "total": 7,
    "parts": [

@@ -7,103 +7,189 @@
  "tasksFile": "olympiads/astronomy/s/iao/1997/astro-3-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T18:09:54.328Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:24:08.076Z",
  "quality": {
-  "tasks": 6,
-  "parts": 6,
-  "withPoints": 6,
+  "tasks": 11,
+  "parts": 11,
+  "withPoints": 11,
   "withReference": 0,
-  "withQuestion": 6,
-  "estimatedPoints": 6
+  "withQuestion": 11,
+  "estimatedPoints": 11
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
-   "statement": "Two stars have the same absolute magnitude. One is thou-\nsand times farther away than the other. What is the difference in\napparent magnitudes? Which magnitude larger?",
-   "total": 7,
+   "title": "Problem 1 (8-10 Form)",
+   "weight": 10,
+   "total": 10,
+   "statement": "Two stars have the same absolute magnitude. One is thousand times farther away than the other. What is the difference in apparent magnitudes? Which magnitude larger?",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "What is the difference in apparent magnitudes? Which magnitude larger?",
      "reference": ""
     }
    ]
   },
   {
    "number": 2,
-   "title": "Задача 2",
-   "statement": "What would an observer have seen sitting on the Moon and\nlooking at the Earth, when the total eclipse of the Sun took\nplace on the Solovetz Islands (34�45' East, 65�01' North) at\n5 a.m. July 22, 1990? Illustrate your answer with a drawing.",
-   "total": 7,
+   "title": "Problem 2 (8-10 Form)",
+   "weight": 10,
+   "total": 10,
+   "statement": "What would an observer have seen sitting on the Moon and looking at the Earth, when the total eclipse of the Sun took place on the Solovetz Islands (34°45' East, 65°01' North) at 5 a.m. July 22, 1990? Illustrate your answer with a drawing.",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "2.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "What would an observer have seen sitting on the Moon and looking at the Earth, when the total eclipse of the Sun took place on the Solovetz Islands at 5 a.m. July 22, 1990? Illustrate your answer with a drawing.",
      "reference": ""
     }
    ]
   },
   {
    "number": 3,
-   "title": "Задача 3",
-   "statement": "The duration of the day on Mars is only approximately\n2.5 % longer than on Earth. The orbital period of Mars is 687\ndays. Find (approximately) the difference between the duration of\nthe siderial day and the mean solar day on Mars.",
-   "total": 7,
+   "title": "Problem 3 (8-10 Form)",
+   "weight": 10,
+   "total": 10,
+   "statement": "The duration of the day on Mars is only approximately 2.5 % longer than on Earth. The orbital period of Mars is 687 days. Find (approximately) the difference between the duration of the siderial day and the mean solar day on Mars.",
    "parts": [
     {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "3.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Find (approximately) the difference between the duration of the siderial day and the mean solar day on Mars.",
      "reference": ""
     }
    ]
   },
   {
    "number": 4,
-   "title": "Задача 4",
-   "statement": "On the day of the all-the-world holiday (fortieth anni-\nversary of the launch of the first satellite), October 4, 1997,\nVenus was not far from its Eastern elongation, its coordinates\nwere approximately a = 15h20m, d = -22�.\n     Using the above data, estimate its coordinates and position\nrelative to the Sun on the day of the launch of the first satel-\nlite, October 4, 1957. The orbital period of Venus is 0.61521 of\nthe tropical year.",
-   "total": 7,
+   "title": "Problem 4 (8-10 Form)",
+   "weight": 10,
+   "total": 10,
+   "statement": "On the day of the all-the-world holiday (fortieth anniversary of the launch of the first satellite), October 4, 1997, Venus was not far from its Eastern elongation, its coordinates were approximately a = 15h20m, d = -22°.",
    "parts": [
     {
-     "id": "4",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "4.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Using the above data, estimate its coordinates and position relative to the Sun on the day of the launch of the first satellite, October 4, 1957. The orbital period of Venus is 0.61521 of the tropical year.",
      "reference": ""
     }
    ]
   },
   {
    "number": 5,
-   "title": "Задача 5",
-   "statement": "Let us consider that observer is sitting on a planet    of\nSyrius. Which object is brigter one in \"his sky\":\n          either our Sun or the stars of the Big Dipper?",
-   "total": 7,
+   "title": "Problem 5 (8-10 Form)",
+   "weight": 10,
+   "total": 10,
+   "statement": "Let us consider that observer is sitting on a planet of Syrius.",
    "parts": [
     {
-     "id": "5",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "5.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Which object is brigter one in 'his sky': either our Sun or the stars of the Big Dipper?",
      "reference": ""
     }
    ]
   },
   {
    "number": 6,
-   "title": "Задача 6",
-   "statement": "Let us say that the Sun is in Zenith, if it covers the\nZenith by its disc. Where is it possible to see such an event mo-\nre often - in Quito (latitude = 0�) or in San-Paulo (latitude =\n= -23.5�)?\nExplain.\n\nTheoretical exam.\n                    Problems to solve,    11-12 Form\n\n                                               Text of these problems is\n                                               available in Russian too.",
-   "total": 7,
+   "title": "Problem 6 (8-10 Form)",
+   "weight": 10,
+   "total": 10,
+   "statement": "Let us say that the Sun is in Zenith, if it covers the Zenith by its disc.",
    "parts": [
     {
-     "id": "6",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "6.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Where is it possible to see such an event more often - in Quito (latitude = 0°) or in San-Paulo (latitude = -23.5°)? Explain.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Problem 1 (11-12 Form)",
+   "weight": 10,
+   "total": 10,
+   "statement": "If a star is moving away from the Earth at very high speed, will the star have a continuous spectrum that appears hotter or cooler than it would if the star were at rest? Explain.",
+   "parts": [
+    {
+     "id": "7.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "If a star is moving away from the Earth at very high speed, will the star have a continuous spectrum that appears hotter or cooler than it would if the star were at rest? Explain.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Problem 3 (11-12 Form)",
+   "weight": 10,
+   "total": 10,
+   "statement": "In the course of star war one crazy civilization cut a star in two halfs (without varing substance density and its temperature).",
+   "parts": [
+    {
+     "id": "8.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "How did this lofty deed change the star's magnitude? What is the magnitude of the resulting double star compared to that of the original star?",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Problem 6 (11-12 Form)",
+   "weight": 10,
+   "total": 10,
+   "statement": "What limits the resolving power of the 6-meter telescope BTA in SAO?",
+   "parts": [
+    {
+     "id": "9.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Calculate it. Explain your calculations.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Observational examination (9-12 Form)",
+   "weight": 10,
+   "total": 10,
+   "statement": "Every participant has to show all the constellations in the following parts of the sky (sky was not open, some parts of it were covered by trees):",
+   "parts": [
+    {
+     "id": "10.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Show all the constellations in the following parts of the sky: 1. North-East. 2. South. 3. North.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Practical exam (9-12 Form)",
+   "weight": 10,
+   "total": 10,
+   "statement": "Practical exam is about Doppler-effect.",
+   "parts": [
+    {
+     "id": "11.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Find velocities of two stars using their spectra and spectrum of our Sun, to estimate speed of the Earth moving around the Sun.",
      "reference": ""
     }
    ]

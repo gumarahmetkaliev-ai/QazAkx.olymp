@@ -7,28 +7,45 @@
  "tasksFile": "olympiads/astronomy/s/iao/1998/astro-3-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "whole-document",
- "generatedAt": "2026-11-09T18:25:31.110Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:25:37.462Z",
  "quality": {
-  "tasks": 1,
-  "parts": 1,
-  "withPoints": 1,
+  "tasks": 2,
+  "parts": 2,
+  "withPoints": 2,
   "withReference": 0,
-  "withQuestion": 1,
-  "estimatedPoints": 1
+  "withQuestion": 2,
+  "estimatedPoints": 2
  },
  "tasks": [
   {
-   "number": 1,
-   "title": "Задания тура",
-   "statement": "Practical round\n                          Both age groups (A and B).\n\n                                           Text of these problems is available also\n                                    in Bulgarian, Danish, Portuguese and Russian.\n\n7. The masses of Capella's components.\n\nThe 6-meter telescope of SAO is one of a few to carry out speckle-interferometric\nobservations of visual binary stars. The purpose is a direct measurement of stellar\nmasses. You are proposed to estimate the masses of Capella's components, using\nour observational data.\n\nCapella (Alpha Aur) is a very close visual pair. Fig.1 shows a relative orbit of the\ncomponent B as observed over many years by observations by different\nobservatories. The points obtained in SAO are marked in red. The position of the\ncomponent A is marked by a cross and is connected to the periastron point with a\nstraight line. The radial velocity curves of the both components are shown in\nFig.2.\n\nCapella's parallax is  = 0\".077, the revolution period of its components is P =\n104d.\n\n        Consider a three-dimensional model of the system allowing, in particular,\n       for the orbital eccentricity and the inclination of the orbital plane towards\n       the line of sight.\n        Estimate the masses of the components, using the Kepler's Third Law.\n        Consider the possible causes of the errors of your estimates.\n\n8. A galaxy's mass.\n\nErge-on spiral galaxies are suitable for the determination of their masses. Prof.\nI.D.Karachentsev and his colleagues complied a cataloge of such galaxies and\nobtained their mass spectroscopically. The spectrum of one galaxy, FGC 1908 in\nDragon, is given below. It was obtained on the 4-th of March 1997, with the help\nof a spectrograph installed at the primary focus of the 6-meter telescope. As the\nfigure shows, the spectrograph slit was aligned with the major axis of the galaxy.\nVertical lines crossing the spectrum are emission from the night sky. Other\n\nemissions belong to the galaxy. Their laboratory wavelengths are indicated. When\ndetermining the galaxy's mass at the SAO the Hubble constant was taken to be H =\n74 km/(sMpc).\n\nYou are required to repeat the estimate of the galaxy's mass. Recall that 1 pc =\n3.091018 cm, the mass of the Sun is MO = 21033 g and the gravity constant is G =\n6.6710-8 dyncm2/g2.\n\n       Explain why a two-dimensional spectrum of the galaxy looks exactly like\n      that.\n       Estimate the mass of FGC 1908 and compare it to the mass of our\n      galaxy.\n       Consider the possible causes of the errors of your estimates.",
+   "number": 7,
+   "title": "The masses of Capella's components.",
+   "weight": 10,
    "total": 10,
+   "statement": "The 6-meter telescope of SAO is one of a few to carry out speckle-interferometric observations of visual binary stars. The purpose is a direct measurement of stellar masses. You are proposed to estimate the masses of Capella's components, using our observational data.\n\nCapella (Alpha Aur) is a very close visual pair. Fig.1 shows a relative orbit of the component B as observed over many years by observations by different observatories. The points obtained in SAO are marked in red. The position of the component A is marked by a cross and is connected to the periastron point with a straight line. The radial velocity curves of the both components are shown in Fig.2.\n\nCapella's parallax is pi = 0.077, the revolution period of its components is P = 104d.",
    "parts": [
     {
-     "id": "1",
-     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "id": "7.1",
      "points": 10,
      "pointsEstimated": true,
+     "question": "Consider a three-dimensional model of the system allowing, in particular, for the orbital eccentricity and the inclination of the orbital plane towards the line of sight. Estimate the masses of the components, using the Kepler's Third Law. Consider the possible causes of the errors of your estimates.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "A galaxy's mass.",
+   "weight": 10,
+   "total": 10,
+   "statement": "Edge-on spiral galaxies are suitable for the determination of their masses. Prof. I.D.Karachentsev and his colleagues complied a catalogue of such galaxies and obtained their mass spectroscopically. The spectrum of one galaxy, FGC 1908 in Dragon, is given below. It was obtained on the 4-th of March 1997, with the help of a spectrograph installed at the primary focus of the 6-meter telescope. As the figure shows, the spectrograph slit was aligned with the major axis of the galaxy. Vertical lines crossing the spectrum are emission from the night sky. Other emissions belong to the galaxy. Their laboratory wavelengths are indicated. When determining the galaxy's mass at the SAO the Hubble constant was taken to be H = 74 km/(s*Mpc).\n\nYou are required to repeat the estimate of the galaxy's mass. Recall that 1 pc = 3.09*10^18 cm, the mass of the Sun is MO = 2*10^33 g and the gravity constant is G = 6.67*10^-8 dyn*cm^2/g^2.",
+   "parts": [
+    {
+     "id": "8.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Explain why a two-dimensional spectrum of the galaxy looks exactly like that. Estimate the mass of FGC 1908 and compare it to the mass of our galaxy. Consider the possible causes of the errors of your estimates.",
      "reference": ""
     }
    ]

@@ -6,30 +6,119 @@
  "lang": "ru",
  "tasksFile": "olympiads/astronomy/s/iao/2017/astro-3-tasks.pdf",
  "solutionFile": "olympiads/astronomy/s/iao/2017/astro-3-sol.pdf",
- "generatedBy": "parser",
- "generatedAt": "2026-11-09T17:55:00.509Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:14:40.168Z",
  "quality": {
-  "tasks": 1,
-  "parts": 1,
-  "withPoints": 1,
-  "withReference": 1,
-  "withQuestion": 1,
-  "estimatedPoints": 1
+  "tasks": 3,
+  "parts": 13,
+  "withPoints": 13,
+  "withReference": 13,
+  "withQuestion": 13,
+  "estimatedPoints": 0
  },
  "tasks": [
   {
-   "number": 1,
-   "title": "АСТРОНОМИЧЕСКОЕ          ж                EURO-ASIAN            Round",
-   "weight": null,
+   "number": 6,
+   "title": "Transiting extra-solar planet",
+   "weight": 10,
    "total": 10,
-   "statement": "ОБШЕСТВО          Ше     ASTRONOMICAL SOCIETY                    7\n|                   croup [@ || B |\nos      > ХХІІ Международная астрономическая олимпиада   ЕНТ\n8        ‚``        ХХН International Astronomy Olympiad      language   En   lish\nе                                                                        язык                  “\nan         Китай, Вэйхай      27.Х. = 04.ХІ. 2047      Weihai, China              language   P   CCKUuU\n|                              Read once more before you start your work\nRequirements:\n-- Languages of the solutions. (For Practical and also for Observational rounds).\nNo text in any language is permitted to use in solutions. All the solution must be\nwritten using only drawing pictures, plotting graph, writing formulae, numerical values\nand standard international astronomy symbols (like 2, 2, a UMa, M31, 5\").\nNumerical values must be written using standard symbols but not symbols of National\nalphabet. Jury of the Practical round will not take into account any text in any\n-       language in solution.\nFor example, the names of constellations, written in English, Russian or any\n-       other language will be not taken into account (should be only UMa, Ori, еіс.).\nEwé раз прочитайте перед началом работы\nТребования:\n– Языки написания решений задач. (На практическом и наблюдательном\nтурах). Тексты в решениях не допускаются (ни на каком языке). Все решения\nдолжны содержать только рисунки, графики, формулы, численные значения и\nстандартные международные астрономические символы (такие как <, &,\na UMa, M31, 5\"). Цифры должны быть написаны стандартными символами (не\n.        символами национального алфавита). Жюри практического тура не будет\nучитывать какие-либо тексты (на любом языке) в решении.\nНапример, не учитываются названия созвездий, написанные на\n|       английском, русском или ином языке (должно быть только UMa, Ori ит.д.).\n“Kura, ай Мова, ба\n\nАСТРОНОМИЧЕСКОЕ       Еа          EURO-ASIAN                        !        р\nОБЩЕСТВО            әр        ASTRONOMICAL SOCIETY       Roun а     Р га с\nКЕК eroup КЛ ЕЛ\n_ ... ‘XX Международная астрономическая олимпиада\n|       В     02.      ХХІІ International Astronomy Olympiad\nTan     Китай, Вэйхай    27.Х. - 04.Х1. 2017    Weihai, China  En qlish\n|                                   Practical round. Problems to solve\n6. Transiting extra-solar planet.\nThe transit of an extra-solar planet (TrES-3b) across a star (TrES-3) was observed by the\n1-т telescope of Weihai Observatory (WHO) on April 16, 2009, using the broad-band V\nfilter and a P| CCD. The photometric data (selected part from the original one) are given\nin the Table 6 (see separate sheet), the time is in Julian days, and my is the V-band\nmagnitude.\n\n6.1. Plot the transit light curve (magnitude vs time), determine the moment of mid-transit (the\ndeepest transit) and write result (in Julian days) in form of «Tmia=...», estimate the\nduration of the transit (in days) in form of «Ty = ...», determine the depth of the transit (in\nmagnitudes) in form of «) =...» .\n\n6.2. Give the formula and calculate the radius of the extra-solar planet TrES-3b R, (in units of\n\n)            the radius of Jupiter: Ryupiter, write the answer in form of «Rp = ...»). Тһе radius of the star\n(TrES-3) is known to be 0.813 radius of the Sun, Rs = 0.813 Rgun.\n\n6.3. Estimate the approximate value of the angle i, in unit of degrees (°) between the axis of\nthis planet’s orbiting and the line of sight of the observer. Write the answer in form of\n«іш,,,».\n\n6.4. Тһе next mid-transit moment after the above transit event was: JD = 2454939.578. Тһе\nmass of the star (TrES-3) is known to be 0.924 mass of the Sun, М. = 0.924 Mgun.\nCalculate the orbital period of TrES-3b (in units of days, in form of «P =...»), and the\nsemi-major axis of the orbit (in units of au, in form of «a = ...»).\n\nКитай, Вэйхай |            2017             Weihai, China\n\nАСТРОНОМИЧЕСКОЕ          Ре              EURO-ASIAN                               р гас\nОБШЕСТВО           же       ASTRONOMICAL SOCIETY      Ro und  | Prac |\nGroup | Q@\nое    `.ХХН Международная астрономическая олимпиада\nы      т      ХХІІ International Astronomy Olympiad\nм     Китай, Вэйхай    27.Х. = 04.51. 2047    Weihai, China  English\n|                                    Practical round. Problems to solve\n7. Extinction in terrestrial atmosphere.\nExtinction is a term used in astronomy to describe light attenuation due to its absorption\nand scattering.\nA star (а = 22\"02™40S, 5 = +42°14'41\") was observed at different zenith distances on\nOctober 26, 2017 (after its upper culmination at 11:34:20 UT), at the Weihai Observatory\n(WHO) of Shandong University. Astronomers use parameter F(z), air mass, as an\nextinction characteristic, F(z) = 1/cos(z) if the zenith distance (2) is smaller than 60°. Тһе\natmospheric extinction equation can be written as: my = то + K-F(z), where Mo is the\nmagnitude of the star without atmospheric extinction, K is the atmospheric extinction\ncoefficient. Table 7 (see separate sheet) gives the observing times (UT, in units of hour)\n.            and the measured magnitudes (my) of the star.\n7.1. Draw the table (similar to that you see below) in your answer book. Calculate zenith\n:           distances, 2, іп unit of degrees (9), for given observing times іп 15 column, and write the\nresult into the 274 column. Calculate the air mass (F(z)) for different zenith distances, and\nwrite the result into the 3“ column.\nUT_obs (hour)\n1249484 |     ОНИ\n7.2. Plot the scatter diagram between magnitudes (my) vs. air mass (F(z)). Draw a straight\ndashed line on the plot to indicate the linear relation between my vs. F(z).\n7.3. Estimate the atmospheric extinction coefficient (K) and the magnitude of this star without\natmospheric extinction (то) with help of graphical method, and write results in forms of\n«К=...», «Шот...».\n7.4. Determine the magnitude (mz) of this star as it was observed in zenith, and write result in\nform of «mz = ...».\nКитай, Вэйхай                   2017                   Weihai, China\n\nАСТРОНОМИЧЕСКОЕ           шт                 EURO~ASIAN                 Round    “Pr ac  |\nОБШЕСТВО           В        ASTRONOMICAL SOCIETY\nGroup  В.\n001.      `.ХХН Международная астрономическая олимпиада\n+      0.      ХХІІ International Astronomy Olympiad                         |\nмо     Китай, Вэйхай    27.Х. = 04.1. 2047    Weihai, China         Ши  English\n\n.                                   Practical round. Problems to solve\n\n:          7. Spectral observation on an interacting galaxy.\n\nThe low-resolution spectra of 15 different regions in an interacting galaxy Arp 86 were observed\nby Multi-Object Spectrograph (MOS) on the 2.16-m telescope of Xinglong Station near Beijing,\nNational Astronomical Observatories of China. The data is analyzed by Zhou et al. (2014, RAA,\n14, 1393). The measured fluxes of the [ОШ], НВ, [NII], Ha emission lines are shown in Table В7\n(see separate sheet). The fluxes are in units оҒ10 7% erg/s/cm?.\n\n7.1. Plot the scatter diagram between |094, ((ОШИНВ) vs. log1o([NII]/Ha) for regions in the galaxy.\n\n7.2, Draw a dashed curve on the diagram for the diagnostic function:\n\nlogro([ONIV/H8) = 1.3 + 0.61/({log10([NII]/Ha)-0.05}),\ngiven by Kauffmann et al. (2003, MNRAS, 346, 1055). If the point of a region in the diagram is\nabove this curve, the region can be classified as “AGN” (Active Galactic Nuclei). Determine\n|           which regions сап be classified as “AGN”, write the answer іп form of «AGN = “Region ІП” ...».\n\n(‘Region ІП” are given in the 15 column of Table.87.)\n\nу     7.3. Іп your answer book draw a table in form of the following example. Calculate the angular\ndistance between each region to the center (a = 23\"4704.88, 5 = +29°29'00.6\") of the galaxy (in\nunits of arcsec). Calculate the luminosities of Ha (L(Ha)) for each region (in units of erg/s), and\nthen estimate the Star Formation Rate (SFR) for each region based on Ha luminosities,\nfollowing the formula:\n\nSFR (Mo/yr) = 7.9 x 10“? [L(Ha)] (erg/s).\nCalculate the metallicities (oxygen abundance in units of logie(O/H)) of interstellar medium (ISM)\nfor each region, following the formula:\n12 + log4o(O/H) = 8.9 + 0.57  logyo([NIl]/Ha).\nThe redshift of Arp 86 is: 0.016.\nAngular Distance\nRegion ID       to the center        р         М к        logio(O/H)\n1                                         nl\n\n|     7.4. Plot the radial distribution of the log1o(O/H) of this galaxy. Тһе radial distribution should be\nplotted as a scatter diagram: Іо040(О/Н) vs. В, where В is angular distance to the center in\n\n-            arcsec,\n\n7.5. Draw a straight dashed line on the scatter diagram of oxygen abundance (1094(О/Н)) radial\ndistribution to indicate the trend of the profile. If there is a linear relation between log1o(O/H) and\nВ, i.e. as logip(O/H) = A + ВхВ, estimate В with a help of graphical method, write the answer Іп\nform of «B= ...».\neee\nКитай, Вэйхай                    2017                    Weihai, China\n\nАСТРОНОМИЧЕСКОЕ    ағ.      EURO-ASIAN       Round\nОБШЕСТВО           ae        ASTRONOMICAL SOCIETY                  –      –\ncroup | |B\n20211.   `.ХХН Международная астрономическая олимпиада        села. еп.\n.    мə     ХХІІ International Astronomy Olympiad     Tanguage  Русский\nм      Китай, Вэйхай    27.Х. - 04.Х1. 2017    Weihai, China    glish\n                       Таблица к задаче 6.                           Table for problem 6.\ntime (JD)            My\n|                                2454938.220         12.4080\n2454938.231         12.4094\n2454938.239         12.4074\n2454938.244         12.4074\n2454938.248         12.4144\n2454938.251         12.4217\n2454938.257         12.4261\n2454938.261         12.4292\n2454938.267         12.4353\n2454938.274         12.4365\n|                                2454938.279         12.4333\n2454938.283         12.4267\n|                                 2454938.287         12.4254\n2454938.294         12.4172\n2454938.297         12.4146\n2454938.304                   12.4102\n2454938.314         12.4075\n2454938.324         12.4086\nЭлементы орбит и физические характеристики Солнца, Земли, Луны и Юпитера\nParameters of orbits and physical characteristics of Sun, Earth, Moon and Jupiter\nНебесное период. я - BE:  көсені  |    ie -  я  ох ШЕ\n uemmpansworo tena ы Тр | диаметр | Масса | anor | ад | еті | Gone\nBody, centtri-  diameter   Mass   den-  acceler.  Ша   Al-\nunits   km   years   days    e           4 | 9/ст  mis   a)\nсолнце    1,6-107 | 2,5101/| 2,2109     8-10\"       1392000 | 1989000 | 1,409        -26,8\"\n:        Земля      1,000    149,6    1,000 | 365,256 | 0,047 | 12756 | 5,9742| 5,515| 9,81         0,36\nЛуна     0,00257 | 0,38440 | 0,0748 | 27,3217 | 0,055    3475 | 0,0735 | 3,34    1,62 | -12,7\" | 0,07\nsuper”     5,204 | 778,6 | 11,862 | 4332,59 | 0,048 | 142984 | 18998 | 1,33 | 24,86 | -2,7\" | 0,66\n**) В среднем противостоянии.     **) In mean opposition.\nай а Мова НЕ о\n\n20422      `.ХХН Международная астрономическая олимпиада    ее up |\n       2.        XXII International Astronomy Olympiad  Русский\n‘                       Таблица к задаче 7.                            Table for problem 7.\nUTobs (hour)          my\n12.49484             16.9040\n12.76648       16.9195\n13.30982       16.9135\n13.58151       16.8938\n13.85316       16.9306\n|                  14.12483     16.9460\n-                             14.39651       16.9420\n14.66817       16.9520\n14.93982       16.9528\n15.21151       17.0046\n15.48372       17.0630\n16.02750       17.1581\nКоординаты = | Обсерватория Войхай | Набл. станция Синлун.\n-                                             Coordinates              WHO Observatory        Xinglong Observatory\n.                                          Ф(М/сш.)                    37° 32!                       40° 24\nЕва | ев о\nKyran, Ва о меһа, SH\n\nАСТРОНОМИЧЕСКОЕ   ж     ЕЧКО-АЗАМ     Роипа\nОБЩЕСТВО           ыы        ASTRONOMICAL SOCIETY\nGroup ЕП\n00012.   `.ХХН Международная астрономическая олимпиада  ЗЫ          -\nВ   2.    ХХІІ International Astronomy Olympiad    = Pycckuu\nan     Китай, Вэйхай    27.Х.- 04.ХІ. 2017    Weihai, China  English\n,                       Таблица к задаче 7.                            Table for problem 7.\n|           Region   RA.     Decl.    Қ(ОШ)   f(HB)   КІМІ)   f(Ha)\nre] os [Be [ae |\n 2847465  182  sa\n 23:47.04.4 | +2929348 |  15.4  45.6\n3 | 23:47:07.2  6.45    8.57    12.4    26.8\n  119   23.9   140.0   285.0\n|            19   23:47:01.1 | +29:29:06.9   24.8   11.8   20.4   53.3\n.          23 | 2347040 | +2929:023 | 103 | 863 | 126 | 439\n +29:28:56.1   103.0  95.5\n ЕГІЛДІ  ТИСІН\n 23:47:01.8 | %29:28:48.3   48.2\n 23:47:08.2  %29:28:45.0   107.0  77.4   214.0\n47  23:47:06.6 | +29:28:29.1 104.0\nКоординаты      Обсерватория Вэйхай | Набл. станция Синлун\n\"                           Coordinates        WHO Observatory     Xinglong Observatory\n“Kuta, йа) | 20700 мар ба",
+   "statement": "The transit of an extra-solar planet (TrES-3b) across a star (TrES-3) was observed by the 1-m telescope of Weihai Observatory (WHO) on April 16, 2009, using the broad-band V filter and a PI CCD. The photometric data (selected part from the original one) are given in the Table 6 (see separate sheet), the time is in Julian days, and mV is the V-band magnitude.",
    "parts": [
     {
-     "id": "1.1",
-     "points": 10,
-     "question": "Решите задачу полностью и запишите ответ.",
-     "reference": "6. (alpha/beta, points: 10(5/2/1/2))\n6.1 Plot the transit light curve properly, should care\nabout the scales, and the magnitudes axis (y-axis)\nshould be reversed (i.e., from high values to low\nvalues).\nTid = ...8.272JD ; Td = 0.055 days ; D=0.027™\n6.2 D=(Rp/Rs)* (or other similar ones):\nБр = 1.305 RJ (воте errors accepted)\n6.3 - 90° (or calculated value ~80°)\n6.4 P= 1.3062 days ; a= 0.0226 au\n7. (alpha, points: 10(4/3/2/1))\n7.1\n\n72 Plot the scatter diagram properly (note:\nmagnitudes should be y-axis), draw the straight\ndashed line properly.\n7.3 K=0.49, т0-16.38\n\n7.4 mz=16.87 (some errors accepted)\n7. (beta, points: 10(2/2/3/2/1 )\n7.1 Plot the scatter diagram properly.\n7.2 Draw the curve properly. AGN = 9, 15, 16, 19,\n28, 34, 37, 43\n7.3\n\n*1039\n\n7.4 Plot the radial distribution properly.\n7.5 B=0.004 (some errors accepted)",
-     "pointsEstimated": true
+     "id": "6.1",
+     "points": 5,
+     "question": "Plot the transit light curve (magnitude vs time), determine the moment of mid-transit (the deepest transit) and write result (in Julian days) in form of «Tmid=...», estimate the duration of the transit (in days) in form of «Tr = ...», determine the depth of the transit (in magnitudes) in form of «D =...» .",
+     "reference": "Plot the transit light curve properly, should care about the scales, and the magnitudes axis (y-axis) should be reversed (i.e., from high values to low values). Tmid = 2454938.272 JD ; Tr = 0.055 days ; D = 0.027m (some errors in above values accepted)"
+    },
+    {
+     "id": "6.2",
+     "points": 2,
+     "question": "Give the formula and calculate the radius of the extra-solar planet TrES-3b Rp (in units of the radius of Jupiter: RJupiter, write the answer in form of «Rp = ...»). The radius of the star (TrES-3) is known to be 0.813 radius of the Sun, Rs = 0.813 RSun.",
+     "reference": "D = (Rp/Rs)^2 (or other similar ones): Rp = 1.305 RJ (some errors accepted)"
+    },
+    {
+     "id": "6.3",
+     "points": 1,
+     "question": "Estimate the approximate value of the angle i, in unit of degrees (°) between the axis of this planet’s orbiting and the line of sight of the observer. Write the answer in form of «i = ...».",
+     "reference": "~90° (or calculated value ~80°)"
+    },
+    {
+     "id": "6.4",
+     "points": 2,
+     "question": "The next mid-transit moment after the above transit event was: JD = 2454939.578. The mass of the star (TrES-3) is known to be 0.924 mass of the Sun, Ms = 0.924 MSun. Calculate the orbital period of TrES-3b (in units of days, in form of «P =...»), and the semi-major axis of the orbit (in units of au, in form of «a = ...»).",
+     "reference": "P = 1.3062 days ; a = 0.0226 au (some errors in above values accepted)"
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Extinction in terrestrial atmosphere",
+   "weight": 10,
+   "total": 10,
+   "statement": "Extinction is a term used in astronomy to describe light attenuation due to its absorption and scattering. A star (α = 22h02m40s, δ = +42°14'41\") was observed at different zenith distances on October 26, 2017 (after its upper culmination at 11:34:20 UT), at the Weihai Observatory (WHO) of Shandong University. Astronomers use parameter F(z), air mass, as an extinction characteristic, F(z) = 1/cos(z) if the zenith distance (z) is smaller than 60°. The atmospheric extinction equation can be written as: mV = m0 + K·F(z), where m0 is the magnitude of the star without atmospheric extinction, K is the atmospheric extinction coefficient. Table 7 (see separate sheet) gives the observing times (UT, in units of hour) and the measured magnitudes (mV) of the star.",
+   "parts": [
+    {
+     "id": "7.1",
+     "points": 4,
+     "question": "Draw the table (similar to that you see below) in your answer book. Calculate zenith distances, z, in unit of degrees (°), for given observing times in 1st column, and write the result into the 2nd column. Calculate the air mass (F(z)) for different zenith distances, and write the result into the 3rd column.",
+     "reference": "(some errors in above values accepted)"
+    },
+    {
+     "id": "7.2",
+     "points": 3,
+     "question": "Plot the scatter diagram between magnitudes (mV) vs. air mass (F(z)). Draw a straight dashed line on the plot to indicate the linear relation between mV vs. F(z).",
+     "reference": "Plot the scatter diagram properly (note: magnitudes should be y-axis), draw the straight dashed line properly."
+    },
+    {
+     "id": "7.3",
+     "points": 2,
+     "question": "Estimate the atmospheric extinction coefficient (K) and the magnitude of this star without atmospheric extinction (m0) with help of graphical method, and write results in forms of «K = ...», «m0 = ...».",
+     "reference": "K = 0.49, m0 = 16.38 (some errors in above values accepted)"
+    },
+    {
+     "id": "7.4",
+     "points": 1,
+     "question": "Determine the magnitude (mz) of this star as it was observed in zenith, and write result in form of «mz = ...».",
+     "reference": "mz = 16.87 (some errors accepted)"
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Spectral observation on an interacting galaxy",
+   "weight": 10,
+   "total": 10,
+   "statement": "The low-resolution spectra of 15 different regions in an interacting galaxy Arp 86 were observed by Multi-Object Spectrograph (MOS) on the 2.16-m telescope of Xinglong Station near Beijing, National Astronomical Observatories of China. The data is analyzed by Zhou et al. (2014, RAA, 14, 1393). The measured fluxes of the [OIII], Hβ, [NII], Hα emission lines are shown in Table 8 (see separate sheet). The fluxes are in units of 10^-16 erg/s/cm^2.",
+   "parts": [
+    {
+     "id": "8.1",
+     "points": 2,
+     "question": "Plot the scatter diagram between log10([OIII]/Hβ) vs. log10([NII]/Hα) for regions in the galaxy.",
+     "reference": "Plot the scatter diagram properly."
+    },
+    {
+     "id": "8.2",
+     "points": 2,
+     "question": "Draw a dashed curve on the diagram for the diagnostic function: log10([OIII]/Hβ) = 1.3 + 0.61 / ({log10([NII]/Hα) - 0.05}), given by Kauffmann et al. (2003, MNRAS, 346, 1055). If the point of a region in the diagram is above this curve, the region can be classified as “AGN” (Active Galactic Nuclei). Determine which regions can be classified as “AGN”, write the answer in form of «AGN = “Region III” ...». (“Region III” are given in the 1st column of Table 8.)",
+     "reference": "Draw the curve properly. AGN = 9, 15, 16, 19, 28, 34, 37, 43"
+    },
+    {
+     "id": "8.3",
+     "points": 3,
+     "question": "In your answer book draw a table in form of the following example. Calculate the angular distance between each region to the center (α = 23h47m04.8s, δ = +29°29'00.6\") of the galaxy (in units of arcsec). Calculate the luminosities of Hα (L(Hα)) for each region (in units of erg/s), and then estimate the Star Formation Rate (SFR) for each region based on Hα luminosities, following the formula: SFR (M☉/yr) = 7.9 × 10^-42 [L(Hα)] (erg/s). Calculate the metallicities (oxygen abundance in units of log10(O/H)) of interstellar medium (ISM) for each region, following the formula: 12 + log10(O/H) = 8.9 + 0.57 × log10([NII]/Hα). The redshift of Arp 86 is: 0.016.",
+     "reference": "(some errors in above values accepted)"
+    },
+    {
+     "id": "8.4",
+     "points": 2,
+     "question": "Plot the radial distribution of the log10(O/H) of this galaxy. The radial distribution should be plotted as a scatter diagram: log10(O/H) vs. R, where R is angular distance to the center in arcsec.",
+     "reference": "Plot the radial distribution properly."
+    },
+    {
+     "id": "8.5",
+     "points": 1,
+     "question": "Draw a straight dashed line on the scatter diagram of oxygen abundance (log10(O/H)) radial distribution to indicate the trend of the profile. If there is a linear relation between log10(O/H) and R, i.e. as log10(O/H) = A + B×R, estimate B with a help of graphical method, write the answer in form of «B = ...».",
+     "reference": "B = 0.004 (some errors accepted)"
     }
    ]
   }

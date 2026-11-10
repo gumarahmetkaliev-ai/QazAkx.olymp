@@ -6,30 +6,263 @@
  "lang": "ru",
  "tasksFile": "olympiads/geography/national/2022/10/geo-2-tasks.pdf",
  "solutionFile": "olympiads/geography/national/2022/10/geo-2-sol.pdf",
- "generatedBy": "parser",
- "generatedAt": "2026-11-09T18:10:02.746Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:38:00.211Z",
  "quality": {
   "tasks": 1,
-  "parts": 1,
-  "withPoints": 1,
-  "withReference": 0,
-  "withQuestion": 1,
-  "estimatedPoints": 1
+  "parts": 40,
+  "withPoints": 40,
+  "withReference": 1,
+  "withQuestion": 40,
+  "estimatedPoints": 0
  },
  "tasks": [
   {
    "number": 1,
-   "title": "МУЛЬТИМЕДИЯЛЫҚ ТУР",
-   "weight": null,
-   "total": 10,
-   "statement": "География пәнінен Республикалық пәндік олимпиада\n                18-21 сәуір 2022 ж.\n\nМУЛЬТИМЕДИЯЛЫҚ ТУРДЫҢ ЕРЕЖЕЛЕРІ\n\n Мультимедиялық тур 40 сұрақтан тұрады.\n Әр сұраққа 5 таңдау беріледі, солардың тек біреуі дұрыс\n  жауап.\n Тестінің 15 сұрағы ағылшын тілінде құрастырылған.\n\n Әр сұраққа мұқият назар аударыныз.\n\n Әр сұраққа 1 минут уақыт беріледі.\n\n Әр дұрыс жауапқа – 1 ұпайдан.\n\n Жауап парақшаларында әр дұрыс жауапты дөңгелекпен\n  белгілеңіз, қате болған жағдайда жауапты сызып тастаңыз\n  және сіздің таңдауыңыз бойынша дұрыс деп ойлайтын\n  жауабыңызды белгілеңіз.\n\nСӘТТІЛІК !!!\n\n № 1 СҰРАҚ\nА әрпімен белгіленген литосфералық қозғалыс\n  түрін атаңыз ?\nА. субдукция\nВ. коллизия\nC. спрединг\nD. шөгу\nE. рифтинг\n\n№ 2 СҰРАҚ\nТөмендегі аэрофотосуретте қандай геологиялық құрылым\n  бейнеленген?\n\nА. метеоритті кратер В. Жанартаулық кальдера\nC. эрозияланған антиклин D. эрозияланған синклин E. кар\n\nQUESTION № 3\n\nUsing Table 1 which continent has the most\nmegacities?\nA. Africa\nB. Asia\nC. Notrh America\nD. South America\nE. Australia\n\n № 4 СҰРАҚ\n\nМына фотосуреттерде қандай байырғы халық көрсетілген?\nA.аймара\nB. инуит\nC. чаморро\nD.туарег\nE. саамдар\n\nQUESTION № 5\n\nThis is a Nauru island. In the late 20th century it boasted an income per\nhead above that of the USA due to rich resources of phosphates. These\nhave now become exhausted and the people are struggling to survive. How\nwe can call such type of economy?\n\n                                        А. sustainable economy\n                                        B. mixed economy\n                                        C. market economy\n                                        D. robber economy\n                                        E. no correct answer\n\nQUESTION № 6\nApproximately how much rainfall does Port Moresby receive\nin its driest 4 months?\n\nA. 11 mm   B. 55 mm   C. 104 mm   D. 520 mm   E. 180 mm\n\n № 7 СҰРАҚ\nҚандай табиғат белдеуінде ұяшықты үгілу көп кездеседі ?\n\nA. тундра\nB. тайга\nC. шөл және шөлейт\nD. саванна\nЕ. ылғалды экваторлық ормандар\n\n № 8 СҰРАҚ\nКларк-Фишер моделінің осы нұсқасының қай тармағына қарапайым\nбалық шаруашылығы кіреді?\n\n               А.бірінші      B.екінші    C.үшінші\n               D. төртінші        E. ешқайсысында\n\n № 9 СҰРАҚ\nДемографиялық ауысудың 2 кезеңін анықтаңыз?\n\n                       B\n  A                                       С\n\n        D\n                                              E\n\n        А.A      B.B       C.C   D.D   E. E\n\n QUESTION № 10\nConsidering the temperature and rainfall in Figure on Question 6 Port\nMoresby is in which biome in Figure below?\n\nА.temperate rainforest\nВ. temperate seasonal forest\nС. tropical rainforest\nD. tropical seasonal forest\n/savannah\nE. boreal forest\n\n№ 11 СҰРАҚ\nСуреттерде қандай қауіпті табиғи құбылыс бейнеленген?\n\n            А.сулой     B. гиперган   C. лахар\n            D. Наруто су иірімі E. мурмурация\n\n№ 12 СҰРАҚ\n«Танатотуризм» ұғымына қандай сурет ең жақсы сәйкес келеді?\n\n    A\n                                 B\n\nC\n                                 D\n\n    А. A       B. B       C. C       D. D     E. ни один\n\n№ 13 СҰРАҚ\nКартада … негізгі өндірушілері болып табылатын аймақтар\nкөрсетілген.\n\n       A. алма    B. банан C.цитрус     D.мақта    E.кофе\n\n QUESTION № 14\n\n What is the reason of coral blenching?\n\nA. low light due to cloudcover          B. sea temperature increase\nC. increases intourist numbers         D. overfishing\nE. when they get older they start blenching\n\n№ 15 СҰРАҚ\nЫлғалды тропикалық орманға қандай климатограмма сәйкес\nкеледі?\n\n             А. A         B. B     C. C     D. D\n                    E. Барлық жауаптар дұрыс\n\n№ 16 СҰРАҚ\n ... 7-12 мың жыл бұрын қазіргі Мексика аумағында пайда болды.\n Біржылдық шөп тұқымдас мәдени өсімдік. Бұл өсімдіктің ең ірі\n импорттаушылары-Жапония, Мексика және Қытай. Мәдениетті\n атаңыз.\n A.бидай B.фасоль       C.жүгері\n D.қызанақ    E. чили бұрышы\n\n             2019 ж. бойынша үздік 5 өндіруші ел\n      (АҚШ ауыл шаруашылығы министрлігінің мәліметтері\n                    бойынша (млн тонн)\n               АҚШ                        347\n              Қытай                       254\n             Бразилия                     101\n                ЕО                       64,56\n             Аргентина                    54\n\n  QUESTION № 17\nWhich factor is the most important to explain the temperature differences\nshown in this map?\n\n   A. continentality       B. ocean currents     C. Earth rotation\n   D. environmental pollution      E. latitude\n\n № 18 СҰРАҚ\nЮНЕСКО-ның Бүкіләлемдік мұралар тізіміне кіретін қазақстандық екі қорықтың\nбірі. Қорық 1968 жылы құстардың көптеген түрлерінің мекендейтін бірегей\nсулы-батпақты жерлерін сақтау үшін құрылған. Қазақстанның қай қорығы\nтуралы баяндалып жатқанын анықтаңыз.\n\n               A. Алакөл B. Барсакелмес C. Қорғалжын\n                     D. Марқакөл E. Наурызым\n\n№ 19 СҰРАҚ\n   Берілген мәліметтерге сәйкес топырақ түрін анықтаңыз:\n      Алып жатқан аумағы         25,5 млн га немесе Қазақстан\n                                 аумағының 9,5%\n      Облыстар                   Cолтүстік Қазақстан облысы,\n                                 Қостанай, Ақмола, Павлодар, Ақтөбе\n                                 және БҚО көп бөлігі\n\nA. құба (бурые)\nB. сұр-құба (серо-бурые)\nC. қоңыр (каштановый)\nD. қара (черноземы)\nE. қошқыл (коричневые)\n\nQUESTION № 20\nBased on photos and information below find out the country\nin 14 century this country called «Land of million of elephants and a white\numbrella». Population 7,2 million.\n\nA. Laos B. Thailand     C. Myanmar\nD. Vietnam E. Indonesia\n\n№ 21 СҰРАҚ\n\n             Бұл картада картографиялық\n             кескіннің қандай тәсілі\n             қолданылады?\n\n             A. ареалдар тәсілі\n             B. сапалы Фон тәсілі\n             C. сандық Фон тәсілі\n             D. картограмм тәсілі\n             E. нүктелік тәсіл\n\n№ 22 СҰРАҚ\n\n Суретте бұрмалану сипаты бойынша проекцияның қандай\n түрі көрсетілген?\n\n A. цилиндрлік теңшамалы\n B. жалған цилиндрлік\n C. конустық теңшамалы\n D. поликонустық\n E. азимуттық теңаралық\n\nQUESTION № 23\nCanadian business jet manufacturer. It was also formerly a\nmanufacturer of commercial jets, public transport vehicles, trains, and\nrecreational vehicles?\nA. Airbus\nB. Boeing\nC. Embraer\nD. Aeromot\nE. Bombardier\n\n№ 24 СҰРАҚ\n Ат ендіктері (конские широты) ?\n A. Экватордың солтүстігі мен оңтүстігінде 10 және 25º арасында\n орналасқан ендіктер\n B. 30-35º солтүстік пен оңтүстік арасындағы субтропиктік ендіктер\n C. Жердің оңтүстік жарты шарындағы 40° пен 50° ендік аралығындағы\n мұхиттық кеңістік\n D. Жердің оңтүстік жарты шарындағы 50° пен 60° ендік\n аралығындағы, Антарктидаға жақын орналасқан кеңістіктер\n E. 60° және 70° с. е. аралығындағы субарктикалық ендіктер\n\nQUESTION № 25\n What indicator does the map represent?\n A. gender inequality\n B. lack of medicine\n C. climate change\n D. malnutrition and hunger\n E. drinking water shortage\n\n№ 26 СҰРАҚ\n Лаваның тез салқындауы нәтижесінде пайда болған магмалық\n тау жынысы. Негізгі минералдары: кварц және дала шпаты.\n A. боксит\n B. тақтатас\n C. обсидиан\n D. берилл\n E. опал\n\n№ 27 СҰРАҚ\nШөгінділердің қандай түрі 3 санымен\nбелгіленген?\n\nA. элювий\nB. аллювий\nC. делювий\nD. пролювий\nE. иллювий\n\nQUESTION № 28\n Which number in the picture indicates the location of\n the Gibson Desert?\n A. 2\n B. 3\n C. 4\n D. 5\n E. 6\n\n№ 29 СҰРАҚ\nБұл қорық Қазақстанның қай облысында орналасқан?\nA. Қызылорда\nB. Алматы\nC. Шығыс Қазақстан\nD. Жамбыл\nE. Түркістан\n\n№ 30 СҰРАҚ\nСуреттерде мұздық бедерінің қандай формасы көрсетілген?\n\n  А) нунатактар\n  В) друмлиндер\n  C) қоймаңдай тастар\n  D) трог\n  E ) цирк\n\nQUESTION № 31\n Which of the picture corresponds to the term \"cuesta\"?\n\n A. А\n B. В\n C. С\n D. D\n E. E\n                         А                            В\n\n                             D                            E\n     С\n\n№32 СҰРАҚ\n Норвегия жағалауларын қай теңіз шайып жатқан жоқ?\n A. Балтық\n B. Солтүстік\n C. Баренц\n D. Норвег\n E. Барлық теңіздер Норвегияны шайып жатыр\n\n№33 СҰРАҚ\n Суреттер қандай діни ағымды білдіреді?\n A. Мазһабтар\n B. Баһаи\n C. Копттар\n D. Баптистер\n E. Друздар\n\nQUESTION № 34\n Which lithospheric plate is indicated by the number 3 in the\n    picture?\n A. Scotia             B. Vinson               C. Cocos\n D. Nazca              E. Drake\n\n№ 35 СҰРАҚ\n Төменде келтірілген көрікті жерлер қай облысқа тән?\n А. Ақтөбе B. Ақмола\n C. Павлодар D. Қарағанды\n E. Жамбыл\n\n№ 36 СҰРАҚ\n Төменде көрсетілген елдер қандай критерийлер бойынша\n біріктірілген:\n A. дамушы елдер\n B. мұнай экспорттаушы елдер\n C. аралдық елдер\n D. құрлықішілік елдер\n E. монархиялық елдер\n\nQUESTION № 37\n The picture shows endemics of one country. Name the capital?\n A. Brasilia\n B. Windhoek\n C. Jakarta\n D. Bangkok\n E. Suva\n\nQUESTION № 38\nWhich country is not a member of\nECOWAS (Economic Community\nof West African country) ?\nА. Benin B. Togo C. Mali\nD. Cameroon E. Ghana\n\n№ 39 СҰРАҚ\n Суретте қай өзен көрсетілген?\n А. Лена             B. Колыма      C. Енисей\n D. Анадыр           E. Индигирка\n\nQUESTION № 40\n Which of the following cities is located north of the others?\n A. Washington        B. Madrid                C. Sapporo\n D. Beijing           E. Ankara\n\nТест аяқталды!\n\n         МУЛЬТИМЕДИЙНЫЙ ТУР\n\nРеспубликанской предметной олимпиады по географии,\n                18-21 апреля 2022 г.\n\nПРАВИЛА МУЛЬТИМЕДИЙНОГО ТУРА\n Мультимедийный тур состоит из 40 вопросов.\n На каждый вопрос дается 5 вариантов ответов, только один из\n  них правильный.\n 15 вопросов тестов составлены на английском языке.\n\n Вникайте в каждый вопрос внимательно.\n\n На каждый вопрос дается 1 минута.\n\n За каждый правильный ответ – 1 балл.\n\n В листах ответов обведите правильный ответ кружком, если\n  вы сделали ошибку, зачеркните ответ и обведите кружком\n  правильный новый ответ по вашему мнению.\n\nУ Д А Ч И !!!\n\n ВОПРОС № 1\nНазовите вид литосферного движения под\n  обозначением А?\nА. субдукция\nВ. коллизия\nC. спрединг\nD. сдвиг\nE. рифтинг\n\n ВОПРОС № 2\nКакое геологическое строение изображено на данном\n  аэрофотоснимке?\n\nА. метеоритный кратер В. Вулканическая кальдера C. эродированная\n   антиклиналь D. эродированная синклиналь E. кар\n\nQUESTION № 3\n\nUsing Table 1 which continent has the most\nmegacities?\nA. Africa\nB. Asia\nC. Notrh America\nD. South America\nE. Australia\n\n ВОПРОС № 4\n\nКакое коренное население представлено на фотографиях?\nA.аймара\nB. инуиты\nC. чаморро\nD.туареги\nE. саамы\n\nQUESTION № 5\n\nThis is a Nauru island. In the late 20th century it boasted an income per\nhead above that of the USA due to rich resources of phosphates. These\nhave now become exhausted and the people are struggling to survive. How\nwe can call such type of economy?\n\n                                        А. sustainable economy\n                                        B. mixed economy\n                                        C. market economy\n                                        D. robber economy\n                                        E. no correct answer\n\nQUESTION № 6\nApproximately how much rainfall does Port Moresby receive\nin its driest 4 months?\n\nA. 11 mm   B. 55 mm   C. 104 mm   D. 520 mm   E. 180 mm\n\n  ВОПРОС № 7\nВ какой природной зоне встречается обильное ячеистое\nвыветривание?\n\nA. тундра\nB. тайга\nC. пустыни и полупустыни\nD. саванна\nЕ. влажные экваториальные леса\n\n ВОПРОС № 8\nВ какую строку этой версии модели Кларка-Фишера включено\nпримитивное рыбное хозяйство?\n\n            А.первичный      B.вторичный      C.третичный\n                D. четвертичный          E. ни в одной\n\n ВОПРОС № 9\nСреди предложенных определите 2 фазу демографического\nперехода?\n                    B                     C\n  A\n\n        D\n                                            E\n\nА.A     B.B     C.C    D.D     E. E\n\n QUESTION № 10\nConsidering the temperature and rainfall in Figure on Question 6 Port\nMoresby is in which biome in Figure below?\n\nА.temperate rainforest\nВ. temperate seasonal forest\nС. tropical rainforest\nD. tropical seasonal forest\n/savannah\nE. boreal forest\n\n ВОПРОС № 11\nКакое опасное природное явление представлено на\nрисунках?\n\n            А.сулой   B. гиперган   C. лахар\n\n ВОПРОС № 12\nКакой рисунок лучше всего соответствует понятию\n«танатотуризм»?\n    A\n                                 B\n\nC\n                                 D\n\n    А. A       B. B       C. C       D. D     E. ни один\n\nВОПРОС № 13\nНа карте показаны регионы, которые являются основными\nпроизводителями:\n\n    A. яблоки    B. бананы C.цитрус    D.хлопок     E.кофе\n\n QUESTION № 14\n\n What is the reason of coral blenching?\n\nA. low light due to cloudcover          B. sea temperature increase\nC. increases intourist numbers         D. overfishing\nE. when they get older they start blenching\n\nВОПРОС № 15\nКакая климатограмма соответствует влажному тропическому\nлесу?\n\n А. A      B. B     C. C     D. D    E. все ответы верны\n\nВОПРОС № 16\n … была введена в культуру 7-12 тыс. лет назад на территории\n современной Мексики. Однолетнее травянистое культурное\n растение. Крупнейшие импортеры этой культуры являются Япония,\n Мексика и Китай. Назовите культуру.\n\n A.пшеница   B.фасоль     C.кукуруза\n D.томаты    E.перец чили\n                 Топ 5 производителей в 2019 г.\n       (по данным министерства сельского хозяйства США\n                         (млн тонн)\n               США                          347\n               Китай                        254\n              Бразилия                      101\n                ЕС                         64,56\n             Аргентина                      54\n\n  QUESTION № 17\nWhich factor is the most important to explain the temperature differences\nshown in this map?\n\n   A. continentality       B. ocean currents     C. Earth rotation\n   D. environmental pollution      E. latitude\n\n ВОПРОС № 18\nОдин из двух казахстанских заповедников, входящих в список Всемирного\nнаследия ЮНЕСКО. Заповедник создан в 1968 году для сохранения уникальных\nводно-болотных угодий, являющихся местом обитания многих видов птиц.\nОпределите, о каком заповеднике Казахстана идет речь. ​\n\n       A. Алакольский B. Барсакельмесский C. Коргалжынский\n                 D. Маркакольский E. Наурзумский\n\n ВОПРОС № 19\n  По приведенным данным определите тип почвы\n   Занимаемая площадь         25,5 млн га или 9,5% территории\n                              Казахстана\n   Области                    Cеверо-Казахстанская область,\n                              большая часть Костанайской,\n                              Акмолинской, Павлодарской,\n                              Актюбинской и ЗКО\n\nA. бурые\nB. серо-бурые\nC. каштановые\nD. черноземы\nE. коричневые почвы\n\nQUESTION № 20\nBased on photos and information below find out the country\nin 14 century this country called «Land of million of elephants and a white\numbrella». Population 7,2 million.\n\nA. Laos B. Thailand     C. Myanmar\nD. Vietnam E. Indonesia\n\nВОПРОС № 21\n              Какой способ\n              картографического\n              изображения использован на\n              этой карте?\n\n              A. способ ареалов\n              B. способ качественного\n              фона\n              C. способ количественного\n              фона\n              D. способ картограмм\n              E. точечный способ\n\nВОПРОС № 22\nКакой вид проекции по характеру искажений представлен\nна рисунке?\nA. цилиндрическая равновеликая\nB. псевдоцилиндрическая\nC. коническая равноугольная\nD. поликоническая\nE. азимутальная равнопромежуточная\n\nQUESTION № 23\nCanadian business jet manufacturer. It was also formerly a\nmanufacturer of commercial jets, public transport vehicles, trains, and\nrecreational vehicles?\nA. Airbus\nB. Boeing\nC. Embraer\nD. Aeromot\nE. Bombardier\n\nВОПРОС № 24\n Конские (лошадиные) широты?\n A. широты расположенные между 10 и 25 º севернее и южнее Экватора\n B. субтропические широты между 30 и 35 º на севере и юге\n C. океаническое пространство между 40° и 50° широты в Южном\n полушарии Земли\n D. пространствам между 50° и 60° широты в Южном полушарии\n Земли, которые расположены рядом с Антарктидой\n E. субарктические широты между 60° и 70° с. ш.\n\nQUESTION № 25\n What indicator does the map represent?\n A. gender inequality\n B. lack of medicine\n C. climate change\n D. malnutrition and hunger\n E. drinking water shortage\n\nВОПРОС № 26\n Магматическая горная порода, образующегося в результате\n быстрого охлаждения лавы. Основные минералы: кварц и\n полевой шпат.\n A. боксит\n B. сланец\n C. обсидиан\n D. берилл\n E. опал\n\nВОПРОС № 27\nКакой вид отложений отмечен цифрой 3?\nA. элювий\nB. аллювий\nC. делювий\nD. пролювий\nE. иллювий\n\nQUESTION № 28\n Which number in the picture indicates the location of\n the Gibson Desert?\n A. 2\n B. 3\n C. 4\n D. 5\n E. 6\n\nВОПРОС № 29\n В какой области Казахстана находится данный заповедник?\n A. Кызылординская\n B. Алматинская\n C. Восточно-Казахстанская\n D. Жамбылская\n E. Туркестанская\n\nВОПРОС № 30\n Какая форма ледникового рельефа показана на\n   фотографиях?\n\n   А) нунатаки\n   В) друмлины\n   C) бараньи лбы\n   D) трог\n   E. цирк\n\nQUESTION № 31\n Which of the picture corresponds to the term \"cuesta\"?\n\n A. А\n B. В\n C. С\n D. D\n E. E\n                         А                            В\n\n                             D                            E\n     С\n\nВОПРОС № 32\n Какое море НЕ омывает берега Норвегии?\n A. Балтийское\n B. Северное\n C. Баренцово\n D. Норвежское\n E. все моря омывают Норвегию\n\nВОПРОС № 33\n Какое религиозное течение представляют рисунки?\n A. Мазхабы\n B. Бахаи\n C. Копты\n D. Баптизм\n E. Друзы\n\nQUESTION № 34\n Which lithospheric plate is indicated by the number 3 in the\n    picture?\n A. Scotia             B. Vinson               C. Cocos\n D. Nazca              E. Drake\n\nВОПРОС № 35\n Для какой области характерны достопримечательности?\n А. Актюбинская B. Акмолинская\n C. Павлодарская D. Карагандинская\n E. Жамбылская\n\nВОПРОС № 36\n По какому критерию объединены представленные ниже\n страны:\n A. развивающие страны\n B. страны-экспортеры нефти\n C. островные страны\n D. внутриконтинентальные страны\n E. монархические страны\n\nQUESTION № 37\n The picture shows endemics of one country. Name the capital?\n A. Brasilia\n B. Windhoek\n C. Jakarta\n D. Bangkok\n E. Suva\n\nQUESTION № 38\nWhich country is not a member of\nECOWAS (Economic Community\nof West African country) ?\nА. Benin B. Togo C. Mali\nD. Cameroon E. Ghana\n\nВОПРОС № 39\n Какая река отмечена на рисунке?\n А. Лена             B. Колыма      C. Енисей\n D. Анадырь          E. Индигирка\n\nQUESTION № 40\n Which of the following cities is located north of the others?\n A. Washington        B. Madrid                C. Sapporo\n D. Beijing           E. Ankara\n\nТест завершен!",
+   "title": "Мультимедийный тур",
+   "weight": 40,
+   "total": 40,
+   "statement": "Мультимедийный тур состоит из 40 вопросов. На каждый вопрос дается 5 вариантов ответов, только один из них правильный. 15 вопросов тестов составлены на английском языке. За каждый правильный ответ – 1 балл.",
    "parts": [
     {
      "id": "1.1",
-     "points": 10,
-     "question": "Решите задачу полностью и запишите ответ.",
-     "reference": "",
-     "pointsEstimated": true
+     "points": 1,
+     "question": "Назовите вид литосферного движения под обозначением А? А. субдукция В. коллизия C. спрединг D. сдвиг E. рифтинг",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "1.2",
+     "points": 1,
+     "question": "Какое геологическое строение изображено на данном аэрофотоснимке? А. метеоритный кратер В. Вулканическая кальдера C. эродированная антиклиналь D. эродированная синклиналь E. кар",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "1.3",
+     "points": 1,
+     "question": "Using Table 1 which continent has the most megacities? A. Africa B. Asia C. Notrh America D. South America E. Australia",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "1.4",
+     "points": 1,
+     "question": "Какое коренное население представлено на фотографиях? A.аймара B. инуиты C. чаморро D.туареги E. саамы",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "1.5",
+     "points": 1,
+     "question": "This is a Nauru island. In the late 20th century it boasted an income per head above that of the USA due to rich resources of phosphates. These have now become exhausted and the people are struggling to survive. How we can call such type of economy? А. sustainable economy B. mixed economy C. market economy D. robber economy E. no correct answer",
+     "reference": "Правильный ответ: D, E"
+    },
+    {
+     "id": "1.6",
+     "points": 1,
+     "question": "Approximately how much rainfall does Port Moresby receive in its driest 4 months? A. 11 mm B. 55 mm C. 104 mm D. 520 mm E. 180 mm",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "1.7",
+     "points": 1,
+     "question": "В какой природной зоне встречается обильное ячеистое выветривание? A. тундра B. тайга C. пустыни и полупустыни D. саванна Е. влажные экваториальные леса",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "1.8",
+     "points": 1,
+     "question": "В какую строку этой версии модели Кларка-Фишера включено примитивное рыбное хозяйство? А.первичный B.вторичный C.третичный D. четвертичный E. ни в одной",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "1.9",
+     "points": 1,
+     "question": "Среди предложенных определите 2 фазу демографического перехода? А.A B.B C.C D.D E. E",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "1.10",
+     "points": 1,
+     "question": "Considering the temperature and rainfall in Figure on Question 6 Port Moresby is in which biome in Figure below? А.temperate rainforest В. temperate seasonal forest С. tropical rainforest D. tropical seasonal forest /savannah E. boreal forest",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "1.11",
+     "points": 1,
+     "question": "Какое опасное природное явление представлено на рисунках? А.сулой B. гиперган C. лахар",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "1.12",
+     "points": 1,
+     "question": "Какой рисунок лучше всего соответствует понятию «танатотуризм»? А. A B. B C. C D. D E. ни один",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "1.13",
+     "points": 1,
+     "question": "На карте показаны регионы, которые являются основными производителями: A. яблоки B. бананы C.цитрус D.хлопок E.кофе",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "1.14",
+     "points": 1,
+     "question": "What is the reason of coral blenching? A. low light due to cloudcover B. sea temperature increase C. increases intourist numbers D. overfishing E. when they get older they start blenching",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "1.15",
+     "points": 1,
+     "question": "Какая климатограмма соответствует влажному тропическому лесу? А. A B. B C. C D. D E. все ответы верны",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "1.16",
+     "points": 1,
+     "question": "… была введена в культуру 7-12 тыс. лет назад на территории современной Мексики. Однолетнее травянистое культурное растение. Крупнейшие импортеры этой культуры являются Япония, Мексика и Китай. Назовите культуру. A.пшеница B.фасоль C.кукуруза D.томаты E.перец чили",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "1.17",
+     "points": 1,
+     "question": "Which factor is the most important to explain the temperature differences shown in this map? A. continentality B. ocean currents C. Earth rotation D. environmental pollution E. latitude",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "1.18",
+     "points": 1,
+     "question": "Один из двух казахстанских заповедников, входящих в список Всемирного наследия ЮНЕСКО. Заповедник создан в 1968 году для сохранения уникальных водно-болотных угодий, являющихся местом обитания многих видов птиц. Определите, о каком заповеднике Казахстана идет речь. A. Алакольский B. Барсакельмесский C. Коргалжынский D. Маркакольский E. Наурзумский",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "1.19",
+     "points": 1,
+     "question": "По приведенным данным определите тип почвы (Занимаемая площадь 25,5 млн га или 9,5% территории Казахстана, Области: Cеверо-Казахстанская область, большая часть Костанайской, Акмолинской, Павлодарской, Актюбинской и ЗКО). A. бурые B. серо-бурые C. каштановые D. черноземы E. коричневые почвы",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "1.20",
+     "points": 1,
+     "question": "Based on photos and information below find out the country in 14 century this country called «Land of million of elephants and a white umbrella». Population 7,2 million. A. Laos B. Thailand C. Myanmar D. Vietnam E. Indonesia",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "1.21",
+     "points": 1,
+     "question": "Какой способ картографического изображения использован на этой карте? A. способ ареалов B. способ качественного фона C. способ количественного фона D. способ картограмм E. точечный способ",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "1.22",
+     "points": 1,
+     "question": "Какой вид проекции по характеру искажений представлен на рисунке? A. цилиндрическая равновеликая B. псевдоцилиндрическая C. коническая равноугольная D. поликоническая E. азимутальная равнопромежуточная",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "1.23",
+     "points": 1,
+     "question": "Canadian business jet manufacturer. It was also formerly a manufacturer of commercial jets, public transport vehicles, trains, and recreational vehicles? A. Airbus B. Boeing C. Embraer D. Aeromot E. Bombardier",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "1.24",
+     "points": 1,
+     "question": "Конские (лошадиные) широты? A. широты расположенные между 10 и 25 º севернее и южнее Экватора B. субтропические широты между 30 и 35 º на севере и юге C. океаническое пространство между 40° и 50° широты в Южном полушарии Земли D. пространствам между 50° и 60° широты в Южном полушарии Земли, которые расположены рядом с Антарктидой E. субарктические широты между 60° и 70° с. ш.",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "1.25",
+     "points": 1,
+     "question": "What indicator does the map represent? A. gender inequality B. lack of medicine C. climate change D. malnutrition and hunger E. drinking water shortage",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "1.26",
+     "points": 1,
+     "question": "Магматическая горная порода, образующегося в результате быстрого охлаждения лавы. Основные минералы: кварц и полевой шпат. A. боксит B. сланец C. обсидиан D. берилл E. опал",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "1.27",
+     "points": 1,
+     "question": "Какой вид отложений отмечен цифрой 3? A. элювий B. аллювий C. делювий D. пролювий E. иллювий",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "1.28",
+     "points": 1,
+     "question": "Which number in the picture indicates the location of the Gibson Desert? A. 2 B. 3 C. 4 D. 5 E. 6",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "1.29",
+     "points": 1,
+     "question": "В какой области Казахстана находится данный заповедник? A. Кызылординская B. Алматинская C. Восточно-Казахстанская D. Жамбылская E. Туркестанская",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "1.30",
+     "points": 1,
+     "question": "Какая форма ледникового рельефа показана на фотографиях? А) нунатаки В) друмлины C) бараньи лбы D) трог E. цирк",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "1.31",
+     "points": 1,
+     "question": "Which of the picture corresponds to the term \"cuesta\"? A. А B. В C. С D. D E. E",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "1.32",
+     "points": 1,
+     "question": "Какое море НЕ омывает берега Норвегии? A. Балтийское B. Северное C. Баренцово D. Норвежское E. все моря омывают Норвегию",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "1.33",
+     "points": 1,
+     "question": "Какое религиозное течение представляют рисунки? A. Мазхабы B. Бахаи C. Копты D. Баптизм E. Друзы",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "1.34",
+     "points": 1,
+     "question": "Which lithospheric plate is indicated by the number 3 in the picture? A. Scotia B. Vinson C. Cocos D. Nazca E. Drake",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "1.35",
+     "points": 1,
+     "question": "Для какой области характерны достопримечательности? А. Актюбинская B. Акмолинская C. Павлодарская D. Карагандинская E. Жамбылская",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "1.36",
+     "points": 1,
+     "question": "По какому критерию объединены представленные ниже страны: A. развивающие страны B. страны-экспортеры нефти C. островные страны D. внутриконтинентальные страны E. монархические страны",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "1.37",
+     "points": 1,
+     "question": "The picture shows endemics of one country. Name the capital? A. Brasilia B. Windhoek C. Jakarta D. Bangkok E. Suva",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "1.38",
+     "points": 1,
+     "question": "Which country is not a member of ECOWAS (Economic Community of West African country)? А. Benin B. Togo C. Mali D. Cameroon E. Ghana",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "1.39",
+     "points": 1,
+     "question": "Какая река отмечена на рисунке? А. Лена B. Колыма C. Енисей D. Анадырь E. Индигирка",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "1.40",
+     "points": 1,
+     "question": "Which of the following cities is located north of the others? A. Washington B. Madrid C. Sapporo D. Beijing E. Ankara",
+     "reference": "Правильный ответ: C"
     }
    ]
   }

@@ -7,28 +7,45 @@
  "tasksFile": "olympiads/astronomy/s/iao/2014/astro-3-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "whole-document",
- "generatedAt": "2026-11-09T18:21:44.709Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:16:24.962Z",
  "quality": {
-  "tasks": 1,
-  "parts": 1,
-  "withPoints": 1,
+  "tasks": 2,
+  "parts": 2,
+  "withPoints": 2,
   "withReference": 0,
-  "withQuestion": 1,
-  "estimatedPoints": 1
+  "withQuestion": 2,
+  "estimatedPoints": 2
  },
  "tasks": [
   {
-   "number": 1,
-   "title": "Задания тура",
-   "statement": "Round Prac \n                            АСТРОНОМИЧЕСКОЕ                                           EURO–ASIAN\n                                ОБЩЕСТВО                                         ASTRONOMICAL SOCIETY\n\n                    XIХ Международная астрономическая олимпиада                                                                      Group               \n                        XIХ International Astronomy Olympiad\n                                                                                                                               язык\n                      Бишкек – Чолпон-Ата                       12–21. X. 2014      B i s hke k – C ho l po n - A t a        language\n                                                                                                                                                 English\n\n                                        Practical round. Problems to solve\n\n   7. Jupiter. In 2009, a nucleus of unknown comet or an asteroid crashed into Jupiter's\n       atmosphere. A powerful explosion formed a dark cloud, which gradually stretched parallel\n       to equator due to zonal flow in the atmosphere. Hubble Space Telescope was able to take a\n       few pictures of Jupiter during this period.\n           Determine the rate at which the dark cloud on the surface of Jupiter increased its length\n       after the impact with the comet or asteroid by measuring the length of image fragments on\n       the set of the 3 top images displayed on the right.\n           The photos were taken in the same position of the cloud relative to the central meridian.\n       The scale is determined from the image of Jupiter and position of the fragment marked on\n       it. The equatorial diameter of Jupiter is 143842 km.\n\n   8. Comet. In the middle of July 2014, an automatic interplanetary spacecraft Rosetta of\n       European Space Agency made the discovery that the comet 67P / Churyumov–\n       Gerasimenko had a bipartite nucleus. On September 5th Rosetta was able to determine that\n       its albedo was about 0.04 and the maximum nucleus length, 4 km.\n           On a separate sheet are the pictures demonstrating rotation of the comet nucleus, taken\n       with 40 minutes intervals. Each picture has the date when it was taken and the angle of\n       nucleus rotation relative to the first picture indicated on it. Using these images, determine\n       the rotation period of the comet and plot its light curve based on them. Assume the same\n       albedo over the entire surface of the comet.\n           According to NASA, the estimated distances at that time were as following:\n                                                        Rosetta to Sun 557 794 935 km,\n                                                        Rosetta to Earth 407 252 536 km,\n                                                        Rosetta to the comet 12 294 km.\n\n           К и рг и з и я , Б и ш к е к – Ч о л п о н - А т а               2014                   B i s hke k – C ho l po n - A t a , K y r g y z s t a n\n\n                                                                                                                             Round Prac \n                          АСТРОНОМИЧЕСКОЕ                                           EURO–ASIAN\n                              ОБЩЕСТВО                                         ASTRONOMICAL SOCIETY\n\n                  XIХ Международная астрономическая олимпиада                                                                Group               \n                      XIХ International Astronomy Olympiad\n                    Бишкек – Чолпон-Ата                       12–21. X. 2014      B i s hke k – C ho l po n - A t a\n\n   7. Юпитер.                                                                                                                        7. Jupiter.\n\n         К и рг и з и я , Б и ш к е к – Ч о л п о н - А т а               2014                   B i s hke k – C ho l po n - A t a , K y r g y z s t a n\n\n                                  XIX                I A O     2014                                         Group          \n\n                                  8. Комета.                   8. Comet.                                                  1\n\nК и рг и з и я , Б и ш к е к – Ч о л п о н - А т а      2014         B i s hke k – C ho l po n - A t a , K y r g y z s t a n\n\n                                  XIX                I A O     2014                                         Group          \n\n                                  8. Комета.                   8. Comet.                                                  2\n\nК и рг и з и я , Б и ш к е к – Ч о л п о н - А т а      2014         B i s hke k – C ho l po n - A t a , K y r g y z s t a n\n\n                                  XIX                I A O     2014                                         Group          \n\n                                  8. Комета.                   8. Comet.                                                  3\n\nК и рг и з и я , Б и ш к е к – Ч о л п о н - А т а      2014         B i s hke k – C ho l po n - A t a , K y r g y z s t a n\n\n                                                                                                                             Round Prac \n                          АСТРОНОМИЧЕСКОЕ                                           EURO–ASIAN\n                              ОБЩЕСТВО                                         ASTRONOMICAL SOCIETY\n\n                  XIХ Международная астрономическая олимпиада                                                                Group               \n                      XIХ International Astronomy Olympiad\n                    Бишкек – Чолпон-Ата                       12–21. X. 2014      B i s hke k – C ho l po n - A t a\n\n   7. Юпитер.                                                                                                                        7. Jupiter.\n\n         К и рг и з и я , Б и ш к е к – Ч о л п о н - А т а               2014                   B i s hke k – C ho l po n - A t a , K y r g y z s t a n",
+   "number": 7,
+   "title": "Юпитер",
+   "weight": 10,
    "total": 10,
+   "statement": "In 2009, a nucleus of unknown comet or an asteroid crashed into Jupiter's atmosphere. A powerful explosion formed a dark cloud, which gradually stretched parallel to equator due to zonal flow in the atmosphere. Hubble Space Telescope was able to take a few pictures of Jupiter during this period.\nDetermine the rate at which the dark cloud on the surface of Jupiter increased its length after the impact with the comet or asteroid by measuring the length of image fragments on the set of the 3 top images displayed on the right.\nThe photos were taken in the same position of the cloud relative to the central meridian. The scale is determined from the image of Jupiter and position of the fragment marked on it. The equatorial diameter of Jupiter is 143842 km.",
    "parts": [
     {
-     "id": "1",
-     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
+     "id": "7.1",
      "points": 10,
      "pointsEstimated": true,
+     "question": "Determine the rate at which the dark cloud on the surface of Jupiter increased its length after the impact with the comet or asteroid by measuring the length of image fragments on the set of the 3 top images displayed on the right.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Комета",
+   "weight": 10,
+   "total": 10,
+   "statement": "In the middle of July 2014, an automatic interplanetary spacecraft Rosetta of European Space Agency made the discovery that the comet 67P / Churyumov–Gerasimenko had a bipartite nucleus. On September 5th Rosetta was able to determine that its albedo was about 0.04 and the maximum nucleus length, 4 km.\nOn a separate sheet are the pictures demonstrating rotation of the comet nucleus, taken with 40 minutes intervals. Each picture has the date when it was taken and the angle of nucleus rotation relative to the first picture indicated on it. Using these images, determine the rotation period of the comet and plot its light curve based on them. Assume the same albedo over the entire surface of the comet.\nAccording to NASA, the estimated distances at that time were as following:\nRosetta to Sun 557 794 935 km,\nRosetta to Earth 407 252 536 km,\nRosetta to the comet 12 294 km.",
+   "parts": [
+    {
+     "id": "8.1",
+     "points": 10,
+     "pointsEstimated": true,
+     "question": "Using these images, determine the rotation period of the comet and plot its light curve based on them.",
      "reference": ""
     }
    ]

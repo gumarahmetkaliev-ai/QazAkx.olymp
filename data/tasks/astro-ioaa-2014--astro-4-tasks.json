@@ -7,10 +7,10 @@
  "tasksFile": "olympiads/astronomy/s/ioaa/2014/astro-4-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-09T17:57:52.759Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:16:55.869Z",
  "quality": {
-  "tasks": 7,
+  "tasks": 1,
   "parts": 7,
   "withPoints": 7,
   "withReference": 0,
@@ -20,105 +20,58 @@
  "tasks": [
   {
    "number": 1,
-   "title": "Задача 1",
-   "statement": "The observational round in the field should take a maximum of 30 minutes;",
-   "total": 7,
+   "title": "Observational Test Outdoor",
+   "weight": 70,
+   "total": 70,
+   "statement": "Outside the dome:\n1) The observational round in the field should take a maximum of 30 minutes;\n2) Please pay attention to the instructions by assistants.\n3) You will be directed to a designated telescope. Here you will find attached to the clipboard the answersheet.\n4) For the observational test outdoor, we are using a Newtonian telescope on equatorial mount EQ5 (D=200 mm, F=1000 mm).\nNote: the telescope is already aligned, but not necessarily calibrated – do not change the position of the tripod!\n5) Fill your student ID in the box.\n6) Please write the time at the start of the observation test on the top of next page!\n7) PLEASE WRITE ONLY ON THE PRINTED SIDE OF THE ANSWER SHEET. DON’T USE THE REVERSE SIDE. The evaluator will not take into account what is written on the reverse of the answersheet.",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.1",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Name any five constellations which will be at the meridian 2 hours from the start of your observation test?",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 2,
-   "title": "Задача 2",
-   "statement": "Please pay attention to the instructions by assistants.",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.2",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Point the telescope to M39. When you finish, ask your assistant to verify. Write in the box the number which corresponds to the object type (1 - globular cluster, 2 - double cluster, 3 - open cluster, 4 - galaxy, 5 - nebula).",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 3,
-   "title": "Задача 3",
-   "statement": "You will be directed to a designated telescope. Here you will find attached to the clipboard the\n   answersheet.",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.3",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "The right ascension and the declination for β Aql (Alshain) are α=19h55m and δ=6°26'. By using the telescope find out the right ascension and the declination for δ Cep. Write down the values in the appropriate boxes.",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 4,
-   "title": "Задача 4",
-   "statement": "For the observational test outdoor, we are using a Newtonian telescope on equatorial mount EQ5\n   (D=200 mm, F=1000 mm).\n    Note: the telescope is already aligned, but not necessarily calibrated – do not change the position of\nthe tripod!",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "4",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.4",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Point the telescope to the coordinate α=2h22m and δ=57°10'. When you finish, ask your assistant to verify. Write in the box the number which corresponds to the object type (1 - globular cluster, 2 - double cluster, 3 - open cluster, 4 - galaxy, 5 - nebula).",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 5,
-   "title": "Задача 5",
-   "statement": "Fill your student ID in the box.",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "5",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.5",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Estimate UT when the meridian, the ecliptic and the equator are intersecting at the same point in this night. You may use the telescope or any other method.",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 6,
-   "title": "Задача 6",
-   "statement": "Please write the time at the start of the observation test on the top of next page!",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "6",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.6",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Estimate the galactic latitude of ξ Dra (Grumium).",
      "reference": ""
-    }
-   ]
-  },
-  {
-   "number": 7,
-   "title": "Задача 7",
-   "statement": "PLEASE WRITE ONLY ON THE PRINTED SIDE OF THE ANSWER SHEET. DON’T USE THE\n   REVERSE SIDE. The evaluator will not take into account what is written on the reverse of the\n   answersheet.\n\nGOOD LUCK!\n\n                OBSERVATIONAL                  Time of start\n\n                TEST\n                OUTDOOR\n\nQuestions",
-   "total": 7,
-   "parts": [
+    },
     {
-     "id": "7",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.7",
+     "points": 10,
      "pointsEstimated": true,
+     "question": "Estimate the ecliptic latitude of ε Cyg (Gienah).",
      "reference": ""
     }
    ]

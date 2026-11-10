@@ -6,94 +6,137 @@
  "lang": "ru",
  "tasksFile": "olympiads/astronomy/s/ioaa/2019/astro-2-tasks.pdf",
  "solutionFile": "olympiads/astronomy/s/ioaa/2019/astro-2-sol.pdf",
- "generatedBy": "parser",
- "generatedAt": "2026-11-09T17:50:39.708Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:13:44.358Z",
  "quality": {
   "tasks": 5,
-  "parts": 5,
-  "withPoints": 5,
-  "withReference": 0,
-  "withQuestion": 5,
-  "estimatedPoints": 5
+  "parts": 13,
+  "withPoints": 13,
+  "withReference": 13,
+  "withQuestion": 13,
+  "estimatedPoints": 0
  },
  "tasks": [
   {
    "number": 1,
    "title": "FINDERSCOPE ALIGNMENT",
-   "weight": null,
-   "total": 10,
-   "statement": "available time: 5 minutes                                                                            5 points\n\n     •    The finderscope is NOT aligned at the beginning. Point the telescope to Saturn and align the\n          finderscope parallel to the main tube.\n\nIf the alignment of Saturn is not within the crosshair of the finderscope, the telescope assistant will correct it\n– and you receive only partial or no points.",
+   "weight": 5,
+   "total": 5,
+   "statement": "The finderscope is NOT aligned at the beginning. Point the telescope to Saturn and align the finderscope parallel to the main tube.\nIf the alignment of Saturn is not within the crosshair of the finderscope, the telescope assistant will correct it – and you receive only partial or no points.",
    "parts": [
     {
      "id": "1.1",
-     "points": 10,
-     "question": "Решите задачу полностью и запишите ответ.",
-     "reference": "",
-     "pointsEstimated": true
+     "points": 5,
+     "question": "Point the telescope to Saturn and align the finderscope parallel to the main tube.",
+     "reference": "Evaluation of the alignment and marking is done by the telescope assistants. Max.: 5 points"
     }
    ]
   },
   {
    "number": 2,
-   "title": "/ ALTERNATIVE: EPSILON LYRAE",
-   "weight": null,
-   "total": 10,
-   "statement": "available time: 10 minutes                                                                  15 points\n\n •        Find e Lyr, and make a drawing of the field of view (with the object and other stars) with\n         10mm eyepiece.\n         Label the directions North and East by two arrows and mark them as ‘N’ and ‘E’.\n •         Estimate the angular distance between the wide pair (ε1-ε2), and estimate the position angle of\n         the same pair.\n •         Increase the magnification with 2x Barlow lens to be able to resolve and separate the two close\n         pairs. Estimate the angle (in degrees to the nearest integer) subtended by the two close pairs\n         relative to each other. (The enclosed angle of the two lines going through the two narrow pairs).\n         Do not give any PA, only the relative angle of the two close pairs. No drawing is needed.\n\nIf you cannot find e Lyr, the assistant can point to it for you, but only after 5 minutes. In this case you will\nlose the marks for pointing the telescope to the object.\nThe telescope assistant will check the object at the end of the 10 min limit. If you are ready sooner, keep the\nstar in the FOV, and wait for the check.\n\n                                                        3",
+   "title": "OBSERVATION OF SATURN",
+   "weight": 15,
+   "total": 15,
+   "statement": "• In the upper box, the circle represents the disk of Saturn and the horizontal line is the E-W direction on the sky. Pay attention to direction of North (see top right corner).\nMark position of Titan by a cross.\n• The smaller box on the bottom right corner of first box is for drawing the rings of Saturn. Again the circle represents the disk of Saturn.\nDraw the rings of Saturn in this box with the correct size and orientation.\nBoth the outer and inner edges of the ring are necessary, no faint ring details or gaps are needed.\nKeep orientation of the image the same as the orientation in the upper box.\n• Estimate the angular distance (in arcsec) and position angle (in degrees) of Titan relative to the center of Saturn. You may do your calculations besides the answer.\nApparent major axis of the ring: 43\"",
    "parts": [
     {
      "id": "2.1",
-     "points": 10,
-     "question": "Решите задачу полностью и запишите ответ.",
-     "reference": "",
-     "pointsEstimated": true
+     "points": 2,
+     "question": "Mark position of Titan by a cross in the upper box.",
+     "reference": "Titan position + name: 2 points. Titan is outside the circle: 0 point."
+    },
+    {
+     "id": "2.2",
+     "points": 6,
+     "question": "Draw the rings of Saturn in the smaller box with correct size and orientation.",
+     "reference": "Ring continuity in front of the disk is proper: 2 points\nRing tilt towards Earth is proper (ring does not exceed northern pole, ring is not too thin): 2 points\nRing tilt towards sky E-W direction is proper: 2 points"
+    },
+    {
+     "id": "2.3",
+     "points": 4,
+     "question": "Estimate the position angle of Titan relative to the center of Saturn.",
+     "reference": "PA measurement of Titan:\n±10°: 4 points\n±20°: 2 points"
+    },
+    {
+     "id": "2.4",
+     "points": 3,
+     "question": "Estimate the angular distance of Titan relative to the center of Saturn.",
+     "reference": "Distance calculation of Titan:\n±10%: 3 points\n±15%: 2 points\n±25%: 1 point"
     }
    ]
   },
   {
    "number": 3,
    "title": "M57 – FIELD OF VIEW",
-   "weight": null,
+   "weight": 10,
    "total": 10,
-   "statement": "available time: 10 minutes                                                       total: 10 points\n\n •     Find the planetary nebula M57 (in constellation Lyra), and put it in the centre of the field of\n     view in the main scope.\n •     The star chart in the answer sheet shows a part of constellation Lyra. In this chart, draw the FOV\n     circle around M57 as accurately as possible.\n\nIf you cannot find M57, the assistant will help you, but only after 5 minutes. In this case you will lose the\nmarks for pointing to the object.",
+   "statement": "• Find the planetary nebula M57 (in constellation Lyra), and put it in the centre of the field of view in the main scope.\n• The star chart in the answer sheet shows a part of constellation Lyra. In this chart, draw the FOV circle around M57 as accurately as possible.\nIf you cannot find M57, the assistant will help you, but only after 5 minutes. In this case you will lose the marks for pointing to the object.",
    "parts": [
     {
      "id": "3.1",
-     "points": 10,
-     "question": "Решите задачу полностью и запишите ответ.",
-     "reference": "",
-     "pointsEstimated": true
+     "points": 4,
+     "question": "Find the planetary nebula M57 and put it in the centre of the field of view.",
+     "reference": "Checking the object in the FOV, and pointing is evaluated by the telescope assistant. (0 - 4 points)"
+    },
+    {
+     "id": "3.2",
+     "points": 6,
+     "question": "Draw the FOV circle around M57 on the star chart as accurately as possible.",
+     "reference": "Field of view (in 25 mm eyepiece):\nAccuracy within ±10%: 6 points\nAccuracy within ±20%: 3 points"
     }
    ]
   },
   {
    "number": 4,
    "title": "VARIABLE STAR – AF CYGNI",
-   "weight": null,
-   "total": 10,
-   "statement": "available time: 15 minutes                                                       total: 15 points\n\n •     Use the given charts of the constellation Cygnus to find the variable star AF Cyg.\n     The large scale finder chart has normal orientation (N is up E is to the left)\n     The smaller scale chart has ‘telescope’ orientation (S is up W is to the left)\n     Brightness of reference stars are given without decimal points. e.g. ‘97’ means 9.7 magnitude\n     If you do not find AF Cyg, the telescope assistant cannot help you to point to it in this task.\n\n •     Estimate the magnitude of AF Cyg by comparing it with the reference stars and write it down,\n     with decimal point, at one decimal accuracy (i.e. 9.7).\n     Write the time of your observation in UTC. You may ask telescope assistant for the time in the\n     local time zone (CEST).",
+   "weight": 15,
+   "total": 15,
+   "statement": "• Use the given charts of the constellation Cygnus to find the variable star AF Cyg.\nThe large scale finder chart has normal orientation (N is up E is to the left)\nThe smaller scale chart has ‘telescope’ orientation (S is up W is to the left)\nBrightness of reference stars are given without decimal points. e.g. ‘97’ means 9.7 magnitude\nIf you do not find AF Cyg, the telescope assistant cannot help you to point to it in this task.\n• Estimate the magnitude of AF Cyg by comparing it with the reference stars and write it down, with decimal point, at one decimal accuracy (i.e. 9.7).\nWrite the time of your observation in UTC. You may ask telescope assistant for the time in the local time zone (CEST).",
    "parts": [
     {
      "id": "4.1",
-     "points": 10,
-     "question": "Решите задачу полностью и запишите ответ.",
-     "reference": "",
-     "pointsEstimated": true
+     "points": 8,
+     "question": "Use the charts to find AF Cygni in the telescope.",
+     "reference": "Checking the object in the FOV, and pointing is evaluated by the telescope assistant. (0 - 8 points)"
+    },
+    {
+     "id": "4.2",
+     "points": 6,
+     "question": "Estimate the magnitude of AF Cyg by comparing it with the reference stars.",
+     "reference": "Magnitude ±0.2 mag: 6 points\nMagnitude ±0.3 mag: 4 points\nMagnitude ±0.4 mag: 2 points"
+    },
+    {
+     "id": "4.3",
+     "points": 1,
+     "question": "Write the time of your observation in UTC.",
+     "reference": "Time in UTC (if corrected for Summer Time and Time Zone differences): 1 point"
     }
    ]
   },
   {
    "number": 5,
    "title": "NAKED EYE BRIGHTNESS ESTIMATION",
-   "weight": null,
-   "total": 10,
-   "statement": "available time: 5 minutes                                                                5 points\n\n •    Estimate the visual magnitude of the two naked-eye stars marked on the stellar chart of\n     constellation Ursa Minor:\n     a)    z UMi (zeta UMi = Alifa) – STAR 2\n     b)    g UMi (gamma UMi = Pherkad) – STAR 1\n     c) Write your estimate with one decimal accuracy (e.g. 8.6).\n •    Estimate the angular distance between g UMi (STAR 1) and Polaris in degrees.\n\n                                                      2",
+   "weight": 5,
+   "total": 5,
+   "statement": "• Estimate the visual magnitude of the two naked-eye stars marked on the stellar chart of constellation Ursa Minor:\na) z UMi (zeta UMi = Alifa) – STAR 2\nb) g UMi (gamma UMi = Pherkad) – STAR 1\nc) Write your estimate with one decimal accuracy (e.g. 8.6).\n• Estimate the angular distance between g UMi (STAR 1) and Polaris in degrees.",
    "parts": [
     {
      "id": "5.1",
-     "points": 10,
-     "question": "Решите задачу полностью и запишите ответ.",
-     "reference": "",
-     "pointsEstimated": true
+     "points": 2,
+     "question": "Estimate the visual magnitude of z UMi (zeta UMi) – STAR 2.",
+     "reference": "Values within ±0.2 mag: 2 points. Values within ±0.3 mag: 1 point."
+    },
+    {
+     "id": "5.2",
+     "points": 2,
+     "question": "Estimate the visual magnitude of g UMi (gamma UMi) – STAR 1.",
+     "reference": "Values within ±0.2 mag: 2 points. Values within ±0.3 mag: 1 point."
+    },
+    {
+     "id": "5.3",
+     "points": 1,
+     "question": "Estimate the angular distance between g UMi (STAR 1) and Polaris in degrees.",
+     "reference": "Values within ±3°: 1 point."
     }
    ]
   }

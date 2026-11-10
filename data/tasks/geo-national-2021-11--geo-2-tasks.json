@@ -6,30 +6,263 @@
  "lang": "ru",
  "tasksFile": "olympiads/geography/national/2021/11/geo-2-tasks.pdf",
  "solutionFile": "olympiads/geography/national/2021/11/geo11-2-sol.pdf",
- "generatedBy": "parser",
- "generatedAt": "2026-11-09T18:10:05.700Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:39:40.928Z",
  "quality": {
   "tasks": 1,
-  "parts": 1,
-  "withPoints": 1,
+  "parts": 40,
+  "withPoints": 40,
   "withReference": 0,
-  "withQuestion": 1,
-  "estimatedPoints": 1
+  "withQuestion": 40,
+  "estimatedPoints": 0
  },
  "tasks": [
   {
    "number": 1,
-   "title": "МУЛЬТИМЕДИЯЛЫҚ ТУР",
-   "weight": null,
-   "total": 10,
-   "statement": "ГЕОГРАФИЯ ПӘНІНЕН\nРЕСПУБЛИКАЛЫҚ ПӘНДІК ОЛИМПИАДА\n\n МУЛЬТИМЕДИЯЛЫҚ ТУРДЫҢ ЕРЕЖЕЛЕРІ\n\n Мультимедиялық тур 40 сұрақтан тұрады.\n Әр сұраққа 5 таңдау беріледі, солардың тек біреуі дұрыс\n  жауап.\n Тестінің 15 сұрағы ағылшын тілінде құралған.\n\n Әр сұраққа баса назар аударыныз.\n\n Әр сұраққа 1 минуттан беріледі.\n\n Әр дұрыс жауапқа – 1 ұпайдан.\n\n Жауап парақшаларында әр дұрыс жауапты дөңгелекпен\n  белгілеңіз, қате болған жағдайда жауапты сызып тастаңыз\n  және сіздің таңдауыңыз бойынша дұрыс деп ойлайтын\n  жауабыңызды белгілеңіз.\n\nСӘТТІЛІК !!!\n\n СҰРАҚ № 1\n\nБұл фотосуреттер қай елде түсірілген?\n\nА. Сент-Винсент және Гренадиндер\nB. Сент-Китс және Невис\nC. Сан-Томе және Принсипи\nD. Фиджи\nE. Кирибати\n\n СҰРАҚ № 2\n Қызыл түспен белгіленген аралдарды атаңыз\n\nA. Кіші Антиль   B. Маскарен C. Канар аралдары D. Мадейра E. Балеар\n\nСҰРАҚ № 3\nБұл фотосуреттердің           барлығы   тізімдегі   аралдардың       біріне\nқатысты. Қайсысына?\n\nA. Занзибар   B. Калимантан      C. Мадагаскар   D. Жаңа Каледония   E. Ява\n\nСҰРАҚ № 4\n\nКриогендік жер бедерінің түрін анықтаңыз\n\nА. Друмлиндер         B. Гидролакколиттер\nC. Солифлюкция    D. Мұз сыналары     E. Термокарст\n\n СҰРАҚ № 5\nТопонимдер - географиялық атауларды (топонимдер), олардың шығу тегін,\nсемантикалық мағынасын, дамуын, қазіргі жағдайын, жазылуы мен айтылуын\nзерттейтін ономастиканың бөлімі. Жетіспейтін ұғымды жазыңыз.\n           Түсінік түрлері          Осы ұғымдарды бейнелейтін нысан\n                                               атаулары\nГидроним                           Топоним түрі, су нысандарының атауы\n\nФитоним                            Оним түрі, өсімдік атаулары\n\nТопоним                            Оним түрі, географиялық атаулар\n\n…                                  Топоним түрі, арал атаулары\n\nA. остроним B. агороним C. инсулоним D. гелоним E. космоним\n\nQUESTION № 6\nName the region that is characterized by the following indicators\nin 2020\n\nA. Eastern Europe B. Oceania C. Eastern Africa          D. Caribbean\n   E. Central Asia\n                                                according to www.worldpopdata.org\n\n  СҰРАҚ № 7\nб.з.д VI-V ғасырларда пайда болған Үндістандағы діни-философиялық ілім. Бұл діни ілім\nөзінің мақсатын аскетизм көмегімен ешқандай дживаға зиян келтірмеу арқылы\nдживаларды (тіршілік иелерін) азаптан босату және тәндік мұқтаждықтардан бас тартуды\nмақсат етеді. Болмыстың өзіндік доктринасы бар – онтология\n\n  А. пранаяна\n  B. махаяна\n  C. сикхизм\n  D. джайнизм\n  E. индуизм\n\nСҰРАҚ № 8\nСары түспен белгіленген елді атаңыз\n\nA. Бенин   B. Того     C. Гана        D. Эритрея E. Буркина-Фасо\n\nQUESTION № 9\n                                 What type of projection\n                                 shows the earth so that a line\n                                 from the central point to any\n                                 other point on the map gives\n                                 the shortest distance between\n                                 the two points\n                                 projection\n\nA. conical projection   B. azimuthal projection    C. cylindrical\nprojection      D. pseudocylindrical projection    E. no correct\nanswer\n\nСҰРАҚ № 10\n                     Белгілі географ, ғалым, педагог, Қазақстан\n                     мен Орталық Азиядағы алғашқы география\n                     ғылымдарының докторы, профессор, қоғам\n                     қайраткері, Халықаралық қоғамдық туризм\n                     академиясының академигі.\n                             Қазақстандағы алғашқы туризм\n                     кафедраларын құруға ат салысқан. Оларға,\n                     Абай атындағы ҚазҰПУ-ды және әл-Фараби\n                     атындағы Қазақ ұлттық университетін және\n                     «Тұран» университетін атап айтуға болады.\n                     400 -ден астам ғылыми жұмыстың авторы.\n\nA. Надыров Ш.М.     B. Жандаев М.Ж.        C.Двоскин В.Я.\n\nD. Макаревич К.Г.   E. Ердавлетов С.Р.\n\nСҰРАҚ № 11\nАҚШ белдеуі - бұл белгілі бір типтік сипаттамаларды иеленуге негізделген, ел\nаймақтарының шартты бөлінуі. «Белдеу» термині алғаш рет дақылдардың бір түрін\nөсіруге бейімделген егіншілік аймақтары аясында қолданылды. Суретте қай белдеу\nсары түспен көрсетілген?\n\nA. жүгері                   B. бидай                      C. жемісті\n             D. мақта                                  E. күріш\n\nQUESTION № 12\nWhich cities are the best deals? What does this map\nrepresent?\n\nA. Quality of air B. Quality of life and cost of living   C. Number of cars\nD. Number of bicycles E. Number of telephones\n\n СҰРАҚ № 13\nБерілген мәліметтер бойынша топырақ типін анықтаңыз\n   Қазақстанда таралған топырақтың Дала   және     жартылай      шөлді\n   табиғи аймақтары                аймақтар\n            Таралған аумақ         90,6 млн. га    немесе     Қазақстан\n                                   аумағының 34%\n              Облыстар             Орталық Қазақстанның көп бөлігі,\n                                   Каспий    маңы   ойпаты,   Шығыс\n                                   Қазақстан облысының жазықтары\nА. қоңыр\nB. сұрғылт-қоңыр\nC. каштан\nD. қара\nE. қоңырқай топырақ\n\n  QUESTION № 14\nGiven the information in the image, in which of the following areas is cloud cover\nlikely to be the highest on the island of Hawaii?\n\nА. on the north and northeast-facing slopes of the mountains\nB. on the southern tip of the island\nC. on the extreme northwestern tip of the island\nD. along the northern coastline\nЕ. no correct answer\n\nСҰРАҚ № 15\nМетаморфтық тау жынысын анықтаныз\n\n                B                   C\nA\n\n    D                                   E\n\n QUESTION № 16\nWhich of the following nations produces more than 100% of its\nelectricity needs from hydroelectric power and exports much of its\noverall production to its neighbors?\n\nA. Mexico B. Russia C. Paraguay D. Brazil E.Costa Rica\n\n СҰРАҚ № 17\nXVI–XVIII ғасырларда «Құл жағалауы» Батыс Африка жағалауындағы ең ірі\nқұлдар сауда орталығы болды, бақылаушылары болып Англия мен\nНидерланды саналды. Аталмыш жағалау қандай қазіргі мемлекеттер\nаумағында орналасқан?\n\nA. Того, Бенин, Нигерия\nB. Кот-д-Ивуар, Гана, Либерия\nC. Нигерия, Камерун, Гвинея\nD. Либерия, Кот-д-Ивуар, Гана\nE. Буркина-Фасо, Гана, Того\n\nQUESTION № 18\nThis image is a time-lapse photograph of a certain natural phenomenon. At\nwhich of the following latitudes was this photograph most likely taken?\n\nA. 20°     B. 40°      C. 50°     D. 70°        E. no correct answer\n\nСҰРАҚ № 19\nСуреттерде көрсетілген қаланың климат түрін анықтаңыз.\n\nA. континентальды           B. теңіздік     C. муссондық\nD. экваторлық          E. экваторлық және континентальды\n\nСҰРАҚ № 20\nКампунг Пеланги (Kampung Pelangi) ауылы кедей және дамымаған болған еді,\nалайда билік өкілдері $ 22 000 доллар көлеміндегі қаржымен ауыл үйлерін\nнағыз өнер туындыларына айналдырды. Ғажайып түрлендіру туралы бастама\nорта мектептің директоры Сламет Видодо ұсынысымен бастау тапқан. Тар\nкөшелер бойымен боялған қабырғалар бүкіл ауылға өмір сыйлады, артынша\nбұл өлкелерге туристер (және тиісінше ақша) ағымы айтарлықтай өсті. Бұл\nауыл қай елде?\n\nA. Камбоджа    B. Малайзия    C. Индонезия    D. Бруней     E. Тайланд\n\n  QUESTION № 21\nThis image shows a model of land use proposed by which of the\nfollowing?\n\nA. David Ricardo B. Johann von Thunen C. Homer Hoyt\nD. Chauncy Harris and Edward Ullman E. no correct answer\n\n СҰРАҚ № 22\nСуреттерде қандай геологиялық түзіліс көрсетілген?\n\nA. шарьяжи              B. фульджи               C. жыра\nD. карстік ойық                      E. ригель\n\nQUESTION № 23\nThese maps show coral bleaching events during the specified years. Which\nof the following colors likely represents the most severe bleaching events?\n\n  A.yellow     B.red     C.green     D.light blue E. no correct answer\n\nСҰРАҚ № 24\nФотосуреттер қай қалада түсірілген?\n\n  A. Ереван B. Измир     C. Стамбул   D.Тегеран   E. Баку\n\nСҰРАҚ № 25\nКартада не ерекшеленіп көрсетілген ?\n\nA. банан экспорты көрсеткіштері жоғарғы елдер\nB. экваторлық ормандар\nC. өсімдіктер әлемінің максималды биоалуантүрлілігіне ие елдер\nD. жануарлар әлемінің максималды биоалуантүрлілігіне ие елдер\nE. үздік кофе өндіруші 25 ел\n\n QUESTION № 26\n\nThe lake in the images was formed by which of the\nfollowing                               processes?\n\nА. glaciation B. a massive earthquake\nC. the construction of a dam D. a volcanic eruption\nE. no correct answer\n\n СҰРАҚ № 27\nСуретте қай саяхатшының экспедициялық маршруты көрсетілген?\n\nA. Васко да Гама          B. Марко Поло              C. Ибн Батут\n              D. А. Никитин             E. С. Дежнев\n\nQUESTION № 28\nBased on the information in climate graph, which biome is typical of a climate like\nDodoma’s?\n\n А. desert     B. savannah     C. tropical rainforest   D. taiga   E. tundra\n\nСҰРАҚ № 29\nСипаттама бойынша ұлтты анықтаңыз.\nБұл ұлттың халқы 5 миллион адамды құрайды. Діні -\nхристиандық, дәстүрлі нанымдар. Негізгі кәсібі - мал\nшаруашылығы. Келесі елдерде өмір сүруде:\n\nA. нилоты B. фанг С. тсвана   D. йоруба   Е. фульбе\n\nСҰРАҚ № 30\n\nҚазақстан Республикасының   аумағына       сіз   орналастыра\n  аласыз….\nА. 7 х\n\nB. 11 х\n\nC. 13 х\n\nD.        +   +      +      +          +         +\n\nE. 4 х\n\nQUESTION № 31\n\n                Using Figures 12 and 13, what\n                caused the tsunami that affected\n                city Palu in Sulawesi, Indonesia?\n\n                А. The east side of the fault was forced\n                under the west side, displacing sea water.\n                B.The two sides of the fault moved away\n                from each other, causing an earthquake\n                C.The two sides of the fault slid past each\n                other, resulting in an underwater landslide\n                D.The two tectonic plates collided, folding\n                the bedrock\n                E.The vertical motion of the east plate over\n                the west plate forced sea water up.\n\nСҰРАҚ № 32\n\nЕлестетіп көріңіз, сіз батыстан шығысқа қарай Оңтүстік\nАмериканы кесіп өтіп жатырсыз. Кестеде ауа температурасының\nөзгеруі және сіздің бағытыныз бойынша жауын-шашын мөлшері\nкөрсетілген. Сіз қандай ендік бойынша жүрсіз?\nA. 20 ̊ о.е. B. 5 ̊ с.е.   C. 40 ̊ о.е. D. 0 ̊ е. E. 30 с.е.\n\n     Бойлық           70 ̊ б.б.   60 ̊ б.б.   50 ̊ б.б.   40 ̊ б.б.\nЖылдық орташа           +18         +25         +24        +24\nтемпература ̊ С\nЖауын-шашынның             2        777        1304        1281\nжылдық     орташа\nмөлшері, мм\n\nСҰРАҚ № 33\n30% - сазды, 40% - құмды\nжәне 70% - шаңды\nбөлшектерден     тұратын\nжер       жамылғысының\nтүрін анықтаңыз?\nА. Құмды саз\nB. Саздақ құм\nC. Шаңды саз\nD. Сазды саздақ\nE. Құмайт саздақ\n\n  QUESTION № 34\n                                   According to EIU’s rankings in\n                                   Table 2, which of these cities\n                                   became less liveable between\n                                   2015 and 2016?\n\nA. Auckland B. Hamburg   С. Helsinki     D. Perth E. Sydney\n\n СҰРАҚ № 35\nДиквис өзенінің сағасында кем дегенде үш жүзі сақталған әйгілі та\nшарлар қай елде орналасқан?\n\nA. Индонезия\nB. Папуа - Жаңа Гвинея\nC. Фиджи\nD. Вануату\nE. Коста-Рика\n\n  QUESTION № 36\n  These maps of religious population are in alphabetic order: atheist,\n  buddhist, christian and muslim. Which map shows the atheist (non-\n  religious) population?\n\nA. Map A   B. Map B    С. Map C     D. Map D    Е. no correct answer\n\n СҰРАҚ № 37\n\n  Орталық Азиядағы ең үлкен құмды шөл. Оның тек солтүстік бөлігі ғана\n  Қазақстан аумағында орналасқан. Палеогеннің құмды эолдық және жартылай\n  аллювиалды шөгінділерінен құралған. Жер беті кең, құрғақ арналармен және\n  алаңдармен кезектесіп жатқан құм төбелерінен, төбешіктерден және\n  жоталардан тұрады.\n\nА. Нарын Құмдары                 Б. Қарақұм               C. Мойынқұм\n   D. Қызылқұм                            Е. Сарыесікатырау\n\nQUESTION № 38\nEvaporation ponds of a potassium mine. What is causing the inten\nblue color?\n\nA. added dye to speed up evaporation B. bacteria growing in strong acidic\nwaters C. pesticides to stop pests D. specific reflection of potassium-salts\ncrystals E. all answers are correct\n\n СҰРАҚ № 39\nДөңгелек диаграммада сіз Қазақстанның 5 көршілес елдермен\nшекараларының ұзындығының км-дегі үлесін көре аласыз. Қызыл\nтүспен көрсетілген көршімізді анықтаңыз.\n\n     A. Ресей    B. Қырғызстан           C. Өзбекстан\n      D. Қытай                      E. Түрікменстан\n\n  QUESTION № 40\n\n  Which of the following concepts does not directly relate to\n  this picture?\n\nA. earth rotation B. latitude C. longitude D.time zone E. no correct answer\n\nТест аяқталды!\n\n         МУЛЬТИМЕДИЙНЫЙ ТУР\n\nРеспубликанской предметной олимпиады по географии\n\nПРАВИЛА МУЛЬТИМЕДИЙНОГО ТУРА\n Мультимедийный тур состоит из 40 вопросов.\n На каждый вопрос дается 5 вариантов ответов, только один из\n  них правильный.\n 15 вопросов тестов составлены на английском языке.\n\n Вникайте в каждый вопрос внимательно.\n\n На каждый вопрос дается 1 минута.\n\n За каждый правильный ответ – 1 балл.\n\n В листах ответов обведите правильный ответ кружком, если\n  вы сделали ошибку, зачеркните ответ и обведите кружком\n  правильный новый ответ по вашему мнению.\n\nУ Д А Ч И !!!\n\n ВОПРОС № 1\n\nВ какой стране были сделаны эти фотографии?\n\nA. Сент-Винсент и Гренадины\nB. Сент-Китс и Невис\nC. Сан-Томе и Принсипи\nD. Фиджи\nE. Кирибати\n\n  ВОПРОС № 2\n  Назовите острова, выделенные красным цветом\n\nA. Малые Антильские B. Маскаренские C. Канарские D. Мадейра E. Балеарские\n\nВОПРОС № 3\nВсе эти фотографии имеют отношение к одному из перечисленных\nостровов. К какому?\n\nA. Занзибар B. Калимантан C. Мадагаскар D. Новая Каледония E. Ява\n\nВОПРОС № 4\n\nОпределите тип криогенного рельефа\n\nА. друмлины         B. бугры пучения C. солюфлюкция\nD. ледяные клинья   E. термокарст\n\nВОПРОС № 5\n Топони́мика – раздел ономастики, изучающий географические названия\n (топонимы), их происхождение, смысловое значение, развитие, современное\n состояние, написание и произношение. Напишите пропущенное понятие. Виды\n понятий Виды понятий                  Названия объектов, отражающие\n                                            указанные понятия\nГидроним                           Вид топонима, название водных объектов\n\nФитоним                            Вид онима, названия растений\n\nТопоним                            Вид онима, географические названия\n\n…                                  Вид топонима, название островов\n\nA. остроним B. агороним C. инсулоним D. гелоним E. космоним\n\nQUESTION № 6\nName the region that is characterized by the following indicators\nin 2020\n\nA. Eastern Europe B. Oceania C. Eastern Africa          D. Caribbean\n   E. Central Asia\n                                                according to www.worldpopdata.org\n\n  ВОПРОС № 7\nРелигиозно-философское учение, возникшее в VI–V веке до н. э. в Индии. Это религиозное\nучение видит свою цель в освобождении джив (существ) от страдания через аскетизм,\nподавление телесного начала и непричинение вреда любым дживам. Имеет собственное\nучение о бытие– онтологию\n\n  А. пранаяна\n  B. махаяна\n  C. сикхизм\n  D. джайнизм\n  E. индуизм\n\nВОПРОС № 8\nНазовите выделенную желтым цветом страну\n\nA. Бенин   B. Того   C. Гана    D. Эритрея E. Буркина-Фасо\n\nQUESTION № 9\n                                 What type of projection\n                                 shows the earth so that a line\n                                 from the central point to any\n                                 other point on the map gives\n                                 the shortest distance between\n                                 the two points\n                                 projection\n\nA. conical projection   B. azimuthal projection    C. cylindrical\nprojection      D. pseudocylindrical projection    E. no correct\nanswer\n\nВОПРОС № 10\n                     Известный географ, учёный, педагог, первый\n                     в Казахстане и Центральной Азии доктор\n                     географических наук, профессор,\n                     общественный деятель, Академик\n                     Международной Общественный Академии\n                     туризма. Он стоял у истоков создания\n                     первых в Казахстане кафедр туризма в\n                     начале в университете «Туран», затем в АГУ\n                     им. Абая и КазГУ им.аль-Фараби. Автор\n                     более 400 научных работ.\n\nA. Надыров Ш.М.     B. Жандаев М.Ж.       C.Двоскин В.Я.\n\nD. Макаревич К.Г.   E. Ердавлетов С.Р.\n\nВОПРОС № 11\nПояса США – это условное деление регионов страны, на основании обладания ими\nопределенными типичными характеристиками. Термин «пояс» впервые был\nупотреблён в контексте сельскохозяйственных регионов, приспособленных для\nвыращивания одного и того же вида культур. Какой пояс указан на картинке желтым\nцветом?\n\nA. кукурузный        B. пшеничный          C. фруктовый\nD. хлопковый        E. рисовый\n\nQUESTION № 12\nWhich cities are the best deals? What does this map\nrepresent?\n\nA. Quality of air B. Quality of life and cost of living   C. Number of cars\nD. Number of bicycles E. Number of telephones\n\n ВОПРОС № 13\n  По приведенным данным определите тип почвы\n   Природные зоны распространения   Степная и полупустынная зоны\n   почвы в Казахстане\n   Занимаемая площадь               90,6 млн га или 34% территории\n                                    Казахстана\n   Области                          Большая часть Центрального\n                                    Казахстана, Прикаспийской\n                                    низменности, равнины ВКО\n\nA. бурые\nB. серо-бурые\nC. каштановые\nD. черноземы\nE. коричневые почвы\n\n  QUESTION № 14\nGiven the information in the image, in which of the following areas is cloud cover\nlikely to be the highest on the island of Hawaii?\n\nА. on the north and northeast-facing slopes of the mountains\nB. on the southern tip of the island\nC. on the extreme northwestern tip of the island\nD. along the northern coastline\nЕ. no correct answer\n\nВОПРОС № 15\nОпределите метаморфическую горную породу\n\n                 B                 C\nA\n\n    D                                      E\n\n QUESTION № 16\nWhich of the following nations produces more than 100% of its\nelectricity needs from hydroelectric power and exports much of its\noverall production to its neighbors?\n\nA. Mexico B. Russia C. Paraguay D. Brazil E.Costa Rica\n\n ВОПРОС № 17\nВ XVI–XVIII веках Невольничий берег был крупнейшим центром\nработорговли на побережье Западной Африки, контролируемым в основном\nАнглией и Нидерландами, – отсюда и происхождение названия. Часть каких\nсовременных государств составлял Невольничий берег?\n\nA. Того, Бенин, Нигерия\nB. Кот-д-Ивуар, Гана, Либерия\nC. Нигерия, Камерун, Гвинея\nD. Либерия, Кот-д-Ивуар, Гана\nE. Буркина-Фасо, Гана, Того\n\nQUESTION № 18\nThis image is a time-lapse photograph of a certain natural phenomenon. At\nwhich of the following latitudes was this photograph most likely taken?\n\nA. 20°     B. 40°      C. 50°     D. 70°        E. no correct answer\n\nВОПРОС № 19\nОпределите тип климата города, представленный на картинках.\n\nА. континентальный B. морской      C. муссонный\nD. экваториальный    E. экваториальный и континентальный\n\nВОПРОС № 20\nДеревня Кампунг Пеланги (Kampung Pelangi) была бедная и отсталая, но власти\nрешили это исправить, выделив $22 000 чтобы превратить деревенские дома в\nнастоящие произведения искусства. Инициатива чудесного преображения\nпринадлежала директору средней школы Сламету Видодо. Расписанные стены\nвдоль узких улочек придали жизни всей деревне, а приток туристов\n(соответственно и денег) в эти края вырос в разы. В какой стране находится эта\nдеревня?\n\nA. Камбоджа     B. Малайзия     C. Индонезия      D. Бруней      E. Тайланд\n\n  QUESTION № 21\nThis image shows a model of land use proposed by which of the\nfollowing?\n\nA. David Ricardo B. Johann von Thunen C. Homer Hoyt\nD. Chauncy Harris and Edward Ullman E. no correct answer\n\n ВОПРОС № 22\nКакой геологическое образование представлено на картинках?\n\nA .шарьяжи B. фульджи C. овраг\nD.карстовая воронка E. ригель\n\nQUESTION № 23\nThese maps show coral bleaching events during the specified years. Which\nof the following colors likely represents the most severe bleaching events?\n\n  A.yellow     B.red     C.green     D.light blue E. no correct answer\n\nВОПРОС № 24\nВ каком городе сделаны фотографии?\n\n  A. Ереван B. Измир    C. Стамбул   D.Тегеран   E. Баку\n\nВОПРОС № 25\nЧто выделено на карте?\n\nA. страны с максимальным показателем экспорта бананов\nB. экваториальные леса\nC. страны с максимальным биоразнообразием растительного мира\nD. страны с максимальным биоразнообразием животного мира\nE. топ 25 стран – производителей кофе\n\n QUESTION № 26\n\nThe lake in the images was formed by which of the\nfollowing processes?\n\nА. glaciation B. a massive earthquake\nC. the construction of a dam D. a volcanic eruption\nE. no correct answer\n\n  ВОПРОС № 27\nМаршрут экспедиции какого путешественника показан на рисунке?\n\nA. Васко да Гама   B. Марко Поло       C. Ибн Батута\nD. А.Никитина      E. С.Дежнева\n\nQUESTION № 28\nBased on the information in climate graph, which biome is typical of a climate like\nDodoma’s?\n\n А. desert     B. savannah      C. tropical rainforest   D. taiga   E. tundra\n\nВОПРОС № 29\nОпределите народность по описанию.\nЧисленность этой народности 5 млн.человек. Религия –\nхристианство, традиционные верования. Основное занятие –\nскотоводство. Проживают в следующих странах:\n\nA. нилоты B. фанг С. тсвана     D. йоруба   Е. фульбе\n\nВОПРОС № 30\n\nНа территории Республики Казахстан можно разместить …\n\nА. 7 х\n\nB. 11 х\n\nC. 13 х\n\nD.        +    +        +      +      +       +\n\nE. 4 х\n\nQUESTION № 31\n\n                Using Figures 12 and 13, what\n                caused the tsunami that affected\n                city Palu in Sulawesi, Indonesia?\n\n                А. The east side of the fault was forced under\n                the west side, displacing sea water.\n                B.The two sides of the fault moved away\n                from each other, causing an earthquake\n                C.The two sides of the fault slid past each\n                other, resulting in an underwater landslide\n                D.The two tectonic plates collided, folding\n                the bedrock\n                E.The vertical motion of the east plate over\n                the west plate forced sea water up.\n\nВОПРОС № 32\n\nПредставьте, что вы пересекаете Южную Америку с запада на\nвосток. В таблице представлено изменение температуры воздуха\nи осадков по вашему маршруту. По какой широте вы движетесь?\n\nA. 20 ̊ ю.ш. B. 5 ̊ с.ш.       C. 40 ̊ ю.ш. D. 0 ̊ ш. E. 30 с.ш.\n\n     Долгота         70 ̊ з.д.      60 ̊ з.д.   50 ̊ з.д.   40 ̊ з.д.\nСреднегодовая          +18            +25         +24        +24\nтемпература ̊ С\nСреднегодовое              2          777        1304        1281\nколичество\nосадков, мм\n\n ВОПРОС № 33\nНазовите грунт, состоящий\nиз 30% глинистых, 40% - из\nпесчаных и 70% - из\nпылеватых частиц?\n\nА. глина песчаная\nB. суглинистый песок\nC. пылеватая глина\nD. глинистый суглинок\nE. супесчаный суглинок\n\n  QUESTION № 34\n                                   According to EIU’s rankings in\n                                   Table 2, which of these cities\n                                   became less liveable between\n                                   2015 and 2016?\n\nA. Auckland B. Hamburg   С. Helsinki     D. Perth E. Sydney\n\n ВОПРОС № 35\nВ какой стране расположены знаменитые каменные шары, не менее\nтрёх сотен которых сохранилось в устье реки Диквис?\n\nA. Индонезия\nB. Папуа-Новая Гвинея\nC. Фиджи\nD. Вануату\nE. Коста-Рика\n\n  QUESTION № 36\n  These maps of religious population are in alphabetic order: atheist,\n  buddhist, christian and muslim. Which map shows the atheist (non-\n  religious) population?\n\nA. Map A   B. Map B     С. Map C    D. Map D    Е. no correct answer\n\n ВОПРОС № 37\n\n  Самая крупная песчаная пустыня Центральной Азии. В пределах Казахстана\n  находится только ее северная часть. Сложен песчаными эоловыми и частично\n  аллювиальными отложениями палеогена. Поверхность состоит из песчаных\n  барханов, бугров и гряд, чередующихся с широкими сухими руслами и\n  площадками.\n\nА. Пески Нарын B. Каракум C. Мойынкум D. Кызылкум      E. Сарыесик-Атырау\n\nQUESTION № 38\nEvaporation ponds of a potassium mine. What is causing the intense\nblue color?\n\nA. added dye to speed up evaporation B. bacteria growing in strong acidic\nwaters C. pesticides to stop pests D. specific reflection of potassium-salts\ncrystals E. all answers are correct\n\n  ВОПРОС № 39\n На круговой диаграмме вы видите долю протяженности границ\n Казахстана с 5-ю соседними странами в км. Определите нашего\n соседа, обозначенного красным цветом.\n\nA. Россия B. Кыргызстан   C. Узбекистан D. КНР E. Туркменистан\n\n  QUESTION № 40\n\n  Which of the following concepts does not directly relate to\n  this picture?\n\nA. earth rotation B. latitude C. longitude D.time zone E. no correct answer\n\nТест завершен!",
+   "title": "Мультимедийный тур",
+   "weight": 1,
+   "total": 40,
+   "statement": "Мультимедийный тур состоит из 40 вопросов. На каждый вопрос дается 5 вариантов ответов, только один из них правильный. 15 вопросов тестов составлены на английском языке. За каждый правильный ответ – 1 балл.",
    "parts": [
     {
      "id": "1.1",
-     "points": 10,
-     "question": "Решите задачу полностью и запишите ответ.",
-     "reference": "",
-     "pointsEstimated": true
+     "points": 1,
+     "question": "В какой стране были сделаны эти фотографии? A. Сент-Винсент и Гренадины, B. Сент-Китс и Невис, C. Сан-Томе и Принсипи, D. Фиджи, E. Кирибати",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "2.1",
+     "points": 1,
+     "question": "Назовите острова, выделенные красным цветом. A. Малые Антильские, B. Маскаренские, C. Канарские, D. Мадейра, E. Балеарские",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "3.1",
+     "points": 1,
+     "question": "Все эти фотографии имеют отношение к одному из перечисленных островов. К какому? A. Занзибар, B. Калимантан, C. Мадагаскар, D. Новая Каледония, E. Ява",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "4.1",
+     "points": 1,
+     "question": "Определите тип криогенного рельефа. А. друмлины, B. бугры пучения, C. солюфлюкция, D. ледяные клинья, E. термокарст",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "5.1",
+     "points": 1,
+     "question": "Топони́мика — раздел ономастики... Напишите пропущенное понятие (Вид топонима, название островов). A. остроним, B. агороним, C. инсулоним, D. гелоним, E. космоним",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "6.1",
+     "points": 1,
+     "question": "Name the region that is characterized by the following indicators in 2020. A. Eastern Europe, B. Oceania, C. Eastern Africa, D. Caribbean, E. Central Asia",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "7.1",
+     "points": 1,
+     "question": "Религиозно-философское учение, возникшее в VI—V веке до н. э. в Индии... А. пранаяна, B. махаяна, C. сикхизм, D. джайнизм, E. индуизм",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "8.1",
+     "points": 1,
+     "question": "Назовите выделенную желтым цветом страну. A. Бенин, B. Того, C. Гана, D. Эритрея, E. Буркина-Фасо",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "9.1",
+     "points": 1,
+     "question": "What type of projection shows the earth so that a line from the central point to any other point on the map gives the shortest distance between the two points projection. A. conical projection, B. azimuthal projection, C. cylindrical projection, D. pseudocylindrical projection, E. no correct answer",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "10.1",
+     "points": 1,
+     "question": "Известный географ, учёный, педагог, первый в Казахстане и Центральной Азии доктор географических наук... A. Надыров Ш.М., B. Жандаев М.Ж., C. Двоскин В.Я., D. Макаревич К.Г., E. Ердавлетов С.Р.",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "11.1",
+     "points": 1,
+     "question": "Пояса США — это условное деление регионов страны... Какой пояс указан на картинке желтым цветом? A. кукурузный, B. пшеничный, C. фруктовый, D. хлопковый, E. рисовый",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "12.1",
+     "points": 1,
+     "question": "Which cities are the best deals? What does this map represent? A. Quality of air, B. Quality of life and cost of living, C. Number of cars, D. Number of bicycles, E. Number of telephones",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "13.1",
+     "points": 1,
+     "question": "По приведенным данным определите тип почвы (Степная и полупустынная зоны, 90,6 млн га или 34% территории Казахстана...). A. бурые, B. серо-бурые, C. каштановые, D. черноземы, E. коричневые почвы",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "14.1",
+     "points": 1,
+     "question": "Given the information in the image, in which of the following areas is cloud cover likely to be the highest on the island of Hawaii? А. on the north and northeast-facing slopes of the mountains, B. on the southern tip of the island, C. on the extreme northwestern tip of the island, D. along the northern coastline, Е. no correct answer",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "15.1",
+     "points": 1,
+     "question": "Определите метаморфическую горную породу. A, B, C, D, E",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "16.1",
+     "points": 1,
+     "question": "Which of the following nations produces more than 100% of its electricity needs from hydroelectric power and exports much of its overall production to its neighbors? A. Mexico, B. Russia, C. Paraguay, D. Brazil, E. Costa Rica",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "17.1",
+     "points": 1,
+     "question": "В XVI–XVIII веках Невольничий берег был крупнейшим центром работорговли... Часть каких современных государств составлял Невольничий берег? A. Того, Бенин, Нигерия, B. Кот-д-Ивуар, Гана, Либерия, C. Нигерия, Камерун, Гвинея, D. Либерия, Кот-д-Ивуар, Гана, E. Буркина-Фасо, Гана, Того",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "18.1",
+     "points": 1,
+     "question": "This image is a time-lapse photograph of a certain natural phenomenon. At which of the following latitudes was this photograph most likely taken? A. 20°, B. 40°, C. 50°, D. 70°, E. no correct answer",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "19.1",
+     "points": 1,
+     "question": "Определите тип климата города, представленный на картинках. А. континентальный, B. морской, C. муссонный, D. экваториальный, E. экваториальный и континентальный",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "20.1",
+     "points": 1,
+     "question": "Деревня Кампунг Пеланги (Kampung Pelangi) была бедная и отсталая... В какой стране находится эта деревня? A. Камбоджа, B. Малайзия, C. Индонезия, D. Бруней, E. Тайланд",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "21.1",
+     "points": 1,
+     "question": "This image shows a model of land use proposed by which of the following? A. David Ricardo, B. Johann von Thunen, C. Homer Hoyt, D. Chauncy Harris and Edward Ullman, E. no correct answer",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "22.1",
+     "points": 1,
+     "question": "Какой геологическое образование представлено на картинках? A. шарьяжи, B. фульджи, C. овраг, D. карстовая воронка, E. ригель",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "23.1",
+     "points": 1,
+     "question": "These maps show coral bleaching events during the specified years. Which of the following colors likely represents the most severe bleaching events? A. yellow, B. red, C. green, D. light blue, E. no correct answer",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "24.1",
+     "points": 1,
+     "question": "В каком городе сделаны фотографии? A. Ереван, B. Измир, C. Стамбул, D. Тегеран, E. Баку",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "25.1",
+     "points": 1,
+     "question": "Что выделено на карте? A. страны с максимальным показателем экспорта бананов, B. экваториальные леса, C. страны с максимальным биоразнообразием растительного мира, D. страны с максимальным биоразнообразием животного мира, E. топ 25 стран – производителей кофе",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "26.1",
+     "points": 1,
+     "question": "The lake in the images was formed by which of the following processes? А. glaciation, B. a massive earthquake, C. the construction of a dam, D. a volcanic eruption, E. no correct answer",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "27.1",
+     "points": 1,
+     "question": "Маршрут экспедиции какого путешественника показан на рисунке? A. Васко да Гама, B. Марко Поло, C. Ибн Батута, D. А. Никитина, E. С. Дежнева",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "28.1",
+     "points": 1,
+     "question": "Based on the information in climate graph, which biome is typical of a climate like Dodoma’s? А. desert, B. savannah, C. tropical rainforest, D. taiga, E. tundra",
+     "reference": "Правильный ответ: B"
+    },
+    {
+     "id": "29.1",
+     "points": 1,
+     "question": "Определите народность по описанию (Численность 5 млн. человек, религия — христианство, традиционные верования, скотоводство). A. нилоты, B. фанг, C. тсвана, D. йоруба, Е. фульбе",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "30.1",
+     "points": 1,
+     "question": "На территории Республики Казахстан можно разместить … А. 7 х, B. 11 х, C. 13 х, D. + + + + + +, E. 4 х",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "31.1",
+     "points": 1,
+     "question": "Using Figures 12 and 13, what caused the tsunami that affected city Palu in Sulawesi, Indonesia? А. The east side of the fault was forced under the west side..., B..., C. The two sides of the fault slid past each other, resulting in an underwater landslide, D..., E...",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "32.1",
+     "points": 1,
+     "question": "Представьте, что вы пересекаете Южную Америку с запада на восток. В таблице представлено изменение температуры воздуха и осадков... По какой широте вы движетесь? A. 20 ̊ ю.ш., B. 5 ̊ с.ш., C. 40 ̊ ю.ш., D. 0 ̊ ш., E. 30 с.ш.",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "33.1",
+     "points": 1,
+     "question": "Назовите грунт, состоящий из 30% глинистых, 40% - из песчаных и 70% - из пылеватых частиц? А. глина песчаная, B. суглинистый песок, C. пылеватая глина, D. глинистый суглинок, E. супесчаный суглинок",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "34.1",
+     "points": 1,
+     "question": "According to EIU’s rankings in Table 2, which of these cities became less liveable between 2015 and 2016? A. Auckland, B. Hamburg, С. Helsinki, D. Perth, E. Sydney",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "35.1",
+     "points": 1,
+     "question": "В какой стране расположены знаменитые каменные шары, не менее трёх сотен которых сохранилось в устье реки Диквис? A. Индонезия, B. Папуа-Новая Гвинея, C. Фиджи, D. Вануату, E. Коста-Рика",
+     "reference": "Правильный ответ: E"
+    },
+    {
+     "id": "36.1",
+     "points": 1,
+     "question": "These maps of religious population are in alphabetic order: atheist, buddhist, christian and muslim. Which map shows the atheist (non-religious) population? A. Map A, B. Map B, С. Map C, D. Map D, Е. no correct answer",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "37.1",
+     "points": 1,
+     "question": "Самая крупная песчаная пустыня Центральной Азии. В пределах Казахстана находится только ее северная часть... А. Пески Нарын, B. Каракум, C. Мойынкум, D. Кызылкум, E. Сарыесик-Атырау",
+     "reference": "Правильный ответ: D"
+    },
+    {
+     "id": "38.1",
+     "points": 1,
+     "question": "Evaporation ponds of a potassium mine. What is causing the intense blue color? A. added dye to speed up evaporation, B. bacteria growing in strong acidic waters, C. pesticides to stop pests, D. specific reflection of potassium-salts crystals, E. all answers are correct",
+     "reference": "Правильный ответ: A"
+    },
+    {
+     "id": "39.1",
+     "points": 1,
+     "question": "На круговой диаграмме вы видите долю протяженности границ Казахстана с 5-ю соседними странами в км. Определите нашего соседа, обозначенного красным цветом. A. Россия, B. Кыргызстан, C. Узбекистан, D. КНР, E. Туркменистан",
+     "reference": "Правильный ответ: C"
+    },
+    {
+     "id": "40.1",
+     "points": 1,
+     "question": "Which of the following concepts does not directly relate to this picture? A. earth rotation, B. latitude, C. longitude, D. time zone, E. no correct answer",
+     "reference": "Правильный ответ: B"
     }
    ]
   }

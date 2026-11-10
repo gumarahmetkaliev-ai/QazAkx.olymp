@@ -7,28 +7,58 @@
  "tasksFile": "olympiads/astronomy/s/iao/1999/astro-2-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "whole-document",
- "generatedAt": "2026-11-09T18:25:31.032Z",
+ "generatedBy": "ai:gemini-flash-lite-latest",
+ "generatedAt": "2026-11-10T05:24:00.105Z",
  "quality": {
-  "tasks": 1,
-  "parts": 1,
-  "withPoints": 1,
+  "tasks": 3,
+  "parts": 3,
+  "withPoints": 3,
   "withReference": 0,
-  "withQuestion": 1,
-  "estimatedPoints": 1
+  "withQuestion": 3,
+  "estimatedPoints": 3
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Задания тура",
-   "statement": "IV International Astronomy Olympiad, Problems to solve\n\nObservational round\n9.1. Name the distance between the Moon and Jupiter in degree. Show how did you find the result.\n\n9.2. Find and name the five brightesr stars of autumn sky. Which one is the brightest?\n\n9.3. Define the period since new moon for today.\n\n                                                      MGG * Naucnnyj * 1999 * Crimea\n\n© Dr. M.G.Gavrilov, ISSP RAS, Chairman of the Olympic Coordinating Council, 1999.\n\n http://www.issp.ac.ru/iao/1999/problems/vi99us_e.html    (5 of 4) [04.05.2009 07:01:44]",
-   "total": 10,
+   "title": "Observational round - Problem 9.1",
+   "total": 1,
+   "statement": "Observational round",
    "parts": [
     {
-     "id": "1",
-     "question": "Решите задания тура. Подпишите номер задачи перед каждым решением.",
-     "points": 10,
+     "id": "9.1",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Name the distance between the Moon and Jupiter in degree. Show how did you find the result.",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "title": "Observational round - Problem 9.2",
+   "total": 1,
+   "statement": "Observational round",
+   "parts": [
+    {
+     "id": "9.2",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Find and name the five brightesr stars of autumn sky. Which one is the brightest?",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "title": "Observational round - Problem 9.3",
+   "total": 1,
+   "statement": "Observational round",
+   "parts": [
+    {
+     "id": "9.3",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Define the period since new moon for today.",
      "reference": ""
     }
    ]
