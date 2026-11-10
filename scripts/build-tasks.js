@@ -167,6 +167,29 @@ function sanitizeAiTasks(tasks) {
     .filter((t, i, arr) => arr.findIndex((x) => x.number === t.number) === i);
 }
 
+/** Прямо в OmniRoute: лучшие модели по очереди (OMNIROUTE_PARSE_MODELS), при квоте/ошибке — следующая */
+async function structureViaOmni(prompt) {
+  const key = process.env.OMNIROUTE_API_KEY;
+  let url = (process.env.OMNIROUTE_ENDPOINT || "").trim().replace(/\/+$/, "");
+  if (!key || !url) throw new Error("нет OMNIROUTE_API_KEY/OMNIROUTE_ENDPOINT");
+  if (!/\/chat\/completions$/i.test(url)) url += /\/v1$/i.test(url) ? "/chat/completions" : "/v1/chat/completions";
+  const models = (process.env.OMNIROUTE_PARSE_MODELS || process.env.OMNIROUTE_PARSE_MODEL || "agy/claude-sonnet-4-6").split(",").map((x) => x.trim()).filter(Boolean);
+  const errors = [];
+  for (const model of models) {
+    if ((omniSkip.get(model) || 0) > Date.now()) continue;
+    try {
+      const r = await requestStructure(url, key, model, prompt);
+      return { tasks: sanitizeAiTasks(r.tasks), model: r.model };
+    } catch (err) {
+      errors.push(`${model}: ${String(err.message).slice(0, 140)}`);
+      if (/quota|limit|cooldown|cooling|exhaust|429|not supported/i.test(err.message)) omniSkip.set(model, Date.now() + 15 * 60 * 1000);
+      if (/ECONNREFUSED|ENOTFOUND|fetch failed|530|502/i.test(err.message)) throw new Error(`OmniRoute недоступен: ${err.message}`);
+    }
+  }
+  throw new Error(`ни одна модель не ответила — ${errors.join(" | ")}`);
+}
+const omniSkip = new Map();
+
 /** Разбор через сайт (ключ Gemini хранится на Vercel): STRUCTURE_URL + ADMIN_TOKEN */
 async function structureViaSite(prompt) {
   const res = await fetch(process.env.STRUCTURE_URL, {
@@ -188,11 +211,11 @@ async function structureViaSite(prompt) {
   return { tasks: sanitizeAiTasks(json.tasks), model: data.model };
 }
 
-async function structureWithAI(tasksText, solText) {
+async function structureWithAI(tasksText, solText, lang = "ru") {
   const subjectOf = SUBJECT_OF[SUBJECT] || "химии";
-  if (process.env.STRUCTURE_URL && process.env.ADMIN_TOKEN) {
+  {
     const prompt = `Ниже текст PDF с заданиями олимпиады по ${subjectOf}${solText ? " и текст PDF с официальными решениями жюри" : " (официальных решений нет)"}. Текст извлечён из PDF: возможны две колонки (казахский и русский рядом), разорванные формулы, мусор от вёрстки.
-Разбей комплект на задачи и пункты. Если текст есть и на русском, и на казахском — бери РУССКИЙ вариант (если русского нет — тот язык, что есть). Тестовые вопросы с вариантами ответа: каждый вопрос — отдельный пункт; варианты включи в "question".
+Разбей комплект на задачи и пункты. Этот комплект — версия на ${lang === "kz" ? "КАЗАХСКОМ" : lang === "en" ? "английском" : "русском"} языке: если текст есть на двух языках, бери этот язык; пиши условия и вопросы на нём, ничего не переводи. Тестовые вопросы с вариантами ответа: каждый вопрос — отдельный пункт; варианты включи в "question".
 Для каждого пункта: баллы, формулировка вопроса, эталон — решение/ответ жюри к этому пункту и критерии оценивания, как в тексте решений (можно убрать мусор вёрстки, но не придумывай). ${solText ? "" : "Решений нет — поле reference оставь пустым."}
 Если в задаче нет явных пунктов — один пункт "N.1" с полными баллами задачи.
 Баллы — из официальной разбалловки (таблицы баллов, «Система оценивания», «(N баллов)», «Каждая задача оценивается в N баллов»). Если баллов за пункт нет — оцени пропорционально и поставь "pointsEstimated": true.
@@ -203,6 +226,7 @@ ${AI_SCHEMA_HINT}
 === ЗАДАНИЯ ===
 ${tasksText.slice(0, 60000)}
 ${solText ? `\n=== РЕШЕНИЯ ===\n${solText.slice(0, 90000)}` : ""}`;
+    if (!(process.env.STRUCTURE_URL && process.env.ADMIN_TOKEN)) return structureViaOmni(prompt);
     for (let attempt = 1; ; attempt++) {
       try {
         return await structureViaSite(prompt);
@@ -254,6 +278,7 @@ ${solText.slice(0, 90000)}`;
 }
 
 async function requestStructure(url, key, model, prompt) {
+  // stream: туннель Cloudflare обрывает запрос без данных через 100 с (HTTP 524)
   const res = await fetch(url, {
     method: "POST",
     headers: { "Content-Type": "application/json", Authorization: `Bearer ${key}`, "X-Title": "QazAkx.olymp" },
@@ -262,19 +287,43 @@ async function requestStructure(url, key, model, prompt) {
       messages: [{ role: "user", content: prompt }],
       temperature: 0,
       max_tokens: 32000,
-      response_format: { type: "json_object" },
+      stream: true,
     }),
-    signal: AbortSignal.timeout(300000),
+    signal: AbortSignal.timeout(600000),
   });
-  const raw = await res.text();
-  let data;
-  try {
-    data = JSON.parse(raw);
-  } catch {
-    throw new Error(`HTTP ${res.status}: ответ не JSON (${raw.slice(0, 80).replace(/\s+/g, " ")})`);
+  if (!res.ok) {
+    const raw = await res.text();
+    let msg = `HTTP ${res.status}`;
+    try {
+      const d = JSON.parse(raw);
+      msg = d.error?.message || d.error || msg;
+    } catch {
+      msg += `: ${raw.slice(0, 80).replace(/\s+/g, " ")}`;
+    }
+    throw new Error(String(msg));
   }
-  if (!res.ok || data.error) throw new Error(data.error?.message || `HTTP ${res.status}`);
-  const text = data.choices?.[0]?.message?.content || "";
+  let text = "";
+  let buf = "";
+  const dec = new TextDecoder();
+  for await (const chunk of res.body) {
+    buf += dec.decode(chunk, { stream: true });
+    let i;
+    while ((i = buf.indexOf("\n")) >= 0) {
+      const line = buf.slice(0, i).trim();
+      buf = buf.slice(i + 1);
+      if (!line.startsWith("data:")) continue;
+      const data = line.slice(5).trim();
+      if (data === "[DONE]") continue;
+      try {
+        const j = JSON.parse(data);
+        if (j.error) throw new Error(j.error.message || JSON.stringify(j.error));
+        text += j.choices?.[0]?.delta?.content || j.choices?.[0]?.message?.content || "";
+      } catch (e) {
+        if (/^(?!Unexpected|JSON)/.test(e.message) && !/JSON/.test(e.message)) throw e;
+      }
+    }
+  }
+  if (!text.trim()) throw new Error("пустой ответ");
   const json = JSON.parse(text.slice(text.indexOf("{"), text.lastIndexOf("}") + 1));
   return { tasks: json.tasks || [], model };
 }
@@ -418,7 +467,7 @@ async function main() {
     if (!test && !isGood(q) && args.ai && !aiStopped && tasksText.replace(/\s/g, "").length > 300) {
       try {
         const t0 = Date.now();
-        const ai = await structureWithAI(linearize(tasksText).text, linearize(solText).text);
+        const ai = await structureWithAI(linearize(tasksText).text, linearize(solText).text, mat.lang);
         const aq = qualityReport(ai.tasks);
         // ИИ-разбор берём, если у него есть баллы у всех пунктов и эталонов не меньше, чем у парсера
         if (aq.tasks && aq.withPoints === aq.parts && aq.withReference >= Math.min(q.withReference, aq.parts * 0.6)) {
@@ -431,7 +480,7 @@ async function main() {
       } catch (err) {
         console.warn(`  ⚠ ИИ-разбор ${mat.setId}: ${err.message}`);
         // Квота Gemini общая с ИИ-жюри на сайте: при повторных отказах останавливаемся, чтобы проверка у учеников работала
-        if (/quota|exceeded/i.test(err.message) && ++quotaFails >= 3) {
+        if ((/quota|exceeded|ни одна модель/i.test(err.message) && ++quotaFails >= 3) || /недоступен/.test(err.message)) {
           aiStopped = true;
           console.warn("  ⛔ квота ИИ исчерпана — разбор через ИИ остановлен до следующего запуска");
         }
