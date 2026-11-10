@@ -38,9 +38,26 @@ module.exports = async function handler(req, res) {
     if (body.mode === "structure") {
       const token = process.env.ADMIN_TOKEN;
       if (!token || req.headers["x-admin-token"] !== token) return send(res, 403, { success: false, error: "FORBIDDEN" });
-      const { callGemini, getApiKeys } = require("./_lib/ai-service");
-      const key = getApiKeys().geminiKey;
-      if (!key) return send(res, 503, { success: false, error: "NO_GEMINI_KEY" });
+      const { callGemini, callOmniRoute, getApiKeys } = require("./_lib/ai-service");
+      const keys = getApiKeys();
+      const errors = [];
+      // 1) OmniRoute — лучшие модели по очереди (если туннель включён)
+      if (keys.omniRouteKey && keys.omniRouteEndpoint && body.provider !== "gemini") {
+        try {
+          const r = await callOmniRoute(keys.omniRouteKey, String(body.system || ""), String(body.prompt || ""), null, 32000, {
+            json: true,
+            timeoutMs: 200000,
+            totalTimeoutMs: 230000,
+            models: process.env.OMNIROUTE_PARSE_MODELS ? process.env.OMNIROUTE_PARSE_MODELS.split(",").map((x) => x.trim()).filter(Boolean) : undefined,
+          });
+          return send(res, 200, { success: true, text: r.text, model: `omniroute:${r.model}` });
+        } catch (err) {
+          errors.push(String(err.message).slice(0, 600));
+          if (body.provider === "omniroute") return send(res, 502, { success: false, error: errors.join(" | ") });
+        }
+      }
+      const key = keys.geminiKey;
+      if (!key) return send(res, 503, { success: false, error: "NO_GEMINI_KEY " + errors.join(" | ") });
       try {
         const r = await callGemini(key, String(body.system || ""), String(body.prompt || ""), body.model || null, {
           models: Array.isArray(body.models) ? body.models : undefined,

@@ -172,7 +172,7 @@ async function structureViaSite(prompt) {
   const res = await fetch(process.env.STRUCTURE_URL, {
     method: "POST",
     headers: { "Content-Type": "application/json", "x-admin-token": process.env.ADMIN_TOKEN },
-    body: JSON.stringify({ mode: "structure", prompt, system: "Ты аккуратно переносишь олимпиадные задания в JSON. Отвечаешь только JSON.", models: (process.env.STRUCTURE_MODELS || "gemini-flash-latest,gemini-flash-lite-latest").split(",") }),
+    body: JSON.stringify({ mode: "structure", prompt, provider: process.env.STRUCTURE_PROVIDER || undefined, system: "Ты аккуратно переносишь олимпиадные задания в JSON. Отвечаешь только JSON.", models: (process.env.STRUCTURE_MODELS || "gemini-flash-latest,gemini-flash-lite-latest").split(",") }),
     signal: AbortSignal.timeout(320000),
   });
   const raw = await res.text();
@@ -207,7 +207,7 @@ ${solText ? `\n=== РЕШЕНИЯ ===\n${solText.slice(0, 90000)}` : ""}`;
       try {
         return await structureViaSite(prompt);
       } catch (err) {
-        const retriable = /quota|rate.?limit|429|timed? ?out|502|503|504|overload|Unexpected end|JSON/i.test(err.message);
+        const retriable = /rate.?limit|429|timed? ?out|503|504|overload|Unexpected end|JSON/i.test(err.message) && !/ни одна модель/.test(err.message);
         if (!retriable || attempt >= 3) throw err;
         await new Promise((r) => setTimeout(r, attempt * 30000));
       }

@@ -343,48 +343,91 @@ async function callAnthropic(apiKey, systemPrompt, userPrompt, options = {}) {
  * Uses OMNIROUTE_API_KEY, OMNIROUTE_ENDPOINT, OMNIROUTE_MODEL separately from Anthropic.
  * Sends Bearer Authorization and OpenAI-compatible messages format.
  */
-async function callOmniRoute(apiKey, systemPrompt, userPrompt, model = null, maxTokens = 3000) {
+/** Список моделей OmniRoute по приоритету: OMNIROUTE_MODELS="a,b,c" (или одна OMNIROUTE_MODEL) */
+function omniModels(model) {
+  const list = String(process.env.OMNIROUTE_MODELS || "")
+    .split(",")
+    .map((x) => x.trim())
+    .filter(Boolean);
+  if (model) list.unshift(model);
+  if (!list.length) list.push(process.env.OMNIROUTE_MODEL || "auto");
+  return [...new Set(list)];
+}
+
+// Модель, упёршаяся в квоту/лимит, пропускается на время (в пределах живого инстанса функции)
+const omniCooldown = new Map();
+
+/**
+ * OmniRoute с ротацией: пробуем лучшие модели по очереди; квота, «cooldown», 5xx, таймаут или пустой
+ * ответ — переходим к следующей. Если сам OmniRoute недоступен (туннель выключен) — сразу ошибка,
+ * чтобы без задержки перейти к Gemini.
+ */
+async function callOmniRoute(apiKey, systemPrompt, userPrompt, model = null, maxTokens = 3000, opts = {}) {
   const endpoint = (process.env.OMNIROUTE_ENDPOINT || "").trim().replace(/\/+$/, "");
   if (!endpoint) throw new Error("OMNIROUTE_ENDPOINT is not configured");
-
-  const chosenModel = model || process.env.OMNIROUTE_MODEL || "auto";
   let url = endpoint;
   if (!/\/chat\/completions$/i.test(url)) {
     url += /\/v1$/i.test(url) ? "/chat/completions" : "/v1/chat/completions";
   }
-  const payload = {
-    model: chosenModel,
-    messages: [
-      { role: "system", content: systemPrompt },
-      { role: "user", content: userPrompt },
-    ],
-    temperature: 0.2,
-    max_tokens: maxTokens,
-  };
+  const models = opts.models || omniModels(model);
+  const now = Date.now();
+  const ordered = [...models.filter((m) => !(omniCooldown.get(m) > now)), ...models.filter((m) => omniCooldown.get(m) > now)];
+  const errors = [];
+  const deadline = now + (opts.totalTimeoutMs || Number(process.env.OMNIROUTE_TOTAL_TIMEOUT_MS) || 150000);
 
-  const response = await fetchWithTimeout(url, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-        Authorization: `Bearer ${apiKey}`,
-    },
-    body: JSON.stringify(payload),
-  }, Number(process.env.OMNIROUTE_TIMEOUT_MS) || 60000);
-
-  const data = await response.json();
-  if (!response.ok || data.error) {
-    const errorMsg = data.error?.message || `HTTP ${response.status}: ${response.statusText}`;
-    throw new Error(`OmniRoute API Error: ${errorMsg}`);
+  for (const chosenModel of ordered) {
+    const left = deadline - Date.now();
+    if (left < 5000) break;
+    const payload = {
+      model: chosenModel,
+      messages: [
+        { role: "system", content: systemPrompt },
+        { role: "user", content: userPrompt },
+      ],
+      temperature: 0.2,
+      max_tokens: maxTokens,
+      ...(opts.json ? { response_format: { type: "json_object" } } : {}),
+    };
+    let response;
+    try {
+      response = await fetchWithTimeout(url, {
+        method: "POST",
+        headers: { "Content-Type": "application/json", Authorization: `Bearer ${apiKey}` },
+        body: JSON.stringify(payload),
+      }, Math.min(left, opts.timeoutMs || Number(process.env.OMNIROUTE_TIMEOUT_MS) || 90000));
+    } catch (err) {
+      // сеть/туннель: остальные модели не помогут
+      if (!/abort|timed? ?out/i.test(err.message)) throw new Error(`OmniRoute недоступен: ${err.message}`);
+      errors.push(`${chosenModel}: таймаут`);
+      continue;
+    }
+    if ([502, 503, 530].includes(response.status) && /trycloudflare|cloudflare/i.test(url) && !errors.length) {
+      throw new Error(`OmniRoute недоступен: HTTP ${response.status}`);
+    }
+    let data;
+    try {
+      data = await response.json();
+    } catch {
+      errors.push(`${chosenModel}: HTTP ${response.status}, ответ не JSON`);
+      continue;
+    }
+    if (!response.ok || data.error) {
+      const msg = String(data.error?.message || data.error || `HTTP ${response.status}`);
+      if (response.status === 401) throw new Error(`OmniRoute: неверный ключ (${msg.slice(0, 100)})`);
+      if (/quota|rate.?limit|cooldown|cooling|exhaust|429|limit/i.test(msg) || response.status === 429) {
+        omniCooldown.set(chosenModel, Date.now() + 10 * 60 * 1000);
+      }
+      errors.push(`${chosenModel}: ${msg.slice(0, 160)}`);
+      continue;
+    }
+    const text = data.choices?.[0]?.message?.content;
+    if (!text) {
+      errors.push(`${chosenModel}: пустой ответ`);
+      continue;
+    }
+    return { text, model: data.model || chosenModel, provider: "omniroute" };
   }
-
-  const text = data.choices?.[0]?.message?.content;
-  if (!text) throw new Error("Пустой ответ от OmniRoute API.");
-
-  return {
-    text,
-    model: data.model || chosenModel,
-    provider: "omniroute",
-  };
+  throw new Error(`OmniRoute: ни одна модель не ответила — ${errors.join(" | ")}`);
 }
 
 /**
@@ -648,7 +691,7 @@ async function processAIRequest({ prompt, systemPrompt, mode = "analyze", langua
   // Provider 1: OmniRoute (OpenAI-compatible) — uses OMNIROUTE_API_KEY/ENDPOINT/MODEL
   if (omniRouteKey && omniRouteEndpoint && !isTemporaryOmniRouteEndpoint(omniRouteEndpoint)) {
     try {
-      const result = await callOmniRoute(omniRouteKey, finalSystemPrompt, prompt, omniRouteModel || options.model, options.maxTokens || 3000);
+      const result = await callOmniRoute(omniRouteKey, finalSystemPrompt, prompt, options.model || null, options.maxTokens || 3000);
       return { success: true, data: result };
     } catch (err) {
       console.warn("OmniRoute provider attempt failed:", err.message);
@@ -1033,6 +1076,8 @@ function getAIHealth() {
 
 module.exports = {
   callGemini,
+  callOmniRoute,
+  omniModels,
   loadEnv,
   getApiKeys,
   getApiKey: getApiKeys,
