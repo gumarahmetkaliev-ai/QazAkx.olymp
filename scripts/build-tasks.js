@@ -174,6 +174,20 @@ async function structureViaOmni(prompt) {
   if (!key || !url) throw new Error("нет OMNIROUTE_API_KEY/OMNIROUTE_ENDPOINT");
   if (!/\/chat\/completions$/i.test(url)) url += /\/v1$/i.test(url) ? "/chat/completions" : "/v1/chat/completions";
   const models = (process.env.OMNIROUTE_PARSE_MODELS || process.env.OMNIROUTE_PARSE_MODEL || "agy/claude-sonnet-4-6").split(",").map((x) => x.trim()).filter(Boolean);
+  for (let round = 1; ; round++) {
+    try {
+      return await structureViaOmniOnce(url, key, models, prompt);
+    } catch (err) {
+      // все модели «остывают» (лимит провайдера на 5–15 минут) — ждём и пробуем снова, до ~1 часа
+      if (!/ни одна модель/.test(err.message) || !/cooling|quota|exhaust|limit|429/i.test(err.message) || round >= 12) throw err;
+      console.warn(`  … все модели на лимите, жду 5 мин (попытка ${round})`);
+      omniSkip.clear();
+      await new Promise((r) => setTimeout(r, 5 * 60 * 1000));
+    }
+  }
+}
+
+async function structureViaOmniOnce(url, key, models, prompt) {
   const errors = [];
   for (const model of models) {
     if ((omniSkip.get(model) || 0) > Date.now()) continue;
@@ -182,7 +196,7 @@ async function structureViaOmni(prompt) {
       return { tasks: sanitizeAiTasks(r.tasks), model: r.model };
     } catch (err) {
       errors.push(`${model}: ${String(err.message).slice(0, 140)}`);
-      if (/quota|limit|cooldown|cooling|exhaust|429|not supported/i.test(err.message)) omniSkip.set(model, Date.now() + 15 * 60 * 1000);
+      if (/quota|limit|cooldown|cooling|exhaust|429|not supported/i.test(err.message)) omniSkip.set(model, Date.now() + 5 * 60 * 1000);
       if (/ECONNREFUSED|ENOTFOUND|fetch failed|530|502/i.test(err.message)) throw new Error(`OmniRoute недоступен: ${err.message}`);
     }
   }
@@ -480,7 +494,7 @@ async function main() {
       } catch (err) {
         console.warn(`  ⚠ ИИ-разбор ${mat.setId}: ${err.message}`);
         // Квота Gemini общая с ИИ-жюри на сайте: при повторных отказах останавливаемся, чтобы проверка у учеников работала
-        if ((/quota|exceeded|ни одна модель/i.test(err.message) && ++quotaFails >= 3) || /недоступен/.test(err.message)) {
+        if (/недоступен/.test(err.message) && ++quotaFails >= 2) {
           aiStopped = true;
           console.warn("  ⛔ квота ИИ исчерпана — разбор через ИИ остановлен до следующего запуска");
         }

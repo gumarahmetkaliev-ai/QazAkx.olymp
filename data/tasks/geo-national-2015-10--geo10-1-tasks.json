@@ -7,73 +7,637 @@
  "tasksFile": "olympiads/geography/national/2015/10/geo10-1-tasks.pdf",
  "solutionFile": null,
  "noSolution": true,
- "generatedBy": "numbered-parser",
- "generatedAt": "2026-11-10T13:07:01.768Z",
+ "generatedBy": "ai:cx/gpt-5.6-terra-medium",
+ "generatedAt": "2026-11-10T14:16:08.409Z",
  "quality": {
-  "tasks": 4,
-  "parts": 4,
-  "withPoints": 4,
+  "tasks": 39,
+  "parts": 39,
+  "withPoints": 39,
   "withReference": 0,
-  "withQuestion": 4,
-  "estimatedPoints": 4
+  "withQuestion": 39,
+  "estimatedPoints": 39
  },
  "tasks": [
   {
    "number": 1,
-   "title": "Среди большого разнообразия и пестроты флагов стран мира можно…",
-   "statement": "Среди большого разнообразия и пестроты флагов стран мира можно заметить одинаковые\nфлаги. Выберите пару стран с одинаковыми государственными флагами:\nА) Вьетнам и Марокко\nВ) Нидерланды и Люксембург\nС) Индонезия и Монако\nD) Иордания и Судан",
-   "total": 7,
+   "title": "Задание 1",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
    "parts": [
     {
-     "id": "1",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "1.1",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Среди большого разнообразия и пестроты флагов стран мира можно заметить одинаковые флаги. Выберите пару стран с одинаковыми государственными флагами:\nА) Вьетнам и Марокко\nВ) Нидерланды и Люксембург\nС) Индонезия и Монако\nD) Иордания и Судан",
      "reference": ""
     }
    ]
   },
   {
    "number": 2,
-   "title": "What vegetation zones distribution have been highlighted on the…",
-   "statement": "What vegetation zones distribution have been highlighted on the bellow schematic map?\nA) Tropical deciduous forests and savannas\nB) Humid equatorial and tropical forests\nC) Subtropical hard-leaved forests and shrubs\nD) Alpine forest belt",
-   "total": 7,
+   "title": "Задание 2",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
    "parts": [
     {
-     "id": "2",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "2.1",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "What vegetation zones distribution have been highlighted on the bellow schematic map?\nA) Tropical deciduous forests and savannas\nB) Humid equatorial and tropical forests\nC) Subtropical hard-leaved forests and shrubs\nD) Alpine forest belt",
      "reference": ""
     }
    ]
   },
   {
    "number": 3,
-   "title": "В Андах находятся самые высокогорные столицы мира. Назовите их? А)…",
-   "statement": "В Андах находятся самые высокогорные столицы мира. Назовите их?\nА) Каракас и Богота\nВ) Санта-Фе-де-Богота и Лима\nС) Сантьяго и Кордова\nD) Ла-Пас и Кито",
-   "total": 7,
+   "title": "Задание 3",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
    "parts": [
     {
-     "id": "3",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "3.1",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "В Андах находятся самые высокогорные столицы мира. Назовите их?\nА) Каракас и Богота\nВ) Санта-Фе-де-Богота и Лима\nС) Сантьяго и Кордова\nD) Ла-Пас и Кито",
      "reference": ""
     }
    ]
   },
   {
    "number": 4,
-   "title": "Главным католическим собором страны и усыпальница королей Богемии…",
-   "statement": "Главным католическим собором страны и усыпальница королей Богемии является:\nА) Храм Святого Саввы, Дюссельдорф\nВ) Собор Святого Патрика, Дублин\nС) Собор Святого Вита, Прага\nD) Собор Успения Святой Девы Марии, Краков\n\n6. Сооружение мостового типа, возводимое на пересечении дороги с\nглубоким оврагом, лощиной, горным ущельем называется?\nE) Левада\nF) Эстакада\nG) Ропак\nH) Виадук\n\n7. Какое из утверждений неверное?\nE) Алакольский заповедник образован в 1998 году. Заповедник расположен в Алматинской\nобласти. Под охраной находится береговой водно-болотный ландшафт\nF) На озере Тениз гнездятся стаи розовых фламинго. Это самое северное в Евразии гнездовье\nэтих редких птиц.\nG) На склонах хребта Каратау находится палеонтологический филиал заповедника. Здесь\nсохранились останки разных редких рыб, морских животных и растений юрского периода\nH) Маркакольский заповедник создан в 1972 году. Он расположен в Зыряновском районе\nВосточно-Казахстанской области на высоте 1847 м над уровнем моря\n\n8. Какой из хребтов не входит в горную систему Тянь-Шаня:\nA) Угамский хребет\nB) хребет Кетмень\nC) хребет Азутау\nD) Кунгей Алатау\n\n9. What is shown on the picture below?\n\nA) minerals\nB) seaweed\nC) seawater\nD) sea sand\n\n10. Какая форма складки рельефа изображена на рисунках?\nA) диапир\nB) шток\nC) дайка\nD) бисмалит\n\n11. Что показывает данная анаморфоза?\nA) экспорт зерновых (в долларах США)\nB) импорт фруктов (в долларах США)\nC) число международных прибывших туристов\nD) экспорт игрушек (в долларах США)\n\n12. The sizes of the circles on the image are proportional to:\nA. the depth of the epicenters of earthquakes\nB. the energy released at the focuses of earthquakes\nC. the potential for damage produced by earthquakes\nD. the speed of magma flowing through volcanoes\n\n13. Динамика какой отрасли экономики представлена на рисунке под № 3?\nA) Сфера услуг\nB) Добывающая промышленность\nC) Сельское хозяйство\nD) Обрабатывающая промышленность\n\n14. Тропическое кустарниковое растение из семейства молочайных, с богатым крахмалом\nклубневидными корнями, из которых готовят питательную муку?\nA) маниока\nB) батат\nC) ямс\nD) топинамбур\n\n15. What is shown on the below space image?\nA) rice fields in China\nB) mountain Taranaki in New Zealand\nC) hilly terrain in India\nD) complex of lakes in Canada\n\n16. В какой стране Африки французский язык является официальным языком?\nА) 3\nВ) 23\nC) 29\nD) 14\n\n17. Какой из перечисленных субъектов федерации Австралии не имеет статуса штата?\nА) 1\nВ) 2\nC) 3\nD) 8\n\n18. Этот тип вулкана образуются в результате многократных выбросов жидкой лавы. Эта\nформа характерна для вулканов, извергающих базальтовую лаву низкой вязкости: она\nдлительное время вытекает как из центрального жерла, так и из боковых кратеров вулкана?\nА) щитовидные вулканы\nВ) шлаковые конусы\nC) купольные вулканы\nD) стратовулканы\n\n19. NESTLE – is the world's largest food company, it has an annual turnover about 67 billion dollars.\nWhere is its head office located?\nA) Denmark, Copenhagen\nB) Switzerland, Geneva\nB) Switzerland, Vevey\nD) Netherlands, Hague\n\n20. Какая природная зона Казахстана обозначена цифрой VI ?\nА) субтропическая пустынная\nВ) среднеазиатская предгорно-пустынная\nC) предгорно-пустынно-степная\nD) среднеазиатская горная\n\n21. Для какой страны характерен способ выплавки стали под номером 3?\nА) США\nВ) Россия\nC) Япония\n D) ФРГ\n\n22. For which countries such state borders division are characterized?\nA) Gambia and Senegal\nB) India and Bangladesh\nC) South African Republic and Lesotho\nD) Netherlands and Belgium\n\n23. Эта страна получила независимость в 1804 году от Франции в результате успешной\nреволюции. Остров, на котором расположена страна, был открыт Христофором Колумбом в\n1492 году и назван им тогда Эспаньолой?\nA) Гаити\nB) Доминиканская Республика\nC) Филиппины\nD) Тринидад и Тобаго\n\n24. На рисунке изображена известная вам страна. Назовите ее, и какой тип берега ей\nсоответствует?\nA) Испания, риасовый\nB) Норвегия, фьордовый\nC) Хорватия, далматинский\nD) Швеция, шхерный\n\n25. On the Earth there are 14 Eight-thousander peaks, 10 of them are located in the Himalayas, where\nare the other four peaks located?\nA) Kunlun\nB) Pamir\nC) Alps\nD) Karakoram\n\n26. На рисунке показан транзит специфического «товара» из Афганистана. Определите какого\n«товара» идет трафик?\nA) Наркотиков\nB) Цветков мака\nC) Вооружения\nD) Беженцев\n\n27. По данным бюро переписей и прогнозов США к 2030 году эта страна войдет в пятерку\nгустонаселенных стран мира, с приблизительным население в 250 000 000 человек.\nA) Эфиопия\nB) Нигерия\nC) Бангладеш\nD) Мексика\n\n28. Единая характеристика для выделенных цветами стран мира:\nA) Страны движения неприсоединения\nB) Страны Британского Содружества\nC) Официальным языком является - английский\nD) Неевропейские страны, признавшие независимость Косово\n\n29. В апреле 2011 года в одном из областей Республики Казахстан произошел один из самых\nмасштабных водных паводках региона. Наиболее интенсивным и высоким был паводок на\nреках Чаган и Деркул. Были жертвы среди людского населения. Определите в какой области\nпроизошел паводок?\nA) Восточно-Казахстанская область\nB) Западно-Казахстанская область\nC) Жамбылская область\nD) Алматинская область\n\n30. Which of the following organizations Kazakhstan is not member?\nA) Organization for Democracy and Economic Development\nB) The Islamic Development Bank\nC) Organization for Security and Cooperation in Europe\nD) Collective Security Treaty Organization\n\n31. Наступление промышленной революции в Британии обусловило взрывное развитие ______\nиндустрии. А город Манчестер стал центром мировой торговли этим продуктом. В настоящее\nвремя лидерами в этой отрасли являются приведенные в таблице страны.\nA) Зерно\nB) Хлопок\nC) Уголь\nD) Стекло\n\n32. Этот город является крупным центром добычи руд тяжелой промышленности не только\nКазахстана, но и мира. Административный центр района с населением в самом городе 25000\nчеловек. Город вошел в план развития моногородов Казахстана, и лидирует по экономико-\nсоциальному положению населения.\nA) Риддер\nB) Лисаковск\nC) Каратау\nD) Хромтау\n\n33. Мы все привыкли, что на разных языках привычные названия стран меняются. Например\nВенгрия на казахском будет Маджарстан, Черногория на английском будет Montenegro.\nИзучив таблицу, определите, как мы называем эту страну?\n\nА) Украина\nB) Польша\nC) Россия\nD) Хорватия\n\n34. Что показывает данная анаморфоза?\nA) Грузооборот нефтяных танкеров (по приписке)\nB) Количество заключенных на 100 000 человек\nC) Количество безработных\nD) Экспортеры цитрусовых\n\n35. Что закрашено оранжевым цветом?\nA. Сахара\nB. Проект возможного трансафриканского водного канала\nC. Сахель\nD. Зона с критической повышенностью испарения\n\n36. В современном государстве Ливан проживает большая диаспора одного из кавказских\nнародов. Эта диаспора занимает в структуре населения около 6%, что в итого занимает 2\nместо после арабов. Этот народ примечателен тем, что является приверженцами христианской\nрелигии и смогла создать очень влиятельную оппозиционную партию в Ливане. Определите\nэтот народ?\nA) Грузины\nB) Осетины\nC) Абхазы\nD) Армяне\n\n37. Delta of what river is shown on the picture?\nA) Dniester\nB) Amazon\nC) Danube\nD) Mississippi\n\n38. Определите расстояние между Дублином (6° з.д.) и Минском (27,5° в.д.) по параллели\n53,5° с.ш. (1° - 66 км).\nA) 2211 км\nB) 1419 км\nC) 1772 км\nD) 1491 км\n\n39. At the foothills of what mountain system are the terai located ?\nA) Cordillera\nB) Himalaya\nC) Karakoram\nD) Alps\n\n40. На рисунке представлена полярная азимутальная проекция. Каждой из точек\nсоответствуют определенные географические объекты: Южный магнитный полюс, Южный\nполюс, Южный полюс недоступности, Южный геомагнитный полюс. Укажите, какой точке\nсоответствует Южный магнитный полюс.\nE. 1\nF. 2\nG. 3\nH. 4",
-   "total": 7,
+   "title": "Задание 4",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
    "parts": [
     {
-     "id": "4",
-     "question": "Приведите полное решение (с доказательством или выводом).",
-     "points": 7,
+     "id": "4.1",
+     "points": 1,
      "pointsEstimated": true,
+     "question": "Главным католическим собором страны и усыпальница королей Богемии является:\nА) Храм Святого Саввы, Дюссельдорф\nВ) Собор Святого Патрика, Дублин\nС) Собор Святого Вита, Прага\nD) Собор Успения Святой Девы Марии, Краков",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "title": "Задание 6",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "6.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Сооружение мостового типа, возводимое на пересечении дороги с глубоким оврагом, лощиной, горным ущельем называется?\nE) Левада\nF) Эстакада\nG) Ропак\nH) Виадук",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "title": "Задание 7",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "7.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Какое из утверждений неверное?\nE) Алакольский заповедник образован в 1998 году. Заповедник расположен в Алматинской области. Под охраной находится береговой водно-болотный ландшафт\nF) На озере Тениз гнездятся стаи розовых фламинго. Это самое северное в Евразии гнездовье этих редких птиц.\nG) На склонах хребта Каратау находится палеонтологический филиал заповедника. Здесь сохранились останки разных редких рыб, морских животных и растений юрского периода\nH) Маркакольский заповедник создан в 1972 году. Он расположен в Зыряновском районе Восточно-Казахстанской области на высоте 1847 м над уровнем моря",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 8,
+   "title": "Задание 8",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "8.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Какой из хребтов не входит в горную систему Тянь-Шаня:\nA) Угамский хребет\nB) хребет Кетмень\nC) хребет Азутау\nD) Кунгей Алатау",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 9,
+   "title": "Задание 9",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "9.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "What is shown on the picture below?\nA) minerals\nB) seaweed\nC) seawater\nD) sea sand",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 10,
+   "title": "Задание 10",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "10.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Какая форма складки рельефа изображена на рисунках?\nA) диапир\nB) шток\nC) дайка\nD) бисмалит",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 11,
+   "title": "Задание 11",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "11.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Что показывает данная анаморфоза?\nA) экспорт зерновых (в долларах США)\nB) импорт фруктов (в долларах США)\nC) число международных прибывших туристов\nD) экспорт игрушек (в долларах США)",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 12,
+   "title": "Задание 12",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "12.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "The sizes of the circles on the image are proportional to:\nA. the depth of the epicenters of earthquakes\nB. the energy released at the focuses of earthquakes\nC. the potential for damage produced by earthquakes\nD. the speed of magma flowing through volcanoes",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 13,
+   "title": "Задание 13",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "13.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Динамика какой отрасли экономики представлена на рисунке под № 3?\nA) Сфера услуг\nB) Добывающая промышленность\nC) Сельское хозяйство\nD) Обрабатывающая промышленность",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 14,
+   "title": "Задание 14",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "14.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Тропическое кустарниковое растение из семейства молочайных, с богатым крахмалом клубневидными корнями, из которых готовят питательную муку?\nA) маниока\nB) батат\nC) ямс\nD) топинамбур",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 15,
+   "title": "Задание 15",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "15.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "What is shown on the below space image?\nA) rice fields in China\nB) mountain Taranaki in New Zealand\nC) hilly terrain in India\nD) complex of lakes in Canada",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 16,
+   "title": "Задание 16",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "16.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "В какой стране Африки французский язык является официальным языком?\nА) 3\nВ) 23\nC) 29\nD) 14",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 17,
+   "title": "Задание 17",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "17.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Какой из перечисленных субъектов федерации Австралии не имеет статуса штата?\nА) 1\nВ) 2\nC) 3\nD) 8",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 18,
+   "title": "Задание 18",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "18.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Этот тип вулкана образуются в результате многократных выбросов жидкой лавы. Эта форма характерна для вулканов, извергающих базальтовую лаву низкой вязкости: она длительное время вытекает как из центрального жерла, так и из боковых кратеров вулкана?\nА) щитовидные вулканы\nВ) шлаковые конусы\nC) купольные вулканы\nD) стратовулканы",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 19,
+   "title": "Задание 19",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "19.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "NESTLE – is the world's largest food company, it has an annual turnover about 67 billion dollars. Where is its head office located?\nA) Denmark, Copenhagen\nB) Switzerland, Geneva\nB) Switzerland, Vevey\nD) Netherlands, Hague",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 20,
+   "title": "Задание 20",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "20.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Какая природная зона Казахстана обозначена цифрой VI ?\nА) субтропическая пустынная\nВ) среднеазиатская предгорно-пустынная\nC) предгорно-пустынно-степная\nD) среднеазиатская горная",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 21,
+   "title": "Задание 21",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "21.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Для какой страны характерен способ выплавки стали под номером 3?\nА) США\nВ) Россия\nC) Япония\nD) ФРГ",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 22,
+   "title": "Задание 22",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "22.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "For which countries such state borders division are characterized?\nA) Gambia and Senegal\nB) India and Bangladesh\nC) South African Republic and Lesotho\nD) Netherlands and Belgium",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 23,
+   "title": "Задание 23",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "23.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Эта страна получила независимость в 1804 году от Франции в результате успешной революции. Остров, на котором расположена страна, был открыт Христофором Колумбом в 1492 году и назван им тогда Эспаньолой?\nA) Гаити\nB) Доминиканская Республика\nC) Филиппины\nD) Тринидад и Тобаго",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 24,
+   "title": "Задание 24",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "24.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "На рисунке изображена известная вам страна. Назовите ее, и какой тип берега ей соответствует?\nA) Испания, риасовый\nB) Норвегия, фьордовый\nC) Хорватия, далматинский\nD) Швеция, шхерный",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 25,
+   "title": "Задание 25",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "25.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "On the Earth there are 14 Eight-thousander peaks, 10 of them are located in the Himalayas, where are the other four peaks located?\nA) Kunlun\nB) Pamir\nC) Alps\nD) Karakoram",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 26,
+   "title": "Задание 26",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "26.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "На рисунке показан транзит специфического «товара» из Афганистана. Определите какого «товара» идет трафик?\nA) Наркотиков\nB) Цветков мака\nC) Вооружения\nD) Беженцев",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 27,
+   "title": "Задание 27",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "27.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "По данным бюро переписей и прогнозов США к 2030 году эта страна войдет в пятерку густонаселенных стран мира, с приблизительным население в 250 000 000 человек.\nA) Эфиопия\nB) Нигерия\nC) Бангладеш\nD) Мексика",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 28,
+   "title": "Задание 28",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "28.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Единая характеристика для выделенных цветами стран мира:\nA) Страны движения неприсоединения\nB) Страны Британского Содружества\nC) Официальным языком является - английский\nD) Неевропейские страны, признавшие независимость Косово",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 29,
+   "title": "Задание 29",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "29.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "В апреле 2011 года в одном из областей Республики Казахстан произошел один из самых масштабных водных паводках региона. Наиболее интенсивным и высоким был паводок на реках Чаган и Деркул. Были жертвы среди людского населения. Определите в какой области произошел паводок?\nA) Восточно-Казахстанская область\nB) Западно-Казахстанская область\nC) Жамбылская область\nD) Алматинская область",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 30,
+   "title": "Задание 30",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "30.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Which of the following organizations Kazakhstan is not member?\nA) Organization for Democracy and Economic Development\nB) The Islamic Development Bank\nC) Organization for Security and Cooperation in Europe\nD) Collective Security Treaty Organization",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 31,
+   "title": "Задание 31",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "31.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Наступление промышленной революции в Британии обусловило взрывное развитие ______ индустрии. А город Манчестер стал центром мировой торговли этим продуктом. В настоящее время лидерами в этой отрасли являются приведенные в таблице страны.\nA) Зерно\nB) Хлопок\nC) Уголь\nD) Стекло",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 32,
+   "title": "Задание 32",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "32.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Этот город является крупным центром добычи руд тяжелой промышленности не только Казахстана, но и мира. Административный центр района с населением в самом городе 25000 человек. Город вошел в план развития моногородов Казахстана, и лидирует по экономико-социальному положению населения.\nA) Риддер\nB) Лисаковск\nC) Каратау\nD) Хромтау",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 33,
+   "title": "Задание 33",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "33.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Мы все привыкли, что на разных языках привычные названия стран меняются. Например Венгрия на казахском будет Маджарстан, Черногория на английском будет Montenegro. Изучив таблицу, определите, как мы называем эту страну?\nА) Украина\nB) Польша\nC) Россия\nD) Хорватия",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 34,
+   "title": "Задание 34",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "34.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Что показывает данная анаморфоза?\nA) Грузооборот нефтяных танкеров (по приписке)\nB) Количество заключенных на 100 000 человек\nC) Количество безработных\nD) Экспортеры цитрусовых",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 35,
+   "title": "Задание 35",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "35.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Что закрашено оранжевым цветом?\nA. Сахара\nB. Проект возможного трансафриканского водного канала\nC. Сахель\nD. Зона с критической повышенностью испарения",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 36,
+   "title": "Задание 36",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "36.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "В современном государстве Ливан проживает большая диаспора одного из кавказских народов. Эта диаспора занимает в структуре населения около 6%, что в итого занимает 2 место после арабов. Этот народ примечателен тем, что является приверженцами христианской религии и смогла создать очень влиятельную оппозиционную партию в Ливане. Определите этот народ?\nA) Грузины\nB) Осетины\nC) Абхазы\nD) Армяне",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 37,
+   "title": "Задание 37",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "37.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Delta of what river is shown on the picture?\nA) Dniester\nB) Amazon\nC) Danube\nD) Mississippi",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 38,
+   "title": "Задание 38",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "38.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "Определите расстояние между Дублином (6° з.д.) и Минском (27,5° в.д.) по параллели 53,5° с.ш. (1° - 66 км).\nA) 2211 км\nB) 1419 км\nC) 1772 км\nD) 1491 км",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 39,
+   "title": "Задание 39",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "39.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "At the foothills of what mountain system are the terai located ?\nA) Cordillera\nB) Himalaya\nC) Karakoram\nD) Alps",
+     "reference": ""
+    }
+   ]
+  },
+  {
+   "number": 40,
+   "title": "Задание 40",
+   "weight": 1,
+   "total": 1,
+   "statement": "",
+   "parts": [
+    {
+     "id": "40.1",
+     "points": 1,
+     "pointsEstimated": true,
+     "question": "На рисунке представлена полярная азимутальная проекция. Каждой из точек соответствуют определенные географические объекты: Южный магнитный полюс, Южный полюс, Южный полюс недоступности, Южный геомагнитный полюс. Укажите, какой точке соответствует Южный магнитный полюс.\nE. 1\nF. 2\nG. 3\nH. 4",
      "reference": ""
     }
    ]
