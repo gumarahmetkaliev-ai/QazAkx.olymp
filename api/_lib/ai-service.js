@@ -441,6 +441,8 @@ async function callGemini(apiKey, systemPrompt, userPrompt, model = null, opts =
   const candidateModels = [
     configuredModel,
     "gemini-flash-latest",
+    "gemini-3.8-flash",
+    "gemini-3.5-flash",
     "gemini-flash-lite-latest",
     "gemini-pro-latest",
     "gemini-3.1-pro-preview",
@@ -495,6 +497,15 @@ async function callGemini(apiKey, systemPrompt, userPrompt, model = null, opts =
           throw new Error(`Invalid Gemini API Key: ${errorMsg}`);
         }
         if (response.status === 429) continue; // у каждой модели своя квота — пробуем следующую
+        // «high demand» — временно: один повтор через 2 с
+        if (/high demand|overloaded/i.test(errorMsg) && !opts._retried) {
+          await new Promise((r) => setTimeout(r, 2000));
+          try {
+            return await callGemini(apiKey, systemPrompt, userPrompt, currentModel, { ...opts, models: [currentModel], _retried: true });
+          } catch (e) {
+            tried.push(`${currentModel} (повтор): ${String(e.message).slice(0, 120)}`);
+          }
+        }
         continue;
       }
 
