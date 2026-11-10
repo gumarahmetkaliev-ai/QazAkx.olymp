@@ -390,8 +390,8 @@ async function callOmniRoute(apiKey, systemPrompt, userPrompt, model = null, max
 /**
  * Call Google Gemini API
  */
-async function callGemini(apiKey, systemPrompt, userPrompt, model = null) {
-  const configuredModel = process.env.GEMINI_MODEL || model || "gemini-2.5-flash";
+async function callGemini(apiKey, systemPrompt, userPrompt, model = null, opts = {}) {
+  const configuredModel = model || process.env.GEMINI_MODEL || "gemini-2.5-flash";
   // Only include models that are actually supported by the current Gemini API.
   // gemini-1.5-pro and gemini-1.5-flash are deprecated and return 404.
   // gemini-2.5-* и 1.5-* для новых ключей больше недоступны — сначала алиасы на актуальные модели
@@ -404,7 +404,7 @@ async function callGemini(apiKey, systemPrompt, userPrompt, model = null) {
     "gemini-2.5-flash",
   ];
 
-  const modelsToTry = [...new Set(candidateModels)];
+  const modelsToTry = [...new Set(opts.models || candidateModels)];
   let lastError = null;
   const tried = [];
 
@@ -425,7 +425,8 @@ async function callGemini(apiKey, systemPrompt, userPrompt, model = null) {
           temperature: 0.2,
           topP: 0.95,
           // новые модели Gemini «думают» за счёт этого лимита — при 3000 ответ приходил пустым
-          maxOutputTokens: 16384,
+          maxOutputTokens: opts.maxOutputTokens || 16384,
+          ...(opts.json ? { responseMimeType: "application/json" } : {}),
         },
       };
 
@@ -436,7 +437,7 @@ async function callGemini(apiKey, systemPrompt, userPrompt, model = null) {
           "x-goog-api-key": apiKey,
         },
         body: JSON.stringify(payload),
-      }, Number(process.env.GEMINI_TIMEOUT_MS) || 50000);
+      }, opts.timeoutMs || Number(process.env.GEMINI_TIMEOUT_MS) || 50000);
 
       const data = await response.json();
 
@@ -1031,6 +1032,7 @@ function getAIHealth() {
 }
 
 module.exports = {
+  callGemini,
   loadEnv,
   getApiKeys,
   getApiKey: getApiKeys,

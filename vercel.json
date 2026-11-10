@@ -2,7 +2,7 @@
   "cleanUrls": false,
   "functions": {
     "api/grade.js": {
-      "maxDuration": 60,
+      "maxDuration": 300,
       "includeFiles": "data/**"
     },
     "api/task-set.js": {

@@ -13,7 +13,7 @@ function readBody(req) {
     let raw = "";
     req.on("data", (c) => {
       raw += c;
-      if (raw.length > 200000) req.destroy();
+      if (raw.length > 600000) req.destroy();
     });
     req.on("end", () => {
       try { resolve(raw ? JSON.parse(raw) : {}); } catch { resolve({}); }
@@ -33,6 +33,26 @@ module.exports = async function handler(req, res) {
   if (req.method !== "POST") return send(res, 405, { success: false, error: "METHOD_NOT_ALLOWED" });
   try {
     const body = await readBody(req);
+    // Служебный режим для scripts/build-tasks.js --ai=prod: разбор комплекта ключом Gemini с сервера.
+    // Доступен только с секретом ADMIN_TOKEN (переменная окружения Vercel).
+    if (body.mode === "structure") {
+      const token = process.env.ADMIN_TOKEN;
+      if (!token || req.headers["x-admin-token"] !== token) return send(res, 403, { success: false, error: "FORBIDDEN" });
+      const { callGemini, getApiKeys } = require("./_lib/ai-service");
+      const key = getApiKeys().geminiKey;
+      if (!key) return send(res, 503, { success: false, error: "NO_GEMINI_KEY" });
+      try {
+        const r = await callGemini(key, String(body.system || ""), String(body.prompt || ""), body.model || null, {
+          models: Array.isArray(body.models) ? body.models : undefined,
+          maxOutputTokens: Number(body.maxOutputTokens) || 65536,
+          json: true,
+          timeoutMs: 280000,
+        });
+        return send(res, 200, { success: true, text: r.text, model: r.model });
+      } catch (err) {
+        return send(res, 502, { success: false, error: String(err.message).slice(0, 1500) });
+      }
+    }
     const out = await gradeTask({
       setId: body.setId,
       taskNumber: body.taskNumber,

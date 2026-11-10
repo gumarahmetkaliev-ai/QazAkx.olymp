@@ -128,7 +128,91 @@ const AI_SCHEMA_HINT = `{
   ]
 }`;
 
+const SUBJECT_OF = { chemistry: "химии", biology: "биологии", physics: "физике", math: "математике", informatics: "информатике", astronomy: "астрономии", geography: "географии" };
+
+/** Привести ответ ИИ к формату комплекта */
+function sanitizeAiTasks(tasks) {
+  const num = (x) => {
+    const n = Number(String(x ?? "").replace(",", "."));
+    return Number.isFinite(n) && n > 0 ? n : null;
+  };
+  return (Array.isArray(tasks) ? tasks : [])
+    .filter((t) => t && Array.isArray(t.parts) && t.parts.length)
+    .map((t, i) => {
+      const number = Number.isInteger(Number(t.number)) && Number(t.number) > 0 ? Number(t.number) : i + 1;
+      const ids = new Set();
+      const parts = t.parts.map((p, j) => {
+        let id = String(p.id || `${number}.${j + 1}`).trim().slice(0, 20);
+        if (ids.has(id)) id = `${id}-${j + 1}`;
+        ids.add(id);
+        const points = num(p.points);
+        return {
+          id,
+          points: points ?? 1,
+          ...(p.pointsEstimated || points == null ? { pointsEstimated: true } : {}),
+          question: String(p.question || "").trim(),
+          reference: String(p.reference || "").trim(),
+        };
+      });
+      const sum = parts.reduce((a, p) => a + p.points, 0);
+      return {
+        number,
+        title: String(t.title || `Задача ${number}`).trim().slice(0, 140),
+        weight: num(t.weight) || undefined,
+        total: num(t.total) || sum,
+        statement: String(t.statement || "").trim(),
+        parts,
+      };
+    })
+    .filter((t, i, arr) => arr.findIndex((x) => x.number === t.number) === i);
+}
+
+/** Разбор через сайт (ключ Gemini хранится на Vercel): STRUCTURE_URL + ADMIN_TOKEN */
+async function structureViaSite(prompt) {
+  const res = await fetch(process.env.STRUCTURE_URL, {
+    method: "POST",
+    headers: { "Content-Type": "application/json", "x-admin-token": process.env.ADMIN_TOKEN },
+    body: JSON.stringify({ mode: "structure", prompt, system: "Ты аккуратно переносишь олимпиадные задания в JSON. Отвечаешь только JSON.", models: (process.env.STRUCTURE_MODELS || "gemini-flash-latest,gemini-flash-lite-latest").split(",") }),
+    signal: AbortSignal.timeout(320000),
+  });
+  const raw = await res.text();
+  let data;
+  try {
+    data = JSON.parse(raw);
+  } catch {
+    throw new Error(`HTTP ${res.status}: ${raw.slice(0, 120).replace(/\s+/g, " ")}`);
+  }
+  if (!data.success) throw new Error(data.error || `HTTP ${res.status}`);
+  const text = data.text;
+  const json = JSON.parse(text.slice(text.indexOf("{"), text.lastIndexOf("}") + 1));
+  return { tasks: sanitizeAiTasks(json.tasks), model: data.model };
+}
+
 async function structureWithAI(tasksText, solText) {
+  const subjectOf = SUBJECT_OF[SUBJECT] || "химии";
+  if (process.env.STRUCTURE_URL && process.env.ADMIN_TOKEN) {
+    const prompt = `Ниже текст PDF с заданиями олимпиады по ${subjectOf}${solText ? " и текст PDF с официальными решениями жюри" : " (официальных решений нет)"}. Текст извлечён из PDF: возможны две колонки (казахский и русский рядом), разорванные формулы, мусор от вёрстки.
+Разбей комплект на задачи и пункты. Если текст есть и на русском, и на казахском — бери РУССКИЙ вариант (если русского нет — тот язык, что есть). Тестовые вопросы с вариантами ответа: каждый вопрос — отдельный пункт; варианты включи в "question".
+Для каждого пункта: баллы, формулировка вопроса, эталон — решение/ответ жюри к этому пункту и критерии оценивания, как в тексте решений (можно убрать мусор вёрстки, но не придумывай). ${solText ? "" : "Решений нет — поле reference оставь пустым."}
+Если в задаче нет явных пунктов — один пункт "N.1" с полными баллами задачи.
+Баллы — из официальной разбалловки (таблицы баллов, «Система оценивания», «(N баллов)», «Каждая задача оценивается в N баллов»). Если баллов за пункт нет — оцени пропорционально и поставь "pointsEstimated": true.
+Условие задачи (statement) — полностью, кроме текста самих пунктов. Не сокращай условия.
+Ответь ТОЛЬКО JSON по схеме:
+${AI_SCHEMA_HINT}
+
+=== ЗАДАНИЯ ===
+${tasksText.slice(0, 60000)}
+${solText ? `\n=== РЕШЕНИЯ ===\n${solText.slice(0, 90000)}` : ""}`;
+    for (let attempt = 1; ; attempt++) {
+      try {
+        return await structureViaSite(prompt);
+      } catch (err) {
+        const retriable = /quota|rate.?limit|429|timed? ?out|502|503|504|overload|Unexpected end|JSON/i.test(err.message);
+        if (!retriable || attempt >= 3) throw err;
+        await new Promise((r) => setTimeout(r, attempt * 30000));
+      }
+    }
+  }
   // OmniRoute (OpenAI-совместимый) или OpenRouter
   const omniKey = process.env.OMNIROUTE_API_KEY;
   const omniEndpoint = (process.env.OMNIROUTE_ENDPOINT || "").trim().replace(/\/+$/, "");
@@ -332,7 +416,7 @@ async function main() {
     if (!test && !isGood(q) && args.ai && tasksText.replace(/\s/g, "").length > 300) {
       try {
         const t0 = Date.now();
-        const ai = await structureWithAI(tasksText, solText);
+        const ai = await structureWithAI(linearize(tasksText).text, linearize(solText).text);
         const aq = qualityReport(ai.tasks);
         // ИИ-разбор берём, если у него есть баллы у всех пунктов и эталонов не меньше, чем у парсера
         if (aq.tasks && aq.withPoints === aq.parts && aq.withReference >= Math.min(q.withReference, aq.parts * 0.6)) {
