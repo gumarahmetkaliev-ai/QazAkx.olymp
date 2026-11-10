@@ -472,6 +472,8 @@ async function main() {
     console.log(`${isGood(q) ? "✓" : "~"} ${label}: ${q.tasks} задач, ${q.parts} пунктов, эталон у ${q.withReference}${est}`);
   }
 
+  // Сначала казахстанские этапы и свежие годы — их решают чаще всего
+  if (args.ai) jobs.sort((a, b) => (a.olymp.stageGroup === "kz" ? 0 : 1) - (b.olymp.stageGroup === "kz" ? 0 : 1) || (b.olymp.year || 0) - (a.olymp.year || 0));
   const concurrency = args.ai ? Number(args.concurrency || 3) : 1;
   let next = 0;
   await Promise.all(
